@@ -1,0 +1,13 @@
+{
+    "quest": {
+      "title": "Zaginiony Kamień",
+      "summary": "Kamień mocy został skradziony z klasztoru przez nieznanego sprawcę."
+    },
+    "npcs": [
+      {"name": "Siostra Elvira", "role": "Zakonnica", "trait": "Tajemnicza"},
+      {"name": "Brat Konrad", "role": "Mnich", "trait": "Nerwowy"},
+      {"name": "Strażnik Laris", "role": "Ochroniarz", "trait": "Zbyt spokojny"},
+      {"name": "Adept Miro", "role": "Uczeń", "trait": "Dociekliwy"},
+      {"name": "Opat Erwald", "role": "Przełożony", "trait": "Surowy"}
+    ]
+  }
