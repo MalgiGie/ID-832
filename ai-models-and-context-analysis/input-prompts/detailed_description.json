@@ -1,0 +1,75 @@
+{
+    "quest": {
+      "title": "Zaginiony Kamień",
+      "summary": "Kamień mocy zaginął z klasztoru Valmor. Podejrzewa się wewnętrzną zdradę.",
+      "location": "Klasztor Valmor, góry Mrocznego Grzbietu",
+      "tone": "tajemniczy, napięty",
+      "last_known_event": "Kamień widziano ostatnio w kaplicy przed wieczornym nabożeństwem."
+    },
+    "npcs": [
+      {
+        "name": "Siostra Elvira",
+        "role": "Zakonnica",
+        "personality": "Spokojna, lecz skrywa tajemnice",
+        "background": "Była zielarką w odległej wiosce, dołączyła do klasztoru po śmierci męża.",
+        "relationships": {
+          "Brat Konrad": "nie ufa mu, uważa że coś ukrywa"
+        },
+        "secrets": [
+          "Widziała, jak ktoś wychodził z kaplicy nocą, ale nie zgłosiła tego."
+        ]
+      },
+      {
+        "name": "Brat Konrad",
+        "role": "Mnich",
+        "personality": "Nerwowy, impulsywny",
+        "background": "Przybył do klasztoru rok temu, niewiele wiadomo o jego przeszłości.",
+        "relationships": {
+          "Siostra Elvira": "nie lubi jej osądzającego spojrzenia",
+          "Strażnik Laris": "ma z nim nieformalny układ wymiany informacji"
+        },
+        "secrets": [
+          "Zna zaklęcie, które może ukryć przedmioty na czas rytuałów."
+        ]
+      },
+      {
+        "name": "Strażnik Laris",
+        "role": "Ochroniarz klasztoru",
+        "personality": "Zewnętrznie spokojny, wewnętrznie pełen niepokoju",
+        "background": "Były najemnik, dołączył do zakonu jako forma pokuty.",
+        "relationships": {
+          "Brat Konrad": "czasem przekazuje mu informacje o ruchach innych",
+          "Adept Miro": "traktuje go jak młodszego brata"
+        },
+        "secrets": [
+          "Zniknął z posterunku na 20 minut tuż przed zaginięciem kamienia."
+        ]
+      },
+      {
+        "name": "Adept Miro",
+        "role": "Uczeń magiczny",
+        "personality": "Dociekliwy, bystry, ale naiwny",
+        "background": "Sierota oddany zakonowi przez wiejską wspólnotę",
+        "relationships": {
+          "Strażnik Laris": "ufa mu całkowicie",
+          "Opat Erwald": "boi się jego gniewu"
+        },
+        "secrets": [
+          "Znalazł coś błyszczącego w ogrodzie, ale ukrył to, nie wiedząc, czym jest."
+        ]
+      },
+      {
+        "name": "Opat Erwald",
+        "role": "Przełożony klasztoru",
+        "personality": "Surowy, sprawiedliwy, ale zbyt dumny",
+        "background": "Zbudował zakon niemal od zera. Traktuje go jak swoje dziecko.",
+        "relationships": {
+          "Adept Miro": "widzi w nim potencjał, ale nie okazuje tego",
+          "Siostra Elvira": "szanuje jej oddanie"
+        },
+        "secrets": [
+          "Kamień był częścią zakazanego rytuału, o którym nikt nie powinien wiedzieć."
+        ]
+      }
+    ]
+  }
