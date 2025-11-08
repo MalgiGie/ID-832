@@ -6,22 +6,32 @@ from utils import *
 from config import *
 
 SYSTEM_PROMPT = (
-    "Jesteś narratorem fantasy i twórcą świata RPG. Twórz spójne, rozbudowane opisy miasta, okolic, budynków i polityki/gildii. "
-    "Dodawaj historie, legendy, zależności i konflikty. Twórz JSON w formacie podanym w prompt, "
-    "z dużą ilością szczegółów i ciekawymi nazwami."
+    "Jesteś narratorem fantasy i twórcą świata RPG. "
+    "Twórz spójne, rozbudowane opisy miast, okolic, budynków i polityki/gildii. "
+    "Dodawaj historie, legendy, zależności i konflikty. "
+    "Zawsze generuj wynik w poprawnym formacie JSON (RFC 8259). "
+    "Używaj tylko cudzysłowów (\") do oznaczania kluczy i wartości tekstowych. "
+    "Nie dodawaj żadnego tekstu przed ani po JSON. "
+    "Nie dodawaj komentarzy, markdowna, kodu ani objaśnień — tylko czysty JSON."
 )
 
 prompt = (
-    "Wygeneruj rozbudowany świat fantasy w JSON.\n"
-    "Miasto: pełny opis, historia, architektura, mieszkańcy.\n"
-    "Otoczenie: min. 5 lokacji, każda z legendą, historią lub ciekawym faktem.\n"
-    "Budynki: min. 5 charakterystycznych budynków, ich znaczenie, mieszkańcy, historia.\n"
-    "Polityka/gildie: min. 5 gildii, ich role, konflikty, zależności między nimi.\n"
-    "Dodaj kilka ciekawostek i zależności między lokacjami, budynkami i gildiiami.\n"
-    "Zwróć wyłącznie JSON w formacie:\n"
-    "{'city':'','surroundings':[...],'buildings':[...],'politics':[...]}."
+    "Wygeneruj rozbudowany świat fantasy jako **czysty JSON**.\n"
+    "Zawartość:\n"
+    "- city: pełny opis miasta (historia, architektura, mieszkańcy)\n"
+    "- surroundings: lista min. 5 lokacji, każda z legendą, historią lub ciekawostką\n"
+    "- buildings: lista min. 5 charakterystycznych budynków, z ich znaczeniem, mieszkańcami i historią\n"
+    "- politics: lista min. 5 gildii lub frakcji, z opisem ich roli, konfliktów i zależności między nimi\n"
+    "- ciekawostki i zależności między lokacjami, budynkami i gildiiami\n\n"
+    "Format JSON (dokładnie taki, bez apostrofów):\n"
+    "{\n"
+    "  \"city\": \"\",\n"
+    "  \"surroundings\": [ ... ],\n"
+    "  \"buildings\": [ ... ],\n"
+    "  \"politics\": [ ... ]\n"
+    "}\n\n"
+    "Zwróć **wyłącznie** poprawny JSON — bez dodatkowych opisów ani tekstu."
 )
-
 def extract_json(text):
     try:
         return json.loads(text)

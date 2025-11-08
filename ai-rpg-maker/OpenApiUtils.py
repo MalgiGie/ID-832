@@ -24,7 +24,7 @@ def ask_model(system_prompt, prompt, temperature, max_tokens, label=None):
             {"role": "user", "content": prompt}
         ],
         temperature=temperature,
-        max_tokens=max_tokens,
+        max_completion_tokens=max_tokens,
     )
     text = resp.choices[0].message.content
     usage = getattr(resp, "usage", None)

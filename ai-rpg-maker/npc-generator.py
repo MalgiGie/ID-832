@@ -5,13 +5,41 @@ from utils import *
 from config import *
 
 SYSTEM_PROMPT = (
-    "Jesteś narratorem RPG i twórcą postaci. Twórz szczegółowe karty NPC w świecie fantasy. "
-    "Każda karta zawiera: imię, nazwisko, rasę, wiek, wygląd, charakter, cechy, umiejętności, wady, marzenia, tajemnice. "
-    "Twórz też relacje między NPC: przyjaźnie, rywalizacje, sojusze, konflikty. "
-    "Opisuj postacie szczegółowo, spójnie, w klimacie fantasy. "
-    "Zwracaj wyłącznie JSON: {'npcs':[...]}."
+    "Jesteś narratorem RPG i twórcą postaci w świecie fantasy. "
+    "Tworzysz szczegółowe, spójne i klimatyczne karty postaci (NPC). "
+    "Każda karta zawiera pola: imię, nazwisko, rasa, wiek, wygląd, charakter, cechy, umiejętności, "
+    "wrodzone talenty, wady, marzenia, tajemnice oraz relacje z innymi NPC. "
+    "Relacje mają jeden z dozwolonych typów: "
+    "[\"Przyjaźń\", \"Sojusz\", \"Rywalizacja\", \"Konflikt\", \"Wrogość\", \"Nienawiść\", "
+    "\"Zemsta\", \"Współpraca\", \"Odmienne cele\", \"neutral\"]. "
+    "Zawsze generuj wynik w poprawnym formacie JSON (zgodnym z RFC 8259). "
+    "Używaj wyłącznie cudzysłowów (\") do oznaczania kluczy i wartości tekstowych. "
+    "Nie dodawaj żadnego tekstu, komentarzy ani markdowna przed ani po JSON. "
+    "Nie formatuj jako blok kodu (bez ```json```). "
+    "Zwróć dokładnie jeden obiekt JSON o strukturze:\n"
+    "{\n"
+    "  \"npcs\": [\n"
+    "    {\n"
+    "      \"name\": \"\",\n"
+    "      \"surname\": \"\",\n"
+    "      \"race\": \"\",\n"
+    "      \"age\": liczba,\n"
+    "      \"appearance\": \"\",\n"
+    "      \"character\": \"\",\n"
+    "      \"skills\": [\"...\"],\n"
+    "      \"talents\": [\"...\"],\n"
+    "      \"flaws\": [\"...\"],\n"
+    "      \"dreams\": [\"...\"],\n"
+    "      \"secrets\": [\"...\"],\n"
+    "      \"relations\": [\n"
+    "        {\"npc_name\": \"\", \"relation_type\": \"jedna z dozwolonych wartości\"}\n"
+    "      ]\n"
+    "    }\n"
+    "  ]\n"
+    "}\n"
+    "Zwróć wyłącznie czysty JSON — bez dodatkowego tekstu ani objaśnień. "
+    "Jeśli nie możesz wygenerować poprawnego JSON, zwróć pusty obiekt: {}"
 )
-
 def extract_json(text):
     try:
         return json.loads(text)
@@ -56,17 +84,23 @@ def main():
     if not world:
         return
     prompt = (
-            "Na podstawie tego świata generuj 10-15 unikalnych NPC. "
-            "Świat: " + json.dumps(world) +
-            "Twórz szczegółowe karty postaci z imieniem, nazwiskiem, rasą, wiekiem, wyglądem, charakterem, umiejętnościami, "
-            "wrodzonymi talentami, wadami, marzeniami, tajemnicami. "
-            "Każdy NPC powinien mieć także relacje z innymi NPC. "
-            "Dozwolone typy relacji są tylko z poniższego zbioru i żadne inne: "
-            "['Przyjaźń', 'Sojusz', 'Rywalizacja', 'Konflikt', 'Wrogość', 'Nienawiść', 'Zemsta', 'Współpraca', 'Odmienne cele', 'neutral']. "
-            "Dobieraj je w sposób spójny z charakterem i fabułą postaci. "
-            "Zwróć JSON w formie {'npcs':[{'name':'','surname':'','race':'','age':,'appearance':'','character':'',"
-            "'skills':[],'talents':[],'flaws':[],'dreams':[],'secrets':[],"
-            "'relations':[{'npc_name':'','relation_type':''}]}]}"
+            "Na podstawie tego świata wygeneruj 10–15 unikalnych NPC w klimacie fantasy.\n\n"
+            "Świat (dane w JSON): " + json.dumps(world) + "\n\n"
+                                                          "Każdy NPC musi mieć:\n"
+                                                          "- imię i nazwisko,\n"
+                                                          "- rasę i wiek,\n"
+                                                          "- wygląd i charakter,\n"
+                                                          "- listy umiejętności, talentów, wad, marzeń i tajemnic,\n"
+                                                          "- relacje z innymi NPC (minimum 2 relacje na postać).\n\n"
+                                                          "Dozwolone typy relacji (i tylko te): "
+                                                          "[\"Przyjaźń\", \"Sojusz\", \"Rywalizacja\", \"Konflikt\", \"Wrogość\", "
+                                                          "\"Nienawiść\", \"Zemsta\", \"Współpraca\", \"Odmienne cele\", \"neutral\"].\n\n"
+                                                          "Dobieraj relacje logicznie i spójnie z charakterem i fabułą postaci. "
+                                                          "Zwróć wyłącznie poprawny JSON o strukturze:\n"
+                                                          "{\n"
+                                                          "  \"npcs\": [ { ... } ]\n"
+                                                          "}\n"
+                                                          "Nie dodawaj żadnego tekstu, objaśnień ani komentarzy poza JSON."
     )
 
     print("Generuję karty NPC...")
