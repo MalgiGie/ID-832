@@ -1,0 +1,44 @@
+{
+    "id": "M5",
+    "title": "The Headless Miller’s Shaft",
+    "quest_giver": "Mavek Dross",
+    "description": "The Tidewrights want the buried transmission shaft under Gallowhill reconnected to the Tide-Engine to ‘stabilize drift’—language that sounds like safety and tastes like leverage. Mavek Dross, a foreman with a voice like creaking timber, hires you to walk the undercroft, inspect the bricked mouth of the old shaft, and report on sabotage risks. He is not gentle and he is not a fool; he wants a blunt instrument he can claim was an independent eye. The hill sighs when the wind is in a certain quarter, and locals say the Headless Miller straightens ropes at night. In the murk of old gears and damp stone, you find fresh chalk marks matching Tomas’s bypass sketch. The old shaft hums like a held-in breath.",
+    "objectives": [
+        "Travel to the Gallowhill Windmills and descend into the undercroft.",
+        "Survey the bricked transmission shaft and document any fresh work.",
+        "Compare marks found with Tomas Helwin’s bypass sketches.",
+        "Decide whether to report findings fully to Mavek Dross or redact details.",
+        "Mark safe ingress and egress routes in case of later operation."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Mavek Dross",
+            "line": "Men like to talk about ghosts when their hands shake, and hills make cowards think of stories. I prefer measurements and walls I can kick. You will go down there and tell me whether I can trust old bricks to stay in their lane. If you find a lie laid in mortar, write its name on your report and I’ll grind it to dust with the rest."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "I’ve heard the hill breathe, Mavek, and I know the sound of a shaft that wants to turn. If you’re grafting the hill to the Engine to shave bells, say it. I’ll walk your dark and count your bolts, but if I find a path that leads straight to a dry basin, you’ll hear my boots on the Court’s floor before you hear them on yours."
+        },
+        {
+            "speaker": "Kara Dusk",
+            "line": "We’ve had pilots tumble off mill-walks in fog when the ropes were cut neat, not frayed. You tell Dross he has more enemies than wind and gossip. I’ll keep a skiff at the base in case you need to ride a downdraft to the river. Don’t look for the Miller; he helps those who don’t mock him and trips those who do."
+        },
+        {
+            "speaker": "Tomas Helwin",
+            "line": "Those chalk marks, Kade—those are my numbers, twisted by a hand that envies precision. Someone took our safety margins and turned them into a lever. If you hand Mavek the whole truth he’ll build a shrine to its usefulness. If you hand him half, he’ll fill the gap with concrete and call it faith."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ]
+    },
+    "rewards": [
+        "Detailed undercroft map (grants advantage on future movement in the Engine underworks)",
+        "Tidewrights stipend (coin) and a set of engineer’s chalks marked with gauge codes",
+        "Wardens extraction favor from Kara Dusk (emergency skiff pickup once)"
+    ]
+}

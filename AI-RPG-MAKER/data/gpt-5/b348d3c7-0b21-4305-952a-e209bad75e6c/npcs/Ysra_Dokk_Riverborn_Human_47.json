@@ -1,0 +1,76 @@
+{
+    "name": "Ysra",
+    "surname": "Dokk",
+    "race": "Riverborn Human",
+    "age": 47,
+    "appearance": "Stocky and river-strong with rope scars on both palms, woven hair charms of reed and amber, and a coat patched with a dozen crews’ colors.",
+    "character": "Wry and steady, a mother-wolf to boatfolk and a stone in any negotiation.",
+    "traits": [
+        "protective",
+        "street-wise",
+        "incorruptible to coin",
+        "superstitious in small things",
+        "patient"
+    ],
+    "skills": [
+        "pilotage under slack-tide",
+        "crew arbitration",
+        "backwater charting",
+        "dock strike organization",
+        "salvage-rights law"
+    ],
+    "talents": [
+        "hears silt shifts through boat timbers",
+        "charms angry crowds down with a story",
+        "predicts fog-thick by taste of air"
+    ],
+    "flaws": [
+        "holds grudges like anchors",
+        "won’t admit fear of deep channels",
+        "open contempt for Syndicate inspectors"
+    ],
+    "dreams": [
+        "win co-authority over trade-hour hinge openings",
+        "build a guild school to keep river-kids out of smuggling",
+        "recover a lost dock-bell from the Night of the Unmoored"
+    ],
+    "secrets": [
+        "Hides a smuggler’s shrine at Pilgrim’s Stair used as a shelter in worst storms",
+        "Has been paying a hush tithe to stop route leaks she suspects come from the Rookery",
+        "Kept evidence that a Parliament clerk altered a salvage writ against her people"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Rull Fen",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Lisi Jhak",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Kael Ibrin",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Gantrix Pell",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

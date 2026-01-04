@@ -1,0 +1,48 @@
+{
+    "id": "M4",
+    "title": "Brass Without Echo",
+    "quest_giver": "Sall Brass",
+    "description": "The Night Bazaar of Brass wakes when honest lamps sleep, its alleys stitched together by shadows that know the taste of coin. Mist-Matron Sall Brass offers to trade information for calm: a ledger of blindfold rulings and smuggling routes, and, more importantly, the location of a retired Tidewarden's private bribe book that could topple half the Lantern Court if it ever breathed. To expose the aqueduct bleed-valves without burning the city, you need leverage. But the Bazaar trades in names as currency, and the wrong purchase can erase your own.",
+    "objectives": [
+        "Meet Sall Brass in the hidden court behind a curtain of ringing bowls.",
+        "Locate the retiree Tidewarden's cavern locker beneath Pier Two.",
+        "Bypass Syndicate arbitration without breaking the Bazaar's rules.",
+        "Secure the bribe ledger and copy key entries using hush-ink.",
+        "Decide whether to deliver the original to the Temple, the Court, or the Syndicate.",
+        "Leave the Bazaar without triggering the dim-lamp alarm pattern."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sall Brass",
+            "line": "We sell the future by the thimble here, Thalen, and we buy silence by the bowl. The bribes ledger you sniff after has made stronger people than you forget how to speak their name. Take it cleanly and you will have a knife sharp enough to slice contracts you have never seen. But cut too deep and you'll bleed the city's trust onto the stones."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "I don't want throats cut. I want valves opened and oaths kept. If this ledger can keep the horn-barge at its mooring and make the Court listen to the river, I will risk my own name. But I will not trade my city's reflection for a handful of clean pages."
+        },
+        {
+            "speaker": "Miren Nine-Ropes",
+            "line": "You are walking caverns where our patrol boots dim the very lamps. If you find that book, know that some entries hum my commander's name and some hum mine. There are belts of duty and belts of shame, and sometimes they look the same in brass light. Do what you came to do, but don't humiliate us into rashness."
+        },
+        {
+            "speaker": "Sall Brass",
+            "line": "Touch nothing that wants to be touched, and offer a knot instead of a knife when you can. The Bazaar survives on balance, too. Bring me a copy so I know who owes who breath, and you can keep the original for whatever temple you trust. Remember: brass lamps dim for boots and brighten for courage."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2",
+            "M3"
+        ],
+        "next": [
+            "M5",
+            "M10"
+        ]
+    },
+    "rewards": [
+        "Copy of the Bribes Ledger (usable as leverage in negotiations)",
+        "+1 standing with Night Bazaar Syndicate",
+        "Two vials of certified Hush-Ink",
+        "Safe-passage token through Moonhook caverns (one-time use)"
+    ]
+}

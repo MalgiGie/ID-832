@@ -1,0 +1,58 @@
+{
+    "name": "Istel",
+    "surname": "Shardwright",
+    "race": "Human (Mirrorborn artisan)",
+    "age": 44,
+    "appearance": "Mirrored visor pushed up on a scarred cheek; ink-stained fingers and a belt of delicate polishing tools.",
+    "character": "Curious and proud, an aesthete who believes truth must refract before it can be seen.",
+    "traits": [
+        "Exacting",
+        "Superstitious about reflections",
+        "Patient teacher",
+        "Status-conscious"
+    ],
+    "skills": [
+        "Lens grinding",
+        "Mirror augury",
+        "Obsidian quarrying",
+        "Optical surveying"
+    ],
+    "talents": [
+        "Preternaturally steady hands",
+        "Senses singing glass veins",
+        "Glare tolerance"
+    ],
+    "flaws": [
+        "Vanity",
+        "Holds grudges",
+        "Neglects people for projects"
+    ],
+    "dreams": [
+        "Legitimize mirror augury in the Wind Court",
+        "Craft a lens to visualize knot tension fields",
+        "Lead the lens quarter"
+    ],
+    "secrets": [
+        "Listens to the Shattersea’s singing vein despite the madness it brings",
+        "Forged a guild seal to protect an apprentice from expulsion",
+        "Built a hidden mirror-portal in the Sky Market lens quarter"
+    ],
+    "relations": [
+        {
+            "npc_name": "Seresya Thorn",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Binder Hark Tamsin",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Saela Morn",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Jorin Vell",
+            "relation_type": "Different goals"
+        }
+    ]
+}

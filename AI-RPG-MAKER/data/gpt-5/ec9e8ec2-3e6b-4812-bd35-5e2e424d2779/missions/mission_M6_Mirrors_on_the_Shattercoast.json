@@ -1,0 +1,38 @@
+{
+    "id": "M6",
+    "title": "Mirrors on the Shattercoast",
+    "quest_giver": "Orun Shard",
+    "description": "The Glassworkers' Concord needs sand—obsidian grit from the Shattercoast Cliffs—to keep the kilns singing, but the cliffs have been shedding more than stone. Shardwights, those echoing things that mimic a person's movements a heartbeat late, have grown bold, and caravan guards report shadowed figures lifting sacks by lanternlight into boats with no house colors. Master Glasswright Orun Shard asks you to escort a quota-run and to keep his apprentices from seeing their own movement step wrong and stepping wrong after it. The wind knifes through natural galleries, and it is hard to tell what song the cliffs are singing: wind, memory, or a mirror king hunting for someone who swore to forget him in Khelar. In an outcropping hollow, you catch Keshan Drook, a smuggler with hands like knot-roots, easing sacks into a low-slung skiff. He grins like a lantern going out then flaring bright again.",
+    "objectives": [
+        "Escort Orun Shard's caravan to the Shattercoast Cliffs and safely load the quota of obsidian sand.",
+        "Protect the crews from shardwight mimicry and guide them through the wind galleries.",
+        "Confront Keshan Drook and disrupt the smuggling transfer without causing a clifffall."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Orun Shard",
+            "content": "If I could grow sand like we grow glass, I'd sing you a city of windows that never needed a wheelbarrow. But the cliffs are the cliffs, and the quota is the quota. My apprentices shake when the wind starts to talk back, and I need a pair of hands that never learned to let go just because stone remembers a different shape than the one you asked it to hold."
+        },
+        {
+            "speaker": "Keshan Drook",
+            "content": "Easy, Tairn. The cliff echoes enough without you adding your name to it with a shout. This grit? It just wants a different home, and I know folk who'll pay double to melt it where no guildsong nags them. You stop me, and House Saltvein will pretend not to know me. You let me slide, and maybe I light you a path when you find yourself in a current with no chart."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "content": "I don't trade the city's bones for a lantern wink, Keshan. You dump the sacks, and you walk away without a knife in your hand. Next time you want to move weight, you talk to the Dockers about a fair haul under a clean sun. Keep riding with ghosts, and one of them is going to catch up with you, and you won't like the way your own steps feel when they aren't yours anymore."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        "Tideglass tuning pass: Orun Shard improves Chainwake’s edge resonance, slightly increasing cutting stability",
+        "10 silver in guild pay",
+        "Reputation: +Small with Glassworkers' Concord, ±Minor with Keshan Drook depending on outcome"
+    ]
+}

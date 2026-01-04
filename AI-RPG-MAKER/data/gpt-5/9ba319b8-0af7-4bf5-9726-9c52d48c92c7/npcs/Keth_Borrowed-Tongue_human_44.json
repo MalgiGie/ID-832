@@ -1,0 +1,64 @@
+{
+    "name": "Keth",
+    "surname": "Borrowed-Tongue",
+    "race": "human",
+    "age": 44,
+    "appearance": "Reed hat, peat-stained boots, mirrored eyes from fen oils; speaks only in borrowed phrases.",
+    "character": "Patient and eerie; kindness expressed through ferries given at the right moment.",
+    "traits": [
+        "oathbound",
+        "attentive",
+        "enigmatic",
+        "soft-spoken"
+    ],
+    "skills": [
+        "silent skiff poling",
+        "memory-knot lore",
+        "bog-light navigation",
+        "voice mimicry",
+        "fen bargaining"
+    ],
+    "talents": [
+        "echoing any voice perfectly",
+        "sensing where the marsh keeps secrets",
+        "luring leeches away with hums"
+    ],
+    "flaws": [
+        "cannot speak in his own words",
+        "avoids crowded places",
+        "haunted by others’ sorrows he has carried",
+        "reluctant to take coin up front"
+    ],
+    "dreams": [
+        "free the renegade covenant from Whisperfen’s waters",
+        "hear his own voice one last time",
+        "ferry the Night of Knots choir safely upriver"
+    ],
+    "secrets": [
+        "knows the exact pylon where House Veyron’s oath-night was replayed",
+        "once ferried a Mnemos schismatic who carried the ledger-leaf that could topple Veyron",
+        "has tied knots that answer questions he fears to ask"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ildra Shale",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Serene Khel",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Alion Mareth",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Maris Veyron",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Nella Shuck",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

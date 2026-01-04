@@ -1,0 +1,56 @@
+{
+    "name": "Jalen",
+    "surname": "Sarq",
+    "race": "Human",
+    "age": 33,
+    "appearance": "Sun-leathered skin, dune scarf, sand-etched compass and saffron windburn lines at the cheeks.",
+    "character": "Wry and stoic; measures people by how they travel.",
+    "traits": [
+        "resilient",
+        "patient",
+        "pragmatic"
+    ],
+    "skills": [
+        "desert navigation",
+        "mirage-reading",
+        "caravan defense",
+        "trade tongues and bargaining"
+    ],
+    "talents": [
+        "hears the Titan's hum to predict storms",
+        "sets singing tents that deter raiders"
+    ],
+    "flaws": [
+        "superstitious about iron",
+        "dislikes cities",
+        "slow to trust newcomers"
+    ],
+    "dreams": [
+        "buy a glass-walled garden at an oasis",
+        "end the mirage-bandits terrorizing saffron trains",
+        "map a safe night route straight to Thyssara"
+    ],
+    "secrets": [
+        "once guided smugglers through a warded dune for coin",
+        "buried a bright runecap near the Skybridge ruins",
+        "owes Daru a favor that grows with interest"
+    ],
+    "relations": [
+        {
+            "npc_name": "Daru Fenlik",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ysil Kett",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Orel Vaska",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Kara Dusk",
+            "relation_type": "neutral"
+        }
+    ]
+}

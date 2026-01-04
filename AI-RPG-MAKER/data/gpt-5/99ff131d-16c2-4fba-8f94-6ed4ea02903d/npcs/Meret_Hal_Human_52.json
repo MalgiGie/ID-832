@@ -1,0 +1,64 @@
+{
+    "name": "Meret",
+    "surname": "Hal",
+    "race": "Human",
+    "age": 52,
+    "appearance": "Lean, sun-browned, hair iron-gray braided with condenser wire; chalk-blue eyes; ink-stained fingertips; a brass hourglass pendant.",
+    "character": "Methodical, dry-humored, and stubbornly ethical under political pressure.",
+    "traits": [
+        "Analytical",
+        "Stoic",
+        "Cautious",
+        "Protective"
+    ],
+    "skills": [
+        "Hydrology modeling",
+        "Condenser maintenance",
+        "Policy negotiation",
+        "Technical scribing"
+    ],
+    "talents": [
+        "Timing speech with Wind Courts harps",
+        "Sensing salt creep by touch",
+        "Long-memory for water ledgers"
+    ],
+    "flaws": [
+        "Inflexible with schedules",
+        "Sleeps little",
+        "Unforgiving of waste"
+    ],
+    "dreams": [
+        "Retire aquifers from emergency cycles",
+        "Re-light the Heliolith without harming it"
+    ],
+    "secrets": [
+        "Knows the locations of bypass valves at the Cascadrome Terraces",
+        "Hid a prototype micro-condenser in Stepwell of Oris murals"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ayo Solace",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Avar Jen",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Thren Basso",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Kael Orisborn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Seru Chime",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lune Arikara",
+            "relation_type": "neutral"
+        }
+    ]
+}

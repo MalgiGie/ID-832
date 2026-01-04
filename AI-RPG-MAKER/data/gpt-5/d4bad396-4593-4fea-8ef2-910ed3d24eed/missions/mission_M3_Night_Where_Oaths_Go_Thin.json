@@ -1,0 +1,57 @@
+{
+    "id": "M3",
+    "title": "Night Where Oaths Go Thin",
+    "quest_giver": "Knife-Whisper Pell",
+    "description": "Word of your hands near the singing bale reaches the darkest corners before your boots dry. Knife-Whisper Pell requests—never summons, never pleads—that you meet beneath the glowmoss of the Night Market Vaults where promises come salted and cheap. Pell speaks like a blade being honed: soft, regular, and ready to make someone else bleed. The Embersleeve wants the Wardens deaf to certain tones and the Collegium looking at the wrong gears. They ask for a decoy chime-plate, something that will make the singing bale seem tame while another melody slips into the Loom like a thief into a sleeping house. You remember who pulled you out of a cell once and who would put you back for spite.\nStalls burn fish-oil and strong liquor, and the shrine to the Mirror-Queen blinks back with bead-glass eyes. Tavi hovers near the crowd’s edge, thumb grazing the scar on your palm like a prayer. Between your debt and your ambition runs a current no polemaster could sound in the dark.",
+    "objectives": [
+        "Meet Knife-Whisper Pell in the Night Market Vaults",
+        "Negotiate terms for a decoy chime-plate without promising more than you can deliver",
+        "Consult Magister Vell to craft a harmless decoy that flags tampering",
+        "Plant the decoy in Embersleeve hands while warning a Warden contact without revealing sources",
+        "Record your compromise on a brass leaf for future witness"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Knife-Whisper Pell",
+            "text": "You move among oaths the way some men move among reeds: you part them, you pluck what you like, and you pretend the river will not notice. I have kept your ledger ink from drying hard more than once. Now I ask for a single note misplaced so that a different song may be sung. I do not want a war, Lio. I want the Wardens to remember they are not kings, and the Collegium to remember that machines are tools, not thrones."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "You ask me to dull a bell so you can ring another without waking the neighbors. I know how to hide a tool in plain sight. But there’s a line between misdirection and betrayal so thin that sometimes you only see it after you’ve bled on it. If I place a decoy, it will scream to anyone who knows my hand that something was placed. And if you call that a failure, then call me that to my face."
+        },
+        {
+            "speaker": "Tavi Mireline",
+            "text": "I don’t like this cave-talk, Lio. The Vaults always smell like old breath to me, like the city exhaled and forgot to finish the sigh. If you give Pell a toy, make sure it has splinters. And if you must be clever, be clever toward the living—the bread-eaters and the water-haulers—not toward the men with ledgers who think your echo is a coin they can spend twice."
+        },
+        {
+            "speaker": "Magister Vell",
+            "text": "A decoy, is it? One that sings sweet to the untrained ear and hisses to mine. I can craft a plate with a telltale flutter, a bird with a broken feather you can spot mid-flight if you know how to look. If Pell’s people put their fingers in the Loom with that in hand, I’ll have the imprint of every touch. But—be warned—Pell will know you set the stage for someone else to hear the play."
+        },
+        {
+            "speaker": "Knife-Whisper Pell",
+            "text": "You always were a tricky fish. Fine. Bring me your not-quite-straight instrument. We will see who dances to it when the time comes. And Lio—there are ledgers you can pay and ledgers that pay you. Learn the difference before you drown with a purse full of stones."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ],
+        "related_locations": [
+            "Night Market Vaults",
+            "The Loom of Tides"
+        ],
+        "factions_involved": [
+            "Embersleeve",
+            "Cobalt Collegium",
+            "Wardens of the Confluence"
+        ]
+    },
+    "rewards": [
+        "Embersleeve debt reduced (one major favor removed)",
+        "Secret mark to a hidden wheel controlling a culvert sluice",
+        "Information about an upcoming attempt to mask oath-tones at the Loom"
+    ]
+}

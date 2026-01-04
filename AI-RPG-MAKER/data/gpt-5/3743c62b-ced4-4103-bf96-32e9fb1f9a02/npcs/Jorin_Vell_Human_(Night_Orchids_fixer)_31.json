@@ -1,0 +1,58 @@
+{
+    "name": "Jorin",
+    "surname": "Vell",
+    "race": "Human (Night Orchids fixer)",
+    "age": 31,
+    "appearance": "Sharp cheekbones, saffron-trim tabard over soft boots; jasmine oil and chain-grease cling to him.",
+    "character": "Urbane and calculating with a calm, cold center; abhors chaos that doesn’t pay.",
+    "traits": [
+        "Charismatic",
+        "Patient",
+        "Silver-tongued",
+        "Discreet"
+    ],
+    "skills": [
+        "Blackmail construction",
+        "Tuned chime manipulation",
+        "Disguise",
+        "Shadow-ledger balancing"
+    ],
+    "talents": [
+        "Perfect scent memory",
+        "Whisperstep footwork",
+        "Reads tells in breath cadence"
+    ],
+    "flaws": [
+        "Prideful",
+        "Underestimates steppe folk",
+        "Risk addiction"
+    ],
+    "dreams": [
+        "Monopolize airflow influence in the Wind Court",
+        "Accrete favors to eclipse Matron Vessa",
+        "Retire with a private mirror-archive"
+    ],
+    "secrets": [
+        "Sells select secrets to both Aerarium and Unmoored cells",
+        "Owns an unlicensed Shattersea shard that shows buyers’ fears",
+        "Smuggled tuned chimes to ground insurgents, then burned the trail"
+    ],
+    "relations": [
+        {
+            "npc_name": "Saela Morn",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Rul Fen",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Istel Shardwright",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Nalia Pree",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

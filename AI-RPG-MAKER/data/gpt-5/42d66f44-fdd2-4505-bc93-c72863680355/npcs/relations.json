@@ -1,0 +1,352 @@
+[
+    {
+        "from": "Mara Vell-Seren",
+        "to": "Arno Kest",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Mara Vell-Seren",
+        "to": "Asha Heliope",
+        "type": "Conflict"
+    },
+    {
+        "from": "Mara Vell-Seren",
+        "to": "Oaric Bent",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mara Vell-Seren",
+        "to": "Ysger Thorn",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Mara Vell-Seren",
+        "to": "Neris Bonehook",
+        "type": "Alliance"
+    },
+    {
+        "from": "Mara Vell-Seren",
+        "to": "Tern Quietwake",
+        "type": "Different goals"
+    },
+    {
+        "from": "Mara Vell-Seren",
+        "to": "Verrin Nasse",
+        "type": "Hostility"
+    },
+    {
+        "from": "Arno Kest",
+        "to": "Mara Vell-Seren",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Arno Kest",
+        "to": "Oaric Bent",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Arno Kest",
+        "to": "Asha Heliope",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Arno Kest",
+        "to": "Ysger Thorn",
+        "type": "Conflict"
+    },
+    {
+        "from": "Arno Kest",
+        "to": "Verrin Nasse",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Oaric Bent",
+        "to": "Arno Kest",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Oaric Bent",
+        "to": "Asha Heliope",
+        "type": "Different goals"
+    },
+    {
+        "from": "Oaric Bent",
+        "to": "Tullis Nacrethane",
+        "type": "Conflict"
+    },
+    {
+        "from": "Oaric Bent",
+        "to": "Ysger Thorn",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Oaric Bent",
+        "to": "Rusk Bonebinder",
+        "type": "Alliance"
+    },
+    {
+        "from": "Oaric Bent",
+        "to": "Mara Vell-Seren",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Asha Heliope",
+        "to": "Tullis Nacrethane",
+        "type": "Alliance"
+    },
+    {
+        "from": "Asha Heliope",
+        "to": "Tern Quietwake",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Asha Heliope",
+        "to": "Mara Vell-Seren",
+        "type": "Conflict"
+    },
+    {
+        "from": "Asha Heliope",
+        "to": "Oaric Bent",
+        "type": "Different goals"
+    },
+    {
+        "from": "Asha Heliope",
+        "to": "Sirae Glowhand",
+        "type": "Friendship"
+    },
+    {
+        "from": "Asha Heliope",
+        "to": "Arno Kest",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tern Quietwake",
+        "to": "Asha Heliope",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tern Quietwake",
+        "to": "Ysger Thorn",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Tern Quietwake",
+        "to": "Tullis Nacrethane",
+        "type": "Conflict"
+    },
+    {
+        "from": "Tern Quietwake",
+        "to": "Mara Vell-Seren",
+        "type": "Different goals"
+    },
+    {
+        "from": "Tern Quietwake",
+        "to": "Neris Bonehook",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tern Quietwake",
+        "to": "Sirae Glowhand",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ysger Thorn",
+        "to": "Verrin Nasse",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ysger Thorn",
+        "to": "Mara Vell-Seren",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ysger Thorn",
+        "to": "Arno Kest",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ysger Thorn",
+        "to": "Oaric Bent",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ysger Thorn",
+        "to": "Ilya Salt-Kite",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ysger Thorn",
+        "to": "Tern Quietwake",
+        "type": "Different goals"
+    },
+    {
+        "from": "Tullis Nacrethane",
+        "to": "Asha Heliope",
+        "type": "Alliance"
+    },
+    {
+        "from": "Tullis Nacrethane",
+        "to": "Oaric Bent",
+        "type": "Conflict"
+    },
+    {
+        "from": "Tullis Nacrethane",
+        "to": "Tern Quietwake",
+        "type": "Conflict"
+    },
+    {
+        "from": "Tullis Nacrethane",
+        "to": "Mara Vell-Seren",
+        "type": "Different goals"
+    },
+    {
+        "from": "Tullis Nacrethane",
+        "to": "Sirae Glowhand",
+        "type": "Friendship"
+    },
+    {
+        "from": "Verrin Nasse",
+        "to": "Ysger Thorn",
+        "type": "Hostility"
+    },
+    {
+        "from": "Verrin Nasse",
+        "to": "Mara Vell-Seren",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Verrin Nasse",
+        "to": "Arno Kest",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Verrin Nasse",
+        "to": "Rusk Bonebinder",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Verrin Nasse",
+        "to": "Neris Bonehook",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Verrin Nasse",
+        "to": "Sirae Glowhand",
+        "type": "Hostility"
+    },
+    {
+        "from": "Verrin Nasse",
+        "to": "Ilya Salt-Kite",
+        "type": "Hostility"
+    },
+    {
+        "from": "Neris Bonehook",
+        "to": "Mara Vell-Seren",
+        "type": "Alliance"
+    },
+    {
+        "from": "Neris Bonehook",
+        "to": "Verrin Nasse",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Neris Bonehook",
+        "to": "Tern Quietwake",
+        "type": "Friendship"
+    },
+    {
+        "from": "Neris Bonehook",
+        "to": "Ilya Salt-Kite",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Neris Bonehook",
+        "to": "Asha Heliope",
+        "type": "Different goals"
+    },
+    {
+        "from": "Ilya Salt-Kite",
+        "to": "Ysger Thorn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ilya Salt-Kite",
+        "to": "Verrin Nasse",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ilya Salt-Kite",
+        "to": "Neris Bonehook",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ilya Salt-Kite",
+        "to": "Oaric Bent",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ilya Salt-Kite",
+        "to": "Sirae Glowhand",
+        "type": "Different goals"
+    },
+    {
+        "from": "Rusk Bonebinder",
+        "to": "Oaric Bent",
+        "type": "Alliance"
+    },
+    {
+        "from": "Rusk Bonebinder",
+        "to": "Ysger Thorn",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rusk Bonebinder",
+        "to": "Verrin Nasse",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rusk Bonebinder",
+        "to": "Sirae Glowhand",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Rusk Bonebinder",
+        "to": "Asha Heliope",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sirae Glowhand",
+        "to": "Asha Heliope",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sirae Glowhand",
+        "to": "Tern Quietwake",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sirae Glowhand",
+        "to": "Verrin Nasse",
+        "type": "Hostility"
+    },
+    {
+        "from": "Sirae Glowhand",
+        "to": "Rusk Bonebinder",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sirae Glowhand",
+        "to": "Tullis Nacrethane",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sirae Glowhand",
+        "to": "Ilya Salt-Kite",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sirae Glowhand",
+        "to": "Mara Vell-Seren",
+        "type": "Different goals"
+    }
+]

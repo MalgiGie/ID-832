@@ -1,0 +1,59 @@
+{
+    "name": "Rikel",
+    "surname": "Stalnik",
+    "race": "człowiek",
+    "age": 27,
+    "appearance": "Młody legionista o zarysowanej szczęce; hełm często przekrzywiony; blizna nad brwią i niespokojne oczy.",
+    "character": "Idealista, szczery, rozdarty między obowiązkiem a sumieniem; nie umie milczeć, gdy widzi niesprawiedliwość.",
+    "traits": [
+        "uczciwy",
+        "odważny",
+        "lojalny wobec przyjaciół",
+        "nieopierzony w polityce"
+    ],
+    "skills": [
+        "walka włócznią",
+        "czujność nocna",
+        "czytanie ludzi",
+        "biegi po schodach",
+        "obserwacja patrolowa"
+    ],
+    "talents": [
+        "szybki refleks",
+        "zapamiętuje rozmowy słowo w słowo"
+    ],
+    "flaws": [
+        "naiwny w intrygach",
+        "zbyt ufny wobec autorytetów"
+    ],
+    "dreams": [
+        "oczyścić swoje imię",
+        "znaleźć sprawiedliwość poza łupem i przemocą"
+    ],
+    "secrets": [
+        "ukrywa dowód na sabotaż w Wieży Grot",
+        "pomógł uciec jednemu kurierowi Chóru Cieni"
+    ],
+    "relations": [
+        {
+            "npc_name": "Serad Głaz",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Matka Korala",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Maera Buławka",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Vasko Danter",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Orla Krawężna",
+            "relation_type": "neutral"
+        }
+    ]
+}

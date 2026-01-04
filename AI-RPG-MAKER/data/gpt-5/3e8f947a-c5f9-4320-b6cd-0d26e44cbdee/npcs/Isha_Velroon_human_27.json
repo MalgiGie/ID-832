@@ -1,0 +1,59 @@
+{
+    "name": "Isha",
+    "surname": "Velroon",
+    "race": "human",
+    "age": 27,
+    "appearance": "Light-footed with a black mirror shard on a discreet chain. Ink-stained fingertips and a smile that never quite reaches her eyes.",
+    "character": "Quick-witted, playful, and hard to pin down. She enjoys the game even when the stakes cut.",
+    "traits": [
+        "deflects with humor",
+        "never sits with her back to a room",
+        "collects slips of overheard song",
+        "writes in marrow-ink on skin"
+    ],
+    "skills": [
+        "shadowing in crowded markets",
+        "forged marrow-ink ledger work",
+        "lockwork picks",
+        "rumor weaving through vendors"
+    ],
+    "talents": [
+        "perfect recall of whispered phrases",
+        "reads tension in mirrored glass reflections"
+    ],
+    "flaws": [
+        "thrill-seeking",
+        "overconfident",
+        "keeps secrets even from allies"
+    ],
+    "dreams": [
+        "Unmask and replace the Nameskeeper",
+        "Build a ledger of favors that even the Syndicate must honor"
+    ],
+    "secrets": [
+        "Swapped a death sentence for a love letter in the Ossuary Court to save a child, against orders",
+        "Smuggled a mirror that erases faces in reflections into the city for a splinter cell she now regrets aiding"
+    ],
+    "relations": [
+        {
+            "npc_name": "The Nameskeeper",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Serge Kobb",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Veyla Prism",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Talekan Yss",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Edda Tarn",
+            "relation_type": "Friendship"
+        }
+    ]
+}

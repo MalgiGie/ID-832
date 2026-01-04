@@ -1,0 +1,47 @@
+{
+    "id": "M01",
+    "title": "The Knot and the Charter Flame",
+    "quest_giver": "Jana Fell",
+    "description": "Inkroot millwheels sighed as if nervous beasts while Avarinth’s dusk pooled in the canals like polished slate. Archivist-Mother Jana Fell summoned Neris to the Archives’ lamp-well, where the original hinge-charter lay swaddled in ambered lacquer and prayer-cord, destined for a night procession to the Basilica of Knotted Light. The streets beyond were already honeyed with brass lanterns, and the market bridges creaked under the weight of onlookers and rumor. The Archivists feared a seizure or a scandal before the consecrated re-knotting, for Parliament had been sniffing at sealed writs and the Rookery’s mirror-kites were keeping vigil without declaring their employer. The cord humming at the charter’s corners made Neris’s rope-burn scars itch with old memory; oaths have teeth here, and every tooth knows the taste of flood. Tonight, the city would read its own history aloud by lamp, and someone meant to mispronounce it.",
+    "objectives": [
+        "Scout the procession route from Inkroot Archives in Reedbank to the Basilica of Knotted Light in Cordmarket using rooftops and canal gantries.",
+        "Plant discreet mirror-codes along three vantage points to signal diversions if crowds turn or zealots block the way.",
+        "Guard the charter during the lamp-well departure and the crossing of the Ward of Highlight.",
+        "Identify and quietly disperse any zealots attempting to denounce the charter as impure or altered.",
+        "Deliver the charter to Rector Mera’s hands without the oath-cord unsealing or its amber skin cracking."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jana Fell",
+            "line": "Neris Quay, you have carried words through worse weather than law, and I would trust your cord-hand before any hired spear. The charter will travel beneath open lamps, as it has always done, and that makes it prey to spectacle as much as to knives. If Parliament means to test us, they will do it with optics and timing, not with simple theft. Walk ahead of our truth and make the street remember its manners. If the cord hums sharply in your bracer, something near has the wrong name."
+        },
+        {
+            "speaker": "Thay Nerr",
+            "line": "A lovely night to weigh paper by the ounce of rumor, isn’t it, feather-ear? I am not here to trouble your vows, merely to note that unseen hands have rehearsed this parade in reflections all afternoon. Should a mirror-kite drift lower than decency allows, a certain archer of my acquaintance might clip a wing without breaking the show. Consider this a courtesy, not a leash. The sky watches everything and forgets nothing, except for coin."
+        },
+        {
+            "speaker": "Rector Mera",
+            "line": "We will receive what is ours to keep only if we are faithful to the first tying. I feel tremors in the knotwork as if old promises are clearing their throats. Walk with us on the outside curve and hold the crowd to a river’s patience. I will not see the charter stumble under a theater of lamps. Let the city see dignity and hear no false names."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "I’ll set mirrors where eyes pretend not to look and keep the route’s edges taut. If trouble comes, it will be loud in small ways, like a poorly tuned hinge before the flood. You will not need to run. And if a hand reaches for the cord, it will find mine first."
+        },
+        {
+            "speaker": "Ista Brine",
+            "line": "As Clerk-Marshal of the Hall, I am obliged to say Parliament respects the Archive’s duties and expects the same in return. But I am also a woman who has seen processions like this become tinder in a wind. Keep your watchers from provoking ours, Neris. When politics kiss in public, someone always bites."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M02"
+        ]
+    },
+    "rewards": [
+        "Archivist floor-rights during flood-law readings (limited sessions)",
+        "Amber-sealed permit to carry a sanctified lamp between wards",
+        "Parchment map of discreet rooftop crossings from Reedbank to Cordmarket",
+        "Reputation: Inkroot Archivists (trusted courier)"
+    ]
+}

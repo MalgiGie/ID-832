@@ -1,0 +1,62 @@
+{
+    "name": "Nalia",
+    "surname": "Pree",
+    "race": "Human (Aerarium assessor)",
+    "age": 29,
+    "appearance": "Copper-mesh gloves, assessor’s mask hanging at her throat; ink-black eyes and a ledger always near.",
+    "character": "Precise and wary, outwardly neutral but quietly compassionate when stakes turn human.",
+    "traits": [
+        "Thrifty",
+        "Observant",
+        "Polite",
+        "Diligent"
+    ],
+    "skills": [
+        "Aerolith tuning",
+        "Value assessment",
+        "Pneumatic codework",
+        "Contract law"
+    ],
+    "talents": [
+        "Smells lift decay",
+        "Steady under lightning",
+        "Reads balances by weight alone"
+    ],
+    "flaws": [
+        "Indecisive under moral stress",
+        "Debt-burdened",
+        "Vulnerable to blackmail"
+    ],
+    "dreams": [
+        "Standardize cloudfruit counterweights",
+        "Free her family from debt chains",
+        "Reform storage policy to reduce waste"
+    ],
+    "secrets": [
+        "Falsified a batch grade to reroute lift for an emergency convoy",
+        "Maintains a hidden line of credit through delta proxies",
+        "Kept a sliver of aerolith to study lift decay off-books"
+    ],
+    "relations": [
+        {
+            "npc_name": "Rul Fen",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Erynn Sythar",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mira Pellan",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Yassa Nim",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ovelle Kite",
+            "relation_type": "Different goals"
+        }
+    ]
+}

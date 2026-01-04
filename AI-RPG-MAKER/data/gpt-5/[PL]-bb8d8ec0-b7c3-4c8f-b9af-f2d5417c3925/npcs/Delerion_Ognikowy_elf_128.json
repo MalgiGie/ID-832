@@ -1,0 +1,66 @@
+{
+    "name": "Delerion",
+    "surname": "Ognikowy",
+    "race": "elf",
+    "age": 128,
+    "appearance": "Smukły, o palcach jak szczypce ze światła; włosy spięte szklanym grzebieniem; na policzkach smugi popiołu; oczy zielone jak selenit w półmroku.",
+    "character": "Perfekcjonista, dumny i ironiczny, ale potrafi docenić prawdziwy kunszt; myśli w kształtach i odbiciach.",
+    "traits": [
+        "estetyczny w każdym geście",
+        "rachujący ryzyko",
+        "skryty",
+        "wynalazczy"
+    ],
+    "skills": [
+        "szklarstwo",
+        "alchemia ognia",
+        "kodowanie pryzmatyczne",
+        "dyplomacja przez dary",
+        "ocena materiałów"
+    ],
+    "talents": [
+        "słyszy ton pieców",
+        "zręczność palców jak u harfisty",
+        "projektowanie pryzmatów o złożonych kątach"
+    ],
+    "flaws": [
+        "próżny",
+        "niecierpliwy",
+        "zatajający wiedzę przed uczniami"
+    ],
+    "dreams": [
+        "uzyskać monopol na szkło żywe",
+        "zastąpić latarnie systemem pryzmatycznym",
+        "wykuć taflę, która nie pęknie w żadnym mrozie"
+    ],
+    "secrets": [
+        "testuje szkło żywe na wodach bazyliki bez formalnej zgody",
+        "nielegalnie wykupił czeladnika z innego cechu za szkatułę bursztynów"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orla Krawężna",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Vasko Danter",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Serad Głaz",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Lima Fal",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Tira Selenitna",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Matka Korala",
+            "relation_type": "neutral"
+        }
+    ]
+}

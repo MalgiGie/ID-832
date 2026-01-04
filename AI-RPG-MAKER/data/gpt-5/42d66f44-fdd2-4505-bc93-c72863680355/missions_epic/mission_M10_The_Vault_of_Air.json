@@ -1,0 +1,96 @@
+{
+    "id": "M10",
+    "title": "The Vault of Air",
+    "quest_giver": {
+        "name": "Tern Quietwake",
+        "affiliation": "Fathom Tongues"
+    },
+    "description": "Low moon draped the torc of Moonlock Reef in a pale hush, and the coral labyrinth loosened like a jaw remembering how to open. Kael Rimestrand, salt-browned bowman with sea-gray eyes and the whale-tooth cuff that hummed against his pulse, skimmed with Ilya Salt-Kite across the mirrored slate of the inner lagoon, their skiff nosing through lumenkelp flicker and bell-toned water. The off-pulse map they had charted in secrecy prickled with possibility, a lattice of cuts and eddies that would lead to a carved groove older than the city’s laws, and the tuned echo-stone in Kael’s pouch trembled like a heart that wanted to sing. The Moonkey pearl, luminous and quiet as a trapped breath, fit the groove as if guided by memory, and the sea around them shuddered, stilled, and drew a long, invisible inhale that tasted like old songs trapped beneath ribs. Air spilled from the revealed passage, warm and laden with salt-ghosts, and they descended into a vault of ribbed stone and coral scrollwork where murals laid out a tale of Veloros, not fallen but chosen to be harbor and wall so kin could pass unhurt beneath storms. There was no coin, no diadem, no golden hoard, only instructions etched by patient hands and careful fins, a notation of the Long Note that could rouse a city to walk the seabed, and fragmentary warnings that spelled doom for mortal throats bold or foolish enough to carry the whole chord unguarded. A hum, like a giant’s sleeping heartbeat, thrummed through the chamber and climbed Kael’s scars with a shiver, while outside the rival wake stitched ripples across the entrance, knives and glass-masks gleaming with promises of theft. In that breath-held place, decisions weighed heavier than anchors, and truth itself became a contraband more dangerous than bell grenades, for to carry it wrongly would drown the city in a new sort of tide. Kael would need steady hands, steady voice, and steadier judgment to choose what to copy, what to hide, and to whom the first breath of this rediscovered air should be given.",
+    "objectives": [
+        "Travel with Ilya Salt-Kite to Moonlock Reef at low moon and locate the carved groove.",
+        "Set the Moonkey pearl and open the vault without disturbing the surrounding coral.",
+        "Study and copy the murals and notations of the Long Note without attempting to sing them.",
+        "Drive off or negotiate with rival divers who attempt to seize your findings.",
+        "Deliver your copies to the Thalassarium and secure a private reading with the Listener Triad."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tern Quietwake",
+            "lines": "The sea keeps memories the way bone keeps marrow, and when you enter a memory you must walk as if each step is an oath. Bring me lines and rubbings and silence, and leave the urge to prove yourself to those who trade in applause. If the vault yields a chord, remember that a single wrong note can turn a blessing into a knife, and a knife in the sea does not cut a thing so much as it invites blood. I ask you not to be brave but to be careful, and not to be clever but to be honest with your own breath. When you return, do not speak upon the Spine or in any house where ledgers blink like eyes, but come by the quiet stairs to the Thalassarium where stone drinks sound and we can lay the findings down like a sleeping child."
+        },
+        {
+            "speaker": "Ilya Salt-Kite",
+            "lines": "I have sailed after false lights and cheap promises, but this light is patient and it does not bargain, and that makes me more afraid than any blade. If we find a song that can walk a city, I will tie my own tongue in a knot before I let it slip out for a cup of coin, because there are storms coin cannot pay off. Still, I am a courier with debts stacked like crab shells, and the Gray Sails listen for chances like gulls listening for dropped bread, so help me keep my head clear when hunger starts whispering. If the rivals come with glass knives and quick hands, I would rather spend breath on a warning than on a shout, and I would rather spend blood on a promise than on a boast. Whatever this vault asks of us, let us answer together and answer slowly, because the sea forgives slowly and forgets never."
+        },
+        {
+            "speaker": "Vault Voice",
+            "lines": "I was a road for kin and a wall for storms, and I chose a shape that lifted ribs to air so the small could pass in peace beneath my shadow. I have slept among your nets and numbers and I have heard you argue my name as if naming could move me, and I tell you that only need and mercy are keys fit for my doors. Sing me awake for greed and I will walk you into a hunger so deep your bones will ring like bells under pressure, and sing me awake for mercy and I will lie down and be harbor again until mercy is spent. Take the measure of my Long Note with chalk and calm hands, for a throat that carries more than a breath of it will drown without water and call it fate. Leave no gash in coral, leave no loud oath in the water, and leave a promise at the lip that you will choose tide over pride when the time for choosing comes."
+        },
+        {
+            "speaker": "Neris Bonehook",
+            "lines": "You always did have a talent for finding doors other people should open, and here you are with a pearl and a smile as if the sea had written you a private invitation. I have buyers who will pay to learn the shape of that hum even if they never hear it, and buyers who will pay more to make sure certain ears never do, so hand me the copies and keep your fingers. The Compacts will dress you in fine words and the Syndicate will dress you in fine glass, but neither will dress the truth in anything but chains, and you know I am not sentimental about chains unless I hold the key. Leave me half the rubbings and we can both live to boast carefully, or refuse and I will prove that a knife is a kind of punctuation even in holy places. Do not look to the Brinewardens, for they are not here and their pikes do not fit through this door, so it is just you, me, and a very old secret that deserves a steward who knows what secrets are worth."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "I have carried lanterns through fog and signals through squalls, and I have learned that the hardest thing to carry is a truth that could drown those who trust you. This place is older than our ledgers and kinder than our knives, and I will not let its patience be cut into market shares. If you seek a share, Neris, take the warning instead, because it will profit you longer than the rubbings will, and it will cost fewer bodies on hooks. I will copy what the vault allows and carry only the breath of it, and I will lay that breath where the Tongues can weigh it against storms and pride without a crowd to cheer them wrong. Leave your blade sheathed and your hunger quiet, and we may yet leave this place as divers rather than as thieves, and that difference will keep us breathing when the moon turns."
+        },
+        {
+            "speaker": "Tern Quietwake",
+            "lines": "You return with chalk ghosts of a sleeping giant’s throat and with your own throat untempted by the taste of power, and that is the work of a steward rather than a hunter. We will fold these lines into the quiet archive where echo-stone and brine ink keep counsel, and we will not breathe hard upon them until the city needs air more than pride. Know that silence is not neglect here but preparation, and that preparation is a form of love that does not ask to be seen. In time, we will test each fragment against safe vowels and safe halls, and we will decide whether to ask Veloros to turn or to beg Veloros to rest, and we will do so without drums. For now take rest, take still water, and take the knowledge that you have kept a door from becoming a wound."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Carry only chalk and silence",
+            "text": "Resolve to copy every line and interval with patient care and refuse to voice even a single hum, treating the vault as a teacher whose lessons must be taken home unrecited. Signal to Ilya to count breaths rather than echoes, and to place soft cloth between chalk and coral so the stones leave no complaint. When Neris presses with knives of glass and promise, answer with the stubborn wealth of refusal, and leave a decoy sketch that maps only safe water and no secret doors. Bind the rubbings tight inside waterproof oilskin and tie them beneath the rib of the skiff, so no casual eye or greedy hand can make mischief before you reach the Thalassarium. Walk the Spine Causeway without boasting and use the quiet stair into the listening hall, where you will request a sealed counsel and place the findings under the chorus of those who keep the whale road true.",
+            "outcome": "Neris leaves with a bitter grin and a false lead that wastes coin but not blood, and her crew marks you as careful rather than cruel, making future meetings tense but not murderous. The Fathom Tongues receive the rubbings unblemished and mark your name in their whisper-ledger as a courier of trust, and they answer your future knock even when storms pile against the jaw gates. The Pearl Compact hears a rumor of a find but cannot buy a detail, and their scribes watch you from a distance like gulls that dare not land, which keeps your path clearer than most. Your restraint keeps your lungs untroubled by the Long Note’s undertow, and the tinnitus that sometimes muddles your hearing settles into a manageable murmur. You gain a private reading with the Listener Triad as promised, and they share a quiet omen about a bypass and a chord that may one day save a ward without drowning another."
+        },
+        {
+            "id": "C2",
+            "title": "Bargain with the rival to spare blood",
+            "text": "Offer Neris a measured pact at knife’s length, promising a glimpse of nonessential fragments and a share of credit with no claim upon the core notation, setting terms with the calm of a tide chart. Speak five truths about the dangers of the Note so that the glass-masked crew understands the cost of greed, and lace those truths with a warning that no cartel will shield them from the sea’s bite. Give them a rubbing of border motifs and breathing bell glyphs that lead to forgotten air and not to the Long Note itself, and make it clear that harm to you or Ilya voids all future goodwill. Mark the exit path with lumen arrows of dim amber, a signal that buys you time while sending them into safe water rather than into your wake, because even enemies should be denied easy deaths. Keep the heart of the vault in oilskin and the memory of its hum behind clenched teeth, and bring the essential copies to Tern under a vow of delayed disclosure to any other ear.",
+            "outcome": "Neris accepts the crumbs with a professional scowl and holsters the knife, and her crew backs into the water with the look of people who know they were outplayed without being humiliated. Word travels that you can cut a deal without cutting a throat, and that reputation draws strange mercies from both smugglers and Brinewardens who prefer a city that bleeds less. The Fathom Tongues frown at the compromise but admit the wisdom of avoiding a brawl in a sanctum, and they caution you about the breathing bell you have quietly revealed to another set of lungs. The Pearl Compact sniffs at the scent of a rumor and spends ledger-ink chasing the wrong motifs, and the delay keeps pressure off the Thalassarium while they study. Your private counsel proceeds, and Tern grants you escorted access to the drowned passage in exchange for an oath to alert the Tongues if Neris stirs the bell for profit rather than need."
+        },
+        {
+            "id": "C3",
+            "title": "Loose warning shafts and drive the rivals off",
+            "text": "String the Spindrift Recurve and let warning arrows kiss the water with blue flares that make knives look small and ambition look costly, using light to write the word no across the entrance. Call out to the crew in a steady voice that names the hazards accurately and promises them a clean retreat if they measure their lives against their greed and choose breath. When they test your patience with a rush, show them the accuracy the Brinewardens trained into your hands, parting masks and sleeves without taking a life, making it clear you have drawn the boundary and will hold it. Order Ilya to secure the rubbings while you hold the door with calm feet and quicker eyes, and never let your anger rise to the pitch that would make the vault itself recoil. When the water stills and the last rival fin fades, bow to the ribbed chamber and whisper a promise to leave no stain behind but chalk and respect, then depart by a cut that confuses pursuers.",
+            "outcome": "Neris leaves spitting salt and vows a ledger of petty obstructions, and her crew gains a respect that does not look like friendship but does look like caution, which is often the better coin. The Fathom Tongues commend your restraint in blood even as they warn that force brings attention, and they guide you by a quieter path to the Thalassarium so the Spine does not turn its head. Rumor paints you as a line-holding archer again, and Captain Ysger Thorn hears your name with a grunt that might be pride and might be worry, opening a future favor with the Brinewardens. The Compact’s eyes narrow in the market shadows, but without a body to hang a story on, their scribes file your name under troublesome rather than expendable, and that category buys you time. Your audience with the Listener Triad is held under tighter wards than usual, and they hint that a sung chord and a hidden bypass may cross paths in a season when patience runs short."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "xp",
+            "description": "800 experience for discovering, preserving, and delivering the vault’s truth without endangering the city by song."
+        },
+        {
+            "type": "item",
+            "description": "Moonkey Setting Sketch, a precise drawing of groove and mounting that proves access and may serve as a key for future rites."
+        },
+        {
+            "type": "item",
+            "description": "Vault Rubbing of Long Note Fragments, partial notation on oiled vellum that cannot function alone but anchors future understanding."
+        },
+        {
+            "type": "favor",
+            "description": "Private counsel with the Listener Triad, granting measured omens and guidance on tides of fate yet to break."
+        },
+        {
+            "type": "access",
+            "description": "Escorted route to the drowned passage and a forgotten breathing bell near the reef for future safe work below tide."
+        },
+        {
+            "type": "coin",
+            "description": "0 credit-shells, for this was a work of stewardship rather than a purchase of glittering things."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "M8",
+    "title": "The Choir Beneath Silt",
+    "quest_giver": "Myris Khel",
+    "description": "When the tide lowers and silt breathes out, the Silted Basilica’s organ groans with a sound that makes the hair along your arms think about prayers. The Faith of Azerene has traced fault-lines through the city's oaths since the Beacon's keen, and Myris Khel believes the answer to the city's restless song lies in an older choir. The Nacre Crown is said to rest in a reliquary guarded by bubbles that steal breath; if brought to the surface, the Crown might hush lies long enough for all to hear what is true. The League of Lanterns has mapped a safe descent path for a single tide's length. You will dive with a line at your waist and a shell prayer on your tongue, and you will meet more than water below. The Pearl-Warder is said to barter bones and breath; you wonder which of yours you can spare.",
+    "objectives": [
+        "Descend into the Silted Basilica during low tide using League of Lanterns markers.",
+        "Navigate echo-sickness and the shell organ’s resonance to reach the reliquary.",
+        "Retrieve the Nacre Crown and deliver it to the Faith without wearing or testing it."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Myris Khel",
+            "content": "Be light in your breathing and heavy in your promise. The Crown is not for wearing; it is for reminding. If you feel the shells listening for your heart, do not lie to them even in your head. They are kinder than men, but less patient. Bring it to me, and I will set it where it cannot be bought and where it can be asked for only with clean hands."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "content": "I've been under chains and under storms, but not under a bishop's bones, if that's what lies in that silt. If something down there asks me a question I cannot answer, I will keep moving. If it asks me a question I must answer, I will answer and hope I can breathe after."
+        },
+        {
+            "speaker": "The Pearl-Warder (a revenant voice)",
+            "content": "I traded my bones for an anchored coast, and my breath still lingers because people keep trying to steal what cannot be owned. You carry a hook for others and a knot for yourself. Do not lie to me. One lie here and the city breathes water instead of air for a day, and then you will understand what a Crown is for. Take it. Do not wear it. Promise me with your warm shard of lightning and your cold shard of fear."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        "Azerene’s Hush: once per day you can steady a panicked crowd or hush a brawl with a word",
+        "League of Lanterns tide-chart for the Basilica channels",
+        "Reputation: +Medium with Faith of Azerene, +Small with League of Lanterns"
+    ]
+}

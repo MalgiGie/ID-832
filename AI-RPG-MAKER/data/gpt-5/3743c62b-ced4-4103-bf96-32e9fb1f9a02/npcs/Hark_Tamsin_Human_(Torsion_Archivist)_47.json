@@ -1,0 +1,58 @@
+{
+    "name": "Hark",
+    "surname": "Tamsin",
+    "race": "Human (Torsion Archivist)",
+    "age": 47,
+    "appearance": "Cord-wrapped sleeves, spectacles smoked at the edges, a soft voice that never rises over a whisper.",
+    "character": "Cautious and quietly rebellious; believes knowledge must outlive the guilds.",
+    "traits": [
+        "Meticulous",
+        "Patient",
+        "Discreet",
+        "Bookish"
+    ],
+    "skills": [
+        "Blueprint deciphering",
+        "Oathbinding rituals",
+        "Citation smuggling",
+        "Silent filing"
+    ],
+    "talents": [
+        "Perfect knot recall",
+        "Detects forged seals by touch",
+        "Calms disputes with precise citations"
+    ],
+    "flaws": [
+        "Publicly risk-averse",
+        "Secret hoarder of forbidden texts",
+        "Socially awkward"
+    ],
+    "dreams": [
+        "Publish a neutral history of the Knots",
+        "Protect the Archives’ independence",
+        "Design transparent access rites"
+    ],
+    "secrets": [
+        "Copied the ten-step calculus page into coded cords",
+        "Uses the pendulum bob as a smuggling cache",
+        "Hid a Chainwarden oath that would compromise a festival schedule"
+    ],
+    "relations": [
+        {
+            "npc_name": "Istel Shardwright",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Greydin Korr",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Seresya Thorn",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Yassa Nim",
+            "relation_type": "Alliance"
+        }
+    ]
+}

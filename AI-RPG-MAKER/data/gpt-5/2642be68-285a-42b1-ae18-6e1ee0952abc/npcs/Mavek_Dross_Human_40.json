@@ -1,0 +1,61 @@
+{
+    "name": "Mavek",
+    "surname": "Dross",
+    "race": "Human",
+    "age": 40,
+    "appearance": "Ashmask often hanging at his neck, lip scar from a kiln door, tar-blackened nails and an easy grin.",
+    "character": "Publicly jocular, privately ruthless; counts favors as carefully as coin.",
+    "traits": [
+        "charming",
+        "patient",
+        "calculating"
+    ],
+    "skills": [
+        "sootglass casting",
+        "tunnel navigation",
+        "bribery and leverage",
+        "false-bottom crate making"
+    ],
+    "talents": [
+        "tells a sack's true weight by heft",
+        "vanishes into smoke plumes",
+        "forges wax seals from memory"
+    ],
+    "flaws": [
+        "prideful",
+        "underestimates Wardens",
+        "sentimental toward apprentices who remind him of his brother"
+    ],
+    "dreams": [
+        "legal night docks under Veil stewardship",
+        "a furnace-house raised above water, untouchable by raids",
+        "free his sister from debtor lanterns"
+    ],
+    "secrets": [
+        "maintains a culvert path into the Hall of Lanterns' ash pits",
+        "keeps sprigs of black reed-seed that sprout in embers",
+        "pays a tithe to the witch-mirror with other people's debts"
+    ],
+    "relations": [
+        {
+            "npc_name": "Seler Daki",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Kara Dusk",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Mira Cael",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Aren Mir",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ysil Kett",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

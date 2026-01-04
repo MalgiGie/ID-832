@@ -1,0 +1,49 @@
+{
+    "id": "M12",
+    "title": "The City’s Reflection",
+    "quest_giver": "Dorn Rigger",
+    "description": "The Maw's breath returns in a measured exhale, and Veylcrest's chimes ring not with panic, but with relief that makes hands shake. Under the Sapphire Diadem, a secret Artificer prototype—the skeleton of a focusing ring—gleams like a crown of bad decisions. The broken lens gallery hum has shifted, less a scream, more a warning. Dorn Rigger asks you for one last walk: into the Diadem's underworks to tune the city to itself, not to a single voice. Kelen Prism arrives with apology and stubborn wonder. Orven Caldris arrives with an offer to buy forgiveness in bulk. Nhal Vessin watches with a shipwright’s eye for cracks. Your hands are steady. Your throat hums at the edge of silence. The city is listening.",
+    "objectives": [
+        "Descend into the Diadem’s underworks with Dorn Rigger and Kelen Prism.",
+        "Identify and adjust the prototype focusing array to a non-destructive standby mode.",
+        "Use the Resonant Stone Tuning Fork and Shattermere inscriptions to retune the gallery away from critical frequencies.",
+        "Present the Bribes Ledger copy to Nhal Vessin to compel a public audit rather than a quiet purge.",
+        "Refuse Orven Caldris’s offer to liquidate oath-lanterns in exchange for silence.",
+        "Seal the underworks with a joint Artificer–Tidewarden lock and record the new lens standard at the Aethral Archive."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Dorn Rigger",
+            "line": "We learned enough to live. Now we need to shut down what could teach us to dominate. Help me park Kelen's dreams where they can do no harm until the city has the wisdom to hold them. The hum will follow us into old age if we get this wrong."
+        },
+        {
+            "speaker": "Kelen Prism",
+            "line": "I thought a ring could love a city the way a lens loves light. I was wrong about the speed, not the love. Let me help you tune it to sleeping instead of waking, Thalen. One day we may wake it kindly. Today we let it dream without dictating ours."
+        },
+        {
+            "speaker": "Orven Caldris",
+            "line": "You bring me ledgers and ask me to bless their stains. Very well—here is my counter: sell the oath-lanterns to keep the peace while we move water with coin, not sentiment. You can keep your prim rituals; I'll keep families fed. This is the only offer that scales."
+        },
+        {
+            "speaker": "Nhal Vessin",
+            "line": "No. We do the audit in public, and we keep the lanterns where they can shame us into being better. The city stands because its people can see their promises. Rigger, Prism—make your peace and make me a standard. Thalen, finish what you started when you first heard the Diadem hum."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "The river and the sea agreed to breathe together for one long moment because we asked, not because we ordered. The city can learn from that. We set the array to watch without striking, we keep our lamps where oaths can find their way home, and we put our bribes on the table where the blue light can burn off the mold. Let the hum be a lullaby, not an alarm."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10",
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        "City Lens Standard (passive bonus: reduced risk using lenses and horns in urban zones)",
+        "+1 standing with Lantern Court, Hall of Subtle Artifice, and Serene Compact",
+        "Public Citation of Merit from the Tidewardens",
+        "Personal cistern allotment for the terraces you choose to support (narrative benefit)"
+    ]
+}

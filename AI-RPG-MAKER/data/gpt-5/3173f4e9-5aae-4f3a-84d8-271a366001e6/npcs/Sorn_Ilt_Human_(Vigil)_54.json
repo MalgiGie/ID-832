@@ -1,0 +1,70 @@
+{
+    "name": "Sorn",
+    "surname": "Ilt",
+    "race": "Human (Vigil)",
+    "age": 54,
+    "appearance": "Broad, plain-spoken magistrate with lantern-burn scars, a chipped jaw, and the steady stance of a dock-pile.",
+    "character": "Fair-handed, weary, stubbornly honest.",
+    "traits": [
+        "dutiful",
+        "stoic",
+        "practical",
+        "empathetic"
+    ],
+    "skills": [
+        "mediation",
+        "oath citation law",
+        "tactical deployment",
+        "lantern-route planning"
+    ],
+    "talents": [
+        "reads crowds",
+        "remembers faces",
+        "endures long hours without sleep"
+    ],
+    "flaws": [
+        "overextended",
+        "sometimes trusts the wrong people",
+        "resentful of political games"
+    ],
+    "dreams": [
+        "keep peace between guilds",
+        "expand the Vigil's ranks",
+        "end spore-route disappearances"
+    ],
+    "secrets": [
+        "uses a marrow passage to test oath truth",
+        "hides doubts about Breathkeepers' neutrality",
+        "keeps an unsent resignation letter"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ysil Aer",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lerrin Vale",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Sera Dake",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thia Mol",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Mira Olt",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Danka Suth",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

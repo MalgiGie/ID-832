@@ -1,0 +1,41 @@
+{
+    "id": "M9",
+    "title": "Court of Wind, Accord of Breath",
+    "quest_giver": "Rhyss Quell",
+    "description": "The Syrinx Wind Courts fill with people who have learned to speak between notes. Rhyss Quell asks you to time an accord: Aquifer, Covenant, Mistral, Solace, Compact—and the Ledger, which will attend whether invited or not. The founders’ bargain block sits in a sling, oiled against drying cracks; the memory-stone shard peers from its listening cloth like a guilty eye; the Oris bowl-shard gleams, promising to cut the palms of liars who swear over it. You must pace the accord like breathwork, catching each faction on a lull that suits the truth they can bear. If you succeed, the Courts will authorize a joint operation inside the Heliolith for the first time in living memory.",
+    "objectives": [
+        "Present the Founders’ Bargain and the Unsanctioned Chord as evidence during timed testimony.",
+        "Expose Ledger procedural tricks using your Wind-Scribe Ribbon Case.",
+        "Secure a signed joint writ granting access to the Heliolith’s sealed prism chamber.",
+        "Ensure safety clauses for Compact crews and sky-lane windows for Mistral support."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Rhyss threads ribbon through his fingers like he’s braiding nerves. \"I can hold the harps where you need them for three breaths, maybe four, before the tuning stones complain. You lead them. Make Meret admit the frames can’t fix a note that isn’t metal. Make Ayo promise her runoff won’t slick the stairs to a funeral. Make Thren feel seen so he doesn’t pull a bell just to remind folks he can. Make Far-Kite Serev swallow his strike song for one more evening. And make Avar admit the Ledger doesn’t own the future just because it can subtract it from the present.\"",
+        "hero_reply": "Tallea flexes her hands like a pilot testing grip. \"I’ll pace them and give each their preferred wind. I’ll let the founders speak first through stone, then the bridge through bone, then Oris through a shard that bites. If anyone tries to shift the rhythm, I’ll sing the missing beat until they hear it underground. When the writ is ready, I want the clause that binds us to report back in public, not behind a Counting-House door.\"",
+        "npc_interjections": [
+            {
+                "name": "Meret Hal",
+                "line": "Meret inclines her head. \"I will sign, contingent on Compact oversight and Solace containment. If this accords us a chance to tune the Spire without extracting another gram, I will carry the writ up the scaffolds myself.\""
+            },
+            {
+                "name": "Avar Jen",
+                "line": "Avar smiles for the crowd. \"The Ledger applauds cooperation that reduces volatility. We will also insist on an observer to assure the city that no private rite usurps public resource. A signed writ does not replace a measured ledger.\""
+            }
+        ],
+        "ambient": "Harps breathe like a city sleeping lightly. Timing is everything; words spill between notes like water between fingers, and you must cup both without clenching."
+    },
+    "connections": {
+        "previous": "M8",
+        "next": "M10",
+        "related": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        "Experience: 700",
+        "Joint Access Writ (key document)",
+        "Reputation (Cliffward Compact): +6",
+        "Reputation (Mistral Syndic): +6",
+        "Reputation (Solace Guild): +6"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Alion",
+    "surname": "Mareth",
+    "race": "human",
+    "age": 52,
+    "appearance": "Blue-green vestments strung with vow-knots; brine tattoos spiral his forearms; a voice like low tide chanting.",
+    "character": "Pastoral and stubborn in doctrine; believes mercy is a rope you must knot right.",
+    "traits": [
+        "forgiving",
+        "enigmatic",
+        "ritually precise",
+        "quietly bold"
+    ],
+    "skills": [
+        "knot-rite officiation",
+        "liturgical song-law",
+        "reading rib-bridge omens",
+        "mediation between guilds",
+        "tide-procession logistics"
+    ],
+    "talents": [
+        "calming storms with choir countercurrents",
+        "walking mudflats without sinking",
+        "finding the true tide for confessions"
+    ],
+    "flaws": [
+        "puts ritual calendars over workdays",
+        "trusts noble vows too readily",
+        "hesitant to expose relic truths"
+    ],
+    "dreams": [
+        "publicly renew the Night of Knots upon Leviathan’s Splay",
+        "reveal the starshard truth to end factional secrecy",
+        "restore trust in the Conclave among outer rings"
+    ],
+    "secrets": [
+        "knows the drowned saint’s bone-song key that opens the Basilica chamber",
+        "has considered defying the Choir to reveal the shard",
+        "negotiated sanctuary for a Ratchet medic after a strike quietly"
+    ],
+    "relations": [
+        {
+            "npc_name": "Serene Khel",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Orrix Vant",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Sel Corvane",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Maris Veyron",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ildra Shale",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Keth Borrowed-Tongue",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Brask",
+    "surname": "Ilyne",
+    "race": "human",
+    "age": 58,
+    "appearance": "Broad-shouldered, salt-gray mustache, lacquered breastplate over a broker’s coat; hands stained with ink and tar.",
+    "character": "Officious yet pragmatic; keeps the docks moving by any means that won’t sink tomorrow.",
+    "traits": [
+        "disciplined",
+        "calculating",
+        "status-conscious",
+        "world-weary"
+    ],
+    "skills": [
+        "crowd control without escalation",
+        "ship seizure protocols",
+        "convoy scheduling",
+        "backroom arbitration",
+        "smell-testing counterfeit chits"
+    ],
+    "talents": [
+        "breaking strikes with minimal blood",
+        "turning rival patrols against each other",
+        "reading foot-dusted floors for traffic patterns"
+    ],
+    "flaws": [
+        "corruptible",
+        "guilt-ridden about past orders",
+        "narrow focus on schedules",
+        "resentful of public scrutiny"
+    ],
+    "dreams": [
+        "retire quietly to an inland arbitration seat",
+        "buy a permanent Board of Tallymen vote",
+        "restore the Saltwardens’ image as neutral peacekeepers"
+    ],
+    "secrets": [
+        "took hush-money tied to sabotage at Dry Dock Three",
+        "keeps a copied key to a Brine Exchange vault with counterfeit chits",
+        "bribed a Mnemos clerk to bury a recall of oath-leeches use"
+    ],
+    "relations": [
+        {
+            "npc_name": "Maris Veyron",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Luma Keel",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sel Corvane",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Nella Shuck",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Yarik Nine-Fingers",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Tallen Quill",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

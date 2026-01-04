@@ -1,0 +1,65 @@
+{
+    "name": "Caldra",
+    "surname": "Imin",
+    "race": "Human",
+    "age": 35,
+    "appearance": "Lanternwoman with oil-burnished coat, a pocket full of wick-stubs, and a smile brighter than the lamps she tends.",
+    "character": "Mercurial broker of light and rumor, believes the city survives on the right shadows in the right places.",
+    "traits": [
+        "charming",
+        "opportunistic",
+        "daring",
+        "loyal to a chosen few"
+    ],
+    "skills": [
+        "coded signaling",
+        "smuggler route brokerage",
+        "swift boating in blackouts",
+        "forged lantern dues",
+        "street intel tradecraft"
+    ],
+    "talents": [
+        "remembers complex codebooks after one pass",
+        "can vanish in a crowd of three",
+        "changes accents like hats"
+    ],
+    "flaws": [
+        "thrill-seeker",
+        "trusts the wrong nobles",
+        "gambles with reputations"
+    ],
+    "dreams": [
+        "Unseat the Wardens from beacon monopoly",
+        "Build an independent rescue flotilla funded by discreet fees"
+    ],
+    "secrets": [
+        "Double-coded a signal to sink a corsair and a rival Lantern crew in one stroke",
+        "Hides a cache of ambered documents stolen from the Vaults"
+    ],
+    "relations": [
+        {
+            "npc_name": "Isha Brinehand",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sorev Katch",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Nerey Alis",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Keshan Drook",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Serat Voss",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sel Var Saltvein",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

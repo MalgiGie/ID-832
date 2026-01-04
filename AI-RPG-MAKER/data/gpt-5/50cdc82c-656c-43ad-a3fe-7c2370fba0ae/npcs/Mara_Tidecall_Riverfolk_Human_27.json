@@ -1,0 +1,62 @@
+{
+    "name": "Mara",
+    "surname": "Tidecall",
+    "race": "Riverfolk Human",
+    "age": 27,
+    "appearance": "Wind-chapped cheeks, braided cords wrapped around forearms, and a helm-cloak stitched with tiny slate fish. Her gaze is as sure as her stance on a wet deck.",
+    "character": "Bold and duty-bound, her pride sits like a tiller hand—firm, guiding, sometimes unyielding.",
+    "traits": [
+        "Proud",
+        "Bold",
+        "Honorable",
+        "Blunt"
+    ],
+    "skills": [
+        "River navigation",
+        "Ropework and chain anchoring",
+        "Flood-bell reading",
+        "Towpath coordination"
+    ],
+    "talents": [
+        "Senses depth shifts by footfeel",
+        "Sings in tune with the Chanting Ford’s tones",
+        "Ties knots that never slip under strain"
+    ],
+    "flaws": [
+        "Stubborn",
+        "Contempt for smugglers",
+        "Gets seasick on open sea"
+    ],
+    "dreams": [
+        "Seat the Pilots on the Twelve Seals",
+        "Chart blind creeks of Shiverfen",
+        "Outmaneuver House Kelvar toll-chains at herd drives"
+    ],
+    "secrets": [
+        "Sold a chart scrap to the Night Orchard under duress",
+        "Secretly admires Ina’s union speeches",
+        "Keeps a forbidden reed-marker that points to a smuggler’s shoal"
+    ],
+    "relations": [
+        {
+            "npc_name": "Rook Salter",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ina Peppercoal",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Lysa Shardhands",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thane Kelvar",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Jaya Basaltrip",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

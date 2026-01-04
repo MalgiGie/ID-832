@@ -1,0 +1,59 @@
+{
+    "name": "Neris",
+    "surname": "Winnafala",
+    "race": "elf morski",
+    "age": 84,
+    "appearance": "Skóra z perłowym połyskiem, włosy jak wodorosty, błony między palcami; płaszcz z plecionych siatek; oczy w kolorze głębokiej zatoki.",
+    "character": "Spokojna jak głębina, cierpliwa i uważna; pamięta krzywdy, ale nie szuka zemsty bez powodu.",
+    "traits": [
+        "wyciszona",
+        "niezależna",
+        "dumna",
+        "lojalna wobec załogi"
+    ],
+    "skills": [
+        "nawigacja w prądach",
+        "czytanie gwiazd",
+        "cichy połów",
+        "języki mglistych wysp",
+        "skryte podejścia do nabrzeży"
+    ],
+    "talents": [
+        "płynie bezszelestnie nawet pod prąd",
+        "słyszy echa w wodzie jak głosy"
+    ],
+    "flaws": [
+        "nie ufa piecom ognia",
+        "chłodny humor utrudnia sojusze"
+    ],
+    "dreams": [
+        "otworzyć wolny szlak bez podatków",
+        "pogodzić wyspy z Kaledrą"
+    ],
+    "secrets": [
+        "przewiozła kiedyś zakazane relikwie Zakonu",
+        "zna ukryte przejście pod zawieszonym Niebomostem"
+    ],
+    "relations": [
+        {
+            "npc_name": "Lima Fal",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Jodan Piżmowy",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Eldan Zmierzchowy",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Serad Głaz",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Matka Korala",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

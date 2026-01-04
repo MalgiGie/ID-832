@@ -1,0 +1,44 @@
+{
+    "id": "M2",
+    "title": "Moths on the Water",
+    "quest_giver": "Pesha Lume",
+    "description": "The soot from the burned lanterns carries a breath that is not wind: a whisper of reversed echoes and a taste of mothwax, meaning someone wanted the dark to remember. Pesha Lume, a calm-voiced adept whose hands never shake even when the lamps do, asks you to guard a rite at the Starfall Scar. The Order intends to seal a lightwell that opens every new moon, and your name—spoken backward in the Scar long ago—has made you a favored shield against echo-echoes. You will escort Pesha and two moth-keepers across wind-chipped glass to a bowl of fused sand that glows faintly; there, at the edge of the world’s breath, you will hold the line while the moths drink a dangerous light. If the echo speaks, you must not answer twice.",
+    "objectives": [
+        "Escort Pesha Lume’s team safely to the Starfall Scar’s central bowl.",
+        "Defend the rite from intruders attracted by the lightwell.",
+        "Hold a perimeter in silence while moth-keepers seal the opening.",
+        "Capture one echo in a mothwax jar without letting it speak your true name.",
+        "Return with Pesha to the House of Quiet Wings and report to the Archive."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Pesha Lume",
+            "line": "The Scar remembers what we forget, and it forgets what we cling to. If an echo offers you comfort, it is reaching for your spine. We will speak only in agreed signs once we cross the bowl, and you will not answer to your name if it is sung, whistled, or abraded in the glass. You have already traded one syllable to this place; I will not let it tax you twice."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "The first time I stood in that bowl the world felt like a bell that had just been struck. My breath came back wrong and my fear felt like someone else’s memory. I can carry a shield and keep my mouth shut. But if something wears my voice, I want you to promise me you’ll break the jar rather than let it walk home with us."
+        },
+        {
+            "speaker": "Kara Dusk",
+            "line": "Wardens are running a windline above the Scar tonight, and not all of them trust moth rites that don’t file itineraries. If anything drops from our skiffs that isn’t rain, I’ll be there to cut it from your spine. I remember you from Bastion drills; you never dropped the hook when the rope bit, and I’ll take that over a prayer."
+        },
+        {
+            "speaker": "Pesha Lume",
+            "line": "When the lightwell closes, there will be a moment when all sounds seem further away. Do not mistake that for safety. That is when the dark rearranges itself, like a sleeper rolling over. We will leave a moth to watch our backs; it will die for us if asked, and we will add its name to the wax."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": [
+        "Mothwax-Sealed Memory Jar strengthened (reduces the grip of echoes)",
+        "Order of Moths favor (standard): access to Archive scribe-pools for one research session",
+        "A hush-sigil that lets you pass one Warden checkpoint at night without a lantern"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "M04",
+    "title": "Tide-Order Questions",
+    "quest_giver": "Senne Vell",
+    "description": "Spray feathered the Pilgrim’s Stair like lace, and candlelight flowed upward in a slow river of penitence and stubbornness. Exiled Prior Senne Vell waited by the lion’s mouth spring with salt cakes and eyes that had outstared exile, asking Neris to guard a quiet parley with Rector Mera. The Stair’s old magic demanded questions be asked in tide-order, and zealots with knotted wrists had been policing what could be asked for too long. The Fifth Knot’s return could mend a schism that had frayed every oath-cord in the city, yet there were hands eager to saw at any bridge before it could hold. Even the stone underfoot felt the question: which vows should bind a city that has learned to survive by untying itself when necessary?",
+    "objectives": [
+        "Escort Senne Vell from the hidden landing to a mid-stair niche without zealot interference.",
+        "Keep to tide-order Q&A with Rector Mera to soothe the Stair’s superstition and avoid a bad omen.",
+        "Retrieve a stolen cord from a zealot cell intent on humiliating the Fifth Knot during the parley.",
+        "Help tie a provisional reconciliation knot that hums truth when brought near Parliament lamps.",
+        "Ensure the return route remains unobserved by rival factions."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Senne Vell",
+            "line": "The lamps have long memories, and so do those who tend them. Exile taught me which of my certainties were scaffolds and which were cages. I do not ask for triumph tonight, only for a question to be heard without a fist closing over it. Walk beside me like a shadow that happens to be brave. If the Stair hums approval, you may feel it through your boots."
+        },
+        {
+            "speaker": "Rector Mera",
+            "line": "I will not pretend I did not dread this meeting, Senne. Pride is a harder knot to unpick than any a novice ties wrong on their first day. Yet the city needs both a law that can bind its flood and a mercy that can forgive its runaways. Neris Quay, you will keep our circle unbroken. Should zealots test us, remind them that knots tied in fear unravel in blood."
+        },
+        {
+            "speaker": "Zealot of the Purist Knot",
+            "line": "The Stair has room for truth but not for traitors. You come to untie a penance only because the city has learned to love its own bending more than its backbone. We will not see the Fifth Knot crawl back under a rain of candles to bind a weaker law. Turn away, or be counted with the compromisers when the lamps burn white for judgment."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "I’ve stood on hinges that sing when storms roll in, and I’ve watched ropes hold a barge whose owner was praying to every god but gravity. A good knot is not a prison. It is a promise that holds shape when wind and water argue. Ask your questions in the right order, and I will keep anyone from answering with knives."
+        },
+        {
+            "speaker": "Senne Vell",
+            "line": "Let this cord be provisional and public. Let it hum when falsehoods lean too close, not to shame but to warn. If we are to return, it will be by the same steps we left, with our heads not low but level. A city of lamps deserves a church not afraid of light."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M03"
+        ],
+        "next": [
+            "M05"
+        ]
+    },
+    "rewards": [
+        "Blessed oath-cord (three uses) that hums faintly near deliberate untruths",
+        "Order escort token for Pilgrim’s Stair during feast nights",
+        "Reputation: Order of Knotted Light (reconciliationist trust)",
+        "Knowledge: the zealots’ stolen cord bears dye residues from Dyers’ Spiral warehouses"
+    ]
+}

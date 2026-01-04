@@ -1,0 +1,80 @@
+{
+    "id": "M6",
+    "title": "Blue Bells and Black Water",
+    "quest_giver": {
+        "name": "Neris Undersong",
+        "affiliation": "River Covenant"
+    },
+    "description": "The Underrun breathes a warm fog that smells of iron, eel oil, and the sweet copper of old bells, and tonight the vaults glow with the blue hush of lanterns that ring without being struck. Blue bells hang under the cavern arch like sleeping moons caught in glass, and when the current inhales they thrum with a promise of passage whispered in water’s grammar. Neris Undersong leans from a barge with ink-stained fingers and a voice like a low oar stroke, their words moving the crowd the way a skiff’s prow moves a wake, gentle at first and then decisive. The River Covenant is holding a blue-bell auction that sells nothing and binds everything, not for coin but for favors, future passages, and the quiet rescue of someone you have not met yet; the price is the story of your weight and how you will carry it. If you want the collapsible dock code and a pilot token that whispers to wardens, you must approach like a bargeman and not a clerk, offering breath instead of ledger, and silence where a merchant would shout. The current here talks in little eddies that mimic voices you trust, and even your name feels like a rope that someone else might tug, and so your Vent-Pearl Pair will be more than tool; they will be promise, anchor, and the thin white line back to air. The bells ring and the crowd shifts as if the river itself changed its mind, and somewhere deeper a stonewhale rolls in its sleep, turning the echo of its song into a rhythm your heart tries foolishly to match.",
+    "objectives": [
+        "Attend the blue-bell auction at the Underrun Docks and register under Neris Undersong’s sponsorship, moving with the barge-folk’s patience rather than a clerk’s haste.",
+        "Bid a favor and a salt-scrip voucher for the collapsible dock release code tied to the Singing Gate passage frame, assuring the Covenant that your price will be paid forward, not just tallied.",
+        "Pilot a skiff through luring currents to demonstrate competency with reedstone hums without capsizing, letting your hands speak in counter-current measures that the bells approve.",
+        "Receive and memorize a wet-ledger passphrase recognized by River Covenant wardens, holding it in your mouth like a breath you will spend only when the bells glow blue.",
+        "Share a copy of the Library’s map-song intervals with Neris Undersong in confidence, keeping its cadence intact so the shelves of Scoria will forgive the echo."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Neris Undersong",
+            "lines": "Coins make waves that die too quickly, flashy ripples that look like decisions until the current swallows them whole. We trade in eddies and echoes, in the memory of a pull well-placed and a rescue made before anyone knew they were drowning. Sing me a bell-line that proves you will not steer our people into a stonewhale’s jaw for the sake of your engines, because engines that forget a river are only knives with heat. Tell me how you will carry silence when a loud choice would be cheaper, and how you will pay a debt in seasons rather than in days. Do this, and I will place a token in your palm that warm water will not wash away, a whispering bit of brass that the wardens hear even when a surge swallows your voice."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "lines": "I have dreamed stonewhales singing counterweights into place, their songs lifting gates the way the Chainheart lifts us all, and I woke with my hands moving as if to keep that rhythm alive. I will not make that dream into a nightmare; I will not set weight where the current breaks bones, nor place a promise on a ledger that cannot float. Listen now, and forgive the tremor, because this is the interval the Black Library keeps behind glass, learned in a hush and hummed with a reedstone tongue so the shelves did not ring alarm. These are the notes that the bells answer when the current agrees to forget our weight, the cadence that convinces a river we are passengers rather than parasites. The Vent-Pearl I carry is my pledge and the other is yours if I fail, and between those breaths I will steer as if my own memory were tied to your rope."
+        },
+        {
+            "speaker": "Dock Warden",
+            "lines": "I watched your hands rather than your boasts, and the skiff took the bad tongue of the current, kissed it rather than bit it, and came out smiling without a splash to shame the bells. That is piloting, not luck, and the river knows the difference because it keeps score where we cannot see the chalk. Take the code and do not let Emberwatch hear you trying it on the wrong frame, because they will treat your brass whisper like a shout in a quiet house. Memorize the wet-ledger passphrase I give you, and keep it under your breath like a warm coin you do not show until the exact toll-gate where it fits. Remember that luring currents borrow familiar voices, and if you hear your own mother asking you to turn, you will keep straight and hum low, or the river will fine you with something you cannot repay."
+        },
+        {
+            "speaker": "Neris Undersong",
+            "lines": "Good, and better than good, because the river remembers those who respect its voice, and there are not many who listen with both ears when the water starts to tell old stories. I will see the token glows when you need it and I will ring blue if you must pass in a hurry, but a hurried passage still owes its season and will come to collect. If the Salt Charter complains about tariffs, let them count their salt and keep their scales bright, because this passage belongs to the current and not the counting of people who have never missed a breath down here. Keep your map-song intervals for my ear alone and the Library’s shadow will not fall across your shoulder, because some shelves prefer to forget the names of those who borrowed from their quiet. Go steady now; the bells are listening for you, and the Underrun does not forgive those who clap when it asks for a whisper."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Walk the Current in Daylight",
+            "text": "You step to the auction rail and declare your favor openly, naming the hands you will lend when floods rise and the nights when you will run ladders for strangers without counting the rungs. You place a Salt Charter voucher on the brass lip as a token of good faith, not to pay the river but to still the noise of those who would shout over its song. You speak of your intent to use the collapsible dock code only for the Singing Gate frame and only when the bells glow blue, binding yourself to the rhythm that keeps boats from tearing each other’s ropes. You promise that the Library’s map-song intervals will be shared only with Neris Undersong and never copied into a ledger that can be stolen or burned, because some songs must live in throats alone. You finish by telling the wardens you would rather owe the river a favor than owe a merchant a receipt, because the first debt makes you watchful and the second makes you blind.",
+            "outcome": "The River Covenant marks your name with a small chalk line under the blue bell, and the Dock Warden’s mouth twitches into something that might one day become a smile. The collapsible dock release code is recited to you twice, once brisk and once slow, and you repeat it until even your breath seems to know it, and then they press the pilot token into your palm where it warms as if it were listening. The wet-ledger passphrase is given in a ritual whisper, its cadence nested like knots in a rope, and you feel how it tugs doors open in the dark without waking the house. Emberwatch hears nothing beyond the usual river rumors, and the Salt Charter files your open voucher away with a clerk’s sniff that means they will watch your routes but they will not yet meddle. Your standing with the River Covenant rises like a tide against your hull, and you walk away holding every promised reward with the sense that blue-bell nights will take your side if you honor their quiet."
+        },
+        {
+            "id": "C2",
+            "title": "Ledger in the Mist",
+            "text": "You tilt your head toward the shadow of a lantern and let a Veil and Ledger fixer slide up beside you, both of you speaking in the arithmetic of pauses where others use numbers. You arrange that your Salt Charter voucher will be mirrored by a second set of weights that tips in your favor, a quiet cushion in case the auction swells beyond your reach. You ask for a name that is not a name to put on a favor you do not want to speak aloud, something payable in cloudy season when people forget what the river costs. You promise the map-song intervals will be hummed to Undersong, but an echo might be allowed to linger in a place where shadows keep counts, an admission that makes your tongue taste of iron. Then you raise your hand in the light and bid like a person who trusts the dark to hold their change, and the bells shiver as if they know you have brought dusk into a blue night.",
+            "outcome": "The Dock Warden’s eyes narrow as the token touches your palm, because wardens smell dusk the way eels smell blood, but the code is still given and the passphrase still drawn in a breath you are made to hold. The rewards are yours, yet the pilot token hums with an extra undertone, a ledger’s heartbeat that tells you someone else is keeping time on your crossings. The River Covenant grants passage but not forgetfulness, and a senior pilot mutters that if you steer true for a season they will allow the dusk to wash off; until then, your wake will be watched. Emberwatch notices a ripple in the auction books a week from now and files your name under ‘keep warm but do not boil’, which is their way of promising a soft hand and a hard memory. The Veil and Ledger’s favor arrives like a folded note under a door, and with it a debt you cannot yet read, even as the code, token, and passphrase you sought sit heavy and real in your pocket."
+        },
+        {
+            "id": "C3",
+            "title": "Let the Skiff Speak",
+            "text": "You ask the wardens to set the skiff against the loudest luring current, the one that mimics a sibling’s voice and makes the keel tremble with homesick lies, and you step aboard with nothing but reedstone and intent. You breathe into the Vent-Pearl and feel the world slow to the tempo of a bell you do not strike, and then you move, letting the oar’s tip write its soft grammar across the pull that wants to claim you. You do not fight the mimic current; you court it, leaning into each false syllable until it tells you where its quiet mistake lives, and there you press a note so low the lanterns bow. When the skiff turns the last corner and the crowd exhales as one, you look smaller than the story they will tell, but the story is already hanging blue from the vault. You land without clatter, the skiff has no bruise, and your name tastes like river salt on tongues that have said it a hundred years already.",
+            "outcome": "Respect arrives before the token, and when the Dock Warden finally sets brass in your hand it is with the calm of someone placing a candle in a shrine they keep for themselves. The collapsible dock code is given with an extra caution about flood nights, not as a scold but as a secret shared between pilots who will pull each other home if the bells go silent. The wet-ledger passphrase is sung soft enough to fog the mirror of your mask, and you cradle it in your mouth like a small warmth kept against a cold shift. The Salt Charter is unimpressed by feats that do not move crates, but a junior broker’s curiosity softens a tariff on a future day because even merchants have hearts that go quiet at a clean line through bad water. You leave with every promised reward and a new gravity in your step, though your arms tremble from the effort and the river has left a little ache in your bones that will sing to you whenever it rains stone."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "code",
+            "description": "Collapsible dock release code keyed to an Underrun hidden frame aligned with the Singing Gate passage, taught as a cadence that only opens when breathed correctly."
+        },
+        {
+            "type": "token",
+            "description": "River Covenant pilot token that murmurs to wardens on blue-bell nights, warming in the hand like a small oath kept."
+        },
+        {
+            "type": "passphrase",
+            "description": "Wet-ledger passphrase for blue-bell nights, recognized by River Covenant wardens and remembered by the bells when spoken on a single calm breath."
+        },
+        {
+            "type": "reputation",
+            "description": "Reputation: + with River Covenant, a quiet rise in standing that makes ropes get thrown sooner and questions asked later."
+        }
+    ]
+}

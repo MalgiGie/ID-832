@@ -1,0 +1,66 @@
+{
+    "name": "Thane",
+    "surname": "Kelvar",
+    "race": "Human (House Kelvar)",
+    "age": 29,
+    "appearance": "A well-combed man with river-limestone eyes, a tide-clock brooch, and meticulous bead-knots in his hair. His gloves are eel-skin, inkless but never idle.",
+    "character": "Polished and calculating, he wears courtesy like armor and thinks three ledgers ahead.",
+    "traits": [
+        "Precise",
+        "Ambitious",
+        "Diplomatic",
+        "Guarded"
+    ],
+    "skills": [
+        "Factoring and credit webs",
+        "Contract law",
+        "Toll arbitration",
+        "Risk analysis"
+    ],
+    "talents": [
+        "Intuitive sense of tide-turns",
+        "Photographic memory for faces and bead codes",
+        "Reading room tempers"
+    ],
+    "flaws": [
+        "Pride",
+        "Risk-averse under scrutiny",
+        "Family-pressure indecision"
+    ],
+    "dreams": [
+        "Ascend to tide-seat within House Kelvar",
+        "Privatize a wing of the River Market",
+        "Secretly open an independent counting room free of clan strings"
+    ],
+    "secrets": [
+        "Brokered coin-blank molds through a foundry foreman",
+        "Owes the Night Orchard for silencing a loan-default scandal",
+        "Keeps a duplicate key to the Chainbridge mid-span records hatch"
+    ],
+    "relations": [
+        {
+            "npc_name": "Lysa Shardhands",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Neris Aline",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Garrin Chainwatch",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Iven Shadequinch",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Borgo Emberdell",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Rook Salter",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

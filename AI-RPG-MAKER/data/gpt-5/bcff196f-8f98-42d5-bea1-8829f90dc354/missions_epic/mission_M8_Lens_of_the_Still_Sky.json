@@ -1,0 +1,75 @@
+{
+    "id": "M8",
+    "title": "Lens of the Still Sky",
+    "quest_giver": {
+        "name": "Lysa Quill",
+        "affiliation": "Night Cartographers"
+    },
+    "description": "Glasslake of Sere lies like a pupil that never blinks, a perfect oval of stillness holding the sky so faithfully that stars seem to burn at noon beneath its skin. A ruined observatory leans on its promontory as if drunk on old fire, brasswork slumped and greened by time, shutters fused to crescents by a heat that was less weather than verdict. The reeds whisper in breeze-voices about who drowned and who learned to float by lying to themselves, and sometimes the whisper gathers into a chorus that sounds like the city’s market bells underwater. Lysa Quill meets Kezra on a high landing, her careful smile a line drawn by a steady hand, and offers a trade wrapped in silk: recover the lens that can cut reflections from water like cloth, then name who shall own the blade it makes of truth. Sula Reedmantle, smelling faintly of rosemary and ash, counters with a warning as old as the Archive’s lamps: every cut in a mirror leaves a scar in the mind that made it, and a scar remembers how the wound felt when it was new. The fishers of Sere speak softly and row with padded oars, and they teach a breath that cannot be heard by water when fear tightens the chest. Kezra must step between temptations that gleam like coins on the lakebed: futures that can be purchased, confidences that can be traded, and the safety of Thornspire weighed against the price of letting a secret society or a holy house own a way to steal moments from the river’s face. Razorweed sighs under the surface like a patient saw, star-sickness dreams cough up slivers of light, and the lens itself waits in a tower that shivers when anyone speaks an oath. In the end, the question is not only who deserves custody, but what shape of city will be reflected back when the lake is asked to show tomorrow in advance.",
+    "objectives": [
+        "Travel to the Glasslake of Sere and explore the observatory ruins safely, avoiding razorweed and star-sickness.",
+        "Recover the reflection-cutting lens without gazing too long into still water.",
+        "Decide whether to deliver the lens to the Night Cartographers, the Lantern Archive, or to keep it under Order seal.",
+        "Resist a tempting ‘future’ shown by the lake; leave with mind and purpose intact."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lysa Quill",
+            "lines": "A map is a mercy when it spares you mistakes you’ve seen others make, and we make a business of mercy because the city likes its mercies on time. The lens will let you take a reflection and study it until the truth stands up and introduces itself, and then you can ask its name twice to make sure it is not lying. Give it to us, and we’ll give you a path out of your city’s future that tastes like a lie you won’t have to tell, a ribbon of safe water threading neatly around whatever hunts in the reeds. We deal in measures, not miracles; we inventory risk and sell the relief, and it is a cleaner trade than the oaths of people who pretend they do not price things. Keep in mind, Kezra Thorneglass, that silence is just a secret with no buyer yet, and the Night Cartographers pay in certainties that are gentler than rumors."
+        },
+        {
+            "speaker": "Sula Reedmantle",
+            "lines": "The lake keeps favors like a jealous lover, and it remembers the faces of those who try to look past consequence to outcome as if life were only a ledger. If you must take the lens, you must promise to return its power to a house that values memory over leverage, for the Archive binds recollection to responsibility and teaches the city to live with what it has been. The Cartographers value prices, and prices are the fastest way to turn a truth into a tool, a handle to be gripped by the strongest hand in the room. Be wary of cutting reflections; the ragged edge of a stolen moment can nick your sleep, and a thousand such nicks make a mind bleed thin. I taught you to tend lanterns that remember, not knives that make even water confess, and I would rather the lens sit dim in a reliquary than bright in a market."
+        },
+        {
+            "speaker": "A Fisher of Sere",
+            "lines": "Keep your breath shallow and your eyes on your oars, because the lake measures you by the noise you make inside your ribs. The lake shows you a version of yourself who always says yes, and if you watch too long you forget the taste of the word no and how it saves lives. Real people sometimes say no, and then they say yes to something else that takes more courage, like going home empty-handed and still owing yourself honesty. Mind the razorweed under the skin of the water, for it strokes your wrists like a friend and then decides it’s a rope; it loves fingers most of all. Remember that while you’re carrying glass that wants to be a knife, the sky above is heavier than it looks and will press its weight through the lens into your bones."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I have cut a reflection once and paid in night sweats for it, and the shard I keep is a small moon that tugs at my sleep when the oil in my lantern runs low. I will take the lens out of this place, but I will not let it turn me into a knife someone else can hold, not the Night Cartographers with their tidy scales, nor the Exchange with its chalk circles, nor even the Order if penance is the only purchase price they offer. If I must choose a custodian, I will choose the one least likely to sell my city to its own reflection and most likely to admit that some futures have to be suffered honestly to keep us human. I will row with a quiet breath, count my knots, and let the reeds speak without answering them, and when the lake shows me a tempting path I will touch the thorn under my tongue until the taste of iron reminds me who I promised to be. Let the water remember me as someone who looked and then looked away before the looking made me forget how to look at people."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Deliver the lens to the Night Cartographers",
+            "text": "You seek Lysa Quill at a rooftop meeting where laundry snaps like pennons and the river lights blink in private grammar, and you present the lens wrapped in hush-silk like a newborn truth. You speak of starving barges and the reed-thing that knots courage, and you say that a map that saves lives is worth trusting to those who deal in routes as if they were arteries. You explain that secrecy has its place when monsters listen for courage, and that the city’s factions will strangle one another if every lamp shines on every ledger at once. You ask for binding promises measured in spans and ells, for whistle-keys that will be yours alone, and for a line of safe water that bends around blood and rumor both. You keep your voice steady despite the thorn under your tongue warming like a coal, and you make clear that you will watch the watchers and cut no reflections without counting the scars.",
+            "outcome": "Lysa Quill accepts with a smile like a compass point and swears in the Cartographers’ measure to keep the lens under three locks and nine witnesses, each witness owing you a favor named at dusk. You receive a partial mirror map that shows the reed-thing’s hunting tides as glimmering no-go bands, and a threaded route that pulls barges through the Floodwalk like a needle through cloth; it is precise, unnerving, and effective. The Order of the Black Thistle frowns in public rites and lets its reliquary lamps burn a touch hotter when you pass, while Sula’s silence feels heavier than a scold, her trust nicked but not severed. Night Cartographer nodes begin greeting you with respect edged in appraisal, and rumors say your name in the same breath as the Knife and the Scale, which is a mixed blessing in a city that prices secrets. When the lake’s future-taste rises in your throat on lonely nights, you find it easier to swallow, yet you note how quickly people now ask you to trade tomorrow for comfort today, and you wonder how often you will be asked to cut again."
+        },
+        {
+            "id": "C2",
+            "title": "Entrust the lens to the Lantern Archive",
+            "text": "You bring the lens up the Scribes’ Stair beneath lamps that never go dark, and you lay it upon a bowl of still water ringed with salt in the Archive’s crescent hall, asking the lanterns to remember this moment without owning it. You tell Sula that a tool that steals moments belongs where memory is taught with duty stitched in, not where price tags grow like barnacles, and you ask for a public oath that no reflection will be cut without a quorum and a purpose written in plain words. You speak of the city’s founding vows and of the Oathstone’s chipped corner like a missing tooth that whistles when liars talk, and you say you would rather the lens gather dust than gather debts. You ask the Archive to publish a primer on reflection ethics, to teach boatmen and children alike where looking ends and leering begins, and you bow your head while the oil is mixed with rosemary to quiet the lens’s hunger. You admit your own trespass with the shard on your finger and ask for penance that builds instead of bleeds, a labor that turns temptation into a lesson nailed to the city’s door.",
+            "outcome": "Archivist Irevan and Sula convene a lantern circle, and under their soft, relentless light you watch as the lens is fitted with seals and a cradle that sings when lifted by unpermitted hands, a lullaby against theft. The Archive issues a public notice that a reflection-cutter exists under their custody and that its uses will be recorded in an open ledger, a scandalous act of transparency that makes rumor-mongers grind their teeth. The Night Cartographers purse their lips and offer only a coded warning about reed-thing tides in lieu of the mirror map they had promised, a thread of sound and timing you can teach to pilots with dawn whistles. The Order offers measured approval and a vigil for those tempted by futures, while guild factors debate whether the Archive has overstepped by housing a blade in a library’s sheath. In private, Sula teaches you to blend a steadier memory oil that cools the fever the Glasslake left in your dreams, and you feel your nights gradually return to you like shy fish."
+        },
+        {
+            "id": "C3",
+            "title": "Seal the lens under the Order of the Black Thistle",
+            "text": "You walk the Shadow of the Needle to Black Thistle House, the buttresses swallowing sound, and you ask Prior Ansel to weigh a sharp truth as if it were a vow laid on the floor before the Oathstone. You tell him that some knives are safer in scabbards that know how to bite back, and that the city has enemies who would buy futures the way they buy grain, hunger-proof and precise. You say the Order’s reliquary can yoke the lens to conscience, and you ask that any use be paired with fast and alms so that the cost is paid in the body and not forgotten in tallies. You insist that Thornspire must not become a place where the powerful shave slivers from tomorrow to sand today’s rough edges, and that a holy house watched by common eyes is better than a hidden bureau watched by none. You put your thorn-pricked tongue to the words and taste iron and old dust, and you do not look away when the reliquary lamps flicker like eyes that have just woken.",
+            "outcome": "The Order accepts with ritual sobriety; Sister Meret pricks her own tongue and reads an oath that binds the lens to a locked armory whose hinges recite vows when opened, a deterrent to casual miracles. Publicly, the Order announces a penitent custodianship, promises that any reflection cut will be confessed in the chapel yard under thistle wreaths, and invites witnesses from the Archive and the Pilots to observe without interference. The Night Cartographers withdraw their offer of a mirror map entirely but slip you a night-whisper warning about the reed-thing’s tides as a professional courtesy, its rhythm trapped in a reed-flute pattern that will never be written down. Sula is cool but not cold, acknowledging that a blade held in gauntlets is safer than in ungloved hands, and she presses a vial of calm-breath oil into your palm for the nights when the lake taps at your window. The Order’s favor warms the watchmen at the gates and cools certain merchant tempers, but you sense that some doors in the Scribes’ Stair close a little earlier when you approach, as if the city is measuring you for a different kind of work."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item (Secured Custody)",
+            "description": "Reflection-cutting lens secured under agreed custody, to be called upon as a tool for the final rite when the city must unmask a false reflection."
+        },
+        {
+            "type": "Information",
+            "description": "Either a partial mirror map from the Night Cartographers tracing routes that dodge the reed-thing’s hunting grounds, or, if their offer is refused, a coded whistle pattern warning of reed-thing tides to teach pilots."
+        },
+        {
+            "type": "Technique",
+            "description": "A calm-breath exercise learned from the fishers of Sere that steadies the ribs and mind, resisting panic and star-sickness during vision-heavy scenes."
+        }
+    ]
+}

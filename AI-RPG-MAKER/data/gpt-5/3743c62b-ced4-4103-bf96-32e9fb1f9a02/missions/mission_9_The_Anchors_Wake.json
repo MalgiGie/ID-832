@@ -1,0 +1,45 @@
+{
+    "id": 9,
+    "title": "The Anchors Wake",
+    "quest_giver": "Hark Tamsin",
+    "description": "The Anchor Fields are nine fortresses hammered into earth and ritual, and today the service towns hum like a fairground and an armory at once. Hark Tamsin, a steppe fixer with inked windroads on his forearms, has arranged escorts and timing with thunderherd clans who will not like what they have to like if Ankharion is to move. The plan: test a partial release at Anchor Three during the coming Crown of Cirrus event, when the wind wears a wedding veil. Chainwarden militias drill in the basins, Aerarium clerks tally counterweights with eyes like scales, and Night Orchid shadows assess who will profit from what. Lyris must deliver the rods, convince Arch-Warden Mael Iqiren to allow a controlled test, and unmask saboteurs who would rather see a catastrophe prove their point than a measured success prove them wrong.",
+    "objectives": [
+        "Meet Hark Tamsin at Anchor Three’s service town to synchronize steppe escort routes.",
+        "Deliver crystalline tuning rods to the Chain Cathedral’s field engineers while concealing the ten-knot plates.",
+        "Petition Arch-Warden Mael Iqiren to authorize a timed, partial unmooring during Crown of Cirrus, leveraging Wind Court pass and community guarantees.",
+        "Identify and disarm Night Orchid rogue cell charges set along the Anchor basin’s flood trench.",
+        "Secure the test window and post whisperstone lookouts for Syndic interference."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Hark Tamsin",
+            "lines": "When the windroad goes wrong, you don’t curse the grass; you find the stone your horse didn’t see. We’ll move your teams through the basins like rain through reeds, and if anyone yells that the sky is falling, we will hand them a cup and say, drink."
+        },
+        {
+            "speaker": "Arch-Warden Mael Iqiren",
+            "lines": "You bring me a marriage between forbidden math and festival weather and ask me to walk it down the aisle. I have put men in chains for less romance. But I also count bolts by the bodies they have spared. Show me your safeties. Show me your escape vector. Show me you love this city more than your movement."
+        },
+        {
+            "speaker": "Yassa Nim",
+            "lines": "A rogue cell decided to make their own miracle with powder and prayer. I am telling you so you do not paint my whole garden with their stain. I prune. I do not salt the earth. Find the charges and blow the wind away from them."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "We will tie knots you can untie the moment your spine goes cold, Warden. We will set a leash on our own leash, and if the Old Song goes sharp, we will hum it back into tune. All I ask is an hour when the bell rings with the wind, not against it."
+        }
+    ],
+    "connections": {
+        "previous": [
+            8
+        ],
+        "next": [
+            10
+        ]
+    },
+    "rewards": [
+        "Authorized test window at Anchor Three during Crown of Cirrus",
+        "Steppe clans escort guarantee (reduced ambush risk on the plains)",
+        "Arch-Warden conditional blessing (Chainwarden militias will not intervene during the test unless safeties fail)",
+        "Night Orchid rogue cell neutralized; Matron Vessa offers grudging thanks"
+    ]
+}

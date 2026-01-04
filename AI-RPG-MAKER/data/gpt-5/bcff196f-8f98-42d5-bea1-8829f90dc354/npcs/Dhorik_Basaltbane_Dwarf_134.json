@@ -1,0 +1,62 @@
+{
+    "name": "Dhorik",
+    "surname": "Basaltbane",
+    "race": "Dwarf",
+    "age": 134,
+    "appearance": "Stature like a carved post, beard braided with iron nails and basalt beads, skin dusted gray, eyes like polished slag.",
+    "character": "Solemn and proud, measures words like stone and keeps them as long.",
+    "traits": [
+        "stoic",
+        "devout to way-shrines",
+        "meticulous"
+    ],
+    "skills": [
+        "quarrying and seam reading",
+        "rope gantry rigging",
+        "chisel-chant leading",
+        "load calculation"
+    ],
+    "talents": [
+        "hears faults in stone through his boots",
+        "unshakable balance on swaying chains"
+    ],
+    "flaws": [
+        "prejudiced against soft-handed scribes",
+        "slow to trust",
+        "keeps feuds past usefulness"
+    ],
+    "dreams": [
+        "secure the geode shrine from thieves",
+        "cast a basalt bell to hang over Thornspire"
+    ],
+    "secrets": [
+        "understands the hex-symbol seam warns of a waking giant",
+        "once took a quiet bribe from House Verrin to delay a rival’s ore wagon"
+    ],
+    "relations": [
+        {
+            "npc_name": "Yael Emberkeel",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Tholl Ironspan",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Arelon Vale",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Brynna Coil",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Selde Karst",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Ossa Wreath",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

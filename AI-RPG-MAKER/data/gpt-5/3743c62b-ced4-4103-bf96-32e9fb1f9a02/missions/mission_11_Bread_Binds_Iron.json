@@ -1,0 +1,45 @@
+{
+    "id": 11,
+    "title": "Bread Binds Iron",
+    "quest_giver": "Kesh Storm-Runner",
+    "description": "The High Tithe Syndic feels the city move and tightens his fist around the river’s throat. Grain convoys halt, prices turn brittle, and the Sky Market’s laughter goes thin. Kesh brings Lyris a whisperstone message: the Syndic will talk if the city admits it needs bread more than it needs dreams. Mira Pellan waits at a reed-fringed dock with a briefcase of promises and a face that looks tired of moral arithmetic. Hark Tamsin has arranged a windroad through delta fog to the Syndic’s stilt hall, where the floorboards creak like a lie in an empty room. To keep Ankharion fed and the tests continuing, Lyris must bargain with a man who thinks a ledger outlives love.",
+    "objectives": [
+        "Ride with Kesh Storm-Runner along windroads to the Tithe Delta, using whisperstones to avoid press-gang patrols.",
+        "Meet Mira Pellan and hear the Aerarium’s offer to stabilize prices in exchange for a stake in future unmoorings.",
+        "Confront Syndic Torven Pell with evidence of Aerarium credit manipulation and the city’s new leverage.",
+        "Negotiate a grain release schedule tied to safety audits rather than blanket embargoes.",
+        "Secure safe-conduct chits for steppe escorts and Sky Market provisions on return."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Kesh Storm-Runner",
+            "lines": "Men like Pell think a full granary weighs more than a promise. Maybe they’re right, some days. But I’ve seen a promise carry a woman through a storm that would have killed a barn full of wheat. Don’t let him make you small because he stands on a pile of sacks."
+        },
+        {
+            "speaker": "Mira Pellan",
+            "lines": "If the city moves, we all move. Grain needs lift as surely as your precious chains, and my ledgers do not lie by themselves. I can help. I can also hurt. I would like to do the first because I am tired of the second. Make it possible."
+        },
+        {
+            "speaker": "Syndic Torven Pell",
+            "lines": "A city in the sky believing it can sail is a poet’s disease. Bread is law. Law is bread. I will feed you if you stop pretending you do not kneel at my dock. Or you will learn how hungry iron can be."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "We moved without you and we did not fall. We would like to not fall and not starve. Here is your sin on paper—credit lines braided to ruin so you could sell the rescue. You will release barges on a schedule tied to audits signed by men who count bolts, not beans. Or the Wind Court hears a bell that carries to three corners and a delta besides."
+        }
+    ],
+    "connections": {
+        "previous": [
+            10
+        ],
+        "next": [
+            12
+        ]
+    },
+    "rewards": [
+        "Grain convoys resume under conditional treaty",
+        "Family debt of the Kaels reduced by a third through tariff forgiveness",
+        "Safe-conduct chits for steppe and river routes",
+        "Aerarium détente with Mira Pellan (reduced scrutiny for one future Orchard run)"
+    ]
+}

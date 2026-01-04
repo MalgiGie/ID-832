@@ -1,0 +1,66 @@
+{
+    "name": "Lira",
+    "surname": "Thole",
+    "race": "Human",
+    "age": 23,
+    "appearance": "Shaved head strung with shell beads, simple gray robes, phosphor-blue freckles at the temples from nights of vigil-light.",
+    "character": "Earnest, curious, and soft-spoken; listens longer than she speaks.",
+    "traits": [
+        "empathetic",
+        "curious",
+        "patient",
+        "idealistic"
+    ],
+    "skills": [
+        "whale-song intonation",
+        "tying remembrance knots",
+        "brewing night-watch tea",
+        "oral histories of the Black Tide"
+    ],
+    "talents": [
+        "perfect pitch",
+        "remembers faces for years",
+        "soothes the sick with humming"
+    ],
+    "flaws": [
+        "overly trusting",
+        "sleepwalks after long chants",
+        "weakness and dizziness near vented marrow fumes"
+    ],
+    "dreams": [
+        "Hear Orum’s heartbeat at the Fathomfall Trench",
+        "Compose a hymn that calms the city in crisis",
+        "Heal rifts between guilds and Pilgrims through shared songs"
+    ],
+    "secrets": [
+        "Her mother died with Marrow Plague symptoms; Lira hoards small vials to study the glow",
+        "Meets Vesk in secret to trade sea-lays for safe-passage warnings",
+        "Once followed Siala into the Reliquary and saw a glow she cannot explain"
+    ],
+    "relations": [
+        {
+            "npc_name": "Siala Nerm",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Irio Mossvane",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Pera Ilem",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Osric Greyfen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Neth Cowl",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Talon Orase",
+            "relation_type": "Friendship"
+        }
+    ]
+}

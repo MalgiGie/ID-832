@@ -1,0 +1,63 @@
+{
+    "name": "Rae",
+    "surname": "Fen",
+    "race": "Human",
+    "age": 19,
+    "appearance": "Wiry novice with wind-tangled hair, a river-blue scarf, and ink-stained fingers. Smells faintly of reedwater and brass polish.",
+    "character": "Earnest and brave with a quick laugh; curiosity often outruns caution.",
+    "traits": [
+        "inquisitive",
+        "loyal",
+        "impetuous",
+        "compassionate"
+    ],
+    "skills": [
+        "novice silt-sensing",
+        "bell-code memorization",
+        "fast swimming",
+        "precise note-taking",
+        "pipe-listening"
+    ],
+    "talents": [
+        "hears aqueduct pipes hum in distinct ‘voices’",
+        "mimics whistles and short horn-calls",
+        "maps spaces by echo"
+    ],
+    "flaws": [
+        "reckless at night assignments",
+        "naive about oath-traders",
+        "trust issues with masks"
+    ],
+    "dreams": [
+        "rebalance water so terrace bells ring in gratitude, not grief",
+        "reunite her scattered family on a dry step",
+        "see the Blue Maw from beneath with a safe line to the surface"
+    ],
+    "secrets": [
+        "mapped hidden bleed-valves feeding Syndicate cisterns",
+        "stole a vial of hush-ink she has not dared use",
+        "meets Kema in secret to pass warnings between Choir and docks"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ys Hul",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Shunn Rippleborne",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Miren Nine-Ropes",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Kema Hookhand",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Orven Caldris",
+            "relation_type": "Hostility"
+        }
+    ]
+}

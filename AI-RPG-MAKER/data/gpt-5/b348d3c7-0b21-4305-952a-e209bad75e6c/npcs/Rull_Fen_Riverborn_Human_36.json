@@ -1,0 +1,80 @@
+{
+    "name": "Rull",
+    "surname": "Fen",
+    "race": "Riverborn Human",
+    "age": 36,
+    "appearance": "Lean, river-tanned, with a pilot’s braid and a tattoo of a rope looped through a riverbone on his forearm. Keeps a charm of glass seed in his cap.",
+    "character": "Cocksure on water, surprisingly gentle on land.",
+    "traits": [
+        "bold",
+        "devoted to his crew",
+        "luck-proud",
+        "superstitious about knots",
+        "grudge-light"
+    ],
+    "skills": [
+        "fast-water turning",
+        "reading silt eddies by fingertip",
+        "night run navigation",
+        "salvage rigging under pressure",
+        "strike evasion by alternate cuts"
+    ],
+    "talents": [
+        "hears when a rope will part before it does",
+        "teaches river-sense to greenhands quickly",
+        "talks fen-wraiths down with a backward verse"
+    ],
+    "flaws": [
+        "reckless when challenged by Syndicate crews",
+        "gambles on weather",
+        "hates masks, chokes under ash"
+    ],
+    "dreams": [
+        "secure exclusive salvage charters at the Shattered Weir",
+        "chart a safe lane through shifting northern silt",
+        "own a pilot school free of Parliament fees"
+    ],
+    "secrets": [
+        "Cut a forbidden backwater to save a child; took the blame for a smuggler",
+        "Keeps a stolen hinge-buoy signal bead",
+        "Once ferried an exiled Fifth Knot cleric by night for oaths’ sake"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ysra Dokk",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Gantrix Pell",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Kael Ibrin",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Lisi Jhak",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Pel Korr",
+            "relation_type": "Different goals"
+        }
+    ]
+}

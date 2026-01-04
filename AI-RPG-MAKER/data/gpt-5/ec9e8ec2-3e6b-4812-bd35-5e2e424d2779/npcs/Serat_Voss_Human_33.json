@@ -1,0 +1,57 @@
+{
+    "name": "Serat",
+    "surname": "Voss",
+    "race": "Human",
+    "age": 33,
+    "appearance": "Diver with nacre-scored hands, hair cropped for the tides, a shell-organ scar over the ribs that hums on storm nights.",
+    "character": "Patient scavenger of the past, gentle voice and iron lungs, suspicious of spectacle.",
+    "traits": [
+        "observant",
+        "careful",
+        "soft-spoken",
+        "stubborn when right"
+    ],
+    "skills": [
+        "free diving in silt-surge",
+        "reliquary handling",
+        "spirit-kelp preparation",
+        "underwater mapping",
+        "breath discipline"
+    ],
+    "talents": [
+        "can hear when the Basilica’s bell is about to groan",
+        "moves like a ghost in currents",
+        "makes revenants relax with a lullaby"
+    ],
+    "flaws": [
+        "hoards curios",
+        "reluctant to share finds with authorities",
+        "resentful of lens-theater at the site"
+    ],
+    "dreams": [
+        "Find the Nacre Crown and present it to the city without sparking a war",
+        "Open a school for safe ruin-diving in Lamplands"
+    ],
+    "secrets": [
+        "The Basilica’s bell has groaned for Serat alone—twice",
+        "Keeps a hidden reliquary bone that whispers names at low tide"
+    ],
+    "relations": [
+        {
+            "npc_name": "Caldra Imin",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Liora Fen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thalen Marr",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Nerey Alis",
+            "relation_type": "Different goals"
+        }
+    ]
+}

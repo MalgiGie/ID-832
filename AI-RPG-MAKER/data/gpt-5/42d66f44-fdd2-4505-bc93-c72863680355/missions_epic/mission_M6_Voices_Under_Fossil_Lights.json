@@ -1,0 +1,110 @@
+{
+    "id": "M6",
+    "title": "Voices Under Fossil Lights",
+    "quest_giver": {
+        "name": "Tern Quietwake",
+        "affiliation": "Fathom Tongues"
+    },
+    "description": "Under the fossil chandeliers of the Council at the Vertebrae, light spills like milk across scrimshawed histories and settles in the grooves where verdicts have cut deeper than chisels. The spiral galleries are a layered tide of faces, ward by ward, breath tight and murmurs stifled by Brinewarden pikes held level like reef-spines. Lumenkelp braziers glow behind fungal shades that temper glare into a tender dusk, and in that tempered dusk every oath and every lie looks almost the same until someone dares to make a sound that rings true. The dais rises from the marrow floor like a jawbone altar, and behind its carved panels the hidden tuning passage waits, a bone throat inside a bone throat, eager to turn a whisper into a wave if the right chord is set. Tern Quietwake stands with water still clinging to his sleeves, eyes reflecting a slow pulse from the Moonlock lens, and to Kael he speaks not as a master to a hireling but as current to keel, asking for a steady line through a channel where rocks are masked as reason. The Council reeves, the Pearl Compact factors, the Tidemason keyholders, the Weavers and Tongues and Ward Captains all lean into the moment like masts into wind, because what happens in the next bell will either soften the city into obedience or harden it into patience. Mara Vell-Seren watches like a cat on a pier rope, smiling an absence where waves should be, her scribes already wetting ink for tariffs that will bite faster than sharks. Mother Tullis has come with orphans in clean, mended clothes, their hands clasped on cords of prayer, because sometimes a city listens only when its future is dressed plainly and taught to stand up straight. Ysger Thorn is a knot of discipline at the edge of the dais, remembering streets he swept with boots and blood, jaw working as if he chewed old orders into new ones, and beyond all of them the bones of Veloros listen for a pitch that could become a promise.",
+    "objectives": [
+        "Present the Arsenal Manifest Page and Saltfang scrapings to the Council at the Vertebrae.",
+        "Counter Mara Vell-Seren’s legal argument without slander by citing observed facts.",
+        "Decide whether to reveal the existence of the tuning passage behind the dais to neutralize a hostile orator.",
+        "Persuade the Council to delay emergency tolls until an inquiry into siphon sabotage concludes.",
+        "Deliver a sealed copy of your testimony to the Thalassarium archive."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tern Quietwake",
+            "lines": "A city is a throat that must choose its words, and today Thassyl needs a word that buys breath instead of spending it. I ask you to carry into that chamber a clean tone that does not hook to pride, because pride drowns faster than stone. Speak of what your eyes measured and what your fingers found, and let the bones judge weight from that alone. The tuning passage is a temptation with a pious face; it promises fairness while favoring whoever sets the chord, and even a just cause can sour if it leans too hard on hidden gears. If the tide inside you runs fast, breathe twice and match your heart to the low thrum beneath the floor, because bone remembers steadiness and gives it back to those who meet it halfway."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "I will put the page on the lectern and the grit in the bowl, and I will say where I was standing when I learned each thing so no one has to take my word without anchor. I will name the hour that the siphon coughed and the smell of metal that followed, and I will not smear anyone who has not smeared themselves in their own ink. If they try to take my voice by prying at old uniforms or old quarrels, I will let the past be a tide that has gone out and keep to the reef that shows now. If I must use the passage, I will use it like a surgeon uses a bone needle, with a hand that shakes only after the work is done, and only to stitch a wound shut that someone else opened. And when this chamber empties, I will walk to the Thalassarium with my testimony sealed and my step counted to the slow, because echoes are truer when carried in calm."
+        },
+        {
+            "speaker": "Mara Vell-Seren",
+            "lines": "Honored Council, the hour is choked with rumor and the reef with raiders, and tariffs are not cruelty but the floating scaffold that keeps the market from slipping under. What my learned adversaries call fear, we at the Compact name prudence, because a city with empty coffers cannot hire an escort or mend a single gate. The Arsenal’s petty miscounts may sting the cheek like salt, but they are not a storm, and to lash the fate of every ward to a clerk’s winter greed is to tie a fleet to the tail of a crab. We have divers who risk their lungs and families who risk their heirlooms to loan credit so your patrol boats can do more than hiss steam and look brave, and putting off action until inquiry ends is a luxury the tide will not afford. I ask you to remember that those who shout of grit may also throw it, that those who wave scrapings like banners are often the same hands that scuffed the shell, and that while they spin tales under fossil lights we offer ledgers, escorts, and the simple courage to say yes where others say wait."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "First, I place this manifest page from the Embersalt Arsenal where every scribe can see the comptroller’s hand grow heavier at the end of each line, and I note the crate numbers that vanish beneath a blot not big enough to hide a child’s mistake. Second, I set this pinch of scrapings under your noses so you can smell the Saltfang bite that no local siltglass holds, a tang that rides steam pipes and eats seals the way iron-gnats eat any lazy tool. Third, I say the dates and the tides aloud so our memories cannot lie to us later, and I invite any Brinewarden in this hall to swear whether the crate I saw was bound for a patrol cutter or a private skiff. I do not accuse a cartel by name because the water will carry any name I shout further than my proof; instead I accuse the pattern, and I accuse the timing, and I ask the Council to see those two things as clearly as I do. The tolls can wait a fortnight for an honest inquiry, because hunger is a slow killer and bad law is a fast one, and I will not hand a blade to anyone who pretends their purse is a shield."
+        },
+        {
+            "speaker": "Mother Tullis Nacrethane",
+            "lines": "Children of the First Shell bow to no ledger that forgets a mouth, and I bring you five rows of mouths that have learned to chew quietly so rich bellies are not disturbed. You know their names because when you sleep badly you hear them, the way the mangroves whisper on fog nights, reminding you that the sea keeps all its receipts whether the Council writes them down or not. Toll their bread and you toll their bones, because the price of a pearl on Pearl Row always ends up being a shoe or a blanket or a medicine bottle in the low wards. Those who argue for urgency have built the emergency themselves and now offer to rent you a ladder to climb out, and I ask you whether you plan to thank them when the rungs keep breaking under anyone who is not rich. Delay is not cowardice when it saves lives; it is a sacred shape of courage, the kind that holds still while a wave passes so the boat does not capsize."
+        },
+        {
+            "speaker": "Ysger Thorn",
+            "lines": "I do not love speeches, but I love a harbor that does not burn and a ledger that does not lie, and I am tired of chasing shadows that turn into contracts when I get close. I have cutters laid up for lack of honest fittings, and if a comptroller is skimming, I want his teeth on my desk and his stamp broken under my boot, because I have buried enough sailors to know the weight a small theft adds to a storm. The scrapings smell like Saltfang and the page looks like fraud, and those are facts that deserve the clean look of an inquiry before any fresh net is thrown over the city in the name of safety. Tolls raise crews and feed forges, but they also fatten the wrong gulls if we fling them blind, and I will not press-gang a single soul because a factor’s pulse runs fast at a council table. Give me a vote to hold and a bell to count, and I will keep my marines clear of your chamber so you cannot mistake my pikes for a threat while you decide whether to be brave enough to wait."
+        },
+        {
+            "speaker": "Oaric Bent",
+            "lines": "The Order of Tidemasons speaks for water that prefers equations to slogans, and my measure rods say the sabotage is not an accident but a language someone expects us not to read. Grit of that grain does not wander into siphons unless carried, and the bypass patterns match a hand that has studied our codes from the outside, which narrows suspects to a small fraternity of foreign buyers with a taste for leverage. I am no friend to temple terraces on floodplains, but I am less a friend to a city that lets its flows be bought like a cask of brine, and tariffs passed in panic will only fund more clever grit. Delay the tolls, fund the inquiry, and bind two keys and one sung chord to every major lock so no merchant can pretend he misunderstands the cost of tampering with the things that keep us dry. If you cannot hear the math in what I say, then listen to the simple music of a city that wants to keep the same streets after the next storm as it had before it."
+        },
+        {
+            "speaker": "Asha Heliope",
+            "lines": "We of the Lumin Weavers bathe your streets in living light and we know how easily glow can be turned up to blind instead of guide, and I smell that trick in this chamber tonight. The kelp teaches patience to the fingers that braid it, because a tug made too soon unravels a night of work, and I ask you to borrow a weaver’s patience now. There is a time to brighten and a time to dim, and the wise lamp does not dazzle pilgrims into canals while bragging that it shines. If the tides in your chests beat uneven, breathe with mine and remember that a fortnight of clear looking is kinder than a year of repentance under a law you made in haste. Let the inquiry unwind the knot while we keep the city lit and the children fed, and then tie the right cord when we know which reel was cut on purpose."
+        },
+        {
+            "speaker": "Tern Quietwake",
+            "lines": "The thrum you feel through the benches is not only the Tide Looms; it is the city asking whether we will teach it a word that saves it from its own appetites. If I sing a certain note now the tuning passage will favor the small over the large, and I will gladly make myself small if it helps truth carry, but a favor given in secret is a debt the bones will demand later. I once watched a matriarch whale refuse to sing over a reef that had been salted with false bells, and her silence saved her children when the hunters struck the wrong cove. Let that silence teach us restraint, and let Kael’s facts bear their own buoyancy without hidden chords hauling on them. When this is done, the sealed copy of every word will rest in the Thalassarium vault where echoes do not flatter, and there the future will hear whether we chose wait over obey and breathed a ward back from the brink."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Lay the Evidence Like Stones",
+            "text": "You decide to open your testimony by placing the Arsenal Manifest Page and the Saltfang scrapings on the lectern where every guild scribe can measure them with their own eyes. You describe your routes, your hours, the light, the smell, the faces present, and you keep each sentence free of adjectives that might taste like accusation. You refuse to name any faction as culprit, choosing instead to name the pattern, the timing, and the material traits, and you invite verification by Brinewarden and Tidemason both. You anticipate Mara’s drift into rumor by docking every word to a date and a tide, turning your breath into a map anyone can retrace. You resolve that if anyone tries to drag your past uniform into the present you will declare it a tool you put down, not a flag you still wave, and you will return every question to the evidence that waits like patient stones.",
+            "outcome": "The chamber’s murmur evens into a listening hush as scribes nod despite their allegiances, and a Brinewarden quartermaster unconsciously reaches for the page to check a crate number she remembers from a late watch. Mara’s first reply slants toward character but stops short of slander, because the room has already agreed, without words, that you have kept to facts and the bones seem to hum in that key. Ward reeves who wanted to hurry a vote glance at one another and decide they can take the heat for a fortnight if they can claim due diligence, because no one will accuse them of cowardice for checking a page everyone saw. Your reputation shifts in a fine, quiet way; factors will mutter that you are not dramatic, but ward captains will remember you as someone who brings ballast. The inquiry motion gathers momentum like a tide under a moon, and when the bell rings to mark the hour, it rings through expectation instead of exasperation."
+        },
+        {
+            "id": "C2",
+            "title": "Counter Mara With Observed Fact, Not Fury",
+            "text": "When Mara’s voice turns honey-sharp and her argument leans into insinuation, you do not rise to her barbs but to your measurements. You repeat the sensory moments that no ledger can refute, the tang of Saltfang, the cough of a siphon with foreign grit, the precise hand that grows sloppy only where the sums steal from the same crates. You acknowledge the need for patrols and the spine of those who hold a line at sea, and in that acknowledgment you remove the easy smear that you are blind to danger. You turn her urgency into a question of provenance instead of panic, insisting that money spent in haste must be spent on the right bolts and whistles rather than on a blanket tariff whose edges cut the poor first. You keep your tone low and steady, the way you keep your bow hand while wind jumps the arrow’s eye, and you tell the council that patience is not a stall when it is paired with action that names a saboteur.",
+            "outcome": "The Council’s neutral seats redden with relief because you have given them a rhetoric to repeat in the corridors after, one that sounds like prudence instead of partisanship. Mara’s scribes shuffle to a new page because the line of attack that painted you as naive will not float when you have saluted the Brinewardens and named specific parts that need replacing. The Children of the First Shell raise their chins because the argument has moved to the ground where bread stays on the table, and they can bless that without swallowing an insult. The Order of Tidemasons finds itself surprised to be on your side and begins to sketch a standard for seal inspection they can propose at once, which gives the Council a task to justify delay. In the galleries, the tide of opinion turns not with shouts but with a synchronized exhale, and the vote count for postponement clicks one, then two, then three more into certainty."
+        },
+        {
+            "id": "C3",
+            "title": "Whisper to the Bones: Use the Tuning Passage",
+            "text": "You slip a resonant shard beneath your tongue the way a diver slips a charm into a cheek, and when Tern hums the harmless syllable you let your breath ride it until your words arrive everywhere at once. You choose no insult and let no contempt cling to any name, yet when Mara speaks the bone absorbs her consonants like rain into dust, and her flourishes land with the soft failure of soggy paper. You keep your sentences even and your pauses generous, turning the chamber into a tidepool where ripples reveal rather than obscure, and you feel the old ache in your ear as the walls do their half-honest work. You promise yourself to tell the Thalassarium clerks in your sealed note that you leaned on the passage, because debts, like bones, only ache worse when ignored. You watch the orphans’ faces while you speak, letting their patience govern when you end each thought, and in that way you keep the tool from owning you, instead of you owning it.",
+            "outcome": "The immediate result is a miracle of clarity for everyone but your conscience, because your clean tone gathers on every ledge while Mara’s sails are left unfilled, and even the reeves who despise the Tongues find themselves nodding. The motion to delay tolls rises like a calm wave and breaks in a tally that leaves Mara smiling only with her eyes, and her board of factors begins whispering not of victory but of strategy in retreat. Ysger Thorn catches the trick without naming it and chooses to let it pass because he prefers a city spared to a pride soothed, but the favor you spent is now a fact etched in your bones. Tern meets your glance with a look that is both thanks and warning, and the look says that clean becomes loud only once before it stains. You leave the dais with the room’s approval bathing you like light, aware that what helped today will invite someone else to help themselves to you tomorrow if you are not careful."
+        },
+        {
+            "id": "C4",
+            "title": "Hold Your Tongue’s Tools: Refuse the Passage",
+            "text": "You steady your breath and leave the shard where it lies in your pocket, cool as a coin you will not spend, and you let the chamber find your voice without any hand upon its throat. You listen to the thrum beneath the floor and match it with the cadence your mother taught you to use in storms, slow enough to keep a skiff off a rock even when waves argue for haste. You anchor each point with a place and a time and a person who can corroborate, and you allow your pauses to invite questions instead of burying them. When Mara sharpens, you blunt with good manners and let her thrusts strike foam, and in the wet quiet afterward you lay another stone of fact upon the pile. You feel the temptation arc through you like lightning hunting a mast, but you let it pass into the bones without borrowing any of the power back out.",
+            "outcome": "The gallery’s ears lean to you rather than away, and the room’s respect thickens into something like trust because you chose not to tip the table even when the game allowed it. Mara’s arguments nick but do not pierce, and the sting of each point fades when it scrapes against the texture of your evidence, which was not planed smooth by any hidden tool. Tern’s mouth almost smiles in relief, not because victory is certain, but because whatever victory you earn will not need an asterisk in the vault. The vote to delay tolls still wins, though by a narrower edge that will require tending in the corridors after, and you discover you have the kind of allies who prefer to be convinced rather than compelled. When you carry your sealed testimony to the Thalassarium, your step is light not with triumph but with the even weight of having done a hard thing clean, and the echo that receives your envelope sounds like approval rather than complicity."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "XP",
+            "description": "500 experience points earned for steady speech, measured evidence, and guiding the Council toward caution rather than panic."
+        },
+        {
+            "type": "Item",
+            "description": "Council Witness Medallion (improves reception with ward reeves, its etched rim catching fossil light like a quiet promise)."
+        },
+        {
+            "type": "Favor",
+            "description": "Fathom Tongues grant access to a sealed verse on sabotage patterns, a careful stanza that maps how grit travels through locks and how to hear it before gears grind."
+        },
+        {
+            "type": "Access",
+            "description": "Observation ledge behind the Council dais (restricted, with escort), a narrow perch where tone and tide can be studied without being seen."
+        },
+        {
+            "type": "Coin",
+            "description": "25 credit-shells counted under the fossil lights after adjournment, stamped and strung so they do not clatter louder than your conscience."
+        }
+    ]
+}

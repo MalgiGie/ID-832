@@ -1,0 +1,63 @@
+{
+    "name": "Rhy",
+    "surname": "Tidesong",
+    "race": "Human",
+    "age": 51,
+    "appearance": "Robed in river-stitched blues, hair threaded with eelbone charms. Her voice carries the steady cadence of the tide.",
+    "character": "Solemn and careful, placing ritual above expedience; she listens more than she speaks.",
+    "traits": [
+        "Devout",
+        "Measured",
+        "Protective",
+        "Unyielding with taboos",
+        "Compassionate"
+    ],
+    "skills": [
+        "Rites of lull and blessing",
+        "Negotiation across guild lines",
+        "Channel reading by ripple and reed",
+        "Midwifery and river burials"
+    ],
+    "talents": [
+        "Hearing hymns within the Engine's pulse",
+        "Calming riots with cadence and prayer",
+        "Keeping water clean with subtle weirs"
+    ],
+    "flaws": [
+        "Iron taboo limits certain tools",
+        "Suspicious of glass-sorcery",
+        "Slow to concede ground"
+    ],
+    "dreams": [
+        "Keep the leviathan sleeping and the city afloat",
+        "Convert the Black Net to tithe and atone",
+        "Compose a hymn that seals the red tide for good"
+    ],
+    "secrets": [
+        "The heartstone whispers a name she will not repeat",
+        "Once used stormglass in secret to scry a drought",
+        "Keeps a token from the Ferryman wrapped in eel-skin"
+    ],
+    "relations": [
+        {
+            "npc_name": "Caur Spinekeeper",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Yasma Brine",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Holl Riverborn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Vara Rootlight",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Isera Bent-Pike",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

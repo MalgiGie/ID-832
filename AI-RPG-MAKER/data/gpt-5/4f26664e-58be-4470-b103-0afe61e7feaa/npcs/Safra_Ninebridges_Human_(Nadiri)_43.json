@@ -1,0 +1,66 @@
+{
+    "name": "Safra",
+    "surname": "Ninebridges",
+    "race": "Human (Nadiri)",
+    "age": 43,
+    "appearance": "Sun-browned with braided hair and silver bridge-coin necklaces; travels in layered river silks cut for motion.",
+    "character": "Shrewd and hospitable, proud of Nadiri custom and keenly protective of caravan rights.",
+    "traits": [
+        "generous",
+        "calculating",
+        "bold",
+        "tradition-bound"
+    ],
+    "skills": [
+        "caravan logistics",
+        "negotiation",
+        "river piloting",
+        "festival hosting"
+    ],
+    "talents": [
+        "reads the mood of toll-keepers",
+        "remembers feasts and debts",
+        "speaks three trade tongues"
+    ],
+    "flaws": [
+        "stubborn",
+        "distrusts city scribes",
+        "vengeful when cheated"
+    ],
+    "dreams": [
+        "secure the Salt-Tithe in perpetuity",
+        "establish a bridge-court inside the Sixth Rib",
+        "ensure Nadiri rights are codified alongside guild law"
+    ],
+    "secrets": [
+        "Quietly finances select smuggling runs as leverage in toll disputes",
+        "Keeps a dusk-singing shard from the Skyfall Shardfield",
+        "Bribed a Weigher to misreport ash allotments once"
+    ],
+    "relations": [
+        {
+            "npc_name": "Jull Nerr",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Leth Morrow",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Avar Ir",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Brunna Coil",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sereth Vex",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Nalai Thread",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

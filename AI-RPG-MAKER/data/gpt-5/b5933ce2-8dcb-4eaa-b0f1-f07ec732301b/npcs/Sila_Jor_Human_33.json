@@ -1,0 +1,64 @@
+{
+    "name": "Sila",
+    "surname": "Jor",
+    "race": "Human",
+    "age": 33,
+    "appearance": "River-grey eyes, copper-wired braids, ink-smudged fingers; carries spools of memory-wire and a calm, distant air.",
+    "character": "Curious and ethical, she dives memories with a gentle hand and keeps promises like locks.",
+    "traits": [
+        "Empathetic",
+        "Methodical",
+        "Brave-minded",
+        "Politically cautious"
+    ],
+    "skills": [
+        "Memory-diving",
+        "Research",
+        "Pattern recognition",
+        "Scribing",
+        "Meditation"
+    ],
+    "talents": [
+        "Braids two memories without contamination",
+        "Detects forged recollections on contact",
+        "Recites a day backward without error"
+    ],
+    "flaws": [
+        "Headaches from deep dives",
+        "At risk of clarity sap dependence",
+        "Socially awkward",
+        "Struggles to keep harmful secrets"
+    ],
+    "dreams": [
+        "Map the undercurrent beneath Vyratha",
+        "Free the Archives from all patrons’ strings",
+        "Heal a lover trapped in prophetic sleep under the orchard"
+    ],
+    "secrets": [
+        "Built a silent alarm that flags siphoned memories in the Archives",
+        "Visits the Starfall Orchard to borrow dreams of someone she lost",
+        "Hid a ledger-pin carved in star-metal in a public well’s lining"
+    ],
+    "relations": [
+        {
+            "npc_name": "Mereth Tydel",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Brina Coil",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Yerin Pale",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Sorev Dusk",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Jilai Sunquiet",
+            "relation_type": "Friendship"
+        }
+    ]
+}

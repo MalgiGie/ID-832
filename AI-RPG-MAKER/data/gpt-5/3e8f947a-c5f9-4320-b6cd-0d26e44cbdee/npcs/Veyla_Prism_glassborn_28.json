@@ -1,0 +1,60 @@
+{
+    "name": "Veyla",
+    "surname": "Prism",
+    "race": "glassborn",
+    "age": 28,
+    "appearance": "Translucent, sea-glass skin veined with pale emerald. Eyes catch light like facets; fingertips always warm from kiln work. Wears a shawl threaded with cullet charms.",
+    "character": "Ambitious and charming; uses wit like a blade. Keeps score on favors and debts as carefully as annealing times.",
+    "traits": [
+        "fashion-forward",
+        "flirtatiously evasive",
+        "collector of mirror shards",
+        "writes notes backward in steam"
+    ],
+    "skills": [
+        "glassblowing and annealing",
+        "kiln tuning",
+        "mirror-silvering",
+        "bead threading for signal cords"
+    ],
+    "talents": [
+        "skin senses temperature shifts by a breath",
+        "can read a flame’s ‘mood’ from its color",
+        "steady hands under stress"
+    ],
+    "flaws": [
+        "envious of recognized masters",
+        "risk-taker with untested formulas",
+        "holds silent grudges"
+    ],
+    "dreams": [
+        "Invent a mirror that maps stormpaths from the Resonant Gate’s chords",
+        "Replace bone conduits with her resin-glass lattice"
+    ],
+    "secrets": [
+        "Sells lie-dulling hand mirrors to the Night-Glass for blackmail trades",
+        "Hid a cracked crucible that produces mirrors which refuse to reflect their maker’s lies"
+    ],
+    "relations": [
+        {
+            "npc_name": "Factor Orun Ves",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "The Nameskeeper",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Arakel Dorn",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Zexi Orr",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Isha Velroon",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

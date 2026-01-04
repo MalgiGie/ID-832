@@ -1,0 +1,62 @@
+{
+    "name": "Mira",
+    "surname": "Pellan",
+    "race": "Human (Delta envoy)",
+    "age": 41,
+    "appearance": "River-silk coat with an iron-bound sheaf pin; weathered hands and a stare like low water.",
+    "character": "Pragmatic, relentless, and unromantic about the city in the sky; keeps score without apology.",
+    "traits": [
+        "Calculating",
+        "Patient",
+        "Stern",
+        "Ruthless negotiator"
+    ],
+    "skills": [
+        "Tariff law",
+        "Supply logistics",
+        "Quiet bribery",
+        "Oarmanship"
+    ],
+    "talents": [
+        "Reads flood-signs by scent",
+        "Iron memory for debts",
+        "Uncanny poise during public hearings"
+    ],
+    "flaws": [
+        "Cold to individuals",
+        "Superstitious about Ankharion’s shadow",
+        "Quick-tempered when insulted"
+    ],
+    "dreams": [
+        "Secure a tariff treaty tilting to the Syndic",
+        "Build a secret delta-controlled berth at Mirefurl",
+        "Bind Lantern Yards fuel routes to delta contracts"
+    ],
+    "secrets": [
+        "Runs embargo side-deals with a rogue Orchid cell",
+        "Keeps a private berth at Tower Three for clandestine runs",
+        "Finances counterfeit lens shipments to pressure the Mirror Guild"
+    ],
+    "relations": [
+        {
+            "npc_name": "Nalia Pree",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Rul Fen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Kesh Storm-Runner",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Jorin Vell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Saela Morn",
+            "relation_type": "Conflict"
+        }
+    ]
+}

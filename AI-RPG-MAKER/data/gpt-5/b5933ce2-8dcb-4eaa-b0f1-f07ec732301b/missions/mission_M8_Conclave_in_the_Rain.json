@@ -1,0 +1,49 @@
+{
+    "id": "M8",
+    "title": "Conclave in the Rain",
+    "quest_giver": "Iren Vask",
+    "description": "Copper-green spires prick a gray sky as the River Crown Citadel fills with damp cloaks and damp tempers. Steward-Moderator Iren Vask ushers Aren to the tide-window, where the river’s pulse seems to quicken when contracts are read. Indigosatchel pushes to privatize a stretch of the river wall; the Weir Order argues for dredging the Sunken Charterstone; the Reedbound demand shrine recognition and an end to barge taxes; dwarven syndics threaten embargo; and somewhere beneath, the unseen current of memory tugs at everyone’s feet. The scribe’s name sits in a reliquary like a loaded oath. What Aren says—and refuses to say—will tilt the city.",
+    "objectives": [
+        "Present the recovered legal name and testimony at the Rotating Conclave to stall Indigosatchel’s privatization push.",
+        "Advocate for Reedbound shrine recognition using marsh witness signatures gathered at the oath-feast.",
+        "Negotiate a temporary standstill between the Weir Order and Temple on dredging the Sunken Charterstone pending a joint ritual.",
+        "Expose a sealed clause tying star-metal extraction to market leases without triggering a walkout."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Iren Vask",
+            "lines": "The city survives because we take turns holding the knife and never forget whose neck it was at last year. You have walked the marsh and the weir and the moon-road, and that gives you a voice here no one can pretend not to hear. Use it. Do not burn the city to cauterize a wound we could stitch."
+        },
+        {
+            "speaker": "Calra Orun",
+            "lines": "Public works cannot run on piety and memory alone. The river wall needs coin, coin needs contracts, and contracts need the enforcement only private hands can provide. This isn’t theft of the river; it’s stewardship with a ledger. And before you rehearse your marsh-poetry, remember that we insure the boats that bring your herbs to market."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "I’ve seen what happens when a ledger replaces a covenant and a sluice replaces a shrine. We can fund walls without selling the river window by window. The scribe whose name I carry wrote a mercy into law after a flood; let’s remember that mercy when we draw lines on water that feeds us all. Give us time for a joint rite at the Charterstone, and if the river asks for a price we won’t pay, I will be the first to say so aloud."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": {
+        "currency": 30,
+        "items": [
+            "Conclave Letter of Safe Conduct (reduces interference by city guards)",
+            "Seal of Public Witness (adds legal weight to future testimonies)"
+        ],
+        "reputation": {
+            "Rotating Conclave": 2,
+            "Indigosatchel Consortium": -1,
+            "The Reedbound": 1
+        },
+        "access": [
+            "Arbitration chambers within the Citadel"
+        ]
+    }
+}

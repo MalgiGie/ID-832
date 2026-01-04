@@ -1,0 +1,53 @@
+{
+    "id": "M8",
+    "title": "Lens of the Still Sky",
+    "quest_giver": "Lysa Quill (for the Night Cartographers), warned by Sula Reedmantle",
+    "description": "The Glasslake of Sere lies like a pupil that never dilates. The ruined observatory clings to its promontory, brasswork melted long ago by a heat that had a moral. The Night Cartographers, through Lysa Quill’s careful smile, offer Kezra a trade: recover a lens said to cut reflections from water like cloth, and they will deliver a map that dodges the reed-thing’s hunting grounds. Sula warns that such cuts leave scars in the mirror and the mind. The lake shows futures if stared at too long; the reeds on the shore gossip in breeze-voices about who drowned where. Kezra must decide who deserves the lens’s custody, and whether any price is fair when futures are currency.",
+    "objectives": [
+        "Travel to the Glasslake of Sere and explore the observatory ruins safely, avoiding razorweed and star-sickness.",
+        "Recover the reflection-cutting lens without gazing too long into still water.",
+        "Decide whether to deliver the lens to the Night Cartographers, the Lantern Archive, or to keep it under Order seal.",
+        "Resist a tempting ‘future’ shown by the lake; leave with mind and purpose intact."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lysa Quill",
+            "lines": "A map is a mercy when it spares you mistakes you’ve seen others make. The lens will let you take a reflection and study it until the truth stands up and introduces itself. Give it to us, and we’ll give you a path out of your city’s future that tastes like a lie you won’t have to tell."
+        },
+        {
+            "speaker": "Sula Reedmantle",
+            "lines": "The lake keeps favors like a jealous lover. If you must take the lens, you must promise to return its power to a house that values memory over leverage. The Cartographers value prices, and prices are the fastest way to turn a truth into a tool."
+        },
+        {
+            "speaker": "A Fisher of Sere",
+            "lines": "Keep your breath shallow and your eyes on your oars. The lake shows you a version of yourself who always says yes. Real people sometimes say no. Remember that while you’re carrying glass that wants to be a knife."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I’ve cut a reflection once and paid in night sweats for it. I’ll take the lens out of this place, but I won’t let it turn me into a knife someone else can hold. If I must choose a custodian, I’ll choose the one least likely to sell my city to its own reflection."
+        }
+    ],
+    "connections": {
+        "previous": "M7",
+        "next": "M9",
+        "locations": [
+            "Glasslake of Sere",
+            "Lantern Archive"
+        ],
+        "npcs_involved": [
+            "Lysa Quill",
+            "Sula Reedmantle",
+            "local fisherfolk"
+        ],
+        "themes": [
+            "temptation of foresight",
+            "custodianship",
+            "price of knowledge"
+        ]
+    },
+    "rewards": [
+        "Reflection-cutting lens secured under agreed custody (tool for final rite)",
+        "A partial ‘mirror map’ from the Night Cartographers or, if refused, a coded warning about reed-thing tides",
+        "A calm-breath exercise learned from the fishers (resists panic in vision-heavy scenes)"
+    ]
+}

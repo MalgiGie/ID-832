@@ -1,0 +1,75 @@
+{
+    "name": "Thia",
+    "surname": "Mol",
+    "race": "Human (Moth Lanterns)",
+    "age": 38,
+    "appearance": "Lithe woman with moth-tattooed hands, a cloak lined with hidden lantern-glass, and a quick, disarming smile.",
+    "character": "Charismatic, cunning, protective of the poor.",
+    "traits": [
+        "daring",
+        "loyal to crew",
+        "mischievous",
+        "resourceful"
+    ],
+    "skills": [
+        "smuggling routes",
+        "blackmail by signal",
+        "acrobatics on lattice",
+        "crowd theater"
+    ],
+    "talents": [
+        "vanishes in market chaos",
+        "disguises voice perfectly",
+        "reads people's needs fast"
+    ],
+    "flaws": [
+        "provocative",
+        "holds grudges against elites",
+        "risk-taker",
+        "secret-keeper even from allies"
+    ],
+    "dreams": [
+        "humble the proud guilds",
+        "protect the Scale-born",
+        "turn the Crown-Market crawl into a sanctuary"
+    ],
+    "secrets": [
+        "knows how to tilt the Arcade lattice",
+        "owes a ghost-barge a promise",
+        "keeps a stolen moonshard for signal work"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sorn Ilt",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Gor Relk",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Kessa Tharn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Mira Olt",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Iven Rill",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Lerrin Vale",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Danka Suth",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

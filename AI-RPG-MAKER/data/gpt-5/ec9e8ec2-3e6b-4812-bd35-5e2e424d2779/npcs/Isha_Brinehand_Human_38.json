@@ -1,0 +1,66 @@
+{
+    "name": "Isha",
+    "surname": "Brinehand",
+    "race": "Human",
+    "age": 38,
+    "appearance": "Broad-armed docker with meteoric-iron scale weights tattooed down one forearm, hair in a red scarf, quick smile lined by sleepless nights.",
+    "character": "Fiercely protective of labor, faster to feed than to forgive, thrives in the heat of an assembly.",
+    "traits": [
+        "charismatic",
+        "combative",
+        "protective",
+        "sharp-tongued",
+        "festive"
+    ],
+    "skills": [
+        "strike organization",
+        "weight calibration",
+        "crowd speaking",
+        "first-aid for chain injuries",
+        "contract bargaining"
+    ],
+    "talents": [
+        "turns a chant into a movement",
+        "reads a foreman’s lie at a glance",
+        "keeps perfect mental tallies"
+    ],
+    "flaws": [
+        "holds grudges",
+        "impulsive during standoffs",
+        "distrustful of uniforms"
+    ],
+    "dreams": [
+        "Win a public labor seat on the Trium",
+        "Standardize safe muster stairs in every chainhouse"
+    ],
+    "secrets": [
+        "Funded lantern blackouts to dramatize unsafe quays during negotiations",
+        "Shelters a deserter Warden under a false docker’s name"
+    ],
+    "relations": [
+        {
+            "npc_name": "Nerey Alis",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sorev Katch",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Sel Var Saltvein",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Caldra Imin",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Tamas Eelwick",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Liora Fen",
+            "relation_type": "Alliance"
+        }
+    ]
+}

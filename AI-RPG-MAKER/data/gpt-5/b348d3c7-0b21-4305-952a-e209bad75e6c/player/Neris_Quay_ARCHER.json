@@ -1,0 +1,68 @@
+{
+    "name": "Neris",
+    "surname": "Quay",
+    "age": 28,
+    "race": "Human (Riverborn)",
+    "appearance": {
+        "description": "Lean, sun-browned archer with canal-weathered hands and a boatyard stance. Tar-black hair is braided with a copper thread for luck; grey eyes catch light like wet slate. Wears a dye-proof cloak cut short for rooftop work and a corded bracer for quick arrow-knots.",
+        "distinctive_signs": "Old rope-burn scars along forearms, a rook-feather tattoo behind the right ear, and a tiny shard of mirrorglass speckling the left iris from a Glass Spine ridge mishap."
+    },
+    "class": "ARCHER",
+    "history": "Born in Lowwater beneath the Hinges, Neris Quay learned balance long before letters, crossing stall roofs to run messages when the canals flooded. A River-Marrows pilot father taught current-sense; a mother who dyed sailcloth in Dyers’ Spiral taught color and patience. Neris apprenticed briefly to the Rookery as a sky-runner, where the bow became both tool and oath: line-arrows to throw rescue cords, bluntheads to crack signal lenses, bodkins to pin ropes without fray. On a red-sky evening during a sudden drawdown at Chainreach, Neris shot a knot-hook through the Speaker’s barge rail and hauled it true, earning the wary gratitude of Talo Ren. Archivist-Mother Jana Fell later contracted Neris to ferry sealed flood-writs and scout the Sunken Archive’s margins, where stone librarians watched with lantern-cold eyes and ink eels nosed at boot-leathers. Broker Thay Nerr of the Rookery refined Neris’s value, trading in quiet recoveries and louder rumors, and taught a lesson: in Avarinth, a signal is a blade if timed right. Neris now moves between wards and factions, a rooftop archer whose arrows stitch islands in emergencies and unpick knots when politics tangle. The city’s lamp-colors have begun to feel like weather to Neris, and weather can be read, ridden, and sometimes rewritten.",
+    "equipment": [
+        {
+            "name": "Sel-Reed Riverbow",
+            "description": "A laminated bow of river reed, ash veneer, and a basalt backing strip, strung with moon-resin-waxed cord that shrugs off damp. Marked with tide-glyph notches for quick draw estimates in crosswinds."
+        },
+        {
+            "name": "Knot-Hook Arrows",
+            "description": "Iron hookheads shaped to bite rope and rail, with hemp tails for hauling lines across canals; includes two glass-thread cutters for severing sabotaged cords without sparks."
+        },
+        {
+            "name": "Ash-Veil Mask",
+            "description": "Ashen Warden issue, fitted with soot-filters and a quick-pull veil for ash-squalls, dye fumes, and hinge spray."
+        },
+        {
+            "name": "Mirrorglass Signal Mirror",
+            "description": "Palm-sized, ridge-quartz tuned at the Conservatory; etched with standard flash-codes and a scratch space for improvised ciphers."
+        },
+        {
+            "name": "Amber-Sealed Ledger Tube",
+            "description": "Waterproof inkroot-parchment carrier, sealed with Fen amber and corded for oath-stamps from the Basilica or Archivists."
+        },
+        {
+            "name": "Rook-Feather Signet",
+            "description": "A corded ring that buys sky-rights at the Rookery benches and hides a slim pickspring for warded locks."
+        },
+        {
+            "name": "Basalt Climbing Claws",
+            "description": "Strapped hand and boot hooks that bite wet stone, useful on gantries and tide-gates."
+        }
+    ],
+    "main_attributes": {
+        "strength": 11,
+        "agility": 16,
+        "constitution": 12,
+        "intelligence": 13,
+        "wisdom": 12,
+        "charisma": 11,
+        "dexterity": 17,
+        "endurance": 13,
+        "perception": 16,
+        "luck": 14
+    },
+    "soft_skills": [
+        "Rooftop navigation and balance",
+        "Knot-craft and cord magic etiquette",
+        "Signal-codes in lantern, mirror, and rook-call"
+    ],
+    "relationships": {
+        "Talo Ren": "After Neris shot a line that saved the Speaker’s barge during a drawdown at Chainreach, Talo Ren owes a cautious debt and occasionally routes quiet requests for off-the-record escorts between the Hall of Many Lamps and the Basilica. He values Neris’s neutrality but will sacrifice it for Parliament if flames turn against him.",
+        "Jana Fell": "Archivist-Mother Jana Fell employs Neris for sanctioned courier work and discreet surveys near the Sunken Archive of Thren. She respects Neris’s care with sealed law and has hinted that a dependable archer could help defend flood-writs if Parliament tries a seizure.",
+        "Thay Nerr": "Rookery broker, early patron, and current handler-by-habit. Thay buys secrets by the ounce and has used Neris to plant and unpick them; he holds leverage over a past vote-night job and expects first refusal on dangerous contracts."
+    },
+    "ambitions": "Broker a practical truce between the Tidewrights and River-Marrows over trade-hour hinge openings, codified by Archivist countersign and Basilica knots; design rescue protocols and signal lanes that outlive politics; clear the Quay family’s salvage record at the Weir to earn lawful pilotage for a future crew.",
+    "flaws": "Risk-drunk when the lamps turn red; disinclined to bind long oaths; keeps grudges in neat ledgers; prone to amber fever after long Fen runs, which tempts nostalgia and poor choices.",
+    "dreams": "To craft a bow that throws lines of light strong enough to stitch the Hinges in a storm; to map a safe, repeating route through Thren’s drowned stacks; to retire to a Skyline roof-garden where lanterns burn without politics.",
+    "secrets": "On a vote-night panic, Neris swapped a moon-flame for a backward-burning fake provided by Thay Nerr to stall a flood-tax, buying hours for a dock strike and triggering illegal closures that cost lives. The justificatory cord was forged using brown-ink techniques learned watching the Archivists, and a hidden maker’s mark in the fibers can tie the forgery to Neris. Jana Fell may already suspect, and Talo Ren’s debt would invert if proof surfaces."
+}

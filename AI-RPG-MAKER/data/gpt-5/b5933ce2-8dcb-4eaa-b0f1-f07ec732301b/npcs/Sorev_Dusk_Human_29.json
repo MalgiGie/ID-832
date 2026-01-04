@@ -1,0 +1,60 @@
+{
+    "name": "Sorev",
+    "surname": "Dusk",
+    "race": "Human",
+    "age": 29,
+    "appearance": "Willow-slim, lacquered mask-case at the hip, inked lips, and eyes that smile even when his mouth does not.",
+    "character": "Clever hedonist with a conscience that peeks out in the dark; loves the theater of negotiation.",
+    "traits": [
+        "Charming",
+        "Theatrical",
+        "Observant",
+        "Playful"
+    ],
+    "skills": [
+        "Mask-crafting",
+        "Disguise",
+        "Voice mimicry",
+        "Blackmail staging",
+        "Escape artistry"
+    ],
+    "talents": [
+        "Senses the ‘mask’ a person wears",
+        "Aligns debts to end feuds elegantly",
+        "Shadow puppetry that distracts a crowd"
+    ],
+    "flaws": [
+        "Thrill-seeking",
+        "Underestimates danger",
+        "Reflexive liar",
+        "Jealous of true intimacy"
+    ],
+    "dreams": [
+        "Create a mask that frees its wearer from their past",
+        "Stage a citywide truce at the Lantern Unmooring",
+        "Unmask the masked child who tips the dawn scale"
+    ],
+    "secrets": [
+        "Knows where the white-book is hidden",
+        "Crafted a mask for a Conclave steward to pass as a dockhand",
+        "Quietly protects children from Ledger conscription"
+    ],
+    "relations": [
+        {
+            "npc_name": "Yerin Pale",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Calra Orun",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sila Jor",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Jilai Sunquiet",
+            "relation_type": "Different goals"
+        }
+    ]
+}

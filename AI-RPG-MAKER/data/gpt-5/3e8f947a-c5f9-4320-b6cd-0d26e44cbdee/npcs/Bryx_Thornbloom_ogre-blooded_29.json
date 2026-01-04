@@ -1,0 +1,51 @@
+{
+    "name": "Bryx",
+    "surname": "Thornbloom",
+    "race": "ogre-blooded",
+    "age": 29,
+    "appearance": "Powerfully built with vine-and-flower tattoos inked in steel dye. Gentle hands despite size; wears a tool belt hung like a garden.",
+    "character": "Soft-spoken and protective, happiest among humming constructs. Measures trust by whether someone oils their tools.",
+    "traits": [
+        "talks to constructs",
+        "saves dropped screws like seeds",
+        "hums lullabies while lifting",
+        "apologizes to beams before cutting"
+    ],
+    "skills": [
+        "construct rune maintenance",
+        "hoist operation and rigging",
+        "heavy labor choreography",
+        "first aid for workshop injuries"
+    ],
+    "talents": [
+        "soothes frightened animals and skittish constructs",
+        "can lift with precise control rarely seen in his size"
+    ],
+    "flaws": [
+        "easily swayed by authority",
+        "overworks without complaint",
+        "avoids confrontation"
+    ],
+    "dreams": [
+        "Design a civic construct that sings to warn children from edges",
+        "Earn master straps without leaving the Iron Garden"
+    ],
+    "secrets": [
+        "Heard a retired war-construct remember an order to seize the Ossuary Palace; told only Arakel",
+        "Hides a forbidden face-stamp he carved as a child"
+    ],
+    "relations": [
+        {
+            "npc_name": "Arakel Dorn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Matron Sere Kall",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Serge Kobb",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

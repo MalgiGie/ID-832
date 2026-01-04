@@ -1,0 +1,64 @@
+{
+    "name": "Arno",
+    "surname": "Kest",
+    "race": "Human",
+    "age": 52,
+    "appearance": "Broad-shouldered, kiln-scarred forearms, beard dusted with salt and ash; wears a blue-row master’s sash and smoked-glass eye-guard on a chain.",
+    "character": "Exacting guildmaster who finds beauty in precision; civic-minded but ferocious about marks and measures; values contracts over charisma.",
+    "traits": [
+        "meticulous",
+        "proud",
+        "stoic",
+        "safety-obsessed"
+    ],
+    "skills": [
+        "siltglass batch-making",
+        "lens grinding",
+        "purity inspection",
+        "price setting",
+        "strike negotiation"
+    ],
+    "talents": [
+        "feels heat shifts in a room like a draft",
+        "anticipates how glass will cool and stress",
+        "speaks calmly through crisis"
+    ],
+    "flaws": [
+        "stubborn",
+        "holds grudges",
+        "dismissive of ‘sea omens’",
+        "smoke-lung cough he hides"
+    ],
+    "dreams": [
+        "Lock down the Siltglass Flats with chartered wardens",
+        "Win the lighthouse contract outright",
+        "Tax foreign mirror-helms into irrelevance"
+    ],
+    "secrets": [
+        "Approved a quiet blend of cheaper flats-silt in blue-row wares to undercut foreign glass",
+        "Keeps a sealed ledger of inspectors who take gifts",
+        "Suspects a comptroller’s skim at the arsenal but won’t expose it without leverage"
+    ],
+    "relations": [
+        {
+            "npc_name": "Mara Vell-Seren",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Oaric Bent",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Asha Heliope",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ysger Thorn",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Verrin Nasse",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

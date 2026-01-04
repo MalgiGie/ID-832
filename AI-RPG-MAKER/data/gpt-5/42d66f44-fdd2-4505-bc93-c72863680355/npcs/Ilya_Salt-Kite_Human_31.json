@@ -1,0 +1,64 @@
+{
+    "name": "Ilya",
+    "surname": "Salt-Kite",
+    "race": "Human",
+    "age": 31,
+    "appearance": "Lean Brinewarden lieutenant with cropped hair and a wind-torn cloak; left arm tattooed with flag codes; quick grin, quicker glare.",
+    "character": "Alert, principled cutwater who keeps her humor sharp and her ledgers sharper; fiercely loyal to Captain Thorn.",
+    "traits": [
+        "witty",
+        "principled",
+        "observant",
+        "bold"
+    ],
+    "skills": [
+        "boarding tactics",
+        "interrogation",
+        "signal flag work",
+        "inventory control",
+        "smallboat handling"
+    ],
+    "talents": [
+        "reads wind and spray like script",
+        "steady hand with glass-bell grenades",
+        "ear for forged stamps"
+    ],
+    "flaws": [
+        "mouthy when tired",
+        "bitter grudges",
+        "hates paperwork despite skill",
+        "takes risks to save face"
+    ],
+    "dreams": [
+        "Captain her own cutter",
+        "Dismantle the Gray Threads ratline",
+        "Clean rot from the arsenal’s ledgers"
+    ],
+    "secrets": [
+        "Siphons a shave of seized coin to pay informants",
+        "Covered a novice’s error that shattered a shrine lantern",
+        "Keeps a quiet truce with a Pearl Compact runner for tips"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ysger Thorn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Verrin Nasse",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Neris Bonehook",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Oaric Bent",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sirae Glowhand",
+            "relation_type": "Different goals"
+        }
+    ]
+}

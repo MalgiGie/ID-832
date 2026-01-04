@@ -1,0 +1,67 @@
+{
+    "name": "Nhal",
+    "surname": "Vessin",
+    "race": "Human",
+    "age": 58,
+    "appearance": "Weathered hands like a shipwright’s, hair tied back with a blue cord, and a counting beadline at his wrist. His coat pockets always clink with small chimes.",
+    "character": "Consensus-builder who counts votes like rivets; empathetic until the last bolt must be driven.",
+    "traits": [
+        "patient",
+        "detail-minded",
+        "empathetic",
+        "stubborn in the endgame"
+    ],
+    "skills": [
+        "public mediation",
+        "edicts by negotiated braid",
+        "bell-network utilization",
+        "oath-lantern protocol",
+        "backroom arithmetic"
+    ],
+    "talents": [
+        "remembers names, debts, and old favors",
+        "finds a middle plank on a shattered pier",
+        "reads a room by its silences"
+    ],
+    "flaws": [
+        "indecisive during sudden crises",
+        "overly cautious about upsetting balances",
+        "nagging back pain that shortens meetings"
+    ],
+    "dreams": [
+        "keep the city’s braid of power from fraying",
+        "move some oath-lanterns out of the Diadem to dilute Ledger leverage",
+        "one last festival night with blue lamps unshadowed by rumor"
+    ],
+    "secrets": [
+        "is quietly canvassing delegates to relocate oath-lanterns to ward shrines",
+        "his grown child runs a stall in the Night Bazaar; he protects the register from audits",
+        "keeps a locked box of contraband hearing-minutes from closed chambers"
+    ],
+    "relations": [
+        {
+            "npc_name": "Arla Third-Tone",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Jath Pell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orven Caldris",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ys Hul",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Kelen Prism",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Kema Hookhand",
+            "relation_type": "Different goals"
+        }
+    ]
+}

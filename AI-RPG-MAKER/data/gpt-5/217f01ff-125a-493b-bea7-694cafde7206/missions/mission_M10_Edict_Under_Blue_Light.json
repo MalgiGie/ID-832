@@ -1,0 +1,59 @@
+{
+    "id": "M10",
+    "title": "Edict Under Blue Light",
+    "quest_giver": "Nhal Vessin",
+    "description": "The Lantern Court convenes in the Sapphire Diadem, walls soft with blue glow and voices hard with old grudges. Delegates argue the focusing ring, the relocation of oath-lanterns, and the rebalancing of the aqueduct. Kelen Prism speaks of unifying light into one benevolent beam, Dorn Rigger warns of resonance disasters, Orven Caldris offers a 'contingency' to sell off lanterns if panic cracks the Diadem. You arrive carrying a chain shard, a pane rubbing, a bribes ledger copy, and the smell of river bells still in your hair. The city will either braid its power anew or saw through the rope to make two shorter ropes that fray when pulled.",
+    "objectives": [
+        "Present findings from M1–M9 to the Lantern Court in formal session.",
+        "Argue against the sale of oath-lanterns and for temporary upstream rebalancing.",
+        "Propose a joint Choir–Artificer test to still the Blue Maw briefly without a full focusing ring.",
+        "Counter Orven Caldris’s motion with evidence from the bribes ledger.",
+        "Secure an authority writ to conduct the Maw ritual with Tidewarden support.",
+        "Negotiate a ceasefire between Kelen Prism and Dorn Rigger to share designs safely."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Nhal Vessin",
+            "line": "We swear under blue light so our words cast the right shadows. Thalen Vire, you have walked our kilns, our docks, our aqueduct, and our terraces. Lay your burdens on this table so we can see if any of them are heavier than our pride."
+        },
+        {
+            "speaker": "Kelen Prism",
+            "line": "We can shape a ring that sings with the city, not against it. The pane from Shattermere shows alignments in our favor, and the kilns will obey if we keep the silent hand away from their mouths. Give me a mandate and I will turn the Maw into a pond you can skip stones across."
+        },
+        {
+            "speaker": "Dorn Rigger",
+            "line": "The pane shows danger as clearly as promise. The Diadem already hums wrong; the Pass nearly took our voices; the Shoals tried to teach our captain to obey iron. We must not teach the city to obey a lens. We must learn enough to survive, not enough to rule."
+        },
+        {
+            "speaker": "Orven Caldris",
+            "line": "Markets are not monsters. If panic eats the Diadem, we will convert assets to liquidity and purchase a new calm. Oath-lanterns can fund food and fuel if they cease to bind us. Your ledger of bribes reads like bedtime stories told to frighten children away from arithmetic."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "Arithmetic that forgets thirst is just counting. I stand with a river's memory, a worker's drum, a Tidewarden's knot, and a city's fear of breaking. Authorize a narrow Choir–Artificer rite with horn support, not a ring that makes us sing one note forever. And keep the oath-lanterns where oaths can find them."
+        },
+        {
+            "speaker": "Arla Third-Tone",
+            "line": "The bell-codes can guide the rite if we do this. Three bells must not ring in absolute silence, or we repeat the Surge. Give me authority to call a new pattern—two bells, pause, one bell—and we may step past doom without stepping on its hem."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4",
+            "M5",
+            "M6",
+            "M7",
+            "M9"
+        ],
+        "next": [
+            "M11",
+            "M12"
+        ]
+    },
+    "rewards": [
+        "Authority Writ co-signed by Lantern Court, Tidewardens, Choir, and Artificers",
+        "+1 standing with Lantern Court",
+        "Access to the Diadem’s lower maintenance galleries",
+        "Vouchers for horn-crew and skiff support during the rite"
+    ]
+}

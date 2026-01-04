@@ -1,0 +1,65 @@
+{
+    "name": "Nalai",
+    "surname": "Thread",
+    "race": "Human",
+    "age": 31,
+    "appearance": "Wiry canal runner draped in rope-cords and brass hooks; scarred knuckles and a smile like a secret passage.",
+    "character": "Charming but ruthless when crossed; wagers on pressure and people.",
+    "traits": [
+        "resourceful",
+        "loyal to crew",
+        "risk-taking",
+        "cynical about oaths"
+    ],
+    "skills": [
+        "lock bypass",
+        "night navigation",
+        "bribery",
+        "knifeplay"
+    ],
+    "talents": [
+        "feels pressure surges through her soles",
+        "vanishes into market crowds"
+    ],
+    "flaws": [
+        "hubris",
+        "gambler",
+        "vindictive"
+    ],
+    "dreams": [
+        "control the Seventh Rib underways",
+        "broker a truce with Riverwardens on her terms",
+        "buy a legal name from the Loom"
+    ],
+    "secrets": [
+        "Paid Hollow Pilgrims to sabotage a winch during a crackdown",
+        "Keeps a dead-pulley cache beneath Sternum Plaza",
+        "Registered under an alias; true name is bound to a foreign chit"
+    ],
+    "relations": [
+        {
+            "npc_name": "Suri Yal",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Safra Ninebridges",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Tamsin Veil",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Leth Morrow",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Jull Nerr",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Cor Yune",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

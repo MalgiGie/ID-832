@@ -1,0 +1,67 @@
+{
+    "name": "Orla",
+    "surname": "Krawężna",
+    "race": "człowiek",
+    "age": 44,
+    "appearance": "Szerokie barki i dłonie pocięte linami; krótko ścięte włosy jak bazaltowy puch; skórzany pas z miarą i mosiężnymi nitami; głos niski jak pomruk dźwigów.",
+    "character": "Pragmatyczna i opiekuńcza wobec robotników, nieustępliwa przy stole obrad; liczy kroki i ryzyko, ale gdy trzeba, idzie pierwsza.",
+    "traits": [
+        "uporządkowana",
+        "lojalna wobec załogi",
+        "niezłomna",
+        "cierpliwa w konflikcie",
+        "pamiętliwa na krzywdy"
+    ],
+    "skills": [
+        "inżynieria mostowa",
+        "negocjacje zbiorowe",
+        "organizacja strajków",
+        "wspinaczka po rusztowaniach",
+        "czytanie planów"
+    ],
+    "talents": [
+        "pamięć przestrzenna",
+        "charyzma przy pracy",
+        "wykrywanie słabych punktów w konstrukcjach"
+    ],
+    "flaws": [
+        "uparta",
+        "nieufna wobec kupców",
+        "nękana koszmarami po wypadku na dźwigu"
+    ],
+    "dreams": [
+        "odbudować Niebomost",
+        "wprowadzić głos robotników do Rady Segmentów",
+        "zapewnić bezpieczne place pracy"
+    ],
+    "secrets": [
+        "ma skryte porozumienie z kapłanką o spowolnieniu wydobycia w zamian za błogosławieństwa",
+        "zataiła raport o zużytych linach, by wymusić remont całego ciągu dźwigów"
+    ],
+    "relations": [
+        {
+            "npc_name": "Matka Korala",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Lima Fal",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Vasko Danter",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Serad Głaz",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Maera Buławka",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Jodan Piżmowy",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

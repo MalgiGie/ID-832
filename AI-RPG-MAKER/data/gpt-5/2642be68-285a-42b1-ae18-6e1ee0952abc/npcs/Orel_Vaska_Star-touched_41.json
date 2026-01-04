@@ -1,0 +1,56 @@
+{
+    "name": "Orel",
+    "surname": "Vaska",
+    "race": "Star-touched",
+    "age": 41,
+    "appearance": "Star-scars along the forearms, hair flecked with silver dust, eyes that catch and return mothlight.",
+    "character": "Calm, detached, and compassionate; speaks as if listening to older echoes.",
+    "traits": [
+        "contemplative",
+        "precise",
+        "brave in ruins"
+    ],
+    "skills": [
+        "star-etching translation",
+        "lightwell sealing rites",
+        "ancient surveying",
+        "silent walking and eaves study"
+    ],
+    "talents": [
+        "names spoken in his presence cling to his memory",
+        "sees faint lines of old bridges at dusk"
+    ],
+    "flaws": [
+        "forgets meals and rent",
+        "socially awkward",
+        "disdain for petty guild politics"
+    ],
+    "dreams": [
+        "prove the Prism Spire is a mind with purpose",
+        "trace the Skybridge to the sea's edge",
+        "teach night-law to street children"
+    ],
+    "secrets": [
+        "keeps a shard of fused light with a trapped echo that says his name backwards",
+        "writes anonymous counsel for Magistrate Vela Orun",
+        "fears the Scar keeps his true name and will take it back"
+    ],
+    "relations": [
+        {
+            "npc_name": "Nelai Pruen",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Jalen Sarq",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Tomas Helwin",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Pesha Lume",
+            "relation_type": "Friendship"
+        }
+    ]
+}

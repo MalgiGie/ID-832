@@ -1,0 +1,40 @@
+{
+    "id": "M10",
+    "title": "The Counting-House Knot",
+    "quest_giver": "Dorel Glassant",
+    "description": "The Granite Counting-House is cool and quiet as a ledger’s conscience. Dorel Glassant, torn between precision and pity, asks you to help untie a knot of numbers meant to strangle the joint writ you just won. A hidden star-code, read from the Heliolith’s prism by a Ledger reader at midnight, is being used to predict and pre-price the city’s future, an act that will let Avar Jen claim the prism as a financial instrument. You must infiltrate the private archive, copy the ligature cipher that unlocks the sealed prism chamber, and smuggle it into the hands of the Accord before the Ledger can rewrite your access.",
+    "objectives": [
+        "Enter the Granite Counting-House after hours using a lampwright’s pass provided by Ayo Solace.",
+        "Decode the star-code ledger and copy the ligature pattern without triggering the abacus alarms.",
+        "Confront Avar Jen with a public reading of the predictive underwriting clause to stall his injunction.",
+        "Deliver the ligature cipher to Meret Hal before moonpeak."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Dorel polishes a lens that shows nothing but his own worry. \"I read patterns because patterns save lives on bad roads and bad days. But this one… this one sells the breath we haven’t taken yet. I won’t pretend innocence. I helped string the ligature pattern. Take it, and take my shame with it if you must, but put it in a hand that will use it to open a door, not lock one.\"",
+        "hero_reply": "Tallea fingers the copied sketch in her pocket, the one she swore never to use for anything but repair. \"I’ll take your cipher and marry it to the pattern I stole by mistake and have hated ever since. If Avar wants to own the future’s breath, he’ll have to hold it against a song sung by a city, not a clerk. When the door opens, Dorel, you testify. Not in the Ledger’s whisper-chamber. In the Courts.\"",
+        "npc_interjections": [
+            {
+                "name": "Avar Jen",
+                "line": "Avar stands in your path with a courtesy that smells like a wrapped blade. \"Predictive underwriting let us place nets where your friends in the Syndic needed them before they knew they would. Do not confuse foresight with theft. Return my cipher, and I will forget the names of the hands that touched it.\""
+            },
+            {
+                "name": "Tamsin Rook",
+                "line": "Tamsin sidles out of a shadowed stair. \"Clerks fight with ink; smugglers fight with stairs. I owe you for not breaking my thumb upstairs at the Cascadrome. Here’s a stair that swallows sound for a minute. Use it or I’ll call your debt even another way.\""
+            }
+        ],
+        "ambient": "In the Counting-House’s air, dust motes fall like patient seconds. The abacus strings hum at a frequency that makes liars itch."
+    },
+    "connections": {
+        "previous": "M9",
+        "next": "M11",
+        "related": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        "Experience: 650",
+        "Ligature Cipher (key to sealed prism chamber)",
+        "Reputation (Ledger of Fine Weights): -10",
+        "Favor (Dorel Glassant): Will testify once in open Court"
+    ]
+}

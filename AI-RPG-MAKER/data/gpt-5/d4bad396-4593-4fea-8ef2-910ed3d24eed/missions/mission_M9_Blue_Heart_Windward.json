@@ -1,0 +1,56 @@
+{
+    "id": "M9",
+    "title": "Blue Heart Windward",
+    "quest_giver": "Harn Slate",
+    "description": "The wind at Skytooth Ridge tries to carve you into a cleaner shape. Harn Slate sends word that a humming cobalt vein near Harn’s Step threatens to collapse unless its resonance is relieved. Magister Vell believes a tuned core from that vein could ease the Loom’s ghost-harmonic and keep the Starspan from quivering. Griffons nest on ledges of blue stone with hurricane eyes. Knife-winds strip warmth and pride with equal efficiency. The vein sings the same note as the Shattermere on a cold moon-night, reminding you that the city’s breath is borrowed from older throats.\nThe climb is a negotiation with the mountain and with your own knees. You carry starshard grit and a promise to return with something the size of your fist and twice as polite as a thunderhead.",
+    "objectives": [
+        "Travel to Skytooth Ridge and meet Harn Slate at a cliffside shelter",
+        "Reach the cobalt-stained vein and harvest a resonance core safely",
+        "Evade or deter a territorial griffon flight without killing",
+        "Transport the core down through knife-winds using rope techniques",
+        "Deliver the resonance core to Magister Vell at the Loom of Tides"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Harn Slate",
+            "text": "You can hear it through your boots, can’t you? The stone is humming like a drunk trying to remember an anthem. Chip too hard and the whole ledge will come down singing on your head. Take the core where the color turns darkest blue and the song feels like it’s looking at you back."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "I’ve listened to worse songs in better rooms. We take the core like we’re stealing gossip from a noble—clean, quick, and without anyone noticing until it’s too late to be angry. If a griffon takes offense, we’ll give it a reason to reconsider without giving it a memorial."
+        },
+        {
+            "speaker": "Magister Vell",
+            "text": "You got it out whole. That’s… remarkable. Feed it into the Loom’s resonance cradle, slowly. If we can teach the machine to breathe with the ridge instead of against it, the ghost-harmonic might settle. If it does, remind your monk friends that science can kneel without breaking its back."
+        },
+        {
+            "speaker": "Asha Greyling",
+            "text": "If the Loom learns humility today, I will ring the bells with gratitude instead of grief. Bring the core gently, Lio. Some hearts only learn kindness when touched by something older than themselves."
+        },
+        {
+            "speaker": "Harn Slate",
+            "text": "Next time bring a thicker coat and a thinner conscience. The mountain doesn’t care about our little arguments. It only cares that we don’t pull at the wrong stone. You didn’t. That counts for more than it sounds like."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ],
+        "related_locations": [
+            "Skytooth Ridge",
+            "The Loom of Tides"
+        ],
+        "factions_involved": [
+            "Cobalt Collegium",
+            "Order of the Basalt Arch"
+        ]
+    },
+    "rewards": [
+        "Resonance core set into the Loom (city stability improved)",
+        "Collegium maintenance charts granting safer access routes",
+        "Reputation (significant) with Cobalt Collegium"
+    ]
+}

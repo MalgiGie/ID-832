@@ -1,0 +1,55 @@
+{
+    "id": "M11",
+    "title": "Bone Bell Convocation",
+    "quest_giver": "Sereth Vex",
+    "description": "The bound breath hums like distant rain inside its vessel, and the Needle map insists on one final route: the Hollow March. Lady Sereth Vex asks Iriel to carry the vessel to the menhir fields and ring the buried Bone Bell with Custodian blood, summoning the oldest council whether they wish it or not. The menhirs lean to listen as storm clouds hunt the iron in the party’s gear. When the bell is struck, the soldiers of stone stand not to fight, but to witness, their hollow faces turned to the vessel. Sereth bleeds into the grass, honors the taboo, and demands the city choose. Leth Morrow arrives uninvited with Nalai Thread, ledger-cords in hand; Avar Ir stands with slag-bright confidence; Edris Thale’s prayers are steady as knotted cords; Safra Ninebridges watches to see if bridges or tolls will be made. The breath must be poured not into gates or coffers, but into the city’s name, to give Marrowgate a say in its own fate. To do this, debts must be loosed and retied without strangling the poor or freeing the cruel.",
+    "objectives": [
+        "Travel to the Hollow March with the Vessel of the Wyrm’s Breath and the Council deputation.",
+        "Unearth and ring the Bone Bell using Sereth Vex’s blood to summon the oldest council.",
+        "Mediate between Leth Morrow, Avar Ir, Safra Ninebridges, and Edris Thale to form the Accord of Living Flow.",
+        "Pour the wyrm’s breath into the city’s unbraided name-cord without violating taboos."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sereth Vex",
+            "line": "If we are to be governed, let it be by our better selves. I will not leave this steppe with a compromise that fattens one rib while starving another. Bind the breath to our name so that Marrowgate hums with its own refusal to be abused by us again. If the sky hates presumption, let it hate me first."
+        },
+        {
+            "speaker": "Leth Morrow",
+            "line": "Names are not toys, nor are they shields you can wave to stop the rain. To pour a storm into a cord is to risk unmaking the grammar in which we speak each other into fairness. And yet, if the alternative is to leave our fate to those who would rent awe by the day, I will hold the braid while you make your argument to the ages."
+        },
+        {
+            "speaker": "Safra Ninebridges",
+            "line": "I will sign a bridge over a river I cannot own if I am allowed to keep my feet. Give me a cord that hears our salt and our songs, and not just your ledgers, and I will teach my grandchildren that this was the day Marrowgate remembered who brought it bread in winter."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "We do not pour breath into a treasury; we give the city lungs. The cord will not tie us to a master; it will remind us that a name is a promise we make to each other, not a leash we buy. If we can agree to be kinder with our strength and stingier with our cruelty, the breath will hold us to it like a song you cannot forget, even when you are angry."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": {
+        "experience": 900,
+        "items": [
+            "Accord of Living Flow (Council Writ)",
+            "Oldest Council Witness Mark"
+        ],
+        "currency": {
+            "chits": 0
+        },
+        "reputation": {
+            "Skull Keep": 3,
+            "Loom of Names": 2,
+            "Nadiri Caravan Court": 2,
+            "Ember Kiln Syndicate": 1,
+            "Order of the Third Rib": 2
+        }
+    }
+}

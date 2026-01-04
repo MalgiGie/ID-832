@@ -1,0 +1,53 @@
+{
+    "id": "M10",
+    "title": "The Cartilage Gate",
+    "quest_giver": "Edris Thale",
+    "description": "The routes align: Needle tone, pacification cords, bearing fragment, and the lens to read them. Prior Edris Thale asks Iriel to join a sanctioned descent at the Wyrmwell under triple-seal with Suri Yal, a small Lantern detail, and wardens of the Order. The cartilage gate waits below where air smells of old storms, its seam sealed with prayer and fear. The pacification rite must be sung while the lens reads the stress lines, and the Needle’s tone set like a key in a lock that the city forgot it owned. Hollow Pilgrims have already sabotaged a winch and wait with rope-halters woven in taboos, hoping to let the wyrm’s last breath rush free and remake the city with one vast unpayable debt to wonder. The choice is not whether to open the gate, but how to open it so the breath can be bottled and shaped rather than loosed like a knife.",
+    "objectives": [
+        "Descend the Wyrmwell with Edris Thale, Suri Yal, and a Grey Lantern detachment.",
+        "Use the Singglass Resonance Lens to map stress lines around the cartilage gate.",
+        "Perform the pacification rite with the Consecrated Ash-Cords while sounding the Needle tone to unlock the gate safely.",
+        "Thwart the Hollow Pilgrims’ sabotage and capture a portion of the wyrm’s last breath in a sanctioned vessel."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Edris Thale",
+            "line": "I have no interest in waking legends. I have a lively interest in keeping our living from learning how cheaply we will spend them when we panic. We open this gate as surgeons, not zealots, and we close it like archivists who know that some pages must be turned with gloves and some with callused fingers. Sing with me and we will set a mercy over what wants to be a miracle."
+        },
+        {
+            "speaker": "Suri Yal",
+            "line": "If the breath is wind, I’ll tie it to a mast; if it is weather, I’ll pour it into a gate; if it is something else, I’ll swear at it until it behaves. Keep the Lanterns from stepping where I’m stepping, keep the Pilgrims from cutting our ropes, and when the seam sighs, push. We’ve tuned a bearing together; we can tune a city’s throat."
+        },
+        {
+            "speaker": "Hollow Pilgrim Cantor",
+            "line": "Do you not crave to hear it? The bone’s hymn unsmothered, the skull’s cathedral opened to a sky deeper than debt. You will bottle a storm and sell it by the cup and call it salvation. We will break the cup and drown in what is honest."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "I crave it, and I will not let that craving make me cruel. We will hear enough to know why it sleeps and we will cork the rest. If wonder is owed to us, we will earn it with patience instead of robbery. If the wyrm chose to hold shut a wound, I will not be the knife that unlearns that choice."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": {
+        "experience": 800,
+        "items": [
+            "Vessel of the Wyrm’s Breath (Bound)",
+            "Cartilage Gate Key-Tone Tuning"
+        ],
+        "currency": {
+            "chits": 40
+        },
+        "reputation": {
+            "Order of the Third Rib": 2,
+            "Riverwardens of the No Echo": 2,
+            "Grey Lanterns": 1
+        }
+    }
+}

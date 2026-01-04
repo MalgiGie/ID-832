@@ -1,0 +1,68 @@
+{
+    "name": "Orrix",
+    "surname": "Vant",
+    "race": "human",
+    "age": 47,
+    "appearance": "Wind-burnished skin, hair braided in kite-cords; a coat threaded with brass runes humming faintly.",
+    "character": "Showman inventor with a competitive streak; sees the city as a puzzle of currents.",
+    "traits": [
+        "restless",
+        "charismatic",
+        "audacious",
+        "impatient with tradition"
+    ],
+    "skills": [
+        "aeromancy",
+        "glider design",
+        "wind-tariff negotiation",
+        "weather augury",
+        "silk patent wrangling"
+    ],
+    "talents": [
+        "binding pockets of stillness",
+        "whistling to summon drafts",
+        "aerial dueling along cliff thermals"
+    ],
+    "flaws": [
+        "arrogant",
+        "reckless field tests",
+        "politically tone-deaf",
+        "holds public grudges"
+    ],
+    "dreams": [
+        "mesh the city in a stillness net to tame stormquakes",
+        "humble the Tidewrights in Parliament with windproof data",
+        "open new glider lanes over the Basilica legally"
+    ],
+    "secrets": [
+        "keeps a stolen wind-heart stone under the Aerie dais to quiet districts",
+        "has siphoned winds from Skyhook Cliffs to punish nonpaying merchants",
+        "coaches apprentices to feign natural calms during outages"
+    ],
+    "relations": [
+        {
+            "npc_name": "Luma Keel",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sel Corvane",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Maris Veyron",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Alion Mareth",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Iria Venn",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Nella Shuck",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

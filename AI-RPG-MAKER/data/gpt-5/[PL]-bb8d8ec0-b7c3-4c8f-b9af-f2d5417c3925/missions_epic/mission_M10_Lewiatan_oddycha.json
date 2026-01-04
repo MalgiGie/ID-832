@@ -1,0 +1,84 @@
+{
+  "id": "M10",
+  "title": "Lewiatan oddycha",
+  "quest_giver": {
+    "name": "Lima Fal",
+    "affiliation": "Zakon Wiru i Przypływu"
+  },
+  "description": "Zanim Rozszczepiona Latarnia na Przylądku Łez zespoli trzy noże światła w jeden pewny snop, trzeba ukołysać to, co bije pod Szybami Selenitowymi pod Wiatrzecami. Przeorysza Lima Fal wie, że serce w głębi nie jest ani potworem, ani świętością, lecz pamięcią morza, złożoną z warstw przypływów, wspomnień i oddanych przysiąg. Prosi więc Eliana Kotwicznego, łucznika kuriera i czytacza świateł, aby zejść jeszcze raz w dudniący chłodem labirynt i ponieść echo rytuału uśmierzającego, prowadzonego z Bazyliki Wiru przez głos przeoryszy odbity w kanałach kamienia. Tira Selenitna, przewodniczka korytarzy, zna drżenia, które są bezpieczne, i kroki, które nie budzą pieśni skały, a Neris Winnafala przygotuje kroplę namaszczenia, żeby oddech człowieka nie kłócił się z oddechem kryształu. Delerion Ognikowy przekaże cichy kamerton, zestrojony z kośćcem lewiatana, by utrzymać jednolitą nutę bez srebrnych iskier paniki, a Rikel Stalnik z Legii Obsydianu szeptem przyzna, że w mapach patroli są białe plamy i wypadki, które nie są wypadkami. W pulsującym blasku Elian znajdzie ślad brata, wyryty w krystalicznym żebrze jak modlitwa i jak grzech, a echo oddechu, które odpowie z głębi, nie będzie już całkiem ludzkie, lecz wciąż rozpozna jego imię. Trzeba zdecydować, czy przeciąć splot, czy zostawić go nienaruszony do czasu burzy, kiedy Pieśń Zespalająca może ocalić mosty, dźwigi i łodzie, i jak wynieść odłamek z głosem tak, by rytm serca nie zachwiał się ani o pół uderzenia. Nad wszystkim krąży Kaledra Bazaltowa ze swymi dźwigami, kołowrotami i targami, a cienie na tarasach słuchają uważniej niż strażnicy na blankach, bo z głosu zaginionego rodzi się przyszła decyzja rady i przyszły kurs świateł.",
+  "objectives": [
+    "Przygotuj się do zejścia: odbierz od Neris kroplę namaszczenia i od Deleriona cichy kamerton, aby wejść w drgania skały bez budzenia paniki.",
+    "Zejdź z Tirą do komory lewiatana i rozpocznij rytuał uśmierzający pod kierunkiem Limy Fal (na odległość przez echo, prowadzone przez kanały i filary).",
+    "Porozmawiaj z Rikelem Stalnikiem o dowodach sabotażu i jego lojalnościach, sprawdzając białe plamy na mapie patroli.",
+    "Odnajdź ślad brata – inskrypcję w krystalicznym żebrze – i zdecyduj, czy próbować go odłączyć, czy zostawić połączenie na czas burzy.",
+    "Zbierz krystaliczny odłamek niosący głos zaginionego i wynieś go bez zakłócania rytmu serca."
+  ],
+  "dialogue": [
+    {
+      "speaker": "Lima Fal",
+      "lines": "Nie wszystko, co śpi, pragnie przebudzenia, tak jak nie wszystko, co czuwa, chce dalej patrzeć na świat, który się zmienia z każdą falą. Serce, które odwiedzisz, nie jest bestią ani świętością, jest pamięcią morza i wszystkich, którzy kiedykolwiek złożyli mu oddech w zastaw. Pójdziesz z głosem, który poprowadzę przez echo filarów, i będziesz oddychał równo, jakbyś łowił światło w algowej latarni i rozdzielał je na kolory cierpliwością, nie siłą. Uspokój je nie nakazem, lecz obecnością, i pamiętaj, że każde drgnienie skały słucha słów, które jeszcze nie zostały wypowiedziane. Jeśli morze zechce, odkupi od ciebie pytanie, a odda ci odpowiedź, której się boisz, więc weź ją z pokorą i odłóż na taras, na którym będziesz gotów ją przeczytać."
+    },
+    {
+      "speaker": "Neris Winnafala",
+      "lines": "To namaszczenie ma barwę zielonego szkła, ale nie błyszczy, tylko pije światło, dlatego skała go nie odrzuca i dlatego twoje dłonie nie będą dla niej obce. Wetrzyj jedną kroplę pod obojczyk i jedną na skroń, a trzeciej nie używaj, chyba że echo zacznie dusić słowa i kamerton zgubi czystą nutę. Zapach jest słonawy, z oddechem alg i cieni bagien, i jeśli poczujesz, że przypomina ci wieczory nad kanałami, to dobrze, bo pamięć uspokaja szybciej niż rozkaz. Zrobione jest z żywicy drzewnego szkła z Gaju Pustych Dębów i z odparowanej wody z kaplicznych kanałów, więc niesie w sobie i pieśń starego kręgu, i błogosławieństwo Wiru. Nie dawaj go nikomu innemu, niech będzie jak przysięga między twoją skórą a sercem, które dziś usypiasz."
+    },
+    {
+      "speaker": "Delerion Ognikowy",
+      "lines": "Kamerton, który trzymasz, nie jest głośny, ale jest uparty, i będzie trzymał ton nawet wtedy, gdy twoje kolana zadźwięczą od zimna i strachu. Nie uderzaj nim o metal, tylko rozkołysz go oddechem, jakbyś nucił pieśń lampników, i pozwól, by selenit sam odnalazł w nim swoją drogę. Pryzmat, który w nim osadziłem, nie rozszczepia światła na pokaz, tylko porządkuje je dla kamienia, więc trzymaj go ukośnie, żeby nie kłócił wąskich korytarzy cieniem. Usłyszysz czasem drugą nutę, jak lustro za lustrem, ale to tylko odbicie, które prosi o uwagę, a nie o zmianę melodii, więc nie daj mu się prowadzić w bok. Jeśli w komorze serca poczujesz skok w takcie, pozwól kamertonowi opadać jak kotwicy, ma spowalniać nie gwałcić, a wtedy przeżyje i on, i pieśń, i ty."
+    },
+    {
+      "speaker": "Tira Selenitna",
+      "lines": "Zejdziemy w ciszy, tak głębokiej, że usłyszysz jak piasek w szczelinach liczy nasze kroki i jak woda pod skalą przewraca się z boku na bok. Nie nadeptuj na miejsca, gdzie ściana śpiewa wysoko, bo tam kamień myśli o pękaniu, idź po niskich nutach, jakbyś stawiał stopy na miękkich kępach w bagnach. Kiedy będę liczyć, to nie dla porządku, tylko dla rytmu, a ty licz ze mną, bo rytm jest kładką nad przepaścią i boją na czarnym prądzie. Jeśli zobaczysz w pryzmatach twarze albo wspomnienia, nie zatrzymuj się, to nie są duchy, to skała próbuje rozmawiać, a my przyszliśmy ją ukołysać, nie kłócić się z nią. Gdy zacznie się rytuał, trzymaj kamerton jak dziecko, które zasypia na ramieniu, i nie daj nikomu wsadzić między was dłoni, bo zgubimy oddech."
+    },
+    {
+      "speaker": "Rikel Stalnik",
+      "lines": "Nie będę udawał, że wszystko jest w porządku, bo nie jest, i nawet obsydianowe pancerze nie wytrzymują zbyt długo, kiedy pękają od środka mapy i sumienia. Rozkazy przyszły z góry, a niektóre patrole dziwnie się mijają, zostawiając białe plamy większe niż rozsądek, i w tych pustkach wypadki dzieją się częściej niż powinny. Jeśli pokażesz mi, że ktoś z Konfederacji pociągał za te sznurki, to będę miał dość gliny, by ulepić z niej oskarżenie i przynieść je pod Wieżę Grot bez drżenia ręki. Wiem, że masz brata w tej skale, albo coś, co zostało z jego oddechu, i nie będę ci mówił, co masz zrobić, bo nie chcę cię nigdy spotkać na nabrzeżu i widzieć w twoich oczach mojego rozkazu. Zrób, co musisz, a ja zrobie, co powinienem, i może spotkamy się kiedyś w połowie schodów, gdzie woda przestaje płakać, a człowiek słyszy siebie wyraźniej."
+    },
+    {
+      "speaker": "Elian Kotwiczny",
+      "lines": "Słyszę cię w przerwach między nutami, jakbyś stał za cienką szybą i stukał w nią knykciami, licząc moje oddechy. Nie przyszedłem wyrywać cię na oślep, bo wiem, że niektóre więzy trzymają ciało przy życiu jak lina przy tonącym, i że gwałt robi z nich sidła. Przyszedłem poprosić morze, żeby uspokoiło wspólny rytm, a to, co mogę zabrać, wezmę jak kroplę z ołtarza, nie jak łup ze skarbca. Jeśli przyjdzie burza, zawołam twoje imię z Niebomostu i z galerii latarni, i pozwolę, żeby głos z odłamka trzymał mnie prosto, kiedy miasto będzie kołysać strach. a teraz oddychaj ze mną, bracie, bo każdy wspólny wydech to schodek wyżej na drodze do domu, który pamięta nasze kroki."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Przeciąć splot i odłączyć brata",
+      "text": "Stajesz przy krystalicznym żebrze i widzisz, jak inskrypcja drży, kiedy mówisz jego imię, a twoje dłonie robią się tak ciężkie, jakby ktoś włożył ci w nie dwie kotwice. Czujesz, że da się to zrobić cicho i precyzyjnie, w tej jednej chwili, kiedy kamerton i serce spotykają się na równinie bez wiatru. Wiesz też, że jeśli spóźnisz się o pół oddechu, pęknie coś więcej niż szkło, i echo poniesie tę szczerbę na tarasy i mosty. Namaszczenie chłodzi ci skronie, a oddech liczy się sam, więc ostrzysz intencję jak stalową strzałę, która nie lubi chybiać. Decydujesz, że wyprujesz splot niczym cierń, bez furii i bez triumfu, tylko z cichą prośbą, żeby kamień zapamiętał delikatność, a nie ból.",
+      "outcome": "Poruszenie w sercu jest wyraźne, ale nie jest to krzyk, raczej niespodziewane westchnienie, które szybko wygasza kamerton prowadzony równym tempem. Odłamek z głosem odrywa się czysto, a w nim niesie się nuta bardziej ostra, jakby człowiek, który nim był, dziękował przez zaciśnięte zęby. Tira kładzie ci dłoń na ramieniu i mówi, że chodzisz po krawędziach, ale wracasz, a Rikel w oczach ma cień, który mówi, że czasem trzeba ciąć, by móc zszyć. Rytuał Limy Fal dopełnia ukołysania, chociaż przez chwilę latarnia w oddali odpowiada trzechtonowym drżeniem, które szybko zespala się w jedną szeroką smugę. Nagrody i konsekwencje są takie, jakich się spodziewałeś: masz rezonator z głosem, zdobywasz cień zaufania wśród ludzi Legii dzięki Rikelowi, i wiesz więcej o sabotażu, choć czujesz, że zapłaciłeś za to swoją porcję cichego niepokoju."
+    },
+    {
+      "id": "C2",
+      "title": "Zostawić splot nienaruszony i ukołysać serce do końca",
+      "text": "Kłaniasz się inskrypcji jak chorągwi, która przetrwała sztorm, i mówisz bratu, że nie rozdzielisz go z oddechem, który trzyma go przy byciu, choćby nie było już całkiem ludzkie. Ustawiasz kamerton niżej i szerzej, pozwalając, by jego nuta spłynęła po żebrach jak ciepła woda, i tworzysz przestrzeń, w której nic nie musi pęknąć. Namaszczenie wsiąka w skórę, a ty czujesz, że drżenie kamienia wyrównuje się z twoim pulsem, i że to wyrównanie jest waszym językiem, a nie stalą. Tira uśmiecha się cicho, bo rozpoznaje w tobie lampnika, który potrafi czekać, aż mgła sama opadnie, zamiast ją rozganiać, i wspiera cię, kiedy schodzisz tonem bardziej głębokim. Decydujesz, że odłamiesz tylko mały fragment poboczny, który nosi echo głosu, ale nie narusza wiązań, i że wrócisz tu podczas burzy z Pieśnią Zespalającą, by dokończyć to, co dziś zaczynasz.",
+      "outcome": "Serce kamienne uspokaja się jak niemowlę po kołysance, a w korytarzach ustają drobne osypy, które przez ostatnie dni niepokoiły brygady. Odłamek jest delikatny, ale wierny, i kiedy przykładzasz go do ucha, słyszysz dwa oddechy, które powoli zgrywają się w jeden, jakby ktoś uczył się od nowa oddychać razem z tobą. Rikel mówi, że nie lubi dróg półśrodków, ale że to była mądra decyzja, i że łatwiej mu będzie przeforsować śledztwo, gdy nie ma nowych pęknięć do łatwego obarczenia winą. Lima Fal dziękuje przez echo, a latarnia nad zatoką odpowiada jednym dłuższym błyskiem, który nie rozcina mgły, tylko ją rozświetla. Nagrody przychodzą razem z oddechem: rezonator z głosem, cieplejsza reputacja wśród ludzi Legii poprzez Rikel Stalnik i jasne tropy sabotażu, które poprowadzą cię na posiedzenie rady nadzorczej szybów."
+    },
+    {
+      "id": "C3",
+      "title": "Zagrać nutę prawdy i postawić Rikelowi warunek",
+      "text": "Wybierasz chwilę, w której echo jest najsłabsze, żeby twoje słowa nie odbiły się od skały jak strzały od pancerza, i prosisz Rikel Stalnika, by odsłonił swoje karty. Mówisz mu, że dasz mu dowody na sabotaż, jeśli on zabezpieczy wyjście i zdejmie nienazwane rozkazy, które wpychają ludzi w białe plamy. Kamerton w twojej dłoni utrzymuje ton, który nie kłamie, i to napięcie między prawdą a obowiązkiem rozciąga się nad wąską półką jak lina nad wodą. Rikel patrzy w pryzmat, w którym odbija się jego własna twarz i Wieża Grot, i milczy wystarczająco długo, by jego milczenie stało się odpowiedzią. Decydujesz, że nie opuścisz komory, dopóki nie usłyszysz od niego jednego zdania, które można będzie zanotować w Skryptorium Przypływów jak przysięgę.",
+      "outcome": "Rikel w końcu mówi, że jeden z notabli Konfederacji ma kopię map patroli z białymi plamami większymi, niż wymagałaby oszczędność sił, i że nazwisko to pojawia się na listach łupów w skarbcu Wieży Grot, do którego klucze ma nie ten, co trzeba. Obiecuje, że da ci przejście i że w ciągu trzech dni przyniesie ci dokument, który można odczytać na głos przed Radą Segmentów, nawet jeśli będzie to kosztować go stanowisko. Serce w komorze nie reaguje na waszą wymianę, bo utrzymujesz ton jak latarnik utrzymuje światło podczas mgły, i rytuał Limy Fal toczy się bez szarpnięć. Wychodzisz z odłamkiem, który niesie głos zaginionego, a twoje kroki przez korytarze są lżejsze, bo wiesz, że na tarasach pojawi się wreszcie ścieżka prawdy. Otrzymujesz to, po co przyszedłeś: rezonator z głosem, kroplę zaufania ze strony części Legii dzięki Rikelowi i wiarygodne tropy sabotażu, które położysz na stole rady jak sieć pełną ryb."
+    }
+  ],
+  "connections": {
+    "previous": [
+      "M9"
+    ],
+    "next": [
+      "M11"
+    ]
+  },
+  "rewards": [
+    {
+      "type": "item",
+      "description": "Odłamek z głosem – przenośny rezonator, który wzmacnia Pieśń Zespalającą w czasie sztormu i prowadzi jeden ton przez mgłę."
+    },
+    {
+      "type": "reputation",
+      "description": "Zaufanie części Legii poprzez Rikel Stalnik; mniejsze ryzyko starć i blokad w szybach podczas przyszłych zejść."
+    },
+    {
+      "type": "insight",
+      "description": "Wiedza o sabotażu łączącym Konfederację z zawałami – klarowne wątki do podniesienia na Radzie Nadzorczej szybów i w Skryptorium Przypływów."
+    }
+  ]
+}

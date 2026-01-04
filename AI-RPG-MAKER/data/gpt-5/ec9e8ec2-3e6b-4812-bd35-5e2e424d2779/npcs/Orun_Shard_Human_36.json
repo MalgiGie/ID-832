@@ -1,0 +1,57 @@
+{
+    "name": "Orun",
+    "surname": "Shard",
+    "race": "Human",
+    "age": 36,
+    "appearance": "Weather-cut runner with glass-burn scars on both forearms, hair bleached near-white by caldera fumes, eyes always tracking the sky’s veins.",
+    "character": "Dogged and fatalistic, laughs at danger, haunted by oaths spoken under thunder.",
+    "traits": [
+        "reckless",
+        "loyal to crew",
+        "superstitious",
+        "secretive"
+    ],
+    "skills": [
+        "storm-kiln rigging",
+        "fulgurite harvesting",
+        "sabotage spotting",
+        "oath-rite survival tricks",
+        "smoke mask crafting"
+    ],
+    "talents": [
+        "feels ground-fire rumble seconds before it breaks",
+        "throws a hook dead true in gale",
+        "bargains with rival crews without blood"
+    ],
+    "flaws": [
+        "bends rules until they scream",
+        "gambling habit",
+        "runs from confession"
+    ],
+    "dreams": [
+        "Earn the right to name a crack on the Highest Spire",
+        "Found a neutral runner’s lodge that outlasts house wars"
+    ],
+    "secrets": [
+        "Broke an oath in earshot of a strike and coughed glass for a week; hides the shards in his belt",
+        "Took coin to delay a storm run; a rival crew died in the attempt"
+    ],
+    "relations": [
+        {
+            "npc_name": "Myris Khel",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Thalen Marr",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sorev Katch",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Nerey Alis",
+            "relation_type": "neutral"
+        }
+    ]
+}

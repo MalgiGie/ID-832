@@ -1,0 +1,67 @@
+{
+    "name": "Magister",
+    "surname": "Vell",
+    "race": "Dwarf (Skytooth Line)",
+    "age": 77,
+    "appearance": "Short, powerfully built, with cobalt-stained beard braids and mirrored sky-ore goggles perpetually perched on his brow.",
+    "character": "Brilliant, impatient, and allergic to superstition.",
+    "traits": [
+        "Analytical",
+        "Audacious",
+        "Prideful",
+        "Quick-tongued",
+        "Restless"
+    ],
+    "skills": [
+        "Hydromechanics",
+        "Resonance mathematics",
+        "Chime-plate tuning",
+        "Crucible design",
+        "Emergency Loom procedure"
+    ],
+    "talents": [
+        "Hears harmonic faults in machinery at a glance",
+        "Improvises field repairs from scrap",
+        "Runs the Loom by touch alone in blackout"
+    ],
+    "flaws": [
+        "Arrogant with the devout",
+        "Blind spot for public sentiment",
+        "Sleeps poorly"
+    ],
+    "dreams": [
+        "Decouple the Loom of Tides from politics",
+        "Prove the Blue Heart crystal exists",
+        "Build storm-quieter towers across the valley"
+    ],
+    "secrets": [
+        "Operates an unauthorized resonance chamber that syncs to the Shattermere on thin moons",
+        "Accidentally woke a gargoyle while testing water-feed on the Aqueduct"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sere Aven",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orin Thalen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Asha Greyling",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Iven Kall",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Pika Jinn",
+            "relation_type": "Friendship"
+        }
+    ]
+}

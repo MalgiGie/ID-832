@@ -1,0 +1,61 @@
+{
+    "name": "Mira",
+    "surname": "Cael",
+    "race": "Human",
+    "age": 26,
+    "appearance": "Short and quick, lantern-polish under the nails, a braided wick looped around her wrist.",
+    "character": "Bright and relentless on a case; kindly in the quiet hours.",
+    "traits": [
+        "observant",
+        "honest",
+        "steel-nerved"
+    ],
+    "skills": [
+        "evidence gathering",
+        "bell-code interpretation",
+        "street rapport",
+        "ledger audit and forgery-spotting"
+    ],
+    "talents": [
+        "hears rehearsed stories by their cadence",
+        "runs rooftops at dusk without stumbling",
+        "reads lips across a canal"
+    ],
+    "flaws": [
+        "overworks and forgets to eat",
+        "naive about deep corruption",
+        "fear of deep water"
+    ],
+    "dreams": [
+        "clean the Wickwards' name of old slanders",
+        "build protections for Veil defectors who testify",
+        "earn a bell-note in the Hall of Lanterns"
+    ],
+    "secrets": [
+        "copied sealed writs to warn targeted engineers",
+        "meets Seler off-book to trade intel on smuggling routes",
+        "keeps a friend inside the Veil unnamed in any ledger"
+    ],
+    "relations": [
+        {
+            "npc_name": "Seler Daki",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Mavek Dross",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Pesha Lume",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Tomas Helwin",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ysil Kett",
+            "relation_type": "Hostility"
+        }
+    ]
+}

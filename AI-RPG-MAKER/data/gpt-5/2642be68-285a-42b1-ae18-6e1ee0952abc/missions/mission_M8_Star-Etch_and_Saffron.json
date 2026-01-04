@@ -1,0 +1,44 @@
+{
+    "id": "M8",
+    "title": "Star-Etch and Saffron",
+    "quest_giver": "Orel Vaska",
+    "description": "The Ember Dunes hum with buried glass veins, and a storm that spits green lightning has started throwing shadows toward Thyssara. Orel Vaska, a caravan master whose face looks carved by sun and sand, asks you to ride escort for three wagons of saffron and to retrieve a still-bright runecap said to have rolled loose from the Skybridge Ruins. The runecap’s etchings can lock a tone in metal—useful for decoding star-law and for bending bells to chosen notes. The Wardens want a sample of the storm’s residue; the Tidewrights want to hear how the runecap sings under tension. Between mirage-bandits and the Singing Titan that hates iron, the dunes demand respect and clean water. The reward is coin, yes, but also a tool to sing the truth into stubborn places.",
+    "objectives": [
+        "Escort Orel Vaska’s saffron wagons safely across the Ember Dunes.",
+        "Investigate the storm spitting green lightning and collect residue safely.",
+        "Retrieve the runecap from the Skybridge Ruins without damaging the etchings.",
+        "Negotiate safe passage past mirage-bandits or defeat them.",
+        "Deliver the runecap to the House of Quiet Wings and the residue to the Wardens."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Orel Vaska",
+            "line": "Saffron keeps food sweet when the river turns sour. You guard my wagons and I’ll put your name in the Exchange ledger with ink that won’t wash out in a rain. The runecap is a side errand, but the kind that pays for a funeral when things go wrong. Keep your iron close and your pride closer; the dunes punish both."
+        },
+        {
+            "speaker": "Mira Cael",
+            "line": "Green lightning means the air is chewing on glass. I’ll have a skiff shadow you along the dune ridges, but we can’t land if the Titan stirs. If the storm comes down to bite, ground your spear, not your feet. The sand would like to keep your ankles as souvenirs."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "I’ve walked channels that knot themselves around your oars; I can walk a dune that tries to erase my footprints. We’ll bring back your spice and your etched star, and if the bandits try to sell us a horizon I’ll pay them with a rope around their lies. Keep the camels in line and the water shaded."
+        },
+        {
+            "speaker": "Pesha Lume",
+            "line": "The runecap will want to sing when you touch it. Do not let it choose the key. Wrap it in mothcloth and hum a steady note to remind it of the night. We will ask it for its story when it sleeps."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        "Significant coin from the Saffron Exchange via Orel Vaska",
+        "Runecap with star-etchings delivered to the Order (later unlocks emergency bell-tone)",
+        "Wardens commendation for storm residue (grants access to Windward Bastion’s wind-tunnels)"
+    ]
+}

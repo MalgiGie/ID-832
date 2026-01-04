@@ -1,0 +1,107 @@
+{
+  "id": 3,
+  "title": "Three Grits to Clarity",
+  "quest_giver": {
+    "name": "Istel Shardwright",
+    "affiliation": "Mirror Guild"
+  },
+  "description": "Shattersea mornings are knives and mirrors, and the obsidian shelves sing in thin voices when the cold meets the sun. Quarry taps tick like a metronome for the heart, and the meltpool breathes a thread of mist that climbs the still air like a vow. Istel Shardwright meets you on a wind-scoured ledge with a crate of grits—coarse for hunger, medium for patience, fine for truth—and a superstition carved into muscle memory about polishing only when the wind comes from the east. The Mirror Guild says truth refracts but does not vanish, yet the Skyscribes mutter that prediction without permission is a storm loosed in a courtroom. Between gust and glint, you will grind a lens able to read pressure-ghosts in ink and hesitation in the hand that wrote it, then carry that brightness through a mirror-portal without letting rivals decide whether truth is chained or burned.",
+  "objectives": [
+    {
+      "id": "O1",
+      "description": "Escort Istel Shardwright along the quarry shelves of the Shattersea and collect volcanic salts for lens tempering.",
+      "type": "escort"
+    },
+    {
+      "id": "O2",
+      "description": "Guard the polishing bench from jealous apprentices while Istel grinds the Cirrus Splitter Lens using three grits.",
+      "type": "defense"
+    },
+    {
+      "id": "O3",
+      "description": "Discuss findings with Nalia Pree and compare Skyscribe wind vectors to mirror-read micro-scratches.",
+      "type": "investigation"
+    },
+    {
+      "id": "O4",
+      "description": "Use the finished lens to examine the ledger scrap and map hidden alignment marks pointing toward the Sunken Atelier.",
+      "type": "analysis"
+    },
+    {
+      "id": "O5",
+      "description": "Smuggle the lens back to Ankharion through a Sky Market mirror-portal without alerting Guild rivals.",
+      "type": "stealth"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Istel Shardwright",
+      "text": "Hold the bench when the wind wakes. Three grits, three vows—never polish in anger, never blink at the reflection that frightens you, and never mistake your own face for the only face in the mirror."
+    },
+    {
+      "speaker": "Nalia Pree",
+      "text": "Revelation is not rescue. Ten-knot vectors open doors without hinges or brakes, and the air does not close politely behind a mistake."
+    },
+    {
+      "speaker": "Lyris Kael",
+      "text": "If wind and glass find the same riverbed beneath the rumor, we will walk it together and argue about names later."
+    },
+    {
+      "speaker": "Istel Shardwright",
+      "text": "The fine grit sings true now. The scratches resolve into a path, and it points toward the Sunken Atelier."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Set the mirror to law",
+      "description": "Present the lens publicly to the Wind Court under recorded oaths, binding guilds through transparency and decree.",
+      "outcome": {
+        "summary": "The Court authorizes a controlled reconnaissance of the Sunken Atelier under joint oversight.",
+        "effects": [
+          "Mirror Guild reputation increased",
+          "Skyscribe traditionalist opposition increased",
+          "Lens becomes known to rival factions"
+        ]
+      }
+    },
+    {
+      "id": "C2",
+      "title": "Bind the wind in secret",
+      "description": "Keep the lens off the Court’s docket and refine its use quietly with the Skyscribes before acting.",
+      "outcome": {
+        "summary": "A covert pact of wind and glass forms, granting stealth access routes and deeper understanding of the lens.",
+        "effects": [
+          "Skyscribe trust increased",
+          "Mirror Guild internal tension increased",
+          "Access to secret wind-road maps"
+        ]
+      }
+    }
+  ],
+  "connections": {
+    "previous": [2],
+    "next": [4]
+  },
+  "rewards": [
+    {
+      "type": "item",
+      "name": "Cirrus Splitter Lens",
+      "description": "Reveals micro-scratches and latent alignment marks invisible to the naked eye."
+    },
+    {
+      "type": "reputation",
+      "faction": "Mirror Guild",
+      "description": "Access to lens-quarter backrooms and advanced glasscraft contacts."
+    },
+    {
+      "type": "map",
+      "description": "Fragment indicating a concealed entrance route to the Sunken Atelier."
+    },
+    {
+      "type": "letter",
+      "from": "Nalia Pree",
+      "description": "A promise of cautious cooperation between wind and glass."
+    }
+  ]
+}

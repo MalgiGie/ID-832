@@ -1,0 +1,39 @@
+{
+    "id": "M6",
+    "title": "Sap for a Sleeping City",
+    "quest_giver": "Erynn Mirrorfall (Mirrorclose artisan)",
+    "description": "In Mirrorclose, panes glimmer in workshop windows like quiet eyes. Erynn Mirrorfall, a stained-glass artisan who knows how light can heal as well as dazzle, shows you a design for a resin-lacquer that could dampen the sleep-walkers’ tug without muting the Shard. She needs sap from the Moonless Orchard, gathered at the border where the Order’s edicts falter and the Night Orchard’s roots run deep. Jaya Basaltrip from the Collegium will calibrate the infusion on site, and Lysa Shardhands has agreed to look the other way if the work is done before true night. But the grove eats direction and trades fear for forgetfulness. Walking there is like speaking a truth you didn’t mean to, and you remember the kindness you forgot when you tasted night-fruit years ago. If that memory walks before you in the shade, you must choose whether to call it back or let it vanish a second time.",
+    "objectives": [
+        "Meet Erynn Mirrorfall and Jaya Basaltrip at the edge of the Moonless Orchard.",
+        "Collect night-sap from marked quince and smoky plum trees without stepping into full shade.",
+        "Assist Jaya in mixing the resin-lacquer and test it on lantern panes.",
+        "Evade Night Orchard watchers and respect the Order’s boundary conditions."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Erynn Mirrorfall",
+            "lines": "Light can be sharpened like a blade or softened like a hand. The city needs the hand right now. This lacquer, if the grove will let us take it, will teach lantern glass to hum with the Shard without pulling sleepers from their beds. I don’t want to bind the song; I want to cradle it until the storm passes."
+        },
+        {
+            "speaker": "Jaya Basaltrip",
+            "lines": "The sap is temperamental. It remembers promises made in a whisper and sulks if you lie to it. We’ll mix it at the boundary so the night doesn’t push its thumb through our sums. Stand close and listen to my counts. If I say stop, you stop, even if the tree sings your name like someone you miss."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "The Orchard took a piece of me once and I’ve worn the hole like a badge I don’t show. If it gives me the chance to patch it, I won’t grab like a thief. We’ll take what the trees offer and no more. And if a shadow leans close and calls me by a name I can’t quite feel, I’ll lean back into your counts and let the lacquer set."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        "Crate of Resonant Resin-Lacquer (reduces sleepwalking within a small warded area).",
+        "A letter of thanks from the Collegium, improving their trust.",
+        "Personal memory fragment: a half-remembered laughter at a ropewalk, hinting at the kindness you lost."
+    ]
+}

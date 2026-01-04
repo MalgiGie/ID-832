@@ -1,0 +1,642 @@
+{
+    "city": "Marrowgate is a city built within and around the titanic fossil of a sky-wyrm whose ribs arch like alabaster bridges over a chasm carved by the River of No Echo. Seven districts, called the Seven Ribs, ring a central hollow where the sternum once lay, now paved as Sternum Plaza and lined with scrimshawed obelisks that tally treaties, debts, and dead. The Skull Keep crowns the northern brink, its cavernous eye-sockets lantern-lit as the council hall glows within the cranial vault. The First Rib is dockside and damp, ruled by sluice-gates and the cant of boatmen; the Second Rib smokes with kilns and bone-lime; the Third Rib chants with reliquaries and prayer; the Fourth Rib instructs with bone-lore and osteomancy; the Fifth Rib hawks, haggles, and files serrated wares in the Bone-Market; the Sixth Rib parades bone-inlaid townhouses and the scribe-banks; the Seventh Rib sprawls in lantern-dim alleys and rope-bridges along the tailward ward. Established three centuries ago when scavengers-turned-settlers traced the wyrm’s vertebral canal to springwater and safety during the Ash Rains, Marrowgate rose from survival into a center of bonecraft, canal mastery, and contract-magic. Its currency is the chit, a scrimshawed sliver whose carvings match paired registries held by the Loom of Names. Governance nominally belongs to the Custodian of the Remains—currently Lady Sereth Vex—but practical power resides with the Council of Cartilages, guild delegates who argue beneath ribs that creak when oaths are broken. Legends say the wyrm died dueling the Lantern King, a fallen star sovereign whose surrender etched the chasm’s course; others claim the wyrm chose to sleep here to pin shut a wound in the world. On windless nights, the bones hum with river-tremor, and those who listen swear they catch words. Taboos forbid the breaking of bearing-bones, the selling of names without consent, and the summoning of voices from the Mire of Quiet Dust. Prosperity depends on the river gates, bone ash for kilns, trade with the Nadiri caravans, and a delicate truce with the Grave-Binders, whose sigil-cord oaths keep the city’s dead at rest. Conflicts fester between artisans who profit by burning relics and priests who guard them, between scribes who own debts and smugglers who erase them, between zealots who would wake the wyrm and wardens who would drown them in lockwater.",
+    "surroundings": [
+        {
+            "name": "Ossuary Dunes",
+            "type": "Shifting bone-sand desert",
+            "distance": "1.5 days south by caravan",
+            "description": "A bleached expanse of pulverized bone and wind-carved femurs jutting like reef spines. Hidden vaults lie beneath whistling vents where bone meal feeds blind fungi.",
+            "legend": "Caravaneers swear a whale of sand and ribs swims beneath the dunes, its song luring lost travelers to shallow graves; those who offer a carved tooth are said to be guided to shade.",
+            "secrets": "Fragments of pre-wyrm ossature protrude after storms—denser and impervious to decay—coveted by the Calcifiers’ Guild for royal commissions.",
+            "factionsInterested": [
+                "Calcifiers' Guild",
+                "Grave-Binders",
+                "Nadiri Caravan Court"
+            ],
+            "hazards": [
+                "Bone squalls that strip flesh",
+                "Subducting sinkfields",
+                "Fanatics of the Hollow Pilgrims"
+            ]
+        },
+        {
+            "name": "Skyfall Shardfield",
+            "type": "Meteoric glass and star-metal strewn plain",
+            "distance": "Two days west beyond the chalk step",
+            "description": "Glass-limned craters glitter with knife-edged panes; meteoric nodules vein the soil with cold fire. At dusk the shards ring with faint harmonics.",
+            "legend": "Here the Lantern King fell, and his crown cracked into seven shards; those who lift a shard and live will carry a wick that never dies.",
+            "secrets": "Buried beneath a fused crater lies a sealed chamber whose walls rewrite maps at dusk; only the Cartographer’s Needle resonates a key tone that opens it.",
+            "factionsInterested": [
+                "Ember Kiln Syndicate",
+                "Grey Lanterns",
+                "Loom of Names"
+            ],
+            "hazards": [
+                "Glass storms",
+                "Star-wasps nesting in hollow meteors",
+                "Magnet-stilling fields that kill compasses"
+            ]
+        },
+        {
+            "name": "Mire of Quiet Dust",
+            "type": "Ash marsh and whispering fen",
+            "distance": "A day and a night east through reed-choked cuts",
+            "description": "Dead reeds and sootwater pools exhale cold. The mud tastes of lime and tar, and old warding cords hang from snag-boughs, half-sunk.",
+            "legend": "The Dustmother wanders in a cloak of breath, offering sleep without dreams; accept twice and you never wake.",
+            "secrets": "Ancient plague altars bear intact sigils for pacifying the recently dead; the Grave-Binders refresh these bindings every solstice at great political risk.",
+            "factionsInterested": [
+                "Grave-Binders",
+                "Order of the Third Rib",
+                "Riverwardens of the No Echo"
+            ],
+            "hazards": [
+                "Miasma that dulls memory",
+                "Leech-cords that knot around ankles",
+                "Silent currents that drown lantern light"
+            ]
+        },
+        {
+            "name": "Silica Reef",
+            "type": "Petrified glass forest",
+            "distance": "Three days northwest along the upland shelf",
+            "description": "A forest of translucent spires tuning themselves in wind, home to vitreous ants and the rare glass-bloom whose petals cut and heal in equal measure.",
+            "legend": "The Glass Choir sings when a truthful lie is told beneath its boughs; some say they echo the wyrm’s heart.",
+            "secrets": "A buried furnace-city predates Marrowgate; its smoke channels align with the Seven Ribs and teach kiln magic to those who listen.",
+            "factionsInterested": [
+                "Ember Kiln Syndicate",
+                "Calcifiers' Guild",
+                "Grey Lanterns"
+            ],
+            "hazards": [
+                "Shattering squalls",
+                "Vitric ant swarms",
+                "Mirage paths that reflect endless self"
+            ]
+        },
+        {
+            "name": "The River of No Echo",
+            "type": "Subterranean river undercutting the chasm",
+            "distance": "Directly beneath Marrowgate’s sternum and docks",
+            "description": "Water that swallows sound, coursing through black limestone; the sluiceworks bleed it into canals under oath-bound control.",
+            "legend": "Those who drown here are not heard by death and drift back in dreams to bargain; offerings of coin-chits return curiously unscribed.",
+            "secrets": "A sumped vault beneath the Skull Keep collects relic-silt that prophets brew into an ink that writes itself.",
+            "factionsInterested": [
+                "Riverwardens of the No Echo",
+                "Grey Lanterns",
+                "Loom of Names"
+            ],
+            "hazards": [
+                "Pressure surges that implode gates",
+                "Blind eels that nest in warm blood",
+                "Smugglers’ dead-pulleys and trap lines"
+            ]
+        },
+        {
+            "name": "The Cartographer’s Needle",
+            "type": "Pre-wyrm obelisk and resonance monolith",
+            "distance": "Two and a half days northeast beyond the basalt flats",
+            "description": "A slate-black spire with etched lattices that hum in step with the city’s ribs at dawn and dusk.",
+            "legend": "Maps laid at its base redraw their borders as the light turns, revealing routes that exist only at certain tides of moon and council will.",
+            "secrets": "When sounded with a bone flute cut to Fourth Rib pitch, a door opens beneath the Needle’s shadow to an archive of roads-that-could-be.",
+            "factionsInterested": [
+                "Loom of Names",
+                "Grey Lanterns",
+                "Order of the Third Rib"
+            ],
+            "hazards": [
+                "Geomantic vertigo",
+                "Stone-sprites that steal direction",
+                "Vagrants in service to a nameless map"
+            ]
+        },
+        {
+            "name": "The Hollow March",
+            "type": "Wind-scoured steppe of standing stones",
+            "distance": "Four days north along the spine trail",
+            "description": "Menhir fields arranged like ribcages under the sky, drumming at night with storm beatings.",
+            "legend": "When the Seventh Rib breaks, stone soldiers will stand and walk to finish the wyrm’s last war.",
+            "secrets": "A bone-bell buried under the central stone answers only to the Custodian’s blood; it summons the oldest council, whether they wish it or not.",
+            "factionsInterested": [
+                "Order of the Third Rib",
+                "Council of Cartilages",
+                "Grey Lanterns"
+            ],
+            "hazards": [
+                "Razor grass that drinks warmth",
+                "Lightning that hunts iron",
+                "Waking menhirs that lean to listen"
+            ]
+        }
+    ],
+    "buildings": [
+        {
+            "name": "Skull Keep",
+            "type": "Seat of governance and defense",
+            "location": "Northern brink within the wyrm’s skull",
+            "description": "Fortified galleries and lantern-lit eye halls house the Council of Cartilages and the Custodian’s chambers. The Foramen Ovale chamber resonates oaths into the bone.",
+            "history": "Raised from scaffold to stone over the first century, incorporating the natural cavities of the cranium; besieged once during the Kiln Riots.",
+            "dependencies": [
+                "Riverwardens for supply via inner hoist",
+                "Grey Lanterns for courier and counter-espionage",
+                "Loom of Names for transcript and seal"
+            ],
+            "legends": "If the skull’s sutures sweat, betrayal is being planned within; the last time it happened, a councillor vanished into the vertebral well.",
+            "conflicts": [
+                "Calcifiers’ Guild seeks a permanent voting seat equal to the Custodian’s voice",
+                "Order of the Third Rib contests the Keep’s claim over relic licensing"
+            ],
+            "currentStatus": "Garrisoned, with increased watch due to Grey Lantern warnings",
+            "notableFigures": [
+                "Lady Sereth Vex, Custodian of the Remains",
+                "Clerk-Major Orin Kell of the Loom of Names"
+            ]
+        },
+        {
+            "name": "Sternum Plaza",
+            "type": "Civic square and market",
+            "location": "City center where the sternum once lay",
+            "description": "A sunken oval paved in bone-tile mosaics showing the city’s founding; market arcades and public speakers’ rings ringed by oath-posts.",
+            "history": "Dedicated after the Accords of Quiet Dust as neutral ground. Here debts are sung and matched to name-ledgers under lantern light.",
+            "dependencies": [
+                "Loom of Names scribes",
+                "Order of the Third Rib wardens",
+                "Guild hawkers of the Fifth Rib"
+            ],
+            "legends": "A whisper uttered at the central inlay appears as frost on the bones at next dawn, legible only to those named in the whisper.",
+            "conflicts": [
+                "Smuggler stalls versus scribe taxation",
+                "Grave-Binders imposing funerary embargoes during plague scares"
+            ],
+            "currentStatus": "Busy from dawn through second lantern, tense near quarter-day",
+            "notableFigures": [
+                "Crier Vetch of Fifth Rib",
+                "Brother Halin, oath-post warden"
+            ]
+        },
+        {
+            "name": "The Pale Collegium",
+            "type": "Academy of osteomancy and natural philosophy",
+            "location": "Fourth Rib",
+            "description": "Arcaded courtyards, bone-libraries, and theaters of dissection. Its bell chimes in resonant tones that calm unrest—or rattle marrow.",
+            "history": "Founded by refugee scholars who mapped the wyrm’s channels to cure the Quiet Dust; now the city’s prime school of binding, anatomy, and canal physics.",
+            "dependencies": [
+                "Calcifiers for specimens and legal remains",
+                "Grave-Binders for ethical licenses",
+                "Ember Kiln Syndicate for laboratory ceramics"
+            ],
+            "legends": "A hidden theater teaches the language of ribs; speak it and the city answers.",
+            "conflicts": [
+                "Order of the Third Rib disputes vivisection of relic fauna",
+                "Grey Lanterns pressure faculty to redact star-metal studies"
+            ],
+            "currentStatus": "Lecture season in full session; restricted archives under seal",
+            "notableFigures": [
+                "Magister Pel Drath",
+                "Archivist Lysa Truin"
+            ]
+        },
+        {
+            "name": "Bone-Market Arches",
+            "type": "Trade bazaar and craft ateliers",
+            "location": "Fifth Rib",
+            "description": "Stacked stalls beneath rib-spanned arches sell carved vertebrae, inlaid tympani drums, and oath-chord trinkets.",
+            "history": "Grew from informal shambles into licensed vaults following the Chit Reforms; the Calcifiers’ Guild supervises tools and measures.",
+            "dependencies": [
+                "Calcifiers' Guild",
+                "Loom of Names tally clerks",
+                "Nadiri caravan brokers"
+            ],
+            "legends": "The arch keystones speak prices to those who have never lied in a sale.",
+            "conflicts": [
+                "Counterfeit chit rings undermining prices",
+                "Kiln Syndicate baiting markets with under-fired glass"
+            ],
+            "currentStatus": "Profitable but jittery; inspections up",
+            "notableFigures": [
+                "Master Articulator Brunna Coil",
+                "Weigher Ispen of the Loom"
+            ]
+        },
+        {
+            "name": "Cathedral of the Third Rib",
+            "type": "Temple and reliquary",
+            "location": "Third Rib",
+            "description": "A basilica set under the third arc, housing the Warden’s Altar and the Long Shelf of Names for the unclaimed dead.",
+            "history": "Consecrated on the fiftieth year to seal the last plague pit; received the Bone Bell from the Hollow March as a sign of guardianship.",
+            "dependencies": [
+                "Grave-Binders for funerary accords",
+                "Riverwardens for processional water",
+                "Council grants for relic repair"
+            ],
+            "legends": "If the Bone Bell tolls without a hand, an oath has been murdered.",
+            "conflicts": [
+                "Ember Kiln Syndicate’s demand for bone ash access",
+                "Cult of the Hollow Pilgrims attempting relic thefts"
+            ],
+            "currentStatus": "Open to petitioners; reliquary vaults reinforced",
+            "notableFigures": [
+                "Prior Edris Thale",
+                "Deacon Rellin of Names"
+            ]
+        },
+        {
+            "name": "First Rib Sluiceworks",
+            "type": "Canal gates, pumps, and lock-towers",
+            "location": "First Rib docks and underways",
+            "description": "Chains rattle through bone-crowned wheels that lift silence-soaked water into the upper pools; lock-keepers read pressure like scripture.",
+            "history": "Built in stages with star-metal bearings from Skyfall to quiet gate-song; never conquered, even during the Ugden Flood.",
+            "dependencies": [
+                "Riverwardens engineers",
+                "Loom of Names for flow ledgers",
+                "Skull Keep for militia support"
+            ],
+            "legends": "If the gates hum the old hymn, the river brings a lost fleet home.",
+            "conflicts": [
+                "Smuggling routes tunneled by Seventh Rib crews",
+                "Council austerity starving maintenance crews"
+            ],
+            "currentStatus": "Operational; one gate offline pending bearing replacement",
+            "notableFigures": [
+                "Harbormaster Jull Nerr",
+                "Gatewright Suri Yal"
+            ]
+        },
+        {
+            "name": "Ember Kilnworks",
+            "type": "Industrial kiln enclosure and glassworks",
+            "location": "Second Rib smoke quarter",
+            "description": "Terraced furnaces fed with bone ash and silica; a red glare paints the rib at night, and slag falls into cooled gutters.",
+            "history": "Merged from three rival kilns after the Ember Compact; rebuilt twice following explosions rumored to be sabotage.",
+            "dependencies": [
+                "Silica Reef caravans",
+                "Calcifiers for ash allotments",
+                "Nadiri coal trains"
+            ],
+            "legends": "A hidden chamber hardens glass that sings to the touch, revealing lies by a disharmonic note.",
+            "conflicts": [
+                "Order of the Third Rib embargoing relic ash",
+                "Dock unions striking over heat tithe"
+            ],
+            "currentStatus": "Running at two-thirds capacity; quality fluctuates",
+            "notableFigures": [
+                "Kiln-Queen Avar Ir",
+                "Fire Marshal Dako Fen"
+            ]
+        },
+        {
+            "name": "The Wyrmwell",
+            "type": "Guarded shaft and descent into vertebral canal",
+            "location": "Tailward near the Seventh Rib",
+            "description": "A vertiginous well lined with ribbed stair and winch; the air is cold and smells of old storms. Lantern runes mark measured depths.",
+            "history": "First breach into the canal was accidental during a well-dig; exploration halted after three crews vanished beyond a sealed cartilage gate.",
+            "dependencies": [
+                "Grey Lanterns for mapping",
+                "Order of the Third Rib for warding",
+                "Skull Keep for barricade authorization"
+            ],
+            "legends": "At its nadir the wyrm’s last breath sleeps as a weather that can be bottled and poured out as wind.",
+            "conflicts": [
+                "Prospectors versus wardens over opening the cartilage gate",
+                "Hollow Pilgrim sabotage of winches"
+            ],
+            "currentStatus": "Restricted; entry by triple-seal only",
+            "notableFigures": [
+                "First Wick Tamsin Veil",
+                "Warden-Sergeant Nel Oru"
+            ]
+        },
+        {
+            "name": "The Scribehouse of the Loom of Names",
+            "type": "Ledger-hall and bank of identities",
+            "location": "Sixth Rib chancery row",
+            "description": "A cool hall of inkstone and bone screens where names are bought, pledged, and redeemed; a thousand cords hang cataloging lives.",
+            "history": "Raised after the Chit Reforms, binding currency to name-threads; during the Kiln Riots it negotiated the peace by freezing all ledgers.",
+            "dependencies": [
+                "Skull Keep charters",
+                "Pale Collegium inkcraft",
+                "Grey Lanterns couriers"
+            ],
+            "legends": "A blank cord awaits the city’s own name; when braided, Marrowgate will choose its fate.",
+            "conflicts": [
+                "Grey Lanterns attempting to anonymize couriers",
+                "Nadiri complaints over external name taxation"
+            ],
+            "currentStatus": "Heavily guarded; audits ongoing",
+            "notableFigures": [
+                "Archivist Leth Morrow",
+                "Sealwright Jana Vesk"
+            ]
+        },
+        {
+            "name": "Phosphor House",
+            "type": "Signal tower and clandestine dispatch",
+            "location": "Edge of the Fourth and Seventh Rib boundary",
+            "description": "A retired light-tower refit with shutter-lamps and whisper-tubes threading the underways; its windows glow low-green at moonrise.",
+            "history": "Built as a river signal beacon, annexed in secret by the Grey Lanterns during the Star-Wasp Summer to coordinate evacuation.",
+            "dependencies": [
+                "Riverwardens signal codes",
+                "Skyfall Shardfield star glass",
+                "Sternum Plaza rumor flows"
+            ],
+            "legends": "Its lamp shutters can spell truths that cannot be heard by ears; only reflections can read them.",
+            "conflicts": [
+                "Loom of Names warrants for shutter logs",
+                "Calcifiers complaining of lamp glass requisitions"
+            ],
+            "currentStatus": "Denied as official property; plainly occupied",
+            "notableFigures": [
+                "First Wick Tamsin Veil",
+                "Cipher Adept Cor Yune"
+            ]
+        }
+    ],
+    "politics": [
+        {
+            "name": "Calcifiers' Guild",
+            "type": "Artisan guild of bonecraft and articulation",
+            "motive": "Control the city’s bone economy, elevate bonecraft to noble art, secure exclusive access to rare ossature.",
+            "assets": [
+                "Workshops in the Bone-Market Arches",
+                "Licensed reliquary restorers",
+                "Private guard, the Glaivehands"
+            ],
+            "leaders": [
+                "Master Articulator Brunna Coil"
+            ],
+            "allies": [
+                "Pale Collegium",
+                "Nadiri Caravan Court"
+            ],
+            "rivals": [
+                "Order of the Third Rib",
+                "Ember Kiln Syndicate",
+                "Grave-Binders"
+            ],
+            "history": "Formed from carvers and joint-setters who saved the city during the Quiet Dust by reconstructing ventilations; gained power via the Chit Reforms tying artisan marks to currency validation.",
+            "influence": "High in Fifth and Sixth Ribs; two votes on the Council of Cartilages pending recognition of a third.",
+            "seats": [
+                "Bone-Market Arches",
+                "Workshop Hall of Twelve Tendons"
+            ],
+            "taboos": [
+                "Breaking bearing-bones",
+                "Selling unlicensed relic fragments"
+            ],
+            "customs": [
+                "Initiates swear on a joint they have repaired",
+                "Masterwork auditions judged in public"
+            ]
+        },
+        {
+            "name": "Riverwardens of the No Echo",
+            "type": "Waterworkers, lock-keepers, and canal militia",
+            "motive": "Maintain flow sovereignty, collect lock tithes, suppress smuggling, and keep the river’s silence contained.",
+            "assets": [
+                "First Rib Sluiceworks",
+                "Signal barges",
+                "Pressure maps"
+            ],
+            "leaders": [
+                "Harbormaster Jull Nerr"
+            ],
+            "allies": [
+                "Skull Keep",
+                "Order of the Third Rib"
+            ],
+            "rivals": [
+                "Grey Lanterns",
+                "Seventh Rib smugglers",
+                "Nadiri Caravan Court"
+            ],
+            "history": "Sworn from fisher clans and ropewright families; earned citywide trust after holding gates through the Ugden Flood and quelling the Lockbreaker Mutiny without bloodshed.",
+            "influence": "Controls essential infrastructure; conservative block on the Council.",
+            "seats": [
+                "First Rib Sluiceworks",
+                "Harbor House"
+            ],
+            "taboos": [
+                "Whistling near lock gates",
+                "Throwing coins into the river"
+            ],
+            "customs": [
+                "Pressure reading contests every solstice",
+                "Silent toast before raising a gate"
+            ]
+        },
+        {
+            "name": "Order of the Third Rib",
+            "type": "Religious wardens of relics and funerary law",
+            "motive": "Guard the Remains, honor the dead, prevent necromantic abuses, and bind the city to its vows.",
+            "assets": [
+                "Cathedral of the Third Rib",
+                "Relic wardens",
+                "The Bone Bell"
+            ],
+            "leaders": [
+                "Prior Edris Thale"
+            ],
+            "allies": [
+                "Grave-Binders",
+                "Skull Keep"
+            ],
+            "rivals": [
+                "Ember Kiln Syndicate",
+                "Calcifiers' Guild",
+                "Hollow Pilgrims"
+            ],
+            "history": "Sanctified precincts during the Quiet Dust plague; codified the Accords of Quiet Dust to limit necromancy and protect remains.",
+            "influence": "Moral authority in Third and First Ribs; swing vote on charter amendments.",
+            "seats": [
+                "Cathedral of the Third Rib",
+                "Warden Cloister"
+            ],
+            "taboos": [
+                "Selling names",
+                "Kindling fires from relic wood"
+            ],
+            "customs": [
+                "Lantern vigils on the wyrm’s Deathday",
+                "Naming the unclaimed at dusk"
+            ]
+        },
+        {
+            "name": "Ember Kiln Syndicate",
+            "type": "Industrial consortium of glass, tile, and ash-ceramic makers",
+            "motive": "Secure raw materials, dominate kiln technology, and outcompete foreign imports.",
+            "assets": [
+                "Ember Kilnworks",
+                "Star-glass annealers",
+                "Coal allotments"
+            ],
+            "leaders": [
+                "Kiln-Queen Avar Ir"
+            ],
+            "allies": [
+                "Calcifiers' Guild",
+                "Nadiri Caravan Court"
+            ],
+            "rivals": [
+                "Order of the Third Rib",
+                "Riverwardens",
+                "Grey Lanterns"
+            ],
+            "history": "Merged rivals after the Ember Compact; accused of arson in the Glass Tax Revolt, charges never proven.",
+            "influence": "Economic clout and guild muscle; leverages employment in Second Rib to sway street politics.",
+            "seats": [
+                "Ember Kilnworks",
+                "Molten Arcade"
+            ],
+            "taboos": [
+                "Quenching with river water",
+                "Working with unweighed sand"
+            ],
+            "customs": [
+                "First flame oath at dawn",
+                "Shard-casting for dispute resolution"
+            ]
+        },
+        {
+            "name": "Loom of Names",
+            "type": "Scribe-bank and custodians of identity-ledgers",
+            "motive": "Bind credit to names, ensure contracts endure, and keep the city’s history legible and owned.",
+            "assets": [
+                "Scribehouse of the Loom of Names",
+                "Ciphered cord vaults",
+                "Ledger caravans"
+            ],
+            "leaders": [
+                "Archivist Leth Morrow"
+            ],
+            "allies": [
+                "Skull Keep",
+                "Order of the Third Rib"
+            ],
+            "rivals": [
+                "Grey Lanterns",
+                "Seventh Rib smugglers",
+                "Nadiri Caravan Court"
+            ],
+            "history": "Rose during the Chit Reforms, replacing trust with measured ledger-cords; famously froze all accounts to end the Kiln Riots.",
+            "influence": "Touches every transaction; feared, petitioned, and resented.",
+            "seats": [
+                "Scribehouse of the Loom of Names",
+                "Sealwright Annex"
+            ],
+            "taboos": [
+                "Writing a name without witness",
+                "Burning cords"
+            ],
+            "customs": [
+                "Cord blessing at birth and partnership",
+                "Midwinter audit feasts"
+            ]
+        },
+        {
+            "name": "Grey Lanterns",
+            "type": "Courier-spy fraternity and rumor brokers",
+            "motive": "Control information flows, protect messengers, and keep certain truths alive and certain lies dead.",
+            "assets": [
+                "Phosphor House",
+                "Shadow routes through the underways",
+                "Cipher schools"
+            ],
+            "leaders": [
+                "First Wick Tamsin Veil"
+            ],
+            "allies": [
+                "Pale Collegium",
+                "Select councillors in Skull Keep"
+            ],
+            "rivals": [
+                "Loom of Names",
+                "Riverwardens",
+                "Ember Kiln Syndicate"
+            ],
+            "history": "Began as lantern-bearers for night funerals; became indispensable during the Star-Wasp Summer by coordinating quarantines and evacuations.",
+            "influence": "Soft power in every ward; kingmakers in close votes via rumor cascades.",
+            "seats": [
+                "Phosphor House",
+                "Whisper Court"
+            ],
+            "taboos": [
+                "Speaking your own name on duty",
+                "Carrying two truths in one tongue"
+            ],
+            "customs": [
+                "Green flame for truce messages",
+                "Masking at Council sessions"
+            ]
+        },
+        {
+            "name": "Grave-Binders",
+            "type": "Necromantic jurists and oathwrights",
+            "motive": "Ensure the Accords of Quiet Dust are observed, bind the restless, and harness the dead’s counsel without slavery.",
+            "assets": [
+                "Ossuary courts",
+                "Funerary cord looms",
+                "Silent envoys"
+            ],
+            "leaders": [
+                "Chirothegn Marek Sol"
+            ],
+            "allies": [
+                "Order of the Third Rib",
+                "Skull Keep"
+            ],
+            "rivals": [
+                "Calcifiers' Guild",
+                "Seventh Rib cult cells",
+                "Ember Kiln Syndicate"
+            ],
+            "history": "Formed in the plague years when the dead walked not in malice but in confusion; codified legal bindings and rights of the departed.",
+            "influence": "Respected, feared; can halt industries by invoking funerary quarantine.",
+            "seats": [
+                "Cathedral Ossuary Courts",
+                "Quiet Dust Archive"
+            ],
+            "taboos": [
+                "Compelling speech from the unconsenting dead",
+                "Breaking funerary seals"
+            ],
+            "customs": [
+                "Ash-marking on the brow during vows",
+                "Listening watches at dusk"
+            ]
+        },
+        {
+            "name": "Nadiri Caravan Court",
+            "type": "Confederation of riverstep nomads and traders",
+            "motive": "Preserve caravan rights, set fair tolls, and protect Nadiri custom within city walls.",
+            "assets": [
+                "Bridge-camps",
+                "River-fleet of shallow keels",
+                "Contracts in Sternum Plaza"
+            ],
+            "leaders": [
+                "Waymother Safra of the Nine Bridges"
+            ],
+            "allies": [
+                "Ember Kiln Syndicate",
+                "Calcifiers' Guild"
+            ],
+            "rivals": [
+                "Riverwardens",
+                "Loom of Names"
+            ],
+            "history": "Preceded Marrowgate by generations, guiding early settlers along bone-sheltered routes; codified the Salt-Tithe that the Riverwardens now contest.",
+            "influence": "External leverage; vital supply lines grant bargaining power against gate closures.",
+            "seats": [
+                "Seventh Rib Bridge-Court",
+                "Salt Ledger Tent"
+            ],
+            "taboos": [
+                "Eating alone on a road day",
+                "Signing ledgers without salt"
+            ],
+            "customs": [
+                "Bridge feasts on market eves",
+                "Tide-name gifting to allies"
+            ]
+        }
+    ]
+}

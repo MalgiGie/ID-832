@@ -1,0 +1,84 @@
+{
+  "id": 11,
+  "title": "Bread Binds Iron",
+  "quest_giver": {
+    "name": "Kesh Storm-Runner",
+    "affiliation": "Thunderherd courier of the Stormsteppe"
+  },
+  "description": "Ankharion’s shadow stretches thin over the Tithe Delta, and with it stretch the Syndic’s tariffs until they sing at the breaking point. The anchor-chains groan to the Old Song while granaries in the Sky Market echo hollow, and families count out dinners by the kernel. Kesh Storm-Runner rides the windroads with a whisperstone clutched like a heartbeat, bringing Lyris a message cut from threat and opportunity: the High Tithe Syndic will meet, but only if the city admits that bread is law and law is bread. Mira Pellan, a calculating envoy of the Aerarium with ink-stained fingers and sleepless eyes, waits at a reed-fringed dock with a briefcase of promises; she speaks of price stabilization and of a stake to be claimed in any future unmooring. Hark Tamsin, a river guide who reads fog like scripture, has knit a clandestine path through press-gang patrols to the Syndic’s stilt hall, where floorboards complain like old lies and signal-bells twitch at every gust. To keep Ankharion fed without selling the city’s skybound soul, Lyris must ride, listen, and bargain—bearing evidence of credit manipulations, binding schedules to safety audits, and threading a treaty tight enough to hold when the next wind rises.",
+  "objectives": [
+    "Ride with Kesh Storm-Runner along windroads to the Tithe Delta, using whisperstones to avoid press-gang patrols.",
+    "Meet Mira Pellan and hear the Aerarium’s offer to stabilize prices in exchange for a stake in future unmoorings.",
+    "Confront Syndic Torven Pell with evidence of Aerarium credit manipulation and the city’s new leverage.",
+    "Negotiate a grain release schedule tied to safety audits rather than blanket embargoes.",
+    "Secure safe-conduct chits for steppe escorts and Sky Market provisions on return."
+  ],
+  "dialogue": [
+    {
+      "speaker": "Kesh Storm-Runner",
+      "lines": "Men like Pell think a full granary weighs more than a promise, and I cannot say a hungry child will argue with them. I have seen storms turn men to prayers and women to iron, and I have seen a single oath keep a herd together when lightning pranced along their backs. The windroads remember who rides them with respect, and they spit out those who ride with greed, so hold your breath when you must and speak when the wind asks. Do not let him size you as a supplicant; make him count you as a weather he cannot ignore. If he stacks sacks between you and his conscience, kick a hole in the stack with your words and let the truth pour through."
+    },
+    {
+      "speaker": "Hark Tamsin",
+      "lines": "Fog here has a temper, and the Syndic hires men who think clubs are arguments, so we will move like we learned patience from stones. Whisperstones are fickle lovers; keep yours warm and your breath level, and it will carry your voice to the right ears and no other. I have marked the safe reeds with cut knots that look like bird nests, and the press-gangs never look up because they believe trouble only walks on two legs. When we come to the stilt hall, do not step on the central plank; it squeals like a guilty ledger and will call eyes you do not need. If we part in the mist, follow the sound of the gull with the broken laugh, because that is the bell I tuned to our pulse."
+    },
+    {
+      "speaker": "Mira Pellan",
+      "lines": "If the city moves, we all move, and anyone who tells you otherwise is either selling stillness or buying panic. Grain needs lift as surely as your precious chains, and my ledgers do not lie by themselves, though men have tried to teach them clever tricks. I can help by damping the spikes that starve markets and by leaning on creditors who think famine is a fine instrument, and yes, I can also hurt if the game requires it and the board is set. I would rather not, because I am tired of waking to numbers that hum like gnats around dying lamps, and I would like a different song. Make it possible by acknowledging that stability earns a stake, and I will make it palatable by guaranteeing audits that fear neither wind nor favor."
+    },
+    {
+      "speaker": "Syndic Torven Pell",
+      "lines": "A city in the sky believing it can sail is a poet’s disease, and I have never fed a poem that fed me back. Bread is law, and law is bread, and when I raise or lower a tariff the rivers learn a new verse that everyone must sing. You come with accusations stitched to paper and think paper will float better than boats, but boats are what carry grain, not grand ideals. I will feed you if you stop pretending you do not kneel at my dock, and I will starve you if you teach your people to forget where their next mouthful is born. Bring me terms that respect the river’s crown, or learn how hungry iron can be when it clutches a city by the chain."
+    },
+    {
+      "speaker": "Yassa Nim",
+      "lines": "Ledger-men wear silk masks made of arithmetic, and if you pull, they do not gasp because they have taught themselves to breathe numbers, not air. Do not pull; unthread, because thread remembers the hand that tied it and the hand that unties it. Show him the chime of consequence, not the knife of threat, and he will arrange his own noose trying to avoid the sound. I cut your cord once and fed your name to a dark ledger to keep you walking, and I am not above cutting a tariff’s cord if it strangles our apprentices. Speak as if you are counting debts the wind will hear, and make him fear a bell he cannot bribe."
+    },
+    {
+      "speaker": "Lyris Kael",
+      "lines": "We moved without you and we did not fall, and that is not boasting so much as proof that fear is a poor engineer. We would like to not fall and not starve, and that is the axis on which this conversation spins whether we like the words or not. Here is your sin on paper—credit lines braided to ruin so you could sell the rescue—and here is the bell we will ring if you deny the city its bread while fattening your accounts. You will release barges on a schedule tied to audits signed by men and women who count bolts, not beans, because safety is not a bargaining chip but the floor we stand on. Or the Wind Court hears a verdict that carries to three corners and a delta besides, and your seal will learn how fast water can tear a name from wood."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Bind Bread to Bolt",
+      "text": "Pledge to accept a transparent, published audit schedule that ties grain releases to Chainwarden-certified safety assessments, and offer to seat a neutral Skyscribe and a Mirror Guild observer at every quarterly review. Emphasize that the city’s partial-unmooring experiments will pause during declared high-risk maintenance windows, reducing fears of reckless gambits that could unsettle markets. Invite Mira Pellan to co-sign a stabilization addendum that caps opportunistic price surges, making her an invested guarantor instead of a lurking creditor. Frame the concession as a proof that Ankharion chooses disciplined motion over romantic drift, that bread and bolts can share the same hymn. Insist that in exchange, the Syndic issues safe-conduct chits for escorts and provisions, because hungry guards invent new laws with their batons.",
+      "outcome": "Mira agrees to the shared oversight, relieved to trade sharp leverage for steady influence, and she signs with ink that dries like a vow in cold air. The Syndic bristles at ceding timing to auditors, but he recognizes that predictable shipments mean predictable tithes, so he bares his teeth and calls it prudence. He stamps a grain release schedule that syncs to maintenance bells, and the first barges slide out under lantern glow as wind-harps on the docks find a calmer note. Kesh collects safe-conduct chits for steppe riders and river crews, and Hark threads them into reed-cases that whisper when forged. In Ankharion, market cries plump back into laughter, and the Wind Court files the treaty with a ribbon that smells faintly of grease and river mud."
+    },
+    {
+      "id": "C2",
+      "title": "Ledger as Leash",
+      "text": "Unfurl the copied records that trace Aerarium credit manipulations through delta granaries and back into the Syndic’s hedge positions, and let silence ask the first question. Describe, in cool detail, the private berth at Mirefurl Tower Three and the unreported shipments that docked in fog, dangling the threat of a Wind Court bell and a Mirror Guild mirror as twin blades. Offer mercy shaped like reform: expunge the worst abuses in exchange for a public pivot toward safety-timed releases and tariff leniency for apprentices’ households. Promise that Ankharion will not weaponize the revelations if the river does not weaponize hunger, and that both sides can claim they chose wisdom over war. Promise nothing of personal absolution, because the river keeps score and the city remembers, but promise a future where the ledger learns to count people before profit.",
+      "outcome": "The Syndic studies the papers the way a hunter studies his own tracks, and then he laughs without mirth because the pattern is clever and damning. He grudgingly accepts the schedule and signs a tariff remission clause for families tied to maintenance shifts, masking concession as magnanimity in the minutes. Mira’s jaw tightens, but she nods; she knows the Aerarium cannot afford a scandal that stains liftstone with famine, and she finds a way to call this recalibration. The treaty goes out under a fog of euphemism and new stamps, and Night Orchids carry a rumor that the Wind Court chose mercy because the wind was kind. Grain moves, apprentices eat, and the secret berth at Tower Three lies quiet like a closed eye that still dreams."
+    },
+    {
+      "id": "C3",
+      "title": "Windroad Gambit",
+      "text": "Present an alternate route map that threads Thunderherd windroads to delta fringe towns, proving the city can feed itself in a pinch by braiding steppe caravans with modest river purchases. Make clear that this is not a threat to topple the Syndic’s house but a lever to lift his knee from Ankharion’s neck, a demonstration that monopolies wobble when wind and will conspire. Offer to license these emergency routes only during declared embargoes, ensuring the Syndic’s primacy in normal weather while protecting the city from strangulation. Invite him to endorse the plan publicly as his own innovation, buying him prestige and insulating him from hardliners who profit from scarcity. Seal the bargain with a clause that any emergency run triggers an automatic review of safety audits, keeping bread and bolts in the same sentence even when the sky growls.",
+      "outcome": "The Syndic’s eyes narrow as he studies the windroad lattice, and he recognizes a truth he dislikes: that rivers are not the only roads that carry weight. He calculates swiftly and chooses to ride the announcement rather than be ridden by it, proclaiming a visionary partnership with the steppe that he will, in private, constrain with paperwork. The grain schedule binds to Chainwarden bells, and the emergency licenses hang like sheathed knives everyone can see, their mere presence calming tempers on all sides. Mira, seeing value in a city with redundancy, arranges credit cushions that soften price shocks instead of exploiting them, and the Aerarium’s seal cools to a tolerable glow. Kites rise from Ankharion with ribbons that read prudence, and in the Sky Market, a child lifts a loaf that does not tremble in her hands."
+    }
+  ],
+  "connections": {
+    "previous": ["10"],
+    "next": ["12"]
+  },
+  "rewards": [
+    {
+      "type": "Treaty",
+      "description": "Grain convoys resume under conditional treaty tied to maintenance and safety audits."
+    },
+    {
+      "type": "Debt Relief",
+      "description": "Family debt of the Kaels reduced by a third through tariff forgiveness."
+    },
+    {
+      "type": "Access",
+      "description": "Safe-conduct chits for steppe escorts and river routes on the return journey."
+    },
+    {
+      "type": "Faction Standing",
+      "description": "Aerarium détente with Mira Pellan, granting reduced scrutiny for one future Sky Orchard run."
+    }
+  ]
+}

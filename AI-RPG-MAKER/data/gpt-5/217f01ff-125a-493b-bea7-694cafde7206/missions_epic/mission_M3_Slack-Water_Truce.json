@@ -1,0 +1,92 @@
+{
+    "id": "M3",
+    "title": "Slack-Water Truce",
+    "quest_giver": {
+        "name": "Kema Hookhand",
+        "affiliation": "Blue Fist"
+    },
+    "description": "Moonhook Docks thrum before dawn as blue lamps sway like captive stars and union drums stitch a heartbeat through fog smelling of brine, tar, and anxious sweat. The brittle pact between stevedores and harbor guards has thinned to a single wet rope, and every creak of it sounds like the start of a snap. Seizures of cargo and whispers of hush-statutes knot tempers, while hardliners oil a brass riot-lamp in a cavern throat where lantern light never reaches the truth of a face. Kema Hookhand calls her favor due, asking you to stand in the hush between horn and drum and make a silence wide enough for two enemies to hear the city behind each other’s voices. You carry the Temple’s Conch of Slack Water, a shell that persuades tongues to wait their turn as if the tide itself were the arbiter. Your name is already a rumor of storms stilled without smothering the sea, and this time the hush you shape must cradle breath instead of stealing it. In the blue glow that Veylcrest trusts more than dawn, you must trade a rhythm for a treaty and keep a fist from becoming a flare.",
+    "objectives": [
+        "Meet Kema Hookhand at Pier Three before dawn.",
+        "Summon the Tidewardens liaison, Signal-Captain Miren Nine-Ropes, to the negotiation table.",
+        "Use the Conch of Slack Water to compel turns of speech without interruption.",
+        "Propose a drum-code safety captain program acceptable to both sides.",
+        "Prevent hardliners from lighting a brass-lamp riot signal during talks.",
+        "Seal the truce under the Temple's blue light."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Kema Hookhand",
+            "lines": "I have men and women who can stop this city's breath in an hour, and that is exactly what I do not want to do. They have been seized, searched, and sung at by horn-crews until their babies learn the drill before their names, and I am done with lullabies made of orders. You owe me one quiet that is a cradle and not a choke, Thalen, because you silenced a storm once and left us room to talk like people instead of cargo. Stand in the breath between a wage and a war, and make the blue lamps witness to fairness rather than fear. If the Ledger dips their masks into this water and skims our slack for profit, I will break chains in public and let the city hear them ring; but if you give me a circle where truth can walk without tripping, I will keep my hard fists folded and my crew on their ropes. I am asking you to make the sea listen to dockworkers who are not poets, and to make the guards hear that a seized loaf is a hungry child with a time limit."
+        },
+        {
+            "speaker": "Miren Nine-Ropes",
+            "lines": "I tie knots that hold hulls and arguments, and I am tired of watching Syndicate lanterns cut them in the dark as if truth were a rope to be severed. My crews are thin with long watches and thinner pay, and command keeps ordering seizures to show control to people who mistake noise for order. If your conch can sound a circle where words do not ricochet off anger like pebbles on glass, then I will bring my best lines and my calmest hands to hold them. But hear me: one brass flare crawling up the cavern throat and Commodore Pell will run the horn-barge in close enough to make this pier weep salt from its bolts. I can promise for my crews’ hands and for the knots they will not pull tight on throats, but I will not swear for a purse I do not carry; give me a fair rhythm and I will keep time with you. If there is a third way between curfew and chaos, it will be braided out of patience and proof, and it will need your voice to keep it from fraying when the bells dare to hesitate."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "lines": "We will speak at true slack when the sea listens best and the Conch reminds every mouth that silence can be a bridge and not a blade. The Temple’s blue light will mark each oath, and the lamps will not flinch if we tell them nothing we fear to keep; that is the only kind of promise the city deserves. I propose a rhythm: Blue Fist safety captains on every pier with drum-codes that freeze lifts in a breath and pull people clear before a horn can rattle bones, and Tidewardens on-call to safeguard those freezes so no opportunist turns safety into theft. Seizures should ring with cause and not whim, logged to a bell-and-drum tally that both sides can read by touch if the fog eats sight, with three strikes against any crew that plays games with the code. Let us trade not insults but protocols, not threats but timings; I will hold the Conch and measure each voice until we have a pattern that catches us when tempers slip like wet rope. If we do this under blue, with the sea as witness and the city at our backs, then the night will remember and the day will follow."
+        },
+        {
+            "speaker": "Kema Hookhand",
+            "lines": "A safety captain on every pier is a cost and a pride both, and I will pay both if my people stop hearing horns drill through their sleep like a tax. Drum-codes that halt cranes on a heartbeat without dropping a pallet into someone’s spine are a language I can make my crews learn, and I will beat the rhythm into the boards until the piers themselves remember. No horns at sleeping families, and no seizures that arrive like storms with names, because we are human and not weather. Bring me that fairness and I will keep the hardliners’ fists unclenched, their brass-lamp tucked away like a bad idea that learned shame, and I will walk the line myself to prove it. But hear me clean, Thalen: if the Ledgers masked clerks try to buy this slack with hush-paper and carve a toll into our breath, I will turn this dock into a stage and break a chain for every coin they count; I would rather starve loudly than swallow quiet theft. Give me a reason to feed my crew without fire, and I will be your loudest ally when the bells call us all to stillness for the city’s sake."
+        },
+        {
+            "speaker": "Miren Nine-Ropes",
+            "lines": "We can weave your drum alongside our bells so that a snapped line sounds the same warning no matter whose badge you wear. Put your captains in Blue on the piers and mine in White at the waterline, and let their colors meet at the knot so no one has to guess who is responsible when seconds matter more than pride. I will write a seizure schedule that requires a bell-echo and a drum-answer so that cause is felt and not claimed, and I will teach my crews to log with chalk as if every mark were a tide. I cannot mend pay with a promise, but I can mend trust with practice, and I would rather spend my watch tying people together than hauling them apart. If your Conch keeps tongues from cutting across each other and your lamp keeps us honest, we can thread this needle without bleeding on the eye; and if a brass light tries to crawl up from the dark, I will put my boot on its wick. Bring us to the Temple’s blue and I will speak the oath slow, so no word stumbles and the sea hears us as one."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Hold the Conch High at First Light",
+            "text": "You climb onto a coil of hemp at the stroke of slack and raise the Conch so that the hush it calls blooms like a pale flower over Pier Three. You invite Kema to speak first and promise Miren his full turn, and you count breaths between sentences until both rhythms begin to match. You lay out the safety captain program like a chart, assigning clear colors, clear beats, and clear penalties for anyone who plays tricks with timing. You insist that seizures be scheduled and answered by a reciprocal drum so that the cause is shared, and you bind both logs to a shared chalkboard dragged onto the pier where even a sailor’s callused thumb can read the truth. You ask for the Temple lamp to be lowered now, not later, so the oaths do not have room to wander overnight into rumor, and you offer your own name first as surety to make the lamps listen to the courage in others.",
+            "outcome": "The Conch’s hush steadies hands and tempers, and by the time the light lifts off the water both sides speak in the same cadence as if the city itself were keeping the beat. Kema commits openly to the Blue captains and orders a drum made from an old tide-cask to be strapped at each crane, promising to pay for training with soup from her own hall until the Court catches up. Miren rolls out a seizure schedule like a sail and marks the dual-acknowledgment code in chalk where even fog cannot hide it, and crew leaders nod with a relief that breaks like small waves instead of breakers. A hardliner slips toward the cavern throat with a brass-lamp, but the circle’s attention, the shared board, and Kema’s quick gesture pull him back from the wick as if the lamp had gone cold on its own shame. Under the Temple’s lowered blue, you speak the oath in simple words, and when the light does not flicker, a ripple of laughter like a tide through chimes proves the sea accepted the bargain without exacting blood. The truce is sealed with hands on rope instead of on knives, and you feel the city exhale around you as if the harbor had found a new way to hold its breath."
+        },
+        {
+            "id": "C2",
+            "title": "Shadow the Brass-Lamp Runners",
+            "text": "You leave the circle at a lull and slip into the Moonhook caverns where the walls sweat and footsteps pretend they belong to someone else. You follow the faint brass scent of polish and fear, using your Azure Lens Pendant to read the mood of stagnant pools whose surfaces betray hurried choices. You find two hardliners striking flint in a pocket of black air, and you do not shout; instead you ring the Third-Tone Silt-Bell once, softly, and let the gentle ripple take their courage and float it back where it belongs. You talk about babies and bread and what horn-barges do to men’s ribs, and you tell an unflinching truth about how a flare here will make the city choose the horn over the drum for ten winters. You take out your hush-ink as a demonstration and erase a line from their private tally of grudges to prove that not every mark is destiny, promising that the new drum-code will keep their families safer than any blaze.",
+            "outcome": "The two men lower the lamp with hands that shake harder from relief than from failure, and one of them whispers that he never wanted to be the match, only the warning nobody else would hear. You walk them back to the pier with the lamp wrapped in wet cloth, and when Kema’s eye finds them, her stare lands like a reprimand that still leaves a door open. Miren watches the exchange and pretends not to, but later he remarks to Commodore Pell that somebody did work the Ledger cannot invoice, and it saved ribs and reputations alike. You do pay a price you chose, promising the hardliners that if the drum-code is betrayed you will call the Temple to weigh the oath again in public, and your throat scar hums at the edge of the vow like a wire touched by wind. The talks, freed from the shadow of a flare, move forward with cleaner edges and steadier breath, and the Conch’s hush carries further because it carries trust. When the blue lamp descends, even the hardliners stand under it without flinching, and the sea keeps its silence like a blessing rather than a threat."
+        },
+        {
+            "id": "C3",
+            "title": "Call the Temple to Witness Early",
+            "text": "Before the first full exchange, you send a runner to the Temple of the Tidemother and ask High Acolyte Shunn to lower a travel-lamp and bring a bowl of slack water. You tell both sides that even the appearance of shadow-deals will snap a fragile line, and you argue that sanctity is not a leash but a lighthouse. You describe how the Conch does not silence truth but staggers it so that meaning can catch up with breath, and you invite both factions to touch the water before they speak as if cooling a thought could save a life. You confess your own fear that hush used badly kills more than noise used badly, and you promise to name that fear aloud every time you raise the shell. You ask that any who object to holy witness say so now, under open sky, rather than mutter later under stone.",
+            "outcome": "Shunn arrives with quiet feet and a lamp that hums in the old vowel of the harbor, and the bowl catches the pier’s tremor until even the wood seems calmer. Kema gives a small nod like a coin set aside for charity she believes in, and her crew relax in the knowledge that faith can stand with pay without stealing from it. Miren rolls his shoulders once as if he had been carrying a knot alone, and then speaks more slowly, finding words that feel less like orders and more like oaths. A Ledger clerk at the edge of the crowd leaves in a huff when he sees the lamp descend too early for masked convenience, and his absence frees the talk to leave numbers and touch people. You feel a colder current brush your throat scar when you raise the Conch, a reminder of the hush you once misused, and you let that chill guide your mercy rather than your fear. When the truce is sealed, Shunn pours a line of slack water along the chalkboard’s edge and the marks do not run, and everyone watching understands that the tide chose to be gentle because you did first."
+        },
+        {
+            "id": "C4",
+            "title": "Lean on Tidewarden Authority",
+            "text": "You invite Commodore Jath Pell to stand at the far edge of the pier with his horn-crew visible but silent, a tall shadow of consequence arranged where everyone can see it blink. You say plainly that there will be no brass flares today, not because fear forbids them but because wisdom has found a faster light. You tell Kema that a strike that burns the lamp will burn her bargaining table with it, and you tell Miren that seizures flung like nets catch too many honest fish. You outline the safety captain program in crisp, military beats, and you sell it as a discipline rather than a concession so the Tidewardens can swallow it with pride. You warn that any betrayal of the drum-code will be answered by a three-bell audit at the Aqueduct itself, and you let those words carry the rumor of your river ties so they sound like an inevitability rather than a threat.",
+            "outcome": "The presence of the horn-barge casts a long, stern shadow that cools tempers before they can boil, and even the hardliners find their pride more comfortable in their pockets than in their fists. Kema bristles at the posture, but when you tie the program to a promise of fewer midnight drills and a public log that can shame abusers, she sees a tool she can own rather than a leash she must hate. Miren is grateful you handed him a frame to hang reform on without calling it retreat, and he promises to drill his crews on drum-answer as if it were a rescue knot. The brass-lamp never leaves its sack because nobody wants to set it alight with the Commodore watching, and that untaken step becomes a story that makes future steps easier to avoid. The truce seals under the Temple’s blue with fewer smiles and more salute, but the oath is no thinner for it, and the city learns that order can serve mercy without admitting weakness. Later, the Commodore nods once in your direction like an anchor lowered well, and Kema concedes a curt grin that says respect can arrive in many shapes if it arrives honestly."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4",
+            "M8"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Blue Fist Drum-Code Pattern, a set of beats that summons dock allies during emergencies and freezes cranes in a breath without panic."
+        },
+        {
+            "type": "Reputation",
+            "description": "+1 standing with Blue Fist for brokering a fair safety captain program and averting a brass-lamp riot."
+        },
+        {
+            "type": "Permit",
+            "description": "Tidewarden Harbor Pass (limited), granting swift movement through patrol lines during watches and access to posted seizure schedules."
+        },
+        {
+            "type": "Currency",
+            "description": "Purse of 40 harbor chits pooled by both sides, salted with thanks and stamped under the Temple’s blue."
+        }
+    ]
+}

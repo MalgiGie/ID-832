@@ -1,0 +1,63 @@
+{
+    "name": "Lur",
+    "surname": "Oghrim",
+    "race": "Bonewrought",
+    "age": 12,
+    "appearance": "Tall, pale lattice of living bone sheathed in waxed linen, eyes set with soft amberglass. Movements careful and quiet.",
+    "character": "Gentle and literal-minded, eager to help and to learn the songs that make the lattice settle.",
+    "traits": [
+        "Earnest",
+        "Literal",
+        "Soft-spoken",
+        "Curious",
+        "Loyal"
+    ],
+    "skills": [
+        "Patient carrying and bracing",
+        "Steady-handed assistance in graft work",
+        "Brine infusion maintenance",
+        "Ward cleaning and preparation"
+    ],
+    "talents": [
+        "Singing counter-melodies that calm bone growth",
+        "Remembering people by scent",
+        "Standing motionless for hours without complaint"
+    ],
+    "flaws": [
+        "Fear of glass saints and mirrors",
+        "Confused by metaphor and jest",
+        "Torn by split loyalties to masters"
+    ],
+    "dreams": [
+        "Be recognized as a citizen, not a tool",
+        "Learn to carve their own bone safely",
+        "Walk the Skyhook without fear of lightning"
+    ],
+    "secrets": [
+        "Hears the Engine in dreams whispering their name",
+        "Once opened the locked lattice ward to comfort a crying child",
+        "Carried a small resin bundle for Keth without knowing its contents"
+    ],
+    "relations": [
+        {
+            "npc_name": "Caur Spinekeeper",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Nalea Chalkfinger",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Vara Rootlight",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Isera Bent-Pike",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Rhy Tidesong",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

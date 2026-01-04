@@ -1,0 +1,44 @@
+{
+    "id": "M6",
+    "title": "Ash and Mirrorglass",
+    "quest_giver": "Kara Dusk",
+    "description": "Underquay moor-lights have been bobbing over tar-still pools in the Obsidian Fen, and the smell of sootglass rides the wind like a threat. Kara Dusk tasks you to cut into the fen by a collapsed furnace and find a witch-mirror shard the Veil is using to bind debts; those who look into it owe a night. The shard may hold names tied to the Tidewrights’ shadow accounts. Ysil Kett, a Veil lieutenant who keeps his margins tidy and his blade cleaner, offers to meet under truce and ‘trade clarity for discretion’. The fen cuts like slate underfoot, and your breath comes back with iron in it. The mirror shows not your face but a ledger of choices, and your own night owed wavers in the dark like a drowned bell.",
+    "objectives": [
+        "Enter the Obsidian Fen via the collapsed bell-tower kiln.",
+        "Locate and retrieve a mirrorglass shard used by the Veil to bind debts.",
+        "Confront Ysil Kett under truce and negotiate for names in the shard.",
+        "Return the shard to the Hall of Lanterns without letting it look at anyone twice.",
+        "Decide whether to expose or conceal your own night owed."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Kara Dusk",
+            "line": "I don’t like bargaining with masks, but I like arson less. Bring me a shard we can read and we’ll see which names burn hottest. Don’t let it read you, Kade. Mirrors in the fen don’t tell truths; they tell debts, and that’s close enough to drown a man with."
+        },
+        {
+            "speaker": "Ysil Kett",
+            "line": "You walk like a man who wants to pay something back and can’t decide who to hand the coin to. Here is my offer: you give me one night where the Bastion blinks, and I give you a list of names that rhyme with the Engine’s heart. Look in the mirror if you like. It will show you what you already know, and that is how it keeps you."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "I’ve carried worse weights than a night on my back, but I don’t hire my conscience out by the bell. You’ll give me the names because you want a city that wakes up tomorrow, and because if you don’t I’ll bring your mirror to the Court and let them read it out loud as they stoke their lanterns. I know what I owe, Ysil. I’m here to decide who I pay."
+        },
+        {
+            "speaker": "Daru Fenlik",
+            "line": "You brought me a shard that hums when it faces north and a list of names that makes our bell-roof ring. I can work with that. You flinched when it looked at you, and I wrote that down too. Don’t make me choose between your usefulness and your secrets, Orrel. I collect both."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        "Lantern Court favor (standard): option to seal or unseal one writ in your presence",
+        "Veil marker of forbearance from Ysil Kett (redeemable once to avert an ambush)",
+        "Knowledge: partial list of payments linking Tidewright accounts to Obsidian Fen kilns"
+    ]
+}

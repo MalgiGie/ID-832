@@ -1,0 +1,47 @@
+{
+    "id": "M5",
+    "title": "The Ironsung Measure",
+    "quest_giver": "Sera Flintline",
+    "description": "Two days up the mule line, the Ironsung Pass breathes its flute-song, and miners time their picks to its old empire rhythm. Now a new shaft sings a note that no throat can match without something in it breaking, and some who tried now speak only in whispers. Sera Flintline's veil smells of stone dust and stubbornness as she asks you and Arla Third-Tone to descend, find the measure, and silence what should not sing. The Diadem's hum and the Pass's discord may be the same melody played in cruel keys.",
+    "objectives": [
+        "Travel to Ironsung Pass and meet Sera Flintline at the headworks.",
+        "Consult with Arla Third-Tone on safe descent timing based on resonance.",
+        "Enter the new shaft and locate the source of the dissonant note.",
+        "Discover and decipher an imperial drum tower with scores etched in copper.",
+        "Re-tune the shaft using a resonant stone wedge to stop harmful amplification.",
+        "Return a sample of resonant stone to Dorn Rigger for analysis."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sera Flintline",
+            "line": "Our picks sing when we ask and fall quiet when we tell them. This shaft will not obey. It throws a note that makes men afraid to speak and women lose their balance, and I cannot afford to lose one more voice to a stone's whim. Bring me silence that respects work, not the kind that smothers it."
+        },
+        {
+            "speaker": "Arla Third-Tone",
+            "line": "Resonance is a law like any other, and this shaft is breaking it by amplitude, not by pitch. I can count us down between waves so we step into the quiet troughs, but if the mountain keeps an old war-song, we will need to learn its refrain. The bell-codes will sound like lullabies compared to what lies below."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "The Diadem's broken gallery hums like a glass throat and this shaft screams like an iron lung. If both notes feed each other, the city is being strummed by something that does not care where our edges are. We'll retune the shaft with a wedge instead of a blast and bring the mountain's breath back to labor time."
+        },
+        {
+            "speaker": "Sera Flintline",
+            "line": "Do that and I will owe you a cart-load of stone that sings your name. Do it without collapsing my lease, and I will speak a good word in chambers where dust is treated like blood. But if you break the rhythm that keeps us safe, I will brick you up with the rest of the mistakes this city made."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6",
+            "M10"
+        ]
+    },
+    "rewards": [
+        "Resonant Stone Tuning Fork (tool that reveals safe frequencies)",
+        "+1 standing with Guild of Azurites",
+        "Bundle of iron scrip redeemable in Veylcrest foundries",
+        "Access to Ironsung Pass storage roads (faster travel)"
+    ]
+}

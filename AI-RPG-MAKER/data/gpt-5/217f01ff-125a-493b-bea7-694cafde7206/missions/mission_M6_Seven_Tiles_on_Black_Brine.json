@@ -1,0 +1,48 @@
+{
+    "id": "M6",
+    "title": "Seven Tiles on Black Brine",
+    "quest_giver": "Shunn Rippleborne",
+    "description": "Shattermere lies under a sky that cannot decide if it is glass or water. The augury tiles cut from its cracked plates tell futures that sailors trust and magistrates fear. A perfect unbroken pane has lifted from the brine, inscriptions shifting under its surface like eels in light. High Acolyte Shunn Rippleborne asks you to retrieve it before dusk and test the inscriptions, not with greed, but with gratitude. The pane may hold a map of the city's reflections and a warning about bells rung in the wrong silence.",
+    "objectives": [
+        "Meet Shunn Rippleborne at the Glassward Infirmary for a blessing against mirages.",
+        "Travel to Shattermere and locate the unbroken pane before dusk.",
+        "Use your Azure Lens Pendant to read the pane’s submerged inscriptions.",
+        "Arrange seven omen-tiles correctly to unlock the pane’s prophecy safely.",
+        "Record any mention of bells, the Blue Maw, or oath-lanterns.",
+        "Return the pane to the Temple of the Tidemother for safekeeping."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Shunn Rippleborne",
+            "line": "There are mirrors that tell the truth and mirrors that tell you a version of yourself you already believed. Shattermere has both, and it charges roughly the same. You will carry the pane as you would carry a child's name, with care and with the knowledge that the sea loves to collect what is beautiful and careless."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "I cracked a plate here once and I still hear it in my sleep. I will not let this one break in my hands. If it speaks of bells and whirlpools, I will listen like a steward, not a thief, and I will bring its warning back under the Temple's blue light."
+        },
+        {
+            "speaker": "Dorn Rigger",
+            "line": "If the pane shows a map of reflections, remember the Hall keeps a model of a focusing ring we should never build. Do not let Kelen see anything that looks like permission, Thalen. Bring me a rubbing of the inscriptions; I want to check our lenses against a future that doesn't explode."
+        },
+        {
+            "speaker": "Kelen Prism",
+            "line": "We stand on the edge of understanding and you keep stepping back, Rigger. If the pane shows alignment that can calm the Maw, a ring is not a sin; it's a solution. Thalen, if you see a pattern that sings with our prototypes, bring it to me, and I will make this city's lamps sing one safe note."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7",
+            "M10",
+            "M11"
+        ]
+    },
+    "rewards": [
+        "Set of Seven Augury Tiles (once per day, reveal a safe route across hazardous ground)",
+        "+1 standing with the Serene Compact",
+        "Glassward Salve (prevents one instance of glass-lung or ash sting)",
+        "Shattermere Inscription Rubbing (lore item that aids in later ritual)"
+    ]
+}

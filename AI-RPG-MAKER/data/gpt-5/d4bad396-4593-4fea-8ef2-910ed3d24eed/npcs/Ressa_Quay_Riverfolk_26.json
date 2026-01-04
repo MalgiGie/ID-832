@@ -1,0 +1,66 @@
+{
+    "name": "Ressa",
+    "surname": "Quay",
+    "race": "Riverfolk",
+    "age": 26,
+    "appearance": "Lean diver with sun-bleached hair, eel-bite scar along the ribs, and a belt of chime-weights.",
+    "character": "Brave and loyal, superstitious about moonlight on water.",
+    "traits": [
+        "Daring",
+        "Curious",
+        "Generous",
+        "Twitchy during full moons"
+    ],
+    "skills": [
+        "Free-diving",
+        "Glass-reef navigation",
+        "Knotwork",
+        "First aid",
+        "Wharf gossip-gathering"
+    ],
+    "talents": [
+        "Holds breath for three songs straight",
+        "Hears Shattermere note shifts before others notice"
+    ],
+    "flaws": [
+        "Impulsive dives",
+        "Half-trusts everyone",
+        "Echo-sickness relapses"
+    ],
+    "dreams": [
+        "Own a skiff outright",
+        "Create a safer divers’ guild",
+        "Ask the Mirror-Queen one sealed question"
+    ],
+    "secrets": [
+        "Keeps a sliver of blackglass that sings at midnight",
+        "Leaves offerings at the hidden Night Market shrine to the Mirror-Queen",
+        "Once saved a Warden’s child during a lock surge"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sere Aven",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Pellar Nine-Poles",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Knife-Whisper Pell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Bellkeeper Dorn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Tavi Mireline",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

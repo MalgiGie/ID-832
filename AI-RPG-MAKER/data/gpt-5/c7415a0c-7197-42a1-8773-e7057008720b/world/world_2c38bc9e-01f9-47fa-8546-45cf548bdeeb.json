@@ -1,0 +1,299 @@
+{
+    "city": "Dorsalhaven, the City on the Leviathan, is built along the bleached spine and ribcage of Orum, the sea-colossus that beached and died two centuries ago during the Year of the Black Tide. Its avenues follow the vertebrae, its bridges are the ribs made into arches, and its harbor yawns from the jawbone where chain-gates bite the surge. Bone-lace balconies, salt-brick terraces, tarred rope railings, and lanterns that burn with cold marrow-light define a skyline that sings in the wind: hundreds of bone chimes strung from every eave. The city thrums to the pull of the tide through iron chains that link quay to seabed; the Tidemill Array gnashes and drinks the ocean’s force, powering cranes, mills, and the rime-lantern manufactories at night. The Dorsal Span, a broad thoroughfare atop the spine, hosts the Founding Tide procession each equinox, when citizens carry salt and kelp-silk banners past the Rib Cathedral of Orum to the Anchor-King’s Hall. Brinelaw—the city’s code carved into twelve tide-stained stones—binds oaths made over the Oathwell in the Brinelaw Keep; a contract sworn in brine is said to sting the tongue if betraying hands later sign another. Power lies not with a crowned monarch but with the Anchor-Compact, a consortium of merchant houses who convene in the old Anchor-King’s Hall beneath banners stiff with salt. Below them wheel the great guilds: Chainmasters who keep the chains singing and the harbor fed; Bonewrights who ration the sacred bone; Rime-Lantern alchemists who refine marrow into steady winter-light; and the Brinelaw Keepers who measure justice by the tide-clock. The Pilgrims of Orum’s Dream tend the bone reliquaries and claim the Leviathan is not dead but sleeping; their dreamfasts and whale-song vigils challenge the city’s hunger to harvest what remains. Dorsalhaven’s prosperity rests on risky dependencies: timber ferried from the Sighing Mangrove to scaffold ribs and repair piers; salts collected from the mirror-bright Tideglass Flats to fix dyes and temper alchemy; and convoys to Moon’s Hook Atoll, where coin keeps pirates at bay as often as steel does. Trade climbs from sea to sky at the Sargassum Aerarium, where moss-bladders hold sky-barges steady in brine-scented thermals. The city remembers the Night of Unmoored Chains, when a storm and sabotage snapped the harbor taut and iron scythed the docks; since then, Brinelaw demands double-checked rivets and shared liability for any chain entrusted to the public good. Whispers persist of the Marrow Plague—skin turned pallid, eyes phosphor-blue—whenever Rime-Lanterns vent their crucibles. As waves polish the jaw and gulls chalk the spine, a legend taps like a quiet heartbeat beneath the city: when Orum’s heart beats again, the chains will break, and every oath made in brine will be called home.",
+    "surroundings": [
+        {
+            "name": "Fathomfall Trench",
+            "description": "A cobalt-walled canyon cleaving the sea floor just offshore, its rim visible from Dorsalhaven when the water runs the deepest blue. Cold upwellings bring luminescent plankton and abyssal pearls that stain the hands with argent dust.",
+            "legend": "Pilgrims of Orum’s Dream say the Trench holds Orum’s slumbering heart, torn free in the Black Tide and lowered by mourning currents. Divers claim to hear a pulse below, slow as winter and loud as surf in bone.",
+            "resources": "Abyssal pearls, cold-brine salts, rare pressure-kelp used in marrow stabilization.",
+            "conflicts": "The Anchor-Compact funds salvage descents with Chainmaster crews; the Pilgrims protest dredging with candlelit flotillas. Ribshadow Brotherhood skiffs shadow the convoys, harvesting stray gear and undisclosed finds.",
+            "distance": "Half a day by stout oar from the jaw-harbor, weather permitting.",
+            "hazards": "Squeeze currents, cold shock, pressure-sick divers, and predatory lantern-fish that mimic rime-lantern glow."
+        },
+        {
+            "name": "Sighing Mangrove",
+            "description": "A flooded forest inland where wind pulls a single unending note through hollow roots, like breath through a flute. Shrines of driftwood perch on stilted islets where tide-scribes knot the names of the drowned into reed cords.",
+            "legend": "A marsh-goddess trades safe passage for memories you no longer use. Those who leave her gifts return light of heart but missing a song, a scent, or a face they cannot place.",
+            "resources": "Salt-tolerant timber for scaffolding ribs, resin for chain lubrication, marsh herbs for night-watch tea.",
+            "conflicts": "Chainmaster loggers clash with vigil-keepers of the Pilgrims over cutting sacred groves. Brinelaw Keepers mediate seasonal quotas carved into mangrove bark.",
+            "distance": "Two days upriver by flatboat when the tides favor the journey.",
+            "hazards": "Concealed sinkholes, glass eels in spawning season, reed-fever carried by biting midges."
+        },
+        {
+            "name": "Tideglass Flats",
+            "description": "Vast salt pans that gleam like mirrors when the tide withdraws. The wind here comes in straight lines, and mirage-storms walk on thin legs across the horizon.",
+            "legend": "If you stand upon your reflection at dusk and ask a true question, the mirror-tide answers with a ripple. Accepting the answer binds you to its course until the next neap tide.",
+            "resources": "Fine halite for alchemical calibrations, sun-brittled shells used as temper in bone-lacquer.",
+            "conflicts": "Rime-Lantern Guild claims collection rights; Bonewrights’ Collegium seeks a larger share to temper boneworks. The Anchor-Compact sells passes, which the Ribshadow Brotherhood counterfeit.",
+            "distance": "A day’s march along the strand from the northern chain-gate.",
+            "hazards": "Disorienting glare, blistering heat, hidden brine pits under crusted salt."
+        },
+        {
+            "name": "Salt Widow’s Lighthouse",
+            "description": "A leaning tower on Broken Cap, rope-wrapped and banded in iron, its beacon still burns with a cold, steady light though the keeper died decades ago.",
+            "legend": "The Salt Widow waits in a salt-stiff wedding dress for a sailor who wrecked on his wedding tide. She lights the beacon to guide him back; those who enter to snuff it find their lanterns refuse to spark ever again.",
+            "resources": "Storm records etched into lampstone walls, caches of old wrecker tools, wind-sheltered coves for secret landings.",
+            "conflicts": "Brinelaw Keepers patrol to deter wreckers; the Ribshadow Brotherhood uses seam caves to stash contraband. The Anchor-Compact offers bounties for maps of submerged bars.",
+            "distance": "A night’s sail under the bluffs, landing at slack water only.",
+            "hazards": "Knife-shoals, sudden fogs, falling lampstone shards in high wind."
+        },
+        {
+            "name": "Coral Library of Nareth",
+            "description": "A living labyrinth of rose and antler coral etched with glyphs by lost Shell-Scribes. Schools of mnemonic fish drift in patterns that echo the script.",
+            "legend": "The Library stores not books but questions: each coral head is a knot of inquiry. When pried open with the right song, it releases a memory belonging to no one and everyone.",
+            "resources": "Bioluminescent mucus for ink, coral calcine that strengthens bone-lacquer, fragments of Shell-Scribe technique sought by Bonewrights.",
+            "conflicts": "Rime-Lantern Guild sponsors careful study; Bonewrights’ Collegium petitions for experimental harvest. Pilgrims demand a ban on cutting living coral. The Anchor-Compact promises protection in exchange for exclusive findings.",
+            "distance": "Three days by coastal hop among reefs with a patient pilot.",
+            "hazards": "Razor coral, territorial reef-serpents, and trick currents that circle back to the same inlet."
+        },
+        {
+            "name": "Moon’s Hook Atoll",
+            "description": "A crescent of white sand and basalt teeth, lagoons lit at night by moon-iron grains that drift like ash in the surf.",
+            "legend": "Pirates called Hookcutters fish with knives of moon-iron said to sever bad luck. It is also said that anyone who wears moon-iron too long forgets which tide is theirs.",
+            "resources": "Moon-iron nodules in the lagoon, sea-cucumber beds prized for tinctures, safe anchorage in storms.",
+            "conflicts": "The Anchor-Compact pays irregular tributes for convoy passage. Chainmaster escorts bristle when Hookcutters demand more. Ribshadow Brotherhood brokers quiet deals to reroute goods around tariffs.",
+            "distance": "Four days’ round trip in fair weather from Dorsalhaven’s jaw.",
+            "hazards": "Reef cuts that fester, sudden squalls that trap ships in the Hook, night-blindness from moon-iron dust."
+        },
+        {
+            "name": "Whispering Rib Shoals",
+            "description": "A submerged extension of Orum’s ribcage, where currents make the bones sing through hollowed marrow. Wrecks snag on the hidden arcs like laundry on a line.",
+            "legend": "Fisherfolk say the ribs whisper warnings in storm-speech, but only children and the very old can understand. Others claim the song is a map of safe water written in sound.",
+            "resources": "Wreck salvage, naturally polished bone beads that fetch prices at the Market of Teeth.",
+            "conflicts": "Brinelaw Keepers license salvors to reduce chaos; Ribshadow Brotherhood dives at night in defiance. Bonewrights plead to leave certain ribs untouched to prevent structural harm to the city above.",
+            "distance": "Within sight of the harbor chain-gates at low tide.",
+            "hazards": "Entanglement, sudden eddies, and the eerie vertigo of hearing a song with no source."
+        }
+    ],
+    "buildings": [
+        {
+            "name": "The Dorsal Span",
+            "function": "Grand thoroughfare and market ridge",
+            "description": "A broad avenue paved with bone-plates and salt-brick running along Orum’s spine. Rope-rail trams clip to anchored cables, hauling goods between ribs.",
+            "history": "Laid in the city’s first decade using vertebral plates sealed with kelp tar. Widened after the Night of Unmoored Chains to allow chain-carts to detour safely.",
+            "controlled_by": "Bonewrights’ Collegium",
+            "associations": "Anchor-Compact patrols levy tolls; Brinelaw Keepers monitor oath-stalls where contracts are sworn at the Oathstones embedded in the pavement.",
+            "secrets_or_legends": "It is said a listening post beneath the Span lets Pilgrims hear the city’s ‘heartbeat’ if they lie flat and drink brine from a vertebral cup."
+        },
+        {
+            "name": "Rib Cathedral of Orum",
+            "function": "Temple and reliquary",
+            "description": "Built within the third great rib, its ceiling strung with kelp-silk veils that stir with the tide-lifted wind. Bone chimes ring the hours by the moon.",
+            "history": "Raised by the first tide-scribes and fisher clans to honor the Leviathan and petition the sea to spare the living.",
+            "controlled_by": "Pilgrims of Orum’s Dream",
+            "associations": "Brinelaw Keepers seek counsel here before sentencing sea-crimes; Anchor-Compact funds repairs to keep public favor.",
+            "secrets_or_legends": "The Dream Reliquary below holds scales that glow when true whale-song is sung; Pilgrims claim one is a ‘Heart-Scale’ torn in the Black Tide."
+        },
+        {
+            "name": "Anchor-King’s Hall",
+            "function": "Council chamber and merchant court",
+            "description": "A long hall of salt-brick and rib-buttresses hung with brine-stiff banners depicting chains, ships, and ledgers.",
+            "history": "Named for Var Loqan, the Anchor-King who ordered Orum’s skeleton bound to the seabed with chains, founding the city. The monarchy dissolved into the Anchor-Compact within three generations.",
+            "controlled_by": "Anchor-Compact of Dorsalhaven",
+            "associations": "Home to tariff tables, convoy schedules, and arbitration tribunals; Bonewrights and Chainmasters lobby in side chambers.",
+            "secrets_or_legends": "A hidden chain-link forged from meteoric moon-iron lies under the speaker’s dais; those who sit above it grow cautious, some say cowardly."
+        },
+        {
+            "name": "Tidemill Array",
+            "function": "Energy generation and mechanical works",
+            "description": "A forest of chainwheels, sluice gates, and rack-and-pinion towers built into the harbor mouth, drinking strength from the tide.",
+            "history": "Rebuilt after sabotage during the Night of Unmoored Chains, with redundant locks and Brinelaw oversight.",
+            "controlled_by": "Chainmaster’s Union",
+            "associations": "Provides motive force to sawmills, trams, and winches across the Dorsal Span; Rime-Lantern crucibles draw steady power at night.",
+            "secrets_or_legends": "Workers swear the Array hums a different note on nights when Orum dreams; production slows and tools slip if the hymn is ignored."
+        },
+        {
+            "name": "Marrow Vaults",
+            "function": "Alchemical storage and refinement",
+            "description": "Sub-bone catacombs lined with salt-glass and iron, where marrow is refined into stable rime-lantern fuel and tinctures.",
+            "history": "Established after early fires revealed marrow’s volatility; Brinelaw requires three locks and two witnesses to open any vault.",
+            "controlled_by": "Rime-Lantern Guild",
+            "associations": "Anchor-Compact underwrites security; Brinelaw Keepers inspect ledgers and seals; Bonewrights negotiate quotas for non-alchemical bone.",
+            "secrets_or_legends": "A sealed chamber marked with Shell-Scribe glyphs thrums faintly; some say it cools without ice and sings in moonlight."
+        },
+        {
+            "name": "Market of Teeth",
+            "function": "Bazaar for bonework, salvage, and oddities",
+            "description": "Stalls and ropewalks slung under the jawbone, where teeth serve as posts for awnings. Vendors hawk polished vertebrae, ambergris, kelp-silk, and wrecksilver.",
+            "history": "Grew from impromptu barters between salvors and bonewrights; formalized under Brinelaw with weekly oath-bells.",
+            "controlled_by": "Nominally the Brinelaw Keepers; informally influenced by the Ribshadow Brotherhood",
+            "associations": "Chainmasters fence surplus rivets and chain-links; Pilgrims sell votive knots; Anchor-Compact tax clerks sit at the jaw hinge.",
+            "secrets_or_legends": "A tooth near the stall of Old Kera weeps brine on nights when a ship will not return; she will not say which tooth."
+        },
+        {
+            "name": "Brinelaw Keep",
+            "function": "Court, gaol, and archive",
+            "description": "A squat bastion of salt-brick mortared with kelp fiber, its tide-clock a vertical pool whose level marks the hour. The Oathwell in its heart tastes of iron and winter.",
+            "history": "Raised when brawls over bone shares threatened to tear the city; the twelve Brinelaw stones were set here and rubbed smooth by generations of hands.",
+            "controlled_by": "Brinelaw Keepers",
+            "associations": "Holds records of chain maintenance and convoy bonds; Rime-Lanterns provide saltflame for forensic testing of forged inks.",
+            "secrets_or_legends": "Prisoners who drink from the Oathwell speak only truth for a day and a night, then cannot recall what they confessed."
+        },
+        {
+            "name": "Sky-Quay of the Sargassum Aerarium",
+            "function": "Mooring field for sky-barges and aerostat trade",
+            "description": "Tether towers crowned with living mats of air-moss that puff and contract with the breeze, holding sky-barges steady like seeds on a stalk.",
+            "history": "Built when upland traders offered buoyant moss in exchange for rime-lanterns; doubled the city’s reach inland.",
+            "controlled_by": "Anchor-Compact of Dorsalhaven",
+            "associations": "Chainmasters maintain winches; Bonewrights fabricate lightweight bone-struts; Brinelaw audits cargo weights that are notoriously slippery aloft.",
+            "secrets_or_legends": "Air-moss hums when stormfronts turn; a savvy dockhand claims to predict squalls by laying an ear to the mat."
+        }
+    ],
+    "politics": [
+        {
+            "name": "Anchor-Compact of Dorsalhaven",
+            "type": "Merchant consortium",
+            "leader": "Matron Selka Vire",
+            "goals": "Secure monopoly over marrow exports and convoy routes; maintain favorable Brinelaw interpretations; keep pirates paid or pacified.",
+            "methods": "Debt-bonds, tariff manipulation, strategic patronage, exclusive contracts sworn at the Oathwell.",
+            "resources": "Coin reserves, convoy fleets, influence over Brinelaw benches, tariff rights at the Anchor-King’s Hall and Sky-Quay.",
+            "holds_or_influences": [
+                "Anchor-King’s Hall",
+                "Sky-Quay of the Sargassum Aerarium"
+            ],
+            "allies": [
+                "Brinelaw Keepers",
+                "Rime-Lantern Guild"
+            ],
+            "rivals": [
+                "Chainmaster’s Union",
+                "Ribshadow Brotherhood",
+                "Pilgrims of Orum’s Dream",
+                "Bonewrights’ Collegium"
+            ],
+            "history": "Formed from the last Anchor-King’s council after the crown dissolved into ledgers. Survived the Night of Unmoored Chains by paying reparations from its own coffers to calm riots.",
+            "dependencies": "Needs Chainmaster crews to move goods; relies on Rime-Lanterns for stable marrow; depends on Bonewright quotas for exportable crafts.",
+            "current_conflicts": "Negotiating a steep new tribute with the Hookcutters of Moon’s Hook Atoll; facing a Brinelaw petition to cap tariffs after a hungry winter."
+        },
+        {
+            "name": "Chainmaster’s Union",
+            "type": "Guild of harbor engineers, riggers, and stevedores",
+            "leader": "Foreman Garrik Shale",
+            "goals": "Safety charters for every public chain, fair hazard pay, and veto power over harbor expansions that risk the ribs.",
+            "methods": "Strikes, slow-turns of the Tidemill Array, joint-rigging pacts, crowding tariff ladders to stall shipments.",
+            "resources": "Skilled crews, control of the Tidemill Array, access to chainyards and winches, popular support in dockside wards.",
+            "holds_or_influences": [
+                "Tidemill Array"
+            ],
+            "allies": [
+                "Bonewrights’ Collegium"
+            ],
+            "rivals": [
+                "Anchor-Compact of Dorsalhaven",
+                "Brinelaw Keepers"
+            ],
+            "history": "Unified after the Night of Unmoored Chains when uninspected links killed dozens; forced Brinelaw to codify safety seals bearing the Union’s mark.",
+            "dependencies": "Requires steady timber from the Sighing Mangrove; needs Anchor-Compact contracts to keep wages flowing.",
+            "current_conflicts": "Sabotage suspected at the Array—Union blames underpaid subcontractors pressed by the Compact; Brinelaw threatens to nationalize emergency crews."
+        },
+        {
+            "name": "Rime-Lantern Guild",
+            "type": "Alchemists, lamplighters, and marrow refiners",
+            "leader": "Mistress Pera Ilem",
+            "goals": "Protect alchemical formulas, expand controlled exports of rime-lanterns, and develop safer marrow stabilizers.",
+            "methods": "Closed apprenticeships, sealed crucibles, patent petitions to Brinelaw, funding expeditions to the Coral Library of Nareth.",
+            "resources": "Marrow Vaults, laboratories, saltflame reagents, a network of lamplighters across the city.",
+            "holds_or_influences": [
+                "Marrow Vaults"
+            ],
+            "allies": [
+                "Anchor-Compact of Dorsalhaven",
+                "Brinelaw Keepers"
+            ],
+            "rivals": [
+                "Bonewrights’ Collegium",
+                "Pilgrims of Orum’s Dream"
+            ],
+            "history": "Rose from itinerant lamp-tenders to a power bloc after devising a stable marrow distillate. Blamed—fairly or not—for early cases of the Marrow Plague before safety protocols.",
+            "dependencies": "Needs Bonewright allocations for raw material; relies on Chainmaster power draw at night; depends on Tideglass halite for calibration.",
+            "current_conflicts": "Pilgrims petition to halt marrow draws during holy nights; Bonewrights push to redirect marrow to structural lacquers rather than export."
+        },
+        {
+            "name": "Brinelaw Keepers",
+            "type": "Magistrates, bailiffs, and tide-scribes",
+            "leader": "High Bailiff Osric Greyfen",
+            "goals": "Preserve civic order, prevent another Night of Unmoored Chains, and keep Brinelaw above factional capture.",
+            "methods": "Oathwell testimony, tariff audits, patrols along the Dorsal Span and Market of Teeth, special writs for chain emergencies.",
+            "resources": "Brinelaw Keep, gaol, sworn tide-scribes, right of levy during storms.",
+            "holds_or_influences": [
+                "Brinelaw Keep",
+                "Market of Teeth"
+            ],
+            "allies": [
+                "Anchor-Compact of Dorsalhaven",
+                "Rime-Lantern Guild"
+            ],
+            "rivals": [
+                "Ribshadow Brotherhood",
+                "Chainmaster’s Union"
+            ],
+            "history": "Evolved from volunteer watch-wardens; formalized when trade outpaced custom. Their neutrality is legendary but not absolute; lean years have seen corners cut.",
+            "dependencies": "Depend on Rime-Lantern saltflame for forensic work; need Anchor-Compact funding for patrols; accept Pilgrim counsel in sea-burial disputes.",
+            "current_conflicts": "A forged-pass ring at the Tideglass Flats undermines their licensing; bailiffs have gone missing near the Salt Widow’s Lighthouse."
+        },
+        {
+            "name": "Bonewrights’ Collegium",
+            "type": "Artisans, rationers, and structural planners",
+            "leader": "Dean Yhosa Kel",
+            "goals": "Sustainable harvesting of Orum’s remains, mastery of coral-lacquered bone, and parity with the Rime-Lantern Guild in city councils.",
+            "methods": "Quota ledgers, apprenticeship trials, public displays of bone-lace engineering on festival days, research delegations to the Coral Library.",
+            "resources": "Workshops along the Dorsal Span, sawpits, lacquer vats, reserve stockpiles of sacred bone.",
+            "holds_or_influences": [
+                "The Dorsal Span"
+            ],
+            "allies": [
+                "Chainmaster’s Union"
+            ],
+            "rivals": [
+                "Rime-Lantern Guild",
+                "Anchor-Compact of Dorsalhaven",
+                "Pilgrims of Orum’s Dream"
+            ],
+            "history": "Founded to prevent reckless carving that might collapse neighborhoods; their first triumph was the rib-buttress system under the Anchor-King’s Hall.",
+            "dependencies": "Require Tideglass salts for lacquer temper, Sighing Mangrove resin, and Brinelaw approval for harvest plans.",
+            "current_conflicts": "Opposing a new Anchor-Compact export push that would divert shaped bone to foreign buyers; accused of secretly testing coral composites without permits."
+        },
+        {
+            "name": "Ribshadow Brotherhood",
+            "type": "Smugglers, wreckers, and shadow-brokers",
+            "leader": "Captain Neth Cowl",
+            "goals": "Control black routes around tariffs, protect wrecker families, and keep a blade at the Compact’s ledger-hand.",
+            "methods": "Night dives at the Whispering Rib Shoals, counterfeit passes for Tideglass harvesting, back-channel deals with Hookcutters at Moon’s Hook Atoll.",
+            "resources": "Hidden caches near the Salt Widow’s Lighthouse, fast skiffs, bribed lookouts at the Market of Teeth.",
+            "holds_or_influences": [
+                "Market of Teeth"
+            ],
+            "allies": [
+                "Chainmaster’s Union"
+            ],
+            "rivals": [
+                "Brinelaw Keepers",
+                "Anchor-Compact of Dorsalhaven"
+            ],
+            "history": "Born when early Brinelaw tariffs pinched fisherfolk into crime. Romanticized by ballads, they are pragmatic thieves who prefer coin to corpses.",
+            "dependencies": "Need corruptible clerks in the Anchor-King’s Hall, safe coves under the bluffs, and access to counterfeiters skilled with Brinelaw seals.",
+            "current_conflicts": "A recent Brinelaw sting seized their moon-iron cache; reprisals expected on the next fog-thick night."
+        },
+        {
+            "name": "Pilgrims of Orum’s Dream",
+            "type": "Mystic sect and custodians of rites",
+            "leader": "Dreamwarden Siala Nerm",
+            "goals": "Limit harvesting, preserve sacred remains, and interpret whale-song omens to guide civic decisions.",
+            "methods": "Public vigils, dreamfasts in the Rib Cathedral, petitions for holy-night moratoriums on industrial work, sea-burial rites.",
+            "resources": "Dream Reliquary, whale-song hymnals, oared boats for candlelit protests, goodwill among old fisher clans.",
+            "holds_or_influences": [
+                "Rib Cathedral of Orum"
+            ],
+            "allies": [],
+            "rivals": [
+                "Anchor-Compact of Dorsalhaven",
+                "Chainmaster’s Union",
+                "Rime-Lantern Guild",
+                "Bonewrights’ Collegium"
+            ],
+            "history": "Kept Orum’s memory alive through the hungry first winters. Their influence waned with prosperity and the rise of marrow light, but the old songs still hush a crowd.",
+            "dependencies": "Rely on alms and festival offerings; depend on Brinelaw tolerance to hold processions; seek signs from places like Fathomfall Trench.",
+            "current_conflicts": "Pressure mounts to reveal a rumored ‘Heart-Scale’ that could prove Orum dreams; Anchor-Compact agents court dissident Pilgrims with coin."
+        }
+    ]
+}

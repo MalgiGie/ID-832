@@ -1,0 +1,43 @@
+{
+    "id": "M9",
+    "title": "Chainhouse at the Brink",
+    "quest_giver": "Chainmaster Gor Relk of the Rafter Guild",
+    "description": "Signal flags snap against a rising wind as a tremor passes through the Chainhouse Triad. The emergency bells beat a rhythm everyone in Ribcrown knows in their bones: something is wrong with the lift. Gor Relk does not have space for grudge now; he sends for Aerin with a jaw set to break stone. On the catwalks, sanded smooth by generations of boots, Aerin finds resonant tiles tucked under a run of plates along a curve—a knife waiting for a gale. Danka Suth’s crew works the winches, eyes too fast, one hand always near a hidden clutch. When the tremor grows to a sway and screams lift from Riverfoot, there is no good option. Aerin can trigger the emergency drop again, cost cargo and face, or try the heart-reed and pray the old tone will hold the platforms steady. In the teeth of the wind, with Thia’s runners clearing the decks and Jarik’s wardens holding the cordon, Aerin sounds the heart-tone. The Triad shudders, answers like a beast tamed by an old song, and settles. Danka runs; he leaves behind a ledger stub and the stink of brine.",
+    "objectives": [
+        "Inspect the Triad catwalks for curved runs of resonant tiles and mark their locations for removal.",
+        "Coordinate with Thia Mol to clear decks and with Jarik Rell to hold cordons during emergency.",
+        "Choose and enact the emergency response: pull the clutch or use the Heart-Reed Charm to stabilize.",
+        "Pursue Danka Suth across the catwalks; recover what evidence he drops even if he escapes."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Gor Relk",
+            "line": "You. Rell. I don’t care what chair you kneel to, I care if you can keep my crews from falling into the river. The bolts are singing wrong. Fix it, or I’ll throw you off this tower and call it gravity."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "They set the plates along a curve. I can hear the overtone climb. Give me a breath—clear your men. Thia, pull your people back. Jarik, hold the line at the rope-gates. I’m going to try something old."
+        },
+        {
+            "speaker": "Thia Mol",
+            "line": "Lanterns, you hear the lady. Clear out like the river just remembered your names. I’ll keep the panicked from eating each other on the stairs."
+        },
+        {
+            "speaker": "Jarik Rell",
+            "line": "Do it, Aer. If you drop the clutch, I’ll write the loss clean. If you sing to it and it answers, I’ll tell the city you talked a monster into lying down."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "Hush, bones. I hear you. Breathe with me. We borrow this tone only to give it back. Hold."
+        }
+    ],
+    "connections": {
+        "previous": "M8",
+        "next": "M10"
+    },
+    "rewards": [
+        "Rafter Guild’s grudging trust: an emergency clutch-key issued to Aerin for sanctioned use.",
+        "Removal authorization for resonant tiles found in civic structures.",
+        "Public credit shared by Rafter Guild, Breathkeepers, and Vigil for averting disaster, easing faction tensions."
+    ]
+}

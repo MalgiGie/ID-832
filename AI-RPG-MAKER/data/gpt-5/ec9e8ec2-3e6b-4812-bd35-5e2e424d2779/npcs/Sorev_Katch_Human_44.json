@@ -1,0 +1,65 @@
+{
+    "name": "Sorev",
+    "surname": "Katch",
+    "race": "Human",
+    "age": 44,
+    "appearance": "Square-shouldered in stormglass plates and salt-stained blue, cropped black hair, scar across the jaw from a chain-snap.",
+    "character": "Disciplined, proud of the Wardens’ oath, convinced that predictability keeps the city alive.",
+    "traits": [
+        "authoritative",
+        "punctual",
+        "spartan",
+        "loyal to subordinates"
+    ],
+    "skills": [
+        "patrol command",
+        "boarding tactics",
+        "chainhouse safety protocols",
+        "storm-signal interpretation",
+        "interdiction law"
+    ],
+    "talents": [
+        "uncanny balance on swaying walkways",
+        "can hear false cadence in shouted reports",
+        "unshakable focus during lightning runs"
+    ],
+    "flaws": [
+        "rigid thinking",
+        "resentful of public criticism",
+        "blind spot for patronage from ‘respectable’ houses"
+    ],
+    "dreams": [
+        "Stamp out the Veiled Current’s smuggler arteries",
+        "Win undisputed authority over all harbor beacons"
+    ],
+    "secrets": [
+        "Accepts ‘expediency gifts’ from Salt Gate merchants to shuffle inspection schedules",
+        "Keeps a smuggler’s codebook taken from a dead corsair and consults it off-record"
+    ],
+    "relations": [
+        {
+            "npc_name": "Nerey Alis",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Isha Brinehand",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Sel Var Saltvein",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Keshan Drook",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Caldra Imin",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Orun Shard",
+            "relation_type": "Conflict"
+        }
+    ]
+}

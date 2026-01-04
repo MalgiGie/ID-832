@@ -1,0 +1,84 @@
+{
+    "name": "Thay",
+    "surname": "Nerr",
+    "race": "Human",
+    "age": 41,
+    "appearance": "Sallow night-owl with inked knuckle-knots, a crow-feather lapel, and a smile that never reaches his eyes.",
+    "character": "Courteous, veiled, and perpetually two moves ahead.",
+    "traits": [
+        "secretive",
+        "unflappable",
+        "transactional",
+        "observant",
+        "sardonic"
+    ],
+    "skills": [
+        "message-knot encryption",
+        "signal-mirror brokerage",
+        "blackmail calculus",
+        "voice mimic identification",
+        "leak tracing"
+    ],
+    "talents": [
+        "buys secrets by the ounce and pays fairly",
+        "remembers every balcony’s sightline in Skyline",
+        "trains rooks to deliver on near-misses"
+    ],
+    "flaws": [
+        "cannot resist a complex scheme",
+        "underestimates devotion and faith",
+        "believes silence itself is a commodity"
+    ],
+    "dreams": [
+        "legalize sky-rights as property",
+        "embed handlers in every ward-court",
+        "break the Collegium’s claim on mirror registrations"
+    ],
+    "secrets": [
+        "Keeps a mirrored cistern of stolen reflections beneath a false rookery floor",
+        "Sold patrol routes once to save his sibling from a Compact debt",
+        "Owns a voice-rook that can mimic a certain Parliamentor too well"
+    ],
+    "relations": [
+        {
+            "npc_name": "Lisi Jhak",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Ysra Dokk",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Pel Korr",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sav Orlai",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Rull Fen",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Kael Ibrin",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Senne Vell",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

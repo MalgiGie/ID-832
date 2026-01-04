@@ -1,0 +1,53 @@
+{
+    "id": "M5",
+    "title": "Door Beneath the Needle",
+    "quest_giver": "Lysa Truin",
+    "description": "The Cartographer’s Needle rises from basalt flats like a commandment. At dawn, its etched lattices hum in step with Marrowgate’s ribs. With Nalai Thread’s nervous curiosity and Lysa’s distant blessing, Iriel sounds the fourth-rib flute. The spire answers with a chord that folds the air, and a seam opens in shadow, exhaling the dust of roads-that-could-be. Inside is an archive of maps that redraw themselves with each breath, routes that exist when moon and council will agree. Stone-sprites flicker like doubts, trying to steal direction from pockets. At the archive’s heart, a slab shows three loci pulsing in sympathy: the sumped vault beneath Skull Keep, the cartilage gate at the Wyrmwell, and a broken ring in the Skyfall Shardfield where a crown once was. The Needle’s voice is not voice at all, but a certainty in the bones: something is using old routes to move a new design.",
+    "objectives": [
+        "Use the Fourth-Rib Bone Flute at the Needle at dawn to reveal the hidden door.",
+        "Navigate the archive of roads-that-could-be without losing direction to the stone-sprites.",
+        "Recover the Resonance Map and imprint its key tone onto a star-glass fork.",
+        "Safely escort Nalai Thread back toward Marrowgate with notes intact."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Nalai Thread",
+            "line": "The Needle is louder than any ledger, and somehow more polite. The hum names things without saying them, like a clerk who knows your debt before you open your mouth. If these maps decide we should be roads, will we be paved smooth or marked with potholes? I am not sure I was meant to see the world pacing itself into ifs and thens."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "Hold to my voice and put your hand on the satchel when the lines begin to walk. The sprites steal direction, not courage; if you doubt, speak a number that matters to you and step where the hum is thickest. The map knows where the city bleeds and where it breathes—Skull Keep, the Wyrmwell, and Skyfall. It’s telling us that the routes beneath us are being tuned by a hand that remembers old emergencies."
+        },
+        {
+            "speaker": "Stone-Sprite (whisper)",
+            "line": "Lose your left and you will find your right. Give up your name and you will never be lost again. Take a road that is not there, and you will arrive at a place that does not exist and never leave."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "No bargains with echoes. We take the map, we take the tone, and we take our feet out the way we came. If the city’s bones must argue with the sky’s fallen glass, we’ll bring them a language they can both survive."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ]
+    },
+    "rewards": {
+        "experience": 500,
+        "items": [
+            "Resonance Map of Roads-That-Could-Be",
+            "Imprinted Star-Glass Fork (Needle Tone)"
+        ],
+        "currency": {
+            "chits": 0
+        },
+        "reputation": {
+            "Grey Lanterns": 1,
+            "Loom of Names": 1,
+            "Pale Collegium": 2
+        }
+    }
+}

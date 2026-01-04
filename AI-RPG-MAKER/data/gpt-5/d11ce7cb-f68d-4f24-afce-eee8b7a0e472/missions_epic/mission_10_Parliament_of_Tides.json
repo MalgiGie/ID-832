@@ -1,0 +1,91 @@
+{
+    "id": "10",
+    "title": "Parliament of Tides",
+    "quest_giver": {
+        "name": "Yasma Brine",
+        "affiliation": "Salt Parliament"
+    },
+    "description": "Marrowgate’s southern flank shimmered with prismatic basins like the eyes of a sleeping leviathan, each pool a mouth of law tasting the day’s quarrels. Delegates in salt-bleached shawls and glass-bright mantles crowded the terraces, their shadows slicing the brine into shards of rumor that drifted from ear to ear like floating weeds. Whispers about counterfeit brine jars—colors tuned to lie for coin—coiled around the pillars, while the wind-harp names from the Cairn of the Hollow King chased them like hounds, nipping at the heels of councilors who pretended not to hear their own syllables sung by the south wind. Somewhere in the Nine Mouths the river had found a fresh tooth and begun to hum, a new channel singing in tones only pilots and eels could love, and the city’s bones felt it, tensing along terraces and stairs. The motion on the slate was a blade laid to the city’s throat: cede emergency authority over the Heartward Engine to a commission chaired by the Ember Collegium, with Wardens as their mailed hands; in answer the Tidemothers had braided a threat as old as the tide, to unbind rites and let waters do as they pleased if fire and glass took the wheel. Yasma Brine’s runner found Sere Kallin among the rib ladders where breeze made prayer-flags talk; when Sere arrived at the basins, the elder’s left hand was empty but her right was full of papers and a tremor she hid by gripping them like a spear. ‘Stand near me as shield and witness,’ she hissed through a smile for the crowd, for the day was not a war but it wore war’s teeth. And there on the high step reserved for the mouth of the Parliament, a spare chair of plain bone waited as if a ghost had reserved it; rumors said the Ferryman Without Wake was to be seated for the next vote, prophecy sloshed from reed to rib like oil on water, and even the bravest tongues slipped on its sheen. At the edge of hearing the Heartward Engine ticked through the city’s veins like a metronome, and Sere’s stormglass whistle felt colder than it should, as though a chord not yet plucked was already vibrating in the marrow of Marrowgate.",
+    "objectives": [
+        "Present the counterfeit brine ledger and jars to the Parliament without igniting a riot.",
+        "Read the wind-harp names into the record and demand a pause for omens.",
+        "Arrange a chair at the basins for the Ferryman Without Wake and hold the floor long enough for silence to take root.",
+        "Ensure the vote creates a balanced steward’s circle rather than a single guild’s rule."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Yasma Brine",
+            "lines": "Stand at my left where the light makes you look larger and my rivals feel smaller, Sere Kallin. I am not here to win a crown for salt, because salt that crowns becomes a scab and stops the city’s breath. I am here to keep bread from marrying rumor and birthing panic, for panic eats faster than hunger and leaves worse bones behind. If I lean on your shoulder, it is not because I need holding up; it is because your steadiness teaches people to count their breaths before they tip a jar, and today every breath will be tallied. Do not let the glassmakers trick this city into drinking fire with its law; if they must have a cup, they will share it with the Tidemothers and the bone-shapers and the pilots who know which way water tries to flee. Remember that a riot is a law that forgot its own mother, and I would rather lose a vote than give this basin the taste of blood again."
+        },
+        {
+            "speaker": "Isera Bent-Pike",
+            "lines": "The Wardens will not break skulls for a vote unless the vote is breaking the city, and even then I prefer breaking pride to bone. I will have my pikes lined but pointed down, and my captains will keep their men chewing eel jerky so mouths are too busy for curses. If the Ferryman walks in here, I will pretend I do not see him as long as he sits quiet, because I have prayed at his stone and I know the price of a name. If anyone throws red into a basin to see blood instead of law, I will carry them out by the ear like a street brat, and I will make them wash the stains from the tiles until their fingers prune. You, Sere, know the measure of crowd winds on a day like this, so if you feel the gust shift, give me your whistle and I will sound retreat before thunder wakes in the ribs. My oath is to keep trade moving and blood off the terraces; today that means I guard silence as if it were a grain barge in a flood."
+        },
+        {
+            "speaker": "Rhy Tidesong",
+            "lines": "Hear me as the tide hears the moon, for I will say this once and let the water carry it into your bones. The Heartward Engine beats in time with a life we do not own, and I will not see it lashed to fire alone while songs and rites are treated as decorations on a civic altar. If the Ember Collegium seeks a chair, it will sit in a circle with others and learn to listen to breath between beats, or we will unbind our blessings and let channels choose their own anger. The wind has sung names at the cairn, and when the wind sings a name it is because the world is paying attention; to ignore it is to cover your ears while a levee cracks. If the Ferryman’s chair remains empty, respect the empty as you would a saint’s absence; an empty chair can be a presence heavier than iron, and prophecy has its own weight. I have no wish to shame glass or bone, only to keep us from mistaking clarity for wisdom and strength for stewardship."
+        },
+        {
+            "speaker": "Pell Lenseson",
+            "lines": "I speak for the Ember Collegium as a journeyman who has ground lenses until my hands forgot how to be soft, and I ask you to hear me before you fear me. We do not wish to steal the Engine from prayer or from bonecraft, but when pressure spikes and glass sings we have tools that can see dangers others must guess. If emergency authority rests with a commission for a season, it is not to crown fire but to light dark corridors where panic grows, and to do so with Wardens watching and records etched for all to read. We are ready to seat at a shared table if that is what law demands, but please do not let superstition close the shutters when a storm is coming; we need eyes as well as hymns. If the Ferryman must be seated, let him be seated where he causes the least fear, and let the empty chair be a reminder that sometimes knowledge comes from silence focused by a lens. I would rather be bound by a circle than blamed by a mob; bind us, but do not blind us."
+        },
+        {
+            "speaker": "Sela Tidecount",
+            "lines": "Fog Mistress of the Pilots Conclave speaks, and I say the channels have changed under your feet while you argue over candles and sermons. A tenth mouth hums like a split shell, and if you try to muzzle it with glass alone it will bite your hand to the bone; if you try to sing it still without reading its teeth, it will swallow your hymn. The Ferryman’s routes cross our own when stars drown and lanterns lie, and I have tasted wind that says a chair for him is a chair for the truth we do not like to pay for. Give the Pilots a voice in any circle that steers the Engine, because we read water where others read laws, and the Engine is a river instrument even when it’s dressed like a pump. If you leave us out, you will find your commission stranded on a silt bar while the city’s weight slides toward a sinkhole. Put your clever glass and your sacred songs beside our knots and depth songs, and we will keep you off the shoals you cannot see."
+        },
+        {
+            "speaker": "Sere Kallin",
+            "lines": "We have proof that color was ready to lie for coin, and I can smell old brine on new seals as if they were graves freshly salted. We have names that the wind risked its pride to sing aloud, and I will not be the woman who says the wind has no place in a river city built of bone. We have a river mouth that is humming like a new tooth, and I have walked watch on the Skyhook chain enough nights to know what happens when you pretend a hum is only in your head. We can either build a circle of hands to hold this city through its fever or we can give the hottest head a scepter and ask it to spare our beds from fire, and I do not know any hot head that spares much. I know which choice lets us sleep, and sleep matters when the bones we live inside begin to sing; choose the circle, seat the silence, read the omen, and let truth be measured with more than one cup."
+        }
+    ],
+    "choices": [
+        {
+            "id": "c1",
+            "title": "Unmask the Counterfeiters on the Basin Floor",
+            "text": "Stride into the open circle between basins with the eel-skin coil looped at your belt and the saint-glass buckler catching green light, and call for hush not with threat but with a Warden’s cadence the city remembers. Lay the ledger flat where all can see and hold up two brine jars, one honest, one tuned to cheat, and let the colors prove your accusation when the sun and lens strike them. Name the go-between who sold seals to the highest bidder and the basin faction that paid for red to read as rose, and speak each name like a knot tied for rescue instead of revenge. Ask the Wardens to witness, the Tidemothers to bless the test, and the Collegium to verify with their own lenses so that no guild can claim trickery when the hues betray their buyers. Remind the Parliament that panic feeds on secrecy, and that a clean wound hurts less than a poisoned scratch hidden under bandage.",
+            "outcome": "A dove-silent moment cracks and the market’s buzz surges up the terraces, but Isera’s pikes dip forward and tongues still as glass shows the lie blooming in false color. Arrests follow, not in a rush but in a methodical procession, and those who thought themselves clever find their ankles kissed by cold brine as they are led around the pools. Yasma Brine’s standing swells even as she pretends to shrink from the attention, while a Salt Parliament faction breaks in two along a jagged line that will take seasons to sand smooth. The Collegium, stung by association with forged seals they did not make, softens its demand for a singular chair and begins to speak the language of shared stewardship to save face. The vote is delayed for an hour under the pretext of inventory and ritual cleansing, and in that pause allies find each other and sketch the first bones of a steward’s circle that does not belong to any one hand."
+        },
+        {
+            "id": "c2",
+            "title": "Sing the Wind-Harp Names and Demand an Omen’s Pause",
+            "text": "Step to the record-stone and request the Clerk of Tides to open the register, then unroll the chalk-struck script of wind-harp notes gathered from the cairn and translate each phrase into the names the south wind shaped. Speak slowly, honoring the breath that made those notes, and press every syllable into the basin air until the crowd recognizes that its own leaders have been called by forces older than charters. Ask the Tidemothers to affirm that omen is not law but counsel, and the lawyers to affirm that counsel is not an insult to law but its oldest companion. Tell the Parliament that no one loses face by listening to wind, just as no one grows foolish by testing a rope before crossing a chasm, and that a single day’s delay to hear a prophecy is cheaper than a year of regret. Seal your plea by placing your Ferryman token on the register, a cold stone on hot salt, and promise to accept blame if the pause proves useless and the city calls it waste.",
+            "outcome": "The basins do not boil, and the Wardens do not need to clack pikes; instead a long exhale passes through the terraces as if the city itself remembered to breathe. Mother Rhy raises a palm and gives a nod that is not permission but acknowledgment, and even the Collegium’s junior lenswrights, prideful and singed by work, cannot scorn a day set aside to hear. The Speaker, whose hands are brine-burned and superstitious about color omens, finds comfort in procedure and names a sunset session to reconvene after rites and readings. During the pause, opposing guilds draft a framework for a circle that grants emergency conduct to five hands—Tidemothers, Bonewrights, Pilots, Collegium, and Wardens—under the Parliament’s light, with oaths braided to bind each against overreach. When the session resumes, the demand for a single guild’s rule has lost its luster like glass left in sand, and the circle’s proposal gleams with tempered calm."
+        },
+        {
+            "id": "c3",
+            "title": "Seat the Ferryman Without Wake and Hold the Floor",
+            "text": "Carry the plain bone chair in both hands as if it were heavier than iron and set it at the edge of the highest basin, angled to face the city, not the councilors. Announce that prophecy names a guest and that Marrowgate, even when afraid, knows how to make space for those who guide in dark waters, whether or not they come. Speak for the silence as if it were a person, asking the Wardens to guard it, the Parliament to measure it, and the Tidemothers to bless it, and then keep talking just enough to keep hecklers from filling the empty with their own noise. Describe the channels in the Nine Mouths on moonless nights, the feeling when a skiff moves without a wake, and how sometimes the surest map is a quiet heartbeat felt through wood, until the crowd is listening to its own pulse. Then be still for a full count of a hundred, risking your voice to the hush you have made, and trust that even if no skiff slides through the door, the weight of the offered seat will anchor the room.",
+            "outcome": "For a breathless stretch the basins hear only the drip of prismatic water and the distant echo of gulls, and in that hollow Isera does not cough, the Collegium does not shuffle, and the Parliament does not murmur. A reed-scented draft passes like a boat that refuses to ripple, and some swear a figure pauses at the threshold, hat brim low, hands on a pole that never strikes the floor. Whether it is true or story is irrelevant; the silence has been honored, and a city that can be quiet together can also choose together. The Speaker uses the moment to propose that any emergency commission must always hold an empty seat, a reminder that guidance owes debt to something beyond law and craft, and that no decision may be sealed without a full minute of hush. With that ritual bound into the bylaws, the push for a singular chair loses its edge, and a balanced steward’s circle, strengthened by the new silence rite, gathers votes like a tide gathers foam."
+        },
+        {
+            "id": "c4",
+            "title": "Forge the Steward’s Circle in Public",
+            "text": "Step onto the Speaker’s step only when beckoned by the weight of necessity, then speak not as a smuggler’s debtor or a Warden’s exile but as a river-born who has ferried children during a red tide and knows what panic can do. Offer a design for a five-hand circle: Tidemothers to hear the pulse, Bonewrights to set the braces, Pilots to read the channels, Collegium to see through storm and fog, and Wardens to hold the line; set the Parliament above as the lens that keeps the light honest. Tie each hand with a counterweight so no one can move without another’s agreement, and insist that records be etched in glass and bone and sung once to the basins before they stand as law. Add the Ferryman’s empty chair as a sixth presence, not a vote but a vow to leave room for what you do not know, and pledge that any emergency authority lasts only one turning of the moon before it must be weighed again. Finish by stating the thing everyone fears out loud: that a single guild holding the Engine is a promise the river will test, and the river’s tests are final.",
+            "outcome": "The proposal does not feel like a victory speech but like a brace fitted to a cracked stair: unglamorous, necessary, and blessedly cool to the touch. Guild faces ease as each sees both a role and a leash, and the crowd’s appetite for spectacle withers in the presence of a plan that neither flatters nor flays. The Speaker calls the vote, colors pour, and the mixed hue that rises is not bright, not dark, but a workable tide between; the motion for a single guild chair drowns without drama. Yasma Brine’s eyes glitter with relief she does not show in her mouth, Mother Rhy makes the sign of the deep, and Pell Lenseson notes quietly that he has more work now but also more protection. The steward’s circle is born on the basin tiles with oaths sworn and penalties etched, and you feel the Engine’s hum level a notch, as if glad not to be handed to one set of fingers alone."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "2",
+            "8"
+        ],
+        "next": [
+            "11",
+            "12"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Title",
+            "description": "A formal writ naming you River-Steward's Blade with authority to act across guild lines during crisis."
+        },
+        {
+            "type": "Legal Immunity",
+            "description": "Protection from Parliament reprisals when operating under the writ."
+        },
+        {
+            "type": "Faction Favor",
+            "description": "Quiet gratitude from multiple factions for averting a power grab."
+        }
+    ]
+}

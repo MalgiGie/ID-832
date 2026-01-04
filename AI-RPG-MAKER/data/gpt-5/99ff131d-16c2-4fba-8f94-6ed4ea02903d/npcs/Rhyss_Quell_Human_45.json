@@ -1,0 +1,56 @@
+{
+    "name": "Rhyss",
+    "surname": "Quell",
+    "race": "Human",
+    "age": 45,
+    "appearance": "Neat, sun-bleached cloak with hidden pockets for slips; a silver quill behind one ear; a calculating gaze.",
+    "character": "Polite, relentless, and easily underestimated.",
+    "traits": [
+        "Discreet",
+        "Methodical",
+        "Skeptical",
+        "Ambitious"
+    ],
+    "skills": [
+        "Audit trails",
+        "Evidence gathering",
+        "Court procedure",
+        "Covert tailing"
+    ],
+    "talents": [
+        "Reads weight shifts in a coin purse",
+        "Never loses a page",
+        "Speaks in Wind Courts lulls flawlessly"
+    ],
+    "flaws": [
+        "Cold",
+        "Risk-averse to personal danger",
+        "Moral flexibility"
+    ],
+    "dreams": [
+        "Become First Teller of the Ledger",
+        "Standardize stall fees citywide"
+    ],
+    "secrets": [
+        "Leaked lift schedules to trap smugglers and rivals alike",
+        "Takes a cut from select contraband routes"
+    ],
+    "relations": [
+        {
+            "npc_name": "Avar Jen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Seru Chime",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Tamsin Rook",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Varo Pell",
+            "relation_type": "Conflict"
+        }
+    ]
+}

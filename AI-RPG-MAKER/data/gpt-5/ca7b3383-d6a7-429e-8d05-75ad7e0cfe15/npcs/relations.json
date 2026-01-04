@@ -1,0 +1,347 @@
+[
+    {
+        "from": "Riven Hask",
+        "to": "Vara Keshlin",
+        "type": "Alliance"
+    },
+    {
+        "from": "Riven Hask",
+        "to": "Maela Scor",
+        "type": "Friendship"
+    },
+    {
+        "from": "Riven Hask",
+        "to": "Pelyn Orinfae",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Riven Hask",
+        "to": "Ilara Embervein",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Riven Hask",
+        "to": "Sere Vell",
+        "type": "Different goals"
+    },
+    {
+        "from": "Maela Scor",
+        "to": "Riven Hask",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Maela Scor",
+        "to": "Ilara Embervein",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Maela Scor",
+        "to": "Tosk Glassbite",
+        "type": "Friendship"
+    },
+    {
+        "from": "Maela Scor",
+        "to": "Sere Vell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Maela Scor",
+        "to": "Jask Lumenwright",
+        "type": "Friendship"
+    },
+    {
+        "from": "Neris Undersong",
+        "to": "Rukha Mossbank",
+        "type": "Alliance"
+    },
+    {
+        "from": "Neris Undersong",
+        "to": "Breg Tesserin",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Neris Undersong",
+        "to": "Tosk Glassbite",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Neris Undersong",
+        "to": "Vara Keshlin",
+        "type": "Conflict"
+    },
+    {
+        "from": "Neris Undersong",
+        "to": "Yevra Ashleaf",
+        "type": "Friendship"
+    },
+    {
+        "from": "Vara Keshlin",
+        "to": "Riven Hask",
+        "type": "Alliance"
+    },
+    {
+        "from": "Vara Keshlin",
+        "to": "Sere Vell",
+        "type": "Hostility"
+    },
+    {
+        "from": "Vara Keshlin",
+        "to": "Rukha Mossbank",
+        "type": "Friendship"
+    },
+    {
+        "from": "Vara Keshlin",
+        "to": "Pelyn Orinfae",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Vara Keshlin",
+        "to": "Neris Undersong",
+        "type": "Conflict"
+    },
+    {
+        "from": "Sere Vell",
+        "to": "Vara Keshlin",
+        "type": "Hostility"
+    },
+    {
+        "from": "Sere Vell",
+        "to": "Breg Tesserin",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sere Vell",
+        "to": "Neris Undersong",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sere Vell",
+        "to": "Yevra Ashleaf",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sere Vell",
+        "to": "Maela Scor",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sere Vell",
+        "to": "Ilara Embervein",
+        "type": "neutral"
+    },
+    {
+        "from": "Nemra Coil",
+        "to": "Ilara Embervein",
+        "type": "Different goals"
+    },
+    {
+        "from": "Nemra Coil",
+        "to": "Rukha Mossbank",
+        "type": "Friendship"
+    },
+    {
+        "from": "Nemra Coil",
+        "to": "Vara Keshlin",
+        "type": "Conflict"
+    },
+    {
+        "from": "Nemra Coil",
+        "to": "Riven Hask",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Nemra Coil",
+        "to": "Pelyn Orinfae",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Breg Tesserin",
+        "to": "Sere Vell",
+        "type": "Alliance"
+    },
+    {
+        "from": "Breg Tesserin",
+        "to": "Neris Undersong",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Breg Tesserin",
+        "to": "Rukha Mossbank",
+        "type": "Different goals"
+    },
+    {
+        "from": "Breg Tesserin",
+        "to": "Yevra Ashleaf",
+        "type": "Friendship"
+    },
+    {
+        "from": "Breg Tesserin",
+        "to": "Vara Keshlin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tosk Glassbite",
+        "to": "Maela Scor",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tosk Glassbite",
+        "to": "Riven Hask",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tosk Glassbite",
+        "to": "Pelyn Orinfae",
+        "type": "Hostility"
+    },
+    {
+        "from": "Tosk Glassbite",
+        "to": "Neris Undersong",
+        "type": "Alliance"
+    },
+    {
+        "from": "Tosk Glassbite",
+        "to": "Ilara Embervein",
+        "type": "Different goals"
+    },
+    {
+        "from": "Ilara Embervein",
+        "to": "Riven Hask",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ilara Embervein",
+        "to": "Maela Scor",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ilara Embervein",
+        "to": "Sere Vell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ilara Embervein",
+        "to": "Jask Lumenwright",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ilara Embervein",
+        "to": "Nemra Coil",
+        "type": "Different goals"
+    },
+    {
+        "from": "Rukha Mossbank",
+        "to": "Neris Undersong",
+        "type": "Alliance"
+    },
+    {
+        "from": "Rukha Mossbank",
+        "to": "Breg Tesserin",
+        "type": "Different goals"
+    },
+    {
+        "from": "Rukha Mossbank",
+        "to": "Vara Keshlin",
+        "type": "Friendship"
+    },
+    {
+        "from": "Rukha Mossbank",
+        "to": "Yevra Ashleaf",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rukha Mossbank",
+        "to": "Sere Vell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Rukha Mossbank",
+        "to": "Nemra Coil",
+        "type": "Friendship"
+    },
+    {
+        "from": "Pelyn Orinfae",
+        "to": "Riven Hask",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Pelyn Orinfae",
+        "to": "Vara Keshlin",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Pelyn Orinfae",
+        "to": "Sere Vell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Pelyn Orinfae",
+        "to": "Jask Lumenwright",
+        "type": "Alliance"
+    },
+    {
+        "from": "Pelyn Orinfae",
+        "to": "Nemra Coil",
+        "type": "Friendship"
+    },
+    {
+        "from": "Pelyn Orinfae",
+        "to": "Tosk Glassbite",
+        "type": "Hostility"
+    },
+    {
+        "from": "Jask Lumenwright",
+        "to": "Ilara Embervein",
+        "type": "Alliance"
+    },
+    {
+        "from": "Jask Lumenwright",
+        "to": "Riven Hask",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jask Lumenwright",
+        "to": "Sere Vell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Jask Lumenwright",
+        "to": "Pelyn Orinfae",
+        "type": "Alliance"
+    },
+    {
+        "from": "Jask Lumenwright",
+        "to": "Maela Scor",
+        "type": "Friendship"
+    },
+    {
+        "from": "Yevra Ashleaf",
+        "to": "Sere Vell",
+        "type": "Friendship"
+    },
+    {
+        "from": "Yevra Ashleaf",
+        "to": "Rukha Mossbank",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Yevra Ashleaf",
+        "to": "Neris Undersong",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Yevra Ashleaf",
+        "to": "Breg Tesserin",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Yevra Ashleaf",
+        "to": "Vara Keshlin",
+        "type": "neutral"
+    },
+    {
+        "from": "Yevra Ashleaf",
+        "to": "Ilara Embervein",
+        "type": "Friendship"
+    }
+]

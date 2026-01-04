@@ -1,0 +1,44 @@
+{
+    "id": "M1",
+    "title": "Heat in the Basins",
+    "quest_giver": "Jask Lumenwright",
+    "description": "Steam beads on copper lips at the Oracle Loom as threads of dyed glass hum like held breath. Jask stands with sleeves rolled past scarred forearms, eyes following the ripples you coax from a basin with one fingertip. The Loom has whispered again, not in poems but in schedules and temperatures: the Iron Cradle must be set spinning, or the Pact of First Heat will cool to ash. To begin, you must stitch a circle of trust out of frayed guild loyalties, starting with legal breath and blessed ink. Rukha Mossbank can secure smokeherb permits for trance-breaths and ration chits for your long nights, but she will want promises that proficiencies serve plates. And the Wound above the city still murmurs in heat; if you dare lean close, your chipped horn may remember the glassfall, and your jaw-mark may flare with the faintest heartbeat. The Loom’s copper sings a thin note beneath your teeth, as if answering a question you have not yet asked.",
+    "objectives": [
+        "Meet Jask Lumenwright at the Oracle Loom and receive the first harmonic pattern for the Iron Cradle.",
+        "Secure a smokeherb trance permit and two ration chits from Rukha Mossbank without indebting the Terrace-Stewards beyond reason.",
+        "Climb to Aelmyr’s Wound and use the Copper Basin Locket to listen for harmonics along a fissure.",
+        "Sketch the heat ripple-map with the Ash-Ink Stylus and mark three resonance nodes.",
+        "Return to Jask with the ripple sketches and a written pledge to keep food allotments in mind."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jask Lumenwright",
+            "text": "The basins do not sing for patience alone, apprentice. They sing for motion. We have read a pattern the Loom has kept in a sealed box of silence, and I break that seal now because time itself has begun to cool. The Iron Cradle must be made and it must not rest, not for a breath, not for a prayer. You will need smokeherb breath to hear the quiet layers and ash-ink to write without smearing the future. Go gently with the Stewards, Neris. When you bargain for heat, remember the bellies that sleep under thin blankets."
+        },
+        {
+            "speaker": "Rukha Mossbank",
+            "text": "I know the brightness in your eyes. It is the look of someone who thinks engines can do the same work as communities. They cannot, but they can help when guided by a steady hand. I will sign the trance-breath permit and slide you two ration chits, but you will come to our terraces on a Quiet Pour and carry jugs like any of us. If your work draws water away from food, I will be the first to close your taps. Do not make me do that, friend."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "I have listened to chainwheels in storm and to the Ireflow when it drums the ribs of the city. The Wound hums in a pitch that lances my jaw and shakes the scar on my horn. If there is a heartbeat in the slag, it is either memory or promise. I will treat it as both until I know which it is."
+        },
+        {
+            "speaker": "Jask Lumenwright",
+            "text": "Bring me ripples I can trust and I will give you a thread that binds engines to omens. You are walking a line between guild ledgers and the Pact’s old story. Walk it with your eyes open, and when a scribe tries to sell you a shortcut, count your fingers before and after."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        "Ember-thread pattern: First Harmonic Coil (schematic)",
+        "Smokeherb trance permit valid for three sessions",
+        "2 Ration chits from Terrace-Stewards",
+        "Reputation: + with Oracle Loom",
+        "Reputation: + with Terrace-Stewards"
+    ]
+}

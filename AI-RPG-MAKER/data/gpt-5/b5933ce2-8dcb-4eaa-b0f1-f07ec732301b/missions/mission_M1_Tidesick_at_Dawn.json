@@ -1,0 +1,46 @@
+{
+    "id": "M1",
+    "title": "Tidesick at Dawn",
+    "quest_giver": "Jilai Sunquiet",
+    "description": "The saffron-scented courtyards of the Saffron Hospice ring with bell-tree prescriptions while fever-sick boatmen gasp in oiled shade. Night fevers are climbing along the Saffron Bank, and rumors say the choral notes leaking from the Luminous Weir are stirring dreams into storms. Jilai Sunquiet asks Aren to shepherd a clinic skiff through a contentious morning at the Iron Bank wharves, where Ferrymen anger at quarantine closures simmers hot. In the pocket of a delirious child, a pitted, glassy pebble hums when wetted, echoing the river’s buried song. The Brass Menders need peace on the docks, the child needs passage, and the city needs someone who can read currents in both water and people.",
+    "objectives": [
+        "Escort a Brass Menders clinic skiff from Saffron Hospice to the Iron Bank wharves at first light.",
+        "Defuse a confrontation between quarantined Ferrymen and hospice orderlies without violence.",
+        "Identify the source of a humming pebble found in a fevered child’s pocket and secure it for study.",
+        "Deliver the humming pebble and a brief report to Sila Jor at the Concordant Archives."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jilai Sunquiet",
+            "lines": "Your hands are steady when others shake, Aren. The bell-tree says the fever climbs a rung with each tide, and the wharves bristle at our yellow pennants. I won’t ask you to break heads, only to keep them from colliding. A child came in from Lantern Bank with a stone that sang in her fist; every time water touched it, the note combed the fever in one direction, like fingers in wet hair. I hear the Weir’s song inside it. I fear where it came from."
+        },
+        {
+            "speaker": "Sava Deren",
+            "lines": "Hospice flags stop coin like a sluice stops driftwood, and my crews feed families. But I’ll not have my wharves become a plague-market either. Keep your brass tokens visible and your people respectful, and I’ll keep my poles sheathed. Tell your bell-ringers this: we remember who throws lines to the drowning. Don’t ask us to drown alongside them."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "I didn’t walk away from your guild to swing at healers, Sava, and I won’t start now. We’ll thread the skiff where tempers thin, not where they thicken. Jilai, I’ll take the child and the pebble to the Archives. If the Weir’s voice is in this stone, someone should read the score before the city starts dancing to it."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": {
+        "currency": 12,
+        "items": [
+            "Brass Menders token of passage (allows safe travel through quarantine lines)",
+            "Humming Pebble (sealed for delivery to Archives)"
+        ],
+        "reputation": {
+            "Brass Menders": 2,
+            "Silver Ferrymen": 1
+        },
+        "access": [
+            "Saffron Hospice quarantine lanes"
+        ]
+    }
+}

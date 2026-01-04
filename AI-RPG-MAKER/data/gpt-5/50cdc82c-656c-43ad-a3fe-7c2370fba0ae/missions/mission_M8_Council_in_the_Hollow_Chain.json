@@ -1,0 +1,39 @@
+{
+    "id": "M8",
+    "title": "Council in the Hollow Chain",
+    "quest_giver": "Neris Aline (Asterion Collegium)",
+    "description": "Night peels down the Chainbridge as if it were a fruit, and the pivoting panel opens on a ladder into a cavity where the river’s breath turns to a low blue fog. Joints of iron and prisms of shed crystal hold a room that has heard vows without witnesses and decisions without records. The palimpsest’s timing was true; Thane Kelvar stands there like a tide-clock with a smile, and opposite him a stern warden in Order blue whose name Lysa refuses to speak. A masked voice speaks from the fog, cut with sap-sweetness that smells of orchards; the Gardener’s splinter, or a careful echo. Their plan breathes like a forge: provoke a hum-falter, snap a few supply chains, sell a private glow while the city begs, leverage debt to bind guilds, and shush the Shard with a quieting chord. You cannot fight iron beams and fog with a barge-hook alone. You must listen, take words like evidence, and leave with your skin and the city’s chances intact.",
+    "objectives": [
+        "Use the collar cavity entrance at mid-span to infiltrate the secret council.",
+        "Eavesdrop on the plan to quiet the Shard and privatize light without revealing yourself.",
+        "Secure a token or phrase that proves Thane Kelvar’s complicity.",
+        "Escape via the maintenance ladder to the toll tower without being captured."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Thane Kelvar",
+            "lines": "Scarcity is a ship you can steer if you know where the shoals are. We do not need to drown anyone; we need only to promise them a rope at a price. The Shard is a public fountain that encourages waste. A little quiet will teach a generation the value of paid light and properly timed heat. Our ledgers will sing, and the city will thank us for our discipline."
+        },
+        {
+            "speaker": "Masked Voice",
+            "lines": "Discipline becomes cruelty the moment it forgets which branch it grows to shade. A pruning is needed, but not the cutting of the trunk. We will quiet the song, not mute it. We will ask the city to sit still and breathe. Those who thrash will be tied down with silken cord until they tire of their own noise. It is a kindness, of a sort."
+        },
+        {
+            "speaker": "Jaryn Chainwake (whispered)",
+            "lines": "A kindness that sells ropes and calls them hands is a lie a river will not carry for long. Your numbers will crack like frost glass when morning hits. I’ll bring the bell and the ring and the spring and wake the city with its own voice."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        "Evidence token: Thane’s tide-clock cipher phrase, proving he attended the illegal council.",
+        "Collegium support to act swiftly against the planned hum-falter.",
+        "Order suspicion increases against Kelvar if you share the token (story branch)."
+    ]
+}

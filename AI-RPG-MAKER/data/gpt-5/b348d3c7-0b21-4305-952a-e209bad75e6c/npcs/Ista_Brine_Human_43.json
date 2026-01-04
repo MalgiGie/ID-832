@@ -1,0 +1,68 @@
+{
+    "name": "Ista",
+    "surname": "Brine",
+    "race": "Human",
+    "age": 43,
+    "appearance": "Tall, lantern-jawed, with a braided cord sash denoting authority and a scar across the eyebrow from a thrown ledger weight.",
+    "character": "Cool under pressure, protective of staff, cynical about noble motives.",
+    "traits": [
+        "authoritative",
+        "dry-witted",
+        "decisive",
+        "observant",
+        "patient with chaos"
+    ],
+    "skills": [
+        "security cordon setup",
+        "riot de-escalation",
+        "signal coordination with hinges",
+        "lamp-fraud investigation",
+        "protocol enforcement"
+    ],
+    "talents": [
+        "reads crowd tides like water",
+        "senses when a hallway hides a listener",
+        "keeps her staff from breaking under campaign heat"
+    ],
+    "flaws": [
+        "trust issues with the Rookery",
+        "short tolerance for zealotry",
+        "bends rules to protect her own"
+    ],
+    "dreams": [
+        "professionalize Hall security beyond party influence",
+        "build trust with the Tidewright signal crews",
+        "retire with a quiet lamp in Skyline"
+    ],
+    "secrets": [
+        "Uses the mirror-passage when necessary but logs none of it",
+        "Once bought silence from a rook-handler for a friend’s scandal",
+        "Keeps a gloam-mark under her cuff from a bad dye raid"
+    ],
+    "relations": [
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Lisi Jhak",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Gantrix Pell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

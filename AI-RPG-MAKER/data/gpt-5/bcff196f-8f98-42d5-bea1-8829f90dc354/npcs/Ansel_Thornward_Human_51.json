@@ -1,0 +1,62 @@
+{
+    "name": "Ansel",
+    "surname": "Thornward",
+    "race": "Human",
+    "age": 51,
+    "appearance": "Shaved head, thorn-prick tattoo on the tongue, simple dark habit with polished spear ferrule at his belt, eyes that weigh words.",
+    "character": "Austere but compassionate, slow to anger and slower to forgive himself.",
+    "traits": [
+        "vigilant",
+        "ascetic",
+        "grave humor"
+    ],
+    "skills": [
+        "oath-reading and legal rites",
+        "spearwork",
+        "exorcism liturgy",
+        "public address"
+    ],
+    "talents": [
+        "sense for lies like a hum in his teeth",
+        "fasts for days without faltering"
+    ],
+    "flaws": [
+        "inflexible when vows are invoked",
+        "secretive",
+        "haunted by necessary compromises"
+    ],
+    "dreams": [
+        "quell the reed-thing murders without witch-hunts",
+        "prove vows can temper greed without strangling trade"
+    ],
+    "secrets": [
+        "hides a fragment of the Oathstone in a warded alcove",
+        "shelters a penitent sorcerer child beneath Black Thistle House"
+    ],
+    "relations": [
+        {
+            "npc_name": "Arelon Vale",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Brynna Coil",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Cal Tesser",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Lysa Quill",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Sula Reedmantle",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sera Verrin",
+            "relation_type": "Conflict"
+        }
+    ]
+}

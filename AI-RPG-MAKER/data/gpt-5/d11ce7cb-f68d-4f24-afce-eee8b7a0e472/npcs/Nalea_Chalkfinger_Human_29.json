@@ -1,0 +1,63 @@
+{
+    "name": "Nalea",
+    "surname": "Chalkfinger",
+    "race": "Human",
+    "age": 29,
+    "appearance": "Short and slight with chalk-stained fingertips and ink-dotted cuffs. Eyes accustomed to glow fungus light; voice never above a whisper.",
+    "character": "Careful and curious, she files every rumor and song fragment into a living index.",
+    "traits": [
+        "Observant",
+        "Soft-spoken",
+        "Conscientious",
+        "Anxious in crowds",
+        "Loyal to texts over people"
+    ],
+    "skills": [
+        "Bone-script calligraphy",
+        "Code-breaking via meter",
+        "Library navigation",
+        "Wind-harp notation transcription"
+    ],
+    "talents": [
+        "Perfect pitch for the Cairn's songs",
+        "Memorizing labyrinthine shelf paths",
+        "Finding patterns in votes by hue"
+    ],
+    "flaws": [
+        "Timid beyond the Archive",
+        "Salt-burnt fingers that ache in dry heat",
+        "Conflict-averse"
+    ],
+    "dreams": [
+        "Write a lull for the heartstone",
+        "See the Monastery saints cast dawn light",
+        "Free the Archive from factional tug-of-war"
+    ],
+    "secrets": [
+        "A drowned book page whispers only her name at night",
+        "Stole a prismatic brine counter once to test a theory",
+        "Knows a shelf that bends away from names written upon it"
+    ],
+    "relations": [
+        {
+            "npc_name": "Caur Spinekeeper",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Holl Riverborn",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Rhy Tidesong",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lur Oghrim",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Yasma Brine",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "M10",
+    "title": "Salt Gate Under",
+    "quest_giver": "Tamas Eelwick",
+    "description": "Under Salt Gate Manse, brine canals breathe like sleeping snakes, and certain culverts open to Veiled Current eddies if you know where to wait and which stone to push. Tamas brings you a lantern code that points to a midnight transfer through the hidden throat. If true, it means someone is using House Saltvein's underfloors to sluice contraband and perhaps pirate captains themselves. The culvert was a secret you carried because secrets sometimes buy more life than they cost; now the city's breath is short, and the price has changed. You will go under with a small crew, slip past guards whose sweat tastes brackish every time they swear purity under the lintel, and choose whether to expose the tunnel or leverage it to pull Serat Voss's teeth while keeping the city from starving on tariffs. The walls taste of salt and old bargains.",
+    "objectives": [
+        "Enter the Salt Gate Manse culverts via the marsh-side grate without raising an alarm.",
+        "Gather proof of clandestine transfers between the culvert and the Veiled Current eddy.",
+        "Confront Serat Voss in the brine rooms and force a confession or secure his ledger."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tamas Eelwick",
+            "content": "I dragged lantern oil through these tunnels when we were boys and thought a blackout was a magic trick, not a blade. The mark you showed me is still there, and the Current still licks at the stones like a dog that thinks it might be fed. If we do this, Tairn, we can't pretend we didn't. The city won't let us put the secret back in our pockets."
+        },
+        {
+            "speaker": "Serat Voss",
+            "content": "You're brave down here, where the walls whisper your name back to you. I don't mind. I keep ledgers straight, and sometimes straight lines find underground rivers because the surface is crowded with fools. You want my book? Take it. But understand—every entry is tied to a salt ration that kept a child from chewing bark. You pull one line wrong, and your hero's rope becomes a noose."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "content": "I don't tie knots unless I know what they hold. This ledger goes to the Archive, and we let the shells do what they were built for. If you did good with dirty hands, the shells will hush. If you hid knives in sacks of grain, they'll keen, and I won't have to say another word to make this city hear it."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        "Serat Voss’s ledger (proof item) or his sworn confession sealed by the Faith",
+        "Dockers’ Syndicate wins a small berth concession at Salt Gate for public use",
+        "Reputation: +Medium with Dockers’ Syndicate and League of Lanterns, -Medium with House Saltvein"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "M7",
+    "title": "Echoes in Bone and Ledger",
+    "quest_giver": "Archivist Lerrin Vale of the Marrow Archive",
+    "description": "The Archive’s cold lamps shed starry light across etched bone and beeswax seals. Lerrin Vale receives the eel-skin ledger with careful hands, as if it might bite. He coaxes its ink awake with moonshard glow—the letters unforget themselves, skyline of bribery in neat lines: payments to Danka Suth, to a scribe for forged seals, to ‘R. Mestri’ with an attached note, ‘Delay the breath one bell.’ Lerrin leads Aerin to the Echo Hall, where whispered names repeat hours later. He offers a memory-graft: a way to hold, for a time, the skill to read the ledger’s cipher deep; the price, as always, a cherished fragment of self. He also brings a sealed codex detailing the day Vaelor’s heart moved—from river to marsh—and a marginal prophecy naming a day when the Seat of the Hollow would be filled to save the city from its own factions. Jarik arrives mid-consultation with a Rafter’s diary torn from a dead man’s pocket, confirming the scoring marks were a signal to an insider. The shape of the plot sharpens; the choices cut.",
+    "objectives": [
+        "Submit the eel-skin ledger to the Archive and assist in decoding its cipher with moonshard light.",
+        "Review the Rafter’s diary pages Jarik Rell recovered; correlate marks with Danka Suth’s shift times.",
+        "Decide whether to accept a temporary memory-graft to learn ledger-craft faster, knowing something personal will be erased.",
+        "Obtain a certified transcript for presentation to the Vigil and Triune."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lerrin Vale",
+            "line": "We ask the bones to remember for us, and they do. We ask them to forget, and they rarely oblige. This ledger does not wish to be known, but it will tell its tale if we let the Moon speak to it. See? Here is ‘R. Mestri,’ here are the tides of coin, and here the note: ‘Delay the breath one bell.’ A city could drown in that bell."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "I have drowned in worse. If a graft will give me the cipher’s tongue, I will pay the price. I have lost a song before in these halls. I will lose another if it keeps a platform from dropping with children on it."
+        },
+        {
+            "speaker": "Jarik Rell",
+            "line": "You’re not a ledger, Aer. You’re my sister. You keep giving pieces of yourself away like spare rope. But… gods, look at this. Danka’s shift marks. The moth etch. It’s a braid. Pull one strand and the whole length goes tight."
+        },
+        {
+            "speaker": "Lerrin Vale",
+            "line": "Then we must present the braid, not a single frayed end, to Spinegate. Take this transcript. The Echo Hall will repeat our names until long after we are ash."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "Let the Echo carry us. I’ll carry this into the Hall and into the storm that follows."
+        }
+    ],
+    "connections": {
+        "previous": "M6",
+        "next": "M8"
+    },
+    "rewards": [
+        "Certified transcript of ledger and diary correlations admissible before the Triune.",
+        "Conditional access to the Oath Vault for one consultation related to the Seat of the Hollow prophecy.",
+        "Optional memory-graft (temporary) that improves cipher analysis but erases a minor cherished memory; choosing it grants increased decoding efficacy in later inquiries."
+    ]
+}

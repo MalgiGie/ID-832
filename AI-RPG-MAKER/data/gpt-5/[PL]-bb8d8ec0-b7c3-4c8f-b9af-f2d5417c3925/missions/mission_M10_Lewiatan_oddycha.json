@@ -1,0 +1,53 @@
+{
+    "id": "M10",
+    "title": "Lewiatan oddycha",
+    "quest_giver": "Lima Fal",
+    "description": "Zanim latarnia zaśpiewa jednym tonem, trzeba uspokoić serce w głębi. Lima Fal prosi Eliana o zejście jeszcze raz do komory lewiatana, tym razem z rytuałem uśmierzającym. Tira Selenitna zna ścieżki, a Rikel Stalnik – zbyt wiele faktów o 'przypadkowych' zawałach. Pośród pulsującego blasku Elian odnajduje ślady brata: słowa wyryte w kryształ, echo oddechu, który nie jest już całkiem ludzki.",
+    "objectives": [
+        "Przygotuj się do zejścia: odbierz od Neris kroplę namaszczenia i od Deleriona cichy kamerton.",
+        "Zejdź z Tirą do komory lewiatana i rozpocznij rytuał uśmierzający pod kierunkiem Limy Fal (na odległość przez echo).",
+        "Porozmawiaj z Rikelem Stalnikiem o dowodach sabotażu i jego lojalnościach.",
+        "Odnajdź ślad brata – inskrypcję w krystalicznym żebrze – i zdecyduj, czy próbować go odłączyć, czy zostawić połączenie na czas burzy.",
+        "Zbierz krystaliczny odłamek niosący głos zaginionego i wynieś go bez zakłócania rytmu serca."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lima Fal",
+            "line": "Nie wszystko, co śpi, chce się obudzić, i nie wszystko, co czuwa, pragnie patrzeć na świat. Serce w dole nie jest bestią ani świętością. Jest pamięcią morza. Przynieś mu spokój, a ono odda ci to, co może. Być może odda ci również pytanie, na które odpowiedzi jeszcze nie chcesz."
+        },
+        {
+            "speaker": "Rikel Stalnik",
+            "line": "Nie myślę o sobie jak o złym człowieku. Kazałem chłopakom stać z dala od Szybu Siódmego, bo rozkazy przyszły z góry. Zbyt wiele białych plam na mapie patroli. Jeśli pokażesz mi, że Konfederacja miała w tym palce, pójdę z tym do swoich. A jeśli masz brata w tej skale... niech decyzja będzie twoja, nie moja."
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Słyszę go. W przerwach między nutami. Nie będę zrywał nici, które trzymają cię przy oddechu, bracie, jeśli to rozerwie cię na światło i pył. Ale zabiorę ze sobą twój głos. Z nim pójdę na most, bo tam trzeba cię usłyszeć, kiedy przyjdzie burza."
+        },
+        {
+            "speaker": "Tira Selenitna",
+            "line": "Rytuał trzyma się. Kamień oddycha równo. Jeśli coś ma się dziś zerwać, to niech to będzie łańcuch, którym przywiązano nas do wydobycia bez miary. Chodźmy powoli, jakbyśmy przenosili śpiące dziecko."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Odłamek z głosem – rezonator, który wzmacnia Pieśń Zespalającą w czasie sztormu."
+        },
+        {
+            "type": "reputation",
+            "description": "Zaufanie części Legii poprzez Rikel Stalnik; mniejsze ryzyko starć w szybach."
+        },
+        {
+            "type": "insight",
+            "description": "Wiedza o sabotażu łączącym Konfederację z zawałami – nowe wątki na Radę Nadzorczą szybów."
+        }
+    ]
+}

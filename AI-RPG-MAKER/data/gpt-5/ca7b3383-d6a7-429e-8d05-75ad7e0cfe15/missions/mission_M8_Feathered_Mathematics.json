@@ -1,0 +1,45 @@
+{
+    "id": "M8",
+    "title": "Feathered Mathematics",
+    "quest_giver": "Pelyn Orinfae",
+    "description": "The Skybridge Ruins of Orin still hum in a wind that knows equations. Pelyn Orinfae tugs a scarf tight against the shear and points at a half-buried pylon where lightning snakes once nested and left the metal tasting like rain. The Feathered Gyre you need is inside, and it does not like to be touched without being told a story about weight and motion that pleases it. Vara Keshlin, seconded from the Chainwrights for the day, watches for fraying ropes and stupid bravery. Hawkweed brushes your calves as you edge onto stone that feels lighter than it should. Below, the Rift’s breath lifts a whisper from the abyss that almost sounds like your name. The pylon door groans when you speak the map-song’s quiet places, and inside the Gyre still spins very slowly, as if remembering a city in the clouds.",
+    "objectives": [
+        "Travel to the Skybridge Ruins with Pelyn Orinfae and locate the targeted buried pylon.",
+        "Bypass lightning snake nests and discharge static safely using the Feather-Gyre Calibrator.",
+        "Retrieve the Feathered Gyre core without stopping its spin and secure it in a counterweighted sling.",
+        "With Vara Keshlin, test the gyre’s response to load stories and record its preferences.",
+        "Return to Skarnhold and sign the Chainwright custody ledger for joint stewardship."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Pelyn Orinfae",
+            "text": "Orin did not build engines. They told stories to stones until the stones agreed to lift with them, and then they made those stories true with gears and feathers of iron. Speak carefully to this gyre. It listens. It will sulk if you boast and it will panic if you lie."
+        },
+        {
+            "speaker": "Vara Keshlin",
+            "text": "I have seen apprentices try to carry a gyre as if it were a bucket. Then I have seen them slide off a cliff because the gyre decided it did not like their balance. We will move as if our lives depend on our posture. They do."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "Once there was a city that tried to outgrow its own shadow. It tied bridges to the wind and counted itself light enough to tread on air. I am not asking you to lie for me, Gyre. I am asking you to help a city remember how to move without breaking its own back."
+        },
+        {
+            "speaker": "Pelyn Orinfae",
+            "text": "Good. The spin steadied when you told it the truth about our weight. Now let us tuck it in and take it home before it hears the sky calling it back."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        "Feathered Gyre core suitable for Iron Cradle",
+        "Orin load-story notes",
+        "Reputation: + with Chainwrights and Orin scholars",
+        "Access to Chainwright testing bay for assembly"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Keshan",
+    "surname": "Drook",
+    "race": "Human",
+    "age": 29,
+    "appearance": "Rope-burned hands, reef scars on calves, hair salted into tight curls; wears a pilot’s bone token carved with three safe cuts.",
+    "character": "Protective of the Glassreef, sardonic humor at shorefolk, steady in fog.",
+    "traits": [
+        "guarded",
+        "dutiful",
+        "dry-witted",
+        "superstitious"
+    ],
+    "skills": [
+        "reef piloting",
+        "quota enforcement",
+        "fog navigation by scent and sound",
+        "knife work against razor eels",
+        "signal flag reading"
+    ],
+    "talents": [
+        "feels undertow shifts through soles",
+        "near-perfect night vision",
+        "befriends skittish crews"
+    ],
+    "flaws": [
+        "quick to judge city folk",
+        "resentful of academic meddling",
+        "stubborn once resolved"
+    ],
+    "dreams": [
+        "Raise a living bridge from the Reef-Mother in his lifetime",
+        "Train a new cohort that puts the reef first"
+    ],
+    "secrets": [
+        "Maps a narrow cut to the Veiled Current and sells it once a year to fund repairs for injured harvesters",
+        "Left a pilot to drown to save a spawning bed; the shells keen in his dreams"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sorev Katch",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Tamas Eelwick",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Thalen Marr",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Caldra Imin",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Myris Khel",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

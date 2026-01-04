@@ -1,0 +1,71 @@
+{
+    "name": "Jath",
+    "surname": "Pell",
+    "race": "Human",
+    "age": 55,
+    "appearance": "Tidewarden commodore with a sea-gray beard, creased eyes, and a uniform kept immaculate save for salt at the cuffs. A horn-scar lines his jaw.",
+    "character": "Tide-stern and tired; fair within the letter of the edict; prefers clean arrests to loud victories.",
+    "traits": [
+        "disciplined",
+        "dutiful",
+        "measured",
+        "austere"
+    ],
+    "skills": [
+        "naval tactics",
+        "tide-horn drill",
+        "legal seizures under hush statutes",
+        "interrogation",
+        "crew discipline"
+    ],
+    "talents": [
+        "anticipating ambush lines on water",
+        "reading current seams from rooftop flags",
+        "standing unfazed under shouted lies"
+    ],
+    "flaws": [
+        "politically naive outside the harbor",
+        "rigid when flexibility is needed",
+        "wearied by years of rumor-control"
+    ],
+    "dreams": [
+        "standardize lighthouse lenses and codes across the bay",
+        "retire to build a quiet hull in a cove with no bells",
+        "keep the city from ever knowing the hush of the Surge again"
+    ],
+    "secrets": [
+        "keeps a hidden ledger of bribes offered to his crews for leverage if the Court fractures",
+        "suppressed a cracked-lens incident report to avoid panic",
+        "once let a Syndicate skiff go to prevent a bloodbath"
+    ],
+    "relations": [
+        {
+            "npc_name": "Miren Nine-Ropes",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Kema Hookhand",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orven Caldris",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sall Brass",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Nhal Vessin",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Arla Third-Tone",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Shunn Rippleborne",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

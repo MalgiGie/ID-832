@@ -1,0 +1,346 @@
+{
+    "city": "Kaledra Bazaltowa to miasto wyciosane w czarnej skale nad Zatoką Krzemienną, rozpięte na siedmiu tarasach połączonych dźwigami kołowrotowymi i mostami wspornikowymi. Z dołu słychać jęk łańcuchów i szum przypływu, z góry cykliczny dzwon kołkowych zegarów mierzących rytm marek i handlu. Miasto żyje szkłem ze smoczego piasku, rybami z chłodnych prądów oraz cichym handlem z mglistych wysp, gdzie powstają barwniki i sól. Rada Segmentów, złożona z przedstawicieli tarasów i domów kupieckich, spiera się o każdy łokieć nabrzeża, a nad radą czuwa, lub udaje że czuwa, namiestnik królewski zajęty bardziej ceremonią niż rządzeniem. Po zmroku kanały rozświetlają algowe lampy, a w ich blasku suną łodzie lampników, kurierów i przemytników. W święta mieszkańcy puszczają po wodzie szklane łódeczki, prosząc Matkę Przypływów o spokojne morze i pełne sieci. Na tarasie szklarskim huczą piece, gdzie smoczy piasek łączy się z selenitem wydobywanym w górach, tworząc tafle o niemal żywej poświacie. Strzegą porządku ciężkozbrojni legioniści obsydianowi, którym płaci skarb miejski i domy kupieckie, a moralnej pieczy pilnuje Zakon Wiru i Przypływu, przypominając, że morze zabiera tak łatwo, jak daje. Miasto pamięta zbuntowanych cieśli i ich powieszone kotwice, pamięta też noc, gdy rozszczepiona latarnia oświetliła widmo floty, co nie nadeszła. Dziś Kaledra stoi na rozdrożu między odbudową a rabunkową eksploatacją, między wiarą a rachunkiem, a cienie z zaułków słuchają uważniej niż strażnicy na blankach.",
+    "surroundings": [
+        {
+            "name": "Latarnia Rozszczepiona na Przylądku Łez",
+            "description": "Wysoka wieża pęknięta od szczytu po fundament, jej szklany pryzmat rozsyła trzy niezsynchronizowane snopy światła, które tną mgłę jak ostrza. Klify pod nią są usiane resztkami rozbitych kadłubów, a na tarasie zachodnim wciąż kręci się zardzewiały wiatrowskaz o kształcie węża morskiego.",
+            "history": "Zbudowana przez ród Morawów dwieście lat temu, utraciła spójność podczas Grzmotorodnej Burzy sprzed pięćdziesięciu trzech lat, kiedy piorun trafił w pryzmat i rozszczepił go na trzy części. Od tej pory latarnia raz ostrzega, raz zwodzi, a mówi się, że tej nocy widziano w zatoce widmową armadę, która odpłynęła, bo nie rozpoznała światła portu.",
+            "secrets": "W podziemiach kryje się komora pryzmatyczna powiązana z żyłami selenitu; odpowiedni śpiew potrafi dostroić promień latarni do ukrytych znaków na wodzie. Zakon Wiru i Przypływu uważa komorę za relikwiarz, a Gildia Szklarek Smoczego Piasku pragnie ją wykorzystać do nawigacji po mgle.",
+            "hooks": "Rozbitkowie opowiadają o świetle, które pożera żagle; stary latarnik podobno zna pieśń, która potrafi zespolić rozszczepione snopy w jeden. W niepogodę Chór Cieni wysyła sygnały z galerii latarni, prowadząc zaprzyjaźnione statki bez podatków.",
+            "connections": [
+                "Zakon Wiru i Przypływu",
+                "Gildia Szklarek Smoczego Piasku",
+                "Chór Cieni",
+                "Legia Obsydianu"
+            ]
+        },
+        {
+            "name": "Bagna Szeptów",
+            "description": "Szeroka równina trzcin, sitowia i solnych rozlewisk, gdzie wiatr niesie echa rozmów, których nikt nie wypowiedział. Pośród kopców błotnych migną stare pomosty i porzucone kapliczki, a białe czaple śledzą intruzów z nienaturalną uwagą.",
+            "history": "Miejsce ostatniej bitwy Płaszczowego Powstania, gdy legioniści zepchnęli buntowników w odmęty i zatopili ich w błocie wraz z chorągwiami. Odtąd mówi się, że bagna pamiętają ostatnie oddechy i powtarzają je każdemu, kto zabłądzi.",
+            "secrets": "W rdzeniu bagien znajduje się pływający głaz z runami Ankorytów Wiatru, który porusza się zgodnie z cyklem przypływów. Matka Korala z Chóru Cieni ukrywa tu skrytki towarowe, a Zakon Wiru wysyła nowicjuszy, by wysłuchiwali szeptów jako część pokuty.",
+            "hooks": "Kupcy z Konfederacji Siódemułów stracili w bagnach karawanę soli ze stepów, a ukryta ścieżka suchych kęp pojawia się tylko przy określonym układzie wiatru i księżyca. Wódz dawnego powstania podobno zostawił zwoje, które mogą oczernić Legię Obsydianu.",
+            "connections": [
+                "Chór Cieni",
+                "Legia Obsydianu",
+                "Konfederacja Siódemułów",
+                "Zakon Wiru i Przypływu"
+            ]
+        },
+        {
+            "name": "Zawieszone Arkady Niebomostu",
+            "description": "Pozostałości mostu spinającego dwa bazaltowe klify, dziś to tylko seria półkolistych arkad zwisających nad przepaścią, porośniętych wiszącymi ogrodami. W wietrzne dni kamień wydaje jęki, a z arkad spadają sznury dzikich winorośli tworzące miękkie zasłony.",
+            "history": "Wzniosły go Ankoryci Wiatru w czasach przed Kaledrą, a rozbudowali bazaltowi cieśle, gdy miasto zaczęło rosnąć w górę. Gdy finansowanie z Rady Segmentów ustało, centralne przęsło runęło, zabierając z sobą wyrzeźbione sylfy i kilka wozów. Od tego czasu Niebomost stał się ścieżką dla odważnych i zdesperowanych.",
+            "secrets": "Runy w kamieniu reagują na burzowy ładunek i potrafią uczynić kamień lżejszym, a Bractwo Bazaltowych Cieśli ma szkic planu przywrócenia przęsła. Chór Cieni posługuje się arkadami jako punktem przerzutowym, a Legia Obsydianu rozważa wysadzenie reszty, by odebrać przewagę przemytnikom.",
+            "hooks": "Rzemieślnicy szukają patrona dla odbudowy, obiecując darmowy przejazd przez dekadę. W zawietrznej niszy podobno spoczywa skrzynia ze szkłem, które nie tłucze się przy upadku. Podczas sztormów coś świeci w szczelinach, jakby wzywając imieniem zaginionego mistrza.",
+            "connections": [
+                "Bractwo Bazaltowych Cieśli",
+                "Chór Cieni",
+                "Legia Obsydianu",
+                "Konfederacja Siódemułów"
+            ]
+        },
+        {
+            "name": "Szyby Selenitowe pod Wiatrzecami",
+            "description": "Kompleks kopalń w chłodnych wąwozach, gdzie ściany iskrzą mleczną poświatą. Powietrze drży od niskiego pomruku, jakby skała śpiewała, a wodne żyły odbijają światło w nieskończone horyzonty.",
+            "history": "Odkryte, gdy górnicy śledzili świetliki chowające się w szczelinach, szybko stały się łakomym kąskiem domów kupieckich. Konfederacja wydzierżawiła najbardziej zasobne szyby, dopuszczając Szklarki tylko jako wykonawców, co wywołało cichy sabotaż i strajki.",
+            "secrets": "Głęboko pod szybem Siódmym spoczywa skamieniały szkielet lewiatana z krystalicznym sercem, które pulsuje w rytmie przypływu. Zakon Wiru uznaje go za boskie znamię, a Gildia Szklarek pragnie z niego uzyskać szkło żywe. Legia postawiła kordony, ale nocą słychać śpiew, który usypia straże.",
+            "hooks": "Zawał odciął grupę górników wraz z mistrzem hartowania selenitu, a jedyny plan korytarzy znajduje się w Skryptorium Przypływów. Konfederacja szuka winnych sabotażu, oferując nagrody oraz ciche ułaskawienia.",
+            "connections": [
+                "Gildia Szklarek Smoczego Piasku",
+                "Konfederacja Siódemułów",
+                "Legia Obsydianu",
+                "Zakon Wiru i Przypływu",
+                "Bractwo Bazaltowych Cieśli"
+            ]
+        },
+        {
+            "name": "Gaj Pustych Dębów",
+            "description": "Petryfikowane pnie dawnych dębów stoją jak organy, wydając głębokie tony, gdy wieje znad morza. W próchnie zachowały się komnaty, w których rosną fosforyzujące grzyby, a w korzeniach kryją się jaskinie o ścianach jak lustrzane szkło.",
+            "history": "Kiedyś święty las dawnego kręgu druidów, zgaszonego przez pierwszych kapłanów Wiru, którzy zalali polanę słoną wodą, by przerwać rytuały. Od tej pory gaj jest miejscem niechęci starszych rodów do nowej wiary oraz azylem dla wygnańców.",
+            "secrets": "W sercu gaju stoi kamień nasienny, który pije sól z powietrza i rodzi szkło drzewne, twarde jak obsydian. Chór Cieni ukrywa w gaju księgi z czarnymi listami dłużników, a Konfederacja woli udawać, że ich nie widzi.",
+            "hooks": "Pasterze z Ogrodowego Tarasu słyszą nocą pieśni, które pasą ich stada jak dłonie niewidzialnych żeglarzy. Zaginione dziecko rzekomo weszło w pień i nie wyszło. Zakon rozważa zbudowanie tu kaplicy przebłagalnej, co może wywołać bunt rzemieślników pamiętających stare czasy.",
+            "connections": [
+                "Chór Cieni",
+                "Konfederacja Siódemułów",
+                "Zakon Wiru i Przypływu"
+            ]
+        },
+        {
+            "name": "Płaczące Schody w Słonych Stepach",
+            "description": "Pradawny schodkowy zdrój wykuty w solnym płaskowyżu, którego ściany spływają cienkimi strużkami wody niczym łzy. W południe wszystko bieleje, a o zmierzchu schody świecą bladą poświatą.",
+            "history": "Było to miejsce neutralnych zgromadzeń karawan, gdzie zawierano przysięgi na wodę, zanim do Kaledry przybyły pierwsze domy kupieckie. Ostatnimi laty Legia pobiera opłaty za bezpieczeństwo, co zamroziło stare zwyczaje.",
+            "secrets": "Dno skrywa niszę, gdzie echo odpowiada w językach, których nikt nie zna. Wrzucenie monety ze szkła selenitowego podobno odsłania możliwą przyszłość, ale na koszt równoważnej utraty wspomnienia.",
+            "hooks": "Karawaniarze proszą o pośrednictwo w rozmowach z Legią, bo napady szlakowych band znikają, gdy płacą więcej niż za towar. Gildia Szklarek wysłała cichy oddział, by odzyskać poświęcony obrzędowy kielich ze szkła, skradziony na schodach w zeszłym roku.",
+            "connections": [
+                "Legia Obsydianu",
+                "Konfederacja Siódemułów",
+                "Gildia Szklarek Smoczego Piasku"
+            ]
+        }
+    ],
+    "buildings": [
+        {
+            "name": "Dom Segmentów",
+            "type": "ratusz",
+            "location": "Taras Szczytowy",
+            "description": "Monolityczny gmach o fasadzie z bazaltu z wtrętami selenitu, w którym światło rozpada się na cuda i zdrady. W środku sala obrad z siedmioma pulpitami i okrągłym oknem, przez które widać morze i statki oczekujące na decyzje rady.",
+            "owner": "Rada Segmentów",
+            "faction": "Konfederacja Siódemułów",
+            "secrets": "Pod podłogą sali istnieje system skrzyń akustycznych, które wzmacniają głos przewodniczącego i tłumią oponentów. W cichych niszach ukryto skrytki na koperty z darowiznami od domów kupieckich i plan prywatyzacji dźwigów.",
+            "hooks": "Cieśle chcą wprowadzić delegację robotniczą na obrady w sprawie odbudowy Niebomostu. Chór Cieni oferuje podsłuch rady, jeśli ktoś przerzuci dla nich skrzynie przez strażników.",
+            "related_factions": [
+                "Konfederacja Siódemułów",
+                "Bractwo Bazaltowych Cieśli",
+                "Legia Obsydianu",
+                "Chór Cieni"
+            ]
+        },
+        {
+            "name": "Bazylika Wiru",
+            "type": "świątynia",
+            "location": "Taras Ogrodowy",
+            "description": "Świątynia o spiralnych nawach, w których woda przepływa kanałami pod posadzką i szepcze w filarach. Z sufitu zwisają muszlowe żyrandole, a na ołtarzu pulsuje selenitowe serce, przywiezione podobno z dna zatoki.",
+            "owner": "Zakon Wiru i Przypływu",
+            "faction": "Zakon Wiru i Przypływu",
+            "secrets": "Pod kaplicą boczną znajduje się kryjówka relikwii, w tym laska Ankoryty Wiatru, która uspokaja sztormy. Przeorysza negocjuje ciche porozumienie z Szklarkami dotyczące rhytmu wydobycia, nie informując Rady.",
+            "hooks": "Ktoś kradnie wodę z kanałów pod bazyliką, a z nią znika błogosławieństwo przypływu. Kapłani proszą o subtelność, bo boją się skandalu przed Świętem Siedmiu Kotwic.",
+            "related_factions": [
+                "Zakon Wiru i Przypływu",
+                "Gildia Szklarek Smoczego Piasku",
+                "Legia Obsydianu"
+            ]
+        },
+        {
+            "name": "Hala Szklista",
+            "type": "targ i cechownia",
+            "location": "Taras Szklarski",
+            "description": "Rozległy zespół pieców, warsztatów i stołów lśniących od odłamków szkła. W powietrzu unosi się zapach popiołu, a mistrzowie rysują w powietrzu rozgrzanymi prętami znaki niewidoczne dla niewprawnego oka.",
+            "owner": "Gildia Szklarek Smoczego Piasku",
+            "faction": "Gildia Szklarek Smoczego Piasku",
+            "secrets": "Pod płytami hali kryje się studnia chłodząca z dopływem z zatoki, w której zatopiono kilka prób szkła żywego, wciąż reagujących na pieśni. Arcymistrz utrzymuje miniaturową kuźnię pryzmatów do kodowania wiadomości.",
+            "hooks": "Zaginęła receptura zielonego szkła przeciwitrowego, a za jej odzyskanie obiecano dzieło życia w zamian. Nowy czeladnik ma talent do słyszenia selenitu i ktoś próbuje go wykupić z gildii.",
+            "related_factions": [
+                "Gildia Szklarek Smoczego Piasku",
+                "Konfederacja Siódemułów",
+                "Bractwo Bazaltowych Cieśli",
+                "Chór Cieni"
+            ]
+        },
+        {
+            "name": "Wieża Grot",
+            "type": "arsenał i koszary",
+            "location": "Taras Dźwigowy",
+            "description": "Surowa baszta o ścianach nakrapianych połyskliwym obsydianem, pełna wyrzutni, kusz ciężkich i magazynów haków do przechwytywania lin. Dźwigi portowe są tu zabezpieczane i plombowane przed nocą.",
+            "owner": "Skarb miejski",
+            "faction": "Legia Obsydianu",
+            "secrets": "W najniższej kondygnacji znajduje się niewpisany do ewidencji skarbiec łupów i dowodów, do którego klucze mają tylko komendant i jedno z domów kupieckich. Przechowywana jest tu też mapa patroli, która zdradza dziwne białe plamy ochrony.",
+            "hooks": "Znikają haki groty, a wraz z nimi statki tracą sprzęt ratowniczy. Legia szuka winnych poza domem, ale wszystko wskazuje na sabotaż wewnątrz. Ktoś prosi o zdjęcie fałszywego oskarżenia z brata posterunkowego.",
+            "related_factions": [
+                "Legia Obsydianu",
+                "Konfederacja Siódemułów",
+                "Chór Cieni"
+            ]
+        },
+        {
+            "name": "Pod Osiemdziesięcioma Kotwicami",
+            "type": "gospoda i karczma",
+            "location": "Taras Kotwiczny",
+            "description": "Rozległa tawerna o belkach obwieszonych starymi kotwicami, z salą hazardową w bocznej kajucie i sceną dla pieśniarzy morskich. Zapach smażonych węgorzy miesza się tu z solą i winem.",
+            "owner": "Maera Buławka",
+            "faction": "Bractwo Bazaltowych Cieśli",
+            "secrets": "W piwnicy znajduje się zejście do kanału odpływowego, którym można dotrzeć aż pod Hala Szklistą. Maera utrzymuje rozliczenia dla Chóru Cieni w zeszycie bez cyfr, zapisanym szklanymi kroplami.",
+            "hooks": "Do portu przybił marynarz z tatuażem mapy Niebomostu, który chce ją sprzedać, zanim Legia go przesłucha. Stara kotwica z herbu Płaszczowego Powstania zaczyna rdzewieć inaczej niż inne i kapie z niej zielone szkło.",
+            "related_factions": [
+                "Bractwo Bazaltowych Cieśli",
+                "Chór Cieni",
+                "Legia Obsydianu"
+            ]
+        },
+        {
+            "name": "Skryptorium Przypływów",
+            "type": "biblioteka i archiwum",
+            "location": "Taras Mnisi",
+            "description": "Ciche sale pełne tablic pływów, map gwiezdnych i dzienników latarników, z oknami otwartymi na śpiew morza. Atrament sporządza się z alg, dzięki czemu litery lśnią delikatnie w ciemności.",
+            "owner": "Zakon Wiru i Przypływu",
+            "faction": "Zakon Wiru i Przypływu",
+            "secrets": "W zakazanym magazynie spoczywa atlas Niebomostu z komentarzami Ankorytów i korektami współczesnych cieśli. Przeorysza ukryła tu też listy od przewodniczącego Konfederacji, obiecujące fundusze na restaurację za poparcie moratorium wydobywczego.",
+            "hooks": "Nocą z map znikają linie torów wodnych i pojawiają się nowe, prowadzące pod Latarnię Rozszczepioną. Nowicjusz, który przepisywał księgę, stracił pamięć o całym tygodniu.",
+            "related_factions": [
+                "Zakon Wiru i Przypływu",
+                "Konfederacja Siódemułów",
+                "Bractwo Bazaltowych Cieśli"
+            ]
+        },
+        {
+            "name": "Dom Lampników",
+            "type": "cechownia",
+            "location": "Taras Nabrzeżny",
+            "description": "Drewniany dom na palach nad kanałem, gdzie suszą się pęczki świecących alg, a łodzie mają uchwyty na latarnie z żywym światłem. W środku sala wspólna z mapą podwodnych prądów narysowaną na szkle.",
+            "owner": "Mistrz lampnik Jodan Piżmowy",
+            "faction": "Bractwo Bazaltowych Cieśli",
+            "secrets": "Lampnicy odkryli nowy szczep alg dający światło w barwie, która nie przyciąga komarów ani strażników. W piwnicy trzymają klatki z małymi stworami zwanymi łuniki, które wzmacniają blask.",
+            "hooks": "Ktoś podpala suszarnie w noc mgły, a Chór Cieni chce wykorzystać chaos do przerzutu. Lampnicy rozpaczliwie szukają ochrony i oferują mapę ukrytych kanałów.",
+            "related_factions": [
+                "Bractwo Bazaltowych Cieśli",
+                "Chór Cieni",
+                "Legia Obsydianu",
+                "Gildia Szklarek Smoczego Piasku"
+            ]
+        }
+    ],
+    "politics": [
+        {
+            "name": "Bractwo Bazaltowych Cieśli",
+            "type": "cech budowniczych i dokerów",
+            "leader": "Mistrzyni Orla Krawężna",
+            "goals": [
+                "Odbudowa Niebomostu i modernizacja dźwigów miejskich",
+                "Zwiększenie udziału robotników w Radzie Segmentów",
+                "Bezpieczne warunki pracy w portach i kopalniach"
+            ],
+            "methods": [
+                "Strajki kontrolowane i blokady nabrzeża",
+                "Mistrzowskie inwestycje w projekty publiczne",
+                "Umowy pod stołem z karczmarzami i lampnikami"
+            ],
+            "resources": "Brygady doświadczonych cieśli, plany konstrukcyjne, kontakty wśród lampników i karczmarzy, sieć warsztatów na trzech tarasach",
+            "allies": [
+                "Chór Cieni",
+                "Zakon Wiru i Przypływu"
+            ],
+            "enemies": [
+                "Konfederacja Siódemułów",
+                "Legia Obsydianu"
+            ],
+            "current_agenda": "Przepchnięcie uchwały o odbudowie Niebomostu z finansowaniem publiczno cechowym i klauzulą przejścia dla pieszych bez opłat.",
+            "tensions": "Konfederacja forsuje prywatyzację dźwigów, a Legia delegalizuje zgromadzenia robotnicze na Tarasie Dźwigowym."
+        },
+        {
+            "name": "Gildia Szklarek Smoczego Piasku",
+            "type": "cech rzemieślniczy i alchemiczny",
+            "leader": "Arcymistrz Delerion Ognikowy",
+            "goals": [
+                "Monopol na przetwarzanie selenitu i eksport szkła żywego",
+                "Zastąpienie latarni i znaków nawigacyjnych systemem pryzmatycznym",
+                "Wzmocnienie pozycji w Radzie Segmentów kosztem domów kupieckich"
+            ],
+            "methods": [
+                "Patenty i tajemnice warsztatowe",
+                "Dyplomacja przez prezenty z rzadkiego szkła",
+                "Sabotaż pieców konkurencji i wykup zdolnych czeladników"
+            ],
+            "resources": "Piece o regulowanym oddechu, warsztat pryzmatów, składy smoczego piasku, umowy z karawanami stepowymi",
+            "allies": [
+                "Bractwo Bazaltowych Cieśli"
+            ],
+            "enemies": [
+                "Konfederacja Siódemułów",
+                "Legia Obsydianu"
+            ],
+            "current_agenda": "Uzyskanie dostępu do komory pryzmatycznej pod Latarnia Rozszczepioną i zalegalizowanie eksperymentów w Bazylika Wiru.",
+            "tensions": "Zakon grozi wstrzymaniem błogosławieństw dla nowych pieców, a Konfederacja wprowadza cła na surowy selenit."
+        },
+        {
+            "name": "Konfederacja Siódemułów",
+            "type": "związek domów kupieckich",
+            "leader": "Przewodniczący Vasko Danter",
+            "goals": [
+                "Prywatyzacja dźwigów portowych i głównych nabrzeży",
+                "Kontrola koncesji na wydobycie selenitu",
+                "Zdławienie wpływów cechów w Radzie Segmentów"
+            ],
+            "methods": [
+                "Kredyty uzależniające i wykup długów",
+                "Lobbying i darowizny polityczne",
+                "Kontrakty ochronne z Legią Obsydianu"
+            ],
+            "resources": "Flotylla magazynowców, sieć agentów w karawanach, wpływy w skarbcu miejskim, prywatne składy zboża i soli",
+            "allies": [
+                "Legia Obsydianu"
+            ],
+            "enemies": [
+                "Bractwo Bazaltowych Cieśli",
+                "Gildia Szklarek Smoczego Piasku",
+                "Chór Cieni"
+            ],
+            "current_agenda": "Przepchnięcie pakietu portowego i nowego cła na wyroby szklarskie, a także zamknięcie części Niebomostu z powodów rzekomego bezpieczeństwa.",
+            "tensions": "Na jaw wychodzą czarne księgi z Gaju Pustych Dębów, które mogą obciążyć kilku seniorów domów kupieckich lichwą i szantażem."
+        },
+        {
+            "name": "Chór Cieni",
+            "type": "siatka informatorów i przemytników",
+            "leader": "Matka Korala",
+            "goals": [
+                "Utrzymanie otwartych ścieżek w mieście i na wodzie, poza wzrokiem Legii",
+                "Zbalansowanie wpływów domów kupieckich i cechów przez selektywne wycieki",
+                "Zabezpieczenie skrytek i szlaków w bagnach i pod miastem"
+            ],
+            "methods": [
+                "Szyfry pryzmatyczne i sygnały latarni",
+                "Przerzuty przez Niebomost i kanały odpływowe",
+                "Ciche usługi dla kapłanów i rzemieślników"
+            ],
+            "resources": "Skrytki w Gaju Pustych Dębów i Latarnia Rozszczepionej, siatka karczm i lampników, długi wdzięczności wśród straży niskiego stopnia",
+            "allies": [
+                "Bractwo Bazaltowych Cieśli"
+            ],
+            "enemies": [
+                "Legia Obsydianu",
+                "Konfederacja Siódemułów"
+            ],
+            "current_agenda": "Zebranie materiałów kompromitujących seniorów Konfederacji i wynegocjowanie strefy wolnego handlu na Tarasie Kotwicznym.",
+            "tensions": "Kilku kurierów zniknęło na Schodach Płaczących, a Legia rozstawiła punkty kontrolne przy Domu Lampników."
+        },
+        {
+            "name": "Zakon Wiru i Przypływu",
+            "type": "kapłani i opiekunowie pływów",
+            "leader": "Przeorysza Lima Fal",
+            "goals": [
+                "Ochrona sacrum morza i miejsc nasyconych selenitem",
+                "Regulacja rytmu wydobycia, by nie obudzić tego, co śpi w wodzie",
+                "Zachowanie neutralności świątyń wobec sporów politycznych"
+            ],
+            "methods": [
+                "Kazania, procesje i błogosławieństwa dla flot",
+                "Arbitraż w sporach o wodę i nabrzeża",
+                "Ukryte mediacje i ciche układy z cechami"
+            ],
+            "resources": "Sieć kaplic w mieście i na szlakach, skryptorium z mapami pływów, relikwie Ankorytów Wiatru, wpływy wśród rybaków",
+            "allies": [
+                "Bractwo Bazaltowych Cieśli"
+            ],
+            "enemies": [
+                "Legia Obsydianu"
+            ],
+            "current_agenda": "Wymuszenie moratorium na najgłębsze szyby selenitowe do czasu zbadania lewiatana i przeprowadzenia rytuałów uśmierzających.",
+            "tensions": "Legia oskarża Zakon o podburzanie robotników, a wierni domagają się jednoznacznego potępienia Konfederacji."
+        },
+        {
+            "name": "Legia Obsydianu",
+            "type": "gwardia miejska i najemnicy",
+            "leader": "Komendant Serad Głaz",
+            "goals": [
+                "Utrzymanie porządku portowego i bezpieczeństwa nabrzeży",
+                "Zabezpieczenie interesów skarbca i kontraktów ochronnych",
+                "Rozszerzenie jurysdykcji na Schody Płaczące i Szyby Selenitowe"
+            ],
+            "methods": [
+                "Patrole ciężkozbrojne, blokady i kontrole",
+                "Pobór opłat ochronnych i licencji",
+                "Operacje siłowe przeciw Chórowi Cieni i strajkom"
+            ],
+            "resources": "Zbrojownie w Wieży Grot, magazyny konfiskat, oddziały łucznicze i kusznicy, flotyllę łodzi patrolowych",
+            "allies": [
+                "Konfederacja Siódemułów"
+            ],
+            "enemies": [
+                "Chór Cieni",
+                "Bractwo Bazaltowych Cieśli",
+                "Zakon Wiru i Przypływu"
+            ],
+            "current_agenda": "Wprowadzenie stanu podwyższonej gotowości w tarasach niskich i wymuszenie opłat na karawanach korzystających z Płaczących Schodów.",
+            "tensions": "Szeregowi legioniści są skłóceni rozkazami a sumieniem, a dowództwo rozważa pokaz siły na Niebomoście, co może wywołać rozruchy."
+        }
+    ]
+}

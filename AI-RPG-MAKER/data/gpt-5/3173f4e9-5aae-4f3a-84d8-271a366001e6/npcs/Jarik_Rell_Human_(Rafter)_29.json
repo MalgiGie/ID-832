@@ -1,0 +1,66 @@
+{
+    "name": "Jarik",
+    "surname": "Rell",
+    "race": "Human (Rafter)",
+    "age": 29,
+    "appearance": "Lean rigger with a missing pinky, a tarred sash, and a charm of red 'blood pearl' glass tied to his belt.",
+    "character": "Brave, proud, suspicious.",
+    "traits": [
+        "hardworking",
+        "loyal to crew",
+        "superstitious",
+        "headstrong"
+    ],
+    "skills": [
+        "knotcraft",
+        "cable riding",
+        "flag signaling",
+        "rescue rigging"
+    ],
+    "talents": [
+        "feels wind shifts in his knees",
+        "untangles lines at speed",
+        "stays calm while dangling over the void"
+    ],
+    "flaws": [
+        "blames Lanterns without proof",
+        "gambling habit",
+        "resentful of inspectors"
+    ],
+    "dreams": [
+        "prove himself to Gor Relk",
+        "avenge the dead riggers",
+        "earn a foreman's chain"
+    ],
+    "secrets": [
+        "accepted coin to look away one night",
+        "saw a guildmate score a cable",
+        "keeps a hidden clutch key copy"
+    ],
+    "relations": [
+        {
+            "npc_name": "Gor Relk",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Thia Mol",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sera Dake",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Roa Mestri",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Sorn Ilt",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Serene",
+    "surname": "Khel",
+    "race": "human",
+    "age": 68,
+    "appearance": "Tall in salt-gray robes, head shaved, ink-bright eyes; ember-ink glows faintly along her wrist scars.",
+    "character": "Composed and exacting; kindness meted by measure and covenant.",
+    "traits": [
+        "patient",
+        "devout",
+        "incorruptible in public",
+        "scholarly"
+    ],
+    "skills": [
+        "memory rites",
+        "oath arbitration",
+        "truth-lit transcription",
+        "legal precedent recitation",
+        "witness reconstruction"
+    ],
+    "talents": [
+        "still a crowd with a gaze",
+        "recall entire oaths word-perfect",
+        "sense forged recollections in silence"
+    ],
+    "flaws": [
+        "doctrinaire",
+        "underestimates hunger and anger",
+        "slow to forgive institutional slights",
+        "secretive about Mnemos scandals"
+    ],
+    "dreams": [
+        "recover the lost covenants of Ashwell and cleanse the city archives",
+        "bind Whisperfen’s renegade echoes back into lawful keeping",
+        "teach a new generation to tithe fairly"
+    ],
+    "secrets": [
+        "traded three days of her own memory to seal a riot amnesty",
+        "knows the Gate Crown’s heart-cog hum answers the Basilica’s shard",
+        "has a list of clerks who siphon days, but revealing it would break faith"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sel Corvane",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Maris Veyron",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Alion Mareth",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Tallen Quill",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Brask Ilyne",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Keth Borrowed-Tongue",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

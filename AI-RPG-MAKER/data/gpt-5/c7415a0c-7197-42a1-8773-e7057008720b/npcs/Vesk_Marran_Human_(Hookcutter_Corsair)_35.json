@@ -1,0 +1,67 @@
+{
+    "name": "Vesk",
+    "surname": "Marran",
+    "race": "Human (Hookcutter Corsair)",
+    "age": 35,
+    "appearance": "Moon-iron earring, sharkhide vest, sun-cracked lips, one eye milk-pale on moonless nights from iron dust.",
+    "character": "Cocky, mercurial, and too quick to draw a blade when bored.",
+    "traits": [
+        "audacious",
+        "superstitious",
+        "magnetic",
+        "impatient"
+    ],
+    "skills": [
+        "knife fighting",
+        "reef-channel piloting",
+        "tribute haggling",
+        "silent swimming",
+        "contraband scouting"
+    ],
+    "talents": [
+        "reads surf to find hidden cuts through reef",
+        "disappears in moonlit lagoons",
+        "terrifies with a grin alone"
+    ],
+    "flaws": [
+        "impulsive risk-taking",
+        "fears his memory slips when wearing moon-iron too long",
+        "easily bored and provoked"
+    ],
+    "dreams": [
+        "Lead the Hookcutters outright",
+        "Force better tribute terms without blood",
+        "Retire with enough coin to forget bad tides"
+    ],
+    "secrets": [
+        "Occasionally takes coin from Selka’s envoys to ‘cool’ demands",
+        "Has a child in Dorsalhaven he visits in disguise",
+        "Night-blindness grows worse; he hides it from his crew"
+    ],
+    "relations": [
+        {
+            "npc_name": "Neth Cowl",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Selka Vire",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Osric Greyfen",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Garrik Shale",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Irio Mossvane",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Pera Ilem",
+            "relation_type": "neutral"
+        }
+    ]
+}

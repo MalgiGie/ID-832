@@ -1,0 +1,71 @@
+{
+    "name": "Ketta",
+    "surname": "Brineshaw",
+    "race": "Human",
+    "age": 31,
+    "appearance": "Neat bun under a brimmed cap, spectacles on a brass chain, ink-stained fingers and a tongue slightly discolored from too many Oathwell tastings.",
+    "character": "Diligent and fair, with a skeptic’s eyebrow and a clerk’s quiet courage.",
+    "traits": [
+        "meticulous",
+        "skeptical",
+        "conscientious",
+        "dogged"
+    ],
+    "skills": [
+        "tariff and ledger auditing",
+        "seal and pass verification",
+        "interviewing with gentle pressure",
+        "document design resistant to forgery"
+    ],
+    "talents": [
+        "spots mismatched salt-grain in forged inks",
+        "builds memory palaces of cargo weights",
+        "swims in heavy robes without panic"
+    ],
+    "flaws": [
+        "anxious before superiors",
+        "self-doubt when cases go public",
+        "tunnel vision on paperwork",
+        "fear of open sea swells"
+    ],
+    "dreams": [
+        "Break the forged-pass ring undermining Brinelaw",
+        "Modernize licensing with tide-locked sigils",
+        "One day take the High Bailiff’s bench"
+    ],
+    "secrets": [
+        "Forged a single pass years ago to save a debtor family from prison",
+        "Quietly colludes with Irio to flag suspect shipments without alerting smugglers",
+        "Her missing father was a bailiff last seen near the Salt Widow’s Lighthouse"
+    ],
+    "relations": [
+        {
+            "npc_name": "Osric Greyfen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Selka Vire",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Neth Cowl",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Irio Mossvane",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Pera Ilem",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Garrik Shale",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Siala Nerm",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

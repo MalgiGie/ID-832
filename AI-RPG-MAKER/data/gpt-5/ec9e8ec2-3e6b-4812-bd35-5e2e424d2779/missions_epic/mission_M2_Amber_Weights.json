@@ -1,0 +1,70 @@
+{
+    "id": "M2",
+    "title": "Amber Weights",
+    "quest_giver": {
+        "name": "Caldra Imin",
+        "affiliation": "Order of Brine-Scribes"
+    },
+    "description": "Marinth Vell hums like a struck rim of glass when the tide draws breath, and today the note is uneasy. The Order of Brine-Scribes has felt it first, in the faint lightness of salt slabs that should anchor law like ballast and in the way the Beacon of Myr Sal has keened on clear skies as if a lie were walking the quays. Archivist-calved scribe Caldra Imin seeks your shadow at her side because your name stands straight where scales are concerned and because your hook-hand knows levers and doors as well as it knows rescues. Together you must pass through the honey-lacquered corridors of the Amber Vaults and along the brine-threaded halls of Salt Gate Manse, where coins sleep in resin and debts wear perfume and steel. House Saltvein will watch with salt-white guards and smiling courtesies, for their tariffs are the wind that fills or empties bellies in this city and they do not forgive loose tongues.",
+    "objectives": [
+        "Escort Caldra Imin safely to the Amber Vaults and into Salt Gate Manse without provoking a skirmish.",
+        "Investigate the scales and slabs; compare tariff stele etchings to cargo chits at the Dockers' House of Weights.",
+        "Confront Sel Var Saltvein diplomatically about discrepancies and secure permission to seize suspect slabs."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Caldra Imin",
+            "lines": "Salt remembers, Mr. Latch, and that is why we carve law into it, because it holds fast when ink runs and when glass tries to sing memory into prettier shapes. Of late my hands have weighed slabs that feel too light, as if someone scraped the rind of truth while the amber was still warm and trusting. The Beacon has keened on days that should be calm, and in the Archive we have learned that keening means a lie has put on good shoes. Walk with me, for I need a companion whose oath has been heard by shells and whose temper remembers children on the wrong side of chain-gates. If pressure comes, your presence will turn shove to talk, and if doors must be shouldered as in a flood, I would rather hinge my safety to the man who knows how to lift without breaking the frame."
+        },
+        {
+            "speaker": "Sel Var Saltvein",
+            "lines": "Tairn Latch, you return to my floors as a man who paid his loan upright and salted, and that is a taste I will not forget. You bring a scribe with the Archive's smell and a hook that catches eyes, and you call my measures false with a breath still warm. My house is mortared with oaths that kept caravans moving when storms ground the city quiet and with tariffs that preserved stores when fish fled our nets. Look then, if looking will ease your sleep, and tally, if tallies are the prayer you need to feel clean. But you will not carry a scandal out of my lintel dressed in righteousness and rumor; you will leave with proof weighed in a room that knows the name of weight, or you will leave with your own doubts heavy and private."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "lines": "Lady Saltvein, I do not come to throw oil on your floors and call it truth, and I have more use for straight scales than for speeches. Shaved weights cut throats slowly, and I have watched good men drown on dry streets because a handful of grain went missing into someone else’s pocket day by day. We will match slabs to chits at the House of Weights and listen for the song the numbers make, and if they sing right I will carry that tune myself to the Court of Echoing Shells. If they do not, then the salt will tell on any hand that burnished it thin, and even your guards will taste the difference when their tongues touch the stele. I would rather walk out with a quiet correction than a loud war, but I will not step around a truth that keeps stepping on the poor."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Bind the Audit Under Shell and Salt",
+            "text": "Propose that the first measure be taken not in whispers or in alleys but in the open air beyond the Manse, beneath a traveling shell-choir and a portable slate from the Dockers' House of Weights. You speak of calm and of Azerene’s favor when truth is invited to sit, and you keep your hands where the guards can see the hook as a tool and not a weapon. You persuade Caldra to lay the first slab before Sel Var herself, with oath smoke curling from braziers and the shell-choir’s hush ready to fall on falsehood. You promise that whatever is found will be recorded cleanly, with the Archive’s marks and the Dockers’ countersign so no faction can grind it smooth later. You hold your temper and let ceremony be your shield, offering dignity as a bridge strong enough for truth to cross without breaking.",
+            "outcome": "Sel Var narrows her eyes at the spectacle but agrees to a shell-blessed weighing, for to refuse would crack her poise where all can hear. The shell-choir hushes and does not keen as three honest slabs set the rhythm, but then one amber-etched stele falters lightly on the slate and its tally mismatches by a sigh’s breadth that becomes a story. Caldra marks the discrepancy with a scribe’s careful hand while you keep the circle unbroken, and the guards learn you can be a wall without raising a fist. Sel Var’s smile thins to a blade’s width and she grants permission to seize the suspect run for further testing, couching it as her own order to keep face. You leave with the letter of passage in Caldra’s sleeve and with proof beginning to harden, your name a little cleaner in the Archive and a little salt-bitter in the Manse."
+        },
+        {
+            "id": "C2",
+            "title": "Carry the Slabs to the House of Weights",
+            "text": "Urge Caldra to remove the questionable slabs at once to the Dockers’ House of Weights, where the meteoric slate will not spare a half-grain and where your people will make room under their own roof. You argue that the Manse is a place of theater and pressure, while Chainmouth’s hall is a place where scales are worshiped and tempers speak plain. You keep your voice low but your feet sure, guiding the slab-bearers out beneath the eyes of Saltvein guards who must decide whether to make a scene against a scribe’s seal. You send a runner ahead to light the hall and gather neutral inspectors, and you pace your breath to keep anger from rushing ahead of the truth. You know this choice could bruise pride, but you judge that a bruise will heal cleaner than a rot sealed in amber.",
+            "outcome": "The movement draws a small crowd of porters and pilots, and a few River Wardens drift near like gulls that smell a fight they hope will not come; your open hands and Caldra’s seal keep blades and whistles quiet. Inside the House of Weights the slabs meet the slate, and every true measure sits like a stone in a river while three in the stack skate and cannot settle without fingers to steady them. Foreman-Keeper Isha Brinehand speaks a slow benediction over the bench and certifies the readings with greasy chalk and clean contempt for cheats, and the room breathes easier for having seen fairness done. Word will run through the Lamplands that you carried law to where it was born, and Sel Var will taste the story as salt in her tea and mark a notch against your name. Caldra compiles an amber-etched addendum on the spot, and though the air nearly crackles with politics you walk out with evidence sealed and with the Archive’s letter of passage promised for your trouble."
+        },
+        {
+            "id": "C3",
+            "title": "Slip the Culvert and Sample the Amber",
+            "text": "Suggest to Caldra that a quiet confirmation be made by night, drawing on lantern-friends to time a short blackout and on your knowledge of a brine culvert that drinks the Manse’s underflows. You speak carefully, laying out how a sliver shaved from one suspect slab could be tested without alerting the whole house to the snag in their weave. You promise no theft beyond a lawful sample and no damage to the Manse’s wards, and you shoulder the risk yourself so the scribe’s skirts stay dry before the Court. You rehearse every turn in your head and tie a knot-charm tight, for secrets you carry have edges you do not wish to cut others upon. You remind Caldra that truth found quietly can be brought out loudly later, and that sometimes a city is saved by a shadow that knows where light should fall.",
+            "outcome": "Tamas Eelwick’s faint lantern codes blink and fade at the right breath, and the culvert’s mouth gives you passage slick as an oath unspoken; Caldra waits above with quills prepared should you fall or succeed. Down in the salt-breathed dark you feel for the right cache and take a shard as thin as a fingernail from a slab whose weight sang wrong in your hands, and you wrap it in waxed cloth like a wounded truth. The test in a side chamber of the Amber Vaults shows foreign resin layered where none should be, a quick pour to cap a quick scrape, and the scribe’s eyes harden the way salt does under sun. Sel Var’s guards notice a watermark out of place come morning, and suspicion pools, but Caldra has already inked an addendum and sealed it with the Archive’s crest before presenting your request to seize the faulty run. The city will not hear how you learned where to cut, but the Archive will, and their letter of passage becomes a certainty while House Saltvein’s courtesy cools by a degree you can taste."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Access",
+            "description": "Brine Archive letter of passage for research rooms, limited in scope but sufficient to consult sealed ledgers and salt-steles relevant to the case."
+        },
+        {
+            "type": "Evidence",
+            "description": "Amber-etched addendum proving a run of altered tariff slabs, cross-signed by neutral weights and witnessed by the Order of Brine-Scribes."
+        },
+        {
+            "type": "Reputation",
+            "description": "Standing shifts slightly: increased favor with the Order of Brine-Scribes and a small souring with House Saltvein that will be remembered in future dealings."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "M10",
+    "title": "Black Glass Bargain",
+    "quest_giver": "Sila Vane",
+    "description": "In a lanternless corner of the Archive of Veins, Sila Vane waits with a black mirror shard turned face-down like a guilty coin. She says the Nameskeeper is ready to sell the Syndicate a legend and a city along with it, unless someone steals back a page a second time and does it loudly enough that even Triarchs must pretend to be surprised. The Watch tightens cordons, and Serge Kobb walks his men like a man who keeps a bed rolled under his desk. Sila offers Rogan a ledger fragment that names ‘O.V.’ more openly if he protects her from both the Watch and the Syndicate during the swap. Every ally is a risk and every risk is a door into a room where the Gate’s hum grows louder. Tonight, proof will either find light or be burned out of the world and reborn as rumor.",
+    "objectives": [
+        "Meet Sila Vane at the Archive and agree on the terms of protection.",
+        "Infiltrate the black file stacks and locate the Nameskeeper’s drop point.",
+        "Evade or negotiate with Serge Kobb and his Watch unit without bloodshed.",
+        "Secure the ledger page naming Orun Ves and escape via an echo-pipe service tunnel.",
+        "Choose whether to give the page to Isha, Nyra, or keep a secret copy for leverage."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Sila Vane",
+                "line": "I don’t expect forgiveness, only a transaction that saves more throats than it slices. The Nameskeeper keeps his hands clean by making everyone else wear gloves. Take this shard and the route. By morning, we either have a city that can blush, or we have a story that will never be told the same way twice."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I’ve protected worse people for better reasons and better people for worse. If you hand me a page that can pin a man in the Hall of Mirrors, I’ll keep you alive long enough to see it spoken aloud. But if you’re lying, I’ll make your mirror show you your own face until you can’t stand it."
+            },
+            {
+                "speaker": "Sila Vane",
+                "line": "I’ve lived with my face long enough to know where its cracks run. I’d like to put a new one in a different face tonight."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Serge Kobb",
+                "line": "This is the part where I say stop and you pretend to, and then I decide whether to honor our old habits or my new orders. You break the city open tonight, and it won’t close again without stitches. Make me believe your blade knows where to cut."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "If we don’t cut now, the infection goes to the heart. This isn’t about a hungry man stealing a loaf. This is about a man at the top of the table deciding how much hunger keeps him in office. Let me pass, and I’ll carry your name into the light with the page."
+            },
+            {
+                "speaker": "Sila Vane",
+                "line": "Footsteps on the other side. Take the page and the copy. The Nameskeeper thinks in mirrors, so think in shadows. Two truths are harder to kill than one."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Isha Velroon",
+                "line": "The Hall of Mirrors will not like what its walls must hear, but they were built to hold truth as well as ceremony. If this is real, the city will sway. I will keep you from falling while it does."
+            },
+            {
+                "speaker": "Professor Nyra Vale",
+                "line": "The ink sings like a cut tooth. It will not be easy to deny. But be ready: a cornered man can knock down pillars just to have something to lean on while he falls."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I’ve got the page and a copy tucked where mirrors don’t shine. Tomorrow, we speak it. Tonight, we sleep with one eye open and a whistle by the bed."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Full ledger page naming Factor Orun Ves in the Gate tuning scheme."
+        },
+        {
+            "type": "reputation",
+            "description": "Fragile pact with Sila Vane; Night-Glass owes you one narrow corridor."
+        },
+        {
+            "type": "access",
+            "description": "Watch blind route through the Archive courtesy of Serge Kobb’s discretion."
+        }
+    ]
+}

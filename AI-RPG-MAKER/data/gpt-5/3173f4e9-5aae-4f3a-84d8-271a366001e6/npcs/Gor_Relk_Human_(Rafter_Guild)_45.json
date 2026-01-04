@@ -1,0 +1,67 @@
+{
+    "name": "Gor",
+    "surname": "Relk",
+    "race": "Human (Rafter Guild)",
+    "age": 45,
+    "appearance": "Scarred chainmaster with tar-stained gloves, a basalt-bead beard, and a gaze like taut cable.",
+    "character": "Taciturn, crew-protective, quick to retaliate.",
+    "traits": [
+        "loyal",
+        "gruff",
+        "vengeful",
+        "hands-on"
+    ],
+    "skills": [
+        "winch engineering",
+        "rope splicing",
+        "emergency rescue",
+        "strike organization"
+    ],
+    "talents": [
+        "senses cable tension by touch",
+        "climbs against gusts",
+        "fires up crews in crisis"
+    ],
+    "flaws": [
+        "paranoid about sabotage",
+        "short-tempered",
+        "holds grudges",
+        "disdainful of scribes"
+    ],
+    "dreams": [
+        "make the Chainhouse unassailable",
+        "gain jurisdiction over all ropeways",
+        "unmask the saboteur of the scored cables"
+    ],
+    "secrets": [
+        "considering taboo metal for counterweights",
+        "took a hush payment to delay a pallet once",
+        "suspects an inside job but shields the guilty rigger's family"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sera Dake",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Thia Mol",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Sorn Ilt",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jarik Rell",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Kessa Tharn",
+            "relation_type": "Different goals"
+        }
+    ]
+}

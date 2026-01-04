@@ -1,0 +1,73 @@
+{
+    "id": "M9",
+    "title": "Cold in the Vault",
+    "quest_giver": {
+        "name": "Pera Ilem",
+        "affiliation": "Rime-Lantern Guild"
+    },
+    "description": "The Marrow Vaults breathe like a sleeping beast beneath salt-glass and iron, exhaling a winter that muffles footfalls and tightens the skin as if the cold itself were a glove. Rime-light wavers across the catacomb walls where Shell-Scribe glyphs flare and fade in a rhythm that is not the tide’s, and the air tastes of iron, brine, and something clean as snow broken from an old roof. Three locks and two witnesses bring Mara into the sealed quarter where a chamber door hums a bone-deep tone, and the humming seems to notice her the way a sea notices a stone cast into it. Workers mutter the word plague as though it had teeth, remembering the old rumors of the Marrow Plague and the blue gutter that once kissed an apprentice’s hand, and every whisper seems to add another shiver to the Vault’s unnatural chill. Pera Ilem stands with her shoulders squared like a lantern set against wind, Lira Thole adjusts needles that quiver as if they were frightened birds, and High Bailiff Osric Greyfen keeps his gaze on the seals as if he could bind panic by watching it. The fragment of coral-song Mara stole from Nareth hums when her fingers touch it, and the shard she once took from the Tidemill Array answers with a note that threads through stone, chain, and marrow as though stringing a city on a single line. Here the ‘Heart-Opening Verse’ may serve as key, not to force but to invite the chamber to loosen, to open as a jaw opens to a trusted hand, and the verse’s vowels feel like warm breath against the cold. If the chamber holds a stabilizer formula that can cool the danger without blanching skin and eyes, then the city’s night-fire might burn gentler and truer; if it holds only a deeper cold, then truth must be spoken cleanly so the Market of Teeth does not catch fire on rumor. Brinelaw wants safety more than secrets, Bonewrights want assurance the Vault won’t crack the city’s bones for profit, and the Rime-Lantern Guild wants stewardship that keeps the craft from fools and fire-eaters. Between these desires stands Mara Kestrel, tideborn archer with brine on her tongue, a bowstring that hums when Orum dreams, and a choice to sing a door open and then decide who hears the new song first.",
+    "objectives": [
+        "Use the ‘Heart-Opening Verse’ to harmonize the sealed chamber and identify the source of the cold hum.",
+        "Assist Lira Thole in calibrating a safe venting of pressure without releasing volatile marrow vapors.",
+        "Decide whether to share the full stabilizer formula with Brinelaw, Rime-Lanterns, and Bonewrights equally or gate it through Pera Ilem.",
+        "Investigate the humming shard’s resonance with the chamber and record its pitch for the Resonance Chart."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Pera Ilem",
+            "lines": "Fear is a solvent; it strips nuance from the air and leaves only raw metal and itch behind the eyes. We will not let panic do here what plague could not, and we will not let grief write our procedures in a shaking hand. Sing your verse, match the pitch, and we will ease this chamber open like a jaw easing a stubborn knot, because force is for fools and locked hearts both bruise and break. If there is a formula within, it will not be stolen, it will be stewarded, tested, and watched as closely as a wick in a wind, because craft is a covenant wider than any ledger. I have buried enough apprentices to know the difference between discovery and appetite, and I will not turn the Vault into an altar to either. Remember that cold is not our enemy; it is a language, and today we will learn to speak it softly. Hold steady, hold to count, and hold your courage where your breath can reach it."
+        },
+        {
+            "speaker": "Lira Thole",
+            "lines": "I can keep the gauges in the green if the song holds, but the needles have a will of their own when the hum dips and surges like a tide under ice. If it slips, I need two heartbeats of warning to drown the chamber in brine and write off the work, because a flood I can clean but a spark in marrow takes fingers, faces, and years you don’t get back. You keep time for me, Mara, and count it like steps across a wet rope, heel to toe, breath to breath, no heroics that outrun the numbers. I’ve practiced the vents until my palms blistered where the wheel bites, and I have the brine-charge rigged to blow quiet, not loud, so the shock won’t rattle the seals. My little brother lost a hand to a sputter flash in a street-lamp crucible; I will not let another family learn the sound a lantern makes when it bites. If the Verse is true, the pressure will lean, the cold will answer, and we will coax this door like a skittish gull off a rail. If it is not, we back away and keep our skin the color it came with, and that, too, will count as a good day."
+        },
+        {
+            "speaker": "Osric Greyfen",
+            "lines": "If you find a cure and keep it behind a guild seal, I will haul you before the Oathwell so fast your lanterns will not have time to cool, and you may test whether truth tastes sharper after. If you find nothing, I will still publish a calm notice so the Market does not set itself on fire with rumor, because panic kills commerce and people in the same hour. I tell you this in brine before the locks, so you can weigh your conscience by the taste, and so my own oath binds my temper should success sting my pride. Brinelaw is not your rival nor your refuge; it is the keel that keeps the city from slewing when weather turns, and without it the ribs become spears against their own folk. Give me a procedure I can stamp and a witness book I can open to any citizen who asks, and I will stand between you and every opportunist with a tariff knife. Fail me, and I will fail you only in kindness; I will be cold, thorough, and public as the tide-clock’s face. Measure twice, sing once, and remember that oaths are chains we choose to wear."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "Then we keep our count, we keep our cool, and we keep our word, because words are ropes and I have learned to trust a good rope more than a quick prayer. If the Vault gives up a secret that saves fingers and faces, it belongs to the city that pays the price of our light, and I will not see another mother cough blue in a winter room for want of a safer flame. I have the Heart-Opening Verse mouthed and measured, and the shard’s note sits under my tongue like a seed of ice, ready to sprout at the first breath of song. I will mark the pitch for the Resonance Chart so no one has to guess at it in a storm-night, and I will call your two heartbeats, Lira, even if my own wants to sprint. Brine’s on my tongue and oath’s in my pocket; if we must swear at the Oathwell when this is done, I will stand and taste the iron and not flinch. Orum dreams, they say; if the city’s bones sing, then tonight we will listen, and we will not mistake a lullaby for a siren’s call."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Swear Equal Disclosure at the Oathwell",
+            "text": "Mara proposes that the full stabilizer formula, once verified safe, be disclosed in equal measure to Brinelaw, the Rime-Lantern Guild, and the Bonewrights’ Collegium, witnessed at the Oathwell and carved into a sealed procedure anyone can petition to read. She speaks of chains chosen rather than forced, of safety as a commons rather than a coin, and she offers her own Oathwell phial to sting her tongue first. The plan includes staged apprenticeships across guild lines so that no single bench can bury a step or salt a ledger, and the Brinelaw Keepers will hold a master copy as neutral steward. Pera will gain prestige as the discoverer who chose stewardship over monopoly, Bonewrights will be named co-signers for structural implications, and Brinelaw will publish tariffs that make safety cheaper than shortcuts. The city will know where to stand, and fear will have fewer corners to hide in because sunlight will be written into the process. The Verse and the resonance pitch will be appended as annexes, marked sacred to the work rather than sacred to any sect.",
+            "outcome": "Osric Greyfen nods like a tide-clock that has found its hour, and he leads the procession to the Oathwell where salt stings tongues and the air tastes suddenly honest. Pera Ilem watches the crowd’s faces loosen when they hear the words equal and witness, and she feels relief that does not taste like defeat because the craft will live in daylight. Bonewrights’ Dean Yhosa Kel arrives with lacquer-stained hands and adds a clause about rib-strain audits that makes the procedure stronger and public trust broader. The Anchor-Compact grumbles about lost leverage but finds advantage in predictable tariffs, and even street-lamplighters in the Market of Teeth begin to speak of the new method as a civic right rather than a rumor. In the days that follow, lamps burn steadier in wind, the blue gutter does not kiss hands, and whispers about plague thin like fog before noon; the Resonance Chart gains a deep note that aligns with the Fathomfall stories, and Pilgrims hum along without protest. Later, when storms lean on the chains, Brinelaw cites the Oathwell procedure to prevent panic closures, and Mara gains a reputation for binding rivals into cooperation without dulling their edge."
+        },
+        {
+            "id": "C2",
+            "title": "Gate the Formula Through Pera’s Stewardship",
+            "text": "Mara argues for a controlled release under Pera Ilem’s seal, with Brinelaw oversight limited to auditing outcomes and not dictating method, and Bonewrights invited to consult only on structural interfacing. She frames the choice as a surgeon’s cut rather than a street remedy, insisting the Vault must shepherd a volatile truth until the city stops flinching at the word plague. The Oathwell will still taste the decision, but the specifics will be written into guild books, cross-signed by a Brinelaw scribe who swears not to copy them into public archive until a set number of safe lamp-cycles pass. Lira Thole will lead a mixed-apprentice cadre within the Guild to replicate results, and a quiet stipend will be offered to the Bonewrights to keep them briefed and mollified. The Anchor-Compact will be given a timetable for rollouts so tariffs can bend without breaking, because coin cares about tempo as much as truth. The Verse and the resonance pitch will be coded as musical annotations maintained within the Marrow Vaults, so the song remains accurate and unmarred by street-versions.",
+            "outcome": "Pera Ilem accepts the mantle like a lantern accepts a wick, humble in ceremony and iron in execution, and she thanks Mara with a favor large enough to soften future storms. Osric Greyfen signs the audit writ with a stiff wrist, warning that secrecy bought with safety is a debt to be repaid in daylight, and he sets a clock to count the lamp-cycles until public filing. Bonewrights bristle but take the stipends and send observers who, despite themselves, respect the rigor inside the Vaults, and they add notes that prevent brittle bone-lacquer from misbehaving around the new chill. The Anchor-Compact praises practicality and promises tariff relief once phase one proves, though its clerks already angle to brand the safer lamps under Compact marks. In the streets, rumors flutter but do not catch because lamps stop sputtering in wind and no one’s hands go blue, and the Market of Teeth hums with cautious optimism. The Resonance Chart grows with a deep hum that maps to Fathomfall’s pulse, but the annotation remains guild-kept, and Pilgrims and Chainmasters both come to Pera’s door to ask for heard-but-not-seen assurances; Mara’s name rises in the Guild as the steadier who sang the right door open and chose a careful keeper."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Two vials of improved marrow stabilizer (prevents sputter in harsh wind)"
+        },
+        {
+            "type": "Document",
+            "description": "Documentation of a shared safety protocol filed at Brinelaw (public trust)"
+        },
+        {
+            "type": "Reputation",
+            "description": "+Significant favor with Rime-Lantern Guild (Pera Ilem) and goodwill with Brinelaw"
+        },
+        {
+            "type": "Knowledge",
+            "description": "Refined resonance note: the shard hum aligns with a deep pulse matching the Fathomfall legends"
+        }
+    ]
+}

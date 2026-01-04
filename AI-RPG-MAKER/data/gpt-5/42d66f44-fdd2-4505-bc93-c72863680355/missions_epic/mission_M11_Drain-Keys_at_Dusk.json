@@ -1,0 +1,92 @@
+{
+    "id": "M11",
+    "title": "Drain-Keys at Dusk",
+    "quest_giver": {
+        "name": "Captain Ysger Thorn",
+        "affiliation": "Brinewardens"
+    },
+    "description": "Dusk drapes the Spine Causeway in a bruise-hued veil while the lumenkelp lamps are coaxed to dim in ritual patterns, and the harbor’s bones murmur with tide and rumor. Word coils through the marrow alleys that Verrin Nasse, a Keyholder of the Order of Tidemasons, means to test a forbidden bypass during the planned dim-out, to let the Tide Looms drink the Spine Market dry for a single, brutal demonstration of need. The Pearl Compact, in the person of Mara Vell-Seren, offers loans like silk-wrapped shackles and whispers of dividend pearls to sweeten obedience, and in the throat of the plan clicks a quiet chorus, a chord said to turn hidden cogs if sung true. Rusk Bonebinder has seeded a sabotage jam down in the salt-black galleries, a clever clot of resin and grit meant to slow the mechanism, but even his cunning knows it will not stop a determined hand with two keys and a voice that has practiced a stolen note. Captain Ysger Thorn, remembering a flood that won a man an argument and lost a ward its breath, calls you by name and by every hour served on deck under hard rain. Intercept the keys without blood, expose the ledger pact that binds profits to calamity, hold the bypass wheel until the jam sets like a final stitch in a wound, and confront Verrin with the proof under fossil light. The Embersalt Arsenal seals its vents with hissed steam, Brinewardens shoulder pikes along the jawbone quays, and glass bells are stilled by the Fathom Tongues so no sound calls hungry things from Singer’s Trench. Thassyl leans on its ribs and waits, and every gutter and gear seems to listen for the choice that will tell the city whether it is a house of bone or a bowl for drowning.",
+    "objectives": [
+        "Shadow Verrin Nasse’s runner through the marrow-wound alleys and intercept one of the two Loom keys without killing, taking the bite from the plan before it can close its jaws.",
+        "Slip or storm your way into the private parley between Mara Vell-Seren and Verrin Nasse and obtain the ledger pact that binds loans to engineered catastrophe, keeping its ink intact as lawful leverage.",
+        "Reach the service gallery where the bypass wheel hums like a throat and hold it against the tide’s pull until Rusk Bonebinder’s sabotage jam cures hard in the teeth of the gears.",
+        "Stand before Verrin Nasse in the breath of the Loom, and by truth, threat, or skillful plea, persuade or force him to stand down from the demonstration and surrender his remaining key and chorus.",
+        "Carry the seized key and the ledger pact to the Council guard at the Vertebrae and demand an immediate injunction under fossil chandeliers before the Compact or Keyholders can recast the tale."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Captain Ysger Thorn",
+            "lines": "When I was a young sergeant, a flood ate a ward because a man wanted to win an argument, and I learned that some victories are just funerals that forgot the prayers. He won it, and I can still hear the quiet after the water went home and found nothing left to drown. The Tide Looms are a beast on a chain, and fools love to test the length of it with other people’s lungs. I won’t watch another man gamble with the looms because he fancies himself a storm, not while my oath still tastes of salt. Take the wind out of his lungs, Kael, and take the shine off every coin they tried to stack on this disaster, because if the market runs dry by their hand, the city will drink their lies like rain."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "I have seen a ward go quiet and I have listened to whalesong fade under iron weather, and I won’t let a demonstration write a eulogy. I’ll take the keys out of his hands and the chorus out of his throat, and if he wants to argue after that, he can do it on dry stone with his voice full of apologies. I learned to read brine glyphs before I learned my letters, and I’ll track his runner by the tilt of a gutter and the shine of a spill. If the Compact thinks the city is a scale to be balanced with pearls, I’ll show them the weight of a single life when it thrashes for breath. You have my word, Captain, and I will lay it down like a plank across the worst of this night."
+        },
+        {
+            "speaker": "Mara Vell-Seren",
+            "lines": "You break into a private parley with a bow and a conscience and imagine yourself a savior, but commerce does not kneel to interruptions. The city will remember your manners when the ledgers are balanced, and I am very good at arranging memories in neat columns. Numbers do not bleed when they are cut, and a controlled flood is a kindness compared to an untamed one; the market will dry for an hour and gratitude will rush in to fill it. Verrin, ignore the archer and the tremor in the air, because fear is an old book that people read when they cannot afford a new one. Turn the wheel with a steady hand, and let them see what mercy looks like from a height they have never climbed."
+        },
+        {
+            "speaker": "Verrin Nasse",
+            "lines": "Everyone is so delicate until the first clean demonstration, and then they find spine in places they never looked for it. The Looms were made to be obeyed and feared in equal measure, and sometimes fear must be coaxed like a fire that refuses damp kindling. Stand aside, Kael, because I carry the city’s safety in my pocket and I intend to spend it before a true storm makes small work of us all. Your arrows can’t split a chord and your scruples won’t stop a wheel, and you know as well as I that a single turn writes more law than a hundred speeches. When the lesson is learned we will set everything right again, and if a few stalls go thirsty, they will thank us when their children live through the next flood."
+        },
+        {
+            "speaker": "Rusk Bonebinder",
+            "lines": "I felt the Loom through my hands like a dog that wanted to bite, and then I felt it change its mind because someone held its muzzle long enough to remember it had a master. The jam held because you held, and the resin set like a prayer that dared to harden into stone. Verrin’s smile will look thin in a cell where the only gears are the steps of a guard, and the only chorus is the cough in his throat when the night is damp. Bring the key and the ink to the Council, and let the fossil light bleach their pretty lies into something brittle. You kept a ward from going down the drain like a bowl’s last rinse, and I owe you a bone-strong favor if ever you need a stitch where the city comes apart."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Stalk the runner and lift the first key without blood.",
+            "text": "You slip into the marrow alleys where siltglass gutters shine faint and the brine glyphs tell of safe cuts and sudden flats, using your ledger like a map of veins. The runner has the trot of a trained messenger and the eyes of someone told that everyone he passes is a thief, but he never looks up, and the ribs of Veloros are generous with shadows. You time your step with the wheeze of a tide vent and your breath with a turn of the wind, then let a blue signal shaft flare behind him so his fear runs forward into your snare. A jawbone grapnel kisses the eave, the rope hums, and your foot finds the crossbeam that turns the alley into a corridor that only you can walk. When he startles beneath you at the staged clatter, your descent is a soft word; a palm across his mouth, a promise that leaves his pulse steady, and a practiced pinch on the clasp that frees the key from his belt like a tooth from gum.",
+            "outcome": "The runner trembles but does not cry out, and you taste relief rather than blood as you bind his wrists with reed cord and leave him looking up at a sliver of friendly sky. In his satchel you find a secondary mark, a scribbled glyph that points to a handoff that will now never happen, and you smear it to keep any pursuer guessing at phantoms. The key is bone-toothed and oiled with brine, heavier than it looks, and even inert it seems to tilt the street, but your pocket swallows it like a secret that wants to live. You drag a crate across the alley to suggest a clumsy thief and cut the reed cord once you are gone, trusting the boy to choose silence over shame. Word of your restraint travels faster than you do, and when you reach the service gallery later, a door that should have been barred is already ajar, opened by a hand that respects thieves who don’t spill."
+        },
+        {
+            "id": "C2",
+            "title": "Crash the clandestine parley and steal the ledger pact by guile.",
+            "text": "You track the hum of low voices to a bone-ring room lit by a single lumen brazier hooded to a priest’s whisper, and you taste pearl-resin on the air where ink has not yet dried. Mara Vell-Seren sits with a posture like a ledger line, straight and unforgiving, while Verrin Nasse drums a coded rhythm on the table’s edge to steady a conscience he calls a tool. You enter like a breeze that found a crack, letting your presence arrive in the flicker before your shadow, and you speak quiet and courteous words that wedge their attention open. While their eyes weigh your audacity, your free hand palms the ledger and leaves in its place a lifelike copy—a siltglass pane painted in mirror-ink that will read as truth until a council-lamp’s heat loosens the lie. You keep talking, stacking small insults inside larger courtesies until they forget to count your breaths, and when you bow out, they are still correcting your grammar while your pocket learns a dangerous weight.",
+            "outcome": "The corridor outside accepts you like a tide pool accepts a stone, and you move without ripples, counting the beats until the false ledger will wilt under heat and accuse its keepers of their own carelessness. The real pages rustle like fish in a net, full of dividend clauses and emergency powers dressed as kindness, and you memorize the marks that will make council reeves go white. When a Compact scribe rounds the corner, you smile as if you belong there and ask him for directions to a room that does not exist, and he is so pleased to correct you that he doesn’t notice a ghost passing with his mistress’s future under her arm. Your steps down the service stair ring only once, and even that is swallowed by a vent’s sigh, and you know then that the Tongues’ hush-wards still hold over this hallway. By the time the parley realizes that ledgers can lie as beautifully as people, you are three corners away and have already tucked the pages into an oilskin sleeve that smells like a promise kept."
+        },
+        {
+            "id": "C3",
+            "title": "Brace the bypass wheel and confront Verrin beneath the Loom.",
+            "text": "You descend into the service gallery where the Tide Looms thrum like a patient heart, and the bypass wheel squats in its alcove like a crown that learned humility. Salt-oil sweats from the gear teeth and a low singing leaks from the pipes, the after-echo of a stolen chord that wants to be believed. Verrin arrives with a lantern shaded in engineer’s green and a face that has practiced disappointment into a virtue, and he looks at you the way a storm looks at a small boat. You plant your boots, feel the grit of Rusk’s jam under your fingers, and you settle your bow across your back so he knows the next words matter more than the next arrow. You speak of flood-years and market-fires and promises that come written in credit-shells but are paid for in lungs, and you let the truth carve a quiet in the air that even the Loom respects.",
+            "outcome": "Verrin tries the chorus first, humming a practiced note that slides along pipes and into nothing, because your resonant shard steals its echo and returns it like a dull coin. He sets his hands to the wheel and finds your grip already there, your knuckles white as bone and your breath counting the beats until resin cures into certainty, and for a moment you both are statues carved to remember the moment a city chose. You tell him what the council will see under fossil chandeliers and how Mara’s ledger reads like a confession dressed as a contract, and you watch the arithmetic die in his eyes one digit at a time. When he reaches for an argument he finds instead the memory of a flooded stair and the weight of a child on his shoulders, and that is the weight that finally drags his hands away. He surrenders the second key with the small dignity of a man who has stepped back from a cliff and pretends he never meant to jump, and the wheel stays still long enough for Rusk’s jam to harden into law."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "XP",
+            "description": "900 experience for averting an engineered flood and unmasking the pact under fossil light, a weight of knowing that sharpens hand and heart."
+        },
+        {
+            "type": "Item",
+            "description": "Confiscated Ledger Pact (legal leverage), pages inked with Mara Vell-Seren’s dividend promises and Verrin Nasse’s marks, admissible before the Council at the Vertebrae."
+        },
+        {
+            "type": "Item",
+            "description": "Verrin’s Half-Key, now inert without the matching chorus and twin key, a bone-toothed sliver that still smells faintly of brine oil and guilt."
+        },
+        {
+            "type": "Favor",
+            "description": "Brinewarden Charter for a pilot safe-cut route independent of cartel tolls, granting Kael leave to chart and mark paths by brine glyph without Compact interference."
+        },
+        {
+            "type": "Access",
+            "description": "Guarded access to the Tide Looms during Council sessions, permitting escorted entry to present evidence, verify flow quotas, and speak to the machinery’s truth."
+        },
+        {
+            "type": "Coin",
+            "description": "50 credit-shells counted from emergency funds and council stipends, enough to mend gear, grease palms that deserve it, and keep a roof lit with living light for a spell."
+        }
+    ]
+}

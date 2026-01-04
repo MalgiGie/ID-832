@@ -1,0 +1,83 @@
+{
+    "id": "M2",
+    "title": "Counterfeit Seals, Crooked Valves",
+    "quest_giver": {
+        "name": "Thren Basso",
+        "affiliation": "Cliffward Compact"
+    },
+    "description": "The Cascadrome Terraces exhale their cool breath across Aurelia-on-the-Scarp, turning fog to drink and tempers to truce, and yet a secret pulse has crept into the frames like a learned vice. Blue-Timers queue in ragged ribbons on the steps, hourglass tokens clutched to breastbones as if prayer, while condensation beads into gutters with the patience of old laws. Tallea Miranth walks beside the Compact’s marshal, reading the city’s lungs with a resonant fork that sings to hairline guilt the way a night-bell calls to strays. A hush-thread of sound, too regular to be accident and too smug to be official, threads behind brass plates polished by anxious hands; it is the intimate lull of water rerouted through private veins, returning favors in quiet drips. Chain-lift shaft six clatters and groans nearby, cicada-loud, and within its shadow the Solace oils slick the stair treads a shade too well, turning labor into hazard and cover into collusion. The rumor of counterfeit safety seals has teeth now, and those teeth have torn flesh: a family almost dashed on stone, lifts arriving light when they should be heavy, and the Compact catching blame like ash in the eye. Tamsin Rook, a foreman with the posture of someone who keeps doors he does not own, smiles until the fork gives his valves a name and a pitch, and the Ledger’s First Teller Avar Jen stands at the niche’s lip like a ledger-line drawn thin and sharp. The city depends on measured breath, not private straws, and the Heliolith’s dimming heart can ill afford the theft of any shared note. Tonight, truth must land softer than a riot and harder than a bribe, and the harps of the Syrinx Wind Courts will later demand the proof to be sung in timed lulls.",
+    "objectives": [
+        "Identify three counterfeit safety seals among the Cascadrome valve housings.",
+        "Track the bypass hum to a hidden service niche via chain-lift shaft six.",
+        "Confront the smuggler foreman Tamsin Rook without triggering a panic among Blue-Timers.",
+        "Present proof of bypass lines to the Cliff Ministry clerk in charge of safety seals."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Thren Basso",
+            "lines": "Walk the rim with me, Tallea, and listen to what the frames are ashamed to say. We pulled a family of four off a slick yesterday, hands flayed and eyes salt-stung, and they still thanked the steps as if the stone had meant them mercy. They are the kind who read ration edicts like scripture because it is the one law that ever bothered to look their way, and when that law is mocked by a brass plate and a quiet pipe, it is a mockery of their breath. If I tear these bypasses out with my hands, the sound will carry along every chain and we will have a riot by dusk, and then I will be the man who taught the city to panic. I need your ears to prove the lie and your tongue to land the truth quieter than a lift bell, so that when I pull, the city does not fall but finds the right note to stand on."
+        },
+        {
+            "speaker": "Tallea Miranth",
+            "lines": "I will make the valves sing their guilt into my fork and not into the crowd, and I will count the false beats until no one can deny the rhythm. If Tamsin has fingers tucked into hidden lines, I will pull them out without taking his whole hand, because I would rather he bind ropes than bleed on them. But if the hum climbs up to a Counting-House ledger and finds a tally with your name in its margins, First Teller or clerk, I will not soft-pedal the cadence to spare their ears. I have stood in the Wind Courts and timed sorrow between harps, and I have watched a lie bend a stone until it cracked, and I will not let that happen to a city I can still tune. Give me a lull and a breath’s worth of trust, and I will carry your anger the way a kite carries a wind, with enough slack to glide and enough pull to land."
+        },
+        {
+            "speaker": "Tamsin Rook",
+            "lines": "Everyone drinks, lull-reader, and that is a truth you can tune to or drown under, so hear me before you sharpen that fork. I made sure certain donors kept their bath taps wet so they would keep oiling these frames, paying crews on time and greasing chains that otherwise seize, and maybe I took a skim of ease to keep the shift alive. You can call it a bypass and paint it black, or you can call it stability with a private lane, but either way nobody drowns in paperwork tonight because I kept the metal breathing. The seals looked right because the right people wanted them to look right, and a city that runs on favors calls that competence when the ledgers are closed. I do not want a riot any more than you do, and I would rather adjust a valve than adjust a story told over a grave."
+        },
+        {
+            "speaker": "Avar Jen",
+            "lines": "If a few auxiliary lines kept commerce smooth, I struggle to see the tragedy, and I suspect the tragedy you are hunting is more theatrical than real. The caravans must dock on time or the ash cools and the city shivers, and the blue-glass counting of those hours cannot always wait for the poetry of procedure. Break the seals if you must, and you will break schedules, and then your names will appear on a dozen petitions written by people who do not remember your heroics, only their lost profit. Stability is not a sin when it buys bread and oil, and Aux flows exist precisely to prevent the kind of panic you are courting with your righteous music. If you insist on performance, then prepare to pay the cost when the harps in the Wind Courts sing your censure back at you in perfect, public time."
+        },
+        {
+            "speaker": "Ambient Chorus of Blue-Timers",
+            "lines": "Condensation ticks into the gutter like a cautious clerk, counting each drop as if it were a prayer set to numbers. A child presses her hourglass to a brass plate and frowns as though she can hear which way her city’s breath runs, and her mother hushes her without knowing why. A breeze smears the scent of Solace oils across the steps, slick sweetness over stone dust and iron sweat, and the chain-lift above rattles like a handful of guilty coins. Harp-notes from the far Syrinx Courts drift on the wind and then fall away, as if the city itself holds its breath to hear what is about to be said. The crowd moves in increments and glances, not yet a panic and not yet a peace, poised like a kite at the edge of an updraft waiting for someone to show the line."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Stage a maintenance lull and unmask the bypass in silence",
+            "text": "You ask Thren for a short cordon under the pretense of frame-tuning, and he obliges with a quiet gesture that moves more rope than a shout. You take your resonant calcite fork to the housings and tap the official seals in a pattern that sounds like ordinary inspection, letting the false ones betray themselves by their sweeter, thinner ring. To the waiting Blue-Timers you are a patient mechanic tracing a squeal, and your words are simple as you explain that oil can hide sickness and that you are listening for it now. Step by step you guide a small crew to chain-lift shaft six, folding the crowd’s attention into the rhythm of your work until the hum leads you to the niche, where brass plates shine like lies made tidy. When you open the panel you do not announce discovery but invite Thren to hold the lantern, and together you read the bypass lines as if reciting a maintenance mural, each turn of the wrench a sentence the crowd does not need to hear.",
+            "outcome": "The crowd never gathers enough heat to flash, and your slow, deliberate movements teach them that nothing urgent is happening even as you reveal a rupture in the city’s trust. Tamsin stiffens when the third counterfeit seal fails to sing true, but you give him a chance to save faces by asking for his ledger of service orders and noting quietly which numbers repeat where they should not. Thren’s rope crews roll the Aux line shut under the cover of your tuning, and a thin squeal like a swallowed lie fades into the Cascadrome’s honest sigh. First Teller Avar watches, calculating, and chooses not to contest a scene that offers no stage for him, contenting himself with a promise to audit schedules that no one believes. By nightfall you present a cut seal and a sketched map of the bypass to the Cliff Ministry clerk who certifies safety marks, and your proof arrives as a calm packet with neat ribbon instead of a firebrand, ensuring the objective is met without panic."
+        },
+        {
+            "id": "C2",
+            "title": "Call the rim to witness and denounce the crooked valves",
+            "text": "You step onto the stepwell lip where the breeze lends your voice a carrying edge and time your speech to the far-off lull of the Syrinx harps, cutting your sentences into the spaces where they will catch. You tell the Blue-Timers that the city’s breath has been taught to whisper favors, and that a whispered favor is a stolen cup, and you promise them you will not let it stand. Your resonant fork rings against three seals and the different notes are clear even to untrained ears, the counterfeit’s brittle brightness clashing with the truthful dull. When the crowd surges forward you raise a palm and demonstrate how the bypass hum routes beneath their feet, tracing a gentle path along the stones like a teacher, not a zealot. You name no names at first, only the crime, and you announce that the Cliffward Compact will close the Aux in measured order so that no one’s ration is harmed, thereby cooling the hot air you have stirred.",
+            "outcome": "The press of bodies swells but does not break, because you give them a rhythm to breathe by and a promise of sequence, and Thren’s crews mirror your cadence with ropes and hand signs. Tamsin tries to hold the center with a story about stability, but the crowd hears the fork before they hear him, and the note does what arguments cannot. Avar Jen attempts to frame the fraud as efficiency, and you invite him to the Wind Courts to praise it under oath, which draws a laugh that punctures the danger without humiliating him beyond prudence. The Aux line is shut down in sight of all, the counterfeit seals are unscrewed and dropped into a bucket that Thren rattles like a bell, and the crowd disperses with a sense that something was set right rather than tipped over. At the Cliff Ministry, the seal samples and the testimony of two Blue-Timers who heard the difference by ear become your proof, satisfying the requirement to present evidence while leaving the city’s pulse steady."
+        },
+        {
+            "id": "C3",
+            "title": "Offer amnesty in exchange for confession and dismantling",
+            "text": "You face Tamsin in the mouth of the service niche, where oil smell and metal heat make truths slippery, and you offer him a one-hour amnesty sealed by Thren’s nod. You tell him that if the bypass is dismantled under your instruction and the Aux ledger surrendered to the Wind Courts by dusk, the Compact will argue for a censure rather than a shackle. You remind him that stability bought with theft is brittle, and that brittle things shatter when hauled before harps, and you would rather see him cut a clean line than fall with a dirty one. You promise the crowd that no ration will be docked and no bath will run dry tonight, because you will sequence the valves back into legal flow and teach the frames a better lull as you do. You even turn to Avar Jen and allow him a path to dignity, inviting him to witness the re-plumbing and attach a bond to the restitution so that the Ledger’s face is saved while the city’s throat is cleared.",
+            "outcome": "Tamsin’s bravado falters in the quiet mathematics of time and consequence, and he chooses the hour you offered over the years he fears, producing a roll of stickers and seal stamps that gives your fork a chorus of names. Under your direction, crews reverse the hidden joints and bleed the Aux line back into sanctioned gutters, and the Cascadrome’s breath resumes its square, lawful measure. Avar accepts the bond arrangement because it lets him be seen as a steward of order rather than a sponsor of theft, and his presence calms merchants who might otherwise have cried disruption. Thren watches you with a temper banked to coals instead of sparks, and when the hour closes he escorts Tamsin to a clerk’s desk rather than a cell, letting the Wind Courts weigh the rest. Your proof becomes both object and oath: a counterfeit seal, a folded, signed confession, and a diagram of the bypass corrected in your hand, delivered to the Ministry without a crowd ever rising to panic."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Experience",
+            "description": "400"
+        },
+        {
+            "type": "Reputation",
+            "description": "Cliffward Compact +12"
+        },
+        {
+            "type": "Item",
+            "description": "Counterfeit Seal Sample (proof item)"
+        },
+        {
+            "type": "Item",
+            "description": "Blue-Timer Tokens (x2)"
+        }
+    ]
+}

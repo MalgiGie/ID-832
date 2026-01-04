@@ -1,0 +1,62 @@
+{
+    "name": "Harn",
+    "surname": "Slate",
+    "race": "Dwarf",
+    "age": 90,
+    "appearance": "Granite-gray complexion, cobalt-chip eyes, beard braided with tiny safety bells and sky-ore dust.",
+    "character": "Steady, gruff negotiator who values safety over speed.",
+    "traits": [
+        "Dutiful",
+        "Cautious",
+        "Loyal",
+        "Stubborn",
+        "Plain-spoken"
+    ],
+    "skills": [
+        "Mine safety",
+        "Ore grading",
+        "Grudge negotiation",
+        "Griffon avoidance",
+        "Highland weather reading"
+    ],
+    "talents": [
+        "Senses humming collapses before they start",
+        "Reads storms off the Skytooth faces"
+    ],
+    "flaws": [
+        "Slow to trust cityfolk",
+        "Hates crowds",
+        "Tinnitus from knife-winds"
+    ],
+    "dreams": [
+        "Form a worker council in the Skytooth pits",
+        "See grandchildren admitted to the Collegium",
+        "Retire to a quiet stoop in Miravale"
+    ],
+    "secrets": [
+        "Smuggles a fist of sky-ore each season to pay a cousin’s medical debt",
+        "Saw a Blue Heart glimmer and told only Orin Thalen"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orin Thalen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Magister Vell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Pellar Nine-Poles",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Sere Aven",
+            "relation_type": "neutral"
+        }
+    ]
+}

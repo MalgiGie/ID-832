@@ -1,0 +1,67 @@
+{
+    "name": "Talon",
+    "surname": "Orase",
+    "race": "Human",
+    "age": 39,
+    "appearance": "Tall and wiry, coral-lacquer braces on his wrists, burn-scars like lacework on his forearms, a caliper tucked into his belt.",
+    "character": "Restless and visionary, pride bright as a rime-lantern; he’d rather apologize after than ask before.",
+    "traits": [
+        "innovative",
+        "impatient",
+        "charismatic",
+        "incautious"
+    ],
+    "skills": [
+        "joinery and carpentry",
+        "lacquer chemistry",
+        "rapid prototyping",
+        "risk assessment in the field",
+        "crowd demonstration and persuasion"
+    ],
+    "talents": [
+        "reads stress lines in bone at a glance",
+        "improvises braces from scrap in minutes",
+        "turns hostile crowds with a showman’s trick"
+    ],
+    "flaws": [
+        "contempt for hidebound rules",
+        "addicted to reed-tea stimulants",
+        "gambles wages on festival nights"
+    ],
+    "dreams": [
+        "Build a bone-bridge that sings true across the Span",
+        "Replace imported steel with coral composites",
+        "Surpass Yhosa and become the Collegium’s youngest dean"
+    ],
+    "secrets": [
+        "Stole a Shell-Scribe fragment from the Coral Library during a ‘study’ dive",
+        "Caused a micro-collapse near the Market of Teeth and paid hush money to the injured",
+        "Siphons a trickle of lacquer salts from Collegium stores for experiments"
+    ],
+    "relations": [
+        {
+            "npc_name": "Yhosa Kel",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Pera Ilem",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Garrik Shale",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Selka Vire",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Lira Thole",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Osric Greyfen",
+            "relation_type": "neutral"
+        }
+    ]
+}

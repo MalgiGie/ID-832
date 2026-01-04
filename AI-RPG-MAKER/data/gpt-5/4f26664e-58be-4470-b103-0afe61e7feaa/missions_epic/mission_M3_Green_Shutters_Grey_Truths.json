@@ -1,0 +1,101 @@
+{
+    "id": "M3",
+    "title": "Green Shutters, Grey Truths",
+    "quest_giver": {
+        "name": "Tamsin Veil",
+        "affiliation": "Grey Lanterns"
+    },
+    "description": "Phosphor House breathed its old secrets in a hush of green light and shuttered whispers, and the tower’s panes wore dusk like veils. First Wick Tamsin Veil studied Iriel Vask’s copied etchings, the star-glass rubbings pricking her gloved fingers with remembered heat, and the lines on her mask seemed to learn a narrower frown with every measured breath. The cadence was not rumor but relic: an evacuation song from the Star-Wasp Summer, a rhythm that once parted panic like a comb through snarled hair, reawakened now and threaded toward the gates where silence itself ruled. Cor Yune uncoiled from the whisper-tube alcove with a dancer’s balance and a guilty bundle of shutter logs, the cords stamped in Loom sigils that should have been asleep, while the lamp-chamber pulsed with tones that made the bones in the walls lean to listen. The trail of ghost signals pointed toward the Scribehouse of the Loom of Names, where cords recorded who belonged to what, who owed whom, and which truths the city agreed not to misplace, and Tamsin’s request was a blade wrapped in truce silk: carry a green light of sanctuary through the front door, ask Archivist Leth Morrow to open the audit ledgers to Grey Lantern eyes, and, if refusal came as expected, find a way to walk out with what the city needed without waking its wrath.",
+    "objectives": [
+        "Deliver the green-shutter truce signal to the Scribehouse of the Loom of Names.",
+        "Negotiate with Archivist Leth Morrow for access to historical shutter codes and audit logs.",
+        "Assist Cor Yune in retrieving a sealed bundle of shutter logs from a restricted annex without triggering alarms.",
+        "Return to Phosphor House with either Morrow’s writ or clandestine copies."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tamsin Veil",
+            "lines": "The pattern is ours, but the hand that played it is not, and I will not let a stranger march our city by our own remembered drum. This cadence once moved us like water when the sky tore with glass and wasps tried to settle in our throats, and we vowed that such a song would sleep until the city begged for it again. A thief of mercy has stolen our mercy’s shape and laid it against the gates, where silence swallows blame and spits out accident. Carry my green, Iriel Vask, and show Leth Morrow that the lamp seeks only the ledgers’ reflections, not their cords. He will refuse you because that is his habit and his armor, and then you will make the refusal look ill-fitting until he must loosen a strap or two, with the patience of stone and the tact of a whisper that knows every ear already aches to hear it."
+        },
+        {
+            "speaker": "Cor Yune",
+            "lines": "We chase reflections because voices lie to themselves first, and the Scribehouse is a cathedral of voices braided into law. There is a side chute in the annex whose plans the Loom keeps folded under their tongues, lined in ink-stone so sound slides off it like rain on oil, and it smells like old weather even in drought. The sealed bundle we need sits under their audit altar, wrapped in oathcloth and complacency, and it can be lifted if we move like questions that have not heard the answers they expect. If we must borrow the truth to keep the city honest, I will wear my mask backward, step into my shadow, and let the shadow lead, because a backwards step can be the quickest path forward when the floor is made of rules. Walk the front with the green light, and if doors close like eyelids on a bad dream, I will be the blink that forgets to happen."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "lines": "Leth Morrow keeps a lien on my name like a fisher keeps a hook in a river he claims, and when he tugs, I feel the tug even when I pretend I do not. I will carry your green truce-light high and let its hue cover me like agreed-upon rain, and I will speak straight enough that even a scribe’s pen grows jealous. But every question I shape in that hall will pull on a thin cord wrapped quiet around my own throat, and I will count the pulls like beats in a song that must not break time. If there is a way to ask that leaves my breath my own, I will find it, and if the way narrows, I will breathe through the bones of the hall until the hall remembers mercy. If I must trade comfort for clarity, let it be a fair trade, and let me keep enough for the road back."
+        },
+        {
+            "speaker": "Tamsin Veil",
+            "lines": "You will walk through the Scribehouse door as if doors are a courtesy, not a favor, and you will keep the lamp high enough to remind them what green means even to those who prefer ink to light. Should Morrow offer a cord to catch your tongue and call it safety, look into his inkstone bowl and speak my name to the reflection as if telling a secret to the river when the gates are closed. The lamp will hear because reflections are our letters to ourselves, and I left a listening there the last time I set foot under those cords. If they try to weigh you like sand and pour you into a named jar, remember that jars break when they are tuned wrong, and you carry tuning forks for a reason. Do not pick a fight, but do not let a fight pick you either, and leave them wondering whether they refused you or merely postponed their agreement."
+        },
+        {
+            "speaker": "Leth Morrow",
+            "lines": "Green light in my hall means truce, and I honor it with my mouth first and my ledgers second, for mouths can close and ledgers must be read, and I prefer to keep my order. Your lamp speaks of the Star-Wasp Summer and all the nights we prayed paper would not burn faster than names, but that cadence is a relic we keep folded because living cities bruise easily when old alarms wear new skins. You ask me to open audit logs whose dust is kept fresh by law, and you bring me a flute-player of bones whose notes have a way of changing maps, and a Lantern whose mask I trust only because I know exactly where I do not. Ghost operators are the kind of ghosts we permit: they leave footprints in ledgers even when they float above floors, and yet I read in your eyes that you have seen prints that do not match the shoes we issued. Give me a petition that does not taste of threat and an oath that does not smell of smoke, and I will write a writ that lets you look where looking does not usually happen, but bind yourself to speak what you find to me first, so the city hears its own name before it hears yours."
+        },
+        {
+            "speaker": "Cor Yune",
+            "lines": "The annex hums like a quiet throat that will cough if we tap the wrong rib, so we will not tap, we will listen until the cough admits it was only breathing. There are three countersigns braided in the seal-cord—weight, scent, and light—and each answers to a different lie the Loom tells itself about being unloved by thieves. For weight, we carry the ledger-stone twin I stole a year ago from their training yard and kept as a souvenir of their arrogance; for scent, we bring the ink brewed from river silt that the Loom pretends no one else can make; for light, we shade our lamp so the green does not argue with their phosphors. Your hands are steadier than mine when the world is measuring us, so you will lift while I count, and I will count wrong if anyone is listening so that their suspicion travels the corridor we are not in. We will walk out with the bundle like we are delivering it to someone who forgot to ask for it, and the trick to that walk is to look bored by danger."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Petition the Archivist with patience and precise courtesy",
+            "text": "You keep the green lamp lifted until its soft hue paints your cheekbones, and you bow as one who knows the difference between pride and posture. You present the copied etchings without flourish and let silence mark the measure between each point, trusting that the Archivist values neat spaces as much as neat ledgers. You speak of the Star-Wasp Summer not as leverage but as lineage, reminding him that the city’s memory is a shared house in which both of you hold keys to different doors. When he demurs, you ask again as if the refusal were a page turned rather than a door closed, and you place each tone of your voice where a scribe would place a period, clear, patient, and final. By the time he notices he is agreeing, his pen has already described the shape of a writ in the air, and your restraint has become the strongest argument in the room.",
+            "outcome": "Leth Morrow signs a limited writ that names your lamp as admissible witness and your eyes as provisional auditors, granting access to the historical shutter codes and a curated sweep of the audit logs. The writ binds you to deliver your first findings to him within a day and to preserve the anonymity of any citizen named purely by signal habit rather than intent. Cor Yune reads the boundaries and grins beneath the mask because boundaries have edges, and edges are where Grey Lanterns dance. You leave by the front door with the bundle wrapped in lawful permission, and the Loom’s clerks watch you go with the wary acceptance they reserve for storms that make crops grow. The city feels a little heavier and a little safer, as if you added lead to a fragile glass, and your name-cord hums but does not tighten."
+        },
+        {
+            "id": "C2",
+            "title": "Invoke your name-cord lien and bargain from a place of risk",
+            "text": "You uncase the chit that bears the matched notch of your own name-cord and let it catch the lamp’s green like a moth pinned in amber, not as a threat but as a flaw you are willing to lay on the table. You say that liens are bridles that only work if the horse still loves the road, and you admit that you owe the Loom more than ink, which is why you have come to pay in truth. You ask the Archivist to pull the cord and hear how far it runs, not to strangle but to weigh, and you confess that you would rather the cord scar you honestly than protect you from necessary pain. The room listens because vulnerability is a noise louder than defiance in halls that worship restraint, and even the ink in the bowls seems to quiet its shine. When he speaks of duty, you speak of duty’s twin, mercy, and you offer your word that the first report you make will be to his private ear, with your own breath carrying it, not a courier’s.",
+            "outcome": "Leth Morrow reads the truth in the rasp of your voice and the way your wrist twitches where glass once bit, and he grants an internal clearance that would never survive a council vote. The access he offers is wide enough to walk secrets through and narrow enough to ensure you cannot carry passengers without him feeling the weight, which is exactly how he likes to help. The lien hums like a bee that remembers winter, and you feel its tug settle not on your throat but across your shoulders, a load you can shift but not ignore. Cor Yune squeezes your elbow and murmurs that debts cut sharper when they are owned, and the two of you slide into the restricted annex as recognized hazards rather than intruders. You depart with the sealed shutter logs and the quiet understanding that favors have been carved into bone, and bone keeps the score better than paper."
+        },
+        {
+            "id": "C3",
+            "title": "Let Cor Yune lead through the shadow route and steal the truth cleanly",
+            "text": "You enter by the front with the green light like a pilgrim who knows the relic will not be shown, and you leave a polite wake of bowing clerks and unstartled guards. Then you split that wake exactly where Cor Yune’s brief nod indicates, stepping into the side chute that smells of rain no map admits, and you let the ink-stone cool the heat in your palms. Cor talks backward to confuse the corridor, and you answer with small, agreeing sounds so that any listening ears count two liars where there are two lovers of careful theft. The seal’s braids test your weight, your scent, and your light, and you answer each with rehearsed honesty until the cord accepts you like a cousin who cannot quite place your face. When the bundle rests in your hands, heavy with stamped years and quiet authority, you walk it out with the body language of a messenger late for an appointment that exists only as long as you believe in it.",
+            "outcome": "No alarm sounds, because the only alarm that mattered was the one you heard in the Phosphor House when the green shutters whispered of ghosts, and you smother it now with competence. A single Loom clerk frowns, notices the lamp, and decides that her afternoon will be better if she remembers the shape of your back as non-threatening, which is its own kind of victory. Cor Yune adds a counterfeit entry to a peripheral ledger that tells the truth of your theft in a tongue the Loom does not read often, ensuring the audit points to a training exercise rather than a breach. You return to Phosphor House with clandestine copies and a sealed bundle that has not woken to its own absence yet, buying the city hours if not days. In those hours, Tamsin Veil will make choices that require clean information and cleaner exits, and your shadow will already be where it needs to be."
+        },
+        {
+            "id": "C4",
+            "title": "Confront the hall with public clarity and threaten to name the ghost",
+            "text": "You let the green shutters speak a formal cadence in the Scribehouse’s entry, not the evacuation song but a cousin-note that once meant assembly without panic, and the glass in the high windows hums agreement. You say, loud enough to be recorded without being rude, that a ghost operator has been braiding sacred signals into gatework, and that if the Loom does not open the audits you will read the cadence in Sternum Plaza at dawn. You promise no names, only patterns, but you remind them that patterns have a way of sketching faces in the frost when the plaza bones wake to whispers. You hold up the bone flute and the forks and swear by the Accords of Quiet Dust that your inquiry will bind no unwilling dead and break no bearing-bone, then you lower your voice and ask Leth Morrow if he would like this story to have a quiet preface rather than a loud first chapter. You mean every word, and you let the room feel that earnestness, even if the threat rides behind it like a well-behaved horse.",
+            "outcome": "The hall stiffens as if a breeze had just decided to become wind, and scribes look at one another with the practical terror of professionals who see extra work arriving in stacks labeled public. Leth Morrow calculates the cost of scandal in the time it takes a lamp to shutter and unshutter, and he chooses the lesser ledger: a private viewing with a strict escort and an oath against plaza theatrics. You keep your promise and your leverage, and the Archivist keeps his dignity and his control, which is a bargain neither of you loves yet both can live inside. Cor Yune uses the escort’s predictability to time a misdirection in the annex, plucking a duplicate bundle while your guided inquiry drifts just wide of the shelf that matters most. You leave with copies and a narrow writ, and the rumor you almost started never learns to grow teeth, though it will remember where the mouth is if you ever need it again."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "experience",
+            "description": "380 experience for unweaving ghosted signals, navigating the Scribehouse with tact or daring, and returning the city a measure safer than you found it."
+        },
+        {
+            "type": "item",
+            "description": "Grey Lantern Cipher Pin, a small green-enameled sigil that marks you as a bearer of truce-light messages and grants safe passage in most rumor-thick corridors."
+        },
+        {
+            "type": "item",
+            "description": "Truce-Light Shutter Plate, a calibrated filter for your lantern that casts the sanctioned green cadence recognizable by guilds and wardens alike."
+        },
+        {
+            "type": "currency",
+            "description": "20 chits, scrimshawed and properly paired in the Loom’s ledgers, sufficient to oil tongues and hinges where courtesy alone may fail."
+        },
+        {
+            "type": "reputation",
+            "description": "+2 reputation with the Grey Lanterns for carrying their green with discipline and returning with truth enough to steer by."
+        },
+        {
+            "type": "reputation",
+            "description": "+1 reputation with the Loom of Names for treating their house of cords with a scribe’s caution, even when you walked its shadows."
+        }
+    ]
+}

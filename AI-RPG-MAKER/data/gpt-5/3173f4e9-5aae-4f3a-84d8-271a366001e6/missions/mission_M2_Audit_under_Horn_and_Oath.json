@@ -1,0 +1,43 @@
+{
+    "id": "M2",
+    "title": "Audit under Horn and Oath",
+    "quest_giver": "Captain-Magistrate Sorn Ilt of the Vigil of the Hollow",
+    "description": "Spinegate Hall smells of bone wax and wet rope. A public audit of the temple’s horn-logs has drawn a crowd of guildsfolk, muttering and craning to see which chair of the Triune will blink first. Sorn Ilt, all plain lines and calmer voice, asks Aerin to walk the narrow line between piety and proof. The sealed logs do not match the tones Aerin caught: a page is missing, a copy is altered, and on the inside of one horn-tube a tiny moth-wing etch marks a crawlspace cut from the lattice beneath the Crown-Market Arcade. Jarik, her brother, watches her like a man waiting to catch a falling chain—ready to trust, and ready to be injured by that trust. The audit threatens to crack further the brittle peace between Vigil, Breathkeepers, River Lords, and Rafter Guild.",
+    "objectives": [
+        "Compare the retrieved tones from Mission M1 to temple horn-logs in Spinegate Hall’s Oathwater-lit chamber.",
+        "Identify the missing page’s time by counting wind-scars on the wax seals.",
+        "Inspect the Aeric Aerie horn-tubes for signs of tampering; document the moth-wing etch.",
+        "Speak with Jarik Rell and Sorn Ilt, proposing lawful next steps without inflaming the crowd."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sorn Ilt",
+            "line": "I will not let this city be torn between horns and ledgers. We will test oaths by the water and by the wind. Aerin, you are both Breathkeeper-sworn and known to the Vigil. Walk with me. Tell me what the bones told you, and we will put it against the ink."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "The tones I drew from the cliffs hold a low triad I’ve not heard outside flood warnings. The logs account for it in neither time nor mark. Someone cut a page, soldier’s neat, and left a moth-wing scratch inside the horn. That is a crawl-signal from the Crown-Market lattice."
+        },
+        {
+            "speaker": "Jarik Rell",
+            "line": "Gods, Aer, if you’re keeping names from me—if this leads where those marks under the Chainhouse did—I need to know you won’t shield anyone. The Vigil cannot chase ghosts while the Triune snarls over fees."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "I will not shield anyone who endangers the ribs. I will not let a scapegoat hang for another’s hand. Let me test the lattice and see who plays moth at the horns."
+        },
+        {
+            "speaker": "Ysil Aer",
+            "line": "We consent to the audit, Captain. The Breath will endure being doubted; it is better than the city drowning in certainty. Find the missing hour."
+        }
+    ],
+    "connections": {
+        "previous": "M1",
+        "next": "M3"
+    },
+    "rewards": [
+        "Vigil cross-cordon token allowing passage through market cordons during investigations.",
+        "Jarik Rell’s lamplighter route map for Undershadows access.",
+        "Public notice of good faith by the Breathkeepers toward the Vigil, tempering immediate accusations."
+    ]
+}

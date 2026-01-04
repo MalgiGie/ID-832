@@ -1,0 +1,60 @@
+{
+    "name": "Dorn",
+    "surname": "Rigger",
+    "race": "Human",
+    "age": 44,
+    "appearance": "Solid frame in oil-stained leathers, steady hands, and a nose permanently smudged with soot. Carries a pocket metronome that never lies.",
+    "character": "Cautious and methodical master who counts failures as teachers and hates grand gambles.",
+    "traits": [
+        "meticulous",
+        "conservative",
+        "skeptical",
+        "protective of apprentices"
+    ],
+    "skills": [
+        "mechanical design",
+        "safety protocol drafting",
+        "budget wrangling",
+        "lecture and instruction",
+        "failure-mode analysis"
+    ],
+    "talents": [
+        "spots design flaws at a glance",
+        "improvises stabilizers from scrap",
+        "keeps teams steady during partial collapses"
+    ],
+    "flaws": [
+        "risk-averse to a fault",
+        "holds grudges against showboats",
+        "lets caution be used as a cudgel"
+    ],
+    "dreams": [
+        "incremental improvements that save lives without headlines",
+        "own a modest workshop free of Ledger liens",
+        "keep every apprentice he trains alive to old age",
+        "stop the focusing ring from blinding the city"
+    ],
+    "secrets": [
+        "quietly sabotaged a noncritical ring test to prove risk—no one was harmed",
+        "holds proof the Hall clock refused to chime before a failed project",
+        "hides a ledger of near-misses the Council refuses to log"
+    ],
+    "relations": [
+        {
+            "npc_name": "Kelen Prism",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orven Caldris",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Nhal Vessin",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sera Flintline",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

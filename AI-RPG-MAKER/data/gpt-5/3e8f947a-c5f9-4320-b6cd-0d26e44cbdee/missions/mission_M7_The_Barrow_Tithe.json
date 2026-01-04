@@ -1,0 +1,79 @@
+{
+    "id": "M7",
+    "title": "The Barrow Tithe",
+    "quest_giver": "Arakel Dorn",
+    "description": "North where hills wear old impacts like medals, the Starfall Barrows open their cool throats to those who walk with respect. A petition written in light crawled along the Ossuary walls demanding a tithe from the city as if Marrowhold were a vassal under ancient, meteor-written law. Arakel Dorn of the Unentombed asks Rogan to carry diplomacy into a court where contracts are measured in memories and oaths taste like iron. Barrow shades, versed in statutes older than the ribs, line the walls like a jury, and an ash-elf advocate named Talekan Yss speaks for the dead with a careful rage. To secure star-metal needed for the Aerie’s safety and to learn whether the Gate’s hum has awakened old things beneath, Rogan must barter something he can afford to lose. The barrows will take a coin of memory without bleeding, but the cost is always counted later.",
+    "objectives": [
+        "Travel with Arakel Dorn to the Starfall Barrows under Unentombed sanction.",
+        "Negotiate with Talekan Yss and the Barrow-Lord for a suspension of tithe in exchange for services.",
+        "Offer a memory tithe (choose a memory) or find a legal precedent to satisfy the shades.",
+        "Investigate a humming star-metal vein and compare its tone to the Gate’s false note.",
+        "Secure a star-metal edge for the Aerie hooks and a writ easing Aerie access to Barrow materials."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Arakel Dorn",
+                "line": "The dead are not our enemies, but they can be terrible in their fairness. Walk soft, and do not promise what your bones will not keep. We need their metal, and we need their patience, and both are bought with respect."
+            },
+            {
+                "speaker": "Talekan Yss",
+                "line": "Marrowhold forgot a treaty written in a sky no one living remembers. The Barrow-Lord remembers very well. Pay what you owe, or argue your way into a compromise worth the paper you’ll scratch it on with your shaking hand."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I’ve seen a city forget what it ate yesterday and a mother remember the last touch of her child forever. If I must pay with memory, I will choose mine and not steal another’s. If I can pay with work, I’ll do it twice over."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Barrow-Lord (shade)",
+                "line": "We will accept a memory of anger traded for quiet, or a memory of fear turned into courage, for those are fine currencies in our court. Or bring us a resonance that proves the living did not break the treaty first. Your voice shakes like a bell that knows the hammer is raised."
+            },
+            {
+                "speaker": "Arakel Dorn",
+                "line": "The star-metal vein hums with the Gate’s false note entwined around a true one. Someone played a tune into the earth. If we mark the true tone and reject the false, the law will see we tried to mend before we were asked to pay."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "Take the memory of my temper when water was withheld from a child, and leave me the part that made me carry her to shade anyway. I’ll keep the courage and pay you the rage."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Talekan Yss",
+                "line": "It is a clean payment. I will remember the shape of your anger, and you will walk without it. The writ stands: the tithe is stayed, and the Aerie may take what it needs so long as it sings the true tone when the hooks are forged."
+            },
+            {
+                "speaker": "Arakel Dorn",
+                "line": "You bled without bleeding, and it mattered. Take this star-metal edge. It makes chains hold and liars hesitate."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "When I miss the weight of that anger, I’ll fill the space with patience. And when a chain holds because of what we did here, I’ll think kindly of the dead."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Star-metal Edge: upgrade enabling safer mooring chain work and cutting cullet threads."
+        },
+        {
+            "type": "writ",
+            "description": "Barrow writ easing Aerie access to star-metal under Unentombed oversight."
+        },
+        {
+            "type": "status",
+            "description": "Memory cost paid: Rogan loses a portion of his reactive anger (affects future dialogue tones)."
+        }
+    ]
+}

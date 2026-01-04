@@ -1,0 +1,79 @@
+{
+    "id": "M4",
+    "title": "The Widow’s Lamp",
+    "quest_giver": {
+        "name": "Neth Cowl",
+        "affiliation": "Ribshadow Brotherhood"
+    },
+    "description": "Night gathers under the bluffs where bone-chimes whisper and the surge gnaws at Broken Cap, and the Salt Widow’s Lighthouse leans into the wind with its cold, stubborn light that refuses tide and prayer alike. The beacon stains the fog a winter-blue, and the ropes that gird the tower sing a single line like a vow stretched thin, as if the stone itself breathes in widow’s time while the sea keeps count. Captain Neth Cowl sends a folded bone-lace message through the Market of Teeth, its cutwork humming like a secret in a seashell, promising that a cache of old wrecker ledgers and storm marks lies in a seam-cave beneath the tower, exposed only at slack water when the rocks unclench their fists. Brinelaw patrol skiffs sniff down the coast with lanterns shuttered to slits, and gossip says High Bailiff Osric Greyfen means to box the bluffs with buoys and fines until even a gull thinks twice about landing there. The Salt Widow’s legend is as sharp as her lampstone: those who try to snuff the beacon see their own lights refuse to spark forever after, and wreckers swear their torches died like guilty lungs the night they touched her stairs. Inside the tower, lamp-smoke tastes of salt-wedding sorrow, and wind moves like a dress around the spiral, brushing the cheeks of anyone who dares to climb as if a hand that cannot warm still knows the motion. The records down there could teach the city where the shoals creep and how saboteurs hid their boats the night the chains went wild and sang murder, or they could bury families in fines and shackles that rust slow but bite deep. Between law and hunger, between memory and mercy, your wake must write a cleaner line than the surf.",
+    "objectives": [
+        "Travel by night skiff to the Salt Widow’s Lighthouse and infiltrate the seam-cave at slack water, when the tide’s fist loosens and the rock’s mouth opens to a careful oar.",
+        "Recover the cache of wrecker ledgers and storm records without drawing Brinelaw attention, leaving no ash, footprint, or echo for patrol skiffs to follow.",
+        "Investigate the beacon’s cold flame and note any alchemical or occult mechanism, tasting its hymn with a rime-lantern’s eye and a wary heart.",
+        "Decide whether to deliver the records to Neth Cowl, to Osric Greyfen, or to split the intelligence between them, knowing each path binds a different future to your name."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Neth Cowl",
+            "lines": "The lighthouse keeps a light for love, not for law, and that is the only light I ever trusted to stay lit in a gale. The woman who lit it has more patience than any magistrate and more rage than any storm, and if the sea had fingers it would not pinch her fire out either. Those ledgers aren’t lists of crimes; they’re the names of children who ate because their elders cut a sail off a dead ship, and the margins are a map of nights we out-sang hunger. Bring me those books and I’ll keep the names safe, shut in bone and brine where the Compact’s ink cannot scald them. If the Brinelaw wants to fix a danger, they can pay to move the shoals with prayer and coin, not by netting widows in rules like they were fish. Mind the seam-cave’s breath and slip it at slack, and don’t stare too long at that cold flame or you’ll start weighing oaths against ghosts."
+        },
+        {
+            "speaker": "Osric Greyfen",
+            "lines": "There are nights when compassion must take the longer road, and I have walked it with wet boots and a ledger that bleeds through the page. I do not ask you to betray your own past on those rocks, Mara Kestrel, nor to sell any child’s name to the tide-clock for a cleaner conscience. I ask only for a copy of the marks that show where ships die over and over, the soundings and storm-scars that repeat like a bad hymn the city refuses to learn. Give me that, and I can justify lanterns and buoys that save lives without rotting out what is left of our trust, and I can swear at the Oathwell that no witch-hunt will follow from your hand. If you must keep the names in shadow, keep them, but share the teeth of the coast so I can blunt them with public light and not the Widow’s lonely grief."
+        },
+        {
+            "speaker": "The Salt Widow (a whisper on the stair)",
+            "lines": "I light and I wait, because the tide is a clock that remembers me even when I forget myself. I light and I wait, because his oar never turned the corner and the fog is a veil I cannot lift, though my hands know the shape of lifting. When you bring me a story of someone found, I will sit, and when you bring me a ring with no finger to warm it, I will sleep, but you bring me neither and so I keep the vow that eats its own tail. Until then, my lamp burns, and its hunger is cold and clean and steadier than a heart that must beat for two. Take what you will, thief or child or judge, because the sea takes back twice for every once we clutch, and I am only trying to break even with an absence. Those who steal the light will one day need it, and their hands will be empty, and perhaps then they will understand that love budgets its fuel with cruelty when the night is very long."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "I know this tower’s breath, and I have counted my heartbeats in its fog while the chain-gates ground their teeth far behind me. I’ve marked my steps by its cold and leaned on its wind when my own legs shook from a squeeze-black memory at the trench’s rim. I will take what can save, and I will not take what only hurts, and if the difference cuts it will cut me first so that my knife proves its edge on my own skin. The city taught me oaths taste of iron and winter, and I will not salt my mouth with a promise I will not keep, no matter who hands me the cup. Tonight I walk between widows made by water and widows made by ink, and I will leave a wake that does not drown anyone I cannot drag to air."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Deliver the cache intact to Neth Cowl under the bluffs",
+            "text": "You bind the ledgers in waxed sailcloth, tack a quiet wake behind the skiff, and slip the cut between rib-shadow and reef-song where Brinelaw lamps cannot bite. The seam-cave exhales once as you go, as if satisfied to have its secrets lifted by hands that remember hunger, and the Widow’s blue light watches without blinking. Under the jawbone awnings of the Market of Teeth, you trade the bundle to Neth where bone-chimes hiss like rain, and you ask no receipt but a look that says he understands what the pages cost to carry. You speak low that you will keep a copy of the storm marks in your own chart, and he does not flinch because he knows a pilot’s memory must be fat with useful cruelties. Before you part, you tell him what you saw of the beacon’s cold flame, the dampers, the lampstone’s pitted skin like frost that never melts, and he nods as if he, too, has tried to blow out a grief that makes its own weather.",
+            "outcome": "Neth clasps your wrist and promises a lane whenever the Compact squeezes you, and the Brotherhood’s lookouts turn their faces away when you pass at dusk as if forgetting has become an art in daylight. Word coils through the ribs that you brought the books home to the dark, and wreckers who remember your mother’s lantern leave a bag of wrecker coin, twenty silver bright as fish eyes, near your tram-stoop. Osric hears only that the Brinelaw was too slow and tastes salt a little longer than is polite, and though he does not summon you he does not open every door for you either. From Neth you also learn a finger-trace map of hidden inlets under Broken Cap, quiet throats of water that shorten any covert crossing, and you copy the marks with a bone-char that smudges courage onto the page. The lampstone shard you palmed from a fallen chip on the stair refuses a test flame that should have licked it awake, and when night turns raw it hums a note that your bowstring recognizes as steadiness."
+        },
+        {
+            "id": "C2",
+            "title": "Share the storm marks with High Bailiff Osric Greyfen and submit the cache to Brinelaw custody",
+            "text": "You sit beneath a shuttered rime-lantern and copy every shoal scar, every tide-arrow, and each lantern-killer current into a clean chart, leaving the names of wrecker families to sleep in a different bundle. The skiff heads by the long, honest way to the Brinelaw Keep, where the tide-clock marks your hour with a rise that feels like a throat clearing, and where the Oathwell tastes of iron and winter when you rinse your mouth before speaking. Osric meets you under the stone eyes of a dozen carved codes, and you tell him exactly what the coast says when it sings wrong, and what the beacon looks like when its flame thinks for itself. You lodge the ledgers in a sealed chest with two witnesses and a magistrate’s signature, and you keep a key made of memory and respect rather than brass. In exchange for the risk and the restraint, you ask for buoys, for rope-lanterns in poor wards, and for a promise that no name in those books will be hunted merely for a bad year’s hunger.",
+            "outcome": "Osric drafts a writ that authorizes a chain of public lights north of Broken Cap, and he writes your name into the margin as the pilot whose chart guided the placing, a small ink that will save larger blood. He grants you a Brinelaw promissory for harbor dues equal to twenty silver, stamped with a tide-scribe’s coil that rings like a coin when tapped, and he instructs his bailiffs to treat your wake as clean unless proven otherwise. The Anchor-Compact pretends to smile at your civic spirit, while the Brotherhood’s smiles go thin as knives and a few dark windows do not open when you knock, though no blade follows you home. Osric’s archivists share secret chart marks for the hidden inlets under Broken Cap, not as smuggler lanes but as emergency cuts for storm relief, and your tideglass compass seems to steady when the marks touch it. The lampstone shard you carry earns a magistrate’s frown that softens to curiosity when it refuses a candle’s kiss, and he asks for a report on the alchemical dampers you sketched so the city can guard against false lights without snuffing the true."
+        },
+        {
+            "id": "C3",
+            "title": "Split the intelligence: names to night, marks to law",
+            "text": "You cut the cache in two, not with a blade but with care, copying the shoal-scars and storm-calls by lamplight while the names and margins of hunger remain in your possession. At dawn’s dimmest gray you pass the bound ledgers of names through a rope-lace to Neth beneath the bluffs, asking him to guard the families as jealously as he guards his own, and you swear a little brine to make the point sting. By noon you stand in Brinelaw Keep with clean charts for Osric, your mouth iron-cold from the Oathwell because you will not let the city drown itself on pride while pretending any tide spares fools. Between these errands you climb the Widow’s stairs one last time and whisper to the lamp that you have brought both a story of someone found and a ring that has no finger, a promise that maybe lets the wind soften on your cheek for a single step. You leave both men with truth enough to move water and shadow enough to keep children fed, and you tell yourself that balance is not cowardice when the sea asks for a fair trade.",
+            "outcome": "Neth looks at you like a knife he respects and puts away point-first, grateful for the names and the discretion, and he speaks a quiet word to Brotherhood oars so your lanes under the bluffs stay smooth even when the Compact pinches. Osric accepts the charts with measured relief, and in public his voice reads your findings into the record without the names, a compromise that earns him a Pilgrim’s nod and a merchant’s sigh, and he pays you in a Brinelaw promissory rather than coin. The favors do not rise as high as they might have on either side, but both doors stay unlocked enough for a careful hand, and both factions test you less often with traps that taste of pride. You still secure the secret chart marks for hidden inlets under Broken Cap, drawn once from Neth’s palm and confirmed by Osric’s tide-scribes, a double-ink that reads truer than either alone. The lampstone shard you carry remembers you as the one who would not force a single answer on a patient light, and when you strike flint against it for a test it refuses ordinary flame with the dignity of a vow that has work yet to do."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Navigation",
+            "description": "Secret chart marks for hidden inlets under Broken Cap (faster covert travel)."
+        },
+        {
+            "type": "Faction",
+            "description": "Choice-based favor: +Favor with Ribshadow Brotherhood (if delivering to Neth) or +Favor with Brinelaw Keepers (if sharing with Osric)."
+        },
+        {
+            "type": "Trinket",
+            "description": "Storm-marked lampstone shard that resists normal flame (trinket)."
+        },
+        {
+            "type": "Currency",
+            "description": "20 silver in wrecker coin or a Brinelaw promissory for equivalent harbor dues."
+        }
+    ]
+}

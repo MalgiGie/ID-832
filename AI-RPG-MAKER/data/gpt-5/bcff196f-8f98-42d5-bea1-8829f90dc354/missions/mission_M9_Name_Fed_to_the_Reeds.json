@@ -1,0 +1,52 @@
+{
+    "id": "M9",
+    "title": "Name Fed to the Reeds",
+    "quest_giver": "Ossa Wreath",
+    "description": "A new waterway has appeared in the Mourning Mire—a straight cut like a spear-thrust—and those who take it return without their shadows. The Willowwives whisper that a relic-needle of the drowned queen was stolen from the Order long ago, and the queen’s memory wants it fed with a true name before she bargains safe passage again. Ossa asks Kezra to bring fairness to the Accord and boldness to the rite: return with the relic-needle from a peat-cache, speak a name that means something, and balance the Accord with terms that do not tax the mire into clever lies. The reeds remember the night Kezra asked for a way out and paid something not yet collected.",
+    "objectives": [
+        "Locate the peat-cache where the relic-needle is hidden by following ghost lights that mimic lanterns—without being led astray.",
+        "Parley with the drowned queen’s memory at the straight waterway; offer a true name and bind terms for safe passage.",
+        "Write and witness a renewed Willowwife Accord that protects both city and mire from predatory terms.",
+        "Return the relic-needle to the Order under conditions that respect Willowwife rites."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ossa Wreath",
+            "lines": "You walked our reeds once and left a breath of your name on them. The queen remembers flavors better than faces. Bring the needle back, and don’t let the Order turn our grief into a sermon. Give her a name that costs you without breaking you; that’s how bargains survive winter."
+        },
+        {
+            "speaker": "The Drowned Queen’s Memory",
+            "lines": "I am not a demon, little oath. I am a meal the river keeps eating and serving again. Names are salt, and I am hungry. Speak a true one, not the one you wear in markets. Then I will let the children find the long way home, and pilots who whistle wrong will live long enough to learn the right tune."
+        },
+        {
+            "speaker": "Prior Ansel of the Black Thistle",
+            "lines": "We do not traffic with river masks to abate a temporary danger. And yet—your city is built on bridges across worse compromises. Bring back the relic, and if you must make a bargain, bind it so tightly to your own breath that no one else pays for it."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I have a name I’ve kept for nights when I dream of water. I’ll feed it to you and not flinch. In return, we set terms that don’t drown anyone slowly. Ossa, I’ll write the Accord like it’s a raft we all have to stand on at once."
+        }
+    ],
+    "connections": {
+        "previous": "M8",
+        "next": "M10",
+        "locations": [
+            "Mourning Mire"
+        ],
+        "npcs_involved": [
+            "Ossa Wreath",
+            "Prior Ansel of the Black Thistle",
+            "the Drowned Queen’s Memory"
+        ],
+        "themes": [
+            "bargain with memory",
+            "reparations",
+            "shared stewardship"
+        ]
+    },
+    "rewards": [
+        "Safe-passage token woven of bone-white reeds (grants advantages in mire and on certain canals)",
+        "Relic-needle recovered and entrusted for the final rite",
+        "Strengthened Willowwife relations (moth-supply stability)"
+    ]
+}

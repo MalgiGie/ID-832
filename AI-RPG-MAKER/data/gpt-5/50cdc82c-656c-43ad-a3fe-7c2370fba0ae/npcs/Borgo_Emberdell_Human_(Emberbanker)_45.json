@@ -1,0 +1,66 @@
+{
+    "name": "Borgo",
+    "surname": "Emberdell",
+    "race": "Human (Emberbanker)",
+    "age": 45,
+    "appearance": "A thick-necked foreman with heat-reddened cheeks, scarred arms, and a molten-glass burn that glints like amber on his jaw. Keeps tally-chalk behind one ear.",
+    "character": "Gruff and prideful, loyal to his crew if they follow orders and schedules.",
+    "traits": [
+        "Proud",
+        "Gruff",
+        "Protective of crew",
+        "Practical"
+    ],
+    "skills": [
+        "Emberglass metallurgy",
+        "Kiln calibration",
+        "Shift scheduling",
+        "Crisis firefighting"
+    ],
+    "talents": [
+        "Predicts glass color by flame odor",
+        "Endures swelter better than most",
+        "Hears stress in cooling panes"
+    ],
+    "flaws": [
+        "Short temper",
+        "Gambling habit",
+        "Blind spot for management favors"
+    ],
+    "dreams": [
+        "Invent a signature emberglass that wins him a partnership",
+        "Retire to a warm villa above Emberbank",
+        "Outmaneuver the Hearth Union without breaking his crew"
+    ],
+    "secrets": [
+        "Siphoned profit from scrap channels tied to illegal coin blanks",
+        "Owes the Night Orchard for erasing a debt marker",
+        "Misdirected a safety inspector with free lantern panes"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ina Peppercoal",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Thane Kelvar",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Jaya Basaltrip",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Rook Salter",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Garrin Chainwatch",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Erynn Mirrorfall",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

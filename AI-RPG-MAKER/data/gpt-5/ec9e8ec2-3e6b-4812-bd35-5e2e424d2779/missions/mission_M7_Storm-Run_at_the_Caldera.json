@@ -1,0 +1,38 @@
+{
+    "id": "M7",
+    "title": "Storm-Run at the Caldera",
+    "quest_giver": "Liora Fen",
+    "description": "Lightning walks down the ridge roads like a priest in procession at the Storm-Kiln Caldera, and you can smell metal burn into sand and remember why fulgurites are called the city's veins. Liora Fen asks for escort and muscle; Conclave and Concord crews will run a storm-growth together—rare, uneasy—and she suspects sabotage after devices went missing at the Shoals. The Heartshard legend whispers in the spires: a piece of night hammered into the world that makes oaths harden like glass in the throat. Fulgar sprites flicker and bite at metal, rival gangs skulk under the spire's shadow, and Serat Voss watches with eyes that count debt as carefully as salt. If the run is good, the Beacon will have quality glass for tuning; if the run is broken, the city's nerves will fray further and the keening will curdle into fear.",
+    "objectives": [
+        "Protect the joint Conclave-Concord crews during a storm-growth run at the Caldera.",
+        "Prevent saboteurs from smashing fulgurite molds and poisoning resin feeds.",
+        "Investigate rumors about a Heartshard fragment and whether it has been removed from the Caldera spire."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Liora Fen",
+            "content": "The hymns we sing here are not to gods, however much the Faith scowls. We sing to memory and structure and heat, and the glass listens the way a child does when you tell it a story too close to the truth. If there is a shard of anything like a heart hammered into this place, it is the habit of oath and storm agreeing to step at the same time. Keep the saboteurs from breaking our rhythm, and I'll show the Reefkeepers we don't only know how to tune rocks to obey."
+        },
+        {
+            "speaker": "Serat Voss",
+            "content": "You don't own lightning, prism-spinner. You trap it for a moment and sell the moment as if you built the sky. My employers buy moments by the wagon, and I'm here to make sure the price stays right. Tairn, you like to stand between guilds like a piling in current. Be careful you don't rot where you stand and leave both sides carrying a bridge with no foot."
+        },
+        {
+            "speaker": "Orun Shard",
+            "content": "Sing on my count. If the resin stutters, backflow the feed and for the love of the Reef do not cough in your mask. Tairn, keep your hook ready for the kind of man who believes glass is more honest than law. It isn't, but it cuts cleaner, and clean cuts bleed fast."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        "Prism-lens brooch from Liora Fen that helps read faint Beacon hums",
+        "Concord credit chit redeemable for minor repairs at the Glassblossom Nursery",
+        "Reputation: +Small with Conclave of Prismancers and Glassworkers' Concord, -Small with Serat Voss"
+    ]
+}

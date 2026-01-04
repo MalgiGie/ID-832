@@ -1,0 +1,44 @@
+{
+    "id": "M2",
+    "title": "Salt on the Tongue",
+    "quest_giver": "Osric Greyfen",
+    "description": "Brinelaw does not move without brine upon the tongue. High Bailiff Osric Greyfen summons Mara to the Brinelaw Keep, where the tide-clock rises in its stone throat and the Oathwell waits with winter on its surface. He has heard of the shard from the Array and the hum that touches the city’s sleep; he has also heard that forged passes still flow like cheap wine to the Tideglass Flats. Osric offers a writ of investigation—that sharp needle that lets a citizen prick secrets without drawing a gaol-sentence. Ketta Brineshaw, a tide-scribe with steady hands and salt-pricked eyes, will open the ledgers and the seized evidence, including a salt-glass pass with a thumbprint trapped in its heart. A choice blooms like rime on iron: follow the law inward until it stings, or let shadows do their work until the law must taste its own salt.",
+    "objectives": [
+        "Drink from the Oathwell to swear a limited investigator’s oath under Brinelaw.",
+        "Examine the seized salt-glass pass and ledgers with Ketta Brineshaw for connections to the Array hum and counterfeit routes.",
+        "Interview a Ribshadow contact at the Market of Teeth without provoking a Brinelaw clash.",
+        "Deliver a preliminary report to Osric Greyfen and request a standing writ for further inquiries."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Osric Greyfen",
+            "lines": "Brine strips flattery from the mouth, and so I will not offer you any. Dorsalhaven rides a skeleton chained to the seabed by good sense and bad memory. If the Array is touched by sabotage, I must cut out the rot before it spreads. If it is touched by myth, I must make room for faith without letting it capsized the law. Swear to me in salt, Mara Kestrel, that what you bring back will be true enough to survive the Oathwell’s memory."
+        },
+        {
+            "speaker": "Ketta Brineshaw",
+            "lines": "The pass we seized is clever work, better than the usual jaw-hinge counterfeits. The thumbprint frozen inside is smudged just so, as if the owner wanted to be seen but not held. Whoever made this knew our inks and our hourglasses and the way our bailiffs sweat on their rounds. If we follow the lines in the glass, they lead to the Flats, to the Market, and to someone who understands both ledgers and lulls."
+        },
+        {
+            "speaker": "Neth Cowl",
+            "lines": "Careful where you dip your cup, Kestrel. The Oathwell bites harder than the sea when you taste it too often. If you ask me a straight question, I’ll give you a straight answer with a bend in it: the forged passes keep fisher families fed when tariffs gnaw to the bone. The Array’s hum is not ours. We prefer chains that sing true, because we dance on them at night."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "I will drink the brine and let it burn. I’ll read your ledgers, Ketta, and I will ask my questions in the Market without breaking the stalls. And Captain Cowl, if I find your prints where the law cannot ignore them, I will put the truth on Osric’s bench and let the tide decide. No one dances if the chain parts."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": [
+        "Brinelaw investigator’s writ (limited to city infrastructure and counterfeit passes)",
+        "Access to Brinelaw archives with Ketta Brineshaw’s sponsorship",
+        "+Standing with Brinelaw Keepers (Osric Greyfen)",
+        "A sealed pouch of forensic salt-ink for revealing tampered seals"
+    ]
+}

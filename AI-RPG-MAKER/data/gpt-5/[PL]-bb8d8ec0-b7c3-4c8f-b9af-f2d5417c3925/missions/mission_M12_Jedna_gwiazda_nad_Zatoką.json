@@ -1,0 +1,55 @@
+{
+    "id": "M12",
+    "title": "Jedna gwiazda nad Zatoką",
+    "quest_giver": "Eldan Zmierzchowy",
+    "description": "Nadchodzi sztorm i z mgły wynurza się zarys widmowej floty. Latarnia musi zaśpiewać jednym tonem, Niebomost utrzymać ludzi, a Rada – milczeć na czas działania. Eldan wzywa Eliana na galerię, gdzie skrzypi wiatrowskaz węża morskiego. Trzeba połączyć pryzmaty, Pieśń Zespalającą, głos z odłamka brata i światła lampników. Konfederacja próbuje w ostatniej chwili wyłączyć część dźwigów, by wymusić panikę. To finał: albo miasto nauczy się oddychać razem, albo każde jego płuca rozkrzyczą się osobno.",
+    "objectives": [
+        "Wejdź na galerię Latarni i ustaw pryzmaty w pozycji z M8, używając odłamka-głosu z M10.",
+        "Skieruj lampników Jodana i Chór Cieni Matki Korali do sygnałów wsparcia dla łodzi na zatoce.",
+        "Użyj kamertonu Deleriona i błogosławieństwa Limy, by utrzymać Pieśń Zespalającą podczas szczytu sztormu.",
+        "Ujawnij w Wieży Grot mapę białych plam ochrony, by powstrzymać sabotaż dźwigów przez ludzi Konfederacji.",
+        "Zdecyduj o losie czarnych ksiąg: upublicznić je w Domu Segmentów czy zostawić w rezerwie na negocjacje przyszłości."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Eldan Zmierzchowy",
+            "line": "Patrz, jak mgła kładzie się na wodzie jak skóra na bębnie. To chwila, kiedy latarnia albo się staje prawdą, albo kłamstwem. Mamy wszystko, co trzeba: kamień, pieśń, oddech. Brakuje tylko odwagi, by nie zadrżała dłoń, kiedy światło zechce spojrzeć w jedno oko."
+        },
+        {
+            "speaker": "Matka Korala",
+            "line": "Moje łodzie są tam, gdzie światło nie pyta o podatki. Daj sygnał, a poprowadzimy tych, którzy wzięli mgłę w płuca. A potem, kiedy zapali się gwiazda nad zatoką, zaniesiemy twoją prawdę do tych, którzy myślą, że można kupić przypływ."
+        },
+        {
+            "speaker": "Vasko Danter",
+            "line": "Nie rób głupstw, chłopcze z Niebomostu. Jedno słowo za dużo i runie coś więcej niż most. Te księgi można czytać na wiele sposobów. Zostaw je na stole, a wszyscy wyjdziemy stąd mniej mokrzy."
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Nie będę sprzedawał oddechu miasta. Jeśli światło ma dziś świecić jednym promieniem, niech świeci też na dłonie, które chciały odciąć dźwigi w sztorm. Bracie – jeśli mnie słyszysz – pomóż mi utrzymać ton. A potem znajdę drogę, by przynieść ci więcej niż echo."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        {
+            "type": "city_state",
+            "description": "Latarnia Rozszczepiona zestrojona; widmowa flota odpływa nierozpoznawszy fałszywego portu."
+        },
+        {
+            "type": "title",
+            "description": "Przydomek 'Wiązacz Świateł' nadany przez lampników i cieśli."
+        },
+        {
+            "type": "item",
+            "description": "Łuk z wstawką z żywego szkła – cichszy strzał i klarowniejsze sygnały."
+        },
+        {
+            "type": "faction",
+            "description": "Silny wpływ w Radzie Segmentów przy sprawach Niebomostu i szybów."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "M2",
+    "title": "Harmonies and Sleepwalkers",
+    "quest_giver": "Neris Aline (Asterion Collegium)",
+    "description": "The Collegium’s oculus tower turns its lenses like patient moons, and Neris Aline meets you under brass meridians that hum faintly when the Shard exhales. She has charts showing the dusk hum drifting off its lunar cadence. Storm-dampening experiments, carried out to shelter the city, have made sleepers wander Lanternstep by night as if the ground were a stair calling them down. Neris needs field readings at three sites where city, river, and industry knot: the Chainbridge Crown’s mid-span, the Emberglass Foundry’s cooling gardens where molten breath turns to panes, and the Moonless Orchard’s boundary where shade remembers vows. She expects resistance from the Order’s wardens who hate unlicensed nudging of the Shard, and from guilds afraid of blame. Your step is trusted where officials stumble, and your lamp can sing code no ledger can erase.",
+    "objectives": [
+        "Meet Neris Aline at the Collegium of Asterion to receive the harmonizer probe.",
+        "Take discrete tonal readings at the Chainbridge Crown, Emberglass Foundry, and the edge of the Moonless Orchard.",
+        "Avoid provoking Order wardens and negotiate access with Lysa Shardhands if confronted.",
+        "Return the probe and your observations to Neris."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Neris Aline",
+            "lines": "Our harmonizer was meant to cradle storms the way a hand cradles a frightened bird. It worked, in a fashion, but it taught the bird a strange song, and now it flies at night. People are walking in their sleep, Jaryn. They are walking toward the water or the Shard without knowing their names. I need to know if the city is singing too loudly or if someone else is humming in the marrow of our bridges."
+        },
+        {
+            "speaker": "Lysa Shardhands",
+            "lines": "I will not have meddlers setting new notes against the Shard without sanction. The Bastion remembers seven breaths of silence; that memory is a knife we live above every day. If you take readings, take them with reverence and without devices that push. Show me your tile, speak your oath plain, and I will step aside, but I will listen for lies."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "I carry a copper tile and I carry respect. I’ve hauled your wardens when the river rose and I’ve held a line while the city argued. Neris isn’t trying to force a chord into the Shard. We’re trying to hear if something else already has. Stand with me while I listen, Lysa, and if the song bites, we’ll both feel the teeth."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": [
+        "Asterion Tuning Pin (detects subtle changes in Shard hum near you).",
+        "Asterion Collegium reputation (modest increase).",
+        "Insight: Confirmation that the hum drifts strongest near the Chainbridge Crown."
+    ]
+}

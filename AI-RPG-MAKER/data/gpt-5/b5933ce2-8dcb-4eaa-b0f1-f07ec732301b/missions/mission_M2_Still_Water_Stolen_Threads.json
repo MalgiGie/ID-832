@@ -1,0 +1,47 @@
+{
+    "id": "M2",
+    "title": "Still Water, Stolen Threads",
+    "quest_giver": "Sila Jor",
+    "description": "The Concordant Archives spiral around wells of slow water, where memories braid in copper and are lowered like fishing lines into a river beneath thought. Sila Jor studies the humming pebble while clarity sap steadies her pupils. She believes the pebble carries a fragment of a larger hymn—an echo of the city’s first covenant—yet a set of legal recollections linked to that hymn has gone missing from the public well. The Night Ledger’s shadow hangs over the theft, thin as a veil and twice as sharp. Sila needs Aren to retrieve the stolen memory-thread before it is bartered into oblivion.",
+    "objectives": [
+        "Drink a measured sip of clarity sap and assist Sila Jor in lowering the humming pebble into a memory well to trace its resonance.",
+        "Follow the traced resonance to a missing legal memory-thread tied to early water charters.",
+        "Negotiate with Sorev Dusk at the Veilhouse of Whispers for the memory-thread’s return without allowing blackmail leverage.",
+        "Return the recovered thread to Sila Jor and witness its reintegration into the well."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sila Jor",
+            "lines": "The pebble’s note is not lone. It is the ragged edge of a woven sound, like a hem torn from a robe that once fitted the river’s shoulders. When I lower it, the well wants to remember a law, not a song, which tells me we have always confused the two in this city. The thread we need to tie the memory in place is gone. It was a public recollection of the first tax forgiveness after a flood; someone wants mercy forgotten."
+        },
+        {
+            "speaker": "Sorev Dusk",
+            "lines": "Masks are made to fit faces, Aren, and debts to fit pockets. The thread isn’t a bauble; it’s leverage tuned to a key only a few can hear. I can part with it for a favor not measured in coin: a promise that when the Ledger chooses to shorten a feud before the Lantern Unmooring, you do not stand in the doorway with that river glaive of yours. I have not forgotten the night you burned a widow’s debt, and neither has the river under our feet."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "You covered my retreat once because there were children watching, and I owe you for that mercy, not for your ledger. I won’t promise you a blind eye; I promise a steady one. Give me the thread and I’ll return it to the well where the whole city can see itself in its water again. You can keep your mask-work. I already paid the Moonbridge to forget me once; I won’t pay you to forget what matters."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": {
+        "currency": 0,
+        "items": [
+            "Copper-braided Memory Pin (allows safer handling of recollections)"
+        ],
+        "reputation": {
+            "Concordant Archives": 3,
+            "Night Ledger": 1
+        },
+        "access": [
+            "Reading alcove privileges at the Concordant Archives"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Holl",
+    "surname": "Riverborn",
+    "race": "Human",
+    "age": 44,
+    "appearance": "Kind-faced liturgist with river-calloused hands and a tide-rope belt. Smells of fish, ink, and rain.",
+    "character": "Patient teacher who believes most knots can be untied with time and kindness.",
+    "traits": [
+        "Gentle",
+        "Stubbornly hopeful",
+        "Meticulous",
+        "Diplomatic",
+        "Plainspoken"
+    ],
+    "skills": [
+        "Equinox rites and channel blessings",
+        "Fish lore and river medicine",
+        "Mediation between Archive and Temple",
+        "Chart copying and upkeep"
+    ],
+    "talents": [
+        "Turning anger into listening",
+        "Finding the right story for a wound",
+        "Reading river spirits in ripples"
+    ],
+    "flaws": [
+        "Overly trusting of smooth talkers",
+        "Slow to act when swiftness is needed",
+        "Dislikes sharp glass near altars"
+    ],
+    "dreams": [
+        "Compile a concordance of river songs from reed village to sea",
+        "Heal the schism between Temple and Collegium",
+        "Sit one day at the basins and have his word weigh"
+    ],
+    "secrets": [
+        "Keeps a storm-harp string from the Skyhook in his prayer roll",
+        "Paid the Ferryman with his childhood name for an answer he never speaks",
+        "Blessed a smugglers' rung to quiet a riot once"
+    ],
+    "relations": [
+        {
+            "npc_name": "Rhy Tidesong",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Nalea Chalkfinger",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sela Tidecount",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Caur Spinekeeper",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Vara Rootlight",
+            "relation_type": "Friendship"
+        }
+    ]
+}

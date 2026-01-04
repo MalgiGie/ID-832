@@ -1,0 +1,62 @@
+{
+    "name": "Yael",
+    "surname": "Emberkeel",
+    "race": "Human",
+    "age": 45,
+    "appearance": "Compact and powerfully built, forearms roped with old burns, soot-dusted hair braided back, a chain-link torque at the throat.",
+    "character": "Candid and proud, values function over flourish and people over titles.",
+    "traits": [
+        "practical",
+        "loyal",
+        "blunt"
+    ],
+    "skills": [
+        "metallurgy and alloying",
+        "forge management",
+        "chain design",
+        "hammer cadence"
+    ],
+    "talents": [
+        "judges heat by sound alone",
+        "a humming work song that steadies crews"
+    ],
+    "flaws": [
+        "quick temper at meddling",
+        "takes risky experiments",
+        "distrusts scribes and ledgers"
+    ],
+    "dreams": [
+        "forge a gate that sings only truth",
+        "secure a dependable ash supply from Ashen Tor"
+    ],
+    "secrets": [
+        "keeps illicit dies for an old coinage in a slag cellar",
+        "hears whispers from Ember Gate’s furnace when peat is burned"
+    ],
+    "relations": [
+        {
+            "npc_name": "Tholl Ironspan",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Brynna Coil",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Arelon Vale",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Dhorik Basaltbane",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Selde Karst",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Cal Tesser",
+            "relation_type": "Friendship"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "M2",
+    "title": "Chain Owed",
+    "quest_giver": "Riven Hask",
+    "description": "The Chainheart roars like caged thunder as counterweights breathe and chains sing their iron hymns. Riven Hask, a foreman with hands nicked into a ledger of old accidents, studies the Loom writ you present and frowns like a closed gate. Access to the Chainheart’s schedules is a currency more guarded than coin. Prove yourself in iron and motion, he says, and we will talk. A gyre in a mid-level cradle stutters when the lift shimmies, tossing balconies into panic and delaying work crews. Down a sump-ladder, where warm drips make the air taste metallic, a broken counterweight tooth waits to be reclaimed. In the shadows beyond the inspection cage, Sere Vell steps out smelling of clean ink and dusk with an offer to make paperwork flow smoother than oil. The floor thrums underfoot. If you place your palm to a beam you can feel the city breathing.",
+    "objectives": [
+        "Present the Loom writ to Riven Hask at the Chainheart and request provisional access to schedule blocks.",
+        "Stabilize a stuttering gyre using the Feather-Gyre Calibrator without stopping the lift.",
+        "Retrieve a fallen counterweight tooth from the sump and deliver it to the gearwrights.",
+        "Decide whether to share a copied, redacted schedule page with Sere Vell or refuse their offer.",
+        "Report to Riven with a functioning gyre and a clear log of your interventions."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Riven Hask",
+            "text": "Prophecies do not keep balconies from tearing loose, and copper basins do not catch men when they fall. You want schedules, you show me a steady hand on a live gyre and bring back what my crew dropped without breaking your neck or mine. Do that, and I will believe you can keep time with us instead of just telling us what hour it ought to be."
+        },
+        {
+            "speaker": "Sere Vell",
+            "text": "It is not a crime to make information flow, darling. It is a kindness. The Veil keeps the city from tearing itself in two by making sure no one hand squeezes too tight. A page, redacted, nothing dangerous, and in return your requests stop getting lost under a drift of other people’s emergencies. Think of it as grease for a machine that would seize without it."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "People like to call chain-songs harsh, but when you press your ear to the riser and listen past your own pulse, you hear how careful it all is. If one tooth bites wrong, the whole hymn goes flat. I will not play a wrong note today."
+        },
+        {
+            "speaker": "Riven Hask",
+            "text": "You kept the lift singing without choking it and you brought my tooth back without dropping your pride in the sump. Word travels faster than steam in here. Take this access chit and do not make me regret it. The Chainheart has long memory for those who keep it from grinding itself apart."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": [
+        "Chainheart provisional access chit: Mid-level schedules",
+        "Set of replacement counterweight teeth (engineering component)",
+        "Reputation: + with Chainwrights Consortium",
+        "Optional: Quiet favor owed to Sere Vell if you shared a redacted page"
+    ]
+}

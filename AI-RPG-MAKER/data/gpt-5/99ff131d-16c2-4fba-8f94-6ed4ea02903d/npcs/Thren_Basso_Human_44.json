@@ -1,0 +1,68 @@
+{
+    "name": "Thren",
+    "surname": "Basso",
+    "race": "Human",
+    "age": 44,
+    "appearance": "Broad-shouldered with a jaw scar; rope-burned hands; a weathered cloak stitched with rescue bells.",
+    "character": "Blunt, dutiful, protective, and a quiet worrier.",
+    "traits": [
+        "Brave",
+        "Authoritative",
+        "Impatient with red tape",
+        "Loyal"
+    ],
+    "skills": [
+        "Rim patrol tactics",
+        "Rescue rigging",
+        "Crowd control",
+        "Hazard assessment"
+    ],
+    "talents": [
+        "Knots by feel in the dark",
+        "Reads wind off cliff faces",
+        "Carries heavy loads for hours"
+    ],
+    "flaws": [
+        "Stubborn",
+        "Suspicious of outsiders",
+        "Hot temper under stress"
+    ],
+    "dreams": [
+        "Zero fatalities in a festival season",
+        "Mandate nets at every pier"
+    ],
+    "secrets": [
+        "His brother runs a smuggler lift and he conceals it",
+        "Once tampered with a lift audit to secure funding"
+    ],
+    "relations": [
+        {
+            "npc_name": "Meret Hal",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Varo Pell",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Tamsin Rook",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Nyra Kest",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ayo Solace",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Osk Talin",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Seru Chime",
+            "relation_type": "neutral"
+        }
+    ]
+}

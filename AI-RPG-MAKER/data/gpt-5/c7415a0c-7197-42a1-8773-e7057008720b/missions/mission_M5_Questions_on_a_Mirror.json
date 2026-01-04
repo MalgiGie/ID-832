@@ -1,0 +1,44 @@
+{
+    "id": "M5",
+    "title": "Questions on a Mirror",
+    "quest_giver": "Pera Ilem",
+    "description": "Mistress Pera Ilem of the Rime-Lantern Guild smells the city’s fear and calls it by another name: calibration. The Tideglass Flats must be harvested for halite fine enough to steady crucibles, and the mirror-tide offers answers when the sun leans low. Pera sends Lira Thole, a careful apprentice with ink-stained fingers, to travel with Mara. Mirage-storms stride across the white, and counterfeit passes crackle in the heat as if they remember cold hands. If the mirror answers truly, Mara must accept its binding until the next neap tide. And on the Flats, a counterfeit ring sells day-rights like cheap blessings, undermining Brinelaw and enraging Bonewrights and Lanterns alike.",
+    "objectives": [
+        "Escort Lira Thole to the Tideglass Flats and collect three measures of fine halite without injury.",
+        "At dusk, stand upon your reflection and ask one true question of the mirror-tide; record the ripple’s answer.",
+        "Identify and disrupt the counterfeit pass ring without causing bloodshed; seize the sealing stamp used on the fakes.",
+        "Return safely to the Marrow Vaults with halite and the stamp for Pera Ilem’s audit."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Pera Ilem",
+            "lines": "Marrow is treacherous because we coax it to be what it was not meant to be. Precision is our mercy. Bring me clean halite and I will shave a fraction off the city’s fear. And when you ask the Flats your question, remember that a bargain is a chain. Choose the question like you choose a friend: for the truth it can survive."
+        },
+        {
+            "speaker": "Lira Thole",
+            "lines": "They say the mirror-tide shows you a worse version of yourself while it answers—so you can tell you are being told the truth by someone who wants you to fail. If that’s true, then perhaps the mirror also needs our questions to be brave. I am frightened of the counterfeiters, but more frightened of boiling a crucible wrong and dousing a street in cold-fire."
+        },
+        {
+            "speaker": "Ketta Brineshaw",
+            "lines": "If you find the stamp, do not break it. Bring it in brine. The Oathwell can taste the ink and tell us who else drank from the same seal. We will cut a quiet swathe through the Market with that knowledge and no child will go hungry for the sake of a spectacle."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "Then we will take the salt and the truth, both without spilling blood. Lira, you keep the halite white and I’ll keep the air clear of knives. As for the mirror, I will ask it what I must. I can carry a chain a few tides longer if it saves the city from the wrong light."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ]
+    },
+    "rewards": [
+        "Rime-lantern damper upgrade (reduces glare, less lantern-fish attraction)",
+        "Seized counterfeit sealing stamp delivered to Brinelaw (or held in secret, your choice)",
+        "+Favor with Rime-Lantern Guild (Pera Ilem) and Lira Thole’s friendship",
+        "A binding answer from the mirror-tide to one question (roleplay effect until next neap tide)"
+    ]
+}

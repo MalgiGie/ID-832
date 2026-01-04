@@ -1,0 +1,71 @@
+{
+    "name": "Arelon",
+    "surname": "Vale",
+    "race": "Human",
+    "age": 43,
+    "appearance": "Tall and river-broad shouldered, weathered skin, pilot’s knot-scars on his palms, black-green coat with copper-edged epaulets, a silver oar pin at his throat.",
+    "character": "Steady and pragmatic, favors compromise crafted under pressure; carries a quiet loyalty to working folk and a suspicion of easy coin.",
+    "traits": [
+        "steadfast",
+        "risk-calculating",
+        "frugal",
+        "river-attuned"
+    ],
+    "skills": [
+        "navigation and soundings",
+        "diplomacy",
+        "sword and buckler",
+        "knotwork",
+        "crisis leadership"
+    ],
+    "talents": [
+        "reading currents at a glance",
+        "remembering faces and routes",
+        "oath-binding rhetoric"
+    ],
+    "flaws": [
+        "stubborn when cornered",
+        "distrusts merchant houses",
+        "suffers insomnia during drought"
+    ],
+    "dreams": [
+        "stabilize drought levies without riots",
+        "reconcile the Hall of Shares and the Order",
+        "prove the river demon is only a story—or chain it if it is not"
+    ],
+    "secrets": [
+        "consulted a penitent sorcerer in the Black Thistle House about singing rain-chains",
+        "keeps a hidden sluice key to Needle Keep’s cold forge",
+        "privately doubts a clause of the founding vows"
+    ],
+    "relations": [
+        {
+            "npc_name": "Selde Karst",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Olan Vetch",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sera Verrin",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Ansel Thornward",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Yael Emberkeel",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Tholl Ironspan",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sula Reedmantle",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

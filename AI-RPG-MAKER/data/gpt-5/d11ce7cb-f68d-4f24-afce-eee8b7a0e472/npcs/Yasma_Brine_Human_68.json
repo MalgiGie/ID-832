@@ -1,0 +1,67 @@
+{
+    "name": "Yasma",
+    "surname": "Brine",
+    "race": "Human",
+    "age": 68,
+    "appearance": "Copper-skinned matron with riverline wrinkles and a palm that weighs coins and favors alike. Wears prismatic salt charms at her throat.",
+    "character": "Sharp-tongued and calculating; she never forgets a debt and rarely forgives a slight.",
+    "traits": [
+        "Authoritative",
+        "Patient",
+        "Proud",
+        "Superstitious about color omens",
+        "Unsentimental"
+    ],
+    "skills": [
+        "Political maneuvering",
+        "Accounts and tallies",
+        "Hue-reading in basin votes",
+        "Quiet intimidation over tea"
+    ],
+    "talents": [
+        "Hearing lies by the pauses between words",
+        "Turning rivals against each other with a shrug",
+        "Choosing the right gift at the right moment"
+    ],
+    "flaws": [
+        "Slow to forgive",
+        "Pride blinds her to new tides",
+        "Underestimates river faith when it rises"
+    ],
+    "dreams": [
+        "Secure her family's seat for three generations",
+        "Replace colored brine with glass counters under Collegium terms",
+        "Keep bread steady and streets quiet through any storm"
+    ],
+    "secrets": [
+        "Uses the hidden mix room beneath the basins to test false hues",
+        "Keeps a ledger of Warden stipends in arrears as leverage",
+        "Once paid the Black Net to sink a vote quietly"
+    ],
+    "relations": [
+        {
+            "npc_name": "Isera Bent-Pike",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Keth of the Nets",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Pell Lenseson",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Rhy Tidesong",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Nalea Chalkfinger",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Aro Pike-Second",
+            "relation_type": "Different goals"
+        }
+    ]
+}

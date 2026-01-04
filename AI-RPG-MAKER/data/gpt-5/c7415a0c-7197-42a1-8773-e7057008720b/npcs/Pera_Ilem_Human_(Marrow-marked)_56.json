@@ -1,0 +1,71 @@
+{
+    "name": "Pera",
+    "surname": "Ilem",
+    "race": "Human (Marrow-marked)",
+    "age": 56,
+    "appearance": "Fine-boned, with phosphor freckles under the eyes, alchemist’s goggles perpetually at her neck, and gloves stained pale blue at the fingertips.",
+    "character": "Precise and private; warmth shows only when a problem yields to method.",
+    "traits": [
+        "methodical",
+        "secretive",
+        "ambitious",
+        "pragmatic"
+    ],
+    "skills": [
+        "marrow refinement",
+        "hazard protocol drafting",
+        "networking with lamplighters",
+        "grant petitions to Brinelaw",
+        "controlled experiment design"
+    ],
+    "talents": [
+        "smells impurities in a distillate instantly",
+        "hums a stabilizing note that calms volatile crucibles",
+        "keeps instruments perfectly calibrated by touch alone"
+    ],
+    "flaws": [
+        "dismissive of non-technical objections",
+        "sleeplessness that frays judgment",
+        "subtle signs of long-term marrow exposure she refuses to acknowledge"
+    ],
+    "dreams": [
+        "Develop a truly safe stabilizer that ends the Marrow Plague whispers",
+        "Expand licensed exports beyond Dorsalhaven",
+        "Have her formulas taught in every apprenticeship hall"
+    ],
+    "secrets": [
+        "Uses a Pilgrim-copied cooling hymn illicitly in the Vaults",
+        "Keeps a sliver of Shell-Scribe coral for experiments, hidden in a lamp base",
+        "Let a faulty batch out once to meet a deadline; paid to recall it quietly"
+    ],
+    "relations": [
+        {
+            "npc_name": "Selka Vire",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Osric Greyfen",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Yhosa Kel",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Siala Nerm",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Talon Orase",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Ketta Brineshaw",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Irio Mossvane",
+            "relation_type": "Different goals"
+        }
+    ]
+}

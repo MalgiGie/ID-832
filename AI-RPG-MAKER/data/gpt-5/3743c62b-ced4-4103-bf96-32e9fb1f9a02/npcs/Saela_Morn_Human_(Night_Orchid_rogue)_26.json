@@ -1,0 +1,62 @@
+{
+    "name": "Saela",
+    "surname": "Morn",
+    "race": "Human (Night Orchid rogue)",
+    "age": 26,
+    "appearance": "Soot-black hair, inked night-blooming flower at the wrist; moves like a bell shadow.",
+    "character": "Idealistic and vengeful in equal measure; empathy reserved for the indebted.",
+    "traits": [
+        "Stealthy",
+        "Resourceful",
+        "Principled thief",
+        "Defiant"
+    ],
+    "skills": [
+        "Cord-cutting",
+        "Scent masking",
+        "Chime detuning",
+        "Infiltration"
+    ],
+    "talents": [
+        "Vanishes in market crowds",
+        "Mimics bell tones",
+        "Reads crowd flows"
+    ],
+    "flaws": [
+        "Reckless",
+        "Vendetta-driven",
+        "Resists authority"
+    ],
+    "dreams": [
+        "Break predatory contracts",
+        "Expose Wind Court oath ledger leaks",
+        "Build a sanctuary for runaway apprentices"
+    ],
+    "secrets": [
+        "Clipped Knotfast cords to free abused youths",
+        "Keeps a ledger of Orchid crimes to one day ruin her Matron",
+        "Shelters an Unmoored courier in a chainhouse crawlspace"
+    ],
+    "relations": [
+        {
+            "npc_name": "Jorin Vell",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Mira Pellan",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Istel Shardwright",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Rul Fen",
+            "relation_type": "Revenge"
+        },
+        {
+            "npc_name": "Yassa Nim",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

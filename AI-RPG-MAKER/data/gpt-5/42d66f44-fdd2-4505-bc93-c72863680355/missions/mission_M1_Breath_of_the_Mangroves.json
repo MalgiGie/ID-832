@@ -1,0 +1,74 @@
+{
+    "id": "M1",
+    "title": "Breath of the Mangroves",
+    "quest_giver": "Asha Heliope, Matron of the Lumin Weavers",
+    "description": "At the fringe where Thassyl’s bone-arched lanes fall away into whispering roots, the Lumin Weavers prepare a night procession to reseed sanctuaries with lumenkelp spores. The Whisper Mangroves murmur warnings when fog lies low, and tonight the leaves hiss with a breath that chills the ribs. Pilgrims in nacre masks cradle living lanterns while children clutch prayer shells to their hearts. Asha Heliope knows the songs, the eddies, and the safe roots, but not the unseen hands that have been knotting reed-ropes across the channels to snare processions and steal their glow. She asks Kael to guide the procession by the white heron’s path, collect healthy spores, and listen for the names the grove sighs. If the grove speaks of drownings to come, the Fathom Tongues must be warned before the Unshelling draws half the city into the tide’s mouth. The air tastes of salt and copper; bone-eels slide in the knots and pilgrims whisper of a false chorus at sea that tugs like grief. The night will be beautiful, and it may break someone.",
+    "objectives": [
+        "Meet Asha Heliope at the Weavers’ Cloister near the Whisper Mangroves.",
+        "Escort the lumen procession along the mapped white-heron path to the Sanctum of the First Shell.",
+        "Gather a pouch of healthy lumenkelp spores from the seedbeds without disturbing root-nests.",
+        "Rescue any pilgrim lured by stray whispers off the safe path and return them to the procession.",
+        "Record the names the mangroves whisper on a brine-ink slip and deliver it to Tern Quietwake at the Thalassarium."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Asha Heliope",
+                "line": "You still carry the sea in your shoulders, Kael Rimestrand; I hear it in the way your breath falls when you look at the black water. Tonight we thread the mangroves with light, and I will not see one child traded to the fog for our carelessness. Walk with us. Keep the lanterns steady and the hearts steadier. If the grove speaks names, write them, even if one of them is mine."
+            },
+            {
+                "speaker": "Kael",
+                "line": "I know the knots where the mud drinks boots and the roots that remember kindness. I’ll take the lead and read the wind. If a voice calls in mine or your mother’s, I will listen and still I will not follow it. We’ll bring your lights through, and we’ll bring them back."
+            },
+            {
+                "speaker": "Sirae Glowhand",
+                "line": "I have tuned the braziers to breathe with the tide so the flames will not gutter at the turn. If something tries to sing us out of step, I’ll dim the glow and follow your hand signs, Kael. I trust your eyes more than brass gears when fog decides to lie."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Pilgrim Child",
+                "line": "The trees are saying a name. It sounds like a shell scraping. It sounds like a lullaby I forgot. I want to go where the voice is warm. Please, let me see the white heron."
+            },
+            {
+                "speaker": "Kael",
+                "line": "Grip the shell and breathe with me. The heron walks straight where the mud leans crooked. See the pale feathers flashing between the roots? We follow that, not the voice. Voices are clever when they are lonely. Keep your feet where I put mine."
+            },
+            {
+                "speaker": "Asha Heliope",
+                "line": "The fog is thickening into strings. Someone has been lacing reed-ropes here; look at the frayed ends hidden in the moss. Cut the knots, but keep one for my loom mothers to study. Whoever set these did not intend to drown; they intended to frighten, and fear does more work than water."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Tern Quietwake",
+                "line": "You brought the procession through the green breath without spilling a single light into the black. The grove gave you names, and you brought them to a place where sound keeps its promises. I will set these slips on the cool stone and listen for the chords that answer. If the sea intends debt, we will bargain in the language that does not use coin."
+            },
+            {
+                "speaker": "Asha Heliope",
+                "line": "The seedlings are safe in their basins and the children have been fed. I see the worry in your eyes, Kael, but worry is not a net; it catches nothing but your own fingers. Rest your shoulders. You moved like a heron in the fog, and I will trust your steps again."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ],
+        "related_to": []
+    },
+    "rewards": {
+        "xp": 400,
+        "items": [
+            "Lumenbraid Wrist-Wrap (small bonus to night navigation and calming panicked NPCs)",
+            "Pouch of Healthy Lumen Spores (quest item for later rites)"
+        ],
+        "favors": [
+            "Lumin Weavers owe Kael a glow tithe favor (free lighting in one ward during a risky job)"
+        ],
+        "access": [
+            "Weavers’ sanctuaries at night without escort"
+        ],
+        "coin": "20 credit-shells"
+    }
+}

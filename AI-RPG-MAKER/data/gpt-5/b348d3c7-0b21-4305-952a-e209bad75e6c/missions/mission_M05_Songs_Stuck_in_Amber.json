@@ -1,0 +1,49 @@
+{
+    "id": "M05",
+    "title": "Songs Stuck in Amber",
+    "quest_giver": "Jana Fell",
+    "description": "The Amber Fen whispered with reeds and old voices caught like flies in honey, and the air smelled of nostalgia so thick it made mistakes taste sweet. Jana Fell needed consecration amber for the Basilica and a reed-flute rumored to call the fen-wraiths away from the trade channel, and she trusted Neris to keep the procession breathing. Cypress knees rose like knuckles, and translucent bulbs held birds and beetles and something like a syllable of song. Saffron cloaks glowed on the banks where Compact factors had begun buying amber rights, and the Order’s novices muttered counter-hums to ward off amber fever. The Fen remembers, they said; it remembers too much, and it wants you to remember with it until you drown smiling.",
+    "objectives": [
+        "Escort Archivist carts and novice cord-weavers along a reed-choked channel at fog-tide.",
+        "Locate and retrieve the reed-flute from a shrine half-sunk and guarded by fen-wraiths who bargain only in backward song.",
+        "Warm three amber bulbs to the skin to hear their captured verses and record any relevant names or places.",
+        "Negotiate safe passage with wraiths using backward-sung verses while keeping the carts from sinking in sudden pools.",
+        "Deliver consecration amber to the Basilica without contamination by dye residues."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jana Fell",
+            "line": "The Fen is a library that wants to keep its patrons. Every time we come, it tries to shelve us in amber and make our memories footnotes. Keep the novices’ knots tight and their songs steady. If you hear your own past sung back to you, bite your tongue until the blood drowns the sweetness. We need the amber, not the dreams."
+        },
+        {
+            "speaker": "Fen-Wraith",
+            "line": "Who warms our throats and steals our verses? We have sung soldiers and saints and petty thieves, and you, arrow-weaver, smell of a forged flame that burned backwards once. Sing to us in the wrong order, and perhaps we will believe you. Bring us a lie you hate and we will trade you a truth you fear."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "I will sing you the sound of a rope slipping on wet rail, and the taste of dye on my tongue when I told myself it was only oil. I bring carts that must pass and a flute that must hush your cousins from the trade. Take the heat of my palm on this amber and give me safe water to walk. We have no quarrel with your songs, only with the drowning they sell."
+        },
+        {
+            "speaker": "Rector Mera",
+            "line": "These bulbs will seal oaths that should never leak. Handle them like infants who have been entrusted to a city that is not yet safe. If your hand shakes, steady it against your chest and breathe the Stair’s order. We tie promises with more patience than hunger."
+        },
+        {
+            "speaker": "Lisi Jhak",
+            "line": "Compact guards have been tripping over wraith humors on this bank all week. If any Archivist amber walks into our purchases, I will bring writs and weights that make your knotted cords look like ribbon. Stay to your survey and out of our harvest. The market has a better memory than any swamp."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M04"
+        ],
+        "next": [
+            "M06"
+        ]
+    },
+    "rewards": [
+        "Amber-beaded seal-string that preserves documents against water and heat",
+        "Upgraded amber-sealed ledger tube with double gasket",
+        "Clue: a backward verse naming 'gloam that bites bone' linked to Dyers’ Spiral contracts",
+        "Reputation: Basilica of Knotted Light (supplier’s grace)"
+    ]
+}

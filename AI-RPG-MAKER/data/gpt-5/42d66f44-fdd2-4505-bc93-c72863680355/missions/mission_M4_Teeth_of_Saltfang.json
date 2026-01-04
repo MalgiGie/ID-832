@@ -1,0 +1,74 @@
+{
+    "id": "M4",
+    "title": "Teeth of Saltfang",
+    "quest_giver": "Oaric Bent, Master of the Tidemasons",
+    "description": "Beyond the jaw gates the sea spits scalding brine in white banners from the Saltfang Geysers. Tidemason scaffolds creak like old knees as wind-scoops gulp the plumes into troughs that feed mills and furnaces. Something has been jamming siphons with grit that isn’t silt and gnawing at seals with teeth that aren’t rats. The Order of Tidemasons swore an oath on a quiet vent: should their works fail through neglect, they will drink a bowl of salt to the dregs before the Council. Kael is charged with walking the ring with Oaric Bent, tasting the spray for iron, dodging iron-gnats that crave tools, and finding who salted the vent for a lie. Arno Kest’s people need pure rime-salt, and a single scald can sour a season’s glass. The vent field hisses like a room of snakes; the air is a mirror that burns.",
+    "objectives": [
+        "Meet Oaric Bent at the Saltfang maintenance platform and swear a witness’s brine oath.",
+        "Inspect three siphon heads and collect scrapings for alchemical assay.",
+        "Drive off iron-gnats using smoke and avoid scald plumes during a pressure surge.",
+        "Discover and document signs of sabotage implicating an outside crew.",
+        "Deliver findings to Oaric and send a sealed copy to Arno Kest."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Oaric Bent",
+                "line": "Every plank here is married to a promise, and every promise is married to a flood. If the siphons choke, the mills cough, and the looms complain, people start praying where they should be patching. I don’t pray well. I patch. You, archer—watch with me, and tell me if you see a hand where a tide should be."
+            },
+            {
+                "speaker": "Kael",
+                "line": "I’ve learned to read a flow the way some read faces. If someone salted your vent with malice, the brine will have its flavor on their tools. I’ll find that taste and bring it to your table."
+            },
+            {
+                "speaker": "Arno Kest",
+                "line": "I don’t like standing on a scaffold that sweats salt and trembles like an old drunk, but here I am because my furnaces go blind without your brine. If someone is feeding grit to my glass by sabotage, I’ll burn their ledger and use the ashes to polish lenses."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Oaric Bent",
+                "line": "Mind the surge. The teeth bite hardest when they pretend to be gums. The gnats come when the tools sing; see how they love the shine of your grapnel? Wrap it or they’ll drink its edge until it’s no better than wood."
+            },
+            {
+                "speaker": "Kael",
+                "line": "Here—scrapes on the coupling that run across the grain, not along it. Someone forced a wrench where none should fit. And this grit isn’t silt; it glints green like cheap foreign glass. That’s a Syndicate man’s nightmare and a smuggler’s signature."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Oaric Bent",
+                "line": "You brought me proof instead of panic. Everyone sells fear these days; it’s cheaper than salt. I’ll tighten the siphons and tighten the Council’s jaw by the same measure. Walk careful. If someone is willing to scald my men to pinch a tariff, they’ll boil your blood for free."
+            },
+            {
+                "speaker": "Kael",
+                "line": "If they come for your scaffolds, I’ll hear their boots in the brine long before I see them. Keep a crew on low watch and a coil of smoke at the ready. Iron-gnats have a taste for greed."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ],
+        "related_to": [
+            "M11"
+        ]
+    },
+    "rewards": {
+        "xp": 500,
+        "items": [
+            "Tidemason Brine-Glyph Patch (improves reading of flow marks)",
+            "Scaldcloak Mantle (resistance to steam bursts)"
+        ],
+        "favors": [
+            "Oaric Bent extends a maintenance embargo warning to Kael before any citywide flow changes"
+        ],
+        "access": [
+            "Low Sluice Walkways under the Spine (restricted maintenance paths)"
+        ],
+        "coin": "35 credit-shells"
+    }
+}

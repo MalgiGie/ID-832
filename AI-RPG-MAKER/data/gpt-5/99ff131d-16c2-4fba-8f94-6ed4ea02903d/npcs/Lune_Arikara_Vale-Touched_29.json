@@ -1,0 +1,64 @@
+{
+    "name": "Lune",
+    "surname": "Arikara",
+    "race": "Vale-Touched",
+    "age": 29,
+    "appearance": "Pale skin with faint bioluminescent freckles; silver-blue eyes; robes threaded with fog-silk bells.",
+    "character": "Gentle and eerily calm, speaking in measured cadences.",
+    "traits": [
+        "Empathic",
+        "Spiritual",
+        "Steadfast",
+        "Curious"
+    ],
+    "skills": [
+        "Dusk-chant leading",
+        "Dream vigil tending",
+        "Mediation",
+        "Herb lore"
+    ],
+    "talents": [
+        "Hears patterns in the fog hum",
+        "Soothes grief with song",
+        "Memorizes long chants"
+    ],
+    "flaws": [
+        "Naive about politics",
+        "Avoids sharp conflict",
+        "Prone to trance in thick fog"
+    ],
+    "dreams": [
+        "Win sanction for fog-rites at the Heliolith",
+        "Compose the chord that heals the Vale"
+    ],
+    "secrets": [
+        "Believes the Heliolith's heart is hollow and calls to them in dreams",
+        "Hid a Veil bell in the Wind Courts subchamber"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ayo Solace",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Nyra Kest",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Seru Chime",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Avar Jen",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Meret Hal",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Maela Vint",
+            "relation_type": "Friendship"
+        }
+    ]
+}

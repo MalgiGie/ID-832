@@ -1,0 +1,90 @@
+{
+    "id": "M12",
+    "title": "Chains We Choose",
+    "quest_giver": {
+        "name": "Selka Vire and Osric Greyfen",
+        "affiliation": "Anchor-Compact of Dorsalhaven; Brinelaw Keepers"
+    },
+    "description": "The Anchor-King’s Hall fills like a lung before a shout, banners stiff with brine and a hush that clings like salt to the teeth. Lantern-smoke of cold marrow-blue climbs the rib-buttresses while ledgers thud shut and chain-tally bells fall silent, as if even iron must listen. Mara Kestrel steps upon the bone-plate dais and feels a muted hum rise through her soles—the quiet caution of the old meteor-iron link buried beneath the speaker’s seat, the one that makes brave tongues weigh their words. She lays out the Resonance Chart etched in Tideglass shimmer, the humming shard cupped in a kelp-silk wrap, and the Heart-Scale’s recorded pulse captured beneath the rime-lantern hood, its slow beat like surf within bone. Guilders and Pilgrims, Chainmasters and Bonewrights, Compact matrons and Brinelaw tide-scribes draw close while the hall’s chimes answer the sea. The question is not whether Orum’s heart stirs, for the chart’s lines bow like reeds to that truth; the question is what the city will bind itself to when the heartbeat swells the tide and tempts hands to clutch or to let go. Will Dorsalhaven lash itself tighter to the seabed with law and iron and hymns, or loosen the chains and trust to compacts sworn in public light rather than in fear’s shadow? Rumor says the old link underfoot makes cautious men more cautious still, but tonight the Oathwell waits with its winter bite to steel words into deeds. When brine stings Mara’s tongue one last time, she must speak the chain she means to carry, and the one she means to cut, so that the city’s song can find a truer key.",
+    "objectives": [
+        "Present the Resonance Chart, the humming shard, and the Heart-Scale or recorded pulse to the council at the Anchor-King’s Hall.",
+        "Argue for a Brinelaw amendment recognizing independent outrider charters bound by public oaths rather than Compact debt-bonds.",
+        "Propose a balanced protocol: shared marrow safety, Pilgrim moratoriums on holy nights, and Chainmaster veto on risky expansions.",
+        "Defuse Neth Cowl’s attempt to derail the vote with a scandal or a leak; offer him a lawful lane that keeps wrecker families fed without knives at chains.",
+        "Seal the decision at the Oathwell with a brine oath that binds you and the city to the chosen course."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Selka Vire",
+            "lines": "You have brought me more than proof; you have brought me a lever long enough to move the harbor without breaking a rib. I will not pretend I do not see the power in locking this in my ledgers, Mara, for I was born with a quill in one hand and a chain-link in the other, and both have bought winters for this city. Yet ledgers tear when they grow too heavy, and chains bite when fear alone holds them tight, so I will not let greed blind me to wisdom written in tide and bone. Show me a course that keeps trade breathing and keeps children from learning the taste of marrow smoke, and I will stand before my own consortium and say the old way must bend. Speak your course, Mara Kestrel, and know that if it makes sense and saves ships, I will bind it in salt and defend it with every coin and clause at my command."
+        },
+        {
+            "speaker": "Osric Greyfen",
+            "lines": "The law is a raft we lash together from reason and fear, and I have spent my life checking the knots while storms tested our hands. If the sea rises under us with a name as old as the first whales, we may either pretend our lashings are chains that make us safe, or we can row with the tide and admit the raft is meant to move. Brinelaw was written in tides to be read aloud, not carved so deep we forget why we cut the letters in the first place, so bring me a clause that breathes and I will breathe with it. Give me an amendment that guards against another Night of Unmoored Chains and still allows honest passage under watchful eyes, and I will give it teeth that bite the wicked and lips that bless the faithful. Make me a law I can live with and I will make it live, and the Oathwell will drink to that life with us both."
+        },
+        {
+            "speaker": "Siala Nerm",
+            "lines": "The heart has spoken in a language older than bone, and I have heard its syllables in the hush between our vigils and the hush between your breaths. If you ask me to sing it into a cage, I will refuse until my voice frays to silence, because a song caged loses the note that keeps the whales from dying of sorrow. If you ask me to sing it into the city so that strangers can find their way home and the busy forgetters remember gratitude, I will sing until my throat is salt and light and the chimes above your banners shiver with joy. Mark the holy nights when dreamers hear the pulse most clearly, and let even coins bow their heads then, for profit that cannot pause is profit that eats its own children. Give me a promise that the Array will hush when the ribs say no, and the Pilgrims will stand behind you like a cliff against a storm we all must weather together."
+        },
+        {
+            "speaker": "Garrik Shale",
+            "lines": "Give me a veto on work that risks ribs and you’ll have the Union’s shoulder under your load, for I bury too many men when panic outvotes patience. Let the Array rest on nights the song goes wrong, with no fines for prudence, and we’ll set watch at every winch and sing your marrow cool with the same lungs we use to shout warnings. My crews were burned by shortcuts and starved by tariffs; we have learned the cost of both, and we will not pay it twice if we can help it. Write it plain that no expansion goes forward without our seal and a Pilgrim’s listening ear, and I’ll carry you across the Span on my back if that’s what it takes to pass the vote. We will stand between iron and bone like a hinge that refuses to shear, and I’ll be the first to drink brine to that hinge holding fast."
+        },
+        {
+            "speaker": "Neth Cowl",
+            "lines": "You’re about to trade a few quiet sins for a loud virtue, Kestrel, and I’ve seen loud virtues feed the gulls when winter comes mean. If there’s a lawful lane where wreckers can still eat and not drown in taxes, say it now, because my people don’t chew ledgers and my skiffs don’t row on promises. Your Compact friends like to count noses and call the number mercy, but I’ve watched widows count ribs and call the holes hunger, and that arithmetic bites harder than any bailiff’s chain. Give me posted ribs with licensed salvage and a tax that bows to storm and accident, and I’ll holster the knives and let the chains sing without my shadow on them. Otherwise I will keep doing what I do in the fog and you can write speeches about tides while they rise over your boots and mine alike."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "Here is my chart, and here is my shard, and here is a song that is not mine but was trusted to my care by those who listen below the noise of coin. We bind ourselves to choice, not to fear, and we bind ourselves in public so we remember the taste of the brine when we are tempted to cheat in private. Brinelaw must recognize independent outriders under oath at the Oathwell, with our routes and warnings posted where all can see and our risks shared by those who profit from the passages we keep. The Array rests when the ribs hum warning, marrow cools by a song all can learn and audit, and Pilgrims mark holy nights that even the busiest ledger learns to honor without muttering. And for those who fed their children by shadow, here is a lane: licensed salvage at posted ribs, taxes scaled to storm-loss with clear eyes, a duty cut for widows and wreckers who take oaths, and no knives for chains while Brinelaw watches. I drink this brine and I bind myself to carry this chain, and I cut the others that have dragged this city where we forget the sea can hold without hurting."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Chart of Shared Breath",
+            "text": "Mara spreads the Resonance Chart like a second skin upon the dais and speaks to the room as if to a crew at sea who must row in rhythm or drown out of time. She lays the argument brick by bone-brick: that an independent outrider charter, sworn at the Oathwell and recorded where any citizen can read it, frees passage from debt-bonds and replaces secrecy with watchfulness. She describes the balanced protocol like a net with knots of mercy, setting out moratoriums on holy nights, the Chainmaster veto to still the Array when the ribs sing warning, and a marrow-cooling hymn taught without fee. She offers Neth Cowl a lane that will keep his folk in bread without asking them to swallow the hook: licensed salvage on posted ribs with taxes that bend to storm and loss, and a clear oath that any who draws a knife on a chain forfeits the license and the city’s patience. She ends by holding up the phial of Oathwell brine until its chill beads the glass and promises that her own tongue will burn before any charter she holds strays back to shadow.",
+            "outcome": "Selka Vire’s eyes narrow not in suspicion but in calculation that smells finally of fairness, and she nods as if counting a profit that does not leave bones exposed to wind. Osric Greyfen calls for the Oathwell and the tide-scribes, and when the brine is tasted the hall hears a ripple of relief like slack water after a hard pull. Garrik Shale plants his palm on the chart with a rigger’s blunt trust while Siala Nerm unfurls a soft hymn that matches the shard’s hum, and the Array’s foremen send word that the first warning pause will cost nothing in fines. Neth Cowl grumbles as if swallowing a hook but signs the salvage ledger with a wrecker’s long, careful hand, and in return he passes Mara a list of hidden bars that will be posted by dawn under Brinelaw seal. The vote passes with murmurs that turn to chimes, and the city exhale feels like a door opening in winter; the independent charter is recognized, safe-passage tokens stamped, marrow safety protocol adopted, alliances knit, and a promise made to add a new verse to the Founding Tide for those who listened to the ribs before they spoke."
+        },
+        {
+            "id": "C2",
+            "title": "Ledger and Lock",
+            "text": "Mara proposes a stricter course that still bends toward the light, framing independence within guardrails the Compact can stomach in public and not merely in whispered addenda. She argues that outrider charters must report monthly to Brinelaw benches with routes and incidents, that the Array’s veto be exercised jointly by Chainmasters and a Brinelaw steward, and that the marrow hymn be codified with audit clauses and fines for willful neglect. She offers the Pilgrims their holy nights inviolate and puts their hymnals in the appendix, binding reverence to regularity so that devotion does not drift to indulgence. She turns to Neth Cowl and names a wrecker’s lane with permits pegged to weather tables and shares set aside for widow-houses, sharpening the edge against knifework by making careful salvage more profitable than cutthroat tricks. She holds up the meteor-iron link in her words, admitting that caution has its place, but insists the link must hold a city that moves, not a city chained to fear.",
+            "outcome": "Selka Vire breathes out like a captain seeing a reef marked at last and offers her seal with language that keeps her consortium’s pride intact without gutting the independence of the charter. Osric Greyfen revises the amendment on the floor, writing a clause that turns the monthly reports into public reading on the Dorsal Span, a spectacle of accountability rather than a grindstone of petty oversight. Garrik Shale hammers a knuckle on the dais and says a joint veto is still a veto if the law respects the hand that halts the winch, and Siala Nerm agrees so long as the hymn remains a song first and a statute second. Neth Cowl squints at the permit tables like they were tricky currents, then shrugs and mutters that a posted share beats a hidden knife when storms take half his crews anyway, and he trades three caches’ locations to prove his good faith. The vote carries on a slower swell, but the same harbor opens: Mara’s independent charter is recognized, safe-passage tokens minted, marrow safety codified, alliances set in sober ink, and word begins in the market that a new procession verse is already being rehearsed by children with salt on their tongues."
+        },
+        {
+            "id": "C3",
+            "title": "Hymn Before Iron",
+            "text": "Mara leans into the pulse, lifting the Heart-Scale’s recorded beat until the hall’s marrow-lights flicker in sympathetic breath, and she asks the city to loosen more than fear says is wise. She says the outrider charter must be free as a gull and just as answerable to the wind, sworn at the Oathwell and checked not by ledgers first but by posted songs and open meetings under the ribs. She asks the Array to hush on any night the hum runs wrong and for marrow work to kneel to a majority of Pilgrim-marked vigils, trusting that hungry seasons are survived by communities that know when to rest. She offers Neth Cowl a bolder bargain: make his salvors coast-wardens in daylight on posted ribs and swear off night-knifing forever, turning the Brotherhood’s lore into a public good that earns honor along with coin. She promises that a city that listens first will not starve, for the law that grows from listening makes room at the table and leaves the door unbarred in a storm.",
+            "outcome": "Selka Vire hesitates only as long as it takes to weigh whether the city’s heart will forgive her if she says no, and then she nods to Osric Greyfen with a look that says some profits must be counted in the ledger of sleep. The High Bailiff drafts language that wraps the hymn in law without choking it, creating a schedule of dreamfast moratoriums that the Compact can plan around and that the Union can enforce with honor rather than excuses. Garrik Shale smiles with a fatigue that looks like relief and says his crews will be proud to guard a law that gives them permission to do what their bones already knew to do on bad nights. Siala Nerm’s eyes shine as if the rime-lanterns have softened, and she agrees to teach the marrow-cooling song publicly beneath the Span, while Neth Cowl—after a long silence—spits on his palm and swears in front of everyone that any of his caught cutting chains will be cut from his crew and handed to Brinelaw himself. The vote passes in a hush that feels like surf withdrawing from a sandbar, and the results are the same bright driftwood washed to shore: Mara’s charter stands, safe-passage tokens glitter like fish-scales, the safety protocol enters Brinelaw’s stones, alliances braid tighter, and the Founding Tide gains a verse that children will sing to the rhythm of a patient heart."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        {
+            "type": "Charter",
+            "description": "Independent Outrider Charter recognized by Brinelaw for Mara Kestrel, granting legal authority to guide and post routes without Anchor-Compact debt-bonds."
+        },
+        {
+            "type": "Access",
+            "description": "Citywide safe-passage token and harbor dues reduction on posted convoys, marked with Brinelaw seals and honored across the Dorsal Span and quay."
+        },
+        {
+            "type": "Policy",
+            "description": "Shared marrow safety protocol adopted, including Array rest on warning nights and public marrow-cooling hymn; reduces accidents and shapes city narrative."
+        },
+        {
+            "type": "Alliances",
+            "description": "Lasting alliances with Bonewrights, Chainmasters, and Pilgrims; workable peace with the Anchor-Compact; wary respect from the Ribshadow Brotherhood."
+        },
+        {
+            "type": "Epilogue",
+            "description": "A new verse added to the Founding Tide procession honoring those who listen to the ribs before they speak, sung beneath the Rib Cathedral’s veils."
+        }
+    ]
+}

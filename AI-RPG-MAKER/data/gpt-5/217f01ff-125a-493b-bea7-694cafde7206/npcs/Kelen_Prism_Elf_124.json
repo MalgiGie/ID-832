@@ -1,0 +1,64 @@
+{
+    "name": "Kelen",
+    "surname": "Prism",
+    "race": "Elf",
+    "age": 124,
+    "appearance": "Tall, angular elf with prismatic goggles, ink-black hair braided with copper wire, and a coat pocket full of crystal slivers that catch blue light.",
+    "character": "Visionary lenswright who believes risk is the price of civic dawns; impatient with ‘safe’ minds.",
+    "traits": [
+        "curious",
+        "bold",
+        "perfectionist",
+        "persuasive"
+    ],
+    "skills": [
+        "advanced lenscraft",
+        "applied optics",
+        "project leadership",
+        "contract reading",
+        "public demonstrations"
+    ],
+    "talents": [
+        "spots microfractures in glass by fingertip",
+        "inspires apprentices to surpass themselves",
+        "improvises light paths from scraps"
+    ],
+    "flaws": [
+        "overconfident",
+        "risk-blind to collateral",
+        "politically arrogant",
+        "holds rivals in open disdain"
+    ],
+    "dreams": [
+        "complete a citywide focusing ring to tame the Blue Maw",
+        "prove the Artificers deserve an independent charter",
+        "etch a lens that lets voices be heard across the bay without horns"
+    ],
+    "secrets": [
+        "authorized a hidden prototype mount beneath the Diadem without full consent",
+        "signed a hush lien with the Ledger on personal collateral",
+        "quietly paid damages after a failed test singed a bell tower"
+    ],
+    "relations": [
+        {
+            "npc_name": "Dorn Rigger",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orven Caldris",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Nhal Vessin",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Miren Nine-Ropes",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sera Flintline",
+            "relation_type": "Alliance"
+        }
+    ]
+}

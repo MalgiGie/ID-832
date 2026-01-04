@@ -1,0 +1,261 @@
+{
+    "city": "Thornspire is a river-crowned city built in a ring around a basalt needle thrusting from the floodplain of the Low Veyne. The river splits and braids beneath the city, guided through stone weirs and tide-gates into canals that power mills and carry barges to market. The basalt pillar at its heart is banded with old fortifications and scaffolded terraces, culminating in the Needle Keep, a citadel of black stone and green-copper roofs that glimmer when the river mists burn away at noon. Thornspire was founded three centuries ago, when refugees from a failed coastal principality sought safety inland and swore oaths to a hermit-knight whose banner bore a thorned thistle. The first palisade was built at the base of the basalt pillar, and the earliest canals were hacked by hand, guided by borrowed dwarven surveyor lenses. Those humble bulwarks grew into a tiered city whose lower wards work and flood, whose middle terraces trade and feast, and whose upper galleries read, scheme, and pray. The city’s lifeblood is threefold: thorn-silk spun from moor-moths farmed in the foggy mires north of the walls; salt and alchemical ash ferried from the Salt Ever along caravan trails; and iron and basalt from the Skygrind Steps, where ancient quarries still ring under dwarven contracts. These goods meet in the Weir Market and the Salt Crown Exchange, and from there flow outward by river to downriver city-states and upriver hill towns. The governance of Thornspire is a counterweighted machine. A Lord or Lady Protector holds the Needle Keep and commands the city watch and walls, but their purse is light without the approval of the Hall of Shares, a council of guild factors and shipwrights who direct tariffs and festivals. Offsetting both is the Concord of Chapels led by the Order of the Black Thistle, a militant ascetic chapter who claim stewardship of the city’s origin vows and keep vigil against demonic whispers said to haunt the reeds whenever the river runs low. In practice, the Protector’s decrees must pass the Hall’s purse and the Order’s scrutiny, or risk a season of strikes, closed gates, and shuttered shrines. Thornspire’s neighborhoods speak their stories in stone. The Floodwalk is a low-ward of stilted homes built over canal lattices, draped with fishing nets and lantern strings; residents memorize floodmarks carved into door lintels and keep skiffs tied to bedroom ladders. Above lies the Loom Quarter, a humming hive of spinneries whose rooftop gardens are planted with night-blooming thistle to attract moths to silken veils. The Ember Gate ward faces the quarries and houses the smithies, foundries, and chain-yards, kept warm by furnaces fed with coke that scents the air with bitter sweetness. Eastward, the Scribes’ Stair spirals around the basalt pillar, each landing lined with script-shops, contract offices, and schools; at its apex hangs the Lantern Archive, a library whose lamps are said to remember the faces of lost readers. Thornspire’s festivals are timed to the river and the moth. During Fogfast, children in waxed cloaks carry reed flutes through the Floodwalk to lure the first moor-moths home. During the Uncasked Evening, salt-workers pour trickles of precious brine from casks into the river to appease the drowned queen of a lost city reputedly buried under the downstream silt. In high summer, the Black Thistle chapter opens their reliquary and walks the Needle with a procession of thistle-wreathed pennons, reminding all that vows bind coin as tightly as chains. The city’s legends reach further back. Learned elders murmur that the basalt needle is the tip of a petrified spear hurled by a storm-god to pin a river demon beneath the clay; fishermen claim they can feel the demon thrash in drought years. The Night Cartographers whisper of a map cut into the Needle’s shadow at midsummer that reveals a path through the Mourning Mire to a mirror of the city under black water. Dependencies lace Thornspire’s security. Its fleets of flat-bottomed barges rely on the Riverlight Pilots to navigate hidden sandbars and eel-nests; without them, markets starve in a week. The thorn-silk guild keeps contracts with the Willowwives of the mires to propagate the delicate moths, and when blight strikes the thistle crops, the Loom Quarter goes silent and lenders turn predatory. Salt caravans must pass the Sunken Road and its ancient statues—when storms swallow that causeway, alchemists’ crucibles go cold and the city’s glass and soap grow scarce. Thornspire’s walls are stout and its ward gates are iron-shod, but its greatest defense is the river itself and the draw-bridges that can isolate each district. Its greatest threat is also the river—when the Low Veyne forgets itself and surges, it will take whatever the city has been careless enough to build below the floodmark. Politics in Thornspire is a garden of brambles. Guilds contest tariffs and the right to tithe canal traffic; mercantile houses duel by embargo; the Order of the Black Thistle denounces sorcerers and quietly hires some when it must; and the Lord Protector balances favors with writs. The present Protector, Arelon Vale, rose from the Pilots Brotherhood, and so faces a suspicious Hall of Shares led by Matron Selde of the Salt Factors League, whose caravans feed two-thirds of the Exchange. Meanwhile, a masked society called the Night Cartographers trades in routes, rumors, and blackmail—if a city can be mapped, it can be measured, and if it can be measured, it can be priced. Thornspire’s current tensions include a drought upriver lowering barges and raising tempers; a moth-blight that has forced the Loom Quarter to import cocoons at ruinous rates; and a spate of canal murders blamed on a reed-thing that leaves thistle bundles on doorsteps. The city remembers, always, that oaths built it, trade feeds it, and the river can take it back.",
+    "surroundings": [
+        {
+            "name": "Mourning Mire",
+            "type": "fen and peat bog",
+            "distance": "1 day north by flatboat through the reed channels",
+            "description": "A labyrinth of reed-banks, peat pits, and black pools that exhale phosphor lights at dusk. Stilted willow hovels house the Willowwives, herb-keepers who tend thistle beds and moth frames under gauze canopies. The air is sweet and sour with rot and bloom. Ancient wooden causeways slant beneath the water like the ribs of a sunk animal.",
+            "legend": "They say a queen of a drowned kingdom wanders here, her crown a wreath of bone-white reeds. She bargains with lost children and pilots who whistle the wrong tune, offering safe passage in exchange for a true name. The Black Thistle claims her to be a river demon in a sorrowed mask, while the Willowwives say she is a memory that must be fed.",
+            "hazards": "Sudden sinkholes, lampreys, aggressive midge swarms, ghost lights that mimic lanterns, territorial moth-spiders during egging season.",
+            "hooks": "A relic-needle of the drowned queen was stolen from the Order of the Black Thistle and is rumored to be hidden in a peat-cache. A new waterway has appeared overnight, straight as a spear, and those who take it return without their shadows."
+        },
+        {
+            "name": "Salt Ever",
+            "type": "alkali flats and salt pans",
+            "distance": "3 days southeast by caravan, beyond the Sunken Road",
+            "description": "An expanse of blinding white crust and turquoise brine sinks dotted with windmills and rail-sled tracks. Bone caravans—wagons braced with rib timber to distribute weight—creep across under color-stained awnings. Evaporative towers lift gullies of brine with creaking buckets. The air stings the eyes and cracks the lips.",
+            "legend": "Miners tell of Salt Saints—crystalline silhouettes that walk at noon, reshaping the flats into new patterns. A circle of dark salt, they say, marks where a saint kneeled and wept brine that became a mirror-lake. If you sleep on such a circle and whisper a price, the saint may harden your heart into salt against grief.",
+            "hazards": "Dehydration and mirage, sudden crust collapse into brine, alkali burns, salt squalls that flense exposed skin, raiding dust-runners.",
+            "hooks": "A brine sink turned the color of old wine and now copper coins thrown in float rather than sink. The Salt Factors League offers a purse to anyone who can map a stable route through this changed crust."
+        },
+        {
+            "name": "Skygrind Steps",
+            "type": "terraced quarries and dwarfholds",
+            "distance": "2 days west along the Ember Road",
+            "description": "A broken escarpment carved into broad steps where basalt and iron are hewn in measured strokes. Gantries swing by chain over chasms, and dwarven way-shrines are carved into polished walls. The Steps echo with chisel-chant and the steady thump of hammer prayers.",
+            "legend": "The dwarves sing that a mountain tried to stand and walk in the first dawn, and the gods struck its knees to make the Steps. They keep a kneecap-fossil—an enormous geode—sealed in a shrine vault. They say it glows when giants stir in the northern storms.",
+            "hazards": "Rockfalls, rope-bridge failures, ironwights that cling to miners in the dark, territorial chasm eagles, secretive prospecting gangs.",
+            "hooks": "A new basalt seam rings like a bell when struck and fractures in hexagons with symbols on their faces; whoever deciphers them could claim a dwarven boon. The Ferrum Collegium seeks escorts after a series of sabotaged ore carts."
+        },
+        {
+            "name": "Glasslake of Sere",
+            "type": "ultra-calm lake and mirrored basin",
+            "distance": "2.5 days northeast by river, then overland",
+            "description": "A perfect oval lake whose surface remains mirror-still even in wind; reeds and poplars fringe water that reflects stars at noon. A ruined observatory leans on a promontory, its brasswork malformed by old heat. Fisherfolk speak in whispers and row with padded oars.",
+            "legend": "A fallen star nested in the lake ages ago, fusing its skin into mirror-glass beneath the water. The lake hoards reflected moments; if you stare long enough, it shows you a future that could be bought with a price you would rather not name. A leviathan circling under the mirror sings in storm years.",
+            "hazards": "Hypnosis by reflected visions, razorweed strands under the surface, sudden cold snaps, star-sickness in those who sleep on the shore.",
+            "hooks": "The Lantern Archive seeks a lens from the ruined observatory said to cut reflections from water like cloth. Riverlight Pilots whisper that a rival has traded their route-book for a future and wants it back."
+        },
+        {
+            "name": "Sunken Road",
+            "type": "ancient causeway and statue field",
+            "distance": "1.5 days southeast, the quickest line toward the Salt Ever",
+            "description": "Broken blackstone slabs run arrow-straight across mudflats and shallow pools, flanked by toppled statues of robed figures half-buried and bearded in moss. Water birds nest in the cupped hands of kings and sages. In storms, the causeway drowns and the statues seem to wade forward.",
+            "legend": "A procession of philosopher-kings marched into the river to bind a flood spirit. Their statues mark where each vowed to give up a virtue—wisdom, mercy, patience—to weigh the water down. At new moon, listeners swear they can hear debate under the mud.",
+            "hazards": "Tidal surges, slick algae, stone leeches, bandits who paint themselves as statues, cursed echoes that repeat dangerous commands.",
+            "hooks": "The Order of the Black Thistle seeks shards from a broken oath-stone rumored to be lodged under a toppled sage. The Night Cartographers want a rub of inscriptions appearing only at low tide."
+        },
+        {
+            "name": "Ashen Tor",
+            "type": "extinct volcanic cone",
+            "distance": "4 days south by foothill trails",
+            "description": "A cinder cone crowned with black glass vents and ash fields tufted by red brittlegrass. Half-buried in cinder are fused ruins—arches of green glass and bubbled stone. Heat shimmer dances even in winter.",
+            "legend": "A drake sleeps under the Tor, curled around a brood of glass eggs. It feeds on lies carried by the wind—each false word is a cinder in its belly. When a prince broke a treaty in ages past, the drake belched fire that melted a city into the Tor’s flank.",
+            "hazards": "Glass slivers riding dust devils, toxic vents, bone-dry wells, ash-burrowing scorpions, glasswing kites that dive at reflected eyes.",
+            "hooks": "A green-glass arch aligns with the solstice sun to reveal a door into the hill; several prospectors entered and have not returned. The Ferrum Collegium will pay for samples of ash that harden steel without tempering."
+        },
+        {
+            "name": "Hearthless Vale",
+            "type": "abandoned farming valley",
+            "distance": "1 day northwest beyond low hills",
+            "description": "A narrow vale of low stone walls and roofless farmhouses where wild barley grows in neat lines even without tilling. No hearth remains intact; each has been carefully dismantled and the stones stacked like cairns.",
+            "legend": "A lord once taxed fire itself in the vale. A hedge-witch cursed him so that no hearth there could hold flame until true reparations were made; the lord died poor, and the curse lingers. Travelers feel watched by eyes that warm when told stories.",
+            "hazards": "Cold nights even in summer, belligerent goats, quiet ruins that shift slightly between visits, ash-wights that rise when sparks are struck.",
+            "hooks": "The Concord of Chapels has found a ledger naming reparations owed to the vale—but the sum would bankrupt a faction. The Spindlewrights seek the witch’s cairn to ask for a heatless dye that could save silk during blight."
+        }
+    ],
+    "buildings": [
+        {
+            "name": "Needle Keep",
+            "type": "citadel and seat of the Protector",
+            "district": "Crown Terrace atop the basalt pillar",
+            "description": "A fortress spiraling around and into the basalt needle, with arrow slits cut like gills and galleries bridging empty air. Copper roofs and rain-chains channel water into cisterns. A central hall holds the Oathstone where the founding vows were cut and recut.",
+            "history": "Raised on the bones of the hermit-knight’s shack, expanded after the Second Flood in giant-funded repairs. Survived a siege by salt barons who choked the river; the Keep admitted river water through hidden culverts to power mills while the city starved.",
+            "secrets": "A sluice-vein runs through the basalt and feeds a cold forge said to harden steel in still water. The Oathstone has a missing corner chipped off—rumored to be in a private reliquary of the Order of the Black Thistle.",
+            "dependencies": "Relies on Scribes’ Stair for supply lifts and the Riverlight Pilots for rapid couriers. Without Thornspire’s waterworks, the Keep cannot hold more than a fortnight under siege.",
+            "notable_people": "Protector Arelon Vale; Castellan Mirra Hal; Bellwright Dox, who tends the alarm chimes.",
+            "hooks": "Arelon seeks a neutral arbiter to rewrite flood levies before tempers boil. The Keep’s rain-chains have begun to sing at night in windless weather."
+        },
+        {
+            "name": "Weir Market",
+            "type": "bazaar built over river weirs",
+            "district": "Floodwalk and lower canal forks",
+            "description": "Timber platforms straddle foaming water, under awnings dyed with thistle-blue and salt-red. Barges nose into stalls, selling kelp soaps, salt bricks, moth-cocoons, iron blooms, and old books wrapped in waxed linen.",
+            "history": "Grew from a few plank-stands into a regulated exchange after the first caravan accords. Burned once in the Ember Riot when smiths protested salt tariffs and was rebuilt with stone flamebreaks.",
+            "secrets": "A contraband sluice under Stall 47 carries illicit cargo to a hidden dock. The Market’s bellweights are fractionally off, set by the Hall of Shares to favor measures in festival seasons.",
+            "dependencies": "Depends on river level control by the Waterwardens and on accurate pilot charts. If the Sunken Road floods, scarcity spikes and brawls erupt.",
+            "notable_people": "Matron Selde of the Salt Factors League; Finn Bracken, a reed-chewer who knows every under-dock; Ossa, a Willowwife trader with moth-sense.",
+            "hooks": "Three rival factions claim exclusive rights to weigh thorn-silk; a neutral third-party assay is sought. The river has begun depositing black sand under the market that fouls paddlewheels."
+        },
+        {
+            "name": "Loom Cathedral",
+            "type": "guildhall and shrine of the Spindlewrights",
+            "district": "Loom Quarter on the mid-terraces",
+            "description": "A basilica of timber and woven screens, with stained silk panels that shift colors as the light moves. The nave holds looms like organs; their pedals whisper hymns to the moths when worked in chorus.",
+            "history": "Raised on the site of a plague hospice where the first silk saved lives by filtering miasma. The Cathedral was central in brokering the Willowwife Accords after the Moth Winter twenty years ago.",
+            "secrets": "A seed-vault under the altar holds night-thistle strains that do not require the mire—smuggled from a distant monastery at great cost and risk. The choir loft hides cages of moths whose silk is said to dampen voices and memory.",
+            "dependencies": "Relies on the Willowwives and the river fog cycles. The saltworks supply ash used to set colors; a salt shortage can bankrupt a season’s dye.",
+            "notable_people": "Guildmother Brynna Coil; Archcantor Pel; apprentice Weaver-Kinri whose patterns are seen in dreams by many.",
+            "hooks": "A moth blight threatens the current brood. A rival claims the Cathedral is hoarding disease-resistant stock while small loom houses fail."
+        },
+        {
+            "name": "Lantern Archive",
+            "type": "library and memory hall",
+            "district": "High landing on the Scribes’ Stair",
+            "description": "A crescent hall lit by hundreds of glass lanterns whose oils are infused with tinctures of memory. Reading desks are ringed by running water to catch stray thoughts. The Archive lends books but never extinguishes a lantern once lit for a reader.",
+            "history": "Founded by a scribe order who recorded river levels for a century; after the Second Flood they dedicated themselves to remembering what water tries to erase. Expanded with salvage from a burned scholar city downriver.",
+            "secrets": "Certain lanterns burn with a light that remembers past readers too vividly; shades have been heard reciting in empty aisles. In a locked cabinet rests a lens rumored to cut reflections from water—its provenance unknown.",
+            "dependencies": "Protected by the Concord of Chapels and patronized by merchant houses who donate ledgers for tax forgiveness. The Night Cartographers covet a wing of route-books.",
+            "notable_people": "Archivist Irevan; Lantern-keeper Sula; a silent boy called Page who reads without turning pages.",
+            "hooks": "A set of maps has faded in concert with a drought upriver. The Archive seeks the original surveyor’s verse-keys to reactivate the inks."
+        },
+        {
+            "name": "Ember Gate",
+            "type": "fortified gate and furnace-ward",
+            "district": "Westward opening toward the Skygrind Steps",
+            "description": "An iron-mouthed gatehouse bracketed by smelter stacks. The gate chains feed a counterweight furnace that glows even in rain. Firewatch towers hang buckets on great hooks over the thoroughfare.",
+            "history": "Built after a rash of ash-raids from the hills. The gatehouse fueled the city through the Siege of Three Winters by burning dredged peat. Once sealed a full month, it sings with the memory of its own heat.",
+            "secrets": "A concealed culvert runs into a slag cellar where a forgotten coin-mold lies—the die for a prince who never ruled Thornspire. The furnace whispers when fed peat from the Mourning Mire.",
+            "dependencies": "Supplied by Ferrum Collegium contracts and dwarf coal. If the Salt Ever’s ash supply falters, glass and soap guilds lean on Ember to run night furnaces.",
+            "notable_people": "Gate-Captain Tholl; Forgemistress Yael; Scoria, a soot-faced child who can open any ash-locked door.",
+            "hooks": "The counterweight furnace has begun to lag, as if a mass unseen presses against the gate. Smugglers have learned to float ingots in hollow logs; the Gate seeks inspectors who can smell iron under pine."
+        },
+        {
+            "name": "Salt Crown Exchange",
+            "type": "commodities hall and salt vaults",
+            "district": "Terrace of Measures near the Weir Market",
+            "description": "A ringed hall with a central sand-pit where traders draw contracts in chalk before witnesses. Salt vaults beneath hold bricks in graded tiers; the air tastes like old tears. A crown of wind-bells sings on the roof to warn of squalls from the flats.",
+            "history": "Founded by the Salt Factors League after the Caravan Peace. Witness circles enforced by all guilds stamped legitimacy to prices after the Ember Riot. Took on glass futures two years ago, to much controversy.",
+            "secrets": "A private vault holds a dark salt brick rumored to bleed brine. The Exchange hosts night auctions for impossible lots—patents on wind, secret routes, even a man’s reputation for honesty for a season.",
+            "dependencies": "Utterly dependent on the Sunken Road staying passable and on pilot guarantees. A single season of storms compels the Exchange to issue famine scrip.",
+            "notable_people": "Floor Marshal Hesk; Matron Selde; Factor Orun of the Riverlight minority desk.",
+            "hooks": "A counterfeit series of salt bricks passed inspection; the Exchange seeks the lost inspector or their replacement stamp. The wind-bells have begun ringing a pattern that matches a ledger cipher."
+        },
+        {
+            "name": "Black Thistle House",
+            "type": "chapterhouse and reliquary",
+            "district": "Shadow of the Needle, adjacent to the Concord of Chapels",
+            "description": "A sober, buttressed house of dark stone with thistle carvings worn smooth by pilgrims. A training yard bears scars from spear drills. Within, a narrow chapel holds relic-lances and thistle-wreathed pennons.",
+            "history": "The Order claims this ground as where the hermit-knight swore the city’s vows. Twice burned and twice rebuilt, it anchors processions during drought and flood alike.",
+            "secrets": "The reliquary is missing a fragment of the Oathstone. A locked armory contains a lancehead that hums when liars speak nearby. The Order quietly shelters penitent sorcerers in a sub-basement.",
+            "dependencies": "Draws tithes from dock levies and rents from field chapels. Relies on public favor to check guild avarice.",
+            "notable_people": "Prior Ansel of the Thorn; Sister Meret, oath-reader; Brother Cal, a veteran with thorn tattoos on his tongue.",
+            "hooks": "A vigil lantern will not stay lit; whispers say a vow has been broken in high office. The Order seeks neutral witnesses to a secret trial."
+        }
+    ],
+    "politics": [
+        {
+            "name": "Spindlewrights of the Thorn-Silk",
+            "type": "craft guild",
+            "leadership": "Guildmother Brynna Coil and a circle of loom-masters elected by district",
+            "seat": "Loom Cathedral in the Loom Quarter",
+            "goals": "Stabilize silk supply through mire contracts and seed diversity; maintain monopoly on dye recipes; keep tariffs on imported cocoons punitive.",
+            "methods": "Patronage of small looms, ritualized apprenticeships, seasonal loans, hush-contracts with Willowwives, influence over Fogfast festival timings.",
+            "resources": "Silk stores, dye gardens, seed vault, legal retainers, hired moth-wardens, equity stakes in river barges.",
+            "allies": "Willowwives of the Mourning Mire, Concord of Chapels in health matters, Ferrum Collegium for loom fittings.",
+            "rivals": "Salt Factors League over ash prices, House Verrin over export control, Night Cartographers for meddling in route secrets.",
+            "conflicts": "Accused of hoarding blight-resistant seed while independent weavers starve. Their hush-contracts strain trust with the Willowwives who want fairer terms.",
+            "customs": "Apprentices weave a lifeband bracelet at initiation that must never be cut; to break it is to be cast out.",
+            "secrets": "A hidden breeding program for moths that spin silk which dampens sound; rumored buyers include the Protector and thieves.",
+            "influence": "High in urban wards and festivals; moderate at river gates; low among salt caravans.",
+            "hooks": "Seeking negotiators to renew the Willowwife Accords before blight spreads; offers silk-credit in lieu of coin."
+        },
+        {
+            "name": "Riverlight Pilots Brotherhood",
+            "type": "river pilots and navigators guild",
+            "leadership": "Master Pilot Olan Vetch and a council of route-keepers",
+            "seat": "Pilots Hall on the Floodwalk, its roof-planks etched with river marks",
+            "goals": "Protect pilotage rights on the Low Veyne; maintain the secrecy and accuracy of charts; secure drought guarantees from the Protector.",
+            "methods": "Sworn route-books, encoded whistle calls, seasonal lockouts of barges that refuse union wages, sponsoring lantern-wards on treacherous bends.",
+            "resources": "Charts and sounding leads, trained crews, signal towers, bargaining power at flood and drought, rumor networks along the towpaths.",
+            "allies": "Lord Protector Arelon Vale, Weir Market stallholders, certain barge houses.",
+            "rivals": "Salt Factors League over independent pilots, Night Cartographers over shadow routes, House Verrin’s private fleet.",
+            "conflicts": "Accused of price-gouging in drought; some pilots defect to private houses with fatter purses, weakening solidarity.",
+            "customs": "A pilot’s oar is broken and burned at retirement so no unworthy hand holds it. Whistles at dawn, bells at dusk.",
+            "secrets": "A submerged stone line—perhaps a demon’s spine—has shifted; the Brotherhood debates whether to admit fear and call a holy sounding.",
+            "influence": "Very high over canal operations, moderate in the Hall of Shares, minimal in upland politics.",
+            "hooks": "Needs impartial witnesses on a disputed sandbar that seems to move at night. Offers passage and knowledge for discretion."
+        },
+        {
+            "name": "Order of the Black Thistle",
+            "type": "militant ascetic chapter and moral authority",
+            "leadership": "Prior Ansel of the Thorn, advised by a chapter of oath-readers",
+            "seat": "Black Thistle House under the Needle",
+            "goals": "Guard the founding vows; resist demonic influences in river and reed; temper mercantile excess with public rites and censure.",
+            "methods": "Public processions, oath-readings, withholding blessings from guild contracts, sheltering penitents, discreetly supporting witch-hunters.",
+            "resources": "Tithes, reliquaries, disciplined brothers and sisters, sway over the Concord of Chapels, relic-lances that disquiet liars.",
+            "allies": "Concord of Chapels, certain modest merchant houses, floodwardens, portions of the populace discontent with guild greed.",
+            "rivals": "Night Cartographers on moral grounds, House Verrin over political theater, some Spindlewrights who see vows as market tools.",
+            "conflicts": "Criticized for secret trials and for harboring controlled sorcery; accused of overreach during drought rites.",
+            "customs": "Thistle-wreath penance; tongue-prick oath-taking that leaves a thorn tattoo; fasting on the day the river first ran low.",
+            "secrets": "A fragment of the Oathstone is hidden in their vault; it hums when the Protector contemplates breaking a charter.",
+            "influence": "High among common folk, variable among guilds, fierce in crises.",
+            "hooks": "Seeks observers for a disputed exorcism in the Floodwalk; promises public thanks and private refuge to those who assist."
+        },
+        {
+            "name": "Salt Factors League",
+            "type": "merchant consortium",
+            "leadership": "Matron Selde and a board of seven factors who buy seats each season",
+            "seat": "Salt Crown Exchange on the Terrace of Measures",
+            "goals": "Control salt and ash flows; expand into glass and dye futures; break the Pilots Brotherhood’s control by licensing independent pilots.",
+            "methods": "Credit webs, bonded caravans, pressure on tariffs, private guards on the Sunken Road, secret subsidies to rival crafts during Spindlewright strikes.",
+            "resources": "Salt vaults, caravan trains, Exchange voting clout, weather-watchers on the flats, contract scribes, a discreet corps of ledger-knives.",
+            "allies": "House Verrin when interests align, certain dwarf factors for iron shipments, glassblowers’ guild in expansions.",
+            "rivals": "Riverlight Pilots Brotherhood, Spindlewrights, Order of the Black Thistle when censured.",
+            "conflicts": "Blamed for famine scrip issuance after storms; accused of counterfeiting bricks to shake confidence and buy low.",
+            "customs": "Initiates swallow a grain of dark salt and spit it in the Exchange sand as pledge; no Factor may drink fresh water during negotiation.",
+            "secrets": "Keeps a ledger of debt-chains that, if revealed, could topple two houses and a chapel. The dark salt in their vault sometimes bleeds.",
+            "influence": "Dominant in city pricing and caravan routes; weaker on the river itself.",
+            "hooks": "Hiring neutral auditors to certify brick purity after a scandal; protection needed for a risky Sunken Road crossing in storm season."
+        },
+        {
+            "name": "Night Cartographers",
+            "type": "secretive society of surveyors, spies, and rumor-brokers",
+            "leadership": "Unknown—rumored to be a triad called the Compass, the Scale, and the Knife",
+            "seat": "Whispered to move nightly; likely nodes in the Scribes’ Stair and Floodwalk",
+            "goals": "Map what others hide—routes, debts, desires—and sell the measure; chart the city beneath the city; keep the price of knowledge just higher than the price of silence.",
+            "methods": "Shadowed surveys, code-ink maps, rumor exchanges, blackmail laced as advice, midnight meetings on rooftops where laundry flaps like flags.",
+            "resources": "Secret maps, eavesdroppers, skylines, informants in taverns and chapels, hidden stashes of chart-lanterns.",
+            "allies": "House Verrin for certain political plays, disaffected pilots, desperate weavers, curious archivists on the edge of censure.",
+            "rivals": "Order of the Black Thistle, Riverlight Pilots Brotherhood, Lantern Archive when secrets are stolen rather than traded.",
+            "conflicts": "Accused of causing brawls by moving markers, setting guilds against each other to raise the price of peace. Some claim they can draw a person’s soul routes and cut them.",
+            "customs": "New members must map their own heartbeat and walk it blindfolded. They trade favors in measures—finger, span, ell—never coin.",
+            "secrets": "Hold a partial map of a mirror city seen under the river at midsummer noon. The Compass is rumored to be a sitting member of the Hall of Shares.",
+            "influence": "Wide but thin; their threads run through many wards but snap under direct force.",
+            "hooks": "Offer to buy a party’s route secrets in exchange for a map that avoids the reed-thing. Need recovery of a stolen chart-lantern lens from the Glasslake ruins."
+        },
+        {
+            "name": "Ferrum Collegium",
+            "type": "smiths and metalworks guild",
+            "leadership": "Forgemistress Yael and a bench of forge-elders",
+            "seat": "Ember Gate ward forges and the Collegium Hall",
+            "goals": "Secure ore supply from Skygrind Steps; test new alloys with ash from Ashen Tor; keep city gates and chains in repair; expand into armoring the river patrol.",
+            "methods": "Apprentice trials, iron tithes, joint ventures with dwarf foremen, bounties for scrap recovery, test pieces hung in the Ember Gate for judgment by passerby.",
+            "resources": "Forges, coal contracts, apprentices, patterns for chains, stored ingots, political goodwill from maintaining city safety.",
+            "allies": "Spindlewrights for fittings, River Pilots for barge anchors, dwarves at the Steps.",
+            "rivals": "Salt Factors during ash shortages, House Verrin when underbid for city contracts, illicit smelters in the Floodwalk.",
+            "conflicts": "A string of sabotaged ore carts threatens supply; rumors point to a jealous rival or a deeper game from the Night Cartographers.",
+            "customs": "Iron tasting—a master licks a cooled ingot to divine impurities. The Collegium brands completed chains with a unique song pattern struck on links.",
+            "secrets": "A forgery of old coin dies sits in a slag cellar; if used, it could destabilize old debts and favors.",
+            "influence": "High in the Ember ward and among city watch; moderate in the Hall of Shares.",
+            "hooks": "Needs discreet protection for a test caravan to the Steps; offers forged proofs against rust and a favor from a gate-captain."
+        },
+        {
+            "name": "House Verrin",
+            "type": "merchant-princely house and political brokers",
+            "leadership": "Patriarch Luth Verrin and his daughter Sera Verrin, the face of the house in the Hall of Shares",
+            "seat": "Verrin Manse on a mid-terrace overlooking the Weir Market",
+            "goals": "Consolidate a private fleet to bypass pilotage; acquire exclusive export rights to thorn-silk; place a Verrin as Keeper of Measures in the Exchange.",
+            "methods": "Marriage contracts, quiet donations to chapels, underwriting festivals, privateers on the low river, proxy seats in guild councils, friendly dinners that taste like leverage.",
+            "resources": "Coin, warehouses, private docks, loyal clerks, a small cadre of oath-bound bravos, a handful of riverboats with reinforced keels.",
+            "allies": "Night Cartographers when secrets are needed, Salt Factors in commodity pushes, some scribes in the Hall of Shares.",
+            "rivals": "Spindlewrights over silk, Riverlight Pilots over fleet, Protector Arelon Vale as a former pilot with competing loyalties.",
+            "conflicts": "Suspected of funding independent pilots and forging weigh stamps; denied publicly with honeyed words and plausible ledgers.",
+            "customs": "Verrin contracts are sealed with a sprinkle of sugar on salt—a sign of sweetened necessity. They wear thistle pins turned upside-down in private.",
+            "secrets": "Sera Verrin keeps a charter draft that would make the family the city’s official outfitter for all upriver expeditions; it lacks only one signature.",
+            "influence": "Strong in trade wards and in the Hall of Shares; limited among common folk; cautious with the Order.",
+            "hooks": "Seeks reputable agents to negotiate silkwrights into export quotas; offers shares in a new downriver warehouse—if the pilots can be quieted."
+        }
+    ]
+}

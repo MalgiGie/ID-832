@@ -1,0 +1,58 @@
+{
+    "name": "Greydin",
+    "surname": "Korr",
+    "race": "Human (Chainwarden foreman)",
+    "age": 52,
+    "appearance": "Oil-stained vestments with iron prayer rings; two fingers missing from left hand, eyes like hammered steel.",
+    "character": "Stern but fatherly to apprentices; uncompromising when safety is at stake.",
+    "traits": [
+        "Disciplined",
+        "Blunt",
+        "Protective",
+        "Old-fashioned"
+    ],
+    "skills": [
+        "Load calculus",
+        "Emergency rigging",
+        "Blessing litanies",
+        "Tram command"
+    ],
+    "talents": [
+        "Feels chain oscillation through his feet",
+        "Inspiring foreman",
+        "Remembers gear faults by sound"
+    ],
+    "flaws": [
+        "Inflexible",
+        "Grudges against Unmoored",
+        "Night terrors of failure"
+    ],
+    "dreams": [
+        "Design a citywide fail-safe",
+        "Witness a flawless Tensioning",
+        "Train successors who honor oaths over profit"
+    ],
+    "secrets": [
+        "Allowed an off-books slack-catcher trial in the Chain Cathedral crypt",
+        "Covered a near-miss to prevent panic",
+        "Hides correspondence with a dissident Skyscribe about safer schedules"
+    ],
+    "relations": [
+        {
+            "npc_name": "Erynn Sythar",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Kesh Storm-Runner",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Yassa Nim",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Binder Hark Tamsin",
+            "relation_type": "Different goals"
+        }
+    ]
+}

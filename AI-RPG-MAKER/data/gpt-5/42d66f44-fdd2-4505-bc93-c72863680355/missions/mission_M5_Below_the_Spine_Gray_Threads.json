@@ -1,0 +1,74 @@
+{
+    "id": "M5",
+    "title": "Below the Spine: Gray Threads",
+    "quest_giver": "Ilya Salt-Kite, Gray Sail courier",
+    "description": "Under the market’s clamor, a net of crawlspaces called the Gray Threads links a dozen secret caches. Night air here tastes like oil and old salt. Ilya asks Kael to descend and stop a shipment gone ugly: bell grenades lifted from the Embersalt Arsenal now sit in a smuggler’s crate, and a hotheaded runner plans to light a fuse under the Shellspire debate to make a point with a bang. Neris Bonehook, a Gray Sail captain with hands like fishhooks and a grudging respect for clean work, believes violence is bad for business and worse for orphans who sleep near blast walls. The Threads are narrow; one wrong step can turn a quarrel into a war. Kael must talk where he can and draw only when words run out of arrows.",
+    "objectives": [
+        "Meet Ilya Salt-Kite at a ratline hatch behind the east end of the Spine Market.",
+        "Locate the crate of bell grenades marked with arsenal seals without triggering any traps.",
+        "Confront Neris Bonehook and negotiate a stand-down to prevent the use of grenades during the Shellspire debate.",
+        "Identify which arsenal comptroller’s mark is stamped on the crate manifest.",
+        "Turn the grenades over to a neutral party for safekeeping (Fathom Tongues or Tidemasons) without alerting Brinewarden patrols."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Ilya Salt-Kite",
+                "line": "I owe you for more than one narrow rib, and I’d rather pay you with a quiet night than with blood later. There’s a crate down there that hums anger when you put your ear to the wood. If that anger gets loose during the debate, the Council will hear only ringing for a month and pass whatever law the loudest faction hands them."
+            },
+            {
+                "speaker": "Kael",
+                "line": "We’ll cut the fuse before someone decides to measure truth in shrapnel. If the crate sings, I’ll make it forget the tune."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Neris Bonehook",
+                "line": "You climb soft, Rimestrand. Most men rattle like rusty anchors down here. I don’t fancy scraping children off market walls either. But the Brinewardens beat a soup line last season, and some of mine want to answer with heat they understand. You bring me a better answer, and I’ll leash my angry dogs."
+            },
+            {
+                "speaker": "Kael",
+                "line": "Here’s a better answer: a ledger page with a comptroller’s skim written in numbers even a Councilor can’t pretend not to read. You trade me the grenades for this page and a promise that I carry it where it hurts. Your dogs get a story where they were strong enough to leash themselves. That’s a pride that doesn’t turn on you."
+            },
+            {
+                "speaker": "Neris Bonehook",
+                "line": "A leash you put on yourself is a rope you don’t choke on. Take the crate. If the Brinewardens ask where it went, tell them I learned arithmetic. That’ll scare them more than a bang."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Tern Quietwake",
+                "line": "I will keep these bells in water that remembers silence. You bring trouble that used to have teeth and you hand it to me with the teeth wrapped in cloth. I can work with that. When the city rings tomorrow, it will be with a question, not an explosion."
+            },
+            {
+                "speaker": "Kael",
+                "line": "If the comptroller wants his skim back, he’ll have to ask under fossil chandeliers where the stone listens better than men do. I’ll stand where you can hear me when I say his name."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ],
+        "related_to": [
+            "M11"
+        ]
+    },
+    "rewards": {
+        "xp": 600,
+        "items": [
+            "Gray Thread Knot-Token (smuggler truce emblem reducing hostility underground)",
+            "Arsenal Manifest Page (evidence item)"
+        ],
+        "favors": [
+            "Neris Bonehook owes one clandestine escort across the flats during a dim-out"
+        ],
+        "access": [
+            "Safe passage through one Gray Thread route during Council nights"
+        ],
+        "coin": "40 credit-shells"
+    }
+}

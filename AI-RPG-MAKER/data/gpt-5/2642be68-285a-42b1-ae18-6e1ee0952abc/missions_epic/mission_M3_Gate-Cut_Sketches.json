@@ -1,0 +1,76 @@
+{
+    "id": "M3",
+    "title": "Gate-Cut Sketches",
+    "quest_giver": {
+        "name": "Tomas Helwin",
+        "affiliation": "Tidewrights Consortium"
+    },
+    "description": "The child runner found you by the saffron-stained bollards of Molden Quays, his palms black with boat-tar and his eyes bright with a secret he did not understand. He pressed a folded reed-paper into your hand and fled down an alley of hanging ropes, leaving you with the faint smell of mothwax and ink. When you opened it under a moth-lamp’s shiver, the diagram unfurled like a guilty tide: lines and notations mapping a hidden bypass valve threaded beneath the Tide-Engine House’s lowest floor, an artery carved out of old alloy and new ambition. You could almost hear it in the city’s breath, a phantom tick stepping between bells, shaving a sliver from the sacred turnover and hiding a river of bribes in the turbulence. Tomas Helwin’s mark nested in the corner, a surveyor’s script you had saved once from the thief’s gate whirl, and his note bled through the fibers like a confession: someone was testing the bypass at night. He begged you to come to a quiet canal nook where the moth-light pools don’t reach, study the sketch with him, then walk the Engine at dusk under the legal shade of your Lantern Court Writ-Token. Inside that cathedral of gear and chain, you must find the braced tool chest near the gauge-board and take its shadow ledger, a book that records payments and timings never meant for honest eyes. Gate-Mistress Ruli Saan, who once flooded the thief’s gate to save a barge crew and paid for it with censure, must be convinced to speak in private; she has felt a strange sigh of metal underfoot and suspects a hand upon the secret wheel. The river will not forgive a full opening; the basins would wake empty, the quays clatter with hunger, and Thyssara’s pride bow like a reed in drought. You know the hum of each chain in that house, the breath of oil and incense, the bronze gate-flowers that open and close like obedient petals, and you also know how loudly a false step can ring. Tonight, you must move like a ghost in the gear-shadows, and carry the city’s pulse cupped between your hands.",
+    "objectives": [
+        "Meet Tomas Helwin in a quiet canal nook to study the bypass sketch.",
+        "Infiltrate the Tide-Engine House after dusk using your Writ-Token.",
+        "Steal or copy the shadow ledger hidden in a braced tool chest near the gauge-board.",
+        "Secure a private conversation with Gate-Mistress Ruli Saan.",
+        "Deliver the ledger to Tomas and discuss next steps."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tomas Helwin",
+            "lines": "When the thief’s gate sang, I thought I was hearing my own bones, and for a heartbeat I believed the river could count me as scrap. Then you were there with that hook and a curse, and you tore me out of that brown throat into air that stank of oil and yet tasted sweet as a saved day. Since then I have measured the Engine’s heartbeat bell by bell, chain by chain, and something new is ticking inside the old heart where no tick should be. It slips between the gauges like a bad dream, trimming moments we never agreed to shave, and the ledger lines in my mind refuse to balance. If this bypass ever opens all the way, we will not have a second bell to warn the quays; we will wake to dry basins, cracked schedules, and a city on its knees bargaining with thirst."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "lines": "I don’t scare easy, not of courts or smoke, but the Engine has earned fear and reverence both, and I was raised to bow to neither when people’s lives are on the line. You and I learned our knots in the same salt and grit, Tomas, and I won’t let a secret wheel decide who eats and who drowns. I will walk your wheels at dusk under the writ’s dim blessing and steal the book that thinks it is invisible, and I will do it quiet enough that only the river will know my name for a while. If Ruli still trusts me, I will find her where the hum is thin and give her the choice to put her name where it matters, not where they punish her. But if I see a mask with ash in the seams or a Tidewright’s hand twisting truth into profit, I won’t keep the peace they sell; I’ll make a new noise and let the bells learn it."
+        },
+        {
+            "speaker": "Ruli Saan",
+            "lines": "They told me that saving those pilots was wasteful as if a life were an unbalanced account that demanded trimming, and I swallowed their rebuke like a cracked tooth. I flooded the thief’s gate because the river spoke faster than the bell that day, and if that makes me unruly then the name fits and I will wear it again. Beneath my boots these past nights the metal has sighed in a way not found in our patterns, a breath that seems to come from under the floor we call the bottom. There is pride in this house, and there is duty, and there is also the kind of ambition that sets hands to secret valves and expects forgiveness after the flood. Bring me proof, Kade, not just righteous wind, and I will blow a whistle that carries through bronze and bone until the teeth of those who hid this bypass ache in their skulls."
+        },
+        {
+            "speaker": "Mavek Dross",
+            "lines": "You stalk my Engine at night like a canal cat looking for a spill of milk, and you expect applause when the cream turns out to be oil. The Consortium keeps the river on time so bakers bake, judges judge, and pilots pilot, and our schedules are the string that keeps this city’s kite from tumbling. If you carry a tale to the Lanterns with my name in the chorus, sing it in the correct key with every note justified, because discord has a way of tangling ropes and dropping good men into hard water. Heroes are fine in songs, Orrel, but in the works they trip levers they do not understand and make orphans out of gears. Take care that the river does not develop a taste for inconvenient champions; it is a hunger that never goes out once lit."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Walk the Bell-Lit Path",
+            "text": "You present your Lantern Court Writ-Token at the Tide-Engine House gate at dusk, your cloak brushed and your words clean, and you ask for access like a man who belongs. The Wardens at the door salute the brass and lead you along the bronze gate-flowers, and you let the Engine’s hymn cover the quickness of your pulse. You stop where the gauge-board listens to groundwater and smile as if the dials are old friends, then request a routine verification of bracing tools in accordance with Candlecourt ordinance three-ninety-one. You count the steps and breaths while clerks record your presence, and when the braced tool chest appears you lean close as if approving its polish, hands sure and steady as a pilot’s at flood-turn. In the eye of law and light, you mean to slide the ledger free like a reed from its sheath, trusting that a straight walk through danger is less suspicious than a shadowed one.",
+            "outcome": "Your lawful posture earns you a thin respect and a thicker trail of ink that can be explained later, and the book comes to hand with a whisper like a page remembering a lie. Mavek Dross glides near with a politeness sharpened to a point, and his questions are long, but your answers are longer and wrapped in clauses so clean even a magistrate would nod. You leave with the ledger beneath your cloak and a column in the house log naming you present at the hour, which is both a shield and a spear if the bells are honest. Ruli hears that you did not skulk and allows you a private corner in the pump-room where the hum limps, and there she speaks with a wary respect that warms by degrees. Tomas receives the ledger in the canal nook and traces the entries with a shaking finger, and though the night tastes of risk, it also tastes of leverage; the promised schematics fragment is tucked into your hand, the one-time access token is pressed into your palm with a fierce whisper, and your name with Ruli is mended a stitch tighter."
+        },
+        {
+            "id": "C2",
+            "title": "Sluice-Shadow Ingress",
+            "text": "You choose the water’s seam instead of the bell’s, slipping through a capped culvert you once learned about from a Veil runner who never learned to swim well enough. The underfloor is a low world of sweating stone and sleeping chains, and your breath stacks in the cold like coins, each counted against your courage. You move by touch and memory, letting the Engine’s great heart cover the small sounds you cannot help but make, and you taste iron and old promises in every drip. You find the braced tool chest where the map promised, and you open it with a hook-tip and a prayer to the drowned that you never learned in any monastery. The ledger is bound in grey leather and mothwax crumbs salt its spine, and you wrap it in oilcloth while the river in the pipes above you murmurs like a judge deciding a narrow case.",
+            "outcome": "You leave a trail only a frog would notice and a smear of peat no clerk will taste, and your shadow returns to the canal without a bell ever knowing it had company. The Smoulder Veil’s rumor-mongers will later whisper about a ghost in the Engine tunnels, and some will put your old debt in the story, but the Veil’s name never touches the page you took. Ruli studies the ledger by lantern beneath a tarpaulin roof while rain frets at the quay, and though she frowns at the trespass she cannot deny the truth inked there; she agrees to a private parley away from superiors who count disobedience as a hobby. Tomas looks as if sleep has been returned to him in a jar, and he breaks it open with a laugh that sounds like a sob, promising you a schematics fragment he doubted he would ever dare to share. Your hand receives the quiet token for Gate Three’s catwalk as a conspirator’s handshake, your standing with Ruli climbs a rung, and the night flows past without a splash loud enough to call the Wardens."
+        },
+        {
+            "id": "C3",
+            "title": "Inspection by Storm and Drum",
+            "text": "You send a whisper to Aren Mir at Windward Bastion, and the Wardens arrive with clipboards like shields and voices that can turn stone dutiful. Under the banner of a surprise safety inspection called by a concerned citizen of Molden Quays, you stride in a wedge of honest noise that makes every clerk stand a little straighter. The gauge-board’s keepers swallow their annoyance and open doors they would rather keep shut, and you read the room with the same care you once gave a stormline. You do not take the ledger directly; instead you request a copy under the eye of a scribe, insisting on procedure and chain-of-custody so tidy it squeaks. In the space between pages and pride you let your rope-hand drift to where the braced chest sits, learning its weight, its breath, and the way it wishes to be moved when no one is looking.",
+            "outcome": "The inspection leaves bruises of embarrassment on the Tidewrights but no broken bones, and the copy bears marks and initials that make it hard to deny should the Court’s lamps be lit. Mavek Dross watches you with a smile that promises a polite war, and his complaint will come dressed in order and delivered with a bow, but the river of fact has already been diverted into your pocket. Ruli rolls her eyes at the parade but blesses its effect; she agrees to meet you alone in a maintenance corridor where the sound of water drowns eavesdroppers, and in that meeting she shares names that clink like keys. Tomas takes the copy with both hands and nods as if a bridge had just been checked and found sound, and then, with a chiseler’s grin, he slips you a fragment of schematics that smells faintly of singed reed. The quiet access token is granted in recognition of causing no wreck while still rocking the boat, and your standing with Ruli improves because you proved there are ways to fight loudly without breaking the wrong glass."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Tidewrights schematics fragment — evidence for later leverage."
+        },
+        {
+            "type": "Access",
+            "description": "Quiet access token to a maintenance catwalk beneath Gate Three (one-time use)."
+        },
+        {
+            "type": "Reputation",
+            "description": "Improved standing with Gate-Mistress Ruli Saan."
+        }
+    ]
+}

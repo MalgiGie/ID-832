@@ -1,0 +1,437 @@
+[
+    {
+        "from": "Sera Dake",
+        "to": "Ulo Hen",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sera Dake",
+        "to": "Lerrin Vale",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sera Dake",
+        "to": "Ysil Aer",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sera Dake",
+        "to": "Gor Relk",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sera Dake",
+        "to": "Sorn Ilt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sera Dake",
+        "to": "Roa Mestri",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ulo Hen",
+        "to": "Sera Dake",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ulo Hen",
+        "to": "Gor Relk",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ulo Hen",
+        "to": "Lerrin Vale",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ulo Hen",
+        "to": "Sorn Ilt",
+        "type": "Different goals"
+    },
+    {
+        "from": "Ulo Hen",
+        "to": "Thia Mol",
+        "type": "Hostility"
+    },
+    {
+        "from": "Ulo Hen",
+        "to": "Danka Suth",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ulo Hen",
+        "to": "Mira Olt",
+        "type": "neutral"
+    },
+    {
+        "from": "Ysil Aer",
+        "to": "Lerrin Vale",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ysil Aer",
+        "to": "Sorn Ilt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ysil Aer",
+        "to": "Ulo Hen",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ysil Aer",
+        "to": "Thia Mol",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ysil Aer",
+        "to": "Mira Olt",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ysil Aer",
+        "to": "Sera Dake",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Gor Relk",
+        "to": "Ulo Hen",
+        "type": "Alliance"
+    },
+    {
+        "from": "Gor Relk",
+        "to": "Sera Dake",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Gor Relk",
+        "to": "Thia Mol",
+        "type": "Conflict"
+    },
+    {
+        "from": "Gor Relk",
+        "to": "Sorn Ilt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Gor Relk",
+        "to": "Jarik Rell",
+        "type": "Friendship"
+    },
+    {
+        "from": "Gor Relk",
+        "to": "Kessa Tharn",
+        "type": "Different goals"
+    },
+    {
+        "from": "Lerrin Vale",
+        "to": "Sera Dake",
+        "type": "Alliance"
+    },
+    {
+        "from": "Lerrin Vale",
+        "to": "Ulo Hen",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Lerrin Vale",
+        "to": "Ysil Aer",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lerrin Vale",
+        "to": "Sorn Ilt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lerrin Vale",
+        "to": "Thia Mol",
+        "type": "Different goals"
+    },
+    {
+        "from": "Lerrin Vale",
+        "to": "Roa Mestri",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sorn Ilt",
+        "to": "Ysil Aer",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sorn Ilt",
+        "to": "Lerrin Vale",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sorn Ilt",
+        "to": "Ulo Hen",
+        "type": "neutral"
+    },
+    {
+        "from": "Sorn Ilt",
+        "to": "Sera Dake",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sorn Ilt",
+        "to": "Thia Mol",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sorn Ilt",
+        "to": "Mira Olt",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sorn Ilt",
+        "to": "Danka Suth",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Thia Mol",
+        "to": "Sorn Ilt",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Thia Mol",
+        "to": "Gor Relk",
+        "type": "Conflict"
+    },
+    {
+        "from": "Thia Mol",
+        "to": "Ulo Hen",
+        "type": "Hostility"
+    },
+    {
+        "from": "Thia Mol",
+        "to": "Kessa Tharn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Thia Mol",
+        "to": "Mira Olt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Thia Mol",
+        "to": "Iven Rill",
+        "type": "Friendship"
+    },
+    {
+        "from": "Thia Mol",
+        "to": "Lerrin Vale",
+        "type": "Different goals"
+    },
+    {
+        "from": "Thia Mol",
+        "to": "Danka Suth",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Roa Mestri",
+        "to": "Sera Dake",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Roa Mestri",
+        "to": "Lerrin Vale",
+        "type": "Friendship"
+    },
+    {
+        "from": "Roa Mestri",
+        "to": "Ulo Hen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Roa Mestri",
+        "to": "Gor Relk",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Roa Mestri",
+        "to": "Mira Olt",
+        "type": "Friendship"
+    },
+    {
+        "from": "Roa Mestri",
+        "to": "Sorn Ilt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Roa Mestri",
+        "to": "Kessa Tharn",
+        "type": "Different goals"
+    },
+    {
+        "from": "Kessa Tharn",
+        "to": "Thia Mol",
+        "type": "Friendship"
+    },
+    {
+        "from": "Kessa Tharn",
+        "to": "Gor Relk",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Kessa Tharn",
+        "to": "Mira Olt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Kessa Tharn",
+        "to": "Iven Rill",
+        "type": "Friendship"
+    },
+    {
+        "from": "Kessa Tharn",
+        "to": "Sera Dake",
+        "type": "Different goals"
+    },
+    {
+        "from": "Kessa Tharn",
+        "to": "Roa Mestri",
+        "type": "Different goals"
+    },
+    {
+        "from": "Kessa Tharn",
+        "to": "Ulo Hen",
+        "type": "Conflict"
+    },
+    {
+        "from": "Jarik Rell",
+        "to": "Gor Relk",
+        "type": "Friendship"
+    },
+    {
+        "from": "Jarik Rell",
+        "to": "Thia Mol",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Jarik Rell",
+        "to": "Ulo Hen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jarik Rell",
+        "to": "Sera Dake",
+        "type": "Different goals"
+    },
+    {
+        "from": "Jarik Rell",
+        "to": "Roa Mestri",
+        "type": "Hostility"
+    },
+    {
+        "from": "Jarik Rell",
+        "to": "Sorn Ilt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mira Olt",
+        "to": "Ysil Aer",
+        "type": "Friendship"
+    },
+    {
+        "from": "Mira Olt",
+        "to": "Sorn Ilt",
+        "type": "Friendship"
+    },
+    {
+        "from": "Mira Olt",
+        "to": "Thia Mol",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mira Olt",
+        "to": "Roa Mestri",
+        "type": "Friendship"
+    },
+    {
+        "from": "Mira Olt",
+        "to": "Kessa Tharn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Mira Olt",
+        "to": "Ulo Hen",
+        "type": "neutral"
+    },
+    {
+        "from": "Mira Olt",
+        "to": "Sera Dake",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mira Olt",
+        "to": "Iven Rill",
+        "type": "Friendship"
+    },
+    {
+        "from": "Danka Suth",
+        "to": "Ulo Hen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Danka Suth",
+        "to": "Sorn Ilt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Danka Suth",
+        "to": "Thia Mol",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Danka Suth",
+        "to": "Ysil Aer",
+        "type": "Different goals"
+    },
+    {
+        "from": "Danka Suth",
+        "to": "Iven Rill",
+        "type": "Friendship"
+    },
+    {
+        "from": "Danka Suth",
+        "to": "Lerrin Vale",
+        "type": "neutral"
+    },
+    {
+        "from": "Iven Rill",
+        "to": "Thia Mol",
+        "type": "Friendship"
+    },
+    {
+        "from": "Iven Rill",
+        "to": "Kessa Tharn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Iven Rill",
+        "to": "Mira Olt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Iven Rill",
+        "to": "Ulo Hen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Iven Rill",
+        "to": "Danka Suth",
+        "type": "Friendship"
+    },
+    {
+        "from": "Iven Rill",
+        "to": "Sorn Ilt",
+        "type": "neutral"
+    },
+    {
+        "from": "Iven Rill",
+        "to": "Ysil Aer",
+        "type": "Cooperation"
+    }
+]

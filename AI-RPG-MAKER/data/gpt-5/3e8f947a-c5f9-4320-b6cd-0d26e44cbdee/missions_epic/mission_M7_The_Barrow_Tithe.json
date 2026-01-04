@@ -1,0 +1,92 @@
+{
+    "id": "M7",
+    "title": "The Barrow Tithe",
+    "quest_giver": {
+        "name": "Arakel Dorn",
+        "affiliation": "The Unentombed"
+    },
+    "description": "North where the dunes give way to pocked hills and glass-scabbed craters, the Starfall Barrows open their cool throats like patient judges, each passage lined with mosaics of bone and star-metal that remember footsteps. A petition written in slow-burning light crept along the Ossuary walls at dusk, letter by radiant letter, invoking an ancient meteor-written law and demanding that Marrowhold render tithe as a vassal city once did under a sky of falling fire. Arakel Dorn of the Unentombed bids Rogan Kettlebone to walk the spiral halls as an envoy, where contracts are tasted on the tongue like iron and the measure of a life can be weighed in traded moments. Barrow shades, practiced in statutes older than the ribs that shelter the City in the Ribs, line the benches like a silent choir, while Talekan Yss, an ash-elf whose voice has argued verdicts into winter, speaks for the dead with rigorous mercy. Beneath it all a star-metal vein hums with a tone that braids the Resonant Gate’s recent false note around a truer, steadier chord, and in that strange music might lie a way to mend an old offense before it becomes a debt. To safeguard Aerie hooks and skyships, to keep the Watch’s chains from singing their last song, and to soothe the stirred pride of the Barrow-Lord, Rogan must barter a memory he can afford to lose or craft a precedent that even the shades will respect.",
+    "objectives": [
+        "Travel with Arakel Dorn to the Starfall Barrows under Unentombed sanction.",
+        "Negotiate with Talekan Yss and the Barrow-Lord for a suspension of tithe in exchange for services.",
+        "Offer a memory tithe (choose a memory) or find a legal precedent to satisfy the shades.",
+        "Investigate a humming star-metal vein and compare its tone to the Gate’s false note.",
+        "Secure a star-metal edge for the Aerie hooks and a writ easing Aerie access to Barrow materials."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Arakel Dorn",
+            "lines": "Rogan Kettlebone, the barrows have sent a letter of light that refuses to fade, and that is a kind of summons our city cannot ignore without courting famine and folly. We go as guests who must tread with reverence, for the dead we serve are not our enemies, yet their fairness can be as keen as a blade. They remember treaties etched in meteor-fire and read by voices that have not shaken in three centuries, and they will weigh our words the way we weigh water in rations. We need their patience to soften the tithe and their star-metal to keep the Aerie’s hooks from slipping when the winds turn treacherous. Promise nothing your bones will not keep, and if you must pay with memory, pay from your own ledger and not another’s, for the court knows the taste of stolen coin."
+        },
+        {
+            "speaker": "Rogan Kettlebone",
+            "lines": "I’ve walked curfews under the ribs and heard the Gate sing a warning through stone, and I have learned what happens when pride outruns patience. If a memory must be traded, I will choose my own and bear the emptiness it leaves without complaint, because I have carried worse in dry seasons. I will not lie in a hall where truth is carved into the walls, and I will not let another’s story be plucked so I can walk free of cost. You will have my strength and my steadiness, and if the court asks for labor, I will put my hands to it twice over and bow my head besides. Tell me what tone the dead wish to hear, and I will try to match it with a voice that does not break."
+        },
+        {
+            "speaker": "Talekan Yss",
+            "lines": "I stand as advocate for those who built their laws out of frost and flame, and I say to you plainly that Marrowhold has neglected a sky-tithe clause every Barrow-Lord can recite in darkness. The meteor accord binds you not by fear but by favor once given and forgotten, and the debt has grown teeth from your silence. You may offer lawful compromise if your service equals the delay you request, or you may tender memory coin that buys time without insulting the court. Know that this coin is specific: anger for quiet is prized, fear traded for courage changes fates, and a memory of falsehood is worth nothing because it dissolves on the tongue. Choose carefully, envoy, because the dead do not haggle twice, and leave behind your swagger when you step beneath these hills."
+        },
+        {
+            "speaker": "Barrow-Lord (shade)",
+            "lines": "We remember the night the sky cracked like enamel and fell in sparks, and we remember who sheltered in the burrows and who stood without and sang until the wind moved. The meteor law was signed with the breath of those singers, and that breath persists as a ledger-line that glows when the city swerves from its duty. Bring us a resonance to show the living did not strike the first false note, or bring us a memory with a shape the court can hold and weigh, and either may still the demand for a season. We accept a memory of rage bartered for quiet because it cools feuds, and we accept a memory of fear refined into courage because it strengthens vows; these are currencies we honor. Speak steadily, living one, for your voice shivers like cooled glass, and we have tests that do not break but they reveal."
+        },
+        {
+            "speaker": "Arakel Dorn",
+            "lines": "There is a star-metal vein beneath the fourth barrow that hums in two threads, as if the earth were a harp plucked by both a clumsy hand and a careful one. The careful thread is old and true, the kind we map to the Gate’s proper chord when we maintain the city’s alarm, and the clumsy thread tastes of meddling, as if someone tried to tune storms toward the ribs. If we can isolate the true tone with a quartz resonator and your Mirror-Oculus shard, we might show that we are mending harm rather than deepening it, which the law favors. Failing that, there is an archival precedent—the Clause of Falling Stars—that allows tithe suspension when the city labors to prevent recurrence of the fault, but it demands a court fee in memory coin no matter what. Either path will require calm hands and cleaner words than we are used to in the Cage Market, and I believe you can carry them."
+        },
+        {
+            "speaker": "Rogan Kettlebone",
+            "lines": "I remember a ration line where a child’s cup was turned away and my temper burst like glass under a hammer, and I have carried the heat of that moment like a brand I keep touching. If your court asks me for that anger, I can name its edges and set it down, so long as I keep the part that made me carry her to shade after the shouting. I cannot part with my oath-cords or my promise to the Fen, and I will not pay with someone else’s story, so let this be the weight I give. But if the better payment is the mending of a tone, I can work a rope and a resonator and climb where the air burns lungs without asking for thanks. I will try first to fix what was bent, and if that fails, I will fill the court’s bowl with my own heat and leave it quiet."
+        },
+        {
+            "speaker": "Talekan Yss",
+            "lines": "You come with your groundwork done and your words sharpened by sweat rather than ink, and that earns you a hearing even before a stern bench. The vein you mention sings through the floor like a thread pulled too tight, and I can feel where the false note scalds the true one. If you can separate them and tie the clean tone back to your Gate so that the storms favor justice instead of accident, the court will see purpose in your stay petition. But understand that we do not run on gratitude; we run on balance, and a fee in memory may still be requested even when you mend the line. Bring us your proof, envoy, and bow when you place it down, for humility is a hinge the dead will open for."
+        },
+        {
+            "speaker": "Arakel Dorn",
+            "lines": "Then we will descend to the fourth hall with the quartz, tune the oculus to the Gate’s proper chord, and ask the bone mosaics to carry the sound so the court can hear it at once. I will keep the count, you will keep the rope, and together we will listen for the place where the false tone peels away like old lacquer. If the hall approves, we will draft the writ with care, binding the Aerie to forge in the true key as they set their star-metal edges and chains. If the hall disapproves, we will not leave in anger, because anger is a coin and we cannot spend it twice, and we will offer what you have named without flinching. Either way, we leave with dignity, and that too is a kind of law the Barrow-Lord respects."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Pay the Oath of Red Temper",
+            "text": "Step into the circle of fossils and name the moment your anger first learned to run ahead of your patience, describing it not as a boast but as a confession the stone can carry. Lift your palm with the mirror-cut scar and lay it against the star-metal rail so the cold steadies your voice, then tell them of the ration line, the dry cup, and the heat that split your words. Promise to surrender the jagged edge of that temper, the reflex that leaps to the throat before the lungs have time to cool, and ask to keep the strength that carried a child to shade. Accept the advocate’s questions without bristling, even when Talekan Yss asks you to speak the child’s name, and answer that you remember the face more than the sound and that you will not invent a name to satisfy the court. When the Barrow-Lord asks why he should value anger trimmed from a fighter, say that there are days when quiet is a shield sharper than any sabre, and that you will leave that shield with them because the city must hold.",
+            "outcome": "The court receives your memory like water poured into a basin, the images rising in the mosaics as pale flames that gutter and then go quiet, and with them a heat inside you drops from a boil to a contained simmer. Talekan Yss nods once, not in triumph but in agreement, and the Barrow-Lord’s lamp-eyes dim, which among the dead is the sign of a matter set aside for a time. A scribe-shade writes a stay upon the tithe until the true tone is restored and bound into practice, and orders that the Aerie may take star-metal so long as each hook is forged while the proper chord is sounded for all to hear. Arakel Dorn presses into your hands a star-metal edge ground thin as the horizon, explaining that chains remember edges like this and hold because of them, and his voice carries a pride he does not often show. You walk out feeling a space where the old reflex would have leapt, and in its place patience steps forward first, its weight unfamiliar but solid, and you know future words will land with a steadier tread."
+        },
+        {
+            "id": "C2",
+            "title": "Argue the Clause of Falling Stars",
+            "text": "Open your marrow-ink vambrace and produce a rubbing from the Archive of Veins that describes the famine-era clause permitting tithe suspension during remediation of an echo-harm, and let the ink hum so the court can taste its authenticity. Speak to the language that binds duty to repair in good faith, not as evasion but as service, and tie your case to the Gate’s false note entangled with the true one beneath the barrows. Lay out a plan with Arakel Dorn to isolate the clean tone using quartz from the Rift of Lumes and to publish it to the Aerie, the Watch, and the Temple so that no faction can twist it to private ends. When Talekan Yss presses you on timelines and enforcement, answer with the names of the Bonewrights who will witness and the Rookery pilots whose lives hang from chains that must not slip, and pledge echo-pipe announcements that will make the city a chorus for the right key. Bow to the bench and acknowledge that law without cost breeds disrespect, and invite the court to set a reasonable fee so the living remember what they promised when the wind stills and temptations rise.",
+            "outcome": "The Barrow court listens as if the air itself has leaned in, and when you finish, a ripple passes through the shades like a page being turned, signaling that the precedent has found purchase. The Barrow-Lord names the Clause of Falling Stars and affirms that it applies when the living labor promptly to reverse a harm that touches the dead’s instruments, which the false note does, yet he exacts a court fee in memory to bind sincerity to action. The fee is precise: a sliver shaved from your reactive anger, not enough to unmake you but enough to dull the flare that too quickly scorches, and its taking feels like a bell struck once and then damped by a steady hand. A writ is set in marrow-ink easing Aerie access under Unentombed oversight, and a star-metal edge, bright with tiny frost, is granted for mooring chains and cullet work in recognition of your service. As you leave, you feel how your sentences settle before they spring, and you recognize that the cost you paid now puts weight behind your measured words when the city’s chorus must sing the true tone aloud."
+        },
+        {
+            "id": "C3",
+            "title": "Tune the Chord of the True Tone",
+            "text": "Descend with Arakel Dorn to the fourth hall where quartz ribs protrude like frozen waves, and string your wind-kelp rope along the safety hooks carved by the Bonewrights long ago. Set the Mirror-Oculus Shard above the resonator and slowly adjust it until the glare softens and the old chord emerges, steady as a heartbeat beneath a nervous drum. Let Dorn pluck the quartz while you mark the frequencies in your vambrace, then hum the proper Gate note you remember from storm drills at Spinespan Aerie, matching it to the star-metal’s truer thread. When the false tone rears up like heat-haze, cut it with a counter-harmonic learned from echo-pipe discipline, and watch it break apart into harmless echoes that die along the floor. Call Talekan Yss and the court to witness as the proper chord fills the chamber, and promise that the Aerie will forge to this key henceforth, with the Temple and the Watch to hear and record the act so the law is not left to trust alone.",
+            "outcome": "The barrow walls answer with a calm vibration like a deep lake touched by rain, and the shades turn their faces toward you as if warmth had found them in old bones, which is as close to smiles as they come. Talekan Yss announces that remedy has begun and that the petition’s teeth may be sheathed without shaming the signers of the meteor law, provided the forging in the city follows the same chord you have set free. The Barrow-Lord decrees a stay of tithe tied to the maintenance of this resonance and grants a writ that opens star-metal stores to the Aerie under the Unentombed’s ear and eye, with penalties inked should the chord be neglected. A star-metal edge is bestowed as token and tool, and when you touch it, the metal sings in faint sympathy with the true tone you helped restore, reminding you of the duty you carry. Before you depart a small toll is taken from your reactive anger—the court’s price to temper zeal into steadiness—and you feel something unclench inside your chest, leaving space for deliberation where a spark once leapt."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Star-metal Edge: upgrade enabling safer mooring chain work and cutting cullet threads, its song binding links to hold when gusts would treacherously slip them."
+        },
+        {
+            "type": "writ",
+            "description": "Barrow writ easing Aerie access to star-metal under Unentombed oversight, contingent on forging to the true tone proven before the court."
+        },
+        {
+            "type": "status",
+            "description": "Memory cost paid: Rogan loses a portion of his reactive anger (affects future dialogue tones), leaving a steadier patience in its place."
+        }
+    ]
+}

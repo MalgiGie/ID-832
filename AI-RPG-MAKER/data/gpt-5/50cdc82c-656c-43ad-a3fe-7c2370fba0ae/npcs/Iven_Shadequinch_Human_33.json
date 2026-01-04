@@ -1,0 +1,66 @@
+{
+    "name": "Iven",
+    "surname": "Shadequinch",
+    "race": "Human",
+    "age": 33,
+    "appearance": "Ash-blond hair cut close, smoke-gray cloak that swallows silhouettes, eyes like wet slate. A black-sap signet stains one thumb.",
+    "character": "Soft-spoken pragmatist with a gardener’s patience for pruning problems at the root.",
+    "traits": [
+        "Composed",
+        "Manipulative",
+        "Patient",
+        "Pragmatic"
+    ],
+    "skills": [
+        "Infiltration",
+        "Rumor-craft and misdirection",
+        "Shadow-ward navigation",
+        "Forgery of casual hands"
+    ],
+    "talents": [
+        "Disappears into crowds effortlessly",
+        "Reads microexpressions",
+        "Remembers footsteps as signatures"
+    ],
+    "flaws": [
+        "Cynical",
+        "Cannot swim",
+        "Detached from guilt"
+    ],
+    "dreams": [
+        "Trim House Kelvar’s power without burning trade",
+        "Keep the harmonizer buried for good",
+        "Recover the true name they erased from themselves"
+    ],
+    "secrets": [
+        "Holds a key that matches the Chainbridge pivot panel",
+        "Arranged a ‘retirement’ that was really a river burial",
+        "Maintains a blind creek cache shared with Rook"
+    ],
+    "relations": [
+        {
+            "npc_name": "Thane Kelvar",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Lysa Shardhands",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Rook Salter",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Tala Fenmint",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sava Inkweft",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Erynn Mirrorfall",
+            "relation_type": "Different goals"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Neris",
+    "surname": "Undersong",
+    "race": "Riftborn human",
+    "age": 41,
+    "appearance": "Broad-shouldered pilot with Ireflow tattoos along the ribs, river-burnished hands, and bellstrings looped around one wrist.",
+    "character": "Buoyant and shanty-singing until tariffs bite; fiercely protective of her crew and routes.",
+    "traits": [
+        "courageous",
+        "gregarious",
+        "defiant",
+        "generous",
+        "quick-witted"
+    ],
+    "skills": [
+        "barge piloting",
+        "current and undertow reading",
+        "bell-code signaling",
+        "emergency knots",
+        "eel fisheries management"
+    ],
+    "talents": [
+        "steers by echo when lights fail",
+        "mimics river voices to warn crews"
+    ],
+    "flaws": [
+        "gambles at blue-bell auctions",
+        "talks when silence would be safer",
+        "pushes curfews"
+    ],
+    "dreams": [
+        "to open a new sump route to relieve Underrun congestion",
+        "to host a blue-bell auction that funds flood relief"
+    ],
+    "secrets": [
+        "smuggled ash-ink for a Veil broker under cover of a surge alarm",
+        "knows the release for the docks’ collapsible frame and exploits it"
+    ],
+    "relations": [
+        {
+            "npc_name": "Rukha Mossbank",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Breg Tesserin",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Tosk Glassbite",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Vara Keshlin",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Yevra Ashleaf",
+            "relation_type": "Friendship"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Maera",
+    "surname": "Buławka",
+    "race": "człowiek",
+    "age": 38,
+    "appearance": "Pełna sylwetka, śmiejące się oczy, tatuaż kotwicy na ramieniu; fartuch w plamach po winie; bransoleta z pękiem kluczy.",
+    "character": "Wesoła i pragmatyczna, lojalna wobec stałych gości; potrafi słuchać i pamięta, kto płacił ostatnio.",
+    "traits": [
+        "gościnna",
+        "sprytna",
+        "złota pamięć",
+        "lojalna",
+        "twardo stąpająca po ziemi"
+    ],
+    "skills": [
+        "prowadzenie karczmy",
+        "negocjacje po cichu",
+        "hazard pod kontrolą",
+        "gotowanie ryb",
+        "organizacja przerzutów w tłumie"
+    ],
+    "talents": [
+        "pamięć plotek",
+        "czytanie ludzi po pierwszym wejściu",
+        "znajdowanie ukrytych przejść w tawernach"
+    ],
+    "flaws": [
+        "zbyt ufna wobec poetów",
+        "zachłanna na rzadkie trunki"
+    ],
+    "dreams": [
+        "rozszerzyć tawernę pod drugi taras",
+        "spłacić wszystkich dostawców",
+        "uratować i odnowić stary znak powstańczy"
+    ],
+    "secrets": [
+        "przechowuje księgi Chóru Cieni w piwnicy",
+        "ma klucz do kanału prowadzącego pod Halę Szkliste"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orla Krawężna",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Matka Korala",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Serad Głaz",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Jodan Piżmowy",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Eldan Zmierzchowy",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Vasko Danter",
+            "relation_type": "neutral"
+        }
+    ]
+}

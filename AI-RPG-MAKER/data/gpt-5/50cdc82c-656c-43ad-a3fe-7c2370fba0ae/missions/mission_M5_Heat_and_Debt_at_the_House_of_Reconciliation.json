@@ -1,0 +1,39 @@
+{
+    "id": "M5",
+    "title": "Heat and Debt at the House of Reconciliation",
+    "quest_giver": "Ina Peppercoal (Hearth Union steward)",
+    "description": "The House of Reconciliation’s benches shine with the polish of a thousand arguments. Ina Peppercoal presides with a ladle in one hand and an oath-string in the other, feeding bodies and binding tongues. Winter presses thin as old cloth, and House Kelvar has announced a toll increase at the Chanting Ford to cover ‘risk in uncertain harmonics’. The Hearth Union argues for capped heat-levies and safe schedules; the Pilots want toll chains slackened to move grain before frost pinches. Ina wants you to mediate before iron and fire are used, and she asks you to set the fen bell’s tongue on the dais during the talks so all can hear the city’s second note. Thane Kelvar arrives with silvered words and hidden knives in the ledger lines, and Mara Tidecall paces like a tide caged by a sandbar. This is where you learned to square your shoulders and uncoil your voice without drawing blood.",
+    "objectives": [
+        "Attend the mediation at the House of Reconciliation.",
+        "Present the Bell-Tongue of the Unbuilt Temple as neutral evidence of harmonic uncertainty.",
+        "Broker a compromise between the Pilots’ Covenant and House Kelvar to keep tolls stable during convoy windows.",
+        "Secure a formal heat-levy cap without provoking a strike or a crackdown."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ina Peppercoal",
+            "lines": "I’ve seen men go to war over the shape of a loaf. I will not see this city burn because coin wouldn’t bend and pride wouldn’t feed. Sit, breathe, and listen to that little bell you hauled out of a grave of mud. It says the world is stranger than any contract. Let it remind you that we don’t know everything, and then speak for what we do know: no child unheated, no barge turned back at dusk."
+        },
+        {
+            "speaker": "Thane Kelvar",
+            "lines": "We are not villains simply because we count. Risk is a real thing, and the river has teeth. If the city demands we float credit into uncertainty, then the city must pay a tide for it. I will not write my clan into ruin for pretty words and a relic that hums when it fancies. Persuade me with measures and safeguards, and you’ll have terms that leave none of us drowned."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "Risk isn’t a cudgel to beat hungry people with. Set convoy windows where the Pilots can guarantee passage, and for those windows you freeze your tolls like winter glass. If we miss the window, we pay, and if we make it, the grain moves and the stoves burn. We bind it here with a ward-oath and we all sign. And let the bell sit at the door so anyone who leaves hears it speak before they step back into the street."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ]
+    },
+    "rewards": [
+        "House of Reconciliation Oath-Marker (grants you standing to speak in future mediations).",
+        "Hearth Union reputation (strong increase).",
+        "Temporary toll amnesty for your crew during designated convoy windows."
+    ]
+}

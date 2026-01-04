@@ -1,0 +1,43 @@
+{
+    "id": "M8",
+    "title": "The Drum of Reeds",
+    "quest_giver": "High Cantor Ysil Aer",
+    "description": "South along the floodplain, the Elderbarrow Marsh drinks the sky. Warm vapors rise at dusk, and willow roots clutch broken stones carved in dead tongues. Aerin poles a flatboat with Roa Mestri, whose hands tremble on the oar. The Drum of Reeds swells from peat and fog, and when the red moon lifts, the mound thunders soft like a giant’s heart. Will-o’-wisps blink like watch-lanterns gone astray, and the mud tries to take boots and breath alike. Roa breaks midstream and confesses—she took River Lord coin to ‘delay the breath one bell,’ telling herself it spared panic; she will answer. Before they can turn back, hireblades rise from the reeds with eel-skin purses and a rope knot tied the Rafter way. The fight is slick and close, but the marsh swallows those who do not respect it. In the thrum and the hush after, Aerin cuts heart-reed and threads it with her breath. The tone it holds is old and kind; it might yet quiet a crowd or call a rib back from a shiver.",
+    "objectives": [
+        "Navigate the marsh channels safely to the Drum of Reeds and withstand will-o’-wisps’ lures.",
+        "Confront Roa Mestri and secure her sworn confession for the Vigil.",
+        "Repel the eel-skin hireblades and identify Rafter-style knots among their gear.",
+        "Harvest a length of heart-reed and bind it with Breathkeeper rite to capture the heart-tone."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Roa Mestri",
+            "line": "I thought—one bell would calm the stampede. I thought I could hold the storm in my mouth and spare the city a riot. Ulo’s coin felt like a weight I could set down later. Forgive me. Or don’t. I will not lie at the Oathwater."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "Confess and stand. The breath is not ours to delay. But we are not past forgiveness either. Speak true, and let the Vigil weigh your words. Then help me listen to this place."
+        },
+        {
+            "speaker": "Ysil Aer (through wind-prayer)",
+            "line": "The marsh remembers, as do the bones. Bind the reed with your breath and the river’s skin will shiver to it. But do not mistake the heart’s thrum for consent. We are borrowers only."
+        },
+        {
+            "speaker": "Eel-skin Hireblade",
+            "line": "Pretty lantern. Pretty oathplate. Shame if the mud kissed them both. Leave the ledger in the reeds and you’ll breathe easy back to your ribs."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "The only thing I’ll leave in these reeds is your threat. The marsh takes what is thrown in anger. It will not be my oath."
+        }
+    ],
+    "connections": {
+        "previous": "M7",
+        "next": "M9"
+    },
+    "rewards": [
+        "Heart-Reed Charm: once per day, calm a panicked crowd or stabilize a swaying platform by aligning local tones.",
+        "Roa Mestri’s sworn confession recorded for the Vigil, reducing Breathkeepers’ political exposure.",
+        "Knowledge of a safe channel through Elderbarrow usable in future travel."
+    ]
+}

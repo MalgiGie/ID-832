@@ -1,0 +1,68 @@
+{
+    "name": "Ysger",
+    "surname": "Thorn",
+    "race": "Human",
+    "age": 44,
+    "appearance": "Weather-cut features, short salt-shot hair, Brinewarden captain’s coat with glass-bell grenades at the sash; eyes red-rimmed from long watches.",
+    "character": "Blunt, duty-first commander; sees smugglers and corsairs in every shadow; loyal to his crews, wary of everyone else.",
+    "traits": [
+        "protective",
+        "hard-nosed",
+        "tireless",
+        "grudgingly fair"
+    ],
+    "skills": [
+        "naval tactics",
+        "dock inspection",
+        "spearwork",
+        "signal-whale drills",
+        "crisis logistics"
+    ],
+    "talents": [
+        "storm-sense when pressure drops",
+        "sharp command voice that cuts through wind",
+        "inspires drill-discipline"
+    ],
+    "flaws": [
+        "heavy-handed",
+        "suspicious",
+        "sleep-starved",
+        "poor at budget politicking"
+    ],
+    "dreams": [
+        "Break the Gray Sail Association",
+        "Rebuild and modernize three lost cutters",
+        "Win emergency tide powers during storm season"
+    ],
+    "secrets": [
+        "Keeps an off-book fund to pay informants in salt and coin",
+        "Covered for a salt-lieutenant after a botched night raid",
+        "Hoarded proof of an arsenal skim until he can trade it for ships"
+    ],
+    "relations": [
+        {
+            "npc_name": "Verrin Nasse",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Mara Vell-Seren",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Arno Kest",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Oaric Bent",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ilya Salt-Kite",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Tern Quietwake",
+            "relation_type": "Different goals"
+        }
+    ]
+}

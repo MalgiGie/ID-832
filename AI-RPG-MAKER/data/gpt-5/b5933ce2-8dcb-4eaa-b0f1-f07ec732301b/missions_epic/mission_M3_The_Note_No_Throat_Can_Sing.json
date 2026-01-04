@@ -1,0 +1,97 @@
+{
+    "id": "M3",
+    "title": "The Note No Throat Can Sing",
+    "quest_giver": {
+        "name": "Rana Olt",
+        "affiliation": "Order of the Luminous Weir"
+    },
+    "description": "Mist lifted from the Luminous Weir like a white veil, and beneath it the crescent of stone thrummed with a patience that made teeth ache. Bronze song-gates shimmered, their slats breathing in measured sighs as if asleep and dreaming of old floods, and the prism channels cast thin ribbons of color that braided and unbraided with the pull of the twin rivers. Along the rail, Gate-Choirmistress Rana Olt tapped out a sequence with hammered knuckles, her rhythm a lantern to keep her singers from drifting into fear, while below, pilots in silver-capped poles swelled against the gatehouse causeway like a tide that had learned to speak. Archhydromancer Quill Vess stood over the tide-window, his left hand a sleek sleeve of conjured water, and the prosthetic rippled with a tremor that answered something no ear could name. The unknown note was present in the river and even in ordinary pebbles wet with its touch, yet from human throats it refused to be born; it lurked like a memory that would not be recalled, a shape left when a song was cut away. To test the gate’s obedience, a ritual sounding must be struck as clockwork and prayer, and the choir’s breath must be guarded against iron, panic, and the politics of starving wharves. Aren Siltwarden’s task was needle-fine: keep Rana’s singers unbloodied, listen for the specific silence that only sabotage makes, and stand between patience and hunger. The pilots of the Guild of Silver Ferrymen demanded the sluices cut their way to spare cargo and pride, and radicals whispered of jamming latches and letting floodwater speak for them. Between chant and clamor, between a secret note and a public need, Aren would have to choose when to turn the gates, how to record a sound that would not be sung, and whether peace was a hymn or a discipline.",
+    "objectives": [
+        "Escort Rana Olt’s gate-choir to the specified song-gate and maintain a defensive perimeter during the sounding.",
+        "Detect and thwart any sabotage attempts by radicals among the Ferrymen without igniting a riot.",
+        "Help Quill Vess determine safe adjustments to the sluice in response to the unknown note’s pull.",
+        "Record the unknown note’s harmonic overtones using a prism register for later study."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Rana Olt",
+            "lines": "It is not that we refuse to sing the note, Aren; it is that the note refuses to be sung, as if a breath hid itself between heartbeats and would not come when called. The bronze whispers to it and the channels answer in light, but when I lay the melody to paper it slips like wet ink into the margins and will not be held. I have seen gates caught by arrogance and by neglect, and this is neither, which is worse, because humility and caution offer no guarantee against drowning a terrace. We will sound the pattern we know, set the choir on the safe scaffold of math and vow, and then we will let the river teach us what we have forgotten to hear. I need your eyes for the seams where a crowd turns into a storm and your hands for the places where mercy must be firm, because a throat that panics breaks a note and a broken note breaks a city."
+        },
+        {
+            "speaker": "Quill Vess",
+            "lines": "I remember your grip on my sleeve in the chain-spray and I repay debts with competence, not with comforting lies, so I will tell you plain that the Weir is acting as if a hand we do not know is on its hilt. The Weir is a knife that slices floods into edible pieces, a tool that preserves what the river would otherwise devour, and now the blade hums to a pitch that belongs to no cantor living. Do not think of this as mere novelty, because novelty kills the unprepared; think of it as a grammar we forgot, the kind that decides whether a sentence is warning or blessing. Hold the prism register cradled in the crook of your arm so its face sees the gate while your body blocks the worst of the spray, and remember it will burn a pattern into light only if our stillness is true. If you spot a fingertip on our hilt that does not belong—be it Ferryman steel or zealot’s zeal—cut it off as kindly as fear allows, because brutality in a panic is a lazy man’s solution and we are not lazy today."
+        },
+        {
+            "speaker": "Sava Deren",
+            "lines": "You know my voice, Aren Siltwarden, and you know it is not the voice that starts a riot but the one that ends three, and I am telling you the slat-timers are wrong for our cargo. The guild has keels stacked like teeth against the Lantern Bank and fish spoiling in barrels while song takes precedence over bread, and if the Order cannot make a gate breathe, crews will make it breathe the old way with crowbars and curses. My pilots can be leashed to duty, but not to insult, and there are boys among them who were not born when the last flood taught us to bend our knees, and those are the wrists I cannot leash when temper and hunger make a pact. I respect Rana’s ear and your oath the Temple keeps, but respect does not keep fruit from rotting and wives from counting coins that will not stretch, and if blood spills on my wharves it will not dry out of the wood for a year. Give me a sign, a fifteen-bell release through the south sluice, a bone of schedule we can gnaw without choking, and I will whistle my crews down and make the radicals swallow their pride for one more day."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "I do not trust machines that require hymns to behave, Sava, and I trust crowds even less when their song turns from hunger to harmony, but I do trust the river as a creature that tells the truth even when it kills, and I trust Rana when she says the truth is speaking in a way no throat can answer. I have my reed-cords and a handful of words that sometimes make hot hands cool, and I have two arms that can put a man on his heels without breaking his teeth, and today I would prefer to use all of those before I reach for iron. You will have a sign, not because you bully it from me, but because I see the packs of boys you mention and I see the old men who remember what drowned houses smell like and I intend to keep both kinds alive. Hold your radicals back from the safety-latches and I will keep the choir from flinching and the Weir from taking offense at our fear, and between us we will make a channel where bread and breath can both pass. If the river asks a question none of us can answer with our tongues, we will answer with our ears and our patience, and if I must tilt the gates by feel, I will do it with both of you looking me in the face so no one calls it theft."
+        },
+        {
+            "speaker": "Mereth Tydel",
+            "lines": "I come not to contest the Weir’s art but to remind art that it stands upon covenant, and the covenant is older than any ledger and more stubborn than any guild vote, and today I smell a note that belongs to oath rather than to novelty. Unknown music at the river’s throat is rarely only music; it is often a promise half-kept or a debt half-paid, and either can cut if you grasp it wrongly. If you will permit, I will set a tide-bell by the register and lay three breaths of blessing upon the choir, not to replace your chantwork but to widen it so no spirit calls us rude when we knock. Aren, I ask you to be my witness as well as their guard, because a witness binds the city to itself when panic would untie the knots, and your oath before me once proved that you can stand in thin places without falling. Do what must be done to keep flesh from drowning, and I will do what must be done to keep promise from breaking, and afterward we will argue like civilized people instead of letting the river adjudicate with corpses."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Stand Fast with the Weir Choir",
+            "text": "You anchor yourself at Rana Olt’s flank and shape the gatehouse causeway into a corridor of calm, using your pole to tap time against the stone so the choir can hear a heartbeat steadier than fear. You direct Weir hands to stack coil-ropes and sand-buckets where a thrown lantern might bite, and you post two seasoned pilots from Sava’s older crews at the snag points, binding them into your line with eye-contact and obligation instead of orders. When a knot of radicals shoves toward a safety-latch, you meet them with open palms and shoulders, turning their momentum sideways so pride spills but blood does not, and you keep your words low and unrepeatable, the kind that turn a dare into a decision to wait. As the sounding begins, you cradle the prism register under your arm and breathe with the choir, counting the beat by the swing of your ferryman’s pole, and you feel the unknown note like a pressure at the teeth rather than a sound, a hollow place that somehow fills the bones. When the pilots surge at the first pause in song, you give Sava the sign she asked for—a fifteen-bell trickle through the south sluice—buying bread-time for her crews without starving the choir of certainty.",
+            "outcome": "The radicals settle to grumbling rather than violence, ashamed to pick a fight while old hands stand in your line and while the causeway smells of wet rope instead of hot oil. The prism register drinks a lattice of light that does not correspond to any throat-made scale, a starry bruise that Quill Vess stares at as if he could will it to declare its grammar, and Rana Olt nods once, relief as brief as a gull’s wing. Sava Deren whistles her crews back, and though her jaw is hard she gives you a look that means debts reckoned fairly, and word runs down the wharves that you kept bread and brass in the same bowl today. Quill adjusts the sluice by a hair toward what the note seems to want, and the river relaxes from a cat’s tense crouch to a crouch that watches, which is the closest thing to consent the city ever gets from it. In the aftermath, pilots and chanters share water from the same bucket, and when the story is told that night in lantern light, you are named not as a hero but as a hinge, which is how cities survive."
+        },
+        {
+            "id": "C2",
+            "title": "Broker a Tide-Truce",
+            "text": "You step clear of the rail and find Sava Deren on the edge of the crowd, her pole a scepter wrapped in callus, and you speak a language born in raft-villages and wharf-courts where pride is a tool rather than a weapon. You propose a narrow window: fifteen-bell relief on the south sluice, staggered by a choir rest to prove the Weir listens to hunger, and in exchange Sava will plant her eldest pilots at the hotheads’ elbows and make their hands heavy. You go to Mereth Tydel and ask for a public word—three sentences cast like nets—that sanctify patience so those who value piety more than pay will stand with you and lend weight to your ask. You promise Rana that you will not trade safety for applause, and you promise Sava that you will not let the Order hide behind music to starve a market, and you promise yourself that you will not let your temper insult either. When the chant begins, you signal the truce, and the crowd, having been given roles that let them keep dignity, performs restraint like a ritual that feels older than law.",
+            "outcome": "The pilots’ chant changes from an angry tide-song to a work-song built to fill time, and the radical knot unravels as the elder hands clap them into rhythm and shame is transmuted into usefulness. The choir sings through the sounding without a crack, strengthened by the sight of enemies adopting the posture of allies, and Rana’s baton becomes a bridge instead of a sword. The prism register blossoms with a complex, petal-layered pattern that Quill reads as promise and peril in equal measure, and Mereth’s tide-bell answers with a soft chord that threads through the light like a blessing that makes no claims. Sava’s crews move cargo through the south sluice in a weary parade, but no rumor of favoritism sticks because the schedule was declared, witnessed, and fair, and that kind of fairness cannot be carved away by words. In the telling later, the day becomes a lesson taught to apprentices of both guilds: when the river’s mood is unknowable, sometimes the city’s mood can be, and that is enough to get everyone home."
+        },
+        {
+            "id": "C3",
+            "title": "Sing the Silence with Shadow-Light",
+            "text": "You decide the river’s question must be answered with something other than a human throat, and you slip your thumb to the hidden catch in your glaive’s haft where the sliver of illegal sea-night prism waits like a guilty thought. You warn Quill Vess with a look that says later you will explain, and he replies with a slower blink that says later he will demand, and between those two laters you lift the shard just enough to wash the prism register and the nearest song-gate slat in a breath of wardless dark. The world holds its breath as simple wards on the rail and the register wink out for a heartbeat, erasing the meddling haze that keeps delicate harmonics from printing true, and in that naked moment the unknown note asserts itself not as sound but as shape. You feel it as the memory of a note—a contour in absence—that your bones map and the register seizes, and you press the shard back into its hiding place before anyone but the wind knows you cheated a rule. You keep the crowd steady by letting them think the tremor they feel is only the river flexing, and you let the choir ride the moment as if it were planned, because courage is sometimes the lie you tell fear until truth catches up.",
+            "outcome": "The register captures a razor-clean radial lattice that could never have been burned through the fog of ordinary warding, and Quill Vess stares at the light as if he recognizes a signature he never signed, suspicion and gratitude wrestling in the tightness of his jaw. The gate answers to a fractional tilt with what feels like relief, and the pressure that has been building in the bronze exhalations loosens without spilling in panic into the channels below. Rana Olt finishes her pattern with a flourish that hides how close her hands are to shaking, and when she meets your eye you see the question and the thanks and the warning all braided in one glance. Sava’s crews, unaware of the high-wire trick, accept the south sluice’s measured gift and carry on, and the radicals find nothing obvious to accuse because nothing obvious was done, which is a kind of mercy to fools. Later, in a quiet alcove, Quill’s voice is very soft when he says he will not ask what you did because he knows you did it for the city, but he also says debts born from broken rules breed faster than eels, and you accept the rebuke because it is true and because today the city did not drown."
+        },
+        {
+            "id": "C4",
+            "title": "Appeal to the Nine and Let the River Name Itself",
+            "text": "You raise a palm to pause the ritual by a heartbeat and ask Mereth Tydel to cast a thin rite of Asking, a courtesy to any old spirit whose face might be pressed against the glass of the gate, listening for whether we will be rude. You know that the Order hates to cede even a sliver of protocol to the Temple, but you also know that the river’s pride can be soothed by being treated as more than a set of pressures and flows, and sometimes politics bends to the older mathematics of respect. Mereth sets the tide-bell by the register and breathes three soft phrases that request nothing but permission, and you stand witness with your reedbound steadiness so that the bell’s ring feels like a voice speaking from ground rather than a demand shouting from a tower. Rana holds the choir in a poised rest that is itself a kind of discipline, and Quill allows the slats a hair of slack, as if the Weir were bowing to an elder in whose house it stands. The pilots murmur at the pause but do not push, because the shape of the moment feels like a funeral and a wedding at once, and even the angry understand that is not the time to shove.",
+            "outcome": "When the bell speaks, it does not toll; it whispers a harmonized hush that slides beneath the choir’s next entry and carries it, and the unknown note shows itself in the register’s face like frost drawing a fern on winter glass. The gate leans into a safe compromise tilt that eases pressure on the southern channel without starving the eastern gardens, and the relief that ripples through the crowd is as much spiritual as it is practical, because everyone prefers to believe the river has nodded. The choir completes the sounding with no cracked throats, and Rana smiles a narrow, real smile that looks like a person laying down a weight they have carried without complaint. Quill Vess, though pride pinches him, speaks a courtesy to Mereth that draws a murmur from the pilots, because courtesy between rival powers is rarer than fish that climb stairs and just as astonishing. In the evening, the story spreads that the city remembered how to ask instead of demand, and even those who mock rites keep their voices low when they pass the Weir, as if not to wake a sleeping house that has agreed to shelter them one more night."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "currency",
+            "description": "18 river-marks in sealed Weir scrip, counted on a wet stone so no one pretends the number changed."
+        },
+        {
+            "type": "item",
+            "description": "Prism Register Etching bearing the harmonic pattern of the unknown note, a light-burned lattice on glass that scholars will argue over for a year."
+        },
+        {
+            "type": "item",
+            "description": "Weir-crew Signal Whistle tuned to carry across gate-spray and market roar without fraying the ear."
+        },
+        {
+            "type": "reputation",
+            "description": "Reputation with Order of the Luminous Weir +3 for guarding the choir and capturing the unheard pattern."
+        },
+        {
+            "type": "reputation",
+            "description": "Reputation with Guild of Silver Ferrymen +1 for preventing a riot and keeping bread from spoiling."
+        },
+        {
+            "type": "access",
+            "description": "Authorized passage along the maintenance walkways of the Luminous Weir, including keyed grates during sounding hours."
+        }
+    ]
+}

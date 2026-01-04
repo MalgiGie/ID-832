@@ -1,0 +1,63 @@
+{
+    "name": "Arakel",
+    "surname": "Dorn",
+    "race": "human",
+    "age": 41,
+    "appearance": "Lean and rangy with bone-dust freckling his arms. Wears a rib-knit apron etched in calibration marks and a cord of measuring knots. One ear bears a tuning pin of quartz from the Rift of Lumes.",
+    "character": "Patient, exacting, and stubborn as a load-bearing beam. Speaks in careful, diagram-like sentences and refuses to promise what the bones will not allow.",
+    "traits": [
+        "methodical",
+        "reverent toward old structures",
+        "suspicious of easy money",
+        "keeps a pocket full of chalk",
+        "hums to test echoes"
+    ],
+    "skills": [
+        "resonant bonecraft etching",
+        "structural analysis",
+        "construct command protocols",
+        "project logistics",
+        "safety ritual recitation"
+    ],
+    "talents": [
+        "perfect pitch for echo-pipes",
+        "intuitive sense for load failure",
+        "calms panicked crews with cadence"
+    ],
+    "flaws": [
+        "stubborn",
+        "contemptuous of glasswork shortcuts",
+        "poor public speaker",
+        "holds grudges"
+    ],
+    "dreams": [
+        "Free Marrowhold’s infrastructure from Syndicate leverage",
+        "Design a storm-proof rib-bridge that sings warnings before it fails"
+    ],
+    "secrets": [
+        "Once staged a ‘controlled’ stress demonstration that nearly collapsed a stair-span to win budget approvals",
+        "Keeps an unsigned maintenance order that implies a past plan to seize the Ossuary Palace"
+    ],
+    "relations": [
+        {
+            "npc_name": "Matron Sere Kall",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Factor Orun Ves",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Legate Tharn Corvell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Veyla Prism",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Bryx Thornbloom",
+            "relation_type": "Friendship"
+        }
+    ]
+}

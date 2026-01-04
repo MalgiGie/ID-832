@@ -1,0 +1,59 @@
+{
+    "name": "Aiona",
+    "surname": "Pustodębna",
+    "race": "człowiek",
+    "age": 33,
+    "appearance": "Drobna, oczy miedziane; włosy wplecione w pióra; płaszcz z kory i soli; dłonie pachną fosforyzującymi grzybami.",
+    "character": "Cicha, dzika, dumna; mówi metaforami drzew i fal; nie ugina się pod naciskiem.",
+    "traits": [
+        "niezależna",
+        "oddana naturze",
+        "ostrożna",
+        "nieufna wobec władzy"
+    ],
+    "skills": [
+        "zielarstwo gajowe",
+        "skradanie się między pniami",
+        "rytuały dawnego kręgu",
+        "maskowanie ścieżek",
+        "opieka nad zbiegiem"
+    ],
+    "talents": [
+        "wyczuwa sól w powietrzu",
+        "rozumie pieśń kamienia nasiennego"
+    ],
+    "flaws": [
+        "nieufna wobec kapłanów",
+        "impulsywna w obronie gaju"
+    ],
+    "dreams": [
+        "przywrócić pamięć starym dębom",
+        "ocalić dzieci znikające w pniach"
+    ],
+    "secrets": [
+        "ukrywa księgi z czarnymi listami domów kupieckich",
+        "współpracuje doraźnie z Chórem dla ochrony gaju"
+    ],
+    "relations": [
+        {
+            "npc_name": "Matka Korala",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Lima Fal",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Tira Selenitna",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Delerion Ognikowy",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Vasko Danter",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 8,
+    "title": "Names on the Wind",
+    "quest_giver": "Holl Riverborn",
+    "description": "The Cairn of the Hollow King sings when the south wind runs its flutes, and tonight the notes shape syllables that sound like living names. Holl Riverborn asks Sere to climb the chalk rise at dusk and learn which names the wind is brave enough to speak. The cairn’s spite-haunts ride cold drafts and bargain in whispers, promising quick rain in exchange for crowns. Within the barrow, old coins shine like eyes in the dark. The wind-harp music, when notated beside the eel codex, may reveal which basin councilors have been chosen by the storm to play a part none of them understand.",
+    "objectives": [
+        "Reach the Cairn of the Hollow King at dusk and record the wind-harp phrases.",
+        "Resist the bargains of the spite-haunts and retrieve a chalk rubbing of crown sigils.",
+        "Compare the sung names with Parliament rosters to identify those marked by the storm.",
+        "Decide what to tell Yasma Brine about the cairn’s accusations."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Holl Riverborn",
+            "text": "Do not wear iron into the cairn if you can help it. The wind here is a priest older than any of ours, and it does not forgive metal for the ways it splits its songs. Kneel when the first long note rises and keep your eyes on the ground until the second falls. The spite-haunts love eye contact and will sell you your own shadow at a discount. We are here for names, not for crowns."
+        },
+        {
+            "speaker": "Sere Kallin",
+            "text": "I have no head for crowns and less for haunting. I will listen and rub the chalk and write what the wind says without adding my own breath to it. If the names are those who sit around the basins, then the storm has better hearing than our laws have sight. I will not accuse anyone on the cairn’s word alone, but I will not ignore it either."
+        },
+        {
+            "speaker": "Yasma Brine",
+            "text": "Wind can be bribed with heat and flattery. If it speaks my name, tell it to come collect its debt at the third basin where old women do not tremble for a draft. Bring me whatever music you find, and I will weigh it against coin and grain and the mood of the docks. If I must stand in a storm to keep bread from going to war with salt, I will. But I will choose my storm."
+        }
+    ],
+    "connections": {
+        "previous": [
+            4,
+            6,
+            7
+        ],
+        "next": [
+            9,
+            10
+        ],
+        "related": [
+            2
+        ]
+    },
+    "rewards": [
+        "A wind-harp charm tuned to dampen spite-haunt whispers for a short time",
+        "A list of marked councilors whose votes will tilt during weather shifts",
+        "Permission to access a sealed alcove in the Ossuary Archive with cairn recordings"
+    ]
+}

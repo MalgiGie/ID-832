@@ -1,0 +1,72 @@
+{
+    "name": "Sere",
+    "surname": "Aven",
+    "race": "Human",
+    "age": 56,
+    "appearance": "Hair netted with glittering slivers of glass; kiln-scar across her lip; eyes like bright shards.",
+    "character": "Exacting guildmother who counts every breath of the furnace.",
+    "traits": [
+        "Perfectionist",
+        "Proud",
+        "Protective of her own",
+        "Sharp-tongued",
+        "Pragmatic"
+    ],
+    "skills": [
+        "Kiln management",
+        "Mirror appraisal",
+        "Contract bartering",
+        "Workshop discipline",
+        "Supply chain juggling"
+    ],
+    "talents": [
+        "Hears when glass will sing or shatter",
+        "Keeps steady hands in furnace heat",
+        "Smells counterfeit flux at a sniff"
+    ],
+    "flaws": [
+        "Holds grudges",
+        "Hoarder of fuel",
+        "Dismissive of bargers’ complaints"
+    ],
+    "dreams": [
+        "Monopolize mirror-glass trade",
+        "Unveil a sun-glass gallery to shame distant courts",
+        "Protect apprentices from Echo-sickness"
+    ],
+    "secrets": [
+        "Funds a private militia with blackglass proceeds",
+        "Bribed a lock-crew to overlook an illicit peat convoy",
+        "Keeps a ledger of cursed mirrors under her pillow"
+    ],
+    "relations": [
+        {
+            "npc_name": "Magister Vell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orin Thalen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Pellar Nine-Poles",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ressa Quay",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Knife-Whisper Pell",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Pika Jinn",
+            "relation_type": "Friendship"
+        }
+    ]
+}

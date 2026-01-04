@@ -1,0 +1,49 @@
+{
+    "id": "M09",
+    "title": "Faces in the Ash",
+    "quest_giver": "Kael Ibrin",
+    "description": "Ash fell in veils that drifted like memories trying to find a face, and the Caldera’s basalt organ-pipes boomed with breath from the earth. Pyre-Mistress Kael Ibrin offered Neris a mask that smelled of soot and a job that smelled of politics: escort a basalt caravan, broker a pause with drake-tamers at the warm vents, and collect an obsidian core needed to tune Parliament’s truth-lamps. The Wardens believed the ash remembered shapes, and this veil remembered Neris, or at least someone who had once chosen a backward-burning truth. When the wind changed, glass-ice formed on exposed skin and whispered guilt. The caravan’s ropes creaked like conscience.",
+    "objectives": [
+        "Escort a basalt caravan across pumice fields during an ash-squall while rationing masks to keep everyone breathing.",
+        "Negotiate with drake-tamers for safe crossing near a guarded warm vent without provoking a fight.",
+        "Retrieve an obsidian core suitable for ritual blades and lamp tuning from a vent-ring.",
+        "Protect the caravan from ash drakes hunting from the high rim.",
+        "Deliver basalt and obsidian to Chainreach and Brightreach respectively."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Kael Ibrin",
+            "line": "Ash lies and tells the truth in the same breath; it shows you faces you miss and debts you prefer to miscount. Keep your veil tight and your heart steady. If you must pick which breath to save when masks run thin, remember that miners without wind bring down cities just as surely as broken vows. Return with rock and calm, and I will write you a route through our stockpiles without tariff."
+        },
+        {
+            "speaker": "Drake-Tamer Havo",
+            "line": "We raise what your Wardens fear and fear what your Wardens raise. The vent is ours by inheritance from the ash-veils themselves. We will share warmth if you do not steal names for your Parliament lamps. Bring us salt and a promise not to hunt our broods with vanity blades, and you may pass. Bring us a trick and we will teach the ash your scent."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "The only thing I bring the ash is patience. We need warmth to shape stones that keep a river honest. We will trade salt and silence for passage and be gone like a good story after its last line. Your drakes will not learn my arrows tonight."
+        },
+        {
+            "speaker": "Gantrix Pell",
+            "line": "Basalt that does not ring right under a hammer makes hinges that sing at the wrong time. Choose your cores with a listener’s ear. Bring me rock that likes responsibility, not rock that dreams of falling."
+        },
+        {
+            "speaker": "Sav Orlai",
+            "line": "When you hold the obsidian, don’t look at your reflection too long. It asks questions with answers shaped like edges. If it seems to wink, close your eyes and count to eight. That is the number for letting go."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M08"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        "Ash-Veil mask with improved soot-filters",
+        "Hardened basalt claws for safer hinge and cliff traversal",
+        "Reputation: Ashen Wardens (escorted caravan favor)",
+        "Knowledge: obsidian core resonates with the living pane under the Conservatory"
+    ]
+}

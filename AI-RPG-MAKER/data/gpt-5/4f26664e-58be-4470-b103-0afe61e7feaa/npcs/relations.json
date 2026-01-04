@@ -1,0 +1,362 @@
+[
+    {
+        "from": "Sereth Vex",
+        "to": "Leth Morrow",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sereth Vex",
+        "to": "Marek Sol",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sereth Vex",
+        "to": "Tamsin Veil",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sereth Vex",
+        "to": "Brunna Coil",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sereth Vex",
+        "to": "Avar Ir",
+        "type": "Conflict"
+    },
+    {
+        "from": "Sereth Vex",
+        "to": "Jull Nerr",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sereth Vex",
+        "to": "Safra Ninebridges",
+        "type": "Different goals"
+    },
+    {
+        "from": "Tamsin Veil",
+        "to": "Sereth Vex",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tamsin Veil",
+        "to": "Leth Morrow",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Tamsin Veil",
+        "to": "Jull Nerr",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Tamsin Veil",
+        "to": "Cor Yune",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tamsin Veil",
+        "to": "Lysa Truin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tamsin Veil",
+        "to": "Nalai Thread",
+        "type": "Different goals"
+    },
+    {
+        "from": "Jull Nerr",
+        "to": "Edris Thale",
+        "type": "Alliance"
+    },
+    {
+        "from": "Jull Nerr",
+        "to": "Sereth Vex",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jull Nerr",
+        "to": "Tamsin Veil",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Jull Nerr",
+        "to": "Safra Ninebridges",
+        "type": "Conflict"
+    },
+    {
+        "from": "Jull Nerr",
+        "to": "Suri Yal",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Edris Thale",
+        "to": "Jull Nerr",
+        "type": "Alliance"
+    },
+    {
+        "from": "Edris Thale",
+        "to": "Marek Sol",
+        "type": "Alliance"
+    },
+    {
+        "from": "Edris Thale",
+        "to": "Avar Ir",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Edris Thale",
+        "to": "Brunna Coil",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Edris Thale",
+        "to": "Sereth Vex",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Avar Ir",
+        "to": "Edris Thale",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Avar Ir",
+        "to": "Jull Nerr",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Avar Ir",
+        "to": "Brunna Coil",
+        "type": "Alliance"
+    },
+    {
+        "from": "Avar Ir",
+        "to": "Tamsin Veil",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Avar Ir",
+        "to": "Safra Ninebridges",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Avar Ir",
+        "to": "Marek Sol",
+        "type": "Conflict"
+    },
+    {
+        "from": "Brunna Coil",
+        "to": "Avar Ir",
+        "type": "Alliance"
+    },
+    {
+        "from": "Brunna Coil",
+        "to": "Edris Thale",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Brunna Coil",
+        "to": "Marek Sol",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Brunna Coil",
+        "to": "Sereth Vex",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Brunna Coil",
+        "to": "Lysa Truin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Brunna Coil",
+        "to": "Safra Ninebridges",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Leth Morrow",
+        "to": "Sereth Vex",
+        "type": "Alliance"
+    },
+    {
+        "from": "Leth Morrow",
+        "to": "Tamsin Veil",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Leth Morrow",
+        "to": "Safra Ninebridges",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Leth Morrow",
+        "to": "Edris Thale",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Leth Morrow",
+        "to": "Nalai Thread",
+        "type": "Conflict"
+    },
+    {
+        "from": "Leth Morrow",
+        "to": "Cor Yune",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Marek Sol",
+        "to": "Edris Thale",
+        "type": "Alliance"
+    },
+    {
+        "from": "Marek Sol",
+        "to": "Sereth Vex",
+        "type": "Alliance"
+    },
+    {
+        "from": "Marek Sol",
+        "to": "Avar Ir",
+        "type": "Conflict"
+    },
+    {
+        "from": "Marek Sol",
+        "to": "Brunna Coil",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Marek Sol",
+        "to": "Leth Morrow",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Safra Ninebridges",
+        "to": "Jull Nerr",
+        "type": "Conflict"
+    },
+    {
+        "from": "Safra Ninebridges",
+        "to": "Leth Morrow",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Safra Ninebridges",
+        "to": "Avar Ir",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Safra Ninebridges",
+        "to": "Brunna Coil",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Safra Ninebridges",
+        "to": "Sereth Vex",
+        "type": "Different goals"
+    },
+    {
+        "from": "Safra Ninebridges",
+        "to": "Nalai Thread",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Suri Yal",
+        "to": "Jull Nerr",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Suri Yal",
+        "to": "Sereth Vex",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Suri Yal",
+        "to": "Nalai Thread",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Suri Yal",
+        "to": "Lysa Truin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Cor Yune",
+        "to": "Tamsin Veil",
+        "type": "Friendship"
+    },
+    {
+        "from": "Cor Yune",
+        "to": "Leth Morrow",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Cor Yune",
+        "to": "Lysa Truin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Cor Yune",
+        "to": "Sereth Vex",
+        "type": "Different goals"
+    },
+    {
+        "from": "Cor Yune",
+        "to": "Nalai Thread",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lysa Truin",
+        "to": "Tamsin Veil",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lysa Truin",
+        "to": "Brunna Coil",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lysa Truin",
+        "to": "Suri Yal",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lysa Truin",
+        "to": "Avar Ir",
+        "type": "Different goals"
+    },
+    {
+        "from": "Lysa Truin",
+        "to": "Cor Yune",
+        "type": "Friendship"
+    },
+    {
+        "from": "Nalai Thread",
+        "to": "Suri Yal",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Nalai Thread",
+        "to": "Safra Ninebridges",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nalai Thread",
+        "to": "Tamsin Veil",
+        "type": "Different goals"
+    },
+    {
+        "from": "Nalai Thread",
+        "to": "Leth Morrow",
+        "type": "Conflict"
+    },
+    {
+        "from": "Nalai Thread",
+        "to": "Jull Nerr",
+        "type": "Hostility"
+    },
+    {
+        "from": "Nalai Thread",
+        "to": "Cor Yune",
+        "type": "Cooperation"
+    }
+]

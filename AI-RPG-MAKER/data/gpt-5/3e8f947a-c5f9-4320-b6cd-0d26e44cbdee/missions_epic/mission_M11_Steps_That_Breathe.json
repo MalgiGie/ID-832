@@ -1,0 +1,88 @@
+{
+    "id": "M11",
+    "title": "Steps That Breathe",
+    "quest_giver": {
+        "name": "Talekan Yss",
+        "affiliation": "Order of the Hollow Sun - Custodian of the Sighing Steps"
+    },
+    "description": "The Sighing Steps climb the escarpment like a mile of patient lungs, organ-pipes carved into the cliff face turning each gust into hymn and warning. Pilgrims in mirror-lantern veils and bone-bead cords drift upward in a ribbon of hope and ache, each clutching a carved name they pray the wind will carry to a kinder season. Word runs through the ribways that the thousandth step lies to everyone once more, and the thousand-and-first rasps a truth that scrapes the throat to speak, a truth of duty cracked and trust run dry. Talekan Yss, wind-warden and oath-listener, seeks Rogan Kettlebone not for muscle alone but for a steadiness born of storm drills, ration lines, and promises kept when coin failed, asking him to escort the procession and to listen with the bone-sliver of the heartseed pressed to stone. Beneath a cracked tread, the harmonium caves shudder with a chord that finds the sliver as a key finds a lock, and the old song remembers that the city’s law can be tuned and not merely shouted. If Rogan can map the hidden currents, catch the Gate’s true name from the breath between notes, and carve it onto a tablet without feeding the bone-singers’ tax, he can return to Marrowhold with a verdict not sharpened for vengeance but tempered for remedy, a phrase that might brace the city’s failing trust like a splint set gentle but firm.",
+    "objectives": [
+        "Escort pilgrims up the Sighing Steps and maintain order among bone-singers.",
+        "Enter the harmonium caves and map the wind chords with the heartseed sliver.",
+        "Interpret the thousand-and-first step’s hard truth with Talekan Yss’s help.",
+        "Carve the hidden chord onto a bone tablet without drawing the bone-singers’ tax.",
+        "Return to Marrowhold with the Gate’s true tuning phrase."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Talekan Yss",
+            "lines": "Rogan Kettlebone, hear how the stone breathes and how the wind bites its own tongue when a lie is sweet. The law of wind is older than the law of men, and older still than the tariffs of guilds and the hush of back-room oaths, and yet men try to teach the wind a chorus that flatters their ledgers. A step only lies when someone feeds it a song thick with fear, and the thousandth step has supped well these last seasons. Walk with me as the pilgrims climb and keep their bodies free of the bone-singers’ greedy harmonies, for tax taken from grief grows like mold. Hold your anger until the note turns true, and then help me hear the difference between a comforting cadence and the sharp chord that hurts and heals in the same breath."
+        },
+        {
+            "speaker": "Rogan Kettlebone",
+            "lines": "I remember this climb from a boy’s height, when my hands were all scab and grit and the Gate’s hum felt like a promise that someone else would keep for me. I carved a name I had not yet earned and the wind laughed in my face and told me to come back with thicker skin and steadier eyes. I have those eyes now, and a shoulder that still sparks when storms remember me, and I will carry these folk past the hands that would count their breaths like coin. Speak me truth and I will listen even if it cuts the scar on my palm back open. If the Steps are breathing again, then I will stand between breath and blade and keep time with the chord you ask me to learn."
+        },
+        {
+            "speaker": "Sila Vane",
+            "lines": "Hear the honest tax and know it is not theft but balance, for breath taken from the mountain must be paid back in bone if names are to fly straight. I am Sila Vane of the singers and my cords are licensed by the Triarchy, and every note I take from a pilgrim I set aside so the wind will not blow them clean out of memory. Refuse and you will find your steps counted like debts and your names spilled against the cliff where only crows can read them. Agree and you will pass with your dignity priced fair and your sorrow measured in coin that will go to keep the harmonium from cracking. Do not speak to me of mercy without a purse, for mercy without weight is a rumor, and rumors do not keep lanterns burning on cold ridges."
+        },
+        {
+            "speaker": "Talekan Yss",
+            "lines": "At this mouth of the cave the pipes become throats and the air goes from song to speech if you are patient enough to swear silence. Press the heartseed sliver to the stone and do not flinch when it warms, for it remembers the first heat that scorched the titan and it will test your steadiness. Each gust here carries a thread, and the false ones feel easy in the hand, as if made of silk promises and stamped permits; let them go. The true thread is coarse and it snags on the rough places of your memory, reminding you of every order you refused when it cost you, and every debt you kept when it hurt. When the right chord takes your bones it will feel like standing under the Gate during the long hum and knowing you will neither run nor shout but simply hold the line until the city catches up to itself."
+        },
+        {
+            "speaker": "Rogan Kettlebone",
+            "lines": "The sliver hums against my callus like a rook feather caught in a wire, and each time I shift it the mountain breathes different dreams against my wrist. Some breezes are smooth as temple oil and they would let me sleep standing, but I can taste the bribe baked into them. Others rake through the coat and find the tender places where I keep old names, and those I respect because they make no bid for my comfort. If the thousand-and-first truth is that our rulers live in law and die in trust, then this carving can be a brace instead of a blade if we let it. Tell me where to cut and I will set the phrase clean, not deep enough to break the bone, but sure enough to carry through a storm."
+        },
+        {
+            "speaker": "Riala Hearthwake",
+            "lines": "You walked like a wall with hinges and you turned when we needed a door, and for that my old bones thank you more than coin can. I saw the singer’s eyes dim when the wind took the note from your hands, and for once I believed a tax could be shamed by a better song. We brought our names home whole, not priced into smaller pieces, and our grief will not be tallied on a slate in someone else’s stall. I do not pretend to know the craft of chords, but I have lived long enough to feel when a breath is true, and what you carved feels like a promise that will not sell me on a festival day. Take the blessings of those who can still walk and the silent nod of those who had to be carried, and do not forget us when the bright halls ask you to speak in a language that does not smell like dust and sweat."
+        },
+        {
+            "speaker": "Talekan Yss",
+            "lines": "Here is the bone tablet cut from a rung that remembers more prayers than most temples, and on it your hand has set the phrase that the Gate fears and loves in equal measure. If you wield it like a cudgel you will shatter it and we will be left with louder liars and quieter poor, and the city will learn nothing but how to duck. If you use it to tune, to bring the better note out of the cacophony, it will hold against storm and season, and the bones that span our sky will sing truer for a while. Carry it to the ribs and ask the watchmen, the priests, and the coin-counters to listen before they answer, and if they cannot listen, then ask the wind to help you make them. Choose a moment when the city has breath enough to hear and hunger enough to learn, and we may yet turn a truth that hurts into a truth that heals."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Pay the Breath-Tax in Silence",
+            "text": "You draw a measured handful of coin and bone-tokens from your token chain and step forward before tempers boil, offering payment under your own name so the pilgrims can pass without argument. You keep your voice level and your shoulders low, speaking to Sila Vane as if the two of you were sharing a canteen rather than a quarrel, and the wind seems to settle as your words fall. You let the singers weigh each name briefly while you stand like a hinge that will not swing fast, and your calm radiates down the line until even the fretful children watch in quiet. The sliver stays in your fist as a silent promise that this is not surrender but a calculated purchase of time and safety, and you breathe in the cave’s cool until your pulse matches the pipes. When you move again it is with the patience of someone who learned that an escorted hour can save a life and an argued minute can break one.",
+            "outcome": "The bone-singers take the tax with chins high, but you have bought the procession a clean ascent and a wide berth through the harmonium mouth, and no hands stray near the elderly or the desperate. Talekan marks your restraint with a nod that weighs more than praise, and in the quieter air you map the chords without interference, tracing a lattice of notes that the sliver drinks like rain. Several pilgrims whisper that you paid more than was fair and that your name tastes steady on the tongue, planting respect that will follow you on future climbs. The singers, though grateful for the lack of conflict, mark you as someone who will bargain rather than break, and their guild will try to extract favors later, though none will stand when you speak of the wind’s older law. You return with the Gate’s true tuning phrase unscarred by riot, your authority with reconciler types in the Order improved, though some in the Under-Ribs grumble that coins fed the taxman when a fist might have fed courage."
+        },
+        {
+            "id": "C2",
+            "title": "Challenge the Bone-Song and Waive the Tax",
+            "text": "You plant your boots on the thousandth step and blow the old Watch whistle once, not to summon arms but to stitch silence through the crowd, and you announce that no pilgrim will pay to grieve today. You speak with the weight of the Gate’s oaths in your chest and repeat the emergency passage clause the singers themselves cite during storms, and you fix Sila Vane with a look that says not today and not to these people. You keep your hands open and low so no one can mistake your refusal for a brawl, and yet your stance is iron, and iron wins more arguments than knives. When Sila protests, you offer arbitration under temple shadow, invoking the Order’s right to hear disputes that touch the breath of the city, and the crowd murmurs its agreement like surf against ribs. You tell the pilgrims to keep moving and you walk backward up two flights, daring the song-tax to push past you and find out whether your patience is thicker than their permits.",
+            "outcome": "The bone-singers bristle and their harmonies sharpen into a treble that skims the nerves, but they do not dare a full confrontation under so many eyes and the implied authority of the whistle and clause. Several younger singers peel away, resentful and impressed in equal measure, and whispers about your stand bloom in the city like windborne seeds. The climb continues under a taut quiet and, though a pair of hotheads try to rattle a lantern, your stare sends them back into their harnesses, and no one trips except on old sorrow. In the caves the air feels colder for what you denied, but Talekan’s work goes cleaner for the lack of haggling, and the sliver catches a sharper overtone that would have been muddied by chanting. You bring the tuning phrase down the escarpment with a new chorus of allies among pilgrims and dissenters, while the bone-singers’ guild files a complaint that will dog you in markets, making future negotiations louder but not stronger than your name."
+        },
+        {
+            "id": "C3",
+            "title": "Let the Wind Judge Between Tax and Passage",
+            "text": "You ask both sides to stand still and to shut their mouths until the stone itself has spoken, and then you guide the procession to the harmonium mouth so the Step can breathe through everyone at once. You hold the heartseed sliver high and angle it until its hum matches the soft ache behind your ribs, and then you speak a promise to carry what the mountain says, not what any human wants. You invite Sila Vane to lay her palm on the rock beside yours so the singer’s craft and your defiance can share a single pulse, and you ask Riala Hearthwake to witness as elder. The wind creeps in like a shy animal, then surges like a flood, and the pipes sing a low chord that makes teeth buzz, revealing the lie that has been fed to the step and the truth that the next step wants to carry. You wait for the sound to settle and you tell the pilgrims that the price today is listening, not coin, and you promise the singers a fair hearing at dusk if they will let the procession pass under the mountain’s verdict.",
+            "outcome": "The bone-singers freeze at the first pulse and then, hearing their own harmonies warped by the cave into something off-key, most step back in shame and a few in awe, conceding passage for the sake of the old law. Riala blesses the moment with a pilgrim’s gospel older than the guild contracts and the crowd moves forward as if untied, many touching the stone to steady their hearts. In that hush the sliver resonates with a sub-chord none of you expected, a patient undertone that rounds the harsh truth into a phrase bearable by human throats, and Talekan writes it with hands that do not shake. You still earn a quiet enmity from certain guild captains who will say you undermined their authority with theatrics, but you win a listening that money cannot buy and an ally in Sila, who asks later if she may learn the better song. You return to Marrowhold not only with the Gate’s true tuning phrase but with a story that tethers it to humility, making priests, watchmen, and even a few Syndicate clerks pause before they sharpen their tongues."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Bone Tablet bearing the Gate’s true tuning phrase, carved from a rung of the Sighing Steps that still remembers prayer and wind; it can steady a council as surely as a brace steadies a cracked beam."
+        },
+        {
+            "type": "reputation",
+            "description": "Respect among pilgrims and bone-singers—those who climbed with you spread your name up and down the Steps, and even some tax-chanters lower their voices when you pass, granting situational aid on the escarpment."
+        },
+        {
+            "type": "insight",
+            "description": "Understanding that trust is the missing load-bearing member in the Triarchy—the city’s frame can be tuned, but only if hands across factions hold the same note long enough to hear one another."
+        }
+    ]
+}

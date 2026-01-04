@@ -1,0 +1,71 @@
+{
+    "name": "Ulo",
+    "surname": "Hen",
+    "race": "Human (Riverfolk)",
+    "age": 47,
+    "appearance": "Broad-shouldered bargewarden in an eel-skin coat, brass tally-rings on his fingers, and a permanent squint from river glare.",
+    "character": "Bold, transactional, charming yet ruthless when squeezed.",
+    "traits": [
+        "decisive",
+        "gregarious",
+        "calculating",
+        "superstitious"
+    ],
+    "skills": [
+        "toll negotiation",
+        "river pilotage",
+        "crew logistics",
+        "smuggler countermeasures"
+    ],
+    "talents": [
+        "reads currents by ear",
+        "silver tongue",
+        "never forgets a debt"
+    ],
+    "flaws": [
+        "vindictive",
+        "cuts safety corners",
+        "bribe-prone",
+        "thin-skinned in public"
+    ],
+    "dreams": [
+        "control both Locks and Arcade fees",
+        "expand the Mistmarket into a year-round dock",
+        "seat a proxy on the Triune one day"
+    ],
+    "secrets": [
+        "paid a junior Breathkeeper to delay a horn-call",
+        "maintains a ghost-barge ledger bound in eel-skin",
+        "operates a hidden sluice trick to beach rival barges"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sera Dake",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Gor Relk",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Lerrin Vale",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Sorn Ilt",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Thia Mol",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Danka Suth",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mira Olt",
+            "relation_type": "neutral"
+        }
+    ]
+}

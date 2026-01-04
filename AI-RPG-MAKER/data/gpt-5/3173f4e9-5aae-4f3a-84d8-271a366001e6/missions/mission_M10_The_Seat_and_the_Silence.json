@@ -1,0 +1,43 @@
+{
+    "id": "M10",
+    "title": "The Seat and the Silence",
+    "quest_giver": "Captain-Magistrate Sorn Ilt on behalf of the Triune Charter",
+    "description": "Spinegate Hall is a lung full of argument. The River Lords and Bonewrights spit tariffs and blame like grit; the Breathkeepers speak of omens and are mocked for it. Crowds in the Arcade strain at cordons. The prophecy Lerrin showed now beats with the city’s pulse: ‘On the day the ribs sing thrice beneath clear sky, the Seat will be filled and the Silence will speak as one, or the city will fall to its own noise.’ It is that day. Sorn Ilt looks older by years; Ysil Aer’s serenity is a taut rope. Sera Dake admits her experiment’s danger, and Ulo Hen smiles a river-knife smile. There is no accord; there is only the hollow waiting to crack. Aerin can refuse the Seat and watch the factions tear each other’s throats, or she can break taboo and sit, invoking Vaelor’s Silence, bearing the weight of atonement to come. She chooses. The bone is cold and smooth under her; the hall’s acoustics gather breath and argument into a single chord. When Aerin speaks, her voice rides the ribs. The city listens.",
+    "objectives": [
+        "Present the compiled evidence to the Triune: ledger transcripts, Roa Mestri’s confession, tile fragments, and catwalk reports.",
+        "Mediate between Sera Dake and Ulo Hen to frame the problem as shared safety, not commerce.",
+        "Decide whether to sit the Seat of the Hollow and invoke Silence to still edicts and call a united action.",
+        "If the Seat is taken, accept the obligation to atone publicly after the crisis as per law."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sorn Ilt",
+            "line": "I am not a priest, nor a merchant, nor a mason. I am a tired man with a city that will not stop arguing while the wind stacks up at our door. Aerin Rell, you have the bones’ ear and the people’s eyes. Give us a way to step forward without stepping on each other’s throats."
+        },
+        {
+            "speaker": "Ysil Aer",
+            "line": "There is a line beyond which silence is cowardice. There is also a silence that binds. The prophecy is not a command—it is a warning. I will not command you to break taboo, Aerin. I will stand with you if you do."
+        },
+        {
+            "speaker": "Sera Dake",
+            "line": "I will own our failure publicly. The Conclave will remove every experimental plate. But if the market is tilted to spare a toll and children die because a platform falls, none of us deserve our oaths."
+        },
+        {
+            "speaker": "Ulo Hen",
+            "line": "All this for a few notes on the wind and a frightened cantor’s tears? The river washes stones smooth. Let it wash this argument, and let trade move. The city eats by coin, not by prophecy."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "We live by breath, and the bones bind that breath. I will sit, and I will speak Silence in Vaelor’s name, not to make myself a fourth chair but to make the three listen together. After, I will walk the ribs in atonement until my soles bleed, if that is what it takes to keep this city from falling."
+        }
+    ],
+    "connections": {
+        "previous": "M9",
+        "next": "M11"
+    },
+    "rewards": [
+        "Triune Emergency Edict: unified authorization to detune resonant installations citywide.",
+        "Paladin’s Mediation Writ establishing Aerin as a lawful intermediary across the three factions for the duration of the crisis.",
+        "Obligation of Atonement: a future public rite Aerin must complete to cleanse the taboo."
+    ]
+}

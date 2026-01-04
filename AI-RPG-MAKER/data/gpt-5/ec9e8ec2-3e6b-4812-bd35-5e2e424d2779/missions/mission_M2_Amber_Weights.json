@@ -1,0 +1,38 @@
+{
+    "id": "M2",
+    "title": "Amber Weights",
+    "quest_giver": "Caldra Imin",
+    "description": "The Order of Brine-Scribes whispers that false weights have crept into the Brinemarket. The Amber Vaults have kept coin and contract dry through flood and fire, but even amber can hide rot if you pour it quick and hot. Archivist-calved scribe Caldra Imin asks you to escort her into Salt Gate Manse's tariff rooms, where House Saltvein's seals are stamped, to audit a stack of slabs that don't match their tallies. The keening Beacon and the shaved scales may be teeth of the same comb. The path threads through honey-lacquered corridors that smell of resin and lemons, past guards in salt-white mail who watch your hook-hand like it is a key to their locks. Sel Var Saltvein will be there—polite as a fishmonger with a blade under the counter—and she never forgets a face that called her tariffs a noose.",
+    "objectives": [
+        "Escort Caldra Imin safely to the Amber Vaults and into Salt Gate Manse without provoking a skirmish.",
+        "Investigate the scales and slabs; compare tariff stele etchings to cargo chits at the Dockers' House of Weights.",
+        "Confront Sel Var Saltvein diplomatically about discrepancies and secure permission to seize suspect slabs."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Caldra Imin",
+            "content": "Salt remembers, Mr. Latch, and that is why we carve law into it. But I have held slabs lately that feel... too light, as if a handful of memory was scraped off before the seal set. The Beacon's keen has the Archive unsettled, and I will not have our ledgers sing lies with it. Walk with me. Your presence will discourage certain kinds of pressure. And if we must run, you know the weight of doors in a flood."
+        },
+        {
+            "speaker": "Sel Var Saltvein",
+            "content": "Tairn Latch, returned to my floors after paying every coin of that loan with the interest stacked upright like bricks. I respect a debt closed clean. You come in with a scribe and a hook and call my measures false? My house is built on the weight of vows that kept this city fed when others gaped like dry fish. You may look and you may tally, but you will not leave here with a scandal you cannot season with proof."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "content": "I'm not here to toss oil on a kitchen fire, Lady Saltvein. But shaved scales cut throats slow, and I've watched enough men drown on land because a boss liked his coin heavier than his conscience. We match the slabs to the chits, and if they sing right, I will be the first to say so at the Court. If they don't, we carry the truth in salt out those doors, and even your guards will taste it on their tongues."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": [
+        "Brine Archive letter of passage for research rooms (limited)",
+        "Evidence: Amber-etched addendum proving a run of altered tariff slabs",
+        "Reputation: +Small with Order of Brine-Scribes, -Small with House Saltvein"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "M12",
+    "title": "The Singing Gate Run",
+    "quest_giver": "Jask Lumenwright",
+    "description": "Skarnhold holds its breath. Lifts hang polite in their slots, the bells at the Underrun glow blue, and the city’s pulse narrows into one planned motion. Jask Lumenwright takes your hand and places in it a folded edict that is not an order so much as a promise signed in heat. The Iron Cradle must take the egg on a slow river run to the Singing Gate and back, not to deliver it away, but to teach the city’s lifelines to remember its motion together. Neris Undersong stands at the helm; Riven Hask guards the gyre with a wrench and a curse; Nemra Coil hums a lullaby older than the glass under your feet. Emberwatch wardens line the docks without masks, watching the crowd watch itself. The river inhales, the bell sings an impossible chord, and for a breath the world below the Rift opens like a second Skarnhold made of shadow and patience. You steer the cradle into that chord and feel the egg’s beat steady into a rhythm the whole city can keep.",
+    "objectives": [
+        "Receive the Loom’s edict from Jask and brief all participating factions on roles and contingencies.",
+        "Guide the Iron Cradle barge from the Underrun Docks to the Singing Gate using the map-song and blue-bell code.",
+        "Navigate luring currents and avoid a territorial stonewhale by syncing gyre spin to the whale’s song.",
+        "Pass through the Singing Gate during the exact bell-interval and return without stopping the cradle’s motion.",
+        "Conclude with a Quiet Pour at the docks, returning measured jugs of warm water to the Ireflow to seal the pact."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jask Lumenwright",
+            "text": "There is no omen left unread for this day. There is only the work. You will bring the egg to the Gate and back and you will not hand it to any shadow who whispers it knows a shorter path to safety. Safety is not a place. It is a practice. Today, we practice."
+        },
+        {
+            "speaker": "Riven Hask",
+            "text": "If anything tries to wedge a promise between our teeth I will smash it with this wrench and write the bill in my own blood. You keep the spin true, Coilglass. I will keep fools from touching it because they think touching is the same as helping."
+        },
+        {
+            "speaker": "Neris Undersong",
+            "text": "Listen to the river. It does not care what you call yourself. It does not care what your ideology writes on paper. It cares that you put your weight where the current wants it and take it away when it grows bored. I will ring the bell when it is time to forget our weight together."
+        },
+        {
+            "speaker": "Nemra Coil",
+            "text": "Breathe with me, little one. Not you, Neris. The one in the glass. You have slept under our chains and our quarrels and our pride for so long. Wake just enough to hear us count, and when we falter, remind us to keep time."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "The chord tastes like winter sunlight. The gyre feels lighter than it has any right to be. If I die today, it will not be from fear. It will be from too much honesty. Hold fast. We are threaded to a future that prefers motion to monuments."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        "Citywide recognition of the Iron Cradle protocol",
+        "Standing access to coordinated lift and dock windows during crises",
+        "Reputation: Harmonized with Loom, Chainwrights, River Covenant, and Orphans",
+        "Ceremonial brass-and-copper ring, stamped at the Quiet Pour, signifying Keeper of Motion"
+    ]
+}

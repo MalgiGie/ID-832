@@ -1,0 +1,63 @@
+{
+    "name": "Arla",
+    "surname": "Third-Tone",
+    "race": "Human",
+    "age": 36,
+    "appearance": "Compact, quick-footed marshal with bell-scarred fingers, cropped hair, and a bandolier of tuned chimes. Eyes narrow when notes go false.",
+    "character": "Crisp, witty, and courageous; allergic to dithering.",
+    "traits": [
+        "precise",
+        "brave",
+        "no-nonsense",
+        "dry humor"
+    ],
+    "skills": [
+        "bell-code operations",
+        "rooftop courier drills",
+        "urban logistics",
+        "crew training",
+        "emergency signaling"
+    ],
+    "talents": [
+        "perfect timing across long distances",
+        "hears lies as off-key notes",
+        "turns chaos into cadence"
+    ],
+    "flaws": [
+        "impatient with politics",
+        "irregular sleep that frays temper",
+        "prideful about her codes"
+    ],
+    "dreams": [
+        "a city bell network that never jams",
+        "write the definitive manual of rooftop signals",
+        "sponsor street kids into signal crews"
+    ],
+    "secrets": [
+        "rewired a bell tower to jam the Ledger’s private code during a price-fixing night",
+        "keeps a clandestine key to a Dawn-quarter belfry for off-books signals",
+        "harbors quiet affection for a colleague she refuses to endanger"
+    ],
+    "relations": [
+        {
+            "npc_name": "Nhal Vessin",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Miren Nine-Ropes",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Jath Pell",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Orven Caldris",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sall Brass",
+            "relation_type": "Conflict"
+        }
+    ]
+}

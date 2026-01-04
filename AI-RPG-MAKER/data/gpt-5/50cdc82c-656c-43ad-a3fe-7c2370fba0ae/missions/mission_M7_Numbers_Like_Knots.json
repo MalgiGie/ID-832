@@ -1,0 +1,39 @@
+{
+    "id": "M7",
+    "title": "Numbers Like Knots",
+    "quest_giver": "Sava Inkweft (Silent Archive scribe)",
+    "description": "Under Mirrorclose, the Silent Archive keeps river-rights and guild oaths in clay tubes and lime-washed galleries where footsteps seem to walk away from you. Sava Inkweft, ink-stained and steady, meets you beneath whispering lamps. She says a palimpsest has surfaced that names who first took the Night Orchard’s oath and who keeps a third ledger written in beads, not ink. That palimpsest also sketches a ladder into a Shard collar cavity where councils meet without law, and a schedule of when tide-clocks call debts at the Counting Hall. House Kelvar wants the page drowned in saltwater. The Order wants it sealed under a ward no one can speak through. Sava wants it copied, not stolen; she wants truth that can stand in a hall without knives. Downstairs, the seep whispers like a child practicing names. You have learned to move quiet in places where sound is not welcome.",
+    "objectives": [
+        "Enter the Silent Archive with Sava’s scribe pass.",
+        "Locate the palimpsest listing Night Orchard founders and collar cavity schedules.",
+        "Make an accurate copy without removing the original.",
+        "Avoid detection by compromised scribes and House Kelvar agents."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sava Inkweft",
+            "lines": "Records are oaths that learned to sit still. If we burn them, we burn our own road home. This palimpsest is not a sword to cut throats with; it’s a mirror to make proud faces blink. Copy it clean, fold it into your belt, and put it somewhere it will be heard by those who can do more than shout. I ask you because you have carried both secrets and soup."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "I won’t steal from the city’s memory. I will copy and leave the bones where they lie. If someone tries to take a bite out of the page while it’s in my hands, they’ll find glass instead of soft bread. The last time I hid a thing under the Chainbridge it grew teeth; I don’t intend to repeat that mistake."
+        },
+        {
+            "speaker": "Iven Shadequinch",
+            "lines": "You have a gardener’s hands when you choose, riverborn. Trim the truth, don’t hack it. The Gardener will not weep if old roots are named, but he will prune any branch that breaks the canopy to boast. Do your work and step lightly out. There are eyes in the ink."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        "Copy of the Palimpsest (evidence linking a Kelvar inner circle and an Order splinter to secret collar councils).",
+        "Silent Archive seal-ring (grants limited access and trust among neutral scribes).",
+        "Night Orchard caution: you will be watched for how you use the page (story consequence)."
+    ]
+}

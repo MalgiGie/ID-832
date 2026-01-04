@@ -1,0 +1,71 @@
+{
+    "name": "Yhosa",
+    "surname": "Kel",
+    "race": "Human",
+    "age": 52,
+    "appearance": "Lacquer-stained hands, coral pendants at the throat, two missing fingers replaced with articulated bone-splints, eyes quick as gulls.",
+    "character": "Idealist with an engineer’s patience; every cut must carry the city safely a century hence.",
+    "traits": [
+        "meticulous",
+        "idealistic",
+        "proud",
+        "protective of apprentices"
+    ],
+    "skills": [
+        "structural design",
+        "quota planning",
+        "public demonstration of bone-lace engineering",
+        "debate over resource ethics",
+        "field inspection of ribs"
+    ],
+    "talents": [
+        "whistles harmonics to test stress in bone",
+        "sketches plans at speed",
+        "intuits workable coral composites from a touch"
+    ],
+    "flaws": [
+        "vain about Collegium prestige",
+        "risks experimental methods on live structures",
+        "holds grudges against rival guilds"
+    ],
+    "dreams": [
+        "Master coral-lacquered bone that outlasts storms",
+        "Win parity with the Rime-Lantern Guild in council",
+        "Keep Orum’s frame intact for generations"
+    ],
+    "secrets": [
+        "Authorized an unpermitted cut beneath the Dorsal Span to test a brace",
+        "Buys off-ledger Tideglass salts via shadow-brokers",
+        "Forged a temporary Brinelaw seal to move materials during a moratorium"
+    ],
+    "relations": [
+        {
+            "npc_name": "Garrik Shale",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Pera Ilem",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Selka Vire",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Siala Nerm",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Talon Orase",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Osric Greyfen",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Neth Cowl",
+            "relation_type": "neutral"
+        }
+    ]
+}

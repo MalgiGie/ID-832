@@ -1,0 +1,95 @@
+{
+    "id": "M8",
+    "title": "Conclave in the Rain",
+    "quest_giver": {
+        "name": "Iren Vask",
+        "affiliation": "Rotating Conclave"
+    },
+    "description": "Copper-green spires spear a weeping sky as the River Crown Citadel exhales a chill damp that smells of iron, ink, and patience running thin. Beneath colored lanterns and austere banners of guild and shrine, the Rotating Conclave files into the tide-hall, their steps measured to the click of water clocks and the slow thunder of the rivers Tess and Vail, visible through the living tide-window underfoot. Steward-Moderator Iren Vask draws Aren Siltwarden to that pane of stilled current where patterns flicker like scales—current maps and contract margins dancing as if the river itself were reading the docket. Indigosatchel auditors whisper of efficiencies and leases, the Order of the Luminous Weir murmurs about dredging the Sunken Charterstone before the spring swell, and the Reedbound delegates smell of saffron and rain as they unfurl reed-paper witness threads from an oath-feast upon the marsh. Far up-valley, dwarven syndics from Seven-Kettle rattle sabers in letters that smell of forge-salt and embargo, and somewhere under the Citadel’s basalt bones a rumor of a third river—the undercurrent of memory—tugs at ankles like a child wanting to be heard. In a reliquary bowl, a recovered legal name lies wound around a copper charm, heavy as a sword and thin as a signature; it once authored mercy into the law of walls and waters. What Aren says, which debts he names and which he refuses to price, will edge the balance of a city that lives by treaties layered like silt. If he succeeds, the flood will hold and the quarrel will cool; if he fails, the hall will fill with knives sharpened on ledgers, and the river will keep the score in its own cold script.",
+    "objectives": [
+        "Present the recovered legal name and testimony at the Rotating Conclave to stall Indigosatchel’s privatization push, reminding the hall of the scribe’s codified mercies without letting coin drown covenant.",
+        "Advocate for Reedbound shrine recognition using marsh witness signatures gathered at the oath-feast, so that floating altars and pilot rites are written into city ledgers rather than erased by tolls.",
+        "Negotiate a temporary standstill between the Weir Order and Temple on dredging the Sunken Charterstone pending a joint ritual, binding time with hymn and oath instead of hubris.",
+        "Expose a sealed clause tying star-metal extraction to market leases without triggering a walkout, so truth surfaces like a breath and the chamber keeps its quorum."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Iren Vask",
+            "lines": "The city endures because we take turns at the blade and remember who bled last, not because any one hand is clean. Look down, Aren—the tide-window quivers when a lie is spoken, and today it has the tremor of a fevered child. You carry a name that once taught us to temper law with mercy, and I ask you to set it upon the table like bread, not like bait. Speak for time where others would sell minutes, and speak for witness where others would auction water by the window. Do not scorch the hall to cauterize a wound we could yet stitch, but do not confuse quiet with peace; sometimes the river needs to hear its own roar answered."
+        },
+        {
+            "speaker": "Calra Orun",
+            "lines": "Public works do not rise from hymns alone; stone and sluice eat coin at a pace piety cannot feed. Privatization is not theft but stewardship with ledgered teeth, and those teeth bite vandals and wastrels equally. We propose leases that bind performance, penalties that deter negligence, and a schedule that keeps Prism Market bright even in lean rains. Before you recite marsh poetry about common water, consider the boats we insure and the clinics we quietly fund when plague bells toll; our balance sheets have more mercy in them than our rivals’ prayers. As for whispers of hidden clauses, I will not dignify rumor; bring us proof, and you will find we prefer clean contracts to clever slander."
+        },
+        {
+            "speaker": "Quill Vess",
+            "lines": "The Charterstone hums like a cracked bell, and every pulse we miss is a tide we cannot predict; I have seen flood maps turn to guesses because we were polite instead of brave. Dredging is not desecration when done with rite and reason; it is maintenance of a covenant we shoulder each day we open the song-gates. I owe my life to a ferryman’s stubborn courage, and I have learned that courage without craft is just flailing in deep water. Give me a joint ritual if you must, nine bells and nine breaths, but bind it to a schedule, not to omens that arrive late and leave us drowned. If we wait for perfect consent, the river will choose for us, and the choice will be brutal."
+        },
+        {
+            "speaker": "Mereth Tydel",
+            "lines": "We are keepers of nine moods of water, Archhydromancer, and each mood demands a posture; Riptide calls for action, but Lull demands restraint. The Charterstone is not merely stone but promise sedged in spirit, and a promise treated as a lever becomes a curse with gears. We will walk to the eddy with bells and hands bare, and we will ask the water to show us a path that does not cost a soul unnamed. Give us three nights to knit rite to measurement, and we will stand beside you if the river consents to change its bed. If you force its bedchamber with bronze and dredge, you will not be the only engineer drowned by your own certainty."
+        },
+        {
+            "speaker": "Ollo Fen",
+            "lines": "We float and do not drown, but we are tired of pretending our shrines are driftwood when they are roots. Our pilots sing the cuts open with copper in their teeth, and our oath-feast filled a barge with signatures enough to pave the Citadel steps; will the city finally read our names? Barge taxes gnaw our gardens until we sell seed to pay toll, and the next flood will find those gardens hungry and useless to you. Write our rites into your ledgers so the river spirits do not hear only city bells and forget marsh whistles. Do this, and we will keep emergency channels open even on feast days, and our children will carry your clinic boats through a fog that would blind your best ferrymen."
+        },
+        {
+            "speaker": "Thorek Brimvauld",
+            "lines": "Seven-Kettle does not threaten lightly, cityfolk; when we say embargo, we mean cold forges and quiet anvils in your shipyards. The quarrel at the Obsidian Fault is an old seam splitting again, and we smell star-metal ink hidden in more than one market lease. We keep our songs in iron and steam, not in river bells, but we know a crooked clause when we taste one. Offer us a clear schedule for inspections and a moratorium on clandestine extractions, and we will keep the caravans hot and the iron flowing. Spit in our beards with clever paperwork, and you will learn what winter without kettles feels like at the river’s crown."
+        },
+        {
+            "speaker": "Sava Deren",
+            "lines": "We bear what the river dares, and we hate being made to choose between drowning in doctrine and choking on tolls. The Weir’s gate songs have been a drum we cannot dance to, and privatized walls will become hands that shove pilots into rocks between receipts. I have watched Reedbound kids pull a hospice skiff through slit water while auditors counted lungs as costs, and I will not watch that again without breaking poles. Give the marsh their shrines; it buys us calm water at dusk when tempers go red. Strike a truce on the Stone and give us notice on sluice timings, and you will have my fleet’s promise to keep festival routes open and fists holstered."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Thread the Needle at the Tide-Window",
+            "text": "Aren steps onto the circle of stilled water and raises the reliquary with the recovered legal name, speaking its syllables slowly until each letter hangs like a lantern over the hall. He reminds the chamber that the scribe encoded mercy into wall-law after a hundred drowned, and that any lease that forgets mercy will unmoor the pact that keeps the island afloat. He lays the marsh witness threads beside the reliquary, each copper seal clicking like rain, and asks the Conclave to recognize those shrines as part of the city’s own breathing. He proposes a nine-bell joint rite at the Charterstone, binding the Weir Order to precision and the Temple to a timetable without surrendering reverence. Finally, he leans to Iren Vask and passes a folded note that summarizes the sealed star-metal clause in neutral language, asking the Moderator to read it into the record without naming names so the quorum holds.",
+            "outcome": "The hall hushes as the name is spoken, and several senior stewards nod as if an old friend just entered the room; Indigosatchel’s momentum falters like a skiff hitting hidden reeds. The Moderator reads the clause into the minutes as a hypothetical that nonetheless forces a pledge of clean leases, and Calra Orun does not walk out because no finger points while the trap closes. Reedbound shrine recognition is set for immediate drafting, with Ollo Fen’s signatures accepted as public witness, buying goodwill on the canals when tempers run hot. Quill Vess and Mereth Tydel accept a joint rite with a firm schedule and exchange a gaze that promises argument only in the language of bells and charts, not knives. Dwarven syndics relax their threat to a watchful warning, and the tide-window stills, as if the river approves of a bargain that bought time without selling the future."
+        },
+        {
+            "id": "C2",
+            "title": "Raise the Oath-Poles for the Marsh",
+            "text": "Aren plants his ferryman’s pole like an oath-stake on the gloss of the tide-window and unrolls the reed-paper until it covers half the floor, the copper seals chiming like a distant storm. He names the shrines aloud—Stump-Mother, Humming-Cut, Bride-of-Reeds—and invites marsh elders to step forward and testify with river-mud still on their boots. He calls for an immediate motion to end the barge-garden tax while the recognition language is drafted, arguing that hunger cannot wait on calligraphy. He denounces privatization as a wall built across a throat, promising that pilots will refuse to breathe on command if coin becomes the law of air. He stares down Calra Orun and asks the Conclave whether a city born of refugees will now exile its own riverfolk from their altars.",
+            "outcome": "The chamber erupts like floodwater against a broken palisade, but the strength of testimony cannot be ignored; shrine recognition passes in principle with cheers from the Reed Bank galleries. A provisional suspension of the barge tax is rammed through by a narrow margin, buying immediate relief and a roar of gratitude from pilots who have not felt seen in years. Indigosatchel’s delegation leaves in stiff silence, promising to reopen talks only when decorum returns, and their allies begin muttering about breach of process. Quill Vess and Mereth Tydel cling to a standstill, but the joint rite is now a hair’s breadth from breaking as factions tag it as a bargaining chip; Aren has to spend more breath keeping them in the room than he expected. Dwarven letters harden in tone, threatening tariffs if chaos spills into contracts, and the tide-window pulses with quick, worried beats like a heart that has just run too hard."
+        },
+        {
+            "id": "C3",
+            "title": "Cut the Ledger with a Hidden Light",
+            "text": "Aren palms a thumb-sized shard of forbidden prism within his glove and steps beneath a nest of whisper-wards where every rumor normally sticks like burrs. He exhales, and for a breath the wards hush like birds before a storm, their colors draining to the tone of deep river night. In that narrow stillness he reads, from memory and glimpses, the sealed clause that ties market leases to star-metal extraction, framing the reading as a question to the floor rather than an accusation. He invites Thorek Brimvauld to comment on the ethics of such a clause, and the dwarven envoy’s snort carries like a hammer on anvil, making courtiers flinch. He then pivots to the reliquary name and the marsh witness threads, holding them up as examples of lawful transparency and communal consent that should be the model instead of shadow ink.",
+            "outcome": "The Conclave freezes as if a sluice just slammed shut, and then, slowly, anger turns toward the idea rather than the person; nobody wants to admit authorship of the clause now that its stink fills the hall. By forcing daylight into the language without a direct accusation, Aren keeps a walkout from igniting, and Iren Vask moves quickly to propose an audit of all pending leases with public minutes. Indigosatchel’s faces turn to stone, and their couriers melt from the hall like mist, but they lack pretext to storm out; their influence dims a shade that matters in back rooms. Reedbound shrine recognition advances with little resistance as the chamber craves a clean, popular act to replace the taste of dirty ink, and Ollo Fen clasps Aren’s forearm in gratitude heavy as an oar. Quill Vess swallows his impatience and agrees to the Temple’s joint rite under fixed bells, while Thorek Brimvauld softens his threat to a conditional truce that will hold so long as no more clauses hide in the reeds."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "currency",
+            "description": "30 minted silver crowns paid from the Citadel’s discretionary coffer, enough to keep a skiff crew fed and a lantern lit through a rain-long month."
+        },
+        {
+            "type": "item",
+            "description": "Conclave Letter of Safe Conduct (reduces interference by city guards by marking the bearer as a current public witness in good standing)."
+        },
+        {
+            "type": "item",
+            "description": "Seal of Public Witness (adds legal weight to future testimonies by stamping statements as heard before the Rotating Conclave)."
+        },
+        {
+            "type": "reputation",
+            "description": "Rotating Conclave +2 for steadying the hall under pressure; Indigosatchel Consortium -1 for resisting their privatization push; The Reedbound +1 for championing shrine rights."
+        },
+        {
+            "type": "access",
+            "description": "Arbitration chambers within the Citadel, granting entry to neutral rooms where disputes can be settled without knives or noise."
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": "M6",
+    "title": "Lattice of the Fault",
+    "quest_giver": "Brina Coil",
+    "description": "The Emberlight Forge-Cloister’s blue forges answer only to purpose, and Brina Coil’s voice cuts through clamor like a bell. She needs Aren to escort a neutral survey to the Obsidian Fault, where trapped stars shimmer in noon-dark and a sealed lattice pulses beneath stone. Seven-Kettle Syndic’s envoy, Thorek Brimvauld, waits with a frown like a chisel. The survey must map the lattice without breaking it, for Temple augurs warn it is a sealed hymn, not an ore vein. And yet Indigosatchel rumors whisper of a private clause, inked in shadow, to pry the lattice open and sell the city’s covenant by the pound.",
+    "objectives": [
+        "Escort Emberlight Artificers and Temple augurs to the Obsidian Fault and keep the party neutral under competing claims.",
+        "Negotiate safe passage and observation terms with Thorek Brimvauld representing Seven-Kettle.",
+        "Use the prism register and memory pin to map the lattice’s pulse without damaging it.",
+        "Expose or document any illegal star-metal clauses in Indigosatchel contracts encountered on-site."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Brina Coil",
+            "lines": "We bind fire to purpose and refuse to make blades that exist only to drink. The city needs bearings and sluices, not a hole torn in a hymn. Walk with us at the Fault and keep tempers from running like molten glass. If we can prove the lattice is a song and not a seam, perhaps even coin-counters will listen."
+        },
+        {
+            "speaker": "Thorek Brimvauld",
+            "lines": "Our kettles sing true because we listen to stone, not because we bully it. I don’t trust your Ledgerfolk nor your market queens, but I’ve seen an oath-bound man stand fast in flood. Draw me proof that your city won’t steal star-metal from under our noses while preaching restraint, and I’ll see your forges have salt and iron through winter. The lattice wakes when you lie to it; keep your words square."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "I’ve seen enough oaths to know which ones drown you and which ones keep you afloat. We map, we don’t mine. If the lattice is a sealed song, I’ll stand between it and greedy hands until my arms shake. Thorek, Brina—hold me to my word, and I’ll hold the city to yours."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": {
+        "currency": 25,
+        "items": [
+            "Obsidian Bearing Kit (improves mobility on slick stone)",
+            "Syndic’s Iron Chit (trade goodwill at Seven-Kettle stalls)"
+        ],
+        "reputation": {
+            "Emberlight Artificers": 3,
+            "Seven-Kettle Syndic": 2,
+            "Temple of the Nine Tides": 1
+        },
+        "access": [
+            "Supervised access to the Obsidian Fault observation ledges"
+        ]
+    }
+}

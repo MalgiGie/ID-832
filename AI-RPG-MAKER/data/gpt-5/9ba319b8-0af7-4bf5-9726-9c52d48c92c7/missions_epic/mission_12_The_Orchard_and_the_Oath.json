@@ -1,0 +1,98 @@
+{
+    "id": "12",
+    "title": "The Orchard and the Oath",
+    "quest_giver": {
+        "name": "Tallen Quill",
+        "affiliation": "Glass Parliament"
+    },
+    "description": "The bells of Vyraleth count a softer watch as the city treads the narrow causeway between flood and forgetting, and the Glass Parliament seeks a seal that no fog can smudge. From the chiming trunks of the Glass Orchard, a root of fulgurite will be coaxed into a disc that remembers pressure better than people remember promises, and it will bear the shard protocol that keeps sacred fragments from becoming tools. Mirror-larks will call feet into mistakes, shards will glitter like thirsty eyes, and every cut may draw not only blood but memory, yet the work must be done with steadiness and song. A veiled penitent of the Tidebound Conclave will show a path already heavy with vows carved by lovers who dared the impossible and paid its price, and she will demand a true word as toll. Tallen Quill will carry the language of accord between guilds and commons and ask for a guard who knows when to bind and when to break, and so Raithe Calder must stand between ink and harm. Once grown and cut, the seal must be borne through the rings, across the Leviathan Bone Bridge where rib-shadows fall in omen-stripes that speak to those who listen without fear. If the shadow blesses, the Conclave will sing a knot of approval, and if it curses, then all must reconsider their courage while the tide turns. At low tide the Glass Parliament’s floor-script will shine like clear truth, and the luminous grout will flare if any clause lies, so the seal must be pressed while the river holds its breath. The chain-song will change its meter by a fraction the city will feel in its bones, and a city that has lived by argument and danger will breathe a touch easier.",
+    "objectives": [
+        "Travel to the Glass Orchard and protect craftsfolk as they grow and cut a root-glass seal.",
+        "Resist the orchard’s memory-bleeding hazards and keep Tallen Quill focused on the charter text.",
+        "Carry the seal across the Leviathan Bone Bridge and interpret its rib-shadow omen for a final blessing.",
+        "Install the seal at the Glass Parliament during ebb and witness the enactment of the shard protocol and ring-rights addendum."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tallen Quill",
+            "lines": "We write law upon glass because it keeps the shape of the hand that pressed it, and because it forgives very little once it cools to truth. This root-glass will hold the shard protocol in a grip that no faction can slip, and it will carry the ring-rights addendum in letters that even the Pale fog cannot ghost. I trust your guard-work because I have seen you hold both line and mercy, and I need that balance while the orchard tries to drink our names. Keep the larks’ mimicry from taking me off the path, catch the chimes before they teach my skin new letters, and cuff me back to sense if memory bleeds from a cut that looks small. If we do this with patience, we will not merely set a seal, we will sentence our quarrels to argue inside a circle that will not crack, and even House Veyron’s lawyers will have to argue by the same light."
+        },
+        {
+            "speaker": "Veiled Penitent of the Conclave",
+            "lines": "Beneath these glass branches, promises do not drift away like kelp in an outgoing tide, they sink roots and pull at the heart that made them. Take only what the city needs and pay what the city can afford, because the Orchard will demand an honest price before it lets you pass with more than a mirror of yourself. I will show you the lovers’ root where vows that could not be kept still glow like embers, and you will feel the ache of what they bought and what they lost. Speak a vow here that you can keep with your hands and your hours, not with someone else’s cost, and wet your Knot-Ring so the fiber remembers you meant it. Hurry is a kind of lie in these aisles, and the glass hates lies, so breathe like the tide and let truth choose your steps."
+        },
+        {
+            "speaker": "Nella Shuck",
+            "lines": "I have stood too many days with rope in my palms and truncheon varnish in my teeth, and I would like my nieces to learn to read contracts instead of crowd breaks. If this seal holds, ring-five names will sit beside guild sigils without a shout turning to a shove, and that will taste better than victory soup after a blockade. Wharfers will keep watch on the way back and run a human chain through the crush, but we need you to make sure the chain doesn’t turn into a chain of ghosts. The Saltwardens will glare, the Syndicate will sniff, and House Veyron will count the rivets in your buckler, yet the seal must not leave your hands till the floor-script kisses it. Do this and I will stand on Parliament’s steps and swear that today a fighter carried law instead of a cudgel, and I will make the crowd listen long enough to hear you out."
+        },
+        {
+            "speaker": "Serene Khel",
+            "lines": "The Orchard will try to drink hours from anyone who lets their mind bleed through a cut, and the Order of Mnemos has no ledger fat enough to refund arrogance. Take this ember-ink leaf and fix a single detail if you see it running like water, but do not waste it on pride or panic, because both will ask for refills. I will be waiting at the Hall of Winter Ledgers to certify the seal and to return one day from your tithe as promised when your service is complete, because memory kept in good faith must sometimes be uncaged to keep faith. Bind your vow with the Knot-Ring where the glass can hear you, and mind that you do not promise the city more than the city can become, for overpromising is the most elegant form of forgetting. When the floor glows and the grout flares, stand steady and let my clerks read the light with you, and let no one sell a counterfeit recollection of what is done today."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "lines": "I grew up counting time by chain-song and shadows under the Leviathan rib, and I have learned that a city is just a promise that keeps learning how to stand. I will hold the seal as if it were a wounded friend and walk it through bone and bell and breath until the floor takes its weight and the law takes its shape. If larks mock my steps I will answer with a silence they cannot mimic, and if glass bites I will bleed the least it can take and no more. My mother’s knots and my father’s patrol oath have both pulled at me, but today I will tie them into a single loop and trust it to bear. When the grout glows I will listen for the city’s exhale, and if I hear it ease I will take that sound home and hang it by my door like a good wind."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Cut Slow, Bind True",
+            "text": "You insist upon a deliberate pace from the first step among the chime-trunks, even when the orchard tries to rush your breath with glittering echoes. You plant hooks and glove-lines for the craftsfolk, looping each tie twice and testing the give as if a life is on the other end, because a life is. You steady Tallen’s hands with a word and a nod whenever mirror-larks throw counterfeit footsteps into the path, and you use your windglass visor to read the shimmer where the air has been written by old vows. You press your palm to the chosen root and wait for its song to settle into a single note, refusing to let your impatience translate into a wound that would leak names. You accept that law hardened in haste shatters in heat, and you would rather suffer a day’s longer work than a decade’s regret.",
+            "outcome": "The Orchard recognizes its own patience and hushes the clamor like rain turning gentle on a roof of glass, and the larks grow bored of your silence. Tallen cuts the root-glass with strokes that remember steadiness, and no clause wobbles in his mouth because none has been shaken loose by fear. When you shoulder the seal for the walk back, its surface holds a faint concentric ripple that looks like the city’s rings resting rather than bristling. On the Leviathan Bone Bridge the rib-shadows band the seal with three clear stripes, and the bone-keepers murmur that blessing and burden are in balance today. In Parliament the luminous grout glows even and unafraid as the seal presses into wet law, and the chain-song when you step back out has a cadence like a harbor laughing in its sleep."
+        },
+        {
+            "id": "C2",
+            "title": "Trade a Promise for Passage",
+            "text": "At the lovers’ root you wet your Knot-Ring and speak a vow that is not heroic but durable, promising to speak for dock and guild alike whenever one forgets the other’s hunger. You prick your thumb on the glass and let a single bead fall into the root’s fissure, offering the Orchard a memory you can afford to lose and not a bravado you will starve to keep. You say aloud that the seal must keep ring-rights steady against storm and faction, and you add that you will return here if the law is twisted, even if the twisting is done by hands you trust. The Penitent listens without correction, which is the highest benediction she gives, and ties your vow with a tight wet knot against the ring of brass. Tallen breathes easier once the Orchard answers with a low tone like a bell under water, and you feel the path soften as if the glass were willing to be carried.",
+            "outcome": "The Orchard takes its price with startling gentleness, stealing the sharpness of one painful evening from your youth and leaving its shape behind like a healed scar you can touch without flinching. The seal you raise gleams with a quiet inner clarity, and craftsfolk whisper that it looks as though it has already endured a century and grown kinder for it. On the bone-bridge the omen-stripes entwine like two ropes spliced true, and the bone-keepers share salt and smile through their veils at a blessing rarely seen. In Parliament the Conclave choristers catch your vow’s cadence and weave it into the countercurrent hymn, and the grout’s glow is steady as a held hand. You leave with the seal seated, a promise bound to your own, and the knowledge that you paid a fair toll that will keep you honest when the city’s tempers rise like squalls."
+        },
+        {
+            "id": "C3",
+            "title": "Rush the Work Under Watchful Eyes",
+            "text": "You spot Syndicate lookouts in the prismatic reflections and glimpse House Veyron retainers pretending to count kelp knots, and you decide that speed is the better armor today. You set a rapid cadence, calling steps like a deck boss, and demand that Tallen recite the shard clauses between cuts so his tongue cannot trip later under pressure. Mirror-larks dive like thrown voices, and you knock them aside with your buckler as if batting away insults, letting your rib-edge falchion do the talking when one streaks too close. The root comes up fast with a crack that hurts the teeth, and you feel the air seize as if the Orchard would prefer to hold on to what was part of it, but you refuse to let your hands show doubt. You count the losses and find a bright smear where a thought should be, and you realize the Orchard has taken a sip from Tallen’s cup while you outran its patience.",
+            "outcome": "Anger makes the Orchard sing sharp, and a thin rain of glitter tries to write panic on skin, but you shoulder the seal and march it out like a wounded comrade between shields. Tallen reaches for a clause and finds only a hollow, so you slap the ember-ink leaf to the new glass and fix the missing line in heat and faith before the idea can fall through a crack. The seal cools with a faint stress-whorl, a memory of haste that artisans will be able to read in a century, but its face holds true and the words hold firm. On the rib-bridge the omen-shadow is mottled like foam on chop, and the bone-keepers warn that a blessing given under pressure still counts if it is carried with humility afterward. In Parliament the grout flares once at a phrase and dims when Serene Khel’s calm recitation restores what Tallen nearly lost, and the chain-song outside gains a brisk clip that sounds like a city deciding to outwork its mistakes."
+        },
+        {
+            "id": "C4",
+            "title": "Proclaim the Rib-Shadow Omen",
+            "text": "You lift the seal high on the Leviathan Bone Bridge so that all gathered can see the stripes of shadow fall across it, and you read them aloud like tide tables. You speak clearly enough that even those who do not believe in omens must admit they understood the words, and you bind your voice to the Conclave’s knot-song without surrendering it. You name the blessing you see in the even spacing and the unbroken bands, and you call for patience as part of courage because the city loves thunder more than endurance. Wharfers cheer and pilots signal with their lanterns, and even the Saltwardens lower their helms a finger’s width, which is their way of letting a moment pass without cracking it. You do not sell certainty, but you sell steadiness, and the bridge’s old rib seems to hum in approval under your boots.",
+            "outcome": "The proclamation turns a crowd into a chorus instead of a rumor mill, and the seal’s acceptance becomes a ceremony no faction can later claim was smuggled in shadow. House Veyron’s scribes purse their mouths but write the omen as witnessed, and the Ratchet watchmen drift away because there is no profit in heckling a hymn with too many witnesses. The Conclave blesses the crossing with a braid of blue ribbon and salt, and the Order of Mnemos notes the event without editorial, which is the closest they come to applause. In Parliament the bench warms to your presence as a civic voice rather than a hired arm, and the grout’s light seems to pour itself evenly around the seal as if happy to do so. The chain-song that follows gains a bright uptick at the turn, and later that night even the bell no hand rings seems to keep time instead of leading others astray."
+        },
+        {
+            "id": "C5",
+            "title": "Keep the Omen Between the Few",
+            "text": "You hold the seal low and read the rib-shadow quietly with the bone-keepers and the Penitent, trusting a small circle more than a square full of hungry ears. You choose discretion because some truths need time to root before they are trampled into slogans, and you would rather give Parliament a gift that arrives whole than a parade that arrives cracked. You instruct Nella’s people to run a soft cordon that keeps onlookers respectful without giving them a spectacle to tear at, and you keep your brow down so gliders cannot read your face. You ask the Conclave to mark the blessing in their book while letting the street think only of the safe crossing, and you promise to speak more when the seal is seated and the floor can glow to confirm you. The bridge hums underfoot like a sleeping beast turning to a kinder dream, and that is enough for you to move on without squeezing the moment for more than it can give.",
+            "outcome": "The quiet handling keeps mischief from organizing around a single loud story, and would-be spoilers have nothing to push against but a calm back. The bone-keepers nod, content that reverence sometimes looks like silence, and the Penitent’s veil flickers as if she smiled and almost let you see it. In Parliament the first words about the seal come from the floor itself when the grout shines, not from a street roar, and that lends the act a dignity that even rivals respect. House Veyron’s clever tongues find little purchase because they cannot accuse a scene that never happened, and the Syndicate shrugs and goes looking for louder prey. The chain-song feels like a careful breath taken after a scare, and the city keeps that breath for the work to come rather than spending it bragging."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "11",
+            "8"
+        ],
+        "next": []
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Root-Glass Seal imprint token, symbolic but recognized by the Glass Parliament, granting the right to request one certified copy of a charter."
+        },
+        {
+            "type": "item",
+            "description": "Deed for a modest dwelling near the Leviathan Bone Bridge, a legal claim to a small home where rib-shadows fall right."
+        },
+        {
+            "type": "coin",
+            "description": "No coin is paid for this civic work; the reward is measured in right and recognition, totaling 0 in currency."
+        },
+        {
+            "type": "faction",
+            "description": "Favor with the Glass Parliament in the form of standing permission to address the floor in emergencies without prior petition."
+        },
+        {
+            "type": "unlock",
+            "description": "Ring-rights granted for your declared household and the return of one sealed day from your tithe by Abbatess Serene Khel."
+        }
+    ]
+}

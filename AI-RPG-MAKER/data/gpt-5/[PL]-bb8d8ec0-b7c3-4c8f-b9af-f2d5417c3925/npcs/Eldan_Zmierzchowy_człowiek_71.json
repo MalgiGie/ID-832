@@ -1,0 +1,58 @@
+{
+    "name": "Eldan",
+    "surname": "Zmierzchowy",
+    "race": "człowiek",
+    "age": 71,
+    "appearance": "Wychudzone ramiona, twarz jak pergamin; jedno oko szklane z zielonym połyskiem; płaszcz latarnika postrzępiony od wiatru.",
+    "character": "Melancholijny i przesądny, ale dokładny; mówi półgłosem jak mgła, nigdy nie krzyczy.",
+    "traits": [
+        "pamiętliwy",
+        "skromny",
+        "przesądny",
+        "dokładny"
+    ],
+    "skills": [
+        "obsługa latarni",
+        "pieśni dostrajające selenit",
+        "znajomość klifów i prądów",
+        "opowieści morskie, które uczą"
+    ],
+    "talents": [
+        "wyczuwa zmiany światła w mgle",
+        "pamięta kursy statków sprzed dziesięcioleci"
+    ],
+    "flaws": [
+        "skłonny do trunków",
+        "lęk przed grzmotem burzy"
+    ],
+    "dreams": [
+        "zespolić snopy latarni raz jeszcze",
+        "odczarować złą sławę rozszczepionego światła"
+    ],
+    "secrets": [
+        "zna pieśń komory pryzmatycznej pod latarnią",
+        "kiedyś przepuścił statek bez cła za pustą obietnicę"
+    ],
+    "relations": [
+        {
+            "npc_name": "Matka Korala",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lima Fal",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Delerion Ognikowy",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Maera Buławka",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Neris Winnafala",
+            "relation_type": "Friendship"
+        }
+    ]
+}

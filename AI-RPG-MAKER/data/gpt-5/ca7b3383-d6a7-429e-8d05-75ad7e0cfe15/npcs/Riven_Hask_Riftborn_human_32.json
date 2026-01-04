@@ -1,0 +1,61 @@
+{
+    "name": "Riven",
+    "surname": "Hask",
+    "race": "Riftborn human",
+    "age": 32,
+    "appearance": "Lean and oil-smeared rigger with copper goggles, soot-dark braids bound in knot-charms, and a chain-link tattoo winding his left forearm.",
+    "character": "Steady under pressure, stubborn about schedules, and quietly superstitious about any knot left untied.",
+    "traits": [
+        "pragmatic",
+        "loyal",
+        "superstitious",
+        "dry-humored",
+        "observant"
+    ],
+    "skills": [
+        "rigging and hoist operation",
+        "gyre balancing",
+        "counterweight math",
+        "rescue belaying",
+        "basic Orin glyph reading"
+    ],
+    "talents": [
+        "hears chain harmonics to judge unsafe loads",
+        "crack free-climber in swaying shafts"
+    ],
+    "flaws": [
+        "resents oracular delays",
+        "risk-prone when pride is challenged",
+        "keeps grudges against rule-benders"
+    ],
+    "dreams": [
+        "to captain Chainheart schedules without Loom interference",
+        "to patent a safer quick-release harness for riggers"
+    ],
+    "secrets": [
+        "meets an Oracle acolyte in private to trade safety warnings for schedule concessions",
+        "once pocketed a spare lift-chit to rush a friend past tariffs"
+    ],
+    "relations": [
+        {
+            "npc_name": "Vara Keshlin",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Maela Scor",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Pelyn Orinfae",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ilara Embervein",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sere Vell",
+            "relation_type": "Different goals"
+        }
+    ]
+}

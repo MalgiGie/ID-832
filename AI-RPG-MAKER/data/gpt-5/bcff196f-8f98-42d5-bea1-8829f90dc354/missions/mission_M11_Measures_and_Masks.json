@@ -1,0 +1,61 @@
+{
+    "id": "M11",
+    "title": "Measures and Masks",
+    "quest_giver": "Arelon Vale (with Sera Verrin contesting)",
+    "description": "The Hall of Shares becomes a theater. Matron Selde, Sera Verrin, Guildmother Brynna, Olan Vetch, and Prior Ansel gather under a crown of wind-bells that ring like a ledger of accusations. The counterfeit scandal is cooling, the moths sing again, and the Order’s vigil lantern burns—but the reed-thing feeds faster, and the river drops. Sera advances a charter to make House Verrin the city’s outfitter for all upriver expeditions—promising discipline and efficiency. Arelon asks Kezra to arbitrate a compact instead: Pilots, Spindlewrights, and the Order bound together by a public oath-chart in the Lantern Archive. The Night Cartographers tug at an old thread—a route Kezra sold in a desperate year—dangling shame as a price for silence. The room tastes of salt and sugar: Verrin customs laid bare.",
+    "objectives": [
+        "Convene the stakeholders and present the case for a public oath-chart held at the Lantern Archive.",
+        "Expose the counterfeit line’s method without humiliating the Exchange; propose safeguards that strengthen trust.",
+        "Confront the Night Cartographers’ leverage publicly before it festers; admit fault and close the thread.",
+        "Draft and secure signatures on the tri-fold compact between Pilots, Spindlewrights, and the Order; deny or amend Sera’s charter without making an enemy beyond repair."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Arelon Vale",
+            "lines": "We can braid our strengths or we can each drown in a corner and pretend we were the last to breathe. I prefer braiding. Kezra, set the pace. Speak for a lantern that shines on all hands equally, even if it shows my calluses along with everyone else’s."
+        },
+        {
+            "speaker": "Sera Verrin",
+            "lines": "Order is not a sin, and neither is ambition. My charter would feed your city a diet of predictability. That’s not tyranny; that’s mercy without a procession. But I will not sign a compact that binds my house to rites that turn on a priest’s mouth and a pilot’s whistle."
+        },
+        {
+            "speaker": "Brynna Coil",
+            "lines": "Trade is a loom, and this room is a tangle. I will sign your compact if you guarantee that no child spends winter without wool because a Factor wanted to prove a point with scrip. Put that in your lantern, Kezra, and let it burn hot."
+        },
+        {
+            "speaker": "Olan Vetch",
+            "lines": "I’ll take vows on paper if they keep ropes out of my men’s necks and keep cowards from buying pilots by the finger. But if I see one clause slipped in with a sugar sprinkle of Verrin courtesy, I’ll whistle the Brotherhood out of the river and let the Hall count casks on dry land."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I sold a small route once to pay a healer, and I’ve hated the shape of that coin every day since. I’ll not let a map of my shame steer the City now. We draft the oath-chart here, we hang it in the Lantern Archive where anyone can read it, and we bind it to a bell that rings when someone tries to trim it. Sera, bring your efficiency; just don’t ask it to sit on the scales with its thumb out."
+        }
+    ],
+    "connections": {
+        "previous": "M10",
+        "next": "M12",
+        "locations": [
+            "Salt Crown Exchange hall (Hall of Shares)",
+            "Lantern Archive"
+        ],
+        "npcs_involved": [
+            "Arelon Vale",
+            "Sera Verrin",
+            "Matron Selde Karst",
+            "Brynna Coil",
+            "Olan Vetch",
+            "Prior Ansel of the Black Thistle",
+            "Lysa Quill"
+        ],
+        "themes": [
+            "public covenant",
+            "confession and leverage",
+            "city governance"
+        ]
+    },
+    "rewards": [
+        "Signed Compact of River and Loom (formal backing for final rite)",
+        "Access writ to Lantern Archive’s oath-chamber at all hours",
+        "House Verrin grudging courtesy pass (reduced interference from Verrin bravos)"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "M8",
+    "title": "The Drum of Reeds",
+    "quest_giver": {
+        "name": "High Cantor Ysil Aer",
+        "affiliation": "Breathkeepers of the Unbroken Breath"
+    },
+    "description": "South along the floodplain, the Elderbarrow Marsh drinks the sky until the horizon blurs and the water seems to lift and breathe. Warm vapors rise in sighing veils at dusk, wrapping boat and bones alike in damp that smells of peat, old lilies, and secrets dredged from centuries of flood. Willow roots clutch at broken stones inscribed in dead tongues, their glyphs fingered by eels and silt, their meanings half-remembered in the breath-rites of the Temple. Aerin poles a flatboat with Roa Mestri, whose hands tremble on the oar as if each stroke might wake the marsh or hush it, and the moonshard lantern at Aerin's hip hums faintly to a note she does not yet recognize. The Drum of Reeds swells from fog and peat like a sleeping giant's shoulder, and when the red moon lifts, the mound begins to thrum soft and steady, a heartbeat as old as the first lashings that once strung Ribcrown between Vaelor's ribs. Will-o-wisps blink in the distance like watch-lanterns that lost their keepers, drifting with sly patience toward any soul who mistakes them for home, while the mud below reaches like a quiet thief for boots, oars, and careless promises. Midstream, Roa's composure cracks like thin ice; her confession surges up raw and shaking, and the oars chatter against the gunwale as she admits to taking River Lord coin to delay a horn one bell, telling herself it would spare panic even as the floodline rose. Before the oaths can be braided or the boat turned, reeds whisper apart and hireblades surface with eel-skin purses and ropework tied in the Rafter way, their blades wet with marsh water and something colder. The fight that follows is slick, close, and ugly, fought in breath-lengths and half-steps, and the marsh takes those who swagger without respect and gives silence back in return, while the Drum keeps its slow measure. In the hush after, Aerin wades to the tall reeds that grow on the mound's leeward side, cuts a length of heart-reed that vibrates to the hidden thrum, and threads it with her breathing as the rite requires, each exhale catching a strand of that old, kind tone. The reed warms in her palm like a pulse and holds a sound that could quiet a crowd at the edge of stampede or coax a shivering rib to stillness, a borrowed heartbeat sealed in a hollow stem.",
+    "objectives": [
+        "Navigate the marsh channels safely to the Drum of Reeds and withstand will-o’-wisps’ lures.",
+        "Confront Roa Mestri and secure her sworn confession for the Vigil.",
+        "Repel the eel-skin hireblades and identify Rafter-style knots among their gear.",
+        "Harvest a length of heart-reed and bind it with Breathkeeper rite to capture the heart-tone."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Roa Mestri",
+            "lines": "I thought one bell would calm the stampede, and I told myself that a slower breath would save more than it would risk. I thought I could hold the storm in my mouth like a prayer-stone, that the wind would wait for my hands to finish tallying and the city would thank me for my patience. Ulo's coin felt like a weight I could set down later, just a token pressed into my palm until the next tide brought better choices, but it settled into my pocket like silt and would not come out. Forgive me if you can, because I am not sure I can forgive myself, and I am tired of tasting copper every time I hear the horn. I will go to the Oathwater and I will not lie, and if the Vigil must bind me in chains then let them, but let the chains be honest ones and not made of my excuses."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "lines": "Confess and stand straight, Roa Mestri, because a bent back makes a crooked oath and we both have had enough of those. The breath is not ours to delay and the wind is not a ledger to be balanced with bribes, and yet the Hollow Oath leaves room for mercy when a heart turns back toward truth. Speak the whole, not the portion that makes you look smaller, and trust that the Vigil will weigh both your guilt and your courage in coming forward. I will walk beside you through the Undershadows if I must, and I will bear the jeers that may rise, because truth carried alone is a burden that breaks even the strongest rafter. For now, breathe with me and listen to this place, for the marsh hears more keenly than the market and the Drum of Reeds will judge whether your words ring hollow or whole."
+        },
+        {
+            "speaker": "Ysil Aer (through wind-prayer)",
+            "lines": "Child of the spiral, attend: the marsh remembers each step that presses its sodden skin, and it speaks in lengths of reed and hush between wingbeats. Bind the chosen reed with your breath and not your fear, and the river's skin will shiver to its tone when danger crowds and minds fray like old rope. Do not mistake the heart's thrum for consent, for we are borrowers and not heirs, and the marsh does not give itself to those who do not return what they have taken. When the Drum sounds beneath red moon, listen for the low note beneath the low note, the one that sits like a stone at the bottom of the current, because that is the truth you must carry back. Remember also that confession is a sail and not an anchor; it must be hoisted and steered, or it will only flap and make noise while ships strike the rocks."
+        },
+        {
+            "speaker": "Eel-skin Hireblade",
+            "lines": "Pretty lantern, and a prettier oathplate, paladin, and I wonder how they will look once the mud has kissed them and the eels have come to sing. Leave the ledger and the girl in the reeds, and we will let you breathe easy all the way back to your ribs, and you can tell your wind-priests you heard nothing but frogs. We do not care for your horns or your hymns, only for the coin promised and the quiet that follows a job done, and there are more of us in the cattails than minutes in your next prayer. Think on how fast the marsh swallows a body and how slow the Vigil climbs ladders when night falls, and weigh that against the clever little vows you keep behind your teeth. Be wise like the river and bend, because the straight tree is the first to snap when the gale comes screaming down the ravine."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "lines": "The only thing I will leave in these reeds is your threat, and even that the marsh will chew into something soft and harmless if it has the time. The mud takes what is thrown in anger and gives it back as stillness, and I have no intention of feeding it my oath or my companion. You speak of coin as if it is the only current worth riding, but I have heard bones sing and I know a deeper music that will not be bought with eel-skin silver. Step back and unstring your knots, because I see the Rafter way in them and I will remember each twist when I speak to the Vigil, and the Vigil will remember me. If you come on, I will break your breath and bless it in the same motion, and the Drum will beat over you like rain on a roof that you will never see again."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Escort Roa to Spinegate Hall under Vigil light",
+            "text": "You lash the flatboat to a willow shank and raise your moonshard lantern in a Vigil pattern, calling lamplighters and wardens to meet you at Riverfoot as witnesses. You bind Roa's wrists with a prayer-knot she consents to wear, and you rehearse her full confession aloud until the fear leaves her tongue and only the facts remain. You collect one hireblade's knotted cord as evidence, noting the Rafter-style hitches and the smell of tar that clings like guilt. You refuse to chase rumors in the marsh's dark and choose instead the hard corridors of law, because swifter paths have already cost lives. You promise Roa that you will stand beside her when the Oathwater ripples and that you will speak if anyone tries to turn her confession into a banner for their faction.",
+            "outcome": "At Spinegate Hall, Captain-Magistrate Sorn Ilt receives the sworn confession with weary gratitude and orders an immediate sealing of horn-logs, buying the Breathkeepers time. The River Lords attempt to spin the bell delay as prudent caution, but the Vigil's record of Roa's precise words blunts their effort and reduces the political exposure on the Temple. Gor Relk of the Rafter Guild glares when he sees the knot you present, and his silence speaks as loudly as any threat, cooling the Guild's rush to blame the Moth Lanterns for a day. You gain trust with the Vigil and earn a small cordon of wardens willing to answer when you next call, though you lose the trail that might have led deeper into the marsh conspiracy. The Heart-Reed you bound hums once in the hearing room and stills a rising shout among petitioners, cementing its worth and marking you as the one who carries a calmer note."
+        },
+        {
+            "id": "C2",
+            "title": "Hold a confession rite upon the Drum of Reeds",
+            "text": "You guide Roa up the slick side of the barrow and stand her within the thin circle of moonlight atop the mound, where the Drum's thrum shakes dew from her lashes. You plant the heart-reed upright between you like a small and fragile mast and bind it with a longer breath, threading her confession into the hollow so it will carry like a tone along water. You call by wind-prayer to Ysil Aer and to the marsh's patient memory, promising to return a portion of whatever is granted and asking only for the city to be made safer by this telling. You wave off the hireblades with a gesture and a warning, trusting the marsh to mislead them with wisp-lights and soft ground while Roa speaks. You mark Roa's final vow by pressing your oathstone to the reed and by touching the Drum's peat, letting a measure of the barrow's heat rise through your palm like an answer.",
+            "outcome": "The confession takes on a weight that even skeptics feel; later, when Roa repeats her words before the Oathwater, the reed hums and the basin trembles, and the Vigil records that the marsh itself seemed to nod. The Breathkeepers gain a measure of moral authority, for the rite was done openly under red moon and without guile, and those who whispered of omen-withholding grow quieter. The River Lords find their influence checked in the Undershadows for a week as lamplighters murmur that the river is listening more keenly than usual, and a few barges give toll without argument. The Rafter Guild bristles at the sight of their knots named atop a holy mound and sends word that you are turning prayer into politics, which draws a sharper line you will need to cross carefully in the next council. The Heart-Reed grows more resonant, and once per day it now can quiet not only crowds but also the sway of a deck under too many feet, its tone remembered by those who stood on the Drum with you."
+        },
+        {
+            "id": "C3",
+            "title": "Feign surrender to follow the knotted trail",
+            "text": "You lower your shield and tilt your lantern as if cowed, offering the hireblades a ledger bundle wrapped in oilcloth while your fingers tuck a sliver of heart-reed fiber into the knot of the boldest thug. You let them take Roa's prayer-knot from her wrists and order them to retie it, watching carefully as callused hands make Rafter hitches with an economy no amateur could mimic. You pretend indecision long enough for one blade to boast of the paymaster's eel-skin purse and the way certain dockmasters count both coin and favors when fog falls thick. You trail them at a distance by the reed-splinter's faint hum, keeping your breaths shallow as you slip through channels that would swallow a louder stalker. You whisper to Roa that this risk is for a longer truth, and you set your jaw against the guilt that rises when her eyes show both trust and fear.",
+            "outcome": "The reed-splinter leads you to a half-sunk skiff hidden under a mat of duckweed, and you hear names traded that braid River Lords coin with a Rafter Guild grudge, a pairing that feels too deliberate to be chance. You catch enough words to suggest a third hand, a quiet broker with a lantern-sign you have seen only once in the Crown-Market lattice, and you leave with a pattern that points beyond simple sabotage. When you finally spring the trap, you seize one hireblade and his eel-skin purse, and inside you find a tally-mark that matches a ledger rune used at Riverfoot, a thin line of ink like a rumor made visible. The Vigil gains a suspect and the Breathkeepers a reprieve, but the Rafter Guild's anger hardens when the arrested thug spits that he learned his knots on public crews and that you should look to your own wind-priests for delayed horns. The Heart-Reed proves its worth as you withdraw, letting you settle a panic in Roa when a will-o-wisp tries to step into her childhood, and the safe channel you chart by night will serve you when you must cross the marsh again in haste."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Heart-Reed Charm: once per day, calm a panicked crowd or stabilize a swaying platform by aligning local tones."
+        },
+        {
+            "type": "faction",
+            "description": "Roa Mestri’s sworn confession recorded for the Vigil, reducing Breathkeepers’ political exposure."
+        },
+        {
+            "type": "knowledge",
+            "description": "Knowledge of a safe channel through Elderbarrow usable in future travel."
+        }
+    ]
+}

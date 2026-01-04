@@ -1,0 +1,53 @@
+{
+    "name": "Myris",
+    "surname": "Khel",
+    "race": "Human",
+    "age": 27,
+    "appearance": "Young glass-singer with sun-browned skin, a throat wrapped in resin-silk, and a shard-pendant that hums faintly at dawn.",
+    "character": "Ambitious craftsperson, proud of Khelaran roots, believes the city can be tuned toward mercy.",
+    "traits": [
+        "idealistic",
+        "disciplined",
+        "warm",
+        "competitive in craft"
+    ],
+    "skills": [
+        "tideglass growth songs",
+        "resin dosing",
+        "kiln heat management",
+        "structural fault listening",
+        "choir coordination"
+    ],
+    "talents": [
+        "perfect duet with storm keening",
+        "heals cracked glass with a lullaby tone",
+        "charms apprentices to excel"
+    ],
+    "flaws": [
+        "overconfident in new chords",
+        "dismissive of pilot taboos",
+        "jealous of senior Masters"
+    ],
+    "dreams": [
+        "Lead the Glass Blossom of a tower shaped like a crescent wave",
+        "Reconcile glass-song with reef quotas without loss"
+    ],
+    "secrets": [
+        "Smuggled a forbidden reef chord from a Conclave vault via Thalen’s help",
+        "Sang under a clear sky and made the Beacon quiver for a breath"
+    ],
+    "relations": [
+        {
+            "npc_name": "Thalen Marr",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orun Shard",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Keshan Drook",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

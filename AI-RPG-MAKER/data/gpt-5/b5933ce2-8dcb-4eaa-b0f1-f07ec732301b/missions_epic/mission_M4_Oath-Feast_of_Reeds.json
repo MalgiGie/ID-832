@@ -1,0 +1,83 @@
+{
+    "id": "M4",
+    "title": "Oath-Feast of Reeds",
+    "quest_giver": {
+        "name": "Ollo Fen",
+        "affiliation": "The Reedbound"
+    },
+    "description": "Amber reeds bow and whisper as the Gilded Marsh breathes with the tide, the channels drawing long silver threads between raft-villages lashed together like patient beasts at rest. Mist-Warden Ollo Fen has called an oath-feast upon a raft wide as a plaza, a woven square of reed and timber whose pilings are tattooed with clan marks and river-prayers. Reed-cutters and shrine-keepers face one another across low tables, eel-oil lamps spitting blue light as dusk thickens; a trio of Temple singers stand apart with bell-cords wound around their wrists, their eyes listening more than watching. A census-boat is missing, last seen nosing into a stand of reeds that hum like a quiet forge, and no work will resume and no blockade lift until shrine waters are inked on city ledgers and the new taxes are eased to something that does not starve a floating garden. As the sun slides behind sedge and mist, a low note rises from the marsh itself, a coppery taste on the tongue as if a coin were dissolving in milk; the reeds tremble, and canals grow straight where they had meandered. Old promises shiver awake. The Reed-Queen’s presence slips along the channels like a hand through hair, neither seen nor unseen, and a hush settles that no bell can break. She will guide those who pay her with copper and milk, and she will watch those who cheat her the way a tide watches a rotten piling. Beyond the feast, in the shallows, pitted glassy stones wink with dull stars where fish-lanterns pass, each one singing a cracked note when touched by the river’s breath. Some say these stones are cousins to the rumor of singing tiles dredged near the Sunken Charterstone, and the song here seems to echo faintly the choral breaths heard through the Luminous Weir on sleepless nights. It is into this careful hush that Aren Siltwarden must step—river-born, oath-kept, and stubborn enough to plant a reed where a wall would stand—and bring back the census-boat without waking a war.",
+    "objectives": [
+        "Mediate a ceasefire between reed-cutters and shrine-keepers by brokering an oath-feast agreement witnessed by Temple singers.",
+        "Track and recover the missing census-boat near the humming reeds without provoking marsh spirits.",
+        "Offer copper and milk at the humming stand to secure the Reed-Queen’s guidance.",
+        "Collect any additional pitted glassy stones found in the reeds and note their placement and song."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ollo Fen",
+            "lines": "You were born to these waters, Aren, and the reeds still remember your weight, the way a skiff remembers the pole that saved it from a hidden snag. The city has the gall to tax our raft-gardens like ornamental ponds, and the Weir tightens our channels by the measure of a choir-note and an inked chart that never muddies its hands. I do not want a war that breaks oaths and oars; I want the Temple to witness that these shrines breathe as the city does, and to mark their names in ink that does not wash away at the first hard rain or the first soft bribe. Help me bring the census-boat home without stirring the Reed-Queen’s temper, and I will lay an oath-feast so honest even the Night Ledger will nod and look away. If we do this right, the blockade will lift like morning fog, and the Conclave will have to meet us where the water is truest and the reeds sing our claim."
+        },
+        {
+            "speaker": "Temple Singer",
+            "lines": "We have come with bells and not with blades, for the Nine Tides ask us to listen before we answer, and to answer before we judge. The hum here is not blasphemy but ancestry; it is the old covenant rising through sedge and mud to remind us that water was worship before it was measured. If the boundaries of the shrine are set in right witness, then I will stand in the Conclave’s echoing hall and speak for recognition that cannot be reinterpreted by auditors with dry hands. Promise me only this, pilot: do not spill blood in humming water, because the stain turns the note bitter for a generation and the prayers of children will sound wrong to their own ears. Let the copper and milk be clean, let the reeds be heard, and let us bear the memory of what we agree tonight like lanterns that do not go out when the wind changes."
+        },
+        {
+            "speaker": "Reed-Queen",
+            "lines": "Copper warms my tongue and milk cools my throat, and between those tastes I remember every name that kept the promise to pass softly. I am the hum in the marrow of the reeds and the quiet door in fog that opens only for those who pay in small circles and kindness to fish. Bring me copper bright as dawn and milk as honest as a midwife, and I will lean the channels to your skiff and set the suction-bogs to sleep while you pass. Take what sings from my hair with two hands and a whispered thanks, set each stone as you found it, and I will show you where the census-boat snagged itself on a lie and where its ink ran into my roots. Cheat me with bitter metal or hurry with greedy fingers, and I will call the wraiths with a chord that makes your breath forget your body until the tide forgives you or does not."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "We will give copper and milk before we speak terms, and we will keep still long enough to hear what the reeds have already decided. The census-boat comes home slow and light, with lines tied to patience and not to pride, and we will pretend the marsh is listening to our apologies because it is and it deserves them. Ollo, I will carry your words upriver, but they will weigh more if the Temple sings them into the ledgers while you pour the cups and feed the listeners who came hungry. We will set witnesses on both banks, we will make the oath-feast a bridge instead of a barricade, and if anyone raises a hand like a knife I will be the first to bend it into something that serves a hull. As for the glassy stones that sing when wet, we will take them up as if they were teeth from the river’s smiling mouth, note the song, mark the place, and set them down again with thanks so the smile remains."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Rite-Bound Mediation",
+            "text": "Invite the Temple singers to the very lip of the humming stand and perform the offering precisely: copper coins rinsed in reed-water, milk poured in three slow spirals, and five breaths taken before any word is spoken. Declare the oath-feast open with Ollo’s elders seated opposite the shrine-keepers, and ask for a bell-marked witnessing that names the shrine boundaries in terms both river and ledger can accept. Lead by listening, asking each side to tell a memory of rescue by the other, and use those stories to braid a rope long enough to cross the gap. Then ask the Reed-Queen, aloud and unafraid, to bend the channels for a single honest work: the gentle recovery of the census-boat and the return of its records so no child’s food depends on guesswork. Finally, collect the pitted glassy stones with cloth-wrapped hands and in pairs, logging their places and humming their notes back to them as you lay them down again, and leave the marsh as quiet as you found it.",
+            "outcome": "The oath-feast moves like a patient current, and the Temple’s bells settle the quivering air without silencing the hum beneath it; even the eel-oil lamps seem to spit more softly. The Reed-Queen sends a visible shiver through the stand and the reeds lean in a corridor, guiding your skiff to the census-boat snagged on a hidden root, its hull unbroken and its crew huddled but alive within. With coppery breath on your tongue you lift the boat, settle the crew with warm broth, and tow them back through channels that part like curtains and close again with a pleased sigh, and no spirit rises angry to disturb the way. Shrine boundaries are inked onto bark for the moment and sealed with a bell-stroke and a reed-thread tied around the Temple singer’s wrist, and Ollo’s people agree to lift the blockade at dawn if the Conclave honors the draft as presented. When you note the songs of the pitted stones and set them back with thanks, their voices sweeten as if relieved, and the Temple promises to carry their resonance to the Archives; word spreads that you served both river and rite, and those who profit by clamor frown while those who profit by peace take careful heart."
+        },
+        {
+            "id": "C2",
+            "title": "Ledger-Lantern Bargain",
+            "text": "Slip behind the reed-screens with Ollo and a Temple singer willing to bend without breaking, and unfurl a short-term agreement: a halved tax for three flood-cycles, provisional shrine recognition by Temple seal, and a jointly kept ledger to audit yield and oath. Send a runner to Prism Market to fetch an Indigosatchel factor to witness the economics, but keep them off the raft until the terms are spoken in front of the Reed-Queen so the market cannot claim primacy over memory. Present the bargain as a lantern to be carried back to the River Crown Citadel, where it can either be tended into a steady light or be allowed to gutter publicly at the Conclave’s shame. Make the offering of copper and milk through the Temple singer as intermediary, asking the Reed-Queen to guide the skiffs for the work of recovery and to honor the provisional seals until the Conclave ratifies them. As you retrieve the census-boat, have the Indigosatchel witness count cargo honestly, their seal press unused but heavy in their hand, and catalogue the singing stones under both Temple and Reedbound marks to avoid private hoarding.",
+            "outcome": "The bargain holds like a lantern in mist: not bright, not warm, but true enough to see by, and the Reed-Queen accepts the courtesy done through the singer with a humming nod that ripples the milk into small moons. The census-boat is found wedged in a cradle of roots that kept it safe from suction and thieves, and your crew coaxes it free while reeds whisper a counting that makes even the factor smile despite themselves. Temple bells record the provisional shrine lines and Ollo’s oath to keep emergency routes open, and the Indigosatchel witness marks down every clause with hungry grace, forced by public eyes to be fair for once. The pitted stones sing sharply when you catalogue them, as if approving of the double mark and the shared custody; one emits a note that makes the factor step back and cover their chest, and even their auditors’ courage falters before a voice older than coin. Peace is kept, though some Reedbound mutter about deals made with city hands, and somewhere in the Veilhouse a book closes on a plan that will now have to wait, because your lantern has lit too many faces to knife in the dark."
+        },
+        {
+            "id": "C3",
+            "title": "Silent-Skid Salvage",
+            "text": "Wait for night and a thirteenth sliver of moon, when fog hangs like gauze and sound travels as if wrapped in cloth, and take a skiff with two paddles and no lanterns into the humming stand. Make a small offering of copper and milk at the channel’s mouth but keep your voice in your chest, trusting that silence can be as respectful as ceremony when every splash is a word. Use your reed knowledge to read the tug of suction-bogs and the faint ripples where wraiths prefer to drift, and move with the patience of a heron stalking in the shallows. When you find the census-boat, cut reeds with your crescent blade in gentle bundles, never shearing a whole stalk, and hitch a tow-line without striking oar against hull. Lift the pitted stones only if they lie in danger of the hull scraping them, and set them back in soft mud like you would return beads to a child’s braid, memorizing any song you hear like a password that breaks with breath.",
+            "outcome": "The fog favors you and the reeds make a window that closes behind your wake, and no wraith rises with a jealous hand; even so, the hum shifts once, low and questioning, as if tasting your decision to go light on rite. The census-boat rides behind your skiff like a sleeping calf tethered to its mother, and you ease it into the lantern ring of the oath-feast before most throats even finish their cups, earning impressed looks from the impatient and wary looks from the pious. The Temple singers insist on a dawn offering doubled to balance the silence, and Ollo nods because it is fair to pay a spirit as much as a city clerk is paid for paperwork done late. The pitted stones you disturbed hum acquiescence when you return them and whisper an extra note that sticks under your fingernails like silt, a reminder that even quiet respect is still a choice that must be acknowledged. Peace holds, though thinner in spots, and the blockade lifts with more side-eyes than cheers; you have your salvaged boat, your witnesses, and your promise to make the Reed-Queen whole again, and no blade was drawn where the water sang."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "currency",
+            "description": "10 Vyrathan coins stamped with the River Crown seal, honest weight and clean ring."
+        },
+        {
+            "type": "item",
+            "description": "Reedbound Pilot’s Cord, a braided token granting safe-passage through clan-guided channels of the Gilded Marsh."
+        },
+        {
+            "type": "item",
+            "description": "Bundle of Marsh Herbs, carefully dried and bound; steeped, they ward waterborne fevers and clear the chest during flood seasons."
+        },
+        {
+            "type": "reputation",
+            "description": "Esteem with The Reedbound increases by 3, and respect with the Temple of the Nine Tides increases by 2, for keeping rite and river in balance."
+        },
+        {
+            "type": "access",
+            "description": "Guided routes through the Gilded Marsh, opened by pilot whistles and reed-sign so your keel finds safe water even in fog."
+        }
+    ]
+}

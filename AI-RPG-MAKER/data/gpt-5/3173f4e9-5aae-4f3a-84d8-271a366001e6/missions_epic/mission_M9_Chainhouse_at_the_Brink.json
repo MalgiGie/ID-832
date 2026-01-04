@@ -1,0 +1,83 @@
+{
+    "id": "M9",
+    "title": "Chainhouse at the Brink",
+    "quest_giver": {
+        "name": "Chainmaster Gor Relk",
+        "affiliation": "Rafter Guild"
+    },
+    "description": "Signal flags whip in frantic semaphore above the Chainhouse Triad as the Anther River hurls up spray like shattered glass, and the three basalt towers groan along their cables like beasts pulling against a harness. The emergency bells strike a rhythm that every child of Ribcrown learns before letters, a hollow drumbeat that shivers the ribs and hushes market haggling mid-breath. Between brake drums misting obsidian sweat and counterweights that breathe like bellows, Aerin Rell feels a second song crawling under the metal—an ugly overtone that does not belong to storm or structure. Along a curved run beneath a plating seam, pale tiles no larger than a palm shiver and answer the wind with a climbing keen, planted like seeds waiting for the gale to ripen them into catastrophe. Danka Suth’s crew works the winches with hands that are too certain and eyes that never rest flat on her face, always glancing to a hidden clutch and a tally-scribe’s mark stitched in blue on a cuff. The sway becomes a lurch and a cry rises from Riverfoot where families crowd the lower decks, and Aerin’s mouth is suddenly full of the bone-dust taste that comes before disaster. Thia Mol’s runners in lantern-scarves leap like sparks, clearing cargo and calming panic with jokes that bite the fear’s throat, while Jarik Rell’s Vigil wardens throw cordons and speak the law in a tone that steadies trembling knees. The choice looms like a cliff: yank the emergency clutch and let a platform fall, bruising pride and cargo alike, or trust a forbidden old heart-reed charm and try to sing the Triad back into the river of right notes. Aerin cups the reed and, with the breath of someone who once broke a taboo to save drowning children, gives the wind back its own truth. The towers bow as if remembering a name they were given at birth, the overtones flatten to a steady chord, and the platforms settle to stillness so clean it feels like prayer. In the quiet that follows, the saboteur bolts, and Danka Suth leaves behind a ledger stub warm with fresh ink and the sharp stink of brine that does not belong to spray, but to salted favors and a debt that runs darker than river water.",
+    "objectives": [
+        "Inspect the Triad catwalks for curved runs of resonant tiles and mark their locations for removal.",
+        "Coordinate with Thia Mol to clear decks and with Jarik Rell to hold cordons during emergency.",
+        "Choose and enact the emergency response: pull the clutch or use the Heart-Reed Charm to stabilize.",
+        "Pursue Danka Suth across the catwalks; recover what evidence he drops even if he escapes."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Gor Relk",
+            "lines": "You, Rell, get your ears on my cables and your oath on my decks, because if a single crewman goes to the river I will tan the wind itself to flog whoever failed them. I do not care what chair you kneel to, nor which horn you kissed, I care if you can hear what my best riggers can only feel in their teeth. The bolts are singing wrong and the brakes are sweating like fevered beasts, and someone has laced a curve with trick tiles to catch the gale and turn it into a blade. I remember your last drop and the way my Guild’s pride hit the water, but I also remember how the platform lived when it should have died, and that matters today more than grudges. Fix it, and I will stand between you and the loudest of my own, but fail me and I swear by chain and counterweight I will call it gravity and throw you myself."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "lines": "Chainmaster, the overtone is climbing in a way no honest wind would choose, and the curve under Tower Two is seeded to drink the gust and spill it sideways. Clear your crews to the brake-lines and keep hands off that hidden clutch unless I shout red, because a panic pull will shear us clean in half. Thia, your Lanterns are quicker on crowd knots than any scribe’s ink, so sweep the decks and talk the fear out of their mouths until they remember their feet. Jarik, close the rope-gates and stand your Vigil like a bridge, because if anyone floods the catwalks now we trade one disaster for ten smaller ones and call it mercy. I will try the old heart-reed, and I will count breaths like a cantor and not a fool, and if the bone-song answers we live by a borrowed note that I will pay back in prayer and work."
+        },
+        {
+            "speaker": "Thia Mol",
+            "lines": "Lanterns, you heard the paladin, and you know I don’t waste breath on wind unless it’s blowing coin or trouble, so move like your feet have brighter places to be. Fold the panic into jokes that don’t bite hard, tie off loose mouths with a smile, and if someone tries to carry more than their skin can hold, lighten them with grace and quick hands. Keep the little ones close to the rail where the lattice catches more than it drops, and if a brawler starts a duel on my deck I want him laughing at his own courage by the third step. Aerin, this smells like bought brine and quick ink, and my dead would hate me if I let you eat this alone, so I will pay today’s favor knowing I may never call it back. When this is done we will speak in quiet about why moth-wings keep appearing in places that feel like traps made for my people, and whether someone is painting our shadows for us."
+        },
+        {
+            "speaker": "Jarik Rell",
+            "lines": "Sister, I will hold the line at the rope-gates and turn back even the most important fool who thinks a title makes him lighter than a plank, and I will write the citations myself if they want a souvenir of their own stubbornness. If you drop the clutch, I will carry the words to Spinegate and say that law bent like a reed to keep a city unbroken, and I will wear the anger that follows like a badge you do not have to bear. If you sing to the bones and they answer, I will tell the city that a monster lay down because someone remembered its true name and spoke it without fear, and I will make sure they hear that story more than the whispers. These runners and wardens will move like a single limb if we keep our breath together, and I will station two at your back even if you do not want them so your choices do not have to carry you alone. Remember that promise we made at floodrise under a lamplighter’s roof, the one about naming the knife even when the hand holding it is shaking; if you hear a name in that song, you tell me when you can breathe again."
+        },
+        {
+            "speaker": "Danka Suth",
+            "lines": "You should not be here with that reed, paladin, not with cantors whispering that some songs cost more than they give, and certainly not with the Guild breathing hot down your neck like a forge gone wild. Those tiles are just clever work to smooth the pull, or so they told me, and if the wind makes a new note from it, well, that is for priests and poets to argue after the fact. My hands are clean of murder even if my cuffs smell of brine, and if that offends you then perhaps it is your nose that should stand trial. The river pays its debts and the city looks the other way when toll ledgers balance beautifully, and I am only one cog in a mill that grinds finer than your oath can reach. You will not catch me today because gravity loves me better than law, but perhaps I will drop something in my hurry that helps you decide which throne in Spinegate profits when men fall from heights."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "lines": "Hush now, old bones and new cables, hush and listen to the breath that learned your measure on the Gale Organ Cliffs, because I am not here to command you, only to ask you to remember. I am Scale-born and the wind never forgets that, and I borrow this tone the way a pilgrim borrows water from a shrine, with both hands and a promise to refill the basin. We keep the Hollow Oath not by silence but by singing the right notes at the right time, and I will not steal a chord that is not mine to carry past this hour. Breathe with me, Triad, breathe with the river that the serpent pinned so the highlands would live, and let your sway find the center where the fear goes quiet. Hold now, hold and be steady, and when the danger passes I will help pry out the false notes seeded under your plates and carry them away like thorns pulled from a patient’s heel."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Rip the emergency clutch and sacrifice the platform",
+            "text": "You sprint to the iron housing and throw your weight into the lever, feeling the old metal resist like a stubborn jaw and then give with a groan that shakes your teeth. The platform drops away in a controlled plunge as the emergency clutch engages, shedding cargo like a snake sloughing a skin, and the cables scream but do not break. Wind and gravity do the math in an instant, and the remaining platforms jerk, sway, and then fall into a new equilibrium that is ugly but survivable. Your heart keeps counting the gale notes even as you shout for crews to brace and for Jarik to push the cordon back two more paces. Thia’s runners move like thought, catching a stumbling elder and two children before the counter-snap takes them off their feet, and the breath you take after is the first that does not taste like dust and iron.",
+            "outcome": "The Triad holds, and though one platform lies in ruin at the river’s edge with crates splintered into flotsam, no life is lost and the Guild’s rage is tempered by relief. Gor Relk meets your eyes and though his mouth is a scar of anger, his nod admits competence, and he presses a cold, heavy key into your palm with a warning that feels like a benediction. The River Lords howl over tally-lists and shout about toll rights and loss, and rumors coil like smoke that you chose coin to drown rather than people, which is not a rumor you will fight. Danka Suth is gone into the lattice with a rigger’s surety, but in his path you find a ledger stub with fresh brine scent and a notation in a shorthand used at the Locks, which points your suspicion without giving you a name. The city mutters and then exhales, and for a moment the quarrel between guilds steps back from becoming a blade raised in the market air."
+        },
+        {
+            "id": "C2",
+            "title": "Play the Heart-Reed Charm and sing the Triad to stillness",
+            "text": "You lift the reed to your lips and let your breath climb the scale you learned against storm and grief, feeling the note walk through bone and cable like a careful pilgrim. The overtone tries to scuttle up and over you, but you hold it like a friend having a fevered night, not fighting it, coaxing it back to a bed that fits. The towers bow in slow gratitude, brake-mist settles to a shy drizzle, and the platforms flatten as if remembering their craft and their promise. For five breaths you hang on the thread of that sound, knowing if you falter the whole will smash down and teach you about forgiveness the hard way. When you end the note, the wind keeps humming it for a second longer as if in thanks, and then the old noises of labor and life return like lamps relit after a gust.",
+            "outcome": "The Chainhouse steadies with no loss of cargo, and the sudden presence of quiet becomes a miracle that spreads along the ribs faster than gossip ever could. The Breathkeepers’ elders arrive red-eyed and proud, and even those who whisper about prophecy cannot deny that a true rite was done with care, so they speak your name with caution and respect. Gor Relk snarls at first and then gives you grudging credit, his voice the gravel under praise, and in the exchange of looks you know you have earned his trust in the only coin he respects: saved crews. Danka’s run leaves the ledger stub you hoped for and a smear of salt-chalk used to mark brine-paid jobs, and Thia’s people confirm the mark is not theirs, widening the circle of suspects. Jarik’s wardens lock the rope-gates tight enough to make even the River Lords yield a step, and the city’s factions take a breath as if someone had loosened a belt that had been digging in too long."
+        },
+        {
+            "id": "C3",
+            "title": "Split the burden: drop one empty platform while sounding the heart-tone",
+            "text": "You signal Thia in a flurry of hand-talk to ghost the cargo from Platform Three and push it to the rails, and the Lanterns move with the intricate choreography of people who have danced around disaster all their lives. As they clear the weight, you put the reed to your lips and give the towers a note to lean on, a spine to brace their fear against, making your song a road and not a command. Your free hand drops to the clutch lever and you time the pull to the breath’s fourth beat, letting one empty platform fall like a sigh that costs pride but not blood. The cables recoil, adjust, and settle into the tone like a choir finding the pitch they share, and the wind, amused, decides to help rather than harm for once. For a moment you stand between two choices made at once, and you feel the city’s debt to you tilt and then level, balanced on the edge of your intent.",
+            "outcome": "Minimal cargo is lost and no one falls, and the Guild has to admit that craft can be clever without being cowardly, which is a lesson they do not enjoy but accept. Gor Relk presses the emergency clutch-key into your hand in front of his crews so they all know whose voice can pull iron law without starting a war, and a few riggers nod as if remembering a truth their grief had made them forget. Thia catches a Lantern’s whispered sight of Danka ducking through a maintenance crawl not sanctioned by any guild, which hints at a hidden hand mapping the ribs too well, and a chase sparks that he ultimately slips. In his wake, you recover the ledger stub and a thread of oiled cord dusted in salt-ash used at the Saltlick Terraces, a clue that tugs at both Bonewright and River Lord quarrels without yet naming a throat to grip. The Breathkeepers take you aside later and say you balanced rite and reason without overreaching, then warn in soft voices that the heart-reed’s notes are not toys, which you accept like someone setting a blade back in its sheath with care."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Emergency clutch-key issued to Aerin for sanctioned use by the Rafter Guild—a heavy brass-and-bone token of their grudging trust, to be used only under oath and true peril."
+        },
+        {
+            "type": "authorization",
+            "description": "Formal writ permitting removal of resonant tiles found in civic structures, stamped by the Rafter Guild, the Breathkeepers, and the Vigil, ensuring the false notes can be lawfully pried free."
+        },
+        {
+            "type": "reputation",
+            "description": "Public credit jointly announced by the Rafter Guild, Breathkeepers, and Vigil for averting catastrophe at the Triad, easing faction tensions and quieting riot-talk in the Crown-Market."
+        }
+    ]
+}

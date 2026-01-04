@@ -1,0 +1,79 @@
+{
+    "id": "M5",
+    "title": "Glass and Bone Accord",
+    "quest_giver": "Matron Sere Kall",
+    "description": "The Iron Garden breathes hot and steady, rows of iron cacti sweating quench-water while runes sing to resting constructs. Matron Sere Kall gathers apprentices around a bone frame strung like a harp, quartz from the Rift of Lumes glittering in slots meant for tone. She intends to retune the Resonant Gate in public daylight, a calculated act of faith and defiance, and asks Rogan to hold the line when tariffs and tempers boil. The Saltglass Syndicate arrives with polished permits and unpolished men, Murne Glass-Eater among them, arguing for mirror-lined bones and profit-shaped safety. Between bone and glass is a city that needs both to stand. Rogan must keep the ritual safe, choose compromise or confrontation, and carry away the proof that the wrong note was not an accident.",
+    "objectives": [
+        "Guard the Bonewrights’ public Gate-tuning ritual in the Iron Garden.",
+        "Mediate between Bonewrights and the Saltglass Syndicate or choose a side when tensions flare.",
+        "Identify the foreign resonance woven into the Gate’s subchord and extract a cullet thread without shattering the frame.",
+        "Protect Edda Tarn while she swaps in Rift quartz to stabilize the note.",
+        "Secure signed testimony from witnesses that the Gate was tampered with for profit."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Matron Sere Kall",
+                "line": "We shape bone because it remembers load and love, and we set quartz in the frame because it carries a true note even when men don’t. Stand with us while we tune what others have teased into lying. I don’t need your sword unless they bring theirs, but I do need your back to be a wall my apprentices can work behind."
+            },
+            {
+                "speaker": "Edda Tarn",
+                "line": "I can hear the false tone like a bubble in the throat of a singer. If I swap this shard without cracking the slot, the Gate will stop humming like a guilty thought. If I slip, the frame will scream and every Watch whistle will answer."
+            },
+            {
+                "speaker": "Murne Glass-Eater",
+                "line": "All this theater for stones and bones when a mirror line would behave if you paid it. Let the Guild of Nine Weights set the tune and the tariffs, and your city won’t creak in the sun. Or keep pretending that charity pays for bridges."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "You can write a permit on a mirror and call it law, Murne, but when it shatters you find you’ve been staring at your own face the whole time. Step back or I will step you back. Edda, swap the shard on my count, and don’t listen when your hands say they’re afraid."
+            },
+            {
+                "speaker": "Veyla Prism",
+                "line": "I saw a cullet thread woven where bone ought to be blank, a pretty stitch that turns a city into a stringed instrument. If a storm-anchor out in the glass sea is playing, this is the fingerboard. I can pull it without breaking the neck, but you’ll owe me, and not in coin."
+            },
+            {
+                "speaker": "Matron Sere Kall",
+                "line": "Pull it, and I will owe you in public, glassborn, and that debt will hold. Witnesses, mark what you see. The city deserves to remember this moment without help from ink or mirror."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Edda Tarn",
+                "line": "The tone sits straight now. The frame is quiet in my hands for the first time in a week. I didn’t know how loud that guilt had become until it left."
+            },
+            {
+                "speaker": "Matron Sere Kall",
+                "line": "Take the cullet thread and the sworn words. They’ll be light until the moment you need them, and then they’ll weigh enough to crack a courtroom floor. Go to the glass sea and find where this string leads."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "Then we follow the note into the dunes that shine. If there’s a hand plucking storms by name, I’ll make it show itself."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Cullet Thread: a glass filament carrying the tuned frequency of the false note (key evidence)."
+        },
+        {
+            "type": "reputation",
+            "description": "Public debt of thanks from Matron Sere Kall (usable leverage with the Conclave)."
+        },
+        {
+            "type": "ally",
+            "description": "Veyla Prism agrees to guide you into the Saltglass Expanse."
+        }
+    ]
+}

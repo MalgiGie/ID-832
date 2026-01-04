@@ -1,0 +1,54 @@
+{
+    "id": "M10",
+    "title": "Iron That Remembers",
+    "quest_giver": "Yael Emberkeel and Dhorik Basaltbane",
+    "description": "The Ember Gate’s counterweight furnace lags, as if some unseen mass presses against the gate. Ore caravans from the Skygrind Steps arrive with carts sabotaged and dwarven patience wearing thin. Forgemistress Yael Emberkeel and Dhorik Basaltbane of the Steps ask Kezra to help prove a new alloy—an iron-thistle chain designed to ‘remember’ tension and hold it, to be hung in the Keep’s sluice-veins like a necklace that sings the right note back to the rain-chains. To forge it, the Collegium needs a steady run, protection on the Ember Road, and a pattern—perhaps from the shard—that tells iron which oath to keep. The reed-thing’s hunger beats at the gate like a tide in a well.",
+    "objectives": [
+        "Escort a test caravan to the Skygrind Steps; investigate sabotage sites and deter raiders.",
+        "Assist in tuning the iron-thistle chain at the forge by matching its ring to the rain-chain cadence recorded earlier.",
+        "Install a test length in a sluice tunnel under Needle Keep with Castellan Mirra Hal’s leave.",
+        "Report results to Yael and Dhorik, adjusting the alloy or pattern as needed."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Yael Emberkeel",
+            "lines": "Metal is honest. If it bends, it shows you where and by how much. People snap and then swear they never held. Help me teach an iron chain to remember the right song so the Keep stops humming like a throat about to lie. I can make it sing; you tell me what hymn."
+        },
+        {
+            "speaker": "Dhorik Basaltbane",
+            "lines": "Your city sits on our old stone like a child on a parent’s knee, and sometimes children forget bones have limits. We will lend our chant to your chain if you keep your word to our carts. A raider who cuts a rope deserves a rope of his own, at the neck or wrist as law decides."
+        },
+        {
+            "speaker": "Castellan Mirra Hal",
+            "lines": "I like new devices in my walls the way I like new saints in my chapel: proven, quiet, and not too fashionable. You can have a tunnel and half a night. If the chain hums wrong, I close the sluice and your ears with it."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "The rain-chains sing in triplets with a catch on the fourth; the shard answers on the catch. We’ll tune the iron to that stutter so the city’s bones don’t try to sing themselves apart. Keep the furnace steady. I’ll keep the pattern true."
+        }
+    ],
+    "connections": {
+        "previous": "M9",
+        "next": "M11",
+        "locations": [
+            "Ember Gate",
+            "Skygrind Steps",
+            "Needle Keep sluice tunnels"
+        ],
+        "npcs_involved": [
+            "Yael Emberkeel",
+            "Dhorik Basaltbane",
+            "Castellan Mirra Hal"
+        ],
+        "themes": [
+            "craft and oath",
+            "defense",
+            "cooperation with dwarves"
+        ]
+    },
+    "rewards": [
+        "Prototype length of iron-thistle chain for ritual use",
+        "Ferrum Collegium favor writ (repairs and armoring at cost)",
+        "Dwarven chant-markings that stabilize future rites (reduces risk in final scene)"
+    ]
+}

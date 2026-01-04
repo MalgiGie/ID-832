@@ -1,0 +1,60 @@
+{
+    "name": "Marek",
+    "surname": "Sol",
+    "race": "Human",
+    "age": 49,
+    "appearance": "Severe black robes braided with ash cords, bone needle tattoos along the wrist; gaze steady as a sealed vault.",
+    "character": "Grave, ethical, and unflinching when the dead’s rights are at stake.",
+    "traits": [
+        "principled",
+        "patient",
+        "quietly humorous",
+        "relentless"
+    ],
+    "skills": [
+        "oathcraft",
+        "necromantic jurisprudence",
+        "binding rites",
+        "mediation"
+    ],
+    "talents": [
+        "hears the confusion of the recently dead",
+        "ties unbreakable simple knots"
+    ],
+    "flaws": [
+        "inflexible boundaries",
+        "guarded loneliness",
+        "difficulty delegating"
+    ],
+    "dreams": [
+        "expand the rights of the dead in city law",
+        "standardize bindings across all wards",
+        "end industrial misuse of bone ash"
+    ],
+    "secrets": [
+        "Bound his father's shade to ask forgiveness, a violation he never confessed",
+        "Maintains a hidden funerary loom for unsanctioned bindings of mercy"
+    ],
+    "relations": [
+        {
+            "npc_name": "Edris Thale",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sereth Vex",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Avar Ir",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Brunna Coil",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Leth Morrow",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

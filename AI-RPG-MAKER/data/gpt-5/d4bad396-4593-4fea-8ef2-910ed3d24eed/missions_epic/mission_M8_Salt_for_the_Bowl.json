@@ -1,0 +1,80 @@
+{
+    "id": "M8",
+    "title": "Salt for the Bowl",
+    "quest_giver": {
+        "name": "Ressa Quay",
+        "affiliation": "Scriptorium of Oaths (Archivists of Vow contractor)"
+    },
+    "description": "The Scriptorium requires sacred salt for the final binding, and the Giant’s Stair Salt Flats hold it like a choir of mirrors under the sun. Ressa Quay, freed of custody by testimony and toil, wears contrition like a sun-cloak and leads a salt run to fetch enough purity to sting signatures into permanence. The terraces fall away toward a wavering blue horizon, each pan singing its own thin hymn of wind on brine and crackling crust that remembers footsteps too well. Heat mirages lean like false bridges between shining panes, while salt-wasps swarm anything that smells like labor and fear. Beneath some crusts waits the sudden gulp of a brine drownhole, patient as old debts and twice as cold. The Grain Compact whispers of withholding caravans to squeeze the city one notch tighter, and rumors run that they watch the flats from the higher pans to count who is desperate enough to beg. The Wardens promise an open lock for the return if the bowl comes back brimming, but the sun has teeth and the flats take interest in sweat. You will cross the Giant’s Stair with care, harvest the finest crystals that the Dead Tide will allow, and bring home not only mineral but the weight to make pain meaningful and truth stay spoken.",
+    "objectives": [
+        "Meet Ressa Quay at the edge of the Giant’s Stair Salt Flats",
+        "Escort the salt crew across terraces while avoiding heat mirages and salt-wasps",
+        "Harvest fine ritual salt and fill the binding bowl to Archivist specification",
+        "Navigate around a brine drownhole and salvage a stuck cart without losing the load",
+        "Return to Miravale and deliver the salt-bowl to the Scriptorium of Oaths"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ressa Quay",
+            "lines": "I owe you more than words for speaking on my behalf in the Citadel, Lio Fenwater, and words taste like dust out here anyway. Let me pay the debt in sweat, in blistered palms, and in the patience it takes to listen for a crust’s creak before it gives. The flats taught me that every step lies a little, and every lie looks like solid ground until it swallows your legs up to the thigh and salts your pride. Keep your eyes on the wind, not the white, because the wind tells truth while the glare only wants to blind you. If we walk honest to the breeze and sting our tongues with restraint, we’ll bring back enough bite to make men tell the truth when it matters and make their signatures feel like they mean something again."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "lines": "We’ll count our paces like clauses in a contract, slow enough to catch the hidden knife and stubborn enough to make it dull against us. If a mirage sells me a shortcut, I’ll haggle it down to a memory and pay with nothing but a laugh. Ressa, if a cart sinks, we will cast off weight before we cast off people, because the city can mend a loss of goods but it cannot mend a mother’s silence. We bind the crew to one another with more than rope today; we bind them with witness, with names spoken aloud at first light and last. The city can live without one more crate, but the city chokes without one more name to sign, and I will not haul a bowl of purity back over an empty space where a person used to stand."
+        },
+        {
+            "speaker": "Maera Lockfen",
+            "lines": "You bring that bowl back brimming and I will hold the gates open even if my superiors grind their teeth down to brass filings on the ledger’s edge. Bread riots look prettier on paper than on streets, and I have had my fill of pretty plans that stain the locks red. I would rather owe you a favor written in water than explain to a mother why her child learned to bite because there was nothing else to do but gnaw hunger. Mind the wasps; they favor the strong first because strength sweats, and take a coil of line for every person who swears they won’t need it. If you feel the ground sing lower than your bones, back-step slow, breathe shallow, and remember that a thousand lives in Miravale pull on the other end of your rope today."
+        },
+        {
+            "speaker": "Ressa Quay",
+            "lines": "I thought I was done hauling for the city after the Vaults, when every load seemed to carry another lie and every lie paid me just enough to buy the next one. This feels different, like paying a tithe to something that might deserve it, even if the bowl will sting our tongues when we bless it. The Dead Tide listens on solstice nights and on days like this when the sky feels close enough to drink, so speak straight when you speak and ask the wind for a safe crossing. We step at dawn because the wasps wake with the heat and forget their manners by noon, and I’d rather be gone before they remember that we taste like salt and chance. Tie your scarves, wet your hats, and check the slat-sled runners twice, because the flats love to humble anyone who thinks they’ve learned all her tricks."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "lines": "We’ll be shadows on salt before the sun grows teeth, our footprints no more than suggestions for the wind to edit away. We will harvest with a thief’s gentleness and an Archivist’s eye, lifting only the cleanest crystals and letting the cracked ones return to their choir. We will skirt the drownholes like we skirt bad clauses, with a rope around every waist and a joke ready to keep fear from stealing our breath. And when we return, we will make a bowl that teaches carefulness instead of cruelty, one that bites but does not bleed the signer dry. If the Grain Compact sends watchers to count our burden, let them count our names too, because I intend to bring back every soul who steps out there with us."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Walk the Wind’s Thread",
+            "text": "You propose a slow crossing that reads the flats like a contract, following ripples of breeze as if they were marginal notes written by the Dead Tide. Every ten paces, the crew halts and listens, pressing palms to poles and ears to the quiet to catch the low moan that means the crust is thin. You string everyone together with riverline and teach them a culvert whistle to signal mirage drift, refusing to let the glare set the pace. When the salt-wasps rise, you scatter a line of damp cloths spritzed with brine and starshard grit to foul their wings without flame, saving tinder for the drownholes’ chill air. At the pans themselves, you harvest with a scribe’s care, skimming only the finest crystals and sacking them in blue moth silk that keeps the purity from taking on breath-sweat.",
+            "outcome": "The day lengthens like a clause stretched over negotiations, but your measured crossing preserves strength, tempers tempers, and keeps small mistakes from becoming memorial plates. One cart does kiss the edge of a drownhole and slumps like a tired ox, yet your practiced halts and ready rope let you winch it free with only bruises to pride. The wasps harry you, stinging a sleeve and a cheek, but the brine-damp cloths foul their wings and send them down to the crust where the wind can sweep them aside. The harvested crystals ring clear when rattled in the bowl, a pure chime that makes even Ressa quiet for a breath, and the Archivist measures the lattice as righteous fine. On return, Maera keeps her word, the locks yawning like patient jaws, and the common folk who see the method in your mercy speak your name with steady warmth rather than loud fire."
+        },
+        {
+            "id": "C2",
+            "title": "Light the Decoy Fires",
+            "text": "You argue for speed, a sprint between safe spans like a thief between patrol lamps, and you carry tinder soaked in tar from Blackroot to make smoke that stings wasp eyes. You station two runners with mirrored disks to signal true path by reflected glare, turning the mirages’ own trick against them with deliberate blinks. When the wasps come, you set small decoy fires on sacrificed sled boards upwind, drawing the swarm to heat and smoke while the crew skirts the edge like a shadow. At the drownhole, you lash poles into a crude bridge with the riverline and shove the lightest cart across first, counting heartbeats and promises as it creaks. Your harvest is quick and focused, scooping crystals before the crust can learn your weight, and you keep the crew moving with sharp jokes and sharper orders.",
+            "outcome": "The decoy fires spit and curl into thin banners that lure the wasps away, and for a time the flats seem to bless your audacity with silence underfoot. One gust carries a spark farther than hoped and gouges an ugly, glassy scar in a salt pan, and Ressa’s face tightens as if the flats had been slapped, but the damage is contained before it becomes a blaze. The rush leaves two crew staggering with heat-drunks, and you force a shaded pause while you drip a cap of clearwater on each tongue and share a single slice of salted fruit, saving lives by stealing minutes. The bowl fills with bright, biting grains, though a few crystals are scuffed and must be sifted out under a damp cloth back at camp. Maera opens the gates with a stare that counts both your success and your scorch, and though the city whispers about speed, they remember more loudly that you brought everyone home breathing."
+        },
+        {
+            "id": "C3",
+            "title": "Parley with the Grain Compact’s Lookouts",
+            "text": "Before stepping fully onto the flats, you climb a dry stair of old terraces and find the silhouettes of Compact outriders watching with mirrored veils. You hail them not as enemies but as witnesses, speaking of the bowl that will bind the Oath of Flow and the locks that will open for grain if the city holds together. You offer them a ledger glance at your intended route and invite a shared watch for drownholes, promising to keep your harvest modest and your feet light in exchange for being left untroubled. When one asks what is in it for the uplands, you answer not with coin but with an oath-spark: a brass leaf marked in salt-soot, a public pledge to speak in council for open windows for grain barges. With that, you descend together in parallel, each caravan a mirror to the other, far enough apart to be safe and close enough to share warnings when the flats hum wrong.",
+            "outcome": "The parley cools the day’s edge, and the Compact outriders take to signaling mirage drift with heliograph flickers that spare your whistle. When a cart leg breaks near a drownhole, one of their riders tosses you a spare pole with a nod that feels like the first real rain of the season, and you brace the cart while the crew levers it free with a grunt and a cheer. Wasps sample both parties, but split attention halves the harm, and you learn a trick of smearing brine on exposed wrists that keeps them puzzled for a while. Your harvest is clean and sufficient, and the shared watch means you avoid the worst of the flats’ hungers without lighting a single spark. Back in Miravale, Maera holds the gates as promised and notes, not displeased, that the upland riders spoke well of your conduct, and the common folk who hear of it murmur that maybe the river can choose the city again if the city chooses to behave like a river."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Ritual salt-bowl for binding the Oath of Flow"
+        },
+        {
+            "type": "Favor",
+            "description": "Standing promise from Wardens for emergency grain passage"
+        },
+        {
+            "type": "Reputation",
+            "description": "Reputation (modest) with common folk for safeguarding the caravan"
+        }
+    ]
+}

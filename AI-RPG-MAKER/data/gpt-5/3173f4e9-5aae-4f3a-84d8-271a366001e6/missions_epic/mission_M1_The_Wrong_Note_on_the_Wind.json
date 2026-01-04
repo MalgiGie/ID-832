@@ -1,0 +1,61 @@
+{
+  "missions": [
+    {
+      "id": "M1",
+      "title": "The Wrong Note on the Wind",
+      "quest_giver": {
+        "name": "High Cantor Ysil Aer",
+        "affiliation": "Breathkeepers of the Unbroken Breath"
+      },
+      "description": "At the Gale Organ Cliffs, the wind runs wrong and the gorge seems to listen back. To Scale-born ears it is a smear of tone, a three-note tremor braided beneath the usual drone that makes lantern glass tick and shiver as if teeth chattered out of season. Riggers crossing the training ledges pause and touch two fingers to the ribs, making the old sign meant for children and funerals, and even the razorkites draft higher as though the air itself were uneasy. Aerin feels Vaelor’s bones through the soles of her cliff boots, humming tight as a bowstring strung to breaking, and old grief rises with the memory of cables scored and friends lost to the long fall. After the Chainhouse deaths and whispers that the Breathkeepers withheld an omen to curry favor with the River Lords, even a hesitant note could be the blade-edge that begins a political avalanche. Ysil Aer stands by the mouth of a great pipe that exhales like a sleeping beast under winter blankets, his robe-cords tugging in the gusts, his eyes steady as oathstone. He asks Aerin to climb, to put her ear, hands, and oath to the cliff and gather the wind’s voice with the Rite-Striker’s chime, then to match those caught tones against the temple’s sealed horn-logs before breath becomes rumor. Between fear of stirring panic and fear of waiting too long, the city hangs like a lantern between ribs in a rising gale. What stirs may be mere storm-birth trapped in the cliff’s chambers, or it may be sabotage threaded through cord and bone, or it may be an older stirring in the hollow where legends say a heart still turns warm before flood. Aerin must climb where the wind slaps like an unseen hand, where ropes sing judgment, and where courage counts time in breaths, to find whether the wrong note is an omen, a crime, or the first syllable of a very old name.",
+      "objectives": [
+        "Calibrate three organ mouths on the Gale Organ Cliffs using the Rite-Striker to capture their tones, braving the wind-slaps and the narrow training ledges without altering the pipes.",
+        "Ascend to the Aeric Aerie and retrieve last week’s sealed horn-logs under proper rite, ensuring the wax-sigils remain unbroken and documented.",
+        "Consult Cantor Roa Mestri privately about a missing set of wind-tones and record any details or suspicions without drawing public attention.",
+        "Record the anomalous three-note pattern into the Moonshard Lantern so its cold lens remembers the braid of sound for comparison in the Archive."
+      ],
+      "dialogue": [
+        {
+          "speaker": "Ysil Aer",
+          "lines": "The cliff sings what the city refuses to say, and it sings to those who will stop and be small enough to hear..."
+        },
+        {
+          "speaker": "Aerin Rell",
+          "lines": "I hear it, High Cantor, and it scratches the mind the way glass scratches rope..."
+        },
+        {
+          "speaker": "Roa Mestri",
+          "lines": "We sealed the horn-logs after Gale Tuning, as law demands..."
+        },
+        {
+          "speaker": "Aerin Rell",
+          "lines": "Folly or warning, cantor, I will test it against the hollow and accept the answer without flinching..."
+        }
+      ],
+      "choices": [
+        { "id": "C1", "title": "Scale the pipes alone at dusk, trusting only oath, rope, and Scale-born hearing.", "text": "...", "outcome": "..." },
+        { "id": "C2", "title": "Recruit a small mixed crew: one Rafter rigger and one Lantern-crawler, and climb under witnessed procedure.", "text": "...", "outcome": "..." },
+        { "id": "C3", "title": "Invoke audit authority and move through Spinegate first, securing writs before touching a single rope.", "text": "...", "outcome": "..." },
+        { "id": "C4", "title": "Slip through the locked bone-song tube at night to feel the organ’s voice from within the cliff.", "text": "...", "outcome": "..." }
+      ],
+      "connections": {
+        "previous": [],
+        "next": ["M2"]
+      },
+      "rewards": [
+        {
+          "type": "sanction",
+          "description": "Breathkeeper Rite-sanction granting legal use of the Rite-Striker outside formal rite for this specific inquiry, recognized by the Vigil and respected by the Temple."
+        },
+        {
+          "type": "access",
+          "description": "Access token to the Aeric Aerie shelf during winds of safe strength, permitting entry without escort when duty calls and conditions allow."
+        },
+        {
+          "type": "reputation",
+          "description": "Favorable standing with the Breathkeepers of the Unbroken Breath, reflected in public commendation and private trust during future storm-watch deliberations."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 8,
+    "title": "Frogs Count in Prime",
+    "quest_giver": "Erynn Sythar",
+    "description": "The Sunken Atelier is a submerged lung that has learned to breathe in equations. Basalt corridors sigh with the weight of old ideas; brass armatures bloom with rope geometry older than Ankharion’s first mooring. Frogs in the marsh count in prime numbers on fog nights, as if remembering something the city forgot. Erynn needs crystalline tuning rods and tarnishless brass plates that carry the ten-knot’s tenth whisper. The Chainwardens want the same, and Rul Fen has been ordered to make sure nothing that breathes the Tenth leaves the mud. Water seeps, numbers hum, and a choice waits in the dark: save a man who once bound you, or save a handful of rods that might unbind the city.",
+    "objectives": [
+        "Enter the Sunken Atelier via the marsh sluice identified on Istel’s map fragment.",
+        "Solve the prime-counting frog puzzle to unlock a watertight door and access the tuning vault.",
+        "Retrieve three crystalline tuning rods and two brass plates etched with unfamiliar ten-knot vectors.",
+        "Encounter Rul Fen trapped under a collapsed beam; choose to free him or leave him to complete your extraction.",
+        "Escape as floodwaters rise, using cloudfruit lines to lighten loads and reach the surface"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Erynn Sythar",
+            "lines": "The frogs are not mad; their throats have memorized a sequence no priest would bless. If you hum with them, door bolts will agree to turn. Take only rods uncracked by water; a broken tune is worse than silence."
+        },
+        {
+            "speaker": "Rul Fen",
+            "lines": "The mud has a long memory. It remembers apprentices who ran and the men who let them. If you leave me, I will die honoring a bad order. If you free me, I will owe a debt we never speak of, and I will still try to stop you when the city requires it."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "I was a child when you wrote my name on a contract like a chain. I am not a child now. The city will take my breath either way, but I choose who I share it with. If I lift this beam, you will go above and keep your mouth shut. If I leave it, the frogs will finish counting without you."
+        },
+        {
+            "speaker": "Yassa Nim",
+            "lines": "Debts come in more flavors than coins and blood. If you save a Chainwarden today, I will find a way to make that hurt someone who deserves it more than you. Or we can let the marsh do what marshes do: preserve, in silence."
+        }
+    ],
+    "connections": {
+        "previous": [
+            7
+        ],
+        "next": [
+            9
+        ]
+    },
+    "rewards": [
+        "3 crystalline tuning rods and 2 ten-knot brass plates",
+        "If Rul Fen is saved: Chainwarden override token (one-time veto bypass at a maintenance door)",
+        "Unmoored standing increased (authorized to attend closed-cord councils)",
+        "Marsh-witch blessing against instrument corrosion"
+    ]
+}

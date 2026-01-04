@@ -1,0 +1,60 @@
+{
+    "name": "Osk",
+    "surname": "Talin",
+    "race": "Human",
+    "age": 55,
+    "appearance": "Weathered skin like old rope; eyes squinting against glare; bone chimes woven into beard.",
+    "character": "Taciturn and stubborn, sentimental about the bridge.",
+    "traits": [
+        "Observant",
+        "Territorial",
+        "Courageous",
+        "Laconic"
+    ],
+    "skills": [
+        "Bridge salvage",
+        "Wind hazard prediction",
+        "Cliff rigging",
+        "Chime tuning"
+    ],
+    "talents": [
+        "Hears cross-shears seconds before they strike",
+        "Balances on shifting vertebrae",
+        "Calms chime-flocks"
+    ],
+    "flaws": [
+        "Mistrusts city officials",
+        "Hates markets",
+        "Drinks to sleep"
+    ],
+    "dreams": [
+        "Restore one span of the Skybridge Ossuary",
+        "Prove Ilys still sails"
+    ],
+    "secrets": [
+        "Keeps a cache of memory-stone under Pier Three",
+        "Sells select salvage to smugglers"
+    ],
+    "relations": [
+        {
+            "npc_name": "Tamsin Rook",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Thren Basso",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Varo Pell",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Nyra Kest",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Seru Chime",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

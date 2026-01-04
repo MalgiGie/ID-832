@@ -1,0 +1,63 @@
+{
+    "name": "Sera",
+    "surname": "Flintline",
+    "race": "Dwarf",
+    "age": 68,
+    "appearance": "Broad-hipped dwarf with a perpetual dust-veil around her neck, slate-gray eyes, and callused hands stained with blue grit. Wears a belt of tuning hammers.",
+    "character": "Shrewd and steady negotiator; treats stone, crews, and coin with the same measured respect.",
+    "traits": [
+        "tough",
+        "protective of miners",
+        "calculating",
+        "unsentimental"
+    ],
+    "skills": [
+        "mining engineering",
+        "blast choreography",
+        "contract bargaining",
+        "resonance testing",
+        "supply logistics"
+    ],
+    "talents": [
+        "senses hollow seams by vibration through boots",
+        "memorizes tunnel maps after one walk",
+        "sets pick-rhythms that calm crews"
+    ],
+    "flaws": [
+        "secretive even with allies",
+        "inflexible on quotas",
+        "petty when crossed"
+    ],
+    "dreams": [
+        "secure perpetual Ironsung leases",
+        "shift taxes from weight to finished value",
+        "open a seam beneath the bay without flooding a single lantern"
+    ],
+    "secrets": [
+        "maintains a forbidden shaft trending toward the Diadem foundations",
+        "pays Blue Fist stipends during ‘accidental’ stoppages",
+        "has a private stash of Ledger notes to burn if seized"
+    ],
+    "relations": [
+        {
+            "npc_name": "Kema Hookhand",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Ys Hul",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orven Caldris",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Kelen Prism",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Dorn Rigger",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

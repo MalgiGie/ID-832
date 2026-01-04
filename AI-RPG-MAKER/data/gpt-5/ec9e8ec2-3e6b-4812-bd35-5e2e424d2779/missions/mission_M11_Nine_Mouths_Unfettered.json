@@ -1,0 +1,39 @@
+{
+    "id": "M11",
+    "title": "Nine Mouths Unfettered",
+    "quest_giver": "Sorev Katch",
+    "description": "The festival that lifts all nine chain-gates in unison is supposed to open the city’s heart and let it beat with the sea without fear, just for a day. This year, lanterns flicker in odd patterns and the Wardens report ghost-signals near the Tenth Mouth. Pirates plan to ride the Veiled Current straight through the unfettered chains, and someone has timed it to the heartbeat of the crowd. Sorev Katch and Isha Brinehand agree on a thing you did not expect: a joint muster of Wardens and Dockers under your voice, to run rescue drills as defense and defense as rescue. The Nacre Crown sits in the Court, the Beacon hums in a strange chord, and you can feel the weight of your unconfessed blackout years ago like a stone in your lung. If the city is to move as one body, it cannot stumble on your silence. Shells do not forgive, but sometimes they hush for truth said at the right time.",
+    "objectives": [
+        "Coordinate joint River Wardens and Dockers' Syndicate teams to guard the chainhouses during the Nine Mouths Unfettered festival.",
+        "Use the Nacre Crown’s presence to steady the crowd if panic threatens.",
+        "Publicly address the blackout secret at the Court or choose to remain silent, affecting morale and coordination.",
+        "Repel the pirate incursion attempting to slip through the Tenth Mouth and raise the chains in time."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sorev Katch",
+            "content": "I don't like asking a Docker to run a Warden's line, but today I'd ask a child to hold a link if it meant we all kept our feet. You know the chains and you know the people. Set the drills. If the pirates bite, we'll haul them until their teeth clatter on iron. And Latch—however you carry your ghosts, make sure they don't trip my men on the stairs."
+        },
+        {
+            "speaker": "Isha Brinehand",
+            "content": "Weigh your words on the meteoric slate and put them on the Shell Court if you must. If a truth will get in the way of our hands, say it now and not when the links are singing. My people will follow your shout because they know you don't spend breath cheap. Bring them all home, and then we'll deal with who owes who a drink and an apology."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "content": "Years ago I helped paint a night darker than it needed to be, and a Warden drowned because my lantern winked twice. I have carried that in my knots and my sleep. I am sorry, and the shells can keep singing it if they like. Today, we lift a chain together, and we do not let it drop until every child has seen the glow of home on water and not the fire of ships dying. Move on my count. One, two—haul."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        "Public commendation at the Court of Echoing Shells (civic standing boost)",
+        "Formal creation of a Joint Safety Muster: Dockers gain a consult seat with the River Wardens",
+        "Reputation: +Large with Dockers’ Syndicate and River Wardens, pirates’ enmity"
+    ]
+}

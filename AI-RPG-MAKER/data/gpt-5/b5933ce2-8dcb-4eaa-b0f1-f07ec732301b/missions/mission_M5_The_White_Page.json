@@ -1,0 +1,48 @@
+{
+    "id": "M5",
+    "title": "The White Page",
+    "quest_giver": "Sorev Dusk",
+    "description": "In the rain-murmuring rooms of the Veilhouse of Whispers, debt-threads sway like kelp in a tide. The Night Ledger’s masked child tilts a scale and a single white page seems to breathe. Sorev Dusk admits the unthinkable: someone stole a pardon page—the Ledger’s most dangerous mercy. It is hidden in the Hollowwind Barrows among fluted vents and the unsingable harmonies of the Hollow Choir. If the thief speaks the page in the wrong place, blood-debts will erase the wrong names, and feuds will riot into the streets. Sorev needs Aren to retrieve the white page without letting the Ledger own the deed.",
+    "objectives": [
+        "Travel to the Hollowwind Barrows at low wind and locate the vent whose song has soured.",
+        "Decode the Hollow Choir’s warnings to determine which tragedy can be averted this flood-cycle.",
+        "Find the hidden ossuary niche where the white page is kept and retrieve it without tearing or speaking it aloud.",
+        "Confront the thief and resolve the motive behind the theft, then return the page to Sorev Dusk with conditions."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sorev Dusk",
+            "lines": "We traffic in endings, Aren, but even we respect a proper punctuation. The white page can end a debt the way rain ends dust, and it can also wash a street clean of names that should remain. Someone took it to be kind, and kindness wielded without craft can be the cruellest blade. Bring it back, and I’ll pay with more than coin; I’ll pay with silence where you most need it."
+        },
+        {
+            "speaker": "Yerin Pale",
+            "lines": "The Ledger is a necessary fever that breaks worse fevers, or so we tell ourselves when our hands ink names into dark books. Retrieve the page, and I will see that it is not used to erase a truth the city needs. I know you burned a debt once; consider this a chance to temper the fire rather than douse it."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "I’ll walk the Barrows with my ears open and my mouth closed. If the dead sing disasters ahead, I’ll listen until my skin rises and choose the least cruel path. I will bring you your page, Sorev, but it won’t be yours to spend where it bloodies a kindness. It goes back to the shelf where even your knives hesitate."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ]
+    },
+    "rewards": {
+        "currency": 20,
+        "items": [
+            "Veilhouse Mask-Token (one-time safe audience with the Night Ledger)",
+            "Whisper-Grass Wreath (advantage on reading omens)"
+        ],
+        "reputation": {
+            "Night Ledger": 2,
+            "Brass Menders": 1
+        },
+        "access": [
+            "Quiet passage through Veilhouse wards"
+        ]
+    }
+}

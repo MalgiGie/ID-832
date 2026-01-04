@@ -1,0 +1,45 @@
+{
+    "id": "M6",
+    "title": "Blue Bells and Black Water",
+    "quest_giver": "Neris Undersong",
+    "description": "The Underrun breathes a warm fog that smells of iron and eel oil. Blue bells hang under the cavern arch and glow like sleep caught in glass. Neris Undersong leans from a barge with ink-stained fingers and a voice like a low oar stroke. The River Covenant is holding a blue-bell auction, not for coin but for favors and future passages. If you want the collapsible dock code and a pilot token that whispers to wardens, you must approach like a bargeman, not a clerk. The current here talks in little eddies that mimic voices you trust. Your Vent-Pearl Pair will be more than tool; they will be promise and line back to air. The bells ring and the crowd shifts as if the river itself changed its mind.",
+    "objectives": [
+        "Attend the blue-bell auction at the Underrun Docks and register under Neris Undersong’s sponsorship.",
+        "Bid a favor and a salt-scrip voucher for the collapsible dock release code tied to the Singing Gate passage frame.",
+        "Pilot a skiff through luring currents to demonstrate competency with reedstone hums without capsizing.",
+        "Receive and memorize a wet-ledger passphrase recognized by River Covenant wardens.",
+        "Share a copy of the Library’s map-song intervals with Neris Undersong in confidence."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Neris Undersong",
+            "text": "Coins make waves that die too quickly. We trade in eddies and echoes. Sing me a bell-line that proves you will not steer our people into a stonewhale’s jaw for the sake of your engines. Then I will place a token in your palm that warm water will not wash away."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "I have dreamed stonewhales singing counterweights into place. I will not make that dream into a nightmare. Listen. This is the interval the Library keeps behind glass, and this is the way the bells answer when the current agrees to forget our weight."
+        },
+        {
+            "speaker": "Dock Warden",
+            "text": "Skiff took the bad tongue of the current, kissed it rather than bit it, and came out smiling. That is piloting, not luck. Take the code and do not let Emberwatch hear you trying it on the wrong frame."
+        },
+        {
+            "speaker": "Neris Undersong",
+            "text": "Good. The river remembers those who respect its voice. I will see the token glows when you need it, and I will ring blue if you must pass in a hurry. If the Salt Charter complains about tariffs, let them. This passage belongs to the current."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        "Collapsible dock release code keyed to Underrun hidden frame",
+        "River Covenant pilot token",
+        "Wet-ledger passphrase for blue-bell nights",
+        "Reputation: + with River Covenant"
+    ]
+}

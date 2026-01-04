@@ -1,0 +1,73 @@
+{
+    "id": "M7",
+    "title": "Chord in the Loom",
+    "quest_giver": "Rusk Bonebinder, Tidemason artisan",
+    "description": "Deep under Thassyl the Tide Looms murmur like distant thunder. Rusk Bonebinder, hands cracked with salt and eyes full of patient worry, has found tool marks on a secret bypass panel few know exists—the kind of panel that can drain a ward during a bell’s length if married to a sung chord. He suspects Verrin Nasse, a Keyholder who keeps a smile for Council nights and a tin ear for floods, has been meeting late with pearl factors. To jam a bypass, Kael must fetch an echo-stone from Singer’s Trench that hums the right cancelling note and wrap it in silence wards braided by Sirae Glowhand. The trench will answer any sound with attention, and not all attention is polite. The Loom’s heart waits like a beast that will wake if you call it by its secret name.",
+    "objectives": [
+        "Meet Rusk Bonebinder at the service gallery of the Tide Looms and examine the bypass panel.",
+        "Consult Sirae Glowhand to obtain a silence-ward braid suitable for use in Singer’s Trench.",
+        "Retrieve a resonant echo-stone from the lip of Singer’s Trench without using metal bells.",
+        "Install the echo-stone and silence ward on the bypass panel to jam unauthorized chords.",
+        "Gather proof of Verrin Nasse’s unauthorized key use."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Rusk Bonebinder",
+                "line": "Most men look at the looms and see gears. I see ribs and breath. Someone has been poking a stick between the ribs, waiting for a gasp. Help me make the chest tight enough that a bad song can’t make it cough water where it shouldn’t."
+            },
+            {
+                "speaker": "Kael",
+                "line": "I carry a shard that knows a piece of the chord. I won’t sing it. I’ll use it like a key that opens only for me and only this once. If the Loom remembers my touch, it will be because I was gentle."
+            },
+            {
+                "speaker": "Sirae Glowhand",
+                "line": "Here—this braid will drink your noise. Tie it at wrist and throat, and do not speak the whole way to the trench. Your breath will seem loud to you. That’s just the ward doing its work. Don’t let the trench think you’re apologizing; it eats apologies."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Kael",
+                "line": "The trench hums like a throat just before it weeps. Easy now. Reed whistle only. The whales will ignore a harmless note, and the other things will wonder whether I’m worth the hunger. I’m not."
+            },
+            {
+                "speaker": "Rusk Bonebinder",
+                "line": "Good. Now slide the stone into the nest and bind it with the braid. Feel that change? The Loom’s breath just got heavier, like a man bracing for a punch. It will not move on a liar’s song now."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Rusk Bonebinder",
+                "line": "These scratches are Verrin’s, sure as his close shave and close purse. He’s using a key when no bell rings and meeting someone who keeps their ink in silver shells. I will take this to Oaric, but he will need more than my word and your eyes. Be ready to stand in front of a floodgate and tell it no."
+            },
+            {
+                "speaker": "Kael",
+                "line": "I’ve told worse things no. They didn’t like it either. Let Verrin sing; the Loom will hear only its own heartbeat."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ],
+        "related_to": [
+            "M11"
+        ]
+    },
+    "rewards": {
+        "xp": 650,
+        "items": [
+            "Echo-Baffle Coil (portable hum-damper for stealth near mechanisms)"
+        ],
+        "favors": [
+            "Rusk Bonebinder’s quiet crew will open a maintenance hatch for Kael during emergencies"
+        ],
+        "access": [
+            "Auxiliary service stairs within the Tide Looms"
+        ],
+        "coin": "30 credit-shells"
+    }
+}

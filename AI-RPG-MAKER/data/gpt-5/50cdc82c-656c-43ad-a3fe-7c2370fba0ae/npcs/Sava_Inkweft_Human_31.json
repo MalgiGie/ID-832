@@ -1,0 +1,65 @@
+{
+    "name": "Sava",
+    "surname": "Inkweft",
+    "race": "Human",
+    "age": 31,
+    "appearance": "Slim, ink-flecked hands, short curls pinned by copper clips, and a plain gray robe with hidden pockets of rolled vellum. Eyes flick between lips and ledgers.",
+    "character": "Discreet and conscientious, she clings to oaths like lifelines and keeps panic folded into neat corners.",
+    "traits": [
+        "Discreet",
+        "Loyal",
+        "Anxious",
+        "Methodical"
+    ],
+    "skills": [
+        "Cryptography",
+        "Calligraphy",
+        "Archival retrieval",
+        "Silent movement in warded stacks"
+    ],
+    "talents": [
+        "Lip-reads across a hall",
+        "Recalls page positions by touch",
+        "Walks unheard in the Silent Archive"
+    ],
+    "flaws": [
+        "Insomnia",
+        "Fear of deep water",
+        "Conflict-avoidant"
+    ],
+    "dreams": [
+        "Compile a codex mapping all civic debts and oaths",
+        "Free the Silent Archive from factional leverage",
+        "Sponsor a Murkwall reading school"
+    ],
+    "secrets": [
+        "Resisted a Night Orchard compromise but still passes them harmless rumors to keep them away",
+        "The whispering seep says her name and a date she fears"
+    ],
+    "relations": [
+        {
+            "npc_name": "Lysa Shardhands",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Neris Aline",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Iven Shadequinch",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Garrin Chainwatch",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Tala Fenmint",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Erynn Mirrorfall",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

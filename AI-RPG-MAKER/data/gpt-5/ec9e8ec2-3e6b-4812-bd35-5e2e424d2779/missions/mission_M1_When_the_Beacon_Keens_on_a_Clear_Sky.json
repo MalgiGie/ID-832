@@ -1,0 +1,36 @@
+{
+    "id": "M1",
+    "title": "When the Beacon Keens on a Clear Sky",
+    "quest_giver": "Isha Brinehand",
+    "description": "At noon, with no storm on the horizon, the Beacon of Myr Sal keens like a wounded gull and the chainhouses shudder. The sound races down the Harbor of Nine Mouths, skittering across mooring lines and rattling the meteoric iron slate in the Dockers' House of Weights. A training lift at Chainmouth seizes; three workers swing over black water with a jammed ratchet, and the old fear crawls up the city’s spine—the fear of a chainjam swallowing people whole. Isha Brinehand's runners fan out, and you feel the old scars on your forearm itch as if the city itself has remembered the day it took your father. The keening means one of two things: a storm has lied about itself, or someone has lied big enough to wake glass. Either way, the city is holding its breath, and Isha wants you to climb, cut, and listen for where the lie began.",
+    "objectives": [
+        "Stabilize the jammed chainlift at Chainmouth and rescue the three suspended workers.",
+        "Meet Captain-Major Sorev Katch at Windward Bastion to share what you heard in the Beacon's keening.",
+        "Climb the lower galleries of the Beacon of Myr Sal with a lens-tender to listen to its residual hums for clues."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Isha Brinehand",
+            "content": "You hear that? The Beacon shouldn't sing when the sky is clean. It only does that when someone tells a lie big enough to tilt a city or when a storm changes its mind mid-stride. I've got three kids hanging from a chain that thinks it's a bell-clapper. You were born on flexing planks; go make that chain remember how to hold and bring my crew home. And Tairn—keep your eyes open. If the glass is humming, someone's tuned it, and I don't like who gets to hold the tuning fork."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "content": "I'll take a hook and two steady hands, and I'll come back with three more breathing than they are now. The Beacon's song went through my molars like cold iron, Isha; I could feel a shape in it. Not a storm's step, something like a word being bitten off. I'll climb and listen if the Conclave will let me, and I'll tell you if I hear the same bite again."
+        },
+        {
+            "speaker": "Sorev Katch",
+            "content": "If you're telling me the Beacon keened without cloud, then someone has their fingers in the city's nerves. Wardens will hold the Bastion steady and keep the chains staggered until we know more. You saved bodies today; I won't forget that. But understand me, Dockers' man: if this keening draws in pirates or wakes panic, I'll shut the harbor until the moon dries. Bring me something I can act on that isn't superstition and salt legends."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        "10 silver in hazard pay from the Dockers' Syndicate",
+        "River Wardens day-pass to restricted chainhouse catwalks",
+        "Reputation: +Small with Dockers' Syndicate and River Wardens"
+    ]
+}

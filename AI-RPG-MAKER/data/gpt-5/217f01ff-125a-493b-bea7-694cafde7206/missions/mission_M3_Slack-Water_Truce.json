@@ -1,0 +1,51 @@
+{
+    "id": "M3",
+    "title": "Slack-Water Truce",
+    "quest_giver": "Kema Hookhand",
+    "description": "Moonhook Docks crackle with blue lamps and union drums even before dawn, and the smell of brine argues with the smell of fear. The brittle pact between dockworkers and harbor guards is splintering over seized cargo and unpaid night tariffs. Kema Hookhand calls her favor: stand between the Tidewardens horn crews and the Blue Fists hardliners and make a silence big enough for two sides to hear a third way. You carry the Temple's Conch of Slack Water and a reputation for stilling a storm without killing the sea. This time, your silence must not stop a heart.",
+    "objectives": [
+        "Meet Kema Hookhand at Pier Three before dawn.",
+        "Summon the Tidewardens liaison, Signal-Captain Miren Nine-Ropes, to the negotiation table.",
+        "Use the Conch of Slack Water to compel turns of speech without interruption.",
+        "Propose a drum-code safety captain program acceptable to both sides.",
+        "Prevent hardliners from lighting a brass-lamp riot signal during talks.",
+        "Seal the truce under the Temple's blue light."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Kema Hookhand",
+            "line": "I have men and women who can stop this city's breath in an hour, and that is exactly what I do not want to do. They seize our cargo, they dock our pay, and they hum horn-drills at sleepers to remind them who holds the tide. You owe me one quiet that isn't a choke, Thalen. Stand in the breath between a wage and a war."
+        },
+        {
+            "speaker": "Miren Nine-Ropes",
+            "line": "I tie knots that hold hulls and arguments, and I don't like having them cut by Syndicate lanterns in the dark. My crews are tired, our pay is thin, and command wants seizures to show control. If your conch can make a circle where words don't ricochet off rage, I'll bring my best knots. But one brass flare in the caverns and the Commodore will bring the horn-barge."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "We will speak at slack water when the sea listens best. The Conch will keep our tongues from cutting over one another, and the Temple's lamp will mark every oath that matters. Let us trade a rhythm: Blue Fist safety captains on every pier, Tidewardens on-call during dead calm, and a schedule of seizures that ring with cause, not whim."
+        },
+        {
+            "speaker": "Kema Hookhand",
+            "line": "A safety captain on every pier, drum-codes that stop lifts on a heartbeat, and no horns at sleeping families. You bring me that and I keep my hardliners' fists unclenched. But if the Ledger dips their masks into this and steals the slack, we break chains in public. I won't watch my people starve politely."
+        },
+        {
+            "speaker": "Miren Nine-Ropes",
+            "line": "We can work a drum-code alongside our bells. Put your captains in Blue and mine in White, and we share the same knots when a line snaps. I won't promise for the Commodore's purse, but I will promise for my crews' hands. If the Conch keeps us honest, we can thread this needle."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4",
+            "M8"
+        ]
+    },
+    "rewards": [
+        "Blue Fist Drum-Code Pattern (summons dock allies during emergencies)",
+        "+1 standing with Blue Fist",
+        "Tidewarden Harbor Pass (limited)",
+        "Purse of 40 harbor chits pooled by both sides"
+    ]
+}

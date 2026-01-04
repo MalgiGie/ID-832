@@ -1,0 +1,62 @@
+{
+    "name": "Irevan",
+    "surname": "Glassmere",
+    "race": "Human",
+    "age": 49,
+    "appearance": "Ink-stained fingertips, a lantern-glow to his gaze, robe hems kissed by water channels, a brass bookmark on a chain.",
+    "character": "Curious and courteous, prefers bridges of understanding to battlements of position.",
+    "traits": [
+        "patient",
+        "methodical",
+        "quietly romantic"
+    ],
+    "skills": [
+        "archival science",
+        "cipher work",
+        "scholarly research",
+        "memory-oil blending"
+    ],
+    "talents": [
+        "near-eidetic recall of maps",
+        "calming presence in tense rooms"
+    ],
+    "flaws": [
+        "conflict-avoidant",
+        "absent-minded in streets",
+        "mild addiction to memory-oil scents"
+    ],
+    "dreams": [
+        "restore fading river maps",
+        "recover a lens that can cut reflections"
+    ],
+    "secrets": [
+        "copied and hid a route-lantern formula outside the Archive",
+        "keeps a lantern lit for a reader declared dead but unconfirmed"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sula Reedmantle",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Lysa Quill",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Brynna Coil",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Arelon Vale",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Ansel Thornward",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sera Verrin",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

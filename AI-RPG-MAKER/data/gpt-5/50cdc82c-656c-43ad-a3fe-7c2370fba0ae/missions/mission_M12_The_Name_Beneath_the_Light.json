@@ -1,0 +1,43 @@
+{
+    "id": "M12",
+    "title": "The Name Beneath the Light",
+    "quest_giver": "Preceptor Vara Lume (Order of the Shard)",
+    "description": "Inside the Shard, a sealed stair descends into cold blue, steps that shine as if lit from under water. The air smells like rain caught in stone. Your hands carry what the journey gathered: a bell’s tongue that answered from peat, a ring-chord that remembers a moon, a mnemonic spring from a machine that still knows work, and resin-lacquer that teaches light to hold without pulling. Lysa walks beside you with a jaw set like an oath; Neris and Jaya steady the harmonizer; Mara and Tala keep the line taut above. Shadows move on the stair like pieces of your own delay, and halfway down the Gardener’s splinter waits with Thane Kelvar’s last gambit: quiet the Shard for seven breaths and prove the city will beg for paid light. They speak to the part of you that wants storms to end by any means. The lower chamber hums like a throat clearing. The name the city has been trying to say sits just beyond your hearing.",
+    "objectives": [
+        "Descend the sealed stair within the Shard Bastion with your assembled team.",
+        "Install the mnemonic spring into the harmonizer and tune it using the ring-chord clasp.",
+        "Seat the fen bell’s tongue as a ground for the chord and apply resin-lacquer to the ward panes.",
+        "Confront the Gardener’s splinter and Thane Kelvar and prevent the seven-breath quieting.",
+        "Stabilize the Shard’s hum and return safely to the surface."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Preceptor Vara Lume",
+            "lines": "If we are wrong, the city will stumble in darkness and curse us by name. If we are right, it will never know how close it came to forgetting its own voice. Walk with a steady heart, and remember that law exists to protect the fragile melody that lets us live together, not to drown it under drums."
+        },
+        {
+            "speaker": "Masked Voice (the splinter)",
+            "lines": "You will thank me in another life when your bones are not tired from holding up so many others. Quiet is a mercy. Order is a kindness. Let the city sleep and wake to a paid dawn where no one cries because the light failed without a ledger to blame. Mercy often looks like steel when it is done correctly."
+        },
+        {
+            "speaker": "Thane Kelvar",
+            "lines": "This is not villainy. It is stewardship with a price. What you call greed I call the courage to charge what a thing costs. If you stop me, you will owe the city a guarantee that sentiment cannot pay. If you let me work, I give you stability and a ledger with no surprises."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "I’ve paid for light with skin and rope and the ache of winter in my hands. I will not pay with a city’s breath. Hear this bell tongue bite the chord you wanted to cut. Hear the rings sing rain over your figures. Hear the machines remember their promise. Then either help us hold the note or get out of the stair and live with the sound of a name that isn’t yours being saved."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        "Citywide goodwill and a formal charter to establish a neutral river-guard under the House of Reconciliation.",
+        "Prismed ward-tile upgraded with a personal sanction to access the Chainbridge collar for maintenance work.",
+        "Harmonized lantern pane from Erynn that keeps your camp steady and free of sleepwalking tugs.",
+        "Story consequence: House Kelvar loses leverage on light, Thane faces censure, and the Night Orchard’s splinter withdraws into deeper shadow while the Gardener watches your next move."
+    ]
+}

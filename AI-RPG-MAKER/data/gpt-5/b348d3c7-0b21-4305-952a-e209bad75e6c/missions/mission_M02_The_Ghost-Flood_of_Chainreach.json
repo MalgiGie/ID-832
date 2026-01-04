@@ -1,0 +1,49 @@
+{
+    "id": "M02",
+    "title": "The Ghost-Flood of Chainreach",
+    "quest_giver": "Gantrix Pell",
+    "description": "At Tide-Hinge Bastion, the iron-boned towers hummed like a throat clearing in a storm, and green-blue lanterns flickered along the gantries in signal songs Neris could feel through boot-soles. Signal-Mistress Gantrix Pell had summoned the archer to a rehearsal that was not a rehearsal: a ghost-flood replaying the Night of the Unmoored in shivering echoes that made the basalt teeth sing. One hinge-tooth refused its choreography and murmured as if a moon-flame should answer, a trick of resonance that made glass sweat. Men in ash-veils from the Wardens watched warily, and Tidewrights argued timing with clipped syllables, while the River-Marrows scowled from the spillway edge. The Bastion itself felt awake, old as bones and expecting a hand that knew cords as much as bowstrings.",
+    "objectives": [
+        "Climb the Bastion’s gantries and inspect the silent hinge-tooth that hums off-schedule.",
+        "Use a moon-resin tincture on a test lamp to answer the tooth’s hum without causing a full closure.",
+        "Assist the signal crew in triangulating an echo that is feeding false timing into the ghost-flood simulation.",
+        "Secure a Conservatory test lens against stray spray and return it intact after readings.",
+        "Report whether the hum is mechanical fault, sabotage, or old song."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Gantrix Pell",
+            "line": "The Bastion remembers better than most of us, and tonight it is remembering hard enough to bruise. That tooth will not rise on cue, and every time it sulks, the ghost-flood slaps our ankles like a warning. I have a dozen crews who can hit every mark, but not one who can tell me why a hinge wants a moon to answer it. You run lines where ladders balk, Neris; climb the ribs and listen like a boat listens to its own keel. If it is sabotage, I will have names sung before the lamps dim."
+        },
+        {
+            "speaker": "Orren Halv",
+            "line": "We are engineers, not priests of phantoms, and I despise wasting a crew’s nerve on superstitions packaged as safety drills. Yet numbers will not lie for me tonight, and the counterweights echo a phrase I do not like. If the tooth seeks a moon-flame, then it seeks ritual, and that means the Order’s fingers in our gears. Prove me wrong or make me a heretic; either way, bring me cause, not poetry."
+        },
+        {
+            "speaker": "Rull Fen",
+            "line": "What bites us isn’t your gears but the law that lets you shut our boats out while you listen to ghosts. A rehearsal that drowns trade is still a drowning. If you’re poking it, poke it fast, archer. There’s grain by the ton asking why the river has a curfew tonight."
+        },
+        {
+            "speaker": "Pel Korr",
+            "line": "We lent a lens to measure the hum as it breaks the light in the mist, not to let spray turn it into dull gravel. Handle it like a promise you are tempted to break, because glass knows the scent of doubt. Return it without a scratch and I might admit the Bastion can sing. Crack it and I will teach your shadow to arrive late."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "I’ll answer the tooth with what it asks for, and if it keeps humming, we will learn whether we’re listening to a memory or a mouth. Keep the crews steady. I’ll be a quick stitch and be gone before the ghost remembers it can drown me."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M01"
+        ],
+        "next": [
+            "M03"
+        ]
+    },
+    "rewards": [
+        "Signal-lantern codebook excerpt: Red Gale clarifications",
+        "Bastion access token stamped with Gantrix Pell’s mark (restricted gantry passage)",
+        "Oiled grip gloves for wet basalt work",
+        "Reputation: Tidewrights’ Syndicate (technical favor owed by Gantrix)"
+    ]
+}

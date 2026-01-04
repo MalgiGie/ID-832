@@ -1,0 +1,39 @@
+{
+    "id": "M9",
+    "title": "Rings That Remember Rain",
+    "quest_giver": "Jaya Basaltrip (Asterion field engineer)",
+    "description": "Northeast at the Fallen Stair of Marn, basalt steps climb like a titan’s breath to a terrace pitted by wind. Bronze rings stud the rises, too large for any rope you’ve seen, and they warm at night and smell faintly of rain, as if a moon once tethered itself here to bathe. Jaya’s instruments believe the rings can be persuaded to sing a counter-chord that will anchor the Shard against the quieting scheme, if someone brave enough hauls tuning lines and kites through cliff winds while wasps guard hollow rings like priests. House Kelvar’s debt-miners have been promised bonuses to scatter you like pebbles. The river taught you balance and patience; the cliff will demand both until your arms burn and your harness creaks like ice.",
+    "objectives": [
+        "Ascend the Fallen Stair of Marn using your riverwork harness and lines.",
+        "Attach resonant kites and tension lines to three selected bronze rings despite high winds and wasp nests.",
+        "Defend Jaya and her instruments from hired debt-miners without lethal force if possible.",
+        "Record the ring-chord for later use by the Collegium harmonizer."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jaya Basaltrip",
+            "lines": "Hold me steady and the numbers will do the rest. The rings remember a moon’s patience; we just have to remind them of it. When the line sings, don’t flinch. The sound will move through your bones like cold, but that’s only the world remembering you exist. We’re writing a promise into wind."
+        },
+        {
+            "speaker": "Debt-Miner Foreman",
+            "lines": "Orders said scare the scholars, not kill them. But silver has a way of sharpening elbows. Step back from the rings and let us take the day, and you’ll keep your teeth. Stand your ground and we’ll knock the tune out of you the old way, with hands and stones."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "You’ve got hands; use them to tie knots that build a city, not to throw stones at the ones trying to keep its light. You go down that stair with all your bones and I won’t follow. You come at my crew again and I’ll put you in the shade until you regret the coin that bought your courage."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        "Ring-Tuned Clasp (a small brass device that can play back the stabilized ring-chord).",
+        "Improved climbing rigging from Jaya.",
+        "Respect from Asterion field crews for holding the line under wind."
+    ]
+}

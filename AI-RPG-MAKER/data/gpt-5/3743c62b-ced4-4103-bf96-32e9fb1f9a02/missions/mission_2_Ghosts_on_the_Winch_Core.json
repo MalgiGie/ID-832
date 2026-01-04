@@ -1,0 +1,45 @@
+{
+    "id": 2,
+    "title": "Ghosts on the Winch Core",
+    "quest_giver": "Erynn Sythar",
+    "description": "The ledger scratch reads like the first step of a forbidden calculus, a ten-step knot smudged into nine. Erynn Sythar’s message arrives in the old way: three taps on a chainhouse pipe, a folded page tucked into a gear’s teeth, a smear of lantern-oil in a pattern only the Unmoored study. Erynn wants the Cathedral’s heartbeat, not in hymns but in numbers. Lyris must thread the iron ribs above the winch core and plant tuned whiskers and a forbidden airflow chime so the Unmoored can listen to the chain’s true song. The Chainwardens patrol in their oil-stained vestments, and Rul Fen’s eyes are always looking up where others forget to. Steel and ritual grind together, and beneath it all is the hush of a city that might learn to move again.",
+    "objectives": [
+        "Collect a bundle of copper-mesh tuning whiskers and a sealed airflow chime from Erynn’s dead drop at the Torsion Archives service hallway.",
+        "Enter the Chain Cathedral through a maintenance vent near the stained-glass windbreaks, timing your movement to choir cadences.",
+        "Affix tuning whiskers along the winch core’s upper flange and plant the airflow chime behind a prayer scroll rack.",
+        "Copy the pressure-vector inscriptions chalked by senior Chainwardens and photograph them using Istel’s skyglass coin.",
+        "Exit across the chainhouse catwalk and use the glide harness to reach the neighboring lantern tower without being seen."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Erynn Sythar",
+            "lines": "You’ve danced along the Cathedral’s ribs before, but you never listened the way I need you to now. The chain has a pulse, a tiny shiver the hymn hides. These whiskers will drink that pulse and the chime will nudge the air into telling secrets. Bring me numbers, not heroics, and we will know which knot to loosen and which to leave."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "Numbers I can carry. Heroics go clang. I’ll thread the choir’s breath and leave nothing behind but a question and a very quiet bell. If the chain speaks, we’ll hear it on the far side of the city."
+        },
+        {
+            "speaker": "Rul Fen",
+            "lines": "I smell copper and insolence. There’s always someone who thinks the Cathedral is just scaffolding and shadow. Hear me, Kael: the chains hold more than stone. They hold oaths. Break the wrong one and you don’t get a second wind. I do not want to scrape you off a ratchet."
+        },
+        {
+            "speaker": "Yassa Nim",
+            "lines": "If Rul has to scrape you, it will be because you forgot to be small. Be small. Be wind. Be a thought that never quite forms behind an eyelid. And if you see our lost boy, bring me his ribbon or bring me the name of the hand that cut it."
+        }
+    ],
+    "connections": {
+        "previous": [
+            1
+        ],
+        "next": [
+            3
+        ]
+    },
+    "rewards": [
+        "Unmoored trust increase (access to restricted dead drops)",
+        "Countertension charm sewn into cloak hem (+1 chance to resist chain sway mishaps)",
+        "Pressure-vector sketch of the winch core (used in later calculations)",
+        "A faint sense that Rul Fen is watching for more than a collaring; he hesitated"
+    ]
+}

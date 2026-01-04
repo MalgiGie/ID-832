@@ -1,0 +1,37 @@
+{
+    "id": "M1",
+    "title": "When the River Sings Wrong",
+    "quest_giver": "Mara Tidecall (Pilots’ Covenant)",
+    "description": "At dusk, the Luthien wears a scarf of mist and the Chainbridge hums a faint counter-song to the Shard. Barges crowd the River Market under chain-strung awnings, and word runs along the decks that the Chanting Ford sang a sour note at dawn. Mara Tidecall, your old captain, has pulled together a dusk convoy of grain and glass to push upriver before House Kelvar’s toll chains ratchet tighter at midnight. The Pilots’ Covenant fears reedcutters gone bandit and a pattern of near-silent ambushes that leave only cut ropes and a feeling of having been watched. Mara wants you as hard shield and listening ear: escort the convoy, hear the Ford, and tell her whether the river is singing names you recognize or the kind of wrong that ends in candle floats at Riverwake.",
+    "objectives": [
+        "Report to Mara Tidecall at the Pilots’ House by the Chainbridge Piers.",
+        "Escort the dusk convoy through the Chanting Ford and keep towlines clear.",
+        "Drive off toll-bandits masquerading as reedcutters without escalating to blood-feud.",
+        "Listen for changes in the Ford's overlapping tones and record them with your prism-lamp code."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Mara Tidecall",
+            "lines": "You’ve always had an ear for the Ford, Jaryn. It taught you your first river-right, and it never lied to you unless you asked it to rush in spring. Tonight it tasted like copper, and the names ran together like bad ink. I don’t trust a current that hides its voice. Get up there, keep the barges shouldered tight, and tell me if the river’s gone shy or if someone’s stuffed wax in her teeth."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "If the tones smear, it isn’t weather alone. The Shard sang harder before a storm this morning. I felt it in the chainbridge planks. I’ll listen and I’ll keep the hooks ready, but if Kelvar’s boys tighten the tolls while we’re midstream, I’ll be the one to cut their chain free before anyone drowns in numbers or steel. We’ll bring your grain into safe water."
+        },
+        {
+            "speaker": "Rook Salter",
+            "lines": "Word’s that reedcutters have taken to moonlighting as tollmen, and that they cut by feel, not by law. They move like the mist and leave hardly a ripple. I’ll have the flood-bell ready at your call, chief. It’s an ugly song when debt writes the chorus, but no one drowns on my watch if I can help it."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        "Pilots’ Covenant reputation (modest increase).",
+        "Updated prism-lamp convoy codes for fog signaling.",
+        "A pouch of river coin for hazard pay."
+    ]
+}

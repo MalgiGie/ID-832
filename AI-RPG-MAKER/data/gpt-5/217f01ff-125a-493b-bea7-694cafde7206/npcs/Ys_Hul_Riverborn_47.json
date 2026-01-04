@@ -1,0 +1,63 @@
+{
+    "name": "Ys",
+    "surname": "Hul",
+    "race": "Riverborn",
+    "age": 47,
+    "appearance": "Copper-brown skin freckled like river silt, sea-green eyes with a glassy ring, and fingers stained by reed-ink. Wears a mantle woven of bell-strings.",
+    "character": "Serene in council and relentless in cause; speaks in the river plural when pronouncing rites.",
+    "traits": [
+        "compassionate",
+        "principled",
+        "patient",
+        "enigmatic"
+    ],
+    "skills": [
+        "hydromancy",
+        "ritual design",
+        "mediation",
+        "water memory reading",
+        "public procession leadership"
+    ],
+    "talents": [
+        "hears pressure imbalances through stone",
+        "smells bribe-touched water",
+        "calms crowds with the cadence of rain"
+    ],
+    "flaws": [
+        "perceived as anti-city by harbor folk",
+        "self-sacrificing to a fault",
+        "scornful toward profiteers"
+    ],
+    "dreams": [
+        "reconcile river and sea with a rite at the Blue Maw",
+        "seasonally loosen aqueduct gates to feed terraces",
+        "a citywide day of stillness to reset fear"
+    ],
+    "secrets": [
+        "plans to still the Blue Maw for one breath to prove a point",
+        "descended from terrace bell-ringers who once owned drowned granaries",
+        "found evidence of Syndicate bleed-valves but withheld it to avoid riots"
+    ],
+    "relations": [
+        {
+            "npc_name": "Shunn Rippleborne",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sera Flintline",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orven Caldris",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Rae Fen",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Nhal Vessin",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

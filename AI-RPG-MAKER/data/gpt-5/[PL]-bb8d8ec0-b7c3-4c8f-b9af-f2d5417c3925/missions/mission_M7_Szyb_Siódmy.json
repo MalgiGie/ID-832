@@ -1,0 +1,49 @@
+{
+    "id": "M7",
+    "title": "Szyb Siódmy",
+    "quest_giver": "Tira Selenitna",
+    "description": "W Szybach Selenitowych pod Wiatrzecami doszło do zawału. Tira Selenitna, górniczka o dłoniach bielszych od selenitowego pyłu, prosi Eliana o pomoc w wydostaniu uwięzionych. W głębi słychać śpiew lewiatana – krystaliczne serce pulsuje w rytmie przypływu. Plotka mówi, że zaginiony brat Eliana mógł przetrwać, ale tylko dlatego, że skała i piosenka nie pozwoliły mu odejść.",
+    "objectives": [
+        "Spotkaj się z Tirą Selenitną przy wejściu do Szybu Siódmego i odbierz szkic korytarzy.",
+        "Przedrzyj się przez zawał, wykorzystując linkowe strzały i haki groty do stabilizacji stropu.",
+        "Odnajdź uwięzionych górników i ewakuuj ich przez boczny szyb, zanim śpiew selenitu uśpi straże.",
+        "Dotrzyj do komory lewiatana i zbadaj pulsujące serce, szukając śladów brata.",
+        "Zabezpiecz fragment krystalicznej łuski, która może posłużyć do strojenia pryzmatów."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tira Selenitna",
+            "line": "Skała śpiewa, kiedy się boi, i śpiewa, kiedy się rodzi. Dziś śpiewa zbyt głośno, bo ktoś ją zmusza do pracy ponad rytm morza. Pomóż mi wprowadzić ciszę, taką, która jest odpoczynkiem, nie grozą. Twoje strzały z linkami są jak palce, które uczą kamień znów stać prosto."
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Wyciągnę ludzi i wyciągnę prawdę. Jeśli mój brat był tu, to zostawił ślad, który poznam nawet w ciemności. Serce lewiatana bije jak latarnia w mgle – może nas poprowadzić, a może zatracić. Będę słuchał i będę stawiał kroki, jakbym był na Niebomoście w sztorm."
+        },
+        {
+            "speaker": "Legionista Rikel Stalnik",
+            "line": "Nie przyszedłem tu, by wam przeszkadzać. Przyszedłem, bo ktoś z moich zginął przy zawałach, których nie rozumiem. Jeśli znajdziesz dowód, że to nie był los, tylko czyjaś kieszeń pchnęła kamień, pokażesz mi to. Nie obiecam, że uwierzą mi przełożeni, ale obiecam, że nie będę milczał."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Krystaliczna łuska z komory lewiatana – komponent do strojenia pryzmatów."
+        },
+        {
+            "type": "reputation",
+            "description": "Wdzięczność górników i większe bezpieczeństwo w Szybach Selenitowych."
+        },
+        {
+            "type": "access",
+            "description": "Przepustka do strefy głębokich szybów wydana przez Tirę Selenitną."
+        }
+    ]
+}

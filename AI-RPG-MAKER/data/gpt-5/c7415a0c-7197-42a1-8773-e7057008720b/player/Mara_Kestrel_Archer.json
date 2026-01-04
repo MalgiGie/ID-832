@@ -1,0 +1,73 @@
+{
+    "name": "Mara",
+    "surname": "Kestrel",
+    "age": 28,
+    "race": "Human, Tideborn of Dorsalhaven",
+    "appearance": {
+        "description": "Lean and long-limbed, sea-browned skin with windburned cheeks, grey-green eyes that scan like gulls on a current. Hair is dark and salt-matted, braided with bone beads and kelp-silk thread. Wears a waxed reefcloak over rib-lamellar and soft-soled deck boots for silent footing along bone-lace balconies.",
+        "distinctive_signs": "Right ear notched by a chainwheel near-miss; faint phosphor flecks in the irises from years around rime-lanterns; a tattoo of an arrow coiled in a chain along the left forearm, inked at the Market of Teeth."
+    },
+    "class": "Archer",
+    "history": "Raised on the ropewalks beneath Orum’s jaw, Mara learned knots and balance before letters. Her father hauled for the Chainmaster’s Union and taught her to read the pull of tide on iron; her mother tended rime-lanterns until a crucible cough took her during a cold winter, a death Brinelaw logged as accident. Mara apprenticed as a spotter for harbor crews, then shifted aloft to the Sargassum Aerarium with Irio Mossvane, scouting sky-barge approaches and picking lantern-fish from nets with bone-fletched shafts. Lean years and steep tariffs pushed her into the night lanes under the bluffs, where Captain Neth Cowl paid for a keen eye and quiet feet at the Salt Widow’s Lighthouse. Caught once with forged Tideglass passes, she stood at the Oathwell and swore brine to serve three seasons as a convoy outrider under Matron Selka Vire in lieu of gaol. Since then, she has walked the Dorsal Span between factions, mapping the whisper-song of submerged ribs by day, guiding Anchor-Compact trains by dusk, and slipping messages through Market of Teeth awnings to keep wrecker families fed without letting iron scythe the docks again. She believes the city’s song changes when Orum dreams, and her bowstring hums the same note on those nights.",
+    "equipment": [
+        {
+            "name": "Leviathan-bone recurve bow",
+            "description": "A bone-laminate recurve shaped by a sympathetic Bonewright, lacquer-tempered with Tideglass salts; near-silent release and resistant to sea-wet."
+        },
+        {
+            "name": "Quiver of pressure-kelp fletched arrows",
+            "description": "Twenty shafts with mixed heads: barbed for nets, broadheads for fish and ropes, and two moon-iron tips reserved for cutting lines in emergencies."
+        },
+        {
+            "name": "Hooded rime-lantern",
+            "description": "Compact lantern with marrow dampers and a shutter to mask glow from lantern-fish; emits steady winter-light without sputter."
+        },
+        {
+            "name": "Moon-iron belt knife",
+            "description": "Short, corrosion-resilient blade used to free snarled lines or sever bad luck per Hookcutter superstition; carried wrapped to avoid night-blindness."
+        },
+        {
+            "name": "Tideglass compass",
+            "description": "A salt-glass disk etched with rib bearings and shoal marks; steadies in crosswinds and hints at current shift by hairline shimmer."
+        },
+        {
+            "name": "Grapnel and salt-hemp line",
+            "description": "Three-tined hook with thirty cubits of treated line for boarding skiffs, climbing rib arches, or hauling salvage."
+        },
+        {
+            "name": "Waxed reefcloak",
+            "description": "Kelp-wax treated cloak that breaks spray and blends with bone-shadow; hides gear against Brinelaw glances in crowded markets."
+        },
+        {
+            "name": "Oathwell phial",
+            "description": "A thumb-length vial of Oathwell brine worn at the neck; used to seal promises at need and test another’s courage to taste the salt."
+        }
+    ],
+    "main_attributes": {
+        "strength": 11,
+        "agility": 16,
+        "constitution": 13,
+        "intelligence": 14,
+        "wisdom": 12,
+        "charisma": 11,
+        "dexterity": 17,
+        "endurance": 13,
+        "perception": 18,
+        "luck": 9
+    },
+    "soft_skills": [
+        "Tide-reading and current mapping",
+        "Brinelaw etiquette and oathcraft at the Oathwell",
+        "Smuggler’s cant and Market of Teeth streetwise",
+        "Sky-barge rigging and bone-arch traversal"
+    ],
+    "relationships": {
+        "Neth Cowl": "Former shadow-captain and sometime patron; he paid her first for night scouting at the Salt Widow’s Lighthouse. She owes him a favor for a pulled lookout during a Brinelaw sweep, and he expects quiet lanes when Compact convoys squeeze his routes. Trust is pragmatic and strained.",
+        "Selka Vire": "Matron of the Anchor-Compact who sponsored Mara’s probation as a convoy outrider after the forged-pass arrest. Selka sees use in Mara’s maps and aims to bind her with a longer debt-bond; Mara respects the Matron’s steel but resists another chain.",
+        "Irio Mossvane": "Sky-barge navigator from the Sargassum Aerarium and an old friend who once brokered forged Tideglass passes. Irio’s guarded testimony trimmed Mara’s sentence but tied her to the Compact; they still share wind-signs and warnings, though pride and guilt sit between them like a full net."
+    },
+    "ambitions": "Win an independent outrider charter recognized by Brinelaw so she can guide convoys without Compact debt or Brotherhood threats, and complete a rib-song chart that lets ships thread the Whispering Rib Shoals safely even when the tide sings strange.",
+    "flaws": "Brine-oath compulsion that makes refusal difficult once salt is on the tongue; keeps secrets too long, juggling promises past prudence; unease with deep water squeeze after a near-blackout at Fathomfall’s rim.",
+    "dreams": "To hear Orum’s heart for herself and map its rhythm to safe water, to see Dorsalhaven’s chains hold by choice rather than fear, and to bring lantern-light home without the marrow’s sickness.",
+    "secrets": "She ferried a moon-iron cache for the Ribshadow Brotherhood two nights before a Brinelaw sting; her thumbprint is trapped in a seized salt-glass pass that has not yet been matched. Hidden under her bow’s grip is a sliver of coral taken near Nareth that hums on nights when Pilgrims keep vigil, a thing she has not shown to anyone, not even Irio."
+}

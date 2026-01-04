@@ -1,0 +1,66 @@
+{
+    "name": "Ysil",
+    "surname": "Aer",
+    "race": "Human (Breathkeeper)",
+    "age": 61,
+    "appearance": "Gaunt elder with wind-scar lines at the eyes, bone-horn pendants, and pale, watchful gaze.",
+    "character": "Austere, serene, secretive with omens.",
+    "traits": [
+        "devout",
+        "cryptic",
+        "patient",
+        "protective"
+    ],
+    "skills": [
+        "wind-omen reading",
+        "horn array tuning",
+        "ritual law",
+        "pilot blessing"
+    ],
+    "talents": [
+        "recites storm-tones perfectly",
+        "hears false oaths",
+        "endures cold and high wind"
+    ],
+    "flaws": [
+        "secretive",
+        "slow to share warnings",
+        "fatalistic"
+    ],
+    "dreams": [
+        "keep the Seat of the Hollow inviolate",
+        "train a Scale-born successor",
+        "reconcile temple rites with the needs of the poor"
+    ],
+    "secrets": [
+        "hides a prophecy about the Seat being filled",
+        "feeds discreet omens to select Lanterns",
+        "keeps a locked tube for bone-song tuned to a forbidden note"
+    ],
+    "relations": [
+        {
+            "npc_name": "Lerrin Vale",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sorn Ilt",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Thia Mol",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Mira Olt",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sera Dake",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": 10,
+    "title": "The Drowned Star’s Key",
+    "quest_giver": "Alion Mareth",
+    "description": "The Basilica’s submerged chamber opens only for a song known to three priors. After the Night of Knots, Alion believes the drowned saint’s key must be married to the Gate’s hum to prevent catastrophe. He and Serene Khel invite Raithe to descend, ankle-deep in tidewater, into a lacquered blue darkness. Mirror-mosaic reflects a lantern starfield; ribs of stone curve like a whale’s mouth. Below the altar, the shard sleeps. Lady Maris Veyron’s presence hangs like perfume—she has learned of this descent and will arrive with pious entitlement and knives of courtesy. Within the chamber, the starshard answers when Raithe’s bone-chime hums, the key in his ribs matching the altar’s pitch. Some truths cannot be buried without the mud remembering.",
+    "objectives": [
+        "Gain entry to the Basilica’s star chamber by completing the drowned saint’s key song with Alion Mareth.",
+        "Witness and document the shard’s resonance with the Gate Crown’s humming tooth.",
+        "Deter or outmaneuver Lady Maris Veyron’s attempt to claim stewardship or silence the discovery.",
+        "Choose who is entrusted with the knowledge of the dual-shard concord: Mnemos, Conclave, Tidewrights—or a balance of all three."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Alion Mareth",
+            "line": "Breathe with me, Raithe. The city is an organ and we are about to tune its heart. Step carefully; this water has carried vows heavier than ships. When you feel the note in your bone, let it guide your voice, not your pride."
+        },
+        {
+            "speaker": "Maris Veyron",
+            "line": "Ah, the faithful descend into the vault at last and find a treasure already pledged to my house in omission and in rumor. Stewardship is not theft when it is inheritance. Give me the name of this note and I will see the city sing it forever in gratitude."
+        },
+        {
+            "speaker": "Serene Khel",
+            "line": "No house owns a star’s breath. The Mnemos will seal what we witness and release it when it can do the least harm and the most good. Lady Veyron, your claim is poetry; our duty is prose. Raithe, speak as a man who has stood at both ends of the lever."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "line": "I’m done letting secrets choke children. This isn’t a toy for parades or a cudgel for strikes; it’s a pulse. We keep this between Conclave, Mnemos, and Gatewrights—three cords braided, none ruling the rest. You can bring your gratitude to the steps outside with everyone else, Lady."
+        }
+    ],
+    "connections": {
+        "previous": [
+            6,
+            9
+        ],
+        "next": [
+            11
+        ],
+        "related": [
+            1,
+            3
+        ]
+    },
+    "rewards": {
+        "items": [
+            "Blessed tide-marker charm attuned to the shard’s safe resonance window"
+        ],
+        "coin": 0,
+        "faction": {
+            "name": "Tidebound Conclave & Order of Mnemos",
+            "favor": "Joint writ recognizing you as a ‘Warden of the Breath’ in matters of shard safety."
+        },
+        "unlock": [
+            "Right to convene an emergency tri-council between Conclave, Mnemos, and Tidewrights."
+        ]
+    }
+}

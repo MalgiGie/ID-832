@@ -1,0 +1,61 @@
+{
+    "name": "Daru",
+    "surname": "Fenlik",
+    "race": "Human",
+    "age": 45,
+    "appearance": "Saffron-stained cuffs, ledger-scented sleeves, sand-etched spectacles and an ever-ready smile.",
+    "character": "Urbane and affable; opportunistic when the bells sway.",
+    "traits": [
+        "smooth talker",
+        "patient negotiator",
+        "cautious spender"
+    ],
+    "skills": [
+        "spice valuation",
+        "contract law",
+        "bell-timing for auctions",
+        "rumor brokerage"
+    ],
+    "talents": [
+        "counts coin by sound",
+        "smells counterfeit saffron",
+        "reads posture like script"
+    ],
+    "flaws": [
+        "risk-averse in crisis",
+        "dodges blame",
+        "vain about small triumphs"
+    ],
+    "dreams": [
+        "chair the Saffron Exchange",
+        "own a dune orchard behind glass",
+        "turn Weavers debt into reliable votes"
+    ],
+    "secrets": [
+        "funds a star-omen bid-ring that fixes saffron prices",
+        "keeps a private ledger of hush-payments sealed in mothwax",
+        "once skimmed a tithe to finance Quiet Wing repairs"
+    ],
+    "relations": [
+        {
+            "npc_name": "Jalen Sarq",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lysa Curren",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Nelai Pruen",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Ysil Kett",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Kara Dusk",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

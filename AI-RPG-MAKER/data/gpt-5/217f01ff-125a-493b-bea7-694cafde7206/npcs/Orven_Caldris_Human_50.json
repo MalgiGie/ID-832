@@ -1,0 +1,76 @@
+{
+    "name": "Orven",
+    "surname": "Caldris",
+    "race": "Human",
+    "age": 50,
+    "appearance": "Tall, immaculate figure behind a faceted blue veil-mask; gloves of pale kid leather and a voice trained to a precise calm.",
+    "character": "Courteous and cold; never raises his voice, prefers contracts to conversations.",
+    "traits": [
+        "calculating",
+        "patient",
+        "urbane",
+        "secretive"
+    ],
+    "skills": [
+        "contract law and loopholes",
+        "memory palaces",
+        "rhetoric",
+        "market timing via bell-codes",
+        "risk hedging"
+    ],
+    "talents": [
+        "near-perfect recall of spoken agreements",
+        "detects tells in breath and blink",
+        "spins silence into leverage"
+    ],
+    "flaws": [
+        "hubris in his own systems",
+        "emotional detachment",
+        "underestimates public fury",
+        "treats people as paper"
+    ],
+    "dreams": [
+        "own the aqueduct flows outright",
+        "monetize silence as a tradable future",
+        "sell oath-lanterns abroad if panic cracks the Diadem"
+    ],
+    "secrets": [
+        "has a contingency to liquidate oath-lantern assets and flee by bonded fleet",
+        "owes the Night Bazaar a personal hush-debt from his apprentice days",
+        "replaced two silent clerks with lookalikes after a vault whisper leaked"
+    ],
+    "relations": [
+        {
+            "npc_name": "Jath Pell",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Kema Hookhand",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Sera Flintline",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sall Brass",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Nhal Vessin",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Kelen Prism",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Rae Fen",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Dorn Rigger",
+            "relation_type": "Different goals"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Garrin",
+    "surname": "Chainwatch",
+    "race": "Human",
+    "age": 52,
+    "appearance": "Weathered face, gray whiskers, and a toll-warden’s blue sash. Wears a knee brace and carries a tally-board carved with tiny river fish.",
+    "character": "Fair and formal, with a superstitious streak that guides his quiet acts of mercy.",
+    "traits": [
+        "Meticulous",
+        "Fair-minded",
+        "Superstitious",
+        "Cautious"
+    ],
+    "skills": [
+        "Toll tallying",
+        "Crowd management",
+        "Crossbow marksmanship",
+        "Dispute mediation on the span"
+    ],
+    "talents": [
+        "Senses when crowds turn tense",
+        "Remembers names and debts of regulars",
+        "Hears when a chain sings wrong"
+    ],
+    "flaws": [
+        "Arthritic knee",
+        "Risk-averse",
+        "Overreliance on omens"
+    ],
+    "dreams": [
+        "Keep the Chainbridge safe to the end of his service",
+        "See his daughter study at the Collegium",
+        "Retire to a quiet barge home upriver"
+    ],
+    "secrets": [
+        "Knows the mid-span cavity hosts illicit parley and keeps his own neutral ledger of attendees",
+        "Accepted union bread during a forbidden strike and hid the donor"
+    ],
+    "relations": [
+        {
+            "npc_name": "Lysa Shardhands",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thane Kelvar",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ina Peppercoal",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Rook Salter",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sava Inkweft",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

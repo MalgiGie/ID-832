@@ -1,0 +1,56 @@
+{
+    "name": "Maela",
+    "surname": "Vint",
+    "race": "Human",
+    "age": 32,
+    "appearance": "Clean-handed despite blood work; sharp eyes; hair in a tight bun; apron scented of mint and iron.",
+    "character": "Direct, compassionate, and unsentimental.",
+    "traits": [
+        "Efficient",
+        "Kind",
+        "Blunt",
+        "Resilient"
+    ],
+    "skills": [
+        "Surgery",
+        "Triage",
+        "Herbal compounding",
+        "Anatomy"
+    ],
+    "talents": [
+        "Steady hands in turbulence",
+        "Detects infections early",
+        "Soothing bedside voice"
+    ],
+    "flaws": [
+        "Workaholic",
+        "Impatient with superstition",
+        "Hides emotions"
+    ],
+    "dreams": [
+        "Establish a flying clinic for skyport crews",
+        "Train free medics from lift-orphans"
+    ],
+    "secrets": [
+        "Maintains an unlicensed chill-cellar for cadaver study",
+        "Supplies sterile oil to Dorel Glassant off the books"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ayo Solace",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Dorel Glassant",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Varo Pell",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Lune Arikara",
+            "relation_type": "Friendship"
+        }
+    ]
+}

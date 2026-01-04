@@ -1,0 +1,66 @@
+{
+    "name": "Avar",
+    "surname": "Ir",
+    "race": "Human",
+    "age": 45,
+    "appearance": "Heat-scarred forearms, glass-shard earrings, ash-red scarf; eyes glitter like annealed bead glass.",
+    "character": "Ambitious and charismatic, with a temper like a kiln door.",
+    "traits": [
+        "flamboyant",
+        "driven",
+        "generous to loyalists",
+        "vindictive to rivals"
+    ],
+    "skills": [
+        "kiln mastery",
+        "finance",
+        "labor organizing",
+        "star-glass annealing"
+    ],
+    "talents": [
+        "reads kiln temperature by skin",
+        "rallies crews with fiery speeches"
+    ],
+    "flaws": [
+        "prideful",
+        "reckless shortcuts",
+        "bends safety rules",
+        "habitual briber"
+    ],
+    "dreams": [
+        "build a tower of singing glass to mark the city’s truth",
+        "monopolize ash supplies",
+        "outcompete foreign glass imports"
+    ],
+    "secrets": [
+        "Operates a hidden furnace producing lie-singing panes used for blackmail",
+        "Hoarded shardfield star-glass against Council quotas",
+        "Paid saboteurs to disrupt a rival kiln and framed zealots"
+    ],
+    "relations": [
+        {
+            "npc_name": "Edris Thale",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Jull Nerr",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Brunna Coil",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Tamsin Veil",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Safra Ninebridges",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Marek Sol",
+            "relation_type": "Conflict"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Lima",
+    "surname": "Fal",
+    "race": "człowiek",
+    "age": 39,
+    "appearance": "Szaty w spiralne wzory, srebrzysty naszyjnik Wiru; włosy wilgotne jak po mżawce; spojrzenie spokojne i przenikliwe.",
+    "character": "Empatyczna, surowa w zasadach, urodzona mediatorka; woli mosty słów niż miecz.",
+    "traits": [
+        "spokojna",
+        "pobożna",
+        "sprawiedliwa",
+        "rozważna",
+        "lojalna wobec wspólnoty"
+    ],
+    "skills": [
+        "mediacja",
+        "rytuały pływów",
+        "czytanie map prądów",
+        "kaznodziejstwo",
+        "arbitraż wodny"
+    ],
+    "talents": [
+        "kojący głos",
+        "pamięta pieśni jakby wczoraj je ułożono",
+        "wyczuwa godzinę przypływu bez zegara"
+    ],
+    "flaws": [
+        "skłonna do tajemnic",
+        "samoobwiniająca się",
+        "ma trudność z odmawianiem sprzymierzeńcom"
+    ],
+    "dreams": [
+        "uspokoić to, co śpi w selenicie",
+        "utrzymać neutralność świątyni",
+        "pogodzić cechy i domy kupieckie"
+    ],
+    "secrets": [
+        "ukryte listy z przewodniczącym Konfederacji o funduszach za poparcie moratorium",
+        "przetrzymuje laskę Ankoryty poza inwentarzem kaplicy"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orla Krawężna",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Delerion Ognikowy",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Serad Głaz",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Vasko Danter",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Neris Winnafala",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Eldan Zmierzchowy",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

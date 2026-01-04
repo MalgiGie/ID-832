@@ -1,0 +1,66 @@
+{
+    "name": "Kade",
+    "surname": "Orrel",
+    "age": 29,
+    "race": "Human",
+    "appearance": {
+        "description": "Broad-shouldered and canal-hardened, with sun-browned skin and saffron-bleached hair tied back in a pilot’s knot. Wears a fitted lamellar of singing-glass plates under a canvas storm cloak. Eyes the amber green of the Shardmere shallows.",
+        "distinctive_signs": "Old rope-burn coils his forearms; a shard of clear glass is set in his left ear and glows faintly in mothlight; a memorial knot of red-and-ash cord is tied permanently around his right wrist."
+    },
+    "class": "WARRIOR",
+    "history": "Born in Molden Quays to a family of Salted Compact rope-slingers, Kade learned knots before letters and the drum-calls before prayers. He grew up under the shadow of the Red Flood’s memorial rope and swore at fourteen never to let a gate take another friend. Drafted as a quay-guard and later trained at Windward Bastion under Sergeant Aren Mir, he became a boarding-shield on sky-skiffs and flood boats, escorting writs from the Hall of Lanterns and pilgrims of the Order of Moths alike. During a fog-thick turnover at the Tide-Engine House, Kade hauled a drowning Tidewright surveyor, Tomas Helwin, out of the thief’s gate whirl, and in the aftermath glimpsed diagrams of a hidden bypass that could drain Thyssara’s basins dry. When strikes pinched the quays and families went hungry, Jalen Sarq of the Smoulder Veil hired Kade to guard a sootglass run around the Obsidian Fen; he took the coin to keep food on his mother’s table and has hated the scent of burned tar ever since. After the Moth Ascension cocooned the Prism Spire, the Order contracted Kade to shield an echo-gathering at the Starfall Scar. There, in the bowl of fused night, an echo spoke his name backward and kept it. Now Kade walks a knife-edge between bells and smoke: too lawful for the Veil, too blunt for the Court, loyal to pilots, and sworn to keep the gates honest even if it means breaking ranks with old allies.",
+    "equipment": [
+        {
+            "name": "Glass-reed Sabre",
+            "description": "A curved reedblade forged from Shardmere glass threads quenched in mothwax. It sings low when drawn and can shiver other glass if struck true."
+        },
+        {
+            "name": "Singing-Glass Lamellar",
+            "description": "Layered plates woven at the Glass Hall of Weavers; hums on impact to disperse force. Painted dull to avoid catching signal light."
+        },
+        {
+            "name": "Pilot’s Rope and Knot Kit",
+            "description": "Thirty fathoms of treated cord with iron hooks and a roll of buoy-stones for votes and messages. Knots double as binding, climbing, and signals."
+        },
+        {
+            "name": "Lantern Court Writ-Token",
+            "description": "A stamped brass medallion permitting him to serve as licensed escort for civic documents, grudgingly renewed after every inquiry."
+        },
+        {
+            "name": "Mothwax-Sealed Memory Jar",
+            "description": "A thumb-sized vial from the House of Quiet Wings holding a soot-black mothscale and a whisper of courage saved from the Scar."
+        },
+        {
+            "name": "Boarding Hook",
+            "description": "Ashwood haft with a tempered iron beak used for skiff landings, canal grapples, and pulling drowning folk to hand."
+        }
+    ],
+    "main_attributes": {
+        "strength": 7,
+        "agility": 6,
+        "constitution": 7,
+        "intelligence": 5,
+        "wisdom": 6,
+        "charisma": 5,
+        "dexterity": 6,
+        "endurance": 8,
+        "perception": 7,
+        "luck": 4
+    },
+    "soft_skills": [
+        "Quay diplomacy and union etiquette",
+        "Reading signal-banners and drumlines",
+        "Tide schedule literacy and risk assessment"
+    ],
+    "relationships": {
+        "Tomas Helwin": "Childhood friend turned Tidewright surveyor at the Tide-Engine House; Kade saved his life during a fog turnover and Tomas later slipped him a sketch hinting at the hidden bypass valve.",
+        "Jalen Sarq": "Smoulder Veil broker who once hired Kade to guard a sootglass run through the Obsidian Fen; an uneasy ally who keeps quiet about Kade’s involvement and leverages debts.",
+        "Aren Mir": "Warden sergeant at Windward Bastion and Kade’s former trainer; mentor who still calls on him for difficult escorts, torn between duty and loyalty.",
+        "Captain Aramus Dene": "Master of Wardens who respects Kade’s grit but distrusts his Veil ties; offered reinstatement if Kade cuts all underquay favors.",
+        "Magistrate Vela Orun": "Chief of the Lantern Court who occasionally grants Kade writs as a deniable blade; testing whether he will bring the bypass secret to law or to the street."
+    },
+    "ambitions": "Expose and neutralize the Tide-Engine’s hidden bypass without letting the Tidewrights bury the truth, broker a lawful night-dock charter that feeds pilots without ceding it to the Smoulder Veil, and earn the right to parley with the Reedmother so Thyssara’s nights no longer run on fear.",
+    "flaws": "Stubbornly loyal to friends over statutes, prone to charge when families are threatened, sleeps poorly after Scar echoes, and grows short-tempered in bricked tunnels and crowded courts.",
+    "dreams": "To captain a sky-skiff across the Skybridge ruins by starlight, hear the Prism Spire sing a calm note over the canals, and found a free pilot school where no child learns knots from a memorial rope.",
+    "secrets": "At the Starfall Scar he spoke his true name so an echo would forget a child’s; now he believes the Scar keeps it until his last day. He also holds a stolen lock-key from the Ropes and Knots Hall stash and once let a Veil runner’s death be recorded as a canal slip to keep a strike from breaking."
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Edda",
+    "surname": "Tarn",
+    "race": "glassborn",
+    "age": 24,
+    "appearance": "Frosted-glass skin with ink-flecked cheeks and careful hands. Wears Archive greys and a thread counter on her thumb.",
+    "character": "Meticulous and anxious, with a heart that wants to do right and a ledger that keeps complicating it.",
+    "traits": [
+        "stammers under pressure",
+        "counts steps between stacks",
+        "keeps a secret index in her head",
+        "collects lost page corners"
+    ],
+    "skills": [
+        "cataloging bone slates",
+        "index singing",
+        "cross-referencing lineage threads",
+        "quiet reading of echo margins"
+    ],
+    "talents": [
+        "navigates by whisper-lines alone",
+        "near-eidetic shelf memory"
+    ],
+    "flaws": [
+        "risk-averse",
+        "easily guilted",
+        "avoids eye contact when lying"
+    ],
+    "dreams": [
+        "Free the erased-names shelf from political edits",
+        "Curate a public memory exhibit about the Sunderspark War"
+    ],
+    "secrets": [
+        "Swapped a page for the Night-Glass to cover a family debt",
+        "Knows an echo-pipe that bypasses court halls to a private chamber"
+    ],
+    "relations": [
+        {
+            "npc_name": "The Nameskeeper",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Pera Thass",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Isha Velroon",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Nyssar Fenquill",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

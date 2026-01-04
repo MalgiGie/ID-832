@@ -1,0 +1,57 @@
+{
+    "id": "M7",
+    "title": "The River Sings Arguments",
+    "quest_giver": "Pellar Nine-Poles",
+    "description": "The Drowned Theater fills its floating stage with lanterns and wagers. A public performance will sway the city’s heart faster than a docket can, and Pellar Nine-Poles wants the river to hear the Oath of Flow as a ballad people can hum without choking. House Thalen funds the stage, the Rafter’s League supplies the chorus, and rumor says a siren choir will test how far song can loosen lashings. If vows can be softened by melody, they can be hardened with harmony. Your mirror-plate and chime-plate together might turn the night to your favor.\nBackstage smells of oiled wood and nerves. You place resonant dampeners in the beams while Lady Seska Thalen primes actors with lines sharpened to pierce pride. The audience is a jury that pays in applause and rumor. If the Embersleeve plan to slip their tone into the Loom, they may rehearse on this stage first.",
+    "objectives": [
+        "Coordinate with Pellar Nine-Poles to develop a pro-Oath set list that speaks to bread, water, and fairness",
+        "Plant resonant dampeners rigged to your chime-plate to counter vow-loosening tones",
+        "Confront a siren chorister attempting to smuggle a blackglass sliver beneath the stage",
+        "Deliver a short speech in character to frame the Oath as a shared victory",
+        "Monitor audience sentiment and capture two public witnesses for the upcoming hearing"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Pellar Nine-Poles",
+            "text": "People love a tune more than a clause, Lio. Give them a chorus they can shout on the way home and they’ll forgive their own hunger long enough to think kindly of the hands that feed them. But don’t you dare lie to them with pretty words. If we promise water and give them sand, they’ll drown us in it and be right to do so."
+        },
+        {
+            "speaker": "Lady Seska Thalen",
+            "text": "The stage is a ledger, and the lines are debts we collect in cheers. I will sell your Oath as hope without gilding it into something brittle. If you hear a tone trying to untie the knots in our script, cut it. My family has lost enough beauty to sabotage dressed as art."
+        },
+        {
+            "speaker": "Siren Chorister",
+            "text": "You would bind a city tighter and call it mercy. My sisters sing to loosen what strangles. If a vow cannot stand to hear a true voice, perhaps it should not be bound. Step aside, little oath-thief, or I will teach you what the river says to those who make promises in its name without asking permission."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "Every binding is a handclasp; it stops being good when fingers turn to claws. This Oath loosens claws and teaches palms again. Sing with us and you’ll hear that we’ve written kindness into the chorus. Sing against us and I’ll lay a counter-tone under your feet that makes your own song trip on its hem."
+        },
+        {
+            "speaker": "Audience Elder",
+            "text": "I’ve heard a hundred speeches and forgotten a hundred and one. But I will remember this: they promised to share the keys and slow the wheels on holy days. If that’s true, then I will stand as witness when the plates are brought, and I will point at liars from the front row until my voice goes to bone."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ],
+        "related_locations": [
+            "The Drowned Theater"
+        ],
+        "factions_involved": [
+            "Rafter's League",
+            "House Thalen",
+            "Embersleeve",
+            "Order of the Basalt Arch"
+        ]
+    },
+    "rewards": [
+        "Two public witnesses’ pledges recorded by an Archivist scribe",
+        "Performance goodwill (city sentiment shift toward the Oath)",
+        "Access to backstage tunnels linked to a culvert"
+    ]
+}

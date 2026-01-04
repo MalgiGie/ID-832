@@ -1,0 +1,57 @@
+{
+    "name": "Suri",
+    "surname": "Yal",
+    "race": "Human",
+    "age": 29,
+    "appearance": "Slight, grease-stained coveralls, star-metal wrench tucked at belt; hair singed short, sleeves patched with kiln cloth.",
+    "character": "Inventive and earnest, blunt to a fault.",
+    "traits": [
+        "curious",
+        "loyal",
+        "impatient with ritual",
+        "pragmatic"
+    ],
+    "skills": [
+        "mechanical engineering",
+        "bearing replacement",
+        "gate calculus",
+        "climbing"
+    ],
+    "talents": [
+        "improvises fixes with scrap",
+        "navigates underways by touch and draught"
+    ],
+    "flaws": [
+        "speaks out of turn",
+        "risk-prone",
+        "politically tone-deaf"
+    ],
+    "dreams": [
+        "design a silent, low-ash gate system",
+        "publish a practical manual for apprentices",
+        "win the Riverwarden pressure-reading championship"
+    ],
+    "secrets": [
+        "Forged a pressure log to cover for a mentor's mistake",
+        "Tested a bearing quenched with contraband star-glass coolant",
+        "Leaked maintenance windows to a Grey Lantern contact to trap dead-pulleys"
+    ],
+    "relations": [
+        {
+            "npc_name": "Jull Nerr",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sereth Vex",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Nalai Thread",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Lysa Truin",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

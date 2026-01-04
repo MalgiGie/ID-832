@@ -1,0 +1,67 @@
+{
+    "name": "Sera",
+    "surname": "Dake",
+    "race": "Human (Bonewright)",
+    "age": 52,
+    "appearance": "Tall, wiry woman with salt-laced braids, ceramic dust on her cuffs, and a bone-etched measuring staff at her hip.",
+    "character": "Pragmatic, oath-bound, patient and unyielding about safety.",
+    "traits": [
+        "oath-bound",
+        "methodical",
+        "protective",
+        "ever-calm"
+    ],
+    "skills": [
+        "bone-ceramic engineering",
+        "structural inspection",
+        "oath-rite procedure",
+        "budget wrangling"
+    ],
+    "talents": [
+        "hears micro-tones in bone-song",
+        "eidetic spatial memory",
+        "steady hands under gale"
+    ],
+    "flaws": [
+        "obstinate",
+        "risk-averse",
+        "aloof",
+        "holds grudges"
+    ],
+    "dreams": [
+        "stabilize a new rib-deck without extra tolls",
+        "prove resonant tiles can save lives",
+        "end the tariff war peacefully"
+    ],
+    "secrets": [
+        "authorized a hidden stash of contraband timber to keep kilns alive",
+        "tested a resonant tile on a closed night that cracked a railing",
+        "keeps a private ledger of bribes offered by merchants"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Lerrin Vale",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Ysil Aer",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Gor Relk",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Sorn Ilt",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Roa Mestri",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

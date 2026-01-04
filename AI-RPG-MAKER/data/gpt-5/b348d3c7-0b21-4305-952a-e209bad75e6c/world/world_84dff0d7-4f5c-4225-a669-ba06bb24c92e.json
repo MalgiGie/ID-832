@@ -1,0 +1,848 @@
+{
+    "city": "Avarinth, the Hinge of Rivers, straddles three low granite isles where the River Sel breaks into a silver delta. The city is cinched by monumental tide-gates called the Hinges, iron-boned structures whose counterweights rise like ribs above the canals. At dusk, a thousand brass lanterns paint the mist in honey-colored halos, and the air smells of brine, saffron, and hot pitch from the boatyards. Bridges creak with the weight of market stalls; rooflines bristle with message-poles and weather-vanes carved as fish, knives, and crescent moons.\n\nAvarinth is an engine of water and light. Its architects favor buoyant terraces and floodwise arcades, with stonework etched in wave glyphs and inlaid with slivers of mirrorglass. The city’s wealth flows through four crafts: tidewrighting (the precise art of taming currents), dye-lore (saffron, ochres, and moon-bitten pigments), optical alchemy (mirrorglass, lenses, and signal lanterns), and river trade (grain, basalt, amber, and ash). Inkroot, a marsh-grown tuber, is pulped into long-lived parchment, and Avarinth’s ledgers are famous for outliving the fortunes they record.\n\nGovernment is a contest of lamps. The Lantern Parliament sits in a hall whose ceiling is a forest of chains from which hang ward-lamps and guild-lamps. When a vote is called, each faction lights its lamp with a tinctured flame, so the color of Avarinth’s law can be read from the street. The Parliament’s writ is tempered by the great guilds, whose contracts bind as tightly as any edict. Judges read not only statute but the knots in sanctified cords at the Basilica of Knotted Light, where oaths are literally tied and kept.\n\nAvarinth was founded by refugees who fled the Shattered Weir of Sel three centuries ago, when the old river-dam broke like a jaw and drowned the upstream cities. The First Hinge was raised from scavenged stone and the rumored ribs of a river-drake that washed ashore; whether beast or machine, its bones still hum when storms roll in. The city survived the Night of the Unmoored, when a sabotage of the hinges loosed a black tide into the lower wards, and the Lantern Schism, when the Basilica’s Fifth Knot denounced the Parliament and was exiled to the Pilgrim’s Stair.\n\nToday Avarinth thrives but leans on its margins. Silt is choking the northern channels, ash-fogs descend more often from the Ash-Veil Caldera, and whispers say glasswraiths prowl the Mirrorglass Conservatory’s oldest vaults. The Tidewrights’ Syndicate claims sovereignty over all hinges and canals, but the River-Marrows Guild runs the docks and knows every backwater. Merchants of the Saffron and Ochre Compact quietly buy lantern-seats one flame at a time. The Rookery of Whisper-Brokers owns the air above the city as surely as any guild owns stone. Avarinth’s light is bright, but bright light casts knife-sharp shadows.",
+    "surroundings": [
+        {
+            "name": "Glass Spine Ridge",
+            "distance_days": 2,
+            "direction": "northeast",
+            "description": "A serrated ridge of milk-quartz and obsidian shards thrusts from the earth like a broken comb, its facets catching dawn light until the whole spine glows. Wind along the ridge keens as if through a flute, and at night the shards ring with a thin, cold music.",
+            "legend": "When the sky-serpent Ilura fell in a storm of mirrors, her spine shattered across this ridge. The largest shard, the Mother Lens, is said to reveal not the future but the choice that would most break your heart.",
+            "resources": [
+                "mirrorglass-grade quartz",
+                "obsidian flakes",
+                "storm-harvested lightning glass"
+            ],
+            "hazards": [
+                "blade-winds that can flense skin",
+                "mirror-lurkers drawn to reflections",
+                "rockfalls triggered by singing stones"
+            ],
+            "dependencies": [
+                "Mirrorglass Conservatory depends on ridge quartz for its finest lenses",
+                "Rookery uses polished shards as long-range signal panels"
+            ],
+            "factions_interested": [
+                "Mirrorglass Collegium",
+                "Rookery of Whisper-Brokers",
+                "Ashen Wardens"
+            ],
+            "rumors": [
+                "A vein of living glass slithers beneath the ridge, moving a finger-width each full moon",
+                "A Parliament envoy traded their true name to the Mother Lens to win a vote"
+            ],
+            "hooks": [
+                "Recover a stolen focusing prism before the Collegium’s equinox exhibition",
+                "Silence the ridge’s midnight music before it cracks the Lantern Parliament’s stained vaults"
+            ]
+        },
+        {
+            "name": "Amber Fen",
+            "distance_days": 1,
+            "direction": "southwest",
+            "description": "A resin-soaked bog where cypress knees root in honeyed pools. Insects and even small birds hang in translucent amber bulbs the size of skulls. Reed-choked channels thread the fen, whispering as if they remember other voices.",
+            "legend": "The Fen remembers. Ancient songs are trapped in the amber along with flies and bones. Those who warm a lump against the skin hear verses of an empire that promised to never end and then did.",
+            "resources": [
+                "amber for jewelry and ritual sealants",
+                "peat for kilns",
+                "inkroot patches for parchment"
+            ],
+            "hazards": [
+                "sudden sink-pools masked by leaf-scum",
+                "fen-wraiths shaped from reed and fog",
+                "amber fever that induces nostalgic hallucinations"
+            ],
+            "dependencies": [
+                "Basilica of Knotted Light uses fen-amber to seal oath knots",
+                "Inkroot Archives sources high-grade inkroot from guarded plots"
+            ],
+            "factions_interested": [
+                "Order of Knotted Light",
+                "Inkroot Archivists",
+                "Saffron and Ochre Compact"
+            ],
+            "rumors": [
+                "A single amber bulb holds the throat of Avarinth’s first Speaker of Lamps",
+                "Fen-wraiths can be bargained with if you sing the right verse backward"
+            ],
+            "hooks": [
+                "Escort a procession harvesting consecration amber during the fog-tide",
+                "Find the reed-flute that calls the fen-wraiths off the trade canal"
+            ]
+        },
+        {
+            "name": "Sunken Archive of Thren",
+            "distance_days": 3,
+            "direction": "north",
+            "description": "Beneath a blackwater lake lie marble stacks and drowned reading-rooms, their ceilings furred with algae and silvered fish. Stone librarians the size of oxen still patrol slow corridors, lanterns cold but eyes bright with patient duty.",
+            "legend": "The Archive sank in a single night when its curators tried to bottle a storm. The bottled wind escaped and hollowed the earth beneath them. They say the books still breathe, drawing water in and out through kelp-leather covers.",
+            "resources": [
+                "waterproof vellum etched with breathing runes",
+                "lost treatises on hinge-craft and flood-law",
+                "labradorite tiles that glow when truth is spoken"
+            ],
+            "hazards": [
+                "pressure tides that can pin divers to ceilings",
+                "jealous library-constructs enforcing unread laws",
+                "ink eels attracted to bleeding wounds"
+            ],
+            "dependencies": [
+                "Inkroot Archives commissions salvage dives for flood-law precedent",
+                "Tidewrights’ Syndicate seeks lost hinge diagrams rumored in the western stacks"
+            ],
+            "factions_interested": [
+                "Inkroot Archivists",
+                "Tidewrights’ Syndicate",
+                "River-Marrows Guild"
+            ],
+            "rumors": [
+                "A Parliament amnesty writ lies sealed in a pearl-crusted reliquary on the lowest floor",
+                "One of the stone librarians remembers the true chords that wake a Hinge"
+            ],
+            "hooks": [
+                "Negotiate with a stone librarian for passage to the banned-shelf vault",
+                "Close a rift where bottled wind still hisses, drawing boats into the lake like moths"
+            ]
+        },
+        {
+            "name": "Pilgrim’s Stair",
+            "distance_days": 1,
+            "direction": "east",
+            "description": "A switchback stair carved into a sea-cliff, slick with spray and crowded with prayer-niches. Midway, a spring burbles from a lion’s mouth, feeding cisterns that never run dry. On high feast nights, the stair is a river of candles.",
+            "legend": "Lights tied at the Stair answer questions if you ask them in tide-order: low, slack, high, slack. The Fifth Knot of the Basilica keeps vigil here, exiled until the lamps forgive them.",
+            "resources": [
+                "sanctified springwater",
+                "salt cakes used in oath-binding",
+                "limestone blocks etched with warding knots"
+            ],
+            "hazards": [
+                "wave backwash that can sweep pilgrims away",
+                "zealots policing questions deemed improper",
+                "slick algae making the sharpest turns deadly"
+            ],
+            "dependencies": [
+                "Basilica of Knotted Light draws holy water from the Stair",
+                "River-Marrows Guild maintains cliff-cobbles for safe passage"
+            ],
+            "factions_interested": [
+                "Order of Knotted Light",
+                "River-Marrows Guild",
+                "Lantern Parliament"
+            ],
+            "rumors": [
+                "The Stair’s spring bubbles where a saint’s tears cracked the cliff",
+                "A hidden landing halfway down shelters smugglers under a shrine"
+            ],
+            "hooks": [
+                "Guard the Fifth Knot during a nocturnal reconciliation rite",
+                "Investigate vanished salt carts destined for the Basilica"
+            ]
+        },
+        {
+            "name": "Ash-Veil Caldera",
+            "distance_days": 4,
+            "direction": "southeast",
+            "description": "A slumped volcanic bowl where ash hangs in veils that drift as if alive. Basalt flows form organ-pipes along the rim, and pumice fields crunch like bone underfoot. Sometimes the ash whispers back when spoken to.",
+            "legend": "The caldera’s ash remembers shapes. Old miners swear they have seen the faces of the lost walking the veils, guiding or misleading the living according to debts unpaid.",
+            "resources": [
+                "dense basalt for hinge foundations",
+                "pumice for polishing optics",
+                "obsidian cores for ritual blades"
+            ],
+            "hazards": [
+                "ash-choked gullies that smother the unmasked",
+                "ash drakes nesting beneath warm vents",
+                "sudden glass-ice forming on exposed skin"
+            ],
+            "dependencies": [
+                "Tide-Hinge Bastion was rebuilt with caldera basalt after the Night of the Unmoored",
+                "Ashen Wardens supply pumice to the Mirrorglass Conservatory"
+            ],
+            "factions_interested": [
+                "Ashen Wardens",
+                "Tidewrights’ Syndicate",
+                "Mirrorglass Collegium"
+            ],
+            "rumors": [
+                "A vein of star-iron lies beneath a singing vent guarded by ash drakes",
+                "Ash veils can preserve a heartbeat forever if breathed at the right moment"
+            ],
+            "hooks": [
+                "Broker peace between Wardens and drake-tamers competing for the warm vents",
+                "Escort a basalt caravan through an ash-squall that erases tracks and time"
+            ]
+        },
+        {
+            "name": "Moonfallen Orchard",
+            "distance_days": 2,
+            "direction": "northwest",
+            "description": "An orchard grown around a shallow crater where a moon-shard once struck. The fruit glows faintly at night; sap runs like quicksilver, and moths gather thick as lace. During the new moon, the trees lean closer to hear whispers.",
+            "legend": "The moon is said to have left a heartbeat here. Those who drink the sap on an eclipse hear their future lovers say goodbye.",
+            "resources": [
+                "lumenfruit for night-dyes",
+                "moon-resin used in lantern-flames and oath-cords",
+                "silverleaf for calming teas"
+            ],
+            "hazards": [
+                "moth swarms that smother and steal breath",
+                "lunar vertigo that makes travel feel sideways",
+                "orchard-keepers who tithe blood for the trees"
+            ],
+            "dependencies": [
+                "Basilica of Knotted Light blends moon-resin into its knotted flames",
+                "Saffron and Ochre Compact refines lumenfruit into premium night-dyes"
+            ],
+            "factions_interested": [
+                "Order of Knotted Light",
+                "Saffron and Ochre Compact",
+                "Rookery of Whisper-Brokers"
+            ],
+            "rumors": [
+                "A second moon-stone lies buried beneath the oldest root and calls to thieves in their sleep",
+                "Lantern Parliamentors court in the orchard because the trees swear secrecy"
+            ],
+            "hooks": [
+                "Convince the orchard-keepers to sell resin during an eclipse truce",
+                "Hunt a moth-queen whose brood has dimmed the ward-lamps in Lowwater"
+            ]
+        },
+        {
+            "name": "Shattered Weir of Sel",
+            "distance_days": 3,
+            "direction": "upstream",
+            "description": "Crumbling cyclopean blocks and twisted spillways rise from the river like the jawbones of a giant. Between the teeth, turbulent channels snarl and suck, and iron rings big as wagon-wheels bite into stone slick with moss.",
+            "legend": "They say a bound river-titan tried to swallow the sea and choked on its chains, breaking the old weir. In stormlight, some claim to see its tongue writhing beneath the foam.",
+            "resources": [
+                "ancient chain-links of pre-fall iron",
+                "blueprints etched in waterproof slate sealed in weir-throats",
+                "rare eddies perfect for training hinge-craft"
+            ],
+            "hazards": [
+                "undertows that invert boats",
+                "chain-ghouls hunting by vibration",
+                "sudden drawdowns when the river remembers the old gates"
+            ],
+            "dependencies": [
+                "Tidewrights’ Syndicate tests apprentice crews in the Weir’s eddies",
+                "River-Marrows salvage iron and slate for Avarinth’s forges"
+            ],
+            "factions_interested": [
+                "Tidewrights’ Syndicate",
+                "River-Marrows Guild",
+                "Lantern Parliament"
+            ],
+            "rumors": [
+                "A hinge-song etched in slate can wake a sleeping gate anywhere on the Sel",
+                "A Parliamentor’s heir vanished while walking the Weir at low storm"
+            ],
+            "hooks": [
+                "Map a safe salvage route through a newly opened weir-throat",
+                "Prove or debunk the rumor that the Weir still has a living heart"
+            ]
+        }
+    ],
+    "buildings": [
+        {
+            "name": "Tide-Hinge Bastion",
+            "type": "infrastructure and fortress",
+            "ward": "Chainreach",
+            "description": "A cathedral of hydraulics where counterweight towers flank an arched spillway. Brass walkways hang over roaring water, and great teeth of basalt slot down to tame the tide. Signal lanterns line the gantries, flaring green, blue, and saffron as crews call the dance of opening and closure.",
+            "history": "Raised upon the bones of the First Hinge; rebuilt in basalt after the Night of the Unmoored. Its oldest foundations vibrate with a resonance that resonates with storms.",
+            "secrets": [
+                "A sealed flood-culvert opens directly into the Parliament’s private canal",
+                "Basalt pylons are hollow and hold low-oxygen vaults used to store embargoed cargo"
+            ],
+            "factions": [
+                "Tidewrights’ Syndicate",
+                "Ashen Wardens",
+                "Lantern Parliament"
+            ],
+            "dependencies": [
+                "Relies on basalt from Ash-Veil Caldera and chainwork forged of pre-fall iron salvaged at the Shattered Weir of Sel",
+                "Reads water with lenses ground at the Mirrorglass Conservatory"
+            ],
+            "notable_figures": [
+                "Syndic Orren Halv, Master of Sluices",
+                "Gantrix Pell, Signal-Mistress with a perfect ear for hinge-song"
+            ],
+            "conflicts": [
+                "Jurisdictional struggle with the River-Marrows over emergency closures",
+                "Sabotage attempts by smugglers who prefer flood-chaos to inspections"
+            ],
+            "hooks": [
+                "A hinge-tooth refuses to rise, humming in a way only a moon-flame can answer",
+                "A ghost-flood rehearses itself each dusk; find the echo that plays it"
+            ]
+        },
+        {
+            "name": "Hall of Many Lamps",
+            "type": "parliament",
+            "ward": "Highlight",
+            "description": "A vaulted hall whose ceiling vanishes behind a hanging forest of lamps. Floors are inlaid with river-stone maps, and galleries smell of oil and saffron wax. Voices rise and fall like tides as clerks carry mirrored trays to capture official flames.",
+            "history": "Founded after the First Hinge; briefly shuttered during the Lantern Schism when the Fifth Knot denounced its proceedings.",
+            "secrets": [
+                "A mirror-lined listening passage runs behind the west gallery for the Rookery’s use",
+                "A crate of vote-lamps is filled with moon-resin fakes that burn backward"
+            ],
+            "factions": [
+                "Lantern Parliament",
+                "Saffron and Ochre Compact",
+                "Rookery of Whisper-Brokers",
+                "Order of Knotted Light"
+            ],
+            "dependencies": [
+                "Votes certified by knots from the Basilica of Knotted Light",
+                "Security coordinated with Tide-Hinge Bastion signal crews during crisis votes"
+            ],
+            "notable_figures": [
+                "Speaker of Lamps Talo Ren",
+                "Clerk-Marshal Ista Brine"
+            ],
+            "conflicts": [
+                "Ongoing bribery scandal involving dye futures and night-lamps",
+                "Dispute over who may carry flame into session: guilds or wards"
+            ],
+            "hooks": [
+                "Prevent a forged moon-flame from deciding a flood-tax",
+                "Expose the mirror-passage without collapsing talks with the Rookery"
+            ]
+        },
+        {
+            "name": "Basilica of Knotted Light",
+            "type": "temple and oath-house",
+            "ward": "Cordmarket",
+            "description": "A ring of pale stone halls encircling a central well of lamps. Candles burn with differently tinctured flames: brine-blue for debts, saffron-gold for marriages, pearl-white for reconciliations. Priests weave corded knots that hold promises until untied.",
+            "history": "Raised around a lantern said to have burned since the founding. The Fifth Knot was exiled to Pilgrim’s Stair after refusing to bless a wartime levy.",
+            "secrets": [
+                "Some knots bind more than words; a lost sequence can still a heartbeat",
+                "Moon-resin knots hum when lies are spoken nearby, drawing moths"
+            ],
+            "factions": [
+                "Order of Knotted Light",
+                "Lantern Parliament",
+                "Saffron and Ochre Compact"
+            ],
+            "dependencies": [
+                "Relies on moon-resin from Moonfallen Orchard and sanctified water from Pilgrim’s Stair",
+                "Purchases amber sealant from the Amber Fen"
+            ],
+            "notable_figures": [
+                "Rector Mera of the Ninth Knot",
+                "Exiled Prior Senne Vell of the Fifth Knot"
+            ],
+            "conflicts": [
+                "Tension with Parliament over the right to annul civic oaths",
+                "Quiet power struggle between Rector Mera and the returning Fifth Knot sympathizers"
+            ],
+            "hooks": [
+                "Unravel a cursed knot found fused to an oath-stone",
+                "Mediate a public untying where the cord refuses to release"
+            ]
+        },
+        {
+            "name": "Saffron Ledger Exchange",
+            "type": "bourse and countinghouse",
+            "ward": "Dyers’ Spiral",
+            "description": "A circular market stacked in terraced galleries, each hung with cloths dyed in impossible gradients. A central ring of brokers cooks ledgers over braziers to seal deals with heat-reactive inks.",
+            "history": "The Exchange rose on the fortunes of a caravan trust that broke the monopoly on night-dyes. It now underwrites half the lantern-seats in Parliament.",
+            "secrets": [
+                "A hidden dye called Gloam bites into skin, marking oathbreakers to the bone",
+                "Ledger-weights contain shavings from the Mother Lens of the Glass Spine"
+            ],
+            "factions": [
+                "Saffron and Ochre Compact",
+                "Lantern Parliament",
+                "Rookery of Whisper-Brokers"
+            ],
+            "dependencies": [
+                "Night-dyes sourced from Moonfallen Orchard lumenfruit",
+                "Paper from Inkroot Archives’ mills and amber sealants from the Fen"
+            ],
+            "notable_figures": [
+                "Factor Lisi Jhak, who can smell the profit in a color",
+                "Seal-Master Dorn Vale, who never blinks at a loss"
+            ],
+            "conflicts": [
+                "Price war with independent dyers near Dyers’ Spiral",
+                "Accusations they fund hinge-sabotage to profit on flood insurance"
+            ],
+            "hooks": [
+                "Track counterfeit night-dyes that dim ward-lamps",
+                "Recover a stolen ledger-ember that burns invisible numbers into wood"
+            ]
+        },
+        {
+            "name": "Mirrorglass Conservatory",
+            "type": "academy of optics and illusion",
+            "ward": "Brightreach",
+            "description": "A spread of low, glass-roofed pavilions around a central prism-tower. Courtyards are tiled with mirrored mosaics that capture star-positions. Students in smoke-shaded goggles carry lenses wrapped like babies.",
+            "history": "Founded by a breakaway from the Collegium of the far city of Vesk; the Conservatory fused practical optics with lantern-rhetoric and now drafts Parliament displays.",
+            "secrets": [
+                "An underground vault stores a living pane of glass that reflects what it wants",
+                "Hallways bend light to hide doors in plain sight"
+            ],
+            "factions": [
+                "Mirrorglass Collegium",
+                "Rookery of Whisper-Brokers",
+                "Lantern Parliament"
+            ],
+            "dependencies": [
+                "Quartz from the Glass Spine Ridge and pumice from Ash-Veil Caldera",
+                "Encrypted commissions from the Rookery for signal systems"
+            ],
+            "notable_figures": [
+                "Glassmaster Pel Korr, who says the city is a lens and people are light",
+                "Student Sav Orlai, whose shadow sometimes arrives late"
+            ],
+            "conflicts": [
+                "Dispute with the Rookery over who owns sky-signals",
+                "Charges of illusionary tampering with Parliament lamp-colors"
+            ],
+            "hooks": [
+                "Test a new lens atop the Hinge during a storm without shattering it",
+                "Find the shadow that left its owner and began spying"
+            ]
+        },
+        {
+            "name": "Rookery Spire",
+            "type": "courier tower and intelligence hub",
+            "ward": "Skyline",
+            "description": "A narrow basalt finger stitched with balconies and netted aviaries. Trained rooks, crows, and mirror-kites roost in tiers while handlers knot message-cords and read reflected flashes from the ridge.",
+            "history": "The Rookery began as a humble pigeon loft. It climbed with each scandal it carried, and now the Spire tops even the Parliament lamps.",
+            "secrets": [
+                "A rook-clan has learned to mimic specific voices eerily well",
+                "A mirrored cistern under the Spire stores stolen reflections"
+            ],
+            "factions": [
+                "Rookery of Whisper-Brokers",
+                "Lantern Parliament",
+                "River-Marrows Guild"
+            ],
+            "dependencies": [
+                "Signal mirrors tuned by the Mirrorglass Conservatory",
+                "Perch-rights negotiated with housetop clans"
+            ],
+            "notable_figures": [
+                "Mistress Caw, a handler who speaks better with birds than with people",
+                "Broker Thay Nerr, who buys secrets by the ounce"
+            ],
+            "conflicts": [
+                "Feud with the Mirrorglass Collegium over exclusive signals",
+                "Boatmen accuse the Rookery of selling patrol routes to smugglers"
+            ],
+            "hooks": [
+                "Decode a flurry of false signals that could trigger a hinge-closure",
+                "Escort a rook-clutch hatched with mirrored eyes to safety"
+            ]
+        },
+        {
+            "name": "Inkroot Archives",
+            "type": "library and mill",
+            "ward": "Reedbank",
+            "description": "A rambling complex where millwheels turn inkroot pulp into parchment sheets and underground stacks hold cool, dry vaults. Brass dehumidifiers sigh like sleeping beasts.",
+            "history": "Built on a siltbar that grows richer each year. Archivists decree knowledge should be waterproof after the drowning of Thren.",
+            "secrets": [
+                "A forbidden shelf of tide-law contradicts Parliament charters",
+                "Archivist scribes can smell falsehoods in drying ink"
+            ],
+            "factions": [
+                "Inkroot Archivists",
+                "Lantern Parliament",
+                "River-Marrows Guild"
+            ],
+            "dependencies": [
+                "Inkroot from the Amber Fen and reclaimed vellum from the Sunken Archive of Thren",
+                "Security couriers from the Rookery"
+            ],
+            "notable_figures": [
+                "Archivist-Mother Jana Fell",
+                "Stack-Warden Orry Lute"
+            ],
+            "conflicts": [
+                "Parliament demands access to sealed flood-writs; Archivists refuse",
+                "A mold blight spreads in patterns that match hinge-songs"
+            ],
+            "hooks": [
+                "Find the source of the mold-song before it eats flood-law",
+                "Smuggle a banned manual to a Tidewright without igniting a charter war"
+            ]
+        }
+    ],
+    "politics": [
+        {
+            "name": "Tidewrights’ Syndicate",
+            "type": "guild of engineers and water-lawyers",
+            "symbol": "a knuckled gear encircling a droplet",
+            "influence": "controls hinge crews, flood schedules, and emergency closures",
+            "leaders": [
+                "Syndic Orren Halv",
+                "Gantrix Pell (Signal-Mistress)"
+            ],
+            "methods": [
+                "contractual monopolies over riverworks",
+                "apprenticeship tests in dangerous eddies",
+                "technical vetoes applied through safety edicts"
+            ],
+            "goals": [
+                "codify absolute authority over all hinges and canals",
+                "recover lost hinge-craft from the Sunken Archive of Thren"
+            ],
+            "rivals": [
+                "River-Marrows Guild",
+                "Lantern Parliament populists"
+            ],
+            "allies": [
+                "Ashen Wardens",
+                "Mirrorglass Collegium (technical exchange)"
+            ],
+            "assets": [
+                "Tide-Hinge Bastion",
+                "private flood-courts",
+                "signal-lantern networks"
+            ],
+            "seats": [
+                "two copper lamps in the Lantern Parliament"
+            ],
+            "edicts": [
+                "no boat passes during Red Gale signals",
+                "all new quays must be hinge-rated"
+            ],
+            "tensions": [
+                "accusations of profit from flood-panics",
+                "boatmen claim the Syndicate ignores livelihoods for textbook safety"
+            ],
+            "plot_hooks": [
+                "Broker a truce after a failed emergency closure drowns a grain fleet",
+                "Unmask a saboteur faking Red Gale signals to crash dye prices"
+            ]
+        },
+        {
+            "name": "River-Marrows Guild",
+            "type": "boatmen, salvors, and dock stevedores",
+            "symbol": "a rope looped through a riverbone",
+            "influence": "dominates docks, pilotage, and salvage on the Sel",
+            "leaders": [
+                "Harbormother Ysra Dokk",
+                "Pilot-Captain Rull Fen"
+            ],
+            "methods": [
+                "dock strikes and slowdowns",
+                "cutting new backwaters to bypass tolls",
+                "rescuing boats to earn salvage rights"
+            ],
+            "goals": [
+                "win co-authority over hinge openings in trade hours",
+                "secure exclusive salvage charters at the Shattered Weir"
+            ],
+            "rivals": [
+                "Tidewrights’ Syndicate",
+                "Rookery of Whisper-Brokers (for selling routes)"
+            ],
+            "allies": [
+                "Inkroot Archivists (for documentation)",
+                "Lantern Parliament ward-delegates from Lowwater"
+            ],
+            "assets": [
+                "River-Marrow Docks",
+                "signal-buoys only they can read",
+                "storm-salvage barges"
+            ],
+            "seats": [
+                "one smoky lamp in the Lantern Parliament"
+            ],
+            "edicts": [
+                "no cargo lifted by crane during slack-tide",
+                "smugglers pay river-tithe or swim"
+            ],
+            "tensions": [
+                "suspected in a dock-fire that burned Parliament records",
+                "crew rivalries escalating into canal brawls"
+            ],
+            "plot_hooks": [
+                "Protect a pilot accused of cutting a forbidden backwater",
+                "Chart a new safe lane through silt that shifts with each moon"
+            ]
+        },
+        {
+            "name": "Saffron and Ochre Compact",
+            "type": "merchant consortium of dyers and factors",
+            "symbol": "a coin stamped with a droplet in two halves: gold and rust",
+            "influence": "controls dye futures, fabric markets, and bourse credit",
+            "leaders": [
+                "Factor Lisi Jhak",
+                "Seal-Master Dorn Vale"
+            ],
+            "methods": [
+                "loan-backed lamp-seats",
+                "color embargos and exclusive contracts",
+                "patronage of ward festivals with free cloth"
+            ],
+            "goals": [
+                "monopolize night-dye refining from Moonfallen Orchard",
+                "install a permanent color-marshal in Parliament"
+            ],
+            "rivals": [
+                "Order of Knotted Light (over oath-dye use)",
+                "independent dyers of Dyers’ Spiral"
+            ],
+            "allies": [
+                "Rookery of Whisper-Brokers",
+                "Lantern Parliament centrists"
+            ],
+            "assets": [
+                "Saffron Ledger Exchange",
+                "private guards in dye-proof cloaks",
+                "secret formulae for gloam and dawnbreak dyes"
+            ],
+            "seats": [
+                "three bright lamps in the Lantern Parliament via proxies"
+            ],
+            "edicts": [
+                "standardize dye purity scales enforceable by fines",
+                "night-lamps must burn Compact-certified fuel"
+            ],
+            "tensions": [
+                "workers sickened by gloam residue seek redress",
+                "rumors of tampering with Parliament lamp-colors"
+            ],
+            "plot_hooks": [
+                "Investigate workers’ sickness tied to a new night-dye process",
+                "Expose a proxy network buying ward-lamps with hidden loans"
+            ]
+        },
+        {
+            "name": "Order of Knotted Light",
+            "type": "religious order and oath-keepers",
+            "symbol": "a looped cord around a candle flame",
+            "influence": "sanctions oaths, mediates disputes, controls sacred knots",
+            "leaders": [
+                "Rector Mera of the Ninth Knot",
+                "Exiled Prior Senne Vell"
+            ],
+            "methods": [
+                "binding oaths with cord magic",
+                "public untyings to dissolve bonds",
+                "pilgrim courts at the Stair"
+            ],
+            "goals": [
+                "reconcile the Fifth Knot and return them to the Basilica",
+                "assert veto power over Parliament laws that touch vows"
+            ],
+            "rivals": [
+                "Saffron and Ochre Compact (over dye-control of ritual flames)",
+                "Lantern Parliament hardliners"
+            ],
+            "allies": [
+                "housetop clans of Skyline",
+                "Inkroot Archivists (for record sanctification)"
+            ],
+            "assets": [
+                "Basilica of Knotted Light",
+                "Pilgrim’s Stair",
+                "cord-looms and vow-archives"
+            ],
+            "seats": [
+                "one pearl lamp in the Lantern Parliament"
+            ],
+            "edicts": [
+                "no oath may be sealed without witness and knot",
+                "moon-resin flames reserved for vows of life and debt"
+            ],
+            "tensions": [
+                "split between reconciliationists and purists",
+                "moth swarms drawn to moon-flames disrupt rites"
+            ],
+            "plot_hooks": [
+                "Escort Prior Vell to a clandestine parley with the Rector",
+                "Find who is tying false knots that bind beyond intent"
+            ]
+        },
+        {
+            "name": "Mirrorglass Collegium",
+            "type": "scholars, lens-grinders, and light-mages",
+            "symbol": "a three-faceted prism with an eye at the core",
+            "influence": "shapes public spectacles, scrying, and surveillance optics",
+            "leaders": [
+                "Glassmaster Pel Korr",
+                "Professor Nae Sillar"
+            ],
+            "methods": [
+                "patents on lens-cuts",
+                "control of ridge quarries",
+                "commissioned displays that sway votes"
+            ],
+            "goals": [
+                "secure exclusive rights to sky-signals",
+                "perfect a lens that reads intent from light around the mouth"
+            ],
+            "rivals": [
+                "Rookery of Whisper-Brokers",
+                "Order of Knotted Light (doctrine vs. truth-lens ethics)"
+            ],
+            "allies": [
+                "Tidewrights’ Syndicate",
+                "Saffron and Ochre Compact"
+            ],
+            "assets": [
+                "Mirrorglass Conservatory",
+                "contracts with Parliament for official displays",
+                "quarry rights on Glass Spine Ridge"
+            ],
+            "seats": [
+                "one split lamp in the Lantern Parliament shared with allied scholars"
+            ],
+            "edicts": [
+                "register all long-range mirrors",
+                "ban masking cloths within a mile of Parliament on vote days"
+            ],
+            "tensions": [
+                "street artists mirror-prank official ceremonies",
+                "a living pane resists containment and imitates leaders"
+            ],
+            "plot_hooks": [
+                "Stop a truth-lens demo from outing protected informants",
+                "Negotiate mirror-rights before a festival devolves into flash-blindness"
+            ]
+        },
+        {
+            "name": "Rookery of Whisper-Brokers",
+            "type": "spymasters, couriers, and information merchants",
+            "symbol": "a rook perched on a knot-post",
+            "influence": "owns aerial routes, message-cords, and rumor prices",
+            "leaders": [
+                "Mistress Caw",
+                "Broker Thay Nerr"
+            ],
+            "methods": [
+                "encoded knot-cords",
+                "bird-signals and mirror flashes",
+                "auctioning secrets under lantern-shadow"
+            ],
+            "goals": [
+                "legalize sky-rights as property",
+                "embed handlers in every ward-court"
+            ],
+            "rivals": [
+                "Mirrorglass Collegium",
+                "River-Marrows Guild"
+            ],
+            "allies": [
+                "Saffron and Ochre Compact",
+                "select Parliamentors who crave leverage"
+            ],
+            "assets": [
+                "Rookery Spire",
+                "black-feather contracts",
+                "mirror-kite fleets"
+            ],
+            "seats": [
+                "no formal lamp; three whisper benches behind the gallery"
+            ],
+            "edicts": [
+                "no signal without registry at dawn bell",
+                "silence bought is silence kept"
+            ],
+            "tensions": [
+                "accused of staging crises to heighten rumor prices",
+                "birds learning to improvise signals beyond handlers’ control"
+            ],
+            "plot_hooks": [
+                "Recover a stolen lexicon of bird-calls before a vote-night",
+                "Protect a whistleblower whose voice a rook now mimics"
+            ]
+        },
+        {
+            "name": "Ashen Wardens",
+            "type": "rangers, miners, and ash-priests",
+            "symbol": "a soot handprint over a volcano glyph",
+            "influence": "controls caldera access, basalt trade, and ash-craft rites",
+            "leaders": [
+                "Pyre-Mistress Kael Ibrin",
+                "Vent-Seer Jyr Salt"
+            ],
+            "methods": [
+                "mask rationing during ash-squalls",
+                "escort duties for quarry caravans",
+                "ashes-of-the-lost rites"
+            ],
+            "goals": [
+                "secure Parliament protection for ash routes",
+                "tame ash drakes into pack-beasts"
+            ],
+            "rivals": [
+                "River-Marrows Guild (over transport tariffs)",
+                "independent quarry gangs"
+            ],
+            "allies": [
+                "Tidewrights’ Syndicate",
+                "Mirrorglass Collegium"
+            ],
+            "assets": [
+                "caldera outposts",
+                "basalt stockpiles under Chainreach",
+                "ash-breathing masks and soot-filters"
+            ],
+            "seats": [
+                "one ember-lamp in the Lantern Parliament"
+            ],
+            "edicts": [
+                "ash days require masks within two bells of the wind-change",
+                "obsidian blades licensed through the Wardens"
+            ],
+            "tensions": [
+                "quarry collapses blamed on Warden short-staffing",
+                "rumors of ash-rites that bind the dead to the veils"
+            ],
+            "plot_hooks": [
+                "Find proof that drake-tamers are stealing basalt under cover of squalls",
+                "Guide a Parliament delegation through a veiled court of ash-spirits"
+            ]
+        },
+        {
+            "name": "Inkroot Archivists",
+            "type": "scribes, papermakers, and legal custodians",
+            "symbol": "a reed pen crossed over a tide-mark",
+            "influence": "guards flood-law, records oaths, controls parchment supply",
+            "leaders": [
+                "Archivist-Mother Jana Fell",
+                "Stack-Warden Orry Lute"
+            ],
+            "methods": [
+                "seal-strings that fray when laws are altered",
+                "quiet embargoes on hostile factions’ paper",
+                "footnote wars in flood-courts"
+            ],
+            "goals": [
+                "keep flood-law beyond Parliament tampering",
+                "compile a complete history of hinge-songs"
+            ],
+            "rivals": [
+                "Lantern Parliament amendments committee",
+                "Tidewrights’ Syndicate legal wing"
+            ],
+            "allies": [
+                "Order of Knotted Light",
+                "River-Marrows Guild"
+            ],
+            "assets": [
+                "Inkroot Archives",
+                "sealed vaults",
+                "ink that browns when lies touch it"
+            ],
+            "seats": [
+                "no lamp; respected floor-rights during law readings"
+            ],
+            "edicts": [
+                "no law stands unarchived and unknotted",
+                "emergency closures require triple countersign"
+            ],
+            "tensions": [
+                "Parliament threatens to seize sealed writs on public safety grounds",
+                "a mold blight sings forbidden hinge-songs in the stacks"
+            ],
+            "plot_hooks": [
+                "Guard an archive procession carrying the original hinge-charter",
+                "Prove a critical flood-writ is a Parliament forgery replaced by a brown-ink copy"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 5,
+    "title": "Language of Eels",
+    "quest_giver": "Vara Rootlight",
+    "description": "After a red tide, children in a reed village began speaking a language no adult knows. Vara Rootlight guides Sere through the Gloomroot Mangroves where glow fungus paints the water with slow constellations and bone eels make chandeliers of their nests. The children’s words sound like bubble and bone, and their play songs map currents that do not appear on any chart. Vara believes the Mother of Eels is teaching them the grammar of a channel not yet born. If Sere can earn a favor at the root shrine, the eels may reveal the chant that opens the rumored tenth mouth of the delta.",
+    "objectives": [
+        "Follow Vara Rootlight into the Gloomroot Mangroves and reach the root shrine at high slack tide.",
+        "Observe the children’s games and record the cadence of their invented language.",
+        "Offer bone and honest memory at the root shrine to draw the Mother of Eels’ attention.",
+        "Translate the chant with Vara and test a safe verse on the river to see what moves."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Vara Rootlight",
+            "text": "Listen with your feet as well as your ears. The roots talk and the mud remembers every step you have lied about taking. The children are not cursed; they are rehearsing. I can hear counting in their song, a way of numbering the pauses between heartbeats of the water. If we are gentle, the Mother of Eels will let us copy a single line of her prayer. If we are not, she will adopt us as teeth."
+        },
+        {
+            "speaker": "Sere Kallin",
+            "text": "I have no wish to be anyone’s tooth. The Engine stuttered when the chain hummed, and the river will not forgive us if we force a mouth open before it is ready to swallow. I will give a memory she can keep and ask only for a word I can carry that does not bite. I have a token that grows cold around unanswered questions; if it chills, I will stop."
+        },
+        {
+            "speaker": "Holl Riverborn",
+            "text": "If you bring a prayer out of the mangroves, wash it in clean brine before you try it on the river. Spirits hate being taken from the smell of their home, and they trip petitioners who run too fast with new toys. And if the water changes shape under you, remember that not all mouths are for eating. Some are for singing, and some are for silence."
+        }
+    ],
+    "connections": {
+        "previous": [
+            4
+        ],
+        "next": [
+            6
+        ],
+        "related": [
+            2
+        ]
+    },
+    "rewards": [
+        "A transliterated chant in bone-script that influences slack water for a short time",
+        "A vial of glow fungus that brightens when spoken to in the eel-children’s cadence",
+        "Friendship with a reed village elder who can hide a skiff among roots on request"
+    ]
+}

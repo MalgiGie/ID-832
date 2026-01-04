@@ -1,0 +1,49 @@
+{
+    "id": "M08",
+    "title": "Breathing the Drowned Library",
+    "quest_giver": "Jana Fell",
+    "description": "The Sunken Archive of Thren slept under blackwater like a cathedral that had learned to breathe. Marble stacks leaned with algae shawls, and stone librarians paced with cold lanterns and clear purpose, enforcing unread laws written in rills down their granite spines. Jana Fell wanted hinge-craft treatises and flood-law precedent rescued from the western stacks, and the Tidewrights wanted diagrams they swore they had already earned by inheritance. Ink eels nosed for fresh cuts, and bottled wind still hissed through a cracked reliquary, drawing boats as if the lake itself were lonely. The water pressed against Neris’s mask like an old grudge, and the city’s future pressed like a hand between shoulder blades, urging them down.",
+    "objectives": [
+        "Negotiate passage with a stone librarian by offering a correctly knotted visitor cord and a catalog of intended shelves.",
+        "Retrieve waterproof vellum etched with breathing runes and a labradorite tile that glows when truth is spoken.",
+        "Close the rift where bottled wind still hisses by weighting it with basalt and singing a hinge-song phrase.",
+        "Copy hinge diagrams without triggering construct jealousy or page-ward curses.",
+        "Deliver a set of flood-law precedents to the Archivists and a redacted diagram to the Syndicate."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Stone Librarian",
+            "line": "Breath is allowed if declared. Hands will be permitted if gloved. Intention will be cataloged and returned in the same condition in which it was provided, or penalties will accrue according to the drowned index. You will not elevate your voice above the level of our lantern’s echo. Declare your name and your bindings, and we will weigh your passage."
+        },
+        {
+            "speaker": "Jana Fell",
+            "line": "I have argued with judges and ledgers and once with my own conscience, and none are as stubborn as a library that has tasted its own mortality. We must bring up what will keep our city from repeating Thren’s last page. Sing to the wind if it will listen. If it will not, gag it with stone and law."
+        },
+        {
+            "speaker": "Orren Halv",
+            "line": "I do not beg favors from statues, but I will give thanks to any rock that lets me read. Fetch me the diagram for the western hinge-pivot, and give Jana her law. If the constructs hiss at you, hiss back in proper chord. If they bite, bite harder with precedent."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "My knot is true and my cord is clean. I will take what I declare and leave no finger marks you can smell. If the wind tries to walk me where it wants, I will sing it into a chair and ask it to listen."
+        },
+        {
+            "speaker": "Ink Eel Whisper",
+            "line": "Warm skin warm skin warm skin, the law is meat if we close our eyes. Bleed a little and we will tell you the secret names of the hinges. Don’t bleed and we will tell the water you are rude."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M07"
+        ],
+        "next": [
+            "M09"
+        ]
+    },
+    "rewards": [
+        "Hinge-song slate fragment etched with a waking chord",
+        "Labradorite truth tile (glows when oaths are spoken sincerely)",
+        "Reputation: Tidewrights’ Syndicate (begrudging respect)",
+        "Access: one visit to a sealed Archivist vault under supervision"
+    ]
+}

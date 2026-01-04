@@ -1,0 +1,297 @@
+[
+    {
+        "from": "Nerey Alis",
+        "to": "Sorev Katch",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nerey Alis",
+        "to": "Isha Brinehand",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nerey Alis",
+        "to": "Sel Var Saltvein",
+        "type": "Different goals"
+    },
+    {
+        "from": "Nerey Alis",
+        "to": "Thalen Marr",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sorev Katch",
+        "to": "Nerey Alis",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sorev Katch",
+        "to": "Isha Brinehand",
+        "type": "Conflict"
+    },
+    {
+        "from": "Sorev Katch",
+        "to": "Sel Var Saltvein",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sorev Katch",
+        "to": "Keshan Drook",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sorev Katch",
+        "to": "Caldra Imin",
+        "type": "Hostility"
+    },
+    {
+        "from": "Sorev Katch",
+        "to": "Orun Shard",
+        "type": "Conflict"
+    },
+    {
+        "from": "Isha Brinehand",
+        "to": "Nerey Alis",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Isha Brinehand",
+        "to": "Sorev Katch",
+        "type": "Conflict"
+    },
+    {
+        "from": "Isha Brinehand",
+        "to": "Sel Var Saltvein",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Isha Brinehand",
+        "to": "Caldra Imin",
+        "type": "Alliance"
+    },
+    {
+        "from": "Isha Brinehand",
+        "to": "Tamas Eelwick",
+        "type": "Alliance"
+    },
+    {
+        "from": "Isha Brinehand",
+        "to": "Liora Fen",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sel Var Saltvein",
+        "to": "Nerey Alis",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sel Var Saltvein",
+        "to": "Sorev Katch",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sel Var Saltvein",
+        "to": "Isha Brinehand",
+        "type": "Conflict"
+    },
+    {
+        "from": "Sel Var Saltvein",
+        "to": "Liora Fen",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sel Var Saltvein",
+        "to": "Caldra Imin",
+        "type": "Hostility"
+    },
+    {
+        "from": "Thalen Marr",
+        "to": "Nerey Alis",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Thalen Marr",
+        "to": "Liora Fen",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Thalen Marr",
+        "to": "Keshan Drook",
+        "type": "Different goals"
+    },
+    {
+        "from": "Thalen Marr",
+        "to": "Myris Khel",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Thalen Marr",
+        "to": "Serat Voss",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Thalen Marr",
+        "to": "Orun Shard",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Keshan Drook",
+        "to": "Sorev Katch",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Keshan Drook",
+        "to": "Tamas Eelwick",
+        "type": "Friendship"
+    },
+    {
+        "from": "Keshan Drook",
+        "to": "Thalen Marr",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Keshan Drook",
+        "to": "Caldra Imin",
+        "type": "Different goals"
+    },
+    {
+        "from": "Keshan Drook",
+        "to": "Myris Khel",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Liora Fen",
+        "to": "Nerey Alis",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Liora Fen",
+        "to": "Thalen Marr",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Liora Fen",
+        "to": "Isha Brinehand",
+        "type": "Alliance"
+    },
+    {
+        "from": "Liora Fen",
+        "to": "Sel Var Saltvein",
+        "type": "Conflict"
+    },
+    {
+        "from": "Liora Fen",
+        "to": "Serat Voss",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Liora Fen",
+        "to": "Tamas Eelwick",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Caldra Imin",
+        "to": "Isha Brinehand",
+        "type": "Alliance"
+    },
+    {
+        "from": "Caldra Imin",
+        "to": "Sorev Katch",
+        "type": "Conflict"
+    },
+    {
+        "from": "Caldra Imin",
+        "to": "Nerey Alis",
+        "type": "Different goals"
+    },
+    {
+        "from": "Caldra Imin",
+        "to": "Keshan Drook",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Caldra Imin",
+        "to": "Serat Voss",
+        "type": "Friendship"
+    },
+    {
+        "from": "Caldra Imin",
+        "to": "Sel Var Saltvein",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Tamas Eelwick",
+        "to": "Isha Brinehand",
+        "type": "Alliance"
+    },
+    {
+        "from": "Tamas Eelwick",
+        "to": "Liora Fen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tamas Eelwick",
+        "to": "Keshan Drook",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tamas Eelwick",
+        "to": "Nerey Alis",
+        "type": "Different goals"
+    },
+    {
+        "from": "Myris Khel",
+        "to": "Thalen Marr",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Myris Khel",
+        "to": "Orun Shard",
+        "type": "Friendship"
+    },
+    {
+        "from": "Myris Khel",
+        "to": "Keshan Drook",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Orun Shard",
+        "to": "Myris Khel",
+        "type": "Friendship"
+    },
+    {
+        "from": "Orun Shard",
+        "to": "Thalen Marr",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Orun Shard",
+        "to": "Sorev Katch",
+        "type": "Conflict"
+    },
+    {
+        "from": "Orun Shard",
+        "to": "Nerey Alis",
+        "type": "neutral"
+    },
+    {
+        "from": "Serat Voss",
+        "to": "Caldra Imin",
+        "type": "Friendship"
+    },
+    {
+        "from": "Serat Voss",
+        "to": "Liora Fen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Serat Voss",
+        "to": "Thalen Marr",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Serat Voss",
+        "to": "Nerey Alis",
+        "type": "Different goals"
+    }
+]

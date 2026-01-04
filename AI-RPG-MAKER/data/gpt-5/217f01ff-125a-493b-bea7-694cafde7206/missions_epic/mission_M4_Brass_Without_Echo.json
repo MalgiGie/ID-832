@@ -1,0 +1,83 @@
+{
+    "id": "M4",
+    "title": "Brass Without Echo",
+    "quest_giver": {
+        "name": "Sall Brass",
+        "affiliation": "Night Bazaar Syndicate"
+    },
+    "description": "Veylcrest’s Night Bazaar wakes beneath the city’s blue lamps like a reef under moonlight, its alleys braided from brass shadows and whispered reputations. Curtains sewn with ringing bowls sway in breathless drafts, and each step sounds like a coin deciding which pocket to choose. Mist-Matron Sall Brass beckons you through that chimed veil with a tilt of her lantern that dims when patrol boots think to turn a corner, offering a trade measured not in weight but in names. She speaks of a retired Tidewarden’s cavern locker tucked beneath Pier Two, a brine-bitten niche where a private bribe ledger sleeps among rope oil and spent horn-reeds, heavy enough with secrets to tug half the Lantern Court into the tide. If the aqueduct’s hidden bleed-valves are to be exposed without shattering the city’s mirrored trust, you will need leverage, and leverage here is a blade that only cuts clean when the bearer remembers they, too, can bleed. The Bazaar’s rules are older than the Diadem’s glint: move without breaking the arbitration circle, pay silence when you trespass on it, copy only what you can afford to say aloud, and leave no lamp dimmed in a pattern that rings alarm. You carry hush-ink cold as forgotten debts, a silt-bell tuned to calm quarrelsome water, and a conscience that the sea may one day weigh. Somewhere between bowl-chimes and footfalls, you must decide where the original ledger will breathe next—at the Temple where oaths are rinsed, in the Court where edicts braid, or back into the shadow-market that keeps knives in their sheaths by naming who owns whose breath. And when all is done, you must slip away before the brass lights stutter their three-sigh pattern that summons Syndicate knives who cut knots rather than throats, but cut them all the same.",
+    "objectives": [
+        "Meet Sall Brass in the hidden court behind a curtain of ringing bowls.",
+        "Locate the retiree Tidewarden's cavern locker beneath Pier Two.",
+        "Bypass Syndicate arbitration without breaking the Bazaar's rules.",
+        "Secure the bribe ledger and copy key entries using hush-ink.",
+        "Decide whether to deliver the original to the Temple, the Court, or the Syndicate.",
+        "Leave the Bazaar without triggering the dim-lamp alarm pattern."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sall Brass",
+            "lines": "We sell the future by the thimble here, Thalen, and we buy silence by the bowl, because both spill if carried carelessly. The bribe ledger you seek is a reef of names, and reefs break hulls that rush them, even hulls armored in good intentions. I can have a lantern lead you to the old Tidewarden’s locker, and I can show you how the lamps breathe when patrol boots come too near, but I cannot catch you if you step into arbitration without a mask and a coin. Bring me a copy of the entries that matter—dates, sums, the valves that were paid to sing—and you may keep the original long enough to make prayer or policy of it. But remember the Bazaar’s rule of brass and breath: take nothing that wants to be taken, and when two truths argue, offer a knot instead of a knife until the lamps agree which should be cut."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "lines": "I am not here to turn the city’s reflection into shattered panes, Matron, nor to salt the air with scandal until everyone coughs. I want the valves named and the debts faced, and I want the sea and river to stop pulling different doors of the same house. If this ledger can steady a horn-barge and make the Court listen to water testimony without reaching for hush statutes, then my name can ride the risk, and my own breath can pay the price. I will copy only what can be borne without drowning families on the piers, and I will not humiliate the Tidewardens into a corner where duty becomes panic. Give me your lamp’s dimming pattern and I will leave this place without waking knives, because I have no quarrel with brass so long as it rings true."
+        },
+        {
+            "speaker": "Miren Nine-Ropes",
+            "lines": "You are stepping into caverns where our ropes count more truths than our tongues, mage, and I do not say that with pride so much as fatigue. Some of the ledger’s scratches hum my commander’s name and some hum mine, not because we took coin, but because we bound ourselves to people who did, and duty knots can look like shame when lanterns are low. If you unmask those knots, do it with a steady hand and a throat ready to speak to sailors as well as delegates, or you will drive us into rashness, and rashness is a kind of drowning. I do not ask you to leave the book buried; I ask you to remember that our boots keep the bay from eating the docks, even when the bay’s quiet makes us hear our own guilt too clearly. Walk soft, leave no lamp stuttering its alarm, and if you must cut, cut cleanly and tie new knots for those of us who must live with what you reveal."
+        },
+        {
+            "speaker": "Sall Brass",
+            "lines": "The hidden court behind these bowls is an argument that never ends, and that is why it has rules that never sleep. If an arbitration ring is chalked across a threshold, do not step through unless you are prayed for and paid up, or the lamps will decide you are raw coin and the Syndicate will spend you. To bypass, you trade breath for breath: offer to carry a message between two rings without repeating a word, and the court will turn its face away because it respects errands that keep knives sheathed. If the bowls sing in thirds, it means patrol boots have taken a wrong turn; three slow dims say leave, three quick say lie still, and any mix that starts with bright is a blade being drawn. Copy your entries with hush-ink that burns cold, leave a bone coin in the locker to pay the Tide for your trespass, and go out by the old eel-run where the lamps forget to gossip."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Deliver the original ledger to the Temple of the Tidemother for sanctified weighing",
+            "text": "You carry the salt-damp ledger into the Temple at slack water, where the altar breathes and the city’s arguments float lighter for a heartbeat. Speaking through the Conch of Slack Water, you ask the Serene Compact to freeze the book’s breath into crystal oaths and to weigh each entry like a net of pearls that might hide stones. Priests and Choir readers array the pages beneath blue light until the ink remembers who wrote it and why, and until the bells in the aqueduct far above answer with a tremor no one but you can hear. You choose this because you believe shame can be washed without losing the names of the living, and because the terraces upstream need more than rumor to open gates. You accept that the Temple will move slowly and publicly, that Ledger masks will hiss, and that the Tidewardens will stand like statues under judgment while their boots scuff the floor in quiet panic.",
+            "outcome": "The Serene Compact announces a river rite of weighing, naming siphoned valves and setting a schedule of reparations that the Choir of Silt declares fair in the river plural. Ledger masks respond with legal fog and quiet threats, but the oath-lanterns burn a little brighter and a crack you feared beneath the Diadem does not widen. Tidewardens suffer the discomfort of being read aloud but are not humiliated; Miren Nine-Ropes meets your gaze without a flinch and drills her crews to accept audits as tides rather than storms. On the piers, Blue Fist moderates postpone a strike and claim a small victory, while Syndicate whispers grumble yet keep their knives folded because the Temple’s light makes shadows expensive. Your name moves through the Bazaar as someone who spends leverage gently, your standing with the Night Bazaar holds at a wary nod, and the terraces gain a gust of water that turns a lean harvest bearable without spiking city panic."
+        },
+        {
+            "id": "C2",
+            "title": "Deliver the original ledger to the Lantern Court for procedural justice",
+            "text": "You stride into the Sapphire Diadem’s chambers with the ledger sealed in glass cloth, and the blue facets of the city’s heart throw flecks of light across the ink. Speaker Nhal Vessin counts delegates like rivets while you lay out copies made in hush-ink, their chill felt in the benches as a warning to hurry with care. You request an emergency hearing timed to the tide, arguing that valves shan’t stay illegal forever if the city can mend the charter knots that made them profitable. This is a wager that publicity can prune rot without toppling beams, and that the Court can be made to hear water testimony without Ledger bells altering the clock. You accept that the Syndicate will sneer, that some names will buy themselves narrower shame, and that the Temple will caution you about haste even as it prepares blessings lest the city shiver itself apart.",
+            "outcome": "The Lantern Court braids an edict that redirects flow from secret bleed-valves back into city cisterns and terrace gates, ties a schedule of audits to bell-code, and imposes symbolic salt fines that nonetheless sting certain masks. The Ledgers Veil offers a restructure that tries to swallow the scandal, but Bell-Marshal Arla Third-Tone codes signal drills that keep the timing honest, and a court clerk loses their seat for selling hours to a private bell. Tidewardens weather a rough week of rumors yet regain some stature when they seize two unlicensed valves under the new edict and deliver them to the Temple without breaking hush statutes. Blue Fist splits but does not shatter, with Boss Kema Hookhand claiming the win on the floor while hardliners mutter about how slowly justice pours. In the Night Bazaar, Sall Brass rolls a brass coin across her knuckles and decides you spend names with craft; your standing there rises a notch as someone who can make the Court move without poking every shadow."
+        },
+        {
+            "id": "C3",
+            "title": "Deliver the original ledger to the Night Bazaar Syndicate to cut knots in the dark",
+            "text": "You return to the hidden court, place the ledger upon a tray of ringing bowls, and watch the brass lamps lean in like patient ears. You argue that some debts can only be collected in silence and that certain names, if shouted, would crack the city faster than any valve, and you offer the copies as fair collateral for a quieter correction. The Brass Twins read in tandem, their lanterns brightening on sums that smell of bad water, and Mist-Matron Sall Brass listens without blinking, a kindness here more unnerving than any threat. This is a choice that trusts shadow law to move faster than public shame, to barter breathing room for terraces and piers without demanding statues topple. You accept the risk that the Bazaar will keep a cut of every knot it slices, and that you will be measured henceforth by how well you walk rings where your name might dim a lamp.",
+            "outcome": "The Syndicate exerts pressure where paper cannot reach, unspooling quiet blackmail that forces hush-valve patrons to shut their bleed and fund public repairs through proxies who look like philanthropists. Tidewardens grumble at being outmaneuvered but swallow it when contraband valves arrive wrapped and anonymous at their tower, and Miren warns you that trust purchased this way spends quickly. The Lantern Court claims victories it did not win while the Ledgers Veil eats its own tail to hide its bite marks, and the terraces upstream feel an unannounced swell that keeps bread soft without trumpets. Blue Fist wages notch up after a midnight negotiation that no one admits happened, and the docks breathe easier even as rumors sprout new brass leaves. Your standing with the Night Bazaar rises visibly, a lamp brightening as you pass, but the Temple watches you with cool salt eyes and marks your name as a soul who trims storms rather than diverts them in the open."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2",
+            "M3"
+        ],
+        "next": [
+            "M5",
+            "M10"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Document",
+            "description": "Copy of the Bribes Ledger, usable as leverage in future negotiations without exposing the original."
+        },
+        {
+            "type": "Reputation",
+            "description": "+1 standing with the Night Bazaar Syndicate for navigating their rules without betrayal."
+        },
+        {
+            "type": "Consumable",
+            "description": "Two vials of certified Hush-Ink to cold-copy critical names and lines that fade at dawn."
+        },
+        {
+            "type": "Access",
+            "description": "Safe-passage token through Moonhook caverns (one-time use), ensuring lamps do not dim in alarm as you pass."
+        }
+    ]
+}

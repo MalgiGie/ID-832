@@ -1,0 +1,53 @@
+{
+    "id": "M11",
+    "title": "Three Bells at the Maw",
+    "quest_giver": "Ys Hul",
+    "description": "The Blue Maw rolls like a sleeping lung, swallowing light and giving it back as ribbons to roofs that fear and adore it. Under a sky held breathless by rumor, skiffs ring the rim and the horn-barge drifts like a patient animal. You stand at the bow with Ys Hul, Miren Nine-Ropes at your shoulder, the Vent-Wind Flute around your neck, the silt-bell at your palm, and the Elder Chain shard cold in your pocket. The plan is as thin as a reed: still the Maw just long enough to hear what it remembers, tune the Diadem's hum away from the breaking pitch, and prove to a city that river and sea can reconcile without a ring that commands them both. The sea remembers your promise: bring the city to stillness when the bells demand.",
+    "objectives": [
+        "Sail to the rim of the Blue Maw with Tidewarden escort.",
+        "Position skiffs according to Arla Third-Tone’s bell pattern.",
+        "Blow the Vent-Wind Flute to draw a controlled draft across the Maw.",
+        "Ring the Third-Tone Silt-Bell underwater to carry Choir speech through the current.",
+        "Use the Elder Chain Shard to cancel any ancient command that surfaces.",
+        "Survive the oppressive silence and release the draft before three bells can ring in absolute silence."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ys Hul",
+            "line": "We are not here to master the sea. We are here to admit our part in its hunger and to ask it to admit its part in our thirst. The Maw remembers a heart that may have been a city once, or a promise, or a punishment. We will listen together and learn which it is. Hold the bell steady; let the river speak into the sea without begging."
+        },
+        {
+            "speaker": "Miren Nine-Ropes",
+            "line": "My crews will place the skiffs on the rim like beads on a string. We will not look into the throat longer than it looks back. When I call the pattern, trust it, even if your bones want you to stop your ears. The first calm is a liar; the second is a friend; the third is a grave."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "I cast a promise into you once, old water, and you kept it like a coin under your tongue. I am here to pay what is owed without paying with a city. Breathe with us. Take the ring of our bells as courtesy, not as command."
+        },
+        {
+            "speaker": "Jath Pell",
+            "line": "If the horn must sound to keep the pattern, I will sound it. But I'd rather we talk our way back to the docks than blast our way there. Give me a sign if the shard needs to be used; I won't let an old empire order crawl up our ropes and sit in our chairs."
+        },
+        {
+            "speaker": "Kelen Prism",
+            "line": "If this works, the city will need a standard to hold the tuning you find. If it fails, it will remember that you chose a reed over a ring. I hope your reed is enough, Thalen. For all our sakes, I hope so."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6",
+            "M8",
+            "M9",
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        "The Sea’s Boon (once per chapter, favorable current in open water)",
+        "+1 standing with Tidewardens and Choir of Silt",
+        "Maw-Stilled Water in a sealed vial (component for future rites)",
+        "Citywide goodwill that eases negotiations for a short time"
+    ]
+}

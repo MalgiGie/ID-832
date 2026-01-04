@@ -1,0 +1,80 @@
+{
+    "id": "M6",
+    "title": "Mirrors on the Shattercoast",
+    "quest_giver": {
+        "name": "Orun Shard",
+        "affiliation": "Glassworkers' Concord"
+    },
+    "description": "The quota-run leaves Prism Quay before the heat sets its trembling hands on the day, carts shod with amber skids and apprentices wrapped in stormcloaks that gleam like wet beetle shells. Orun Shard rides with the tally board pressed to his heart, humming a kiln-keeper’s song that keeps breath steady and fingers true, though even he glances to the horizon where the Shattercoast Cliffs serrate the sky like the teeth of a broken lens. The wind through those galleries does not only howl; it answers, it repeats, it learns, and in that learning it births the shardwights—echoes of motion that lag a single heartbeat behind, invitations to step into a self that is not yours and tumble where the cliff has prepared a grave. The apprentices have been drilled in counter-steps and off-beats, in rope-work that binds line to line so that no one dances alone; still, the stories mutter about a Mirror-King who walks storms with a crown of spray and collects oath-breakers like shells. When carts grind into the black-sand terraces, the cliffs sing with wind knives, and glassy gravel sluices like dark water while tide-light from the far shoals flickers along edges that should not know light. In a hollow where the wind makes a throat, lantern-smoke curls over a low-slung skiff whose crew keeps their colors dark as ocean night, and there, smiling as if he were a wick deciding whether to burn or drown, stands Keshan Drook with his hands on sacks of obsidian grit that belong to the city’s craft. The cliff underfoot thrums like a strained string, and you can feel in your scars the memory of chain jams and bad orders; here a wrong shout, a wrong step, a wrong swing could wake the cliffs to falling. Orun’s apprentices look to you with the hope of people who have learned to stack fear neatly so they can carry it, and the wind, though it would like to repeat you, waits for your first move.",
+    "objectives": [
+        "Escort Orun Shard's caravan to the Shattercoast Cliffs and safely load the quota of obsidian sand, keeping carts balanced and crews calm despite the wind's answering song.",
+        "Protect the crews from shardwight mimicry and guide them through the wind galleries by using off-beat steps, rope-pairs, and dusting measures that break dangerous reflections.",
+        "Confront Keshan Drook and disrupt the smuggling transfer without causing a clifffall, preserving both lives and the cliff face while securing the city's rightful grit."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Orun Shard",
+            "lines": "If I could coax sand to grow as glass does under a steady song, Tairn, we would not be dragging our throats across these black edges today, but craft is an honest hunger and the kilns must be fed. The cliffs have been shedding more than stone this season, and their broken voice seems to like the taste of our gait; apprentices forget which foot is theirs when the wind calls it by name. I have taught them rope-pairs and counter-steps, and I have told them stories about your hands, the ones that kept chain and man from parting in a bad storm, but still I see the mirror-fear in their eyes when the galleries begin to answer them back. Give me your steadiness and your stubborn oath to fair dealing, and I will give you a clean tally and a kiln-song for that blade of yours, something to keep its edge from wandering when the city needs it to stand up straight. The quota is the quota, the work is the work, and between the two there is a cliff that remembers what we have taken, so we must walk as if it were watching us count."
+        },
+        {
+            "speaker": "Liora Fen",
+            "lines": "Master Shard says to breathe on the third and step on the fifth, but the wind keeps trying to teach my feet a different number and I do not like its arithmetic. I tied my rope to Bren’s belt and I told him if I go he must fall toward me rather than away, which is a foolish sounding plan until you remember that falling together can mean landing on a ledge instead of a legend. My mother swore at the Court that truth rides quickest when it rides with a witness, so I ask you, Tairn, to be my witness here and stand on my left where the echoes have the worst time. I have heard of the Mirror-King and I would rather offer him the back of my head than the front of my heart, but I will not flinch if your voice says hold. If your hand lifts and your hook points, I will keep my step crooked and my eyes honest, and I will not follow the ghost that wears my shoulders like a borrowed coat."
+        },
+        {
+            "speaker": "Keshan Drook",
+            "lines": "Easy on the breath, Tairn Latch, the cliff is greedy for names and it will swallow yours if you throw it like a coin. This grit is only homesick for a different furnace, and there are people inland who will melt it without making apprentices cough resin for their bread; I am delivering comfort to a fire that says thank you in silver. House Saltvein will say they never saw me and never paid me and never tasted my sweat, and the Wardens will be too busy cleaning their own glass to see me at all; I am a shadow that keeps honest men honest by giving them something neat to chase. Let me ferry these sacks away and I will owe you a lantern in fog, a signal when the Veiled Current knots, a safe mouth when the other nine decide to bite; you do not have to love me to let me profit. But if you bite my hands, I will throw your name to the wind and let it echo, and then we will see which of us these cliffs keep for another telling."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "lines": "I have carried too many bodies to the dock to sell the city’s bones for a wink of light and a debt that tastes like brine, Keshan, and I will not begin today. You know my oath and where I took it and how the shells sang over my head, and you know that when I say stop I mean rope, knot, and weight, not noise. My crew will move on the off-beat, we will dust the ledges to give the echoes new numbers, and we will keep our feet our own even when the cliff hums a song that would like to borrow them. Drop the sacks and put your clever hands where I can count them, or walk yourself to a ledge where my rope can reach, because I will not shout a second time and invite the wind to learn your name twice. If there is mercy in me today it is only the kind that keeps people breathing and the cliff face sleeping, and you will not like the taste but it will keep you alive."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Break the Echo and Seize the Skiff",
+            "text": "You order rope-pairs to stagger their steps in a crooked cadence, counting out a rhythm the wind cannot memorize, and you dust the ledge with ash from a travel censer to soften sharp reflections. With chain-hook ready, you guide the apprentices in a low approach, keeping bodies close to stone so that the shardwights cannot find purchase in wide gestures. A hand signal has Liora and Bren angle left while you slip right, splitting the echo so it cannot mimic the whole. You close the last span in a burst, hook snapping the skiff’s gunwale while your off-hand shoves Keshan’s balance into the wall, and the rope-line follows to pin sacks and smuggler alike. Voices stay low, orders stay precise, and not a stone falls that did not already want to shift; you keep the cliff a witness, not a weapon.",
+            "outcome": "Keshan Drook is disarmed and bound with a Harbor knot that keeps pride and blood inside the skin, his skiff secured and the sacks counted back into Orun’s ledger without a single spill to tempt the slope. The apprentices watch you work the echo like a net, and their fear folds down into skill they will remember when another wind tries to teach them another mistake. Orun nods a craftsman’s gratitude and promises to sing Chainwake a truer edge, and a River Wardens patrol later arrives to collect the smuggler after you signal them by lantern code once the carts are clear. Your standing rises with the Glassworkers’ Concord, and word reaches the Dockers’ House of Weights that you kept labor safe without selling anyone to gravity. Keshan’s reputation sours toward you, and though he spits a curse about mirrors and names as he is marched away, he also memorizes the way you counted the cliff and will not forget it."
+        },
+        {
+            "id": "C2",
+            "title": "Lantern Ruse in the Wind Galleries",
+            "text": "You slip your lantern code-slate from its oilskin and scratch a quick decoy pattern for Liora to mirror with a second light, a private League-of-Lanterns whisper that marks a false Warden sweep around the next bend. While Orun’s crew holds rope-pairs steady in a nook that swallows echoes, you set a shard of polished glass at the curve of the gallery to multiply the decoy glow and cast the shape of approaching bodies. Keshan eyes the light that is not a law yet reads like one and hisses orders to move in a hurry, shoving sacks back to your side of the hollow as he trims his crew’s gear to run. You let your breath count to five and then to seven so the wind cannot find your timing, and with a curt gesture you have the apprentices haul the grit into carts even as the smugglers vanish like ink into wave-foam. The cliff gets no new note to sing because no one shouts, no one lunges, and the sand slides only where you instruct it to slide.",
+            "outcome": "The smuggling transfer is disrupted cleanly as Keshan abandons his take to flee a law that never quite arrives, and Orun’s tally is met without a slick of blood on the stone. The apprentices learn the value of a quiet trick and an honest rhythm, and their respect for your judgment grows like a flame taking to clean wick. Keshan escapes, but he throws you a look that reads as both curse and compliment, the kind of look that speaks of future lanterns owed in storm or fog. Your reputation with the Glassworkers’ Concord warms, while your standing with Keshan becomes complicated, a wary thread that could knot into either help or harm later. The cliff remains whole, the galleries keep their teeth sheathed, and the carts roll home with their weight singing softly under a sky that did not have to learn a scream."
+        },
+        {
+            "id": "C3",
+            "title": "Oath on the Edge, Mercy in the Ledger",
+            "text": "You call for stillness with an upraised palm and speak low enough that the wind must strain to repeat you, inviting Keshan to an oath he cannot shrug without smelling brine in his sleep. You promise no irons today if the sacks are returned and if he will meet you at the Court of Echoing Shells before the next high tide, where he can plead for a legal haul under Dockers’ eyes and honest weights. The apprentices hold their rope-line like a choir holds breath, and in that quiet your words find grip on the heart that swagger usually hides. You remind Keshan of drowned men and of how the city remembers in salt and glass, and you set your fulgurite shard warm in your fist so that your promise is a thing that can be felt and not only heard. He can walk away with his body whole and his future not yet spent, or he can make the cliff his judge and jury and hope it is feeling merciful today.",
+            "outcome": "Keshan surrenders the sacks with a theatrical sigh and a flippant bow, but his eyes slip to the Court’s direction as if measuring the distance and the courage it will cost to cover it. Orun accepts the sand and the compromise with a craftsman’s shrug that says results matter when kilns are hungry, and he stakes his own word to witness any hearing you care to call. The apprentices see that strength can be the ability to hold a hand steady as well as to strike, and some of the fear in them becomes respect for oaths that bind sharper than chains. Your reputation grows with the Glassworkers’ Concord for bringing the sand home and for avoiding needless harm, and Keshan’s stance toward you tilts toward reluctant respect tinged with caution. The cliff remains unmoved, the wind lacks a scandal to repeat, and you carry home not only the city’s grit but also a date with judgment that may ripple forward into your next steps."
+        },
+        {
+            "id": "C4",
+            "title": "Shadow Pact, Broken Mirrors",
+            "text": "You step close enough for Keshan to hear the grit in your voice and offer him a trade that tastes like ash but swallows easily: he guides your crew through the worst mimic zones and, in return, you allow him to carry away two sacks clearly marked with a resin seal that looks like guild claim but is not. While he considers, you have Orun dust the accepted sacks with a kiln-spoiling lichen whose scent will only wake under hard heat, turning any illicit melt into bubbly slag fit only for road sand. You keep the rope-line moving to an off-beat you taught on the march, cutting across the gallery in crooked steps that make the shardwights stumble over their own stolen timing. Keshan’s skiff takes on the two decoys and he whistles a path that threads wind knives without asking blood, his crew never quite realizing they are ferrying pride and not profit. No one shouts, no one falls, and the echo gets nothing clean enough to memorize.",
+            "outcome": "The smuggling transfer collapses quietly once the decoy sacks reach a furnace elsewhere and ruin a night’s illicit work, sending a rumor like a cracked bell through Keshan’s network that someone’s mirrors are lying. Orun’s quota is met and the apprentices carry home a lesson in crooked mercy and straight planning, their feet remembering the dance that kept them theirs. Keshan does not spit your name, but he weighs it, and the way his eyes rest on you says he understands you saved his crew and wounded his purse in the same motion. Your favor with the Glassworkers’ Concord rises for keeping sand and safety both, while your standing with Keshan becomes a storm-front that could break into rain or knives depending on which way the wind turns next. The cliffs keep their temper, the galleries keep their song, and the carts roll back toward Prism Quay under a sky that pretends it never saw you."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Upgrade",
+            "description": "Tideglass tuning pass: Orun Shard improves Chainwake’s edge resonance, slightly increasing cutting stability."
+        },
+        {
+            "type": "Currency",
+            "description": "10 silver in guild pay."
+        },
+        {
+            "type": "Reputation",
+            "description": "Reputation: +Small with Glassworkers' Concord, ±Minor with Keshan Drook depending on outcome."
+        }
+    ]
+}

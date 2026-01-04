@@ -1,0 +1,79 @@
+{
+    "id": "M11",
+    "title": "Tile and Ledger",
+    "quest_giver": {
+        "name": "Lysa Shardhands",
+        "affiliation": "Order of the Shard"
+    },
+    "description": "The Shard Bastion exhales its blue dusk-breath across Chainward, and its wards glimmer like frost caught mid-song as you step into a chamber where even echoes stand at attention. Lysa Shardhands waits with helm tucked beneath one arm, the sheen of oath-oil on her gauntlets and a tremor of doubt veiled behind the iron of her gaze. She has read your palimpsest copy in secret, the ghost-writing rising under lamp-heat like a bruise, and it has set splinters in her certainties. She speaks of the sealed stair rumored to sink into the Shard’s own heart, of a sanction no warden grants lightly, and of a city whose light could yet hide shadows heavy enough to drown crews and charters both. She offers a bargain forged between law and necessity: present the evidence to Preceptor Vara Lume and force a reckoning measured in truth, not friendship or ledger-favor. In return, the Order’s aegis will cover your named crew when House Kelvar sharpens quills or buckles armor, for even financiers keep cudgels in their counting halls. But a case must be anchored, and the last anchor lies in the House Kelvar Counting Hall: a ledger bead-string braided in numeric knots at the matron’s stand, the private glow contracts that yoke toll-clan cousins to a tide-clock’s mercy. Sava Inkweft, ink-stained and whisper-light, will draw you a map to the old hatch beneath the House of Reconciliation’s dais—an artery of civic memory that empties into lamplit dark behind Kelvar’s walls if you must run. You will walk into numbers with teeth and let them bite your gloves while you pry free the bead-string that tames their jaw. When dusk gathers and the Shard hums like rain on bronze, you will stand before Vara Lume with palimpsest, tide-clock cipher, and beads, and ask the city’s guardian to open the sealed stair before the hum’s next falter breaks more than sleep.",
+    "objectives": [
+        "Meet Lysa Shardhands at the Shard Bastion and agree to present your evidence.",
+        "Infiltrate House Kelvar Counting Hall and retrieve a specific ledger bead-string from the matron’s stand.",
+        "Present palimpsest, tide-clock cipher, and bead-string to Preceptor Vara Lume.",
+        "Secure formal sanction to descend the sealed stair with your assembled components."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lysa Shardhands",
+            "lines": "Faith without scrutiny curdles into tyranny, and I have no wish to drink sour vows when the city needs clean water. I swore to the Shard, not to any ledger, and that oath binds me to truth even when it chews my own hand. Bring me the bead-string from the matron’s stand, and the Preceptor will be forced to look past friendships and weigh the law by its own song rather than the clink of coin. If the evidence sings clear and she refuses, then the shame will be mine to carry at her side, and I will feel its weight each time the Bastion’s wards take my hand. But I will not pretend I do not see the crack forming along our bright facade, and I would rather mend a crack than polish a lie until it looks like law. Go with the river’s calm and a hookman’s steadiness, Jaryn Chainwake, and I will hold the door you open until even the proud must pass through."
+        },
+        {
+            "speaker": "Sava Inkweft",
+            "lines": "Under the House of Reconciliation is a hatch that remembers old escapes, a polite little door that pretends to be part of the dais shadow until your fingers find the worn edge. If the Counting Hall grows unfriendly and the tide of faces turns, that hatch will tip you into a flight of steps that smells of damp ink and old bread, and from there to a culvert with the good manners of silence. Do not be brave when you should be quick, for the tide-clock in the Hall casts a shadow that some swear is a net, and once it snags a name, it tugs until the bearer drowns in appointments. Take only what you must, because greed makes a heavy foot, and heavy feet wake guards who listen with their teeth. When you touch the bead-string, count your breaths and your steps, and do not let the rhythm of the tide-clock become your heartbeat, or you will walk when it says walk and stop when it says stop. If I see the signal from your prism-lamp in the culvert grate, I will loose a cough of dust in a ledger-room to make the watchers blink at the right time."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "I’ve pulled chains in flood and learned which links crack first, and it’s almost always the ones praised for being unbreakable. I’ll pull this one and hand you the broken piece if that’s what it takes to make the city look at itself with eyes instead of mirrors. But if I walk that sealed stair for you, Lysa, hear me: I walk it for the river too, and for the barge crews whose names are the Chanting Ford’s music in flood season. We settle the hum so children sleep and barges pass with lanterns steady, not to make anyone’s sigil shine brighter or any faction rise like a tide over the rest. I do not love halls where numbers wear armor, but I can be quiet as a rope under strain and sharp as the hook that saves a man from going under. Give me the map, the word, and the second breath after dusk, and I will bring you beads that clack like teeth when liars smile."
+        },
+        {
+            "speaker": "Thane Kelvar",
+            "lines": "Riverborn, you step with the confidence of one who thinks debt is a storm that only breaks on other roofs, and I admire the posture even as I question the wisdom. The Counting Hall is a house built on arithmetic and trust, and those who stride in with accusations often discover that numbers remember more than people do. If you mean to fish in our ledgers for a scandal, know that ledgers fish back, and hooks go both ways when the river runs fast. House Kelvar owes much to the city, and the city owes much to us, though debt is a word that sours in the mouths of those who eat without paying. Take my counsel freely and let it be a kindness between strangers: prove what you claim by daylight on the floor of the House of Reconciliation, or skulk by night and let posterity find your name scratched in a margin none respect. Walk carefully, Jaryn Chainwake, for the tide-clock marks those who mistake boldness for right."
+        },
+        {
+            "speaker": "Preceptor Vara Lume",
+            "lines": "You stand before the Shard’s light with ink that rises under heat, a cipher that tics like a hidden metronome, and beads that whisper a history of private glow, and I do not regard such offerings lightly. The Order’s charge is to tend law and luminescence together, and neither must be allowed to flicker for the convenience of any clan or covenant. If the Crystal’s hum falters, we must answer with a clear chord of truth, and sometimes that means hearing a song we would rather not be taught. Present your palimpsest and your tide-clock figures, and I will measure them against the Shard-law as a warden measures chain-links before a flood. Should they hold, I will grant sanction to sound the sealed stair, and I will set wardens as your shield against reprisals, for when a city asks for courage, it must also provide armor. Know this as well: if your proof is a reed boat patched with rumor, I will scuttle it myself and set you to sweep the Bastion steps until your fingers remember humility."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Petition by Daylight and Anchor in Law",
+            "text": "You choose to enter the House Kelvar Counting Hall during public hours with a writ of inquiry from the House of Reconciliation, your copper ward-tile visible and your river-cloak clean of mud. You request viewing rights to historic contracts under the city’s transparency provisions, arguing that the Shard’s welfare supersedes clan privacy when glow is at stake. You keep Mara Tidecall and two union stewards nearby as witnesses, their presence a quiet flood-bell warning that the river watches and remembers. You speak in measured tones that land like oars, steady and rhythmic, and you let silence work for you when the clerks try to bait you into sharpness. You resolve to take only the named bead-string and to log your request in their visitor’s ledger, trusting that a lawful footprint can be a shield as well as a trail.",
+            "outcome": "Clerks bristle and stall, but the public floor demands a performance of openness, and Thane Kelvar cannot afford to be seen swatting petitioners in front of scribes who gossip with their ink. You are escorted to the viewing stand beneath the tide-clock, where its pendulum breath keeps trying to lengthen your pauses and shorten your patience, yet you hold to your count. With a calm hand you request the matron’s bead-string for cross-referencing, and the attendant blanches but complies under the polite pressure of witnesses. As you cradle the beads, you notice a pattern that aligns precisely with Neris Aline’s tide-clock cipher, and you recite the knot sequence until the scribe copying your request stumbles, leaving an ink blot shaped like a startled eye. You exit with the bead-string logged as ‘temporarily signed to public scrutiny’, which enrages House Kelvar privately but binds their hands; your reputation among the Twelve Seals’ transparency delegates rises like a lantern caught by a favorable breeze. Consequences linger: Kelvar clerks begin a quiet smear that you grandstand for applause, but your lawful path gives the Order cover to issue sanction without fear of procedural backlash."
+        },
+        {
+            "id": "C2",
+            "title": "Ghost the Ledgers by Night and Flee by Ink-Hatch",
+            "text": "You bide your time until the Shard’s dusk-breath cools the streets and the Counting Hall windows glow like bottled sunsets, then you slip along the Mirrorclose gutters with Sava’s sketch folded into your bracer. You lift the dais hatch in the House of Reconciliation like a careful promise and descend into the stair that smells of damp ink and lost arguments, counting your steps so the tide-clock cannot own your rhythm. Shadows peel from the walls like old bills as you find the culvert mouth that kisses the Counting Hall’s foundations, and you breathe shallow to keep the dust from coughing your presence forward. Inside, you move with hookman patience, hands wrapped to catch beads without chatter, eyes tuned to ward-lines that hum like gnats. You take only the matron’s bead-string, a coil of years distilled into glass and knot, and you leave a sliver of copper ward-tile where it lay as a wordless message that the Order’s eyes can find even if yours must run.",
+            "outcome": "The tide-clock’s shadow tries to pace you, lengthening when you slow and nipping at your heel when you rush, but your Fenmint training keeps your breath even while your heart hammers like a dock pile. A patrolling clerk passes within two steps of you, her ink brush whispering, and you press yourself flat behind a ledger case that smells of eel-skin and salt until her shoes fade like a worn sum. You reach the culvert just as a bell changes at the Chainbridge Crown, and the pulse of the chains masks the creak of the hatch as you slip back into the city’s hidden veins. Sava is there with a smudge on her nose and a grin like a knife, and she claps your shoulder once before you both vanish into the House of Reconciliation’s lamplit calm. You arrive at the Bastion with the beads unlogged and unblessed, which gives Preceptor Vara Lume a cleaner blade to cut with but invites House Kelvar to howl of theft; the Order’s protection writ slams down like a shield to catch the first thrown stones. The Night Orchard notices your hatch-work and sends you a quince blossom tied with black thread, a token that smells like favor and trouble in equal measure."
+        },
+        {
+            "id": "C3",
+            "title": "Trade a Rumor for a Thread with the Night Orchard",
+            "text": "You seek Tala Fenmint near the river mint stalls, her laugh low as fog and her eyes already measuring the wind of your intent, and you ask for an introduction to a gardener who trims more than branches. You offer a rumor you would rather keep—whispers of a harmonizer chord that made sleepers walk moons—paid forward on behalf of Neris Aline but stripped of names and timings, wrapped in courtesy more than coin. The Night Orchard listens from the shade of a plum seller’s awning and proposes a graft: they will place a decoy bead-string in the matron’s stand for one hour while you lift the true one, and in return they ask for your silence on a tunnel you once used beneath the Chainbridge. You taste night-fruit on your memory and feel the old forgetting stir like silt, but you steady yourself with the weight of your barge-hook and speak conditions: no lives taken, no blood spilled, and the decoy must be a true copy for the law’s sake. When hands touch in the bargain, sap-sticky and solemn, you know you are binding yourself to gardeners who prune problems where others plant flowers.",
+            "outcome": "The switch runs like a river-hushed miracle: a Kelvar clerk yawns at precisely the wrong moment, an ink pot tips, and a chiding overseer steps aside to fetch sand while a gloved hand makes the trade under a veil of ordinary annoyance. You pocket the true beads while the decoy continues to tally false security, and no alarm sounds because all the habits in the room continue trundling along their grooves. The Gardener’s agent leaves a plum pit carved with a tiny ladder in your palm, reminding you the Orchard has ways up and down you may never see, and that debts in sap are not easily dried. Preceptor Vara eyes your prize with suspicion and respect, reading the risk and the restraint, and grants that truth acquired without blood should not be spurned simply because it was clever. House Kelvar suspects phantom hands but cannot name them without naming their own laxity, and their anger turns inward for a time, fraying bonds you will feel later as tighter tolls and friendlier terms withdrawn. The Night Orchard now holds a quiet clipping of your trust, and future paths may open where law does not walk, yet you sense that each step among their roots will ask a price you must count twice."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Sanction Tile",
+            "description": "Order of the Shard sanction tile granting access to the sealed stair, a blue-lit seal that authorizes descent when presented to wardens."
+        },
+        {
+            "type": "Protection Writ",
+            "description": "Protection writ for your named crew against Kelvar detainment, shielding them from seizure or toll-holds during the investigation."
+        },
+        {
+            "type": "Standing",
+            "description": "Increased standing with the Twelve Seals delegates who favor transparency, earning audience and goodwill in future petitions."
+        }
+    ]
+}

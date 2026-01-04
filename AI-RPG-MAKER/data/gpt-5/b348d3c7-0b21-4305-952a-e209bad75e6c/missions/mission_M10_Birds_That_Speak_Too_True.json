@@ -1,0 +1,49 @@
+{
+    "id": "M10",
+    "title": "Birds That Speak Too True",
+    "quest_giver": "Thay Nerr",
+    "description": "The Rookery Spire’s aviaries throbbed with caws and clever silences, and mirrored kites winked like insects over Skyline. Thay Nerr admitted to Neris that a lexicon of bird-calls had been stolen and a flurry of false signals would soon trigger a hinge-closure during a truth-lens demonstration staged by the Collegium. A living pane of glass under the Conservatory had begun reflecting what it wanted, and if allowed to perform, the truth-lens might out more than informants—it might show a backward-burning flame from a certain night when docks were spared and other lives were not. Mistress Caw stroked a rook that imitated voices uncannily, a little parliament of birds rehearsing consent and dissent alike. The city’s language had become a weapon, and Neris was asked to dull it carefully without breaking it.",
+    "objectives": [
+        "Recover the stolen lexicon of bird-calls from a hidden bench dealing secrets near Dyers’ Spiral.",
+        "Decode the false-signal pattern intended to trigger an emergency hinge-closure during the Collegium’s truth-lens demonstration.",
+        "Persuade or bribe Mistress Caw to ground mirror-kites at the critical window, or substitute a harmless call.",
+        "Sabotage or redirect the truth-lens demonstration so protected informants are not exposed while still exposing lamp-color tampering.",
+        "Secure a recording—avian or optical—tying dye futures in the Saffron Ledger Exchange to Red Gale hoaxes."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Thay Nerr",
+            "line": "Everyone wants to own the sky because light is a habit for the eye, and habits can be priced. Someone will use my birds to tell your Bastion when to hold its breath during a show that should have been a lesson, and then Parliament will pretend that truth arrived by accident. You can either clip wings or teach them a better song. I know which choice earns gratitude and which earns sermons. Try not to make me owe a priest."
+        },
+        {
+            "speaker": "Mistress Caw",
+            "line": "The birds mimic what they hear too often, like children and politicians. If I ground them, the city loses its gossip and gains a silence that smells like preparation. If I let them fly, they will carry the word that cuts the wrong throat. You can buy an hour of quiet with a promise you can keep, and with a pouch of seed that smells of fennel. Do not teach my rooks to lie; teach them to wait."
+        },
+        {
+            "speaker": "Pel Korr",
+            "line": "The truth-lens is a tool, not a god, and it will not be blamed for what men ask it to see. We have safeguarded informants before; we can do it again if given time and clear corridors. If someone intends to crash a hinge for theater, I will break their mirrors and display the shards as a lesson in optics. Keep your birds on their perches, archer. I will aim the lens at what deserves it."
+        },
+        {
+            "speaker": "Lisi Jhak",
+            "line": "I am tired of being accused by those who cannot balance a ledger except with borrowed candles. If there were hoaxes timed with trades, they were the work of amateurs who do not understand futures. Bring me proof, and I will burn it myself to keep the markets from catching. Bring me rumor, and I will buy it cheap and sell it dear."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "Give me the lexicon and I’ll make the sky say nothing at the right time. I will not let truths become knives in the wrong ribs. If the lens must teach, let it teach the color of coin when it stains a lamp."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M09"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        "Rookery sky-rights token for emergency use (one vote night)",
+        "Recorded rook-call confession linking dye futures to Red Gale events",
+        "Reputation: Rookery of Whisper-Brokers (debtor’s grace)",
+        "Knowledge: the living pane has been trained with faces from Parliament’s west gallery"
+    ]
+}

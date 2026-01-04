@@ -1,0 +1,297 @@
+[
+    {
+        "from": "Erynn Sythar",
+        "to": "Greydin Korr",
+        "type": "Alliance"
+    },
+    {
+        "from": "Erynn Sythar",
+        "to": "Seresya Thorn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Erynn Sythar",
+        "to": "Yassa Nim",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Erynn Sythar",
+        "to": "Nalia Pree",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jorin Vell",
+        "to": "Saela Morn",
+        "type": "Alliance"
+    },
+    {
+        "from": "Jorin Vell",
+        "to": "Rul Fen",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Jorin Vell",
+        "to": "Istel Shardwright",
+        "type": "Different goals"
+    },
+    {
+        "from": "Jorin Vell",
+        "to": "Nalia Pree",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Seresya Thorn",
+        "to": "Erynn Sythar",
+        "type": "Friendship"
+    },
+    {
+        "from": "Seresya Thorn",
+        "to": "Kesh Storm-Runner",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Seresya Thorn",
+        "to": "Yassa Nim",
+        "type": "Alliance"
+    },
+    {
+        "from": "Seresya Thorn",
+        "to": "Istel Shardwright",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Istel Shardwright",
+        "to": "Seresya Thorn",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Istel Shardwright",
+        "to": "Binder Hark Tamsin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Istel Shardwright",
+        "to": "Saela Morn",
+        "type": "Conflict"
+    },
+    {
+        "from": "Istel Shardwright",
+        "to": "Jorin Vell",
+        "type": "Different goals"
+    },
+    {
+        "from": "Nalia Pree",
+        "to": "Rul Fen",
+        "type": "Alliance"
+    },
+    {
+        "from": "Nalia Pree",
+        "to": "Erynn Sythar",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nalia Pree",
+        "to": "Mira Pellan",
+        "type": "Alliance"
+    },
+    {
+        "from": "Nalia Pree",
+        "to": "Yassa Nim",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Nalia Pree",
+        "to": "Ovelle Kite",
+        "type": "Different goals"
+    },
+    {
+        "from": "Mira Pellan",
+        "to": "Nalia Pree",
+        "type": "Alliance"
+    },
+    {
+        "from": "Mira Pellan",
+        "to": "Rul Fen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mira Pellan",
+        "to": "Kesh Storm-Runner",
+        "type": "Hostility"
+    },
+    {
+        "from": "Mira Pellan",
+        "to": "Jorin Vell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mira Pellan",
+        "to": "Saela Morn",
+        "type": "Conflict"
+    },
+    {
+        "from": "Kesh Storm-Runner",
+        "to": "Seresya Thorn",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Kesh Storm-Runner",
+        "to": "Ovelle Kite",
+        "type": "Friendship"
+    },
+    {
+        "from": "Kesh Storm-Runner",
+        "to": "Mira Pellan",
+        "type": "Hostility"
+    },
+    {
+        "from": "Kesh Storm-Runner",
+        "to": "Greydin Korr",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ovelle Kite",
+        "to": "Kesh Storm-Runner",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ovelle Kite",
+        "to": "Yassa Nim",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ovelle Kite",
+        "to": "Nalia Pree",
+        "type": "Different goals"
+    },
+    {
+        "from": "Ovelle Kite",
+        "to": "Jorin Vell",
+        "type": "Conflict"
+    },
+    {
+        "from": "Greydin Korr",
+        "to": "Erynn Sythar",
+        "type": "Alliance"
+    },
+    {
+        "from": "Greydin Korr",
+        "to": "Kesh Storm-Runner",
+        "type": "Conflict"
+    },
+    {
+        "from": "Greydin Korr",
+        "to": "Yassa Nim",
+        "type": "Hostility"
+    },
+    {
+        "from": "Greydin Korr",
+        "to": "Binder Hark Tamsin",
+        "type": "Different goals"
+    },
+    {
+        "from": "Saela Morn",
+        "to": "Jorin Vell",
+        "type": "Alliance"
+    },
+    {
+        "from": "Saela Morn",
+        "to": "Mira Pellan",
+        "type": "Conflict"
+    },
+    {
+        "from": "Saela Morn",
+        "to": "Istel Shardwright",
+        "type": "Conflict"
+    },
+    {
+        "from": "Saela Morn",
+        "to": "Rul Fen",
+        "type": "Revenge"
+    },
+    {
+        "from": "Saela Morn",
+        "to": "Yassa Nim",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Hark Tamsin",
+        "to": "Istel Shardwright",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Hark Tamsin",
+        "to": "Greydin Korr",
+        "type": "Different goals"
+    },
+    {
+        "from": "Hark Tamsin",
+        "to": "Seresya Thorn",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Hark Tamsin",
+        "to": "Yassa Nim",
+        "type": "Alliance"
+    },
+    {
+        "from": "Rul Fen",
+        "to": "Nalia Pree",
+        "type": "Alliance"
+    },
+    {
+        "from": "Rul Fen",
+        "to": "Mira Pellan",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rul Fen",
+        "to": "Jorin Vell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Rul Fen",
+        "to": "Saela Morn",
+        "type": "Conflict"
+    },
+    {
+        "from": "Rul Fen",
+        "to": "Ovelle Kite",
+        "type": "neutral"
+    },
+    {
+        "from": "Yassa Nim",
+        "to": "Ovelle Kite",
+        "type": "Alliance"
+    },
+    {
+        "from": "Yassa Nim",
+        "to": "Seresya Thorn",
+        "type": "Alliance"
+    },
+    {
+        "from": "Yassa Nim",
+        "to": "Greydin Korr",
+        "type": "Hostility"
+    },
+    {
+        "from": "Yassa Nim",
+        "to": "Erynn Sythar",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Yassa Nim",
+        "to": "Nalia Pree",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Yassa Nim",
+        "to": "Binder Hark Tamsin",
+        "type": "Alliance"
+    },
+    {
+        "from": "Yassa Nim",
+        "to": "Saela Morn",
+        "type": "Cooperation"
+    }
+]

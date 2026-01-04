@@ -1,0 +1,60 @@
+{
+    "name": "Nyra",
+    "surname": "Kest",
+    "race": "Human",
+    "age": 24,
+    "appearance": "Sun-browned pilot with fog-silk tattoos; wind-goggles perched; cropped hair bleached by sun.",
+    "character": "Daring and quick-witted, loyal to crew.",
+    "traits": [
+        "Audacious",
+        "Playful",
+        "Restless",
+        "Generous"
+    ],
+    "skills": [
+        "Rope-wing piloting",
+        "Glide mechanics",
+        "Wind-map reading",
+        "Street navigation"
+    ],
+    "talents": [
+        "Balances on swaying lines",
+        "Feels thermals through skin",
+        "Sings true to Wind Courts pitch"
+    ],
+    "flaws": [
+        "Reckless",
+        "Hates authority",
+        "Gambles on dares"
+    ],
+    "dreams": [
+        "Lead the Seven Lashers",
+        "Win exclusive fog-silk harvest rights"
+    ],
+    "secrets": [
+        "Uses the hidden mooring ring beneath Pier Three",
+        "Smuggled Solace enzymes to buy a friend's blue-time"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ayo Solace",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Thren Basso",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Lune Arikara",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Seru Chime",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Osk Talin",
+            "relation_type": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "M12",
+    "title": "One Note for Aurelia",
+    "quest_giver": "Kael Orisborn",
+    "description": "Midnight bleeds pale light across the Sun-Ring, and the Heliolith’s hum steadies, then waits. News has traveled faster than kites: the Spire took a new note and did not shatter. Now the city must decide how to live with a song it helped write. Kael Orisborn, once your rival and now your uneasy ally, asks you to lead a public dedication at the Cascadrome terraces. Blue-Timers gather with hourglass tokens held like lanterns; Covenant singers drift in with bowls of mist; Syndic pilots bring line-binders chalked with new wind-windows; Solace apprentices hold oils that smell of mercy; Cohort workers arrive with ash-scarred hands; the Ledger stands at the edge, calculating how much applause can be taxed. If you can link law and rite in a final ritual that redistributes a fraction of the Blue Hour across tight weeks and binds the prism’s tuning to public report, Aurelia will have more than a miracle. It will have a habit.",
+    "objectives": [
+        "Conduct a dedication that binds the prism’s new note to a monitored schedule at the Cascadrome.",
+        "Assign a public ledger of tuning events carried on bark-ribbons in the Under-Arcum.",
+        "Mediate a formal concession from Avar Jen limiting predictive underwriting during Blue Hour.",
+        "Announce the founding of a shared school of wind, water, and heat on the Cascadrome’s mid-tier."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Kael’s voice is different tonight: less granite, more riverbed. \"You made a braid that holds. Now we must teach people to lean on it without sawing it through. I want you to speak, and I want the Spire to answer you in a way the city can hear: not with spectacle, but with schedule. If you make this about glory, I’ll cut your microphone with my own hands. If you make it about work, I’ll carry your tools.\"",
+        "hero_reply": "Tallea looks out over the terraces and sees her city as a chorus that hasn’t learned harmony yet. \"We tuned a note. Now we teach it. Law keeps the beat; rite carries the melody; craft builds the instruments. We will report every adjustment in the market’s own shadows where even smugglers read the walls. Avar, you will not own the lull; you will list it. Meret, you will count without cruelty. Seru, you will sing without drowning us in wish. Maela, you will teach the wind to be kind. Thren, you will remind us where to set nets, not where to set traps. And I will fail in little ways and fix them in public until a child no longer asks whether the Spire loves her.\"",
+        "npc_interjections": [
+            {
+                "name": "Meret Hal",
+                "line": "Meret lifts a cup of condenser water. \"To work that looks like prayer because it is careful, and to prayer that looks like work because it is accountable. The Aquifer signs the schedule. We will not hide behind lulls.\""
+            },
+            {
+                "name": "Avar Jen",
+                "line": "Avar’s smile is the price of compromise paid in small coins. \"The Ledger recognizes the value of transparency in reducing rumor volatility. We will limit predictive instruments during Blue Hour to prevent market shock. Do not mistake this for surrender. Consider it… a recalibration fee waived.\""
+            },
+            {
+                "name": "Seru Chime",
+                "line": "Seru’s song lifts, bittersweet. \"We pledge to sing the report and not just the dream. Our bowls will carry not only grief but numbers, and we will not call that profane.\""
+            },
+            {
+                "name": "Maela Vint",
+                "line": "Maela bumps your shoulder. \"Name the school and I’ll bring brats who can tie knots and keep time. Teach them to hear when a bridge is tired and when a person is. I want fewer funerals and more kites.\""
+            },
+            {
+                "name": "Varo Pell",
+                "line": "Varo raises a soot-stained hand. \"If the Spire holds, I’ll run fewer convoys at moon-close and more when the road likes us. I’ll take that trade.\""
+            }
+        ],
+        "ambient": "The Heliolith answers with a thin, sure tone that settles into the terraces like cool air. In the Under-Arcum, lanterns shift to a new code: green, blue, gold—the colors of work, water, and song."
+    },
+    "connections": {
+        "previous": "M11",
+        "next": null,
+        "related": [
+            "M8",
+            "M5",
+            "M1"
+        ]
+    },
+    "rewards": [
+        "Experience: 1000",
+        "Founding Charter: School of Wind, Water, and Heat (unlocks training and apprentices)",
+        "Reputation (Citywide): +15",
+        "Blue-Timer Tokens (x5)",
+        "Permanent Access: Heliolith gallery for tuning audits"
+    ]
+}

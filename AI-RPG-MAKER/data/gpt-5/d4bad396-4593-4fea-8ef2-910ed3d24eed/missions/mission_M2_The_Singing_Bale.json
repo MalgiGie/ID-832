@@ -1,0 +1,59 @@
+{
+    "id": "M2",
+    "title": "The Singing Bale",
+    "quest_giver": "Maera Lockfen",
+    "description": "Captain Maera Lockfen summons you to the River Crown Citadel where the stone sweats with lock-mist and the Wardens’ ink dries faster than their temper. In a vault lined with oath-etched brass plates sits a seized bale of blackglass, bound in tarred canvas that shivers at midnight. It hums a note that refuses to be ignored and carries a signature you almost recognize. The Wardens want the song stilled without destroying the evidence. You know the Embersleeve’s angles and the Collegium’s appetite; between them runs a narrow channel where truth might pass without capsizing.\nThe Citadel’s machine-gates sing their own iron psalms while Gatewrights argue about spillways. Maera’s eyes are a flint that chooses when to spark. She gives you space and a warning: if this bale ties Embersleeve blades to the Loom’s pulse, she will cut deep and expect your hand on the knife, but not on the throat.",
+    "objectives": [
+        "Meet Captain Maera Lockfen at the River Crown Citadel",
+        "Inspect the seized blackglass bale in the Warden vault and take resonance notes with Chime-plate E5",
+        "Interview Ressa Quay, a diver detained for couriering suspicious shards",
+        "Provide Magister Vell with a spectral sketch without compromising Warden custody",
+        "Decide whether to share a masking pattern to quiet the bale (record your choice on a brass leaf)"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Maera Lockfen",
+            "text": "You and I don’t share a ledger, Fenwater, but I owe a life to a culvert you opened when panic made cowards of us all. I’ll spend that debt on your ears today. This bale sings wrong, and city folk who sleep lightly are starting to dream about water walking off with their faces. I won’t have panic. I will have answers that stand up in a hall of witnesses."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "If the song is a key, it might be turning a lock in more than just ears. Blackglass keeps secrets the way a canal keeps silt: it settles until something stirs it. I can take notes without waking what’s sleeping in there, and I’ll carry a sketch to Vell that’s clean of custody stains. But if the hum maps to oath-tones, someone meant it to slip through ledgers like an eel through hands."
+        },
+        {
+            "speaker": "Ressa Quay",
+            "text": "I carried bundles for coin and because my sister coughs every time the kiln smoke goes wrong. Don’t write me down as a villain with a sharp jaw and a romance for knives. I never heard the bale sing until the Wardens dragged me out of my bed by the toe. If there’s a signature in that sound, it isn’t mine, and if I’d known, I’d have tied a stone to the damn thing and given it to the bottom."
+        },
+        {
+            "speaker": "Magister Vell",
+            "text": "Bring me a resonance profile, not a shard. I do not need the Wardens in my antechamber blowing steam and demanding keys while their oaths rattle like cheap hinges. The Loom’s hum is developing a ghost-harmonic; I will not say cause, not yet. But if this bale hums the same ghost, then we have a conversation to hold at a different volume with different listeners."
+        },
+        {
+            "speaker": "Maera Lockfen",
+            "text": "Choose, then. Share a masking pattern that calms the song and I can sleep my crews without hearing their teeth chatter. Keep your pattern to yourself and write that choice on brass, so that when this goes to the Scriptorium I can say I asked you clean and you chose eyes-open. Either way, step carefully; I won’t forgive a lie, but I’ve forgiven worse told to my face."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ],
+        "related_locations": [
+            "River Crown Citadel",
+            "The Loom of Tides",
+            "Scriptorium of Oaths"
+        ],
+        "factions_involved": [
+            "Wardens of the Confluence",
+            "Cobalt Collegium",
+            "Embersleeve"
+        ]
+    },
+    "rewards": [
+        "Warden catwalk pass for the Loom of Tides (restricted)",
+        "Modest stipend in sealed city scrip",
+        "Reputation (modest) with Wardens of the Confluence",
+        "Lead on Embersleeve involvement (if pursued)"
+    ]
+}

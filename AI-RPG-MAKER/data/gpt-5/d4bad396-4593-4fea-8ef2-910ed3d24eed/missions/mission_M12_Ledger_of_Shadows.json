@@ -1,0 +1,56 @@
+{
+    "id": "M12",
+    "title": "Ledger of Shadows",
+    "quest_giver": "Knife-Whisper Pell",
+    "description": "Night gathers under the Starspan, and votive ribbons lift like fins in a slow current. Knife-Whisper Pell stands where the arch’s shadow falls sharpest. They hold a ledger of secrets and your name waits open on a page. Embersleeve lieutenants still weep salt-blood tears for a broken Oath of Silence, and Pell offers a bargain: cut the curse and carry a debt, or refuse and watch the Vaults become a wound the city can’t stop licking. You came to write better bindings, not sharper punishments. The Mirror-Queen’s plate warms at your chest with the memory of a rhythm that bends without breaking.\nTavi watches from the rail with a face like a storm deciding whether to break. Asha’s bells hang nearby, ready to ring mercy or warning. The river under you makes its own argument in hush and slap. Whatever you do, it will remember.",
+    "objectives": [
+        "Meet Knife-Whisper Pell beneath the Starspan at midnight",
+        "Bring the ritual salt-bowl and the mirror-plate to attempt a ‘Soft-Cut’ of the Oath of Silence curse",
+        "Choose terms: exile for Pell or a sworn seat at the Oath’s oversight table in exchange for ending masking attempts",
+        "Perform the cut-binding and free three lieutenants from salt-blood tears without unbinding their debts",
+        "Seal the Night Market culvert wheel map behind a new oath accessible only by public need"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Knife-Whisper Pell",
+            "text": "You have written yourself into the city like a clever footnote that everyone wants to quote. Fine. Write me in too, or write me out and own the consequences. My people are not villains from a playhouse. They are mouths that learned to stay quiet because talking cost teeth. Free them from salt and I will leash my knives to your new rules, at least while they keep me fed."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "I won’t cut chains to make whips. I will cut so the skin can breathe and the blood remembers its job is to carry, not to accuse. End your masking at the Loom and stand witness to the Oath you tried to drown. I’ll carve you a chair with language that has splinters where it should. Sit on them and learn to like the posture."
+        },
+        {
+            "speaker": "Tavi Mireline",
+            "text": "You don’t have to forgive to be kind. You just have to choose to stop the bleeding where it makes you dizzy. Do the cut and make them sit down at the table where they can be watched. Mercy isn’t charity; it’s maintenance."
+        },
+        {
+            "speaker": "Asha Greyling",
+            "text": "Mercy that forgets is a knife that slips. Mercy that remembers is a stitch that holds. If you can cut the curse without unbinding the ledger, do it here where the arch can hear you mean it. I will ring soft if I hear the river ease."
+        },
+        {
+            "speaker": "Knife-Whisper Pell",
+            "text": "Very well. Cut me, then, broker. Teach me the rhythm you sold the city, and we will see if I can walk to it without stepping on your heels."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": [],
+        "related_locations": [
+            "The Starspan (Basalt Arch) Shrine",
+            "Night Market Vaults"
+        ],
+        "factions_involved": [
+            "Embersleeve",
+            "Order of the Basalt Arch",
+            "Archivists of Vow"
+        ]
+    },
+    "rewards": [
+        "Embersleeve curse lifted from three lieutenants; Vaults’ violence subsides",
+        "Debt ledger with Embersleeve balanced and closed",
+        "Access to the Night Market culvert wheel under a public-need oath key",
+        "Echo-sickness eased permanently by a small degree (reflection delay shortened)"
+    ]
+}

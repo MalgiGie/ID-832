@@ -1,0 +1,75 @@
+{
+    "id": "M10",
+    "title": "The Vault of Air",
+    "quest_giver": "Tern Quietwake",
+    "description": "Low moon. The reef’s torc opens as if remembering a mouth. Guided by the off-pulse map and the tuned echo-stone, Kael and Ilya set the Moonkey into the carved groove. The water shudders, then stills, and an ancient vault exhales air that tastes like old songs. Inside ribbed stone and coral scrollwork, a memory waits: a hum like a giant’s heartbeat, and murals that show Veloros turning his bones to a harbor so his kin could pass in peace. The vault contains no treasure, only instructions—a notation of the Long Note, a single chord that would set the city to walk if sung entire, and fragments of warning verse that drown a mortal throat. Rival divers hover at the door with knives that look small in the face of history. To leave with truth, Kael must decide how much of the Note to carry and whom to trust with it.",
+    "objectives": [
+        "Travel with Ilya Salt-Kite to Moonlock Reef at low moon and locate the carved groove.",
+        "Set the Moonkey pearl and open the vault without disturbing the surrounding coral.",
+        "Study and copy the murals and notations of the Long Note without attempting to sing them.",
+        "Drive off or negotiate with rival divers who attempt to seize your findings.",
+        "Deliver your copies to the Thalassarium and secure a private reading with the Listener Triad."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Ilya Salt-Kite",
+                "line": "If the vault holds a song that can walk a city, what do I do with the thought that we might one day wake up and find Thassyl has gone for a stroll? Laugh at it? Fear it? Steal it for the highest bidder? I’ll choose not to drown. That seems a good start."
+            },
+            {
+                "speaker": "Kael",
+                "line": "If the sea asks for a promise bigger than our throats, we answer with silence and drawings. We’re messengers today, nothing more. Let the Tongues decide whether to sing or swallow."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Vault Voice",
+                "line": "Once I was a road and a wall and a cradle. I chose to be bones above the tide so the small could pass below it. If you sing me awake for greed, I will stand and walk you into the deep. If you sing me awake for mercy, I will lie back down and be a harbor again."
+            },
+            {
+                "speaker": "Rival Diver",
+                "line": "A pretty echo to wrap around a scam. Hand over your copies and your pearl. I don’t need your permission to sell songs to men who know how to spend them."
+            },
+            {
+                "speaker": "Kael",
+                "line": "I’ve seen men sell their last breath for a rumor. Take your hunger elsewhere. This place asks for gentler hands than yours, and I’ve already used mine."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Tern Quietwake",
+                "line": "You brought back chalk lines of a sleeping giant’s throat. You did not speak where you should not. That is all I asked and more than most manage. We will keep this in the dark and only breathe on it when the city needs air more than pride."
+            },
+            {
+                "speaker": "Kael",
+                "line": "If the Long Note is a bridge, I don’t want to see who tries to march an army over it. Teach the city to be patient. Teach me to be the same."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ],
+        "related_to": [
+            "M3",
+            "M12"
+        ]
+    },
+    "rewards": {
+        "xp": 800,
+        "items": [
+            "Moonkey Setting Sketch (proof and potential key for future rites)",
+            "Vault Rubbing of Long Note Fragments (non-functional without full chord)"
+        ],
+        "favors": [
+            "Private counsel with the Listener Triad on future omens"
+        ],
+        "access": [
+            "Drowned passage to a forgotten breathing bell near the reef (escorted)"
+        ],
+        "coin": "0 credit-shells"
+    }
+}

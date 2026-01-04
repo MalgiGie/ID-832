@@ -1,0 +1,70 @@
+{
+    "name": "Kessa",
+    "surname": "Tharn",
+    "race": "Human (Lantern-Runner)",
+    "age": 22,
+    "appearance": "Quick-footed runner with shorn hair, a spore-mask hanging as a necklace, and scuffed boots webbed with resin.",
+    "character": "Cheeky, loyal, impulsive.",
+    "traits": [
+        "streetwise",
+        "bold",
+        "kind-hearted",
+        "impatient"
+    ],
+    "skills": [
+        "lattice crawling",
+        "signal code",
+        "garden route mapping",
+        "pickpocketing"
+    ],
+    "talents": [
+        "memorizes paths instantly",
+        "smells spore blooms early",
+        "throws her voice"
+    ],
+    "flaws": [
+        "reckless",
+        "too trusting of legends",
+        "petty theft habit"
+    ],
+    "dreams": [
+        "clear the Lanterns' name in the Chainhouse deaths",
+        "buy safe roofs for garden folk",
+        "ride a sky-ferry without paying"
+    ],
+    "secrets": [
+        "carried a package that etched moth-marks by design",
+        "uses a smugglers' crawl under the Arcade",
+        "once took ghost-silver and forgot a promise"
+    ],
+    "relations": [
+        {
+            "npc_name": "Thia Mol",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Gor Relk",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Mira Olt",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Iven Rill",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sera Dake",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Roa Mestri",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "Conflict"
+        }
+    ]
+}

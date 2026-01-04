@@ -1,0 +1,80 @@
+{
+    "name": "Kael",
+    "surname": "Ibrin",
+    "race": "Ash-Touched Human",
+    "age": 45,
+    "appearance": "Soot-brown skin freckled with pale ash-kisses, cropped hair, basalt pauldrons etched with vent glyphs, and a mask hanging ready at the throat.",
+    "character": "Practical, stern, and guided by a deep sense of the caldera’s memory.",
+    "traits": [
+        "stoic",
+        "ritual-minded",
+        "protective of crews",
+        "spare with words",
+        "unyielding to extortion"
+    ],
+    "skills": [
+        "basalt logistics",
+        "ash-squall navigation",
+        "drake sign-reading",
+        "caravan defense",
+        "obsidian licensing"
+    ],
+    "talents": [
+        "hears the ash veils whisper when a route is unsafe",
+        "coaxes pumice to sing for polishing",
+        "calms a spooked pack-ram with a gesture"
+    ],
+    "flaws": [
+        "short temper with dock tariffs",
+        "guilt over collapsed quarries",
+        "distrust of river superstitions"
+    ],
+    "dreams": [
+        "secure Parliament protection for ash routes",
+        "tame ash drakes into pack-beasts",
+        "build a memorial road of cooled glass for the lost"
+    ],
+    "secrets": [
+        "Traded a vent-rite to the Rookery for a protected courier corridor",
+        "Hides a star-iron shard taken from a singing vent",
+        "Let a rival quarry gang vanish into a squall rather than risk her crew"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Ysra Dokk",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Pel Korr",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Rull Fen",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Senne Vell",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Lisi Jhak",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Gantrix Pell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Different goals"
+        }
+    ]
+}

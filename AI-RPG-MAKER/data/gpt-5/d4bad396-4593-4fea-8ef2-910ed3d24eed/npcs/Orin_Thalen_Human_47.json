@@ -1,0 +1,70 @@
+{
+    "name": "Orin",
+    "surname": "Thalen",
+    "race": "Human",
+    "age": 47,
+    "appearance": "Immaculate coats stitched with blue sigils, cane topped by a gargoyle finial, and a disarming smile.",
+    "character": "Urbane patron with long plans and longer pockets.",
+    "traits": [
+        "Ambitious",
+        "Publicly generous",
+        "Calculating",
+        "Patient",
+        "Image-conscious"
+    ],
+    "skills": [
+        "Negotiation",
+        "Charter law",
+        "Mining finance",
+        "Theater patronage",
+        "Public relations"
+    ],
+    "talents": [
+        "Reads crowds like ledgers",
+        "Turns opponents into stakeholders"
+    ],
+    "flaws": [
+        "Vanity",
+        "Blind to working anger until too late",
+        "Risk-taker"
+    ],
+    "dreams": [
+        "Restore the Old Aurion Aqueduct",
+        "Seat a Thalen as power behind the City Chair",
+        "Reclaim ancestral prestige"
+    ],
+    "secrets": [
+        "Skims future water claims via fine print in restoration charters",
+        "Quietly funds siren choruses at the Drowned Theater to soften public resistance"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sere Aven",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Magister Vell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Pika Jinn",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Pellar Nine-Poles",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Iven Kall",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Harn Slate",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

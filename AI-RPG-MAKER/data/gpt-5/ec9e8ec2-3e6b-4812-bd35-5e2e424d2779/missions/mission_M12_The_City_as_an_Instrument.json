@@ -1,0 +1,40 @@
+{
+    "id": "M12",
+    "title": "The City as an Instrument",
+    "quest_giver": "Nerey Alis",
+    "description": "In the wake of the festival, the Beacon’s hum settles into a pattern that is almost a song you can hum back, and the Conclave claims they can retune it to carry oaths without keening. The Faith says a city is not a glass to be played, and the Reefkeepers warn that the Lullaby that keeps Uln asleep is braided into the same currents the Conclave would pluck. Nerey Alis calls you to the Beacon of Myr Sal for a final tuning: Liora Fen at the lenses, Myris Khel at the shells, Orun Shard at the glass, Thalen Marr listening to the sea. The Heartshard rumor gnaws at the edges; there is talk that a fragment was taken years ago and hidden in the Beacon’s root. If placed wrongly, the city could become a bell that wakes monsters, not a light that guides children. You will decide how the chords sit, who holds which tie, and whether Sel Var Saltvein will sign the stewardship charter that splits the Beacon’s care across guild, faith, and state.",
+    "objectives": [
+        "Oversee and mediate the final Beacon tuning between Conclave, Faith, Glassworkers, and Reefkeepers.",
+        "Choose whether to seat the rumored Heartshard fragment in the Beacon’s root or seal its chamber and rely on the Nacre Crown’s authority instead.",
+        "Secure signatures from Nerey Alis, the Faith, the Conclave, the Glassworkers, and House Saltvein on the Beacon Stewardship Charter."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Liora Fen",
+            "content": "We can thread the Beacon’s hum through the city's bones so softly that only liars will hear it—their teeth will ring when they speak false. It's not control; it's consonance. The reef won't be touched; the lenses for this are tuned to urban chord, not oceanic. Give me this trust, and I will spend it like a miser spends dry wood in a wet winter."
+        },
+        {
+            "speaker": "Myris Khel",
+            "content": "The sea has a long patience and a short temper, and the difference between the two is one unwise note. A shard that binds oaths is a temptation to those who cannot bear the wait between truth and proof. Put faith in the Crown and in the people’s willingness to let shells judge, not in a heart hammered into stone where no one can see who holds it while the city sleeps."
+        },
+        {
+            "speaker": "Sel Var Saltvein",
+            "content": "I sign charters when they hold. A three-way lock on the Beacon means no one guild can sing the city into debt. I can live with that. But if you bury a heart in the root and let children with lenses tune it, do not cry to me when the reef sends a bill in knives. Seal the chamber. Let law and salt keep us, not superstition made into a tool."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "content": "We built this city out of floods and hunger and the stubborn belief that we could talk the sea into loving us. The Beacon is a light and a memory, not a mouth. We will seal the shard if it lives here and trust shells and charters to carry oaths, not a secret throat in the foundation. Liora, tune for warnings and comfort, not command. Myris, keep the shells close. Sel Var, put your name next to the Dockers’ mark and the Reefkeepers’ cut. We hold this rope together or we all go in."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        "Title: Harbor Shield of Marinth Vell (recognition; increases cooperation from civic crews)",
+        "Beacon Stewardship Charter signed; unlocks ongoing access to Beacon lower choir and joint trainings",
+        "Reputation: +Large with Nerey Alis, +Medium with Faith of Azerene, Glassworkers’ Concord, Reefkeepers’ Lodge; relations stabilized with Conclave of Prismancers and House Saltvein"
+    ]
+}

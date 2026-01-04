@@ -1,0 +1,68 @@
+{
+    "name": "Calra",
+    "surname": "Orun",
+    "race": "Human",
+    "age": 41,
+    "appearance": "Amber skin, neat curls pinned with silver seals, a tailored indigo coat with seven waxed satchels at the belt and a perpetual, inviting smile.",
+    "character": "Affable in salons and relentless in ledgers; believes prosperity is a tide best managed by those with steady hands—hers, chiefly.",
+    "traits": [
+        "Charming",
+        "Pragmatic",
+        "Persuasive",
+        "Calculating"
+    ],
+    "skills": [
+        "Finance",
+        "Rumor-crafting",
+        "Contract law",
+        "Logistics",
+        "Public speaking"
+    ],
+    "talents": [
+        "Reads microexpressions like marginalia",
+        "Balances accounts from memory",
+        "Turns enemies into clients with soft loans"
+    ],
+    "flaws": [
+        "Hubris",
+        "Transactional relationships",
+        "Avoids guilt behind policy",
+        "Underestimates faith and tradition"
+    ],
+    "dreams": [
+        "Monopolize star-fruit exports",
+        "Privatize sections of the river wall",
+        "Forge a binding pact with Seven-Kettle for iron and coal"
+    ],
+    "secrets": [
+        "Holds a sea-night prism that nullifies simple wards",
+        "Inserted an illegal star-metal clause in a dwarven draft",
+        "Used a white-book pardon to erase a cousin’s debt-murder"
+    ],
+    "relations": [
+        {
+            "npc_name": "Yerin Pale",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Jilai Sunquiet",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Mereth Tydel",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Sava Deren",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sorev Dusk",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thorek Brimvauld",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

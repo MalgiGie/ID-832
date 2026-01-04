@@ -1,0 +1,48 @@
+{
+    "id": "M7",
+    "title": "Moonbridge Toll",
+    "quest_giver": "Mereth Tydel",
+    "description": "Fog ghosts along a gorge where the Moonbridge’s spectral arc glides into place on thirteenth-moon light. High Acolyte Mereth Tydel leads a procession bearing offerings to a drowned shrine and a small reliquary: the legal name of a scribe who wrote the city’s water charters, stolen by a moon-toll and trapped in wind. To win the name back, someone must cross where intent bends into need and pay a toll in secrets. The bridge chooses its price; it already took Aren’s true name once. On the far side waits a figure who matches Sava Deren’s missing child, grown sideways into memory, half rumor and half rain.",
+    "objectives": [
+        "Escort the Temple procession safely onto the spectral span without drawing the ire of tithe-collecting shades.",
+        "Whisper an acceptable secret to pay the moon-toll and cross to the far side without losing an identity again.",
+        "Recover the scribe’s name and any wayward names held in the wind without triggering a year-and-a-day erasure.",
+        "Return across the span and restore the name to the reliquary before the bridge fades."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Mereth Tydel",
+            "lines": "There are prices we should be willing to pay, and prices that buy the wrong kind of peace. The Moonbridge teaches this with cruelty and beauty, and I am tired of both. We need that scribe’s name to unshackle a law the city forgot to be proud of. If we pay well, we earn clarity; if we pay poorly, we earn silence where there should be speech."
+        },
+        {
+            "speaker": "Sava Deren",
+            "lines": "If you see a child near the far landing who looks like a river’s idea of my blood, bring me truth, not hope. I’ve paid enough priests to be told patience, and I have been patient enough to grow barnacles. I don’t ask you to drag someone out of a legend; I ask you to come back with something I can live with when the span dissolves."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "The bridge already has one of my names; it can chew on that while I whisper another that won’t steal me from my friends again. I’ll cross, I’ll listen, and I’ll trade for the scribe’s name without mortgaging another year of my life. If the bridge shows me a child, I’ll bring back the truth wrapped in care, not in promises I can’t keep."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": {
+        "currency": 0,
+        "items": [
+            "Reliquary of the Water-Scribe (legal leverage for future hearings)",
+            "Moonmoss Vial (stabilizes memory during rituals)"
+        ],
+        "reputation": {
+            "Temple of the Nine Tides": 3,
+            "Guild of Silver Ferrymen": 1
+        },
+        "access": [
+            "Permission to attend Conclave testimony on water law"
+        ]
+    }
+}

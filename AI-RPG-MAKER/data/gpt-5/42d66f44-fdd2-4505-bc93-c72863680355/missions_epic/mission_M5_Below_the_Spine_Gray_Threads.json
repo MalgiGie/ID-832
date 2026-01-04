@@ -1,0 +1,100 @@
+{
+    "id": "M5",
+    "title": "Below the Spine: Gray Threads",
+    "quest_giver": {
+        "name": "Ilya Salt-Kite",
+        "affiliation": "Gray Sail Association"
+    },
+    "description": "Under the high hum of the Spine Market where bone arches drink the tide, a hidden web of passages called the Gray Threads winds through marrow-stone, trapdoors, and ratline hatches slick with brine. Lantern smoke from the stalls above drifts down in ribbons, tasting of resin, oil, and old salt, and somewhere a gear ticks like a stubborn heart refusing to stop. In these close corridors, whispers run faster than gulls and grudges turn corners before the feet that carry them. Ilya Salt-Kite, a courier who knows each splinter by name, begs Kael to slip beneath the noise and keep a bad shipment from becoming a worse legend. Bell grenades stolen from the Embersalt Arsenal sit in a smuggler’s crate, and a hotblooded runner means to toss their thunder into the Shellspire debate so that law will be written in panic instead of sense. Neris Bonehook, hook-handed captain of a Gray Sail cadre, would sooner drink dry tide than see orphans wake to ringing and dust, yet her leash frays as anger gnaws it from both ends. The Threads are narrow, and every footfall is a vote; misplace one, and a quarrel becomes a war. Kael must speak with the weight of tides, draw only when words fail, and place the bells where silence can hold them until truth can be shouted without shrapnel.",
+    "objectives": [
+        "Meet Ilya Salt-Kite at a ratline hatch behind the east end of the Spine Market.",
+        "Locate the crate of bell grenades marked with arsenal seals without triggering any traps.",
+        "Confront Neris Bonehook and negotiate a stand-down to prevent the use of grenades during the Shellspire debate.",
+        "Identify which arsenal comptroller’s mark is stamped on the crate manifest.",
+        "Turn the grenades over to a neutral party for safekeeping (Fathom Tongues or Tidemasons) without alerting Brinewarden patrols."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ilya Salt-Kite",
+            "lines": "You’re the quietest step I know on bone, Kael, and tonight quiet is worth more than pearls that hum themselves sick. I owe you for the night you lifted me out of a sweep under the market nets, and I’d rather pay you with a calm dawn than with condolences sent in brine ink. There’s a crate below that sings spite if you press your ear to its boards, a crate that wants an audience at the Shellspire debate and means to clap on the first word. The hothead who fetched it thinks thunder will teach the Council to listen, but thunder only makes folk count their dead instead of their arguments. Help me untangle this before the Threads go red; I’ll guide us to the hatch, whisper which floorboards remember knives, and keep my hands where the watchful won’t mistake them for fuses."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "I didn’t leave the Brinewardens to watch a new kind of storm roll in wearing a smuggler’s grin, Ilya. I’ll cut the fuse and tie its tail to a stone so even a spring tide can’t drag it back to the surface. The Spindrift Recurve will stay shouldered unless someone insists on arguing with iron; I’m here to talk in the language of ledgers, loyalties, and listening places. Tell me the markings on the crate, tell me who stamped the manifest, and I’ll give you a path that keeps blood from rinsing down the stair treads. When we lift those bells, they’ll go to hands that can drink their noise until the city’s ready to hear itself again."
+        },
+        {
+            "speaker": "Neris Bonehook",
+            "lines": "You climb soft as fog, Rimestrand, and I respect a soul who knows how not to wake old bones. Most men rattle like a drawer of knives down here and think noise is proof of nerve, but noise is only a map that your enemies can read. I don’t want children coughing silt from their lungs because some fool thought a bang could fix a broken vote, yet I’ve got runners who wear last season’s bruises from a soup line cracked by Brinewarden pikes. They want the kind of answer that heats the hand that throws it, and my leash is only as strong as the promise I can offer them in its place. You bring me a better answer than fire and echo, and I’ll keep my dogs from testing how tight the Threads can pull."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "Here’s a better answer and one that keeps tomorrow’s dawn clear: a page cut from the arsenal’s own ledger with a comptroller’s skim stitched into numbers even a Council reeve can’t pretend not to hear. Trade me the crate for this arithmetic, and I will carry it under fossil chandeliers where the rings remember every oath and the echoes don’t let lies settle. Your crew gets credit for leashing itself when it could have bitten, and that pride won’t turn and gnaw you later because pride fed on restraint sleeps easy. We salt the fuse and give the bells to a keeper of silence, and while calm holds, the comptroller’s name will be spoken in a place where words weigh more than steel. There’s more honor in catching a thief with ink than in shaking a city with glass."
+        },
+        {
+            "speaker": "Neris Bonehook",
+            "lines": "A leash you tie on yourself is a cord you can loosen when the world needs hands, and I like the feel of that better than shackles forged by fear. Take the crate and tell any Brinewarden that asks that Neris Bonehook learned to count faster than they learned to swing a pike, and that arithmetic scared me straighter than any cell. Mind the trip-wires strung low along the fourth bend and the oil patch under the ladder; my angry pups were planning to run hot and leave slippery regrets. The manifest tucked behind the lid carries a mark like a bitten moon—if the Council asks, say you saw me spit on it for luck. Go on then; carry my business into the light without burning the market to make a torch."
+        },
+        {
+            "speaker": "Tern Quietwake",
+            "lines": "Bring the bells to the Thalassarium and I will drown them in a cistern where water holds the memory of silence, and silence remembers how to refuse a scream. You arrive with trouble that once had teeth bared and you present it with the teeth wrapped, and that is a courtesy the deep notices. We will keep the grenades where their peal can only disturb forgotten currents, and when debate rises tomorrow, the loudest sound will be a question hanging above men’s heads instead of shards hissing at their feet. I hear a name reverberating in your pocket, a ledger-syllable looking for its chamber, and I will not say it for you though I can guess its shape. Bring it to the bone-ring and let the stones judge it; I will stand in the gallery and make sure the echoes are faithful."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "The bells will sleep where your water remembers quiet, Tern, and I will walk the Spine with this page until the chandeliers frost my words and drop them into the record. If the comptroller wants his skim back, he will have to ask for it in a hall that refuses to forget, and I will be near enough for the line of my voice to be traced by anyone who doubts. I came down into the Threads to keep the city from teaching itself with shrapnel, and I will come up again to teach by ink and oath instead. Neris will have her leash, Ilya will have her calm dawn, and the orphans will have their sleep with the bones humming like a lullaby instead of a dirge. That is the measure of tonight’s work, and I intend to see it held."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1-FT",
+            "title": "Carry the crate to the Fathom Tongues at the Thalassarium",
+            "text": "You decide that the safest harbor for thunder is beneath a choir trained to drink it, and you steer for the Thalassarium’s organ-pillars with your breath measured to match the tide. The Tongues have no love for spectacle, and their water remembers quiet in a way that mutes even the sharpest bell. You will need to time your approach between Brinewarden cutter calls, using your whalesong reed whistle to signal a harmless passage that won’t raise steel. Neris’s runners will see you go and spread a rumor that arithmetic, not glass, bent their captain’s course, cooling the pack’s blood before it boils. The Shellspire debate will find its voice without the push of a blast, and your choice will earn a debt with those who translate storms into counsel.",
+            "outcome": "Tern Quietwake takes the grenades and submerges them beneath a hush that presses in your ears like deep water, and a soft ring dies in bubbles that shimmer and vanish. Your name travels along the listening wells as one who brought a bite and asked it to sleep instead of snapping jaws for applause, and the Tongues mark you with a nod only those who heed echoes can see. The Brinewardens remain unaware of the crate’s true nature, counting only a routine shadow on their night ledgers while they chase a lanternless skiff somewhere else. Neris Bonehook’s crew barks once at the moon and settles, pride soothed by the tale that self-control beat a fuse to the finish line. When the Council meets, a question about an arsenal skim rises like a whale’s back in calm water, and you feel the chamber lean toward it rather than toward fear."
+        },
+        {
+            "id": "C2-TM",
+            "title": "Deliver the bells into the Tide Looms under Tidemason custody",
+            "text": "You choose the engines that turn tides into work, wagering that the Order of Tidemasons can lock thunder behind bone and brass. The Loom halls thrum like a steady heart, and you plan your descent to sync with a low pulse so the crate’s weight hides among counterweights. A trusted rigger meets your eyes and understands the shape of your burden without needing to see the seal, and a nod becomes an oath to keep the bells unwrung. The Tidemasons gain a chance to prove that control is their craft and that floods and blasts alike can be threaded into order. If anyone asks, the bells were inventory noises misheard by nervous runners, and arithmetic will speak louder than rumor when dawn comes.",
+            "outcome": "Master Oaric Bent’s keyholders slot the crate into a hush-box framed by rib-spars, and a sluice sigh overlays the bells until their menace is swallowed by hydraulics. Their scribes enter a blind ledger mark, and your delivery becomes a rumor with no weight, a ghost too vague to fund a panic. You earn favor among crews who measure promises in flow and counterflow, and they promise to open or close a gate for you when politics tries to flood your path. Neris Bonehook appreciates that no temple or oracle claims credit, keeping her balance with rival captains who dislike debts to choristers. When the Council gathers, a copy of the comptroller’s mark appears folded into the Loom Codes petition, and the chamber must look at ink instead of flinching at imagined thunder."
+        },
+        {
+            "id": "C3-CC",
+            "title": "Confront the arsenal comptroller in a quiet corner of the Council at the Vertebrae and arrange an anonymous Tongues drop",
+            "text": "You decide that fear grows fat in shadows but shame starves quickly under chandeliers, and you arrange a meeting where the bones hang heavy with civic memory. The comptroller arrives thinking to bully a courier and finds an archer with ledger-ink on his fingers and the calm of someone who has walked a Trench’s lip. You lay the manifest between you and speak in a steady cadence, offering a choice between a public reading and a private correction that includes the bells vanishing into silent custody. You make it clear that no Brinewarden need hear a whisper of this if the bells are surrendered by your hand to the Tongues within the bell, and that any alarm will only thicken the ink against him. The deal tastes like salt on his tongue, but a dry throat swallows a confession faster than a gallows bell, and he nods because numbers already caught his ankle.",
+            "outcome": "The comptroller sends a runner to retrieve a crate he claims is misfiled ordnance, and you walk it to Tern Quietwake through a back sluice path that leaves no prints on Brinewarden books. The Tongues submerge the bells, and your name is kept out of every account except the one humming quietly under the Listener’s breath. The comptroller resigns with a cough about ill health just before the debate, and a new vote opens to investigate misallocation without a single shard being swept from the floor. Neris hears that power tripped over ink rather than iron and leashes her crew a notch tighter, impressed by a fight won with ledgers. In the weeks that follow, your neutrality gains a rare shine in a city of tides, and both oracle and engineer will take your word at night when their own allies are busy counting enemies."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "XP",
+            "description": "600 experience for defusing the bell-grenade crisis without bloodshed and guiding thunder into silence."
+        },
+        {
+            "type": "Item",
+            "description": "Gray Thread Knot-Token, a smuggler truce emblem that softens tempers and reduces hostility when moving underground."
+        },
+        {
+            "type": "Item",
+            "description": "Arsenal Manifest Page, evidence bearing the comptroller’s mark suitable for Council scrutiny."
+        },
+        {
+            "type": "Favor",
+            "description": "Neris Bonehook owes one clandestine escort across the Siltglass Flats during a dim-out."
+        },
+        {
+            "type": "Access",
+            "description": "Safe passage through one Gray Thread route during Council nights, observed by watchful eyes as a friend of quiet."
+        },
+        {
+            "type": "Coin",
+            "description": "40 credit-shells paid in clipped pearl-chits and stamped brine notes for services rendered in shadow and restraint."
+        }
+    ]
+}

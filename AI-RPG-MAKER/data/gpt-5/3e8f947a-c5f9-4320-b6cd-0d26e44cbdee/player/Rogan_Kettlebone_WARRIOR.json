@@ -1,0 +1,75 @@
+{
+    "name": "Rogan",
+    "surname": "Kettlebone",
+    "age": 32,
+    "race": "ogre-blooded",
+    "appearance": {
+        "description": "Broad-shouldered and tall with ash-olive skin and heavy forearms, Rogan wears bone-lamellar over desert linens, a shade-veil rolled at the neck, and knee-high sand boots scored by glass. His hair is cropped short and threaded with rook feathers.",
+        "distinctive_signs": "A fulgurite-burn lattice across the right shoulder from a Glass Night accident; marrow-ink oath cords etched along both biceps; a mirror-cut scar on the left palm in the shape of a broken oculus."
+    },
+    "class": "WARRIOR",
+    "history": "Born in the Under-Ribs to a water porter and a scaffold rigger, Rogan grew up listening to the Resonant Gate hum through the echo-pipes and learned early that in Marrowhold, debts and droughts both come due. At sixteen he joined the Watch of the Rib and served as a ribway shock trooper during ration riots, coordinating with Bonewright constructs in the Iron Garden and escorting barge convoys from Hearthmirror Lake. During a storm-season drill at Spinespan Aerie he hauled a young signal pilot, Zexi Orr, back from a snapping mooring chain, earning a quiet life-debt from the Rookery. Years later, on a Whisper Fen escort, Rogan bargained a breath with Nyssar Fenquill to save heat-sick children, tying himself to a promise he still struggles to keep. After a curfew sweep went wrong near the Archive of Veins, Rogan was ordered to carry a Night-Glass black file to the clerk stacks; he saw enough to recognize the initials of a Triarch within and refused to purge the copy, leaving the Watch on 'extended leave' rather than lie under oath in the Temple of the Hollow Sun, where Isha Velroon sheltered him for a night under sanctuary. Now he works as an independent ribway guardian and caravan defender, moving between the Cage Market and Marrowspring, trying to hold a thin line while the Bonewrights and the Saltglass Syndicate pull the city in opposite directions.",
+    "equipment": [
+        {
+            "name": "Storm-Skim Fulgurite Sabre",
+            "description": "A slightly curved blade fused from lightning-scored glass, tempered in the Ember Market; it holds a static bite that shears cords and bites into glass-wyrm scale."
+        },
+        {
+            "name": "Rib-Keeper’s Coat",
+            "description": "Layered bone-lamellar reinforced with composite ribs from the Iron Garden; etched with runes to dampen shock from echo-pipe concussions."
+        },
+        {
+            "name": "Mirror-Oculus Shard",
+            "description": "A palm-sized, temple-blessed shard that dims glare and reflects signal kites; in low wind it hums faintly with the Gate’s tone."
+        },
+        {
+            "name": "Wind-Kelp Rope",
+            "description": "Fifty feet of braided Skyspine kelp, light and grip-true even when dust-slick; used for ribway rescues and mooring assists."
+        },
+        {
+            "name": "Watch Whistle and Token Chain",
+            "description": "A bone whistle tuned to echo-pipe frequencies and a set of old Watch tokens that still open certain armory grates."
+        },
+        {
+            "name": "Marrow-Ink Vambrace",
+            "description": "A leather forearm guard lined with marrow-ink vellum for quick field notes; ink can be sung back by a scribe to confirm orders."
+        },
+        {
+            "name": "Canteen of Gate-Blessed Water",
+            "description": "A sealed flask bearing the Water Oath sigil; ration clerks are less likely to question its measure in crisis."
+        },
+        {
+            "name": "Rook-Feather Signal Kit",
+            "description": "Foldable hand-kites with colored tails and a rook feather charm from Zexi Orr; carries basic Rookery signal patterns."
+        }
+    ],
+    "main_attributes": {
+        "strength": 17,
+        "agility": 12,
+        "constitution": 16,
+        "intelligence": 11,
+        "wisdom": 13,
+        "charisma": 10,
+        "dexterity": 12,
+        "endurance": 16,
+        "perception": 14,
+        "luck": 9
+    },
+    "soft_skills": [
+        "Ribway tactics and small-unit coordination with bone constructs",
+        "Streetwise negotiation over water rations and permits",
+        "Wind-reading and basic Aerie signal-code literacy"
+    ],
+    "relationships": {
+        "Zexi Orr": "A young Rookery signal pilot Rogan saved at Spinespan Aerie when a mooring chain sang its warning; Zexi slips him kite-code rumors and warns him before dock slowdowns.",
+        "Nyssar Fenquill": "A fen-dren herbalist and caravan broker from Whisper Fen; Rogan bargained a breath with Nyssar to save heat-sick children, leaving him bound to deliver a future favor without coin.",
+        "Isha Velroon": "An advocate-priest of the Order of the Hollow Sun who granted Rogan one night of sanctuary when he refused a false oath; they respect each other but clash over the Order’s pressure on the Unentombed.",
+        "Legate Tharn Corvell": "Former commander who values Rogan’s results but resents his refusal to toe the line; Watch sergeants warn Rogan that the Legate is running out of patience.",
+        "Matron Sere Kall": "Bonewright patron who tolerates Rogan’s presence in the Iron Garden in exchange for escort favors; she sees a useful lever in him for Infrastructure debates.",
+        "Factor Orun Ves": "Current Magistrate of Coin and head of the Saltglass Syndicate; Rogan suspects him as the Triarch named in a Night-Glass ledger, but has no proof that would survive temple arbitration."
+    },
+    "ambitions": "Protect Under-Ribs neighborhoods without becoming a tool of any faction, repay the Whisper Fen breath-debt cleanly, and expose the Triarch who dances on Night-Glass strings without burning Marrowhold in the process.",
+    "flaws": "Hot temper when water is withheld unjustly, stubborn oath-keeping even when it costs allies, and a growing superstition about mirrors and names during the Quiet Thrum that can cloud judgment.",
+    "dreams": "To hear the titan’s heartseed and learn whether the city can be cooled without blood, to carve a truth on the Sighing Steps that the wind does not lie about, and to retire a squad of Watch veterans to a quiet post by Hearthmirror Lake.",
+    "secrets": "Rogan kept a marrow-ink rubbing of a Night-Glass ledger page that names a Triarch only as 'O.V.'; the ink hums at night in time with the Resonant Gate. In the Whisper Fen he also broke the wording of a breath-bargain; the Fen Queen has not yet called in the cost, but Nyssar warned that when she does, it will be at sunset on a day of still water."
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Gantrix",
+    "surname": "Pell",
+    "race": "Human",
+    "age": 33,
+    "appearance": "Wiry, sun-browned, with a braid of signal beads and a small tattoo of a hinge-tooth behind her left ear. Fingers always smell of oil and saffron wax.",
+    "character": "Brisk, witty, and fiercely loyal to crews who earn her trust.",
+    "traits": [
+        "quick-witted",
+        "crew-loyal",
+        "competitive",
+        "auditory learner",
+        "proud of rank"
+    ],
+    "skills": [
+        "signal-lantern orchestration",
+        "gantry navigation at speed",
+        "storm listening",
+        "gear maintenance",
+        "emergency drill design"
+    ],
+    "talents": [
+        "perfect ear for hinge-song",
+        "can mimic half the city’s signal calls",
+        "reads wind shift by lantern sway"
+    ],
+    "flaws": [
+        "rash when challenged",
+        "talks in jargon under stress",
+        "holds Parliamentors in mild disdain"
+    ],
+    "dreams": [
+        "compose a hinge-song standard every crew adopts",
+        "become the youngest Sluice-Mistress in Syndicate history",
+        "prove the First Hinge still hums with a hidden harmony"
+    ],
+    "secrets": [
+        "Smuggled a banned signal lexicon to save a trapped crew once",
+        "Keeps a rook with mirrored eyes despite regulations",
+        "Hears a ghost-flood rehearsal each dusk and hums back"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Pel Korr",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sav Orlai",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Rull Fen",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Ysra Dokk",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Kael Ibrin",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

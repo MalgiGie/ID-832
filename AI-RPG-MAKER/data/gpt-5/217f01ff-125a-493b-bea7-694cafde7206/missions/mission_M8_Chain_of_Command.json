@@ -1,0 +1,48 @@
+{
+    "id": "M8",
+    "title": "Chain of Command",
+    "quest_giver": "Jath Pell",
+    "description": "Half a day along the coast, the Elder Chain Shoals gnash at hulls and pride. A sloop ran aground, her captain lashed to the mast with eyes fixed as if obeying a command only iron remembered. Tidewardens recovered a ring branded with forbidden sigils that hum when brought near the Diadem. Commodore Jath Pell presses your hand with old gratitude and new worry: learn the ring's voice, sever any old empire command riding in its rust, and keep the horn-barge from becoming a tyrant by accident.",
+    "objectives": [
+        "Meet Commodore Jath Pell at the Tidewarden tower above Moonhook.",
+        "Sail with a skiff crew to the Elder Chain Shoals during low tide.",
+        "Use the Resonant Stone Tuning Fork to read the ring’s command motif.",
+        "Disrupt the motif with your Vent-Wind Flute and the Third-Tone Silt-Bell.",
+        "Recover a shard safely and return the rest to the sea to quiet the command.",
+        "Deliver the shard to Miren Nine-Ropes for secure storage."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jath Pell",
+            "line": "You threaded us through the rings once, and I haven't forgotten it. This ring isn't just rust; it hums a command that makes good captains look like puppets. If the Diadem's lenses pick up this voice, we'll end up shouting orders at our own reflections until the city marches itself into the Maw."
+        },
+        {
+            "speaker": "Miren Nine-Ropes",
+            "line": "Commands have knots just like ropes do. Find the knot and flick it, and the whole order falls limp. I can read the currents; you read the note. We'll meet in the trough between waves and make the ring forget the last voice it ever knew."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "The tuning fork will tell me where the command's spine is, and the silt-bell can put a thumb on it. The flute will draw breath through the gap, and the sea will take back what isn't ours to hold. We'll keep a shard to remind ourselves how close we came to letting iron tell us who to be."
+        },
+        {
+            "speaker": "Jath Pell",
+            "line": "Do it quiet, and we'll call it training. Do it loud, and I'll have to file a report that will end with the Court debating my job. Either way, don't let the Ledger buy that shard. Some orders don't belong on paper or in vaults."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3",
+            "M7"
+        ],
+        "next": [
+            "M9",
+            "M11"
+        ]
+    },
+    "rewards": [
+        "Elder Chain Shard (consumable; cancels one magical command or compulsion)",
+        "+1 standing with Tidewardens",
+        "Horn-Barge Escort chit (one-time naval support)",
+        "Seaworn Compass attuned to low-tide windows at the Shoals"
+    ]
+}

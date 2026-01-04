@@ -1,0 +1,61 @@
+{
+    "name": "Tosk",
+    "surname": "Glassbite",
+    "race": "Basaltborn dwarf",
+    "age": 82,
+    "appearance": "Broad-shouldered miner with a chipped tooth, pitted forearms glittering with glass specks, and a leather apron burned with rope marks.",
+    "character": "Brusque and sardonic with bosses, soft with apprentices.",
+    "traits": [
+        "blunt",
+        "resilient",
+        "protective",
+        "fatalistic",
+        "hard-working"
+    ],
+    "skills": [
+        "rope-saddle acrobatics",
+        "shard cutting and polishing",
+        "hazard scouting",
+        "ventilation mapping",
+        "emergency first aid"
+    ],
+    "talents": [
+        "hears fault whispers before a glassfall",
+        "throws grapnels with uncanny precision"
+    ],
+    "flaws": [
+        "smokeherb dependence",
+        "contempt for scavengers",
+        "impatient with oracular delays"
+    ],
+    "dreams": [
+        "to recover the Crown of Nine Edges",
+        "to unionize rope-hands against the Consortium squeeze"
+    ],
+    "secrets": [
+        "keeps an illegal shard cache for the Veil",
+        "caused a small glassfall to hide the cache and lives with the guilt"
+    ],
+    "relations": [
+        {
+            "npc_name": "Maela Scor",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Riven Hask",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Pelyn Orinfae",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Neris Undersong",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Ilara Embervein",
+            "relation_type": "Different goals"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": "M1",
+    "title": "The Humming Hairline",
+    "quest_giver": "Dorn Rigger",
+    "description": "Wind dies over Veylcrest and the Sapphire Diadem glows like a tidal crown, yet deep within its galleries something hums as if catching a light that does not exist. Dorn Rigger summons you to the Hall of Subtle Artifice, his ink-stained plans spread beneath a skylight trembling with blue shimmer. Rumor says the gallery of broken lenses in the Diadem has begun to sing on windless nights, a sound too pure to be echoed by walls or caught by paper. Dockwives whisper of a second Silent Surge creeping on glass feet; Ledger masks whisper into contracts and pretend this is nothing that cannot be purchased. You feel the old tremor in your throat-scar, that hush you once pulled from the Blue Maw, and the silt-bell at your hip answers with a sympathetic tick. The city, half prism and half anchor, leans your way.",
+    "objectives": [
+        "Meet Dorn Rigger at the Hall of Subtle Artifice for briefing.",
+        "Acquire a temporary access writ to the Sapphire Diadem from Nhal Vessin or Arla Third-Tone.",
+        "Enter the locked gallery of broken lenses and listen for the hum.",
+        "Use the Third-Tone Silt-Bell to capture the resonance without triggering an alarm.",
+        "Avoid drawing attention from Ledger auditors stationed in the Diadem.",
+        "Return to Dorn with notes and the captured resonance."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Dorn Rigger",
+            "line": "You always had an ear for what water remembers, Thalen. The Diadem's broken-lens gallery is humming without wind, and my apprentices say the note climbs when the oath-lanterns are lit. That should not be possible unless someone is bending the city's light toward a single throat. Go listen, but do not let the Ledger hear you listening; they own enough ears already."
+        },
+        {
+            "speaker": "Nhal Vessin",
+            "line": "Rigger sends you to me with a request and a worry. I can grant a writ because I believe worry makes better law than panic, and you have served this city in fog and dead calm. But if you find something that would shatter the braid of power, you bring it to the Court before you share it with anyone else. Oaths made under blue lamps carry weight, and I intend you to feel it."
+        },
+        {
+            "speaker": "Arla Third-Tone",
+            "line": "The bell codes say one for rising fog, two for dead calm, three for the hush before the wave. That third pattern has crept into our drills unbidden, and I do not like it. If the gallery hum matches that hush, I want the exact measure, not a story someone's cousin told."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "If the glass is catching a light we cannot see, then the city is shining into a place it should not. I will listen, and I will bring back more than fear. The silt-bell can carry the tone without letting it loose, and my gloves will keep my hands respectful of old cuts."
+        },
+        {
+            "speaker": "Orven Caldris",
+            "line": "A craftsman and a mediator, here in our vault-crowned hall at night. It would be a shame if you mistook a healthy resonance for an omen and frightened investors, Thalen. Bring your findings to the proper desk, and we will see what is due to be heard and what is due to be forgotten. Markets drown cities faster than waves."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        "Temporary Access Writ to the Sapphire Diadem (limited to maintenance corridors)",
+        "Stipend of 30 harbor chits for professional services",
+        "Dorn’s Tuning Notes (passive bonus to identify unsafe harmonics)"
+    ]
+}

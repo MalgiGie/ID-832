@@ -1,0 +1,62 @@
+{
+    "name": "Jask",
+    "surname": "Lumenwright",
+    "race": "Riftborn human",
+    "age": 38,
+    "appearance": "Solder-burned fingertips, goggles worn even underground, and a belt of luminous glass lenses clinking softly.",
+    "character": "Inventive and absent-minded with a stubborn idealist streak about machines helping people.",
+    "traits": [
+        "analytical",
+        "enthusiastic",
+        "generous",
+        "forgetful",
+        "open-hearted"
+    ],
+    "skills": [
+        "glassworking and annealing",
+        "gyre integration",
+        "small automata crafting",
+        "pressure calculus",
+        "workshop safety protocols"
+    ],
+    "talents": [
+        "hears resonance patterns others miss",
+        "builds functional devices from scrap"
+    ],
+    "flaws": [
+        "ignores politics",
+        "leaves tools everywhere",
+        "trusts the wrong patrons"
+    ],
+    "dreams": [
+        "to build an Iron Cradle engine that keeps an egg alive in motion",
+        "to open a public workshop for apprentices"
+    ],
+    "secrets": [
+        "funded by a Loom cell through Ilara’s quiet patronage",
+        "hides a prototype cradle in a false crate in the Chainquarter",
+        "accepted a bribe from a Chainwright rival to delay a competitor’s order"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ilara Embervein",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Riven Hask",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sere Vell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Pelyn Orinfae",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Maela Scor",
+            "relation_type": "Friendship"
+        }
+    ]
+}

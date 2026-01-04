@@ -1,0 +1,38 @@
+{
+    "id": "M2",
+    "title": "Counterfeit Seals, Crooked Valves",
+    "quest_giver": "Thren Basso",
+    "description": "The Cascadrome breathes for Aurelia, but someone has taught it to whisper favors. A string of accidents—slips on slick steps, lifts arriving light when they should be heavy—has sharpened the Compact’s temper. Thren Basso, all rope scars and steadied anger, leads Tallea to a row of frames where Blue-Timer queues sway in the heat. Valve housings wear the right seals, but when Tallea listens with her fork, she hears a private lull behind the official sigh. It is the sound of water diverted in secret, humming in bypass lines hidden behind brass plates polished by guilt. If the city’s breath is rationed, it cannot afford lungs with private straws.",
+    "objectives": [
+        "Identify three counterfeit safety seals among the Cascadrome valve housings.",
+        "Track the bypass hum to a hidden service niche via chain-lift shaft six.",
+        "Confront the smuggler foreman Tamsin Rook without triggering a panic among Blue-Timers.",
+        "Present proof of bypass lines to the Cliff Ministry clerk in charge of safety seals."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Thren walks you along the rim of a condensation gutter, boots leaving dry prints. \"We pulled a family of four off a slick yesterday, Tallea. The kind that never had a private seal in their lives. The kind that reads ration edicts like scripture because it’s the only law that ever noticed them. If there are bypasses, I will rip them out with my own hands, but if I do it with my hands, the whole city will know by noon and we will have a riot by dusk. I need your ears to prove the lie, and your tongue to make the truth land quieter than a lift bell.\"",
+        "hero_reply": "Tallea glances at the Blue-Timers, their hourglasses held against their chests like charms. \"I’ll make the valves sing their guilt into my fork and not into the crowd. If Tamsin has his fingers in this, I’ll pull them out without taking his whole hand. But if the bypass climbs up to a Counting-House ledger, don’t expect me to soften the blow.\"",
+        "npc_interjections": [
+            {
+                "name": "Tamsin Rook",
+                "line": "Tamsin’s grin is brave until his valves are named by pitch. \"Everyone drinks, lull-reader. I made sure certain donors kept their bath taps wet so they’d keep oiling your precious frames. You can call it a bypass or you can call it stability, but either way, nobody drowns in paperwork tonight.\""
+            },
+            {
+                "name": "Avar Jen",
+                "line": "From the edge of the service niche, First Teller Avar Jen’s voice carries like a blade under cloth. \"If a few auxiliary lines kept commerce smooth, I fail to see the tragedy. The tragedy will be your names on an edict when caravans miss their docking windows because you made a show of virtue.\""
+            }
+        ],
+        "ambient": "Condensation ticks into the gutter like the slow counting of a suspicious clerk. A Blue-Timer child presses her hourglass to the brass plate and listens, as if she can hear which way her city’s breath runs."
+    },
+    "connections": {
+        "previous": "M1",
+        "next": "M3",
+        "related": []
+    },
+    "rewards": [
+        "Experience: 400",
+        "Reputation (Cliffward Compact): +12",
+        "Counterfeit Seal Sample (proof item)",
+        "Blue-Timer Tokens (x2)"
+    ]
+}

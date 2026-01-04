@@ -1,0 +1,51 @@
+{
+    "id": "M12",
+    "title": "The City that Hums",
+    "quest_giver": "Talo Ren",
+    "description": "Storm-breath rolled over Avarinth and made the First Hinge’s bones hum until lanterns jittered like nervous birds. The false signals Neris had neutered tried again with new voices, the living pane attempted to choose the color of a law, and the ghost-flood rehearsal at Chainreach stood up and asked to dance for real. Talo Ren and Rector Mera stood together with a coil of cord between them, and Gantrix Pell had crews on every gantry ready to move like fingers on a harp. This was a city made from flood and light, and it was about to learn whether it could be bound by a song instead of a fist. The choice was not between victory and drowning; it was between a city that confessed its own lies and lived, and one that let its own cleverness wash it away.",
+    "objectives": [
+        "Deploy chorus-lanterns tuned at the Conservatory to carry the hinge-waking chord across the Bastion.",
+        "Teach a mixed crew of Tidewrights and River-Marrows the rope-rhythm pattern that calms chain echoes while Gantrix coordinates closure.",
+        "Tie and present a co-authority knot in the Hall of Many Lamps while the floor watches a redirected truth-lens expose dye-market tampering, not informants.",
+        "Use the labradorite tile to verify oath-sincerity during the public knot-tying by Rector Mera and Gantrix Pell.",
+        "Choose whether to publicly confess your involvement in a past backward-burning flame in exchange for absolution under terms set by the Fifth Knot."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Talo Ren",
+            "line": "When the river grabbed my barge, your line made the difference between an anecdote and an obituary. Tonight the city is the barge, and I have neither the arrogance to pretend I can steer it alone nor the timidity to step off. Help me share the bell without breaking the clock. If we do this under lamps and not in shadows, maybe our grandchildren won’t learn to read the law by its smoke."
+        },
+        {
+            "speaker": "Rector Mera",
+            "line": "We will tie this knot before every ward, with a tile that glows only when our mouths match our hands. If the city must hear a confession, let it be anchored to a service that saves lives. Forgiveness is not the same as forgetting; it is a rope we throw from shore to someone who is swimming toward us. Do not waste it, and I will not withhold it."
+        },
+        {
+            "speaker": "Gantrix Pell",
+            "line": "Singers to the gantries, rope-hands to the teeth, and no one blinks when the pane tries to choose our law’s color. We will make the hinge bow to song and schedule, not to theatrics. Neris, stand on my left and throw the first line when I raise my finger. If your rhythm stumbles, the river will correct you with a slap none of us can afford."
+        },
+        {
+            "speaker": "Lisi Jhak",
+            "line": "I will watch your little play and accept the verdict of a pane that has learned to perform if and only if your proof survives daylight on ledgers. If the market is stained, it will be I who orders the scrubbing, because I will not let amateurs make a fool of an empire of color. Deliver me the names and timings. If they are mine, we will cut them out."
+        },
+        {
+            "speaker": "Thay Nerr",
+            "line": "Every whisper I bought tonight traded its feathers for a place in history, and that is a bad bargain for a rumor. I have grounded my kites for one hour, at price and with pride. Make it count. If you live, I will sell the story of your courage at a fair discount to those who need to believe in anything at all."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "Lanterns, listen. Hinges, breathe. Rope, remember the shape of hands that have saved strangers because someone had to. I will tie the bell between guild and guild, and I will sing the city into standing. If I must speak of a night when my flame burned wrong, let it be the last lie that light tells for me."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        "Edict enacted: Co-Authored Hinge Schedule requiring Tidewrights–Marrows joint bell during trade hours with Archivist countersign",
+        "Command whistle tuned to Bastion signals for emergency calls (two-use authority)",
+        "Public absolution from the Fifth Knot contingent on continued service in flood crises",
+        "Right to speak before Parliament on flood-law without lamp-seat (floor-rights secured)"
+    ]
+}

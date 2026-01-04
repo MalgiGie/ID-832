@@ -1,0 +1,59 @@
+{
+    "name": "Zexi",
+    "surname": "Orr",
+    "race": "ash-elf",
+    "age": 89,
+    "appearance": "Ash-silver rope hair threaded with green glass beads. Weathered skin and eyes bright as stormlight. Fingers stained with fulgurite dust.",
+    "character": "Ecstatic and mercurial, speaking in images and omens. Generous in joy and sharp as lightning in anger.",
+    "traits": [
+        "haunted gaze",
+        "laughs during thunder",
+        "collects storm-words",
+        "walks barefoot on hot stone"
+    ],
+    "skills": [
+        "storm-chant composition",
+        "kite rigging for Glass Night",
+        "omen reading from wind organs",
+        "public rite leadership"
+    ],
+    "talents": [
+        "harmonizes naturally with the Resonant Gate",
+        "turns crowd murmurs into chorus on cue"
+    ],
+    "flaws": [
+        "erratic",
+        "disdainful of bureaucrats",
+        "forgets appointments"
+    ],
+    "dreams": [
+        "Make the city heed the Gate’s children-only hum warnings",
+        "Compose a song that tames glassstorms at their edge"
+    ],
+    "secrets": [
+        "Keeps a stolen Night-Glass tuning diagram in a hollow bead",
+        "Once sang the Under-Sun hymn and saw her reflection vanish for a day"
+    ],
+    "relations": [
+        {
+            "npc_name": "Prelate Lys Amon",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Matron Sere Kall",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Pera Thass",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Veyla Prism",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Riala Hearthwake",
+            "relation_type": "Friendship"
+        }
+    ]
+}

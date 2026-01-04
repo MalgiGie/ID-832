@@ -1,0 +1,392 @@
+[
+    {
+        "from": "Iren Vask",
+        "to": "Quill Vess",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Iren Vask",
+        "to": "Mereth Tydel",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Iren Vask",
+        "to": "Calra Orun",
+        "type": "Different goals"
+    },
+    {
+        "from": "Iren Vask",
+        "to": "Sava Deren",
+        "type": "Different goals"
+    },
+    {
+        "from": "Iren Vask",
+        "to": "Yerin Pale",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Iren Vask",
+        "to": "Thorek Brimvauld",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Iren Vask",
+        "to": "Rana Olt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Quill Vess",
+        "to": "Sava Deren",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Quill Vess",
+        "to": "Mereth Tydel",
+        "type": "Conflict"
+    },
+    {
+        "from": "Quill Vess",
+        "to": "Brina Coil",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Quill Vess",
+        "to": "Iren Vask",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Quill Vess",
+        "to": "Ollo Fen",
+        "type": "Conflict"
+    },
+    {
+        "from": "Quill Vess",
+        "to": "Rana Olt",
+        "type": "Friendship"
+    },
+    {
+        "from": "Quill Vess",
+        "to": "Thorek Brimvauld",
+        "type": "Different goals"
+    },
+    {
+        "from": "Calra Orun",
+        "to": "Yerin Pale",
+        "type": "Alliance"
+    },
+    {
+        "from": "Calra Orun",
+        "to": "Jilai Sunquiet",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Calra Orun",
+        "to": "Mereth Tydel",
+        "type": "Different goals"
+    },
+    {
+        "from": "Calra Orun",
+        "to": "Sava Deren",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Calra Orun",
+        "to": "Sorev Dusk",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Calra Orun",
+        "to": "Thorek Brimvauld",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sava Deren",
+        "to": "Quill Vess",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sava Deren",
+        "to": "Ollo Fen",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sava Deren",
+        "to": "Calra Orun",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sava Deren",
+        "to": "Mereth Tydel",
+        "type": "Conflict"
+    },
+    {
+        "from": "Sava Deren",
+        "to": "Jilai Sunquiet",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sava Deren",
+        "to": "Rana Olt",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Jilai Sunquiet",
+        "to": "Mereth Tydel",
+        "type": "Friendship"
+    },
+    {
+        "from": "Jilai Sunquiet",
+        "to": "Calra Orun",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Jilai Sunquiet",
+        "to": "Yerin Pale",
+        "type": "Conflict"
+    },
+    {
+        "from": "Jilai Sunquiet",
+        "to": "Brina Coil",
+        "type": "Alliance"
+    },
+    {
+        "from": "Jilai Sunquiet",
+        "to": "Sava Deren",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Jilai Sunquiet",
+        "to": "Sila Jor",
+        "type": "Friendship"
+    },
+    {
+        "from": "Jilai Sunquiet",
+        "to": "Ollo Fen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Yerin Pale",
+        "to": "Calra Orun",
+        "type": "Alliance"
+    },
+    {
+        "from": "Yerin Pale",
+        "to": "Jilai Sunquiet",
+        "type": "Conflict"
+    },
+    {
+        "from": "Yerin Pale",
+        "to": "Iren Vask",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Yerin Pale",
+        "to": "Sorev Dusk",
+        "type": "Alliance"
+    },
+    {
+        "from": "Yerin Pale",
+        "to": "Brina Coil",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Yerin Pale",
+        "to": "Sila Jor",
+        "type": "Different goals"
+    },
+    {
+        "from": "Yerin Pale",
+        "to": "Thorek Brimvauld",
+        "type": "Conflict"
+    },
+    {
+        "from": "Brina Coil",
+        "to": "Quill Vess",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Brina Coil",
+        "to": "Jilai Sunquiet",
+        "type": "Alliance"
+    },
+    {
+        "from": "Brina Coil",
+        "to": "Yerin Pale",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Brina Coil",
+        "to": "Sila Jor",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Brina Coil",
+        "to": "Rana Olt",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Brina Coil",
+        "to": "Thorek Brimvauld",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Mereth Tydel",
+        "to": "Quill Vess",
+        "type": "Conflict"
+    },
+    {
+        "from": "Mereth Tydel",
+        "to": "Jilai Sunquiet",
+        "type": "Friendship"
+    },
+    {
+        "from": "Mereth Tydel",
+        "to": "Calra Orun",
+        "type": "Different goals"
+    },
+    {
+        "from": "Mereth Tydel",
+        "to": "Iren Vask",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mereth Tydel",
+        "to": "Sila Jor",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mereth Tydel",
+        "to": "Sava Deren",
+        "type": "Conflict"
+    },
+    {
+        "from": "Mereth Tydel",
+        "to": "Thorek Brimvauld",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ollo Fen",
+        "to": "Sava Deren",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ollo Fen",
+        "to": "Quill Vess",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ollo Fen",
+        "to": "Calra Orun",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ollo Fen",
+        "to": "Jilai Sunquiet",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ollo Fen",
+        "to": "Mereth Tydel",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rana Olt",
+        "to": "Quill Vess",
+        "type": "Friendship"
+    },
+    {
+        "from": "Rana Olt",
+        "to": "Sava Deren",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Rana Olt",
+        "to": "Brina Coil",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rana Olt",
+        "to": "Iren Vask",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rana Olt",
+        "to": "Mereth Tydel",
+        "type": "neutral"
+    },
+    {
+        "from": "Sorev Dusk",
+        "to": "Yerin Pale",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sorev Dusk",
+        "to": "Calra Orun",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sorev Dusk",
+        "to": "Sila Jor",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sorev Dusk",
+        "to": "Jilai Sunquiet",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sila Jor",
+        "to": "Mereth Tydel",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sila Jor",
+        "to": "Brina Coil",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sila Jor",
+        "to": "Yerin Pale",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sila Jor",
+        "to": "Sorev Dusk",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sila Jor",
+        "to": "Jilai Sunquiet",
+        "type": "Friendship"
+    },
+    {
+        "from": "Thorek Brimvauld",
+        "to": "Brina Coil",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Thorek Brimvauld",
+        "to": "Calra Orun",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Thorek Brimvauld",
+        "to": "Iren Vask",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Thorek Brimvauld",
+        "to": "Yerin Pale",
+        "type": "Conflict"
+    },
+    {
+        "from": "Thorek Brimvauld",
+        "to": "Mereth Tydel",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Thorek Brimvauld",
+        "to": "Quill Vess",
+        "type": "Different goals"
+    }
+]

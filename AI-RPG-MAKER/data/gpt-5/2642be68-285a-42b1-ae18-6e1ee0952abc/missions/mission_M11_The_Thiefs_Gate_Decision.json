@@ -1,0 +1,48 @@
+{
+    "id": "M11",
+    "title": "The Thief’s Gate Decision",
+    "quest_giver": "Aren Mir",
+    "description": "Storm drums roll from Windward Bastion; the River Aur swells and the city holds its breath. Aren Mir calls in every favor you owe him and some you don’t: it’s time to crawl under the Tide-Engine and put a hand on the hidden bypass. Tomas Helwin waits with a crowbar and a prayer; Mavek Dross denies everything and stands ready to take credit for whatever saves the city. The plan is knife-thin: slip into the underworks during the surge, use the runecap’s tone to stun the bypass linkage, and flood the thief’s gate for seconds, not minutes, to bleed pressure without cracking the basins. The Wardens will cover the quays; the Compact will pull lines in rhythm; the Veil will either stay home or learn to swim. If you fail, the city wakes to drained canals and a riot that won’t end with dawn.",
+    "objectives": [
+        "Enter the Tide-Engine underworks via the mapped catwalk beneath Gate Three.",
+        "Locate the hidden bypass handle using the Scar’s coordinate rhythm.",
+        "Strike the runecap’s harmonized tone to stun the bypass linkage.",
+        "Signal Gate-Mistress Ruli Saan to flood the thief’s gate for a controlled count.",
+        "Confront Mavek Dross with the mirrorglass ledger evidence and force a shutdown order."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Aren Mir",
+            "line": "I said once that duty is a dull blade, but today it’s a hook we all grab. I’ll be above you counting heartbeats, and if you call for water I’ll bring you the city’s share with my own hands. Don’t die where I can’t see you, Kade. I’ve buried too many boys who smelled like rope and rain."
+        },
+        {
+            "speaker": "Tomas Helwin",
+            "line": "When we throw that tone into the metal, it will either hum like a choir or scream like a boil. If it screams, we pull the crowbar and let the thief’s gate drink for longer than your stomach allows. I’ll take the blame if the Court comes hungry. I’ve had my name in better ledgers than theirs."
+        },
+        {
+            "speaker": "Mavek Dross",
+            "line": "You come into my house with a singing coin and a mirror full of rumors. The river does not care who signs the order, Orrel. It cares who holds the wrench. If we are done pretending, I will say this: pull your tone, bleed your gate, and I will draft a reform that saves more lives than your heroics. Or keep your secrets and watch your city learn thirst."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "You don’t get to sell us back our mornings, Mavek. Not with secret valves and not with reforms written in the ink of other people’s nights. The gate drinks when we say so, not when your ledger is thirsty. Ruli, on my count. Three. Two. One."
+        },
+        {
+            "speaker": "Ruli Saan",
+            "line": "Flooding thief’s gate on controlled count. May the river forgive our arithmetic. Hold fast, all of you. When the chain stops singing, breathe."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        "Citywide renown: Wardens, Order of Moths, and Salted Compact favor increased",
+        "A sealed writ from the Lantern Court authorizing investigation into Tidewright abuses",
+        "Access privilege: restricted walkways in the Tide-Engine House during audits"
+    ]
+}

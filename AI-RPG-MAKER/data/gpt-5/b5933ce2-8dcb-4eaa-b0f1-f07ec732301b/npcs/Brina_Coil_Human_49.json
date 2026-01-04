@@ -1,0 +1,69 @@
+{
+    "name": "Brina",
+    "surname": "Coil",
+    "race": "Human",
+    "age": 49,
+    "appearance": "Ink-scored hands, soot-freckled cheeks, brass-riveted apron; steady eyes that weigh intent like ingots.",
+    "character": "Principled and stubborn; she will not forge a thing to kill, and she will not be moved once her oath is set.",
+    "traits": [
+        "Idealistic",
+        "Meticulous",
+        "Stubborn",
+        "Protective"
+    ],
+    "skills": [
+        "Lockwork design",
+        "Metallurgy",
+        "Apprentice training",
+        "Star-metal handling",
+        "Oathcraft"
+    ],
+    "talents": [
+        "Hears when metal lies",
+        "Forges to chant-tempo for perfect grain",
+        "Disassembles common locks blindfolded"
+    ],
+    "flaws": [
+        "Secretive about star-metal",
+        "Poor at soft politics",
+        "Holds grudges against unethical clients",
+        "Workaholic"
+    ],
+    "dreams": [
+        "Safer sluice components citywide",
+        "Cloister neutrality preserved",
+        "Free locks for hospice wards",
+        "Retire the city’s last lethal commission"
+    ],
+    "secrets": [
+        "Oath tattoo hides a map to a safe star-metal vein",
+        "Maintains a hidden side-foundry skirting embargoes",
+        "Sabotaged a lethal device commissioned by a shadow client"
+    ],
+    "relations": [
+        {
+            "npc_name": "Quill Vess",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jilai Sunquiet",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Yerin Pale",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sila Jor",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Rana Olt",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thorek Brimvauld",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

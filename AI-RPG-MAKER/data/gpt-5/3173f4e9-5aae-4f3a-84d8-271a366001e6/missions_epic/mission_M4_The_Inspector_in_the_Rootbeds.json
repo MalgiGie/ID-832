@@ -1,0 +1,79 @@
+{
+  "missions": [
+    {
+      "id": "M4",
+      "title": "The Inspector in the Rootbeds",
+      "quest_giver": {
+        "name": "Sera Dake",
+        "affiliation": "Bonewrights’ Conclave"
+      },
+      "description": "Salt squalls laced the air with sting and glitter when the Conclave runner found Aerin on the ribwalk, breath heaving, seal-fob clacking like a warning bell. Sera Dake’s summons came stamped hot from the Foundry, the wax still smelling of salt-ash and wind, and the words within named a fear that set the bones of the city humming in Aerin’s inner ear. Kessa Tharn, the Conclave’s keenest inspector, had vanished after flagging a forged maintenance certification that, if honored, would send weight through a rib in a way the Hollow Oath forbids, like driving a nail into sacred grain. The Lantern-signal that marked the trail—three soft pulses and a moth-wing flicker—drew Aerin down-rope into the Ossuary Gardens, past spore-silk curtains, along ladders glazed in drip, and into a world of pale bioluminescence where the air tasted of mushrooms and old rain. There, the beds remembered the city’s footsteps with a slow crackle, the mycelium whispering the passings of riggers, smugglers, and frightened runners, and the pale caps bent like listening ears. Under a sweep of lace fungus, tucked as if a desperate hand had tried to return her to the earth and let the soil breathe her back, lay Kessa Tharn, broken but breathing, her pulse stubborn, her eyelids fluttering to the rhythm of the wind through the organ cliffs above. A rafter’s knot bit into her wrist, a professional loop too neat for common thugs, and brine grit packed the seam of her boots, tasting of Riverfoot’s slick planks and the Saltlick’s whipped spray, telling of a struggle that crossed terrace and chainwalk both. In the hush between spore drips, Kessa’s voice rasped of resonant tiles stolen from the Foundry test-walls, of a sharp song meant for bracing twisted into a knife meant for shattering, and of a name spoken in anger and fear: Danka Suth, a Rafter foreman whose hands were everywhere a cable hummed. And there, slick with specks of salt and fungus dust, lay a purse stamped with the eel-skin sigil of the River Lords, an oily boast of coin, power, and the river’s cold current tugging at the city’s ribs. The mission turns on care and witness: follow the Lantern-Queen’s cautious glow, stabilize Kessa’s breath without trading her spine for haste, gather the physical proof that matches the song in the bones, and carry word to the Vigil and Sera Dake before the city’s enemies can choreograph a different ending.",
+      "objectives": [
+        "Descend to the Ossuary Gardens using safe ropes and a spore mask, following Thia Mol’s lantern-signal and keeping within sanctioned ladders and anchor points so that no fungal bed is crushed and no taboo rung is taken for speed.",
+        "Locate and stabilize Kessa Tharn with calm hands and measured breath; extract her testimony without moving her overly much by cooling her brow, splinting what must be braced, and listening until her story is complete enough to withstand guild knives.",
+        "Gather the physical clues that truth can wear in court: the rafter’s knot looped on her wrist, the brine grit wedged in her boot-seams, and the purse stamped with the eel-skin sigil of the River Lords, each bagged and sealed in sight of witnesses.",
+        "Secure Kessa’s passage to Vigil care by litter and careful climbers, and alert Sera Dake of the resonant tile diversion at once, invoking the Conclave’s inspection writ to protect the scene and to freeze any attempt to line plates along a forbidden curve."
+      ],
+      "dialogue": [
+        {
+          "speaker": "Sera Dake",
+          "lines": "Our oath forbids cuts to bone, yet it also bids us lay our palms upon the ribs when they shiver and name aloud the danger in their tremor..."
+        },
+        {
+          "speaker": "Aerin Rell",
+          "lines": "I’ll bring her back or bring what she tried to say with care enough that no one can sand it down to a polite lie..."
+        },
+        {
+          "speaker": "Kessa Tharn",
+          "lines": "Don’t let them line the plates along a curve, not there, not where the rib has a memory of strain..."
+        },
+        {
+          "speaker": "Mira Olt",
+          "lines": "Spore-light will hide her while we fetch a litter..."
+        },
+        {
+          "speaker": "Thia Mol",
+          "lines": "My lantern will draw you by three pulses and a moth-wing flourish..."
+        }
+      ],
+      "choices": [
+        {
+          "id": "C1",
+          "title": "Carry Kessa openly to the Vigil and announce a public inquiry",
+          "text": "I will climb with deliberate grace, call a Vigil litter to the Ossuary mouth, and bear Kessa through the ribwalks where everyone can see the careful hands that lift her...",
+          "outcome": "The public procession draws a hush along the ribwalks and a murmur along the Crown-Market..."
+        },
+        {
+          "id": "C2",
+          "title": "Move in shadow with the Moth Lanterns and set a sting for Danka Suth",
+          "text": "I will trust Thia Mol’s small lights and keep my steps on the lattice slats...",
+          "outcome": "The decoy rumor sparkles through the Undershadows like a thrown coin..."
+        },
+        {
+          "id": "C3",
+          "title": "Confront Danka Suth at the Chainhouse Triad under the Conclave writ",
+          "text": "I will march to the Triad with the wind at my back and the inspection writ held where the brake smoke can stain it honest...",
+          "outcome": "The Triad’s platforms shudder to a halt under the Vigil’s temporary sanction..."
+        }
+      ],
+      "connections": {
+        "previous": ["M3"],
+        "next": ["M5"]
+      },
+      "rewards": [
+        {
+          "type": "writ",
+          "description": "Conclave inspection writ bearing Sera Dake’s seal, allowing site access during structural emergencies and granting the authority to halt unsafe work on spans under immediate suspicion."
+        },
+        {
+          "type": "consumable",
+          "description": "A pouch of antibiotic shelf fungus poultice from the Ossuary keepers, enough for several careful dressings to cool fever and fight rot without stinging the spirit."
+        },
+        {
+          "type": "faction_pledge",
+          "description": "Public pledge from Sera Dake to submit Conclave experiments—resonant tiles included—to Vigil oversight, with audit logs posted at Spinegate for a lunar month."
+        }
+      ]
+    }
+  ]
+}

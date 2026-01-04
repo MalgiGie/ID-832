@@ -1,0 +1,82 @@
+{
+    "id": "M11",
+    "title": "Drain-Keys at Dusk",
+    "quest_giver": "Captain Ysger Thorn",
+    "description": "Dusk stains the Spine a bruised purple. Word comes that Verrin Nasse, Keyholder of the Tidemasons, plans to test the bypass during a timed dim-out and drain the Spine Market to prove the need for unprecedented emergency powers—backed by Mara Vell-Seren’s promise of loans and a secret dividend of pearl rights. Rusk’s jam will slow the water but not stop a determined hand with two keys and a chorus in his pocket. Ysger asks Kael to intercept the keys, expose Mara’s ledger pact, and keep the Loom from coughing a ward into the tide. The Embersalt Arsenal tightens its doors while Brinewardens take up stations along the jawbone quays. The city leans, waiting to see which way to fall.",
+    "objectives": [
+        "Intercept Verrin Nasse’s runner and secure one of the two Loom keys without killing.",
+        "Break into a private meeting between Mara Vell-Seren and Verrin Nasse and obtain the ledger pact.",
+        "Hold the Loom’s bypass wheel at the service gallery until Rusk’s jam fully sets.",
+        "Confront Verrin Nasse and persuade or force him to stand down.",
+        "Present the keys and ledger pact to the Council guard for immediate injunction."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Ysger Thorn",
+                "line": "When I was a young sergeant, a flood ate a ward because a man wanted to win an argument. He won it. Everyone else lost their beds. I won’t watch another man gamble with the looms because he fancies himself a storm. Take the wind out of his lungs, Kael."
+            },
+            {
+                "speaker": "Kael",
+                "line": "I’ll take the keys out of his hand and the chorus out of his throat. If he wants to argue after that, he can do it on dry stone."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Mara Vell-Seren",
+                "line": "You crash uninvited into a private conversation and call it heroism. The city will remember your manners. Verrin, ignore the archer—numbers do not bleed when they are cut. Turn the wheel. Let them see the mercy of a controlled flood."
+            },
+            {
+                "speaker": "Verrin Nasse",
+                "line": "Everyone is so delicate until the first clean demonstration. Then they understand the looms are not to be trifled with. Stand aside. I carry the city’s safety in my pocket and I intend to spend it."
+            },
+            {
+                "speaker": "Kael",
+                "line": "You carry a ward in your pocket and call it a coin. You think a flood is a speech. Here is my answer: a jam in your chord, a key you don’t hold, and a room full of men who will hear your name under fossil light tomorrow."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Rusk Bonebinder",
+                "line": "The jam held because you held. I felt the Loom shudder and then settle, like a beast that decided not to bite the hand that fed it. Verrin can keep his smile; it will look thin in a cell."
+            },
+            {
+                "speaker": "Mara Vell-Seren",
+                "line": "You win a dusk. The night will be longer than you think. I am tired of losing to men with clean consciences. They sleep too well to be afraid."
+            },
+            {
+                "speaker": "Ysger Thorn",
+                "line": "Bring the keys and the ledger. Let them hear what greed sounds like when you scrape it off gears. We’ll make an injunction out of your stubbornness and Rusk’s clever hands."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ],
+        "related_to": [
+            "M4",
+            "M5",
+            "M6",
+            "M7",
+            "M9"
+        ]
+    },
+    "rewards": {
+        "xp": 900,
+        "items": [
+            "Confiscated Ledger Pact (legal leverage)",
+            "Verrin’s Half-Key (now inert without the matching chord)"
+        ],
+        "favors": [
+            "Brinewarden Charter for a pilot 'safe-cut' route independent of cartel tolls"
+        ],
+        "access": [
+            "Guarded access to the Tide Looms during Council sessions"
+        ],
+        "coin": "50 credit-shells"
+    }
+}

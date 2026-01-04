@@ -1,0 +1,96 @@
+{
+    "id": "M8",
+    "title": "Unshelling Unbroken",
+    "quest_giver": {
+        "name": "Tullis Nacrethane",
+        "affiliation": "Children of the First Shell"
+    },
+    "description": "The Unshelling dawn spills pale-blue light along the Spine Causeway as drums tumble like surf across bone arches and lumenkelp braziers breathe a soft emerald glow into the morning brine. Thassyl fastens its hopes to a shell-mother effigy braided from reed-fiber and pearl-thread, borne by orphan cadres whose steps keep time with the city’s humming heart, while brine glyphs flicker to coax floodwater into hidden wells so the pageant may pass unhindered. Beneath the benevolent din, whispers creep: someone has salted the route with bell grenades, rigged to shatter faith and bone alike, and the blame is meant to fall on Brinewarden pikes so votes will tilt toward the Shellspire by rage and grief. Arno Kest and his Siltglass banners, sharp as noon glare, parade their glittering pennants in a defiant pledge of loyalty, even as rumors smear glass with guilt; Captain Ysger Thorn sets his pikes at the corners with strict orders to hold but not strike, a discipline tightened like a knot at the jaw. Mother Tullis presses a hand to your forearm and asks you, Kael Rimestrand, to be the tide between rocks—guide the orphans, search the procession’s underways for caches that smell of salt-cored powder, and turn any spark into steam before it becomes a scalding blast. The sea waits like a judge with its hand over the verdict, and every step of the effigy across Veloros’s bones feels like the balancing of a blade.",
+    "objectives": [
+        "Coordinate with Brinewardens on procession routes and safe perimeters.",
+        "Sweep along the effigy’s route to find and disarm any bell grenade caches.",
+        "Defuse a staged confrontation between zealots and Tidemason journeymen at a flood channel.",
+        "Protect the orphan cadre and ensure the Unshelling carapace reaches the water unscathed.",
+        "Deliver any captured agitators to neutral custody at the Thalassarium."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tullis Nacrethane",
+            "lines": "All this pageant is a lullaby we hum to the water so that it hums back kindly when we sleep, and I will not see the refrain split into screams by hands that fancy themselves righteous. The little ones will carry the carapace with shoulders already acquainted with hunger and winter, and I will not have them acquainted with shrapnel in the same breath. Walk beside my children and let your calm be a wall, for you have a way of turning heat into air and panic into steps that keep the beat. If you smell the sour-salt of powder or hear a fuse whispering its intent, drown it in time and mercy before it teaches fear a new word. Should you find the authors of this blasphemy, bind them with gentleness if you can and with sternness if you must, and bring them not to my door nor to a Brinewarden cell but to the Thalassarium, where water keeps counsel and anger cannot sharpen itself on iron."
+        },
+        {
+            "speaker": "Ysger Thorn",
+            "lines": "My pikes stand at the corners with tips down and tempers lower, and I have hammered into them that holiness is not defended by broken ribs. If someone raises a spark, I want your hands on the fuse before my hands on a baton, because a single crack on a holy day rips through a city louder than cannon. We will lock the lanes with presence, not with fear, and we will keep the blood in bodies and the prayers in throats. I know the smell of arsenal salt and the quick-sour tang of bell-guts; if you see that look cross my marines’ faces, give me a signal and I will turn the current aside. We disagreed over lanternless nights, Kael, but I have never doubted your aim or your ear for danger, and today I will trust both before I trust the quiet of a crowded street."
+        },
+        {
+            "speaker": "Arno Kest",
+            "lines": "Glass shows the truth of flame, and that is why my guild marches with pennants bright as noon, so no one can pretend not to see us when we stand with the city instead of against it. If a bang splits the pageant, there are hands eager to hang it around my neck like a cracked lens and call it proof that sand breeds treachery; I will not give them that gift. My gleaners have been told to keep their distance, my apprentices to clap only their hands and not their tongs, and my foremen to watch for sacks that sit too comfortably in shadows. Keep your eyes where the light fails under ribs and bridge lips, and you’ll find malice prefers company there, wrapped in sailcloth and tied with pride. Should you find such a package, bring it to me unlit and I will show the crowd how glass quenches heat when given the chance, and perhaps the lie will melt before the truth does."
+        },
+        {
+            "speaker": "Oaric Bent",
+            "lines": "Journeymen of my order will be at the flood channel to mind the brine glyphs, and I have heard that zealots mean to accuse our locks of insulting the sea, as if a sluice were a sacrilege and not a prayer carved in bone. The confrontation they hunger for is staged like a farce with kindling piled just out of sight, and I will not see a quarrel turn to a breach that sends a ward swimming. Speak to them with the weight of the Unshelling in your words, and let them know the looms breathe with the tide because we listen, not because we command. If fists rise, put them down with sense and not with steel, for when steel appears, reason flees faster than water through an open gate. Show them the glyphs that drink the flood and whisper how many children slept dry because bone remembered the sea’s shape, and their anger will have to choose between doctrine and mercy."
+        },
+        {
+            "speaker": "Asha Heliope",
+            "lines": "Our lumenkelp braziers will line the path like patient stars, and their glow will help the orphans find a rhythm that even fear cannot stumble. I will walk the rear with my Lampers, and if the light dims where it should not, it will be because someone has thrown shadow and not because the kelp forgot its song. Remember that powder resents water but loves oil and cloth, so keep the little ones’ offerings away from the greedy corners and the leaning sacks. If you need a procession to slow without panic, have the children hum the first note of the Unshelling under their breath; the city knows it, and crowds melt before a familiar tune. Bring what you find to the Thalassarium, not to the market steps, because truth sounds clearer where the tide edits pride out of the air."
+        },
+        {
+            "speaker": "Tern Quietwake",
+            "lines": "The Thalassarium’s pillars are tuned to drink the sharpness out of words, and that is why our custody is neutral, not because we lack opinion but because we learned to float above it. If you deliver agitators to us, they will sit where echoes are kinder than chains, and we will ask questions with voices that have learned how not to harm even when they are stern. We will log what is said on echo-stone and let the Council at the Vertebrae hear without the corners of the room tugging the truth like a net. Today the whales circle beyond the jaw gates, uneasy with the city’s pulse, and I would not add cannon-song to their worry when a chord of reason will do. Bring us evidence, bring us voices, and leave revenge at the door, for it sinks heavier than iron and drowns the wrong people first."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Stand with the Brinewardens at the Corners",
+            "text": "You choose to plant yourself within arm’s reach of Captain Ysger’s nearest pike-line, making your shadow an extension of their restraint. You take the route map and re-draw it on the ground with a bit of brine chalk, narrating how the flow of a crowd resembles a rip current that must be eased, not dammed. You ask the pikes to mirror their spear hafts at hip level, teaching them the posture that looks protective rather than predatory, and you coach their breathing to match the drumlines so their tension doesn’t infect the air. You mark likely cache points—bridge lips, marrow channels where sound pools, and the folds behind shrine canopies—and dispatch runners to sniff salt where lantern light thins. When a whisper of panic ripples from the flood channel, you lift a calming hand and have the children hum the Unshelling refrain, letting its simple cadence smooth the crowd like a palm over furrowed water.",
+            "outcome": "By anchoring the corners with steady bodies and quieter hearts, the procession moves like a river finding its bed rather than a torrent battering its banks. A fuse catches under a bridge, but because your pike-line had space and discipline, you wedge the bell between wet stones and drown it, raising it afterward for all to see with water dribbling from its shuttered mouth. Zealots meet Tidemason journeymen at the channel, but your presence, flanked by pikes who look like guardians rather than gaolers, pulls the heat out of the words before they become blows. Mutterings about Brinewarden tyranny fail to ferment, and the crowd witnesses the restraint that rumors tried to deny, leaving little oxygen for the smear to burn. Mother Tullis’s orphans pass through a corridor of open hands, the carapace kisses the lagoon unscarred, and the agitators you bind are led, unbloodied, to the Thalassarium where Tern Quietwake records their confessions between kind echoes."
+        },
+        {
+            "id": "C2",
+            "title": "Shadow the Glass Pennants",
+            "text": "You fall into step with Arno Kest’s gleaming column, keeping your eyes not on the banners but on their shadows, where saboteurs prefer to plant seeds. You chat loudly, as if comparing glass grades, while your fingers trace the sweat-slick rope of a jawbone grapnel ready to hook trouble from a ledge. You make a conspicuous show of admiring a lens, then, while heads turn, you stoop to tug a suspicious sailcloth from a rib seam and feel the rattle of bell pieces inside. You pass the bundle to Arno and tell him to demonstrate how sand quenches heat when it is shaped by care, inviting him to turn a smear into a spectacle of safety. You send two apprentices ahead to spread word that the Siltglass Syndicate just proved its loyalty with bare hands and wet cloth, and that anyone who says otherwise has steam for truth and fog for breath.",
+            "outcome": "Arno douses the first cache in a vat of cooling brine held by his bearers, then lifts the soggy bell-gut high enough for even the jealous to see, and the cheer that follows cracks the rumor’s spine. A second cache is found under a pennant anchor, and because you were watching the shadow and not the shine, you catch the saboteur’s hand as it twitches toward a taper; your arrow kisses the flint from his fingers without tasting skin. The crowd’s suspicion of glass softens as they witness the guild extinguish fire instead of feeding it, and Arno’s foremen spread a loud, careful story that leaves little room for the counterfeit version. The zealot-Tidemason confrontation falters when its presumed catalyst fails to bang; deprived of spectacle, the zealots’ rhetoric blows away like ash when the tide takes it. The prisoners—one smear-monger and two hirelings—are marched beneath pearl-lit arches to the Thalassarium, where their testimony, recorded on echo-stone, implicates a ledger-scribe with more ink than conviction."
+        },
+        {
+            "id": "C3",
+            "title": "Guide the Orphans Through Bone-Back Alleys",
+            "text": "You choose the quieter marrow channels and bone-back alleys, reading brine glyphs with the practiced eye of one who has walked beneath tides and lived. You signal Asha Heliope to dim a run of braziers three breaths at a time, letting your cadre slip past like the hush between waves while the main procession draws the hungry gazes. You place a palm against a sluice-mark and, with a harmless reed-whistle note, you ask Tidemason wards for a moment’s patience, borrowing a trick you learned listening to the Tongues. You slow the children with a story about the first Unshelling to keep their feet careful, all while your other hand tests ledges and lever-struts for suspicious weight where a cache might lurk. When a staged confrontation kindles on the main route, you appear from a side rib with the orphans intact, carrying the carapace to the water’s lip before sparks can leap, defusing fury with the sight of the rite completed.",
+            "outcome": "Your choice of hidden currents saves the carapace from both panic and powder, and the orphans’ relief radiates through the crowd like warmth from a sunlit rock. Two bell devices you find are slick with damp from a timed drip you rigged above them, their fuses swollen and sullen, making a public unmasking possible without peril. The zealots arrive at the flood channel ready to brandish outrage, only to find the Unshelling already kissed to the lagoon, a holy inevitability that leaves their anger with nowhere to climb. Tidemason journeymen, spared the spark, point to drained gutters and dry doorsteps, and your gentle words about bone remembering the sea make a few zealots glance at their own reflections with new sobriety. The agitators still eager for chaos are delivered to the Thalassarium by a route of your choosing, where Tern Quietwake receives them under pillars that turn boasts into confessions and plots into notes that the Council cannot pretend not to hear."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "xp",
+            "description": "600 experience for safeguarding the Unshelling, uncovering bell grenade caches, and delivering agitators to neutral custody."
+        },
+        {
+            "type": "item",
+            "description": "Oath-Shell Pin (worn token; grants shelter and simple meals at any Shell children’s altar)."
+        },
+        {
+            "type": "item",
+            "description": "Defused Bell Grenade Components (evidence or barter)."
+        },
+        {
+            "type": "favor",
+            "description": "Children of the First Shell pledge safe harbor for Kael and named companions during curfews."
+        },
+        {
+            "type": "access",
+            "description": "Sanctum terraces during rites, with leave to approach the conch ramps and inner alcoves as a trusted guardian."
+        },
+        {
+            "type": "coin",
+            "description": "20 credit-shells, stamped and accepted along Spine Market’s pearl row and blue row alike."
+        }
+    ]
+}

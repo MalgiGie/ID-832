@@ -1,0 +1,73 @@
+{
+    "id": "9",
+    "title": "The Water Gate",
+    "quest_giver": {
+        "name": "Caur Spinekeeper",
+        "affiliation": "Bonewright Covenant"
+    },
+    "description": "The sternum chambers of the Heartward Engine breathe like a giant with a fever, their bone pistons rising and settling in a rhythm that tastes of iron and incense. Sere Kallin’s stormglass whistle thrums under her collarbone as the Engine hum lifts and drops, and the red veins of crystal beneath the grates glow like embers inhaling. Master Caur Spinekeeper walks with a craftsman’s patience between rib-pillars inscribed with pulse-marks, pointing with ink-stained knuckles where a cracked conduit reveals a throat not meant for mortal eyes. Mother Rhy Tidesong’s voice tests the air in long, low notes, and the tired machine shivers like a child soothed back from a nightmare. They tell Sere the sequence is three notes struck on three ribs, a cadence pulled long ago from wind-harp songs and engine dreams, a pattern that opens a hidden water gate for a blink and no more. Beyond that gate is the heart chamber, the red engine of the sleeping leviathan, and a measure must be taken without waking it, as careful as removing a splinter without stirring the skin. The air is slick as old prayers, salted with the memory of blood and flood and the years of hands that kept a city upright in the bones of a behemoth. But the city’s shadows move when currents change, and Keth of the Nets has sent soft-footed operatives to turn this opening into a rung ladder for contraband and leverage. Rumors reach even these inner grates on eel-quick tongues, and Sere’s eel-skin rope itches on her shoulder as if it remembers old bargains and the price of resin paid. Between hymn and hammer, between oath and debt, the gate will open like an eye, and what looks through may be water or memory or a hunger that does not know what a city is. Sere steadies the Rib-Splitter Pike, breathes with the Engine’s rise and fall, and prepares to call the bones by their names.",
+    "objectives": [
+        "Guard Caur Spinekeeper and Rhy Tidesong while they prepare the Engine rites.",
+        "Strike the three ribs in the correct order to open the water gate without flooding the chamber.",
+        "Confront Keth’s operatives and decide whether to drive them off, bargain, or use them.",
+        "Secure a clean pulse measure from the heart chamber and close the gate on time."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Caur Spinekeeper",
+            "lines": "I have spent my life convincing bone to remember it belongs together, Sere Kallin, and bone is a stubborn student. This is the part where the bones must remember they belong to us as well, not as masters, but as wardens who keep the city from slipping back into the mud. Strike where I show you and not a breath to either side, for the ribs echo, and the Engine listens like a skittish animal that has not chosen whether to trust our touch. When the gate opens, there will be a rush in your ears like rain in a vault and a taste like lightning on a spoon, and you must keep your hands steady as if balancing a lantern in crosswind. If the heart speaks, do not speak back; it does not know laws or markets or the way a mother measures bread, and it does not know what a city is. It only knows its own sleep and the ache of being roused, and if you answer, it may think you have come to wake it and will answer in kind."
+        },
+        {
+            "speaker": "Rhy Tidesong",
+            "lines": "I will hum the hymn that mothers use on fevered children, and you must imagine the city in your arms when you hear it, every roof of sailcloth and every ladder of bone as a child’s brow you touch to cool. If we must choose between a neat measure and a quiet pulse, we choose the quiet, no matter what the Collegium says they can build from neatness and perfect numbers. A tide can drown in tidy buckets and a heart can be broken by a ruler laid straight, so let no instrument talk you into haste. When the gate’s mouth opens, I will taste the current for anger and listen for the old grief that lurks beneath, and I will lay that grief back down with song if I can. Hold your pike like a promise and your shield like an oath, and remember that we are here to let the city breathe, not to take its breath away with our own cleverness."
+        },
+        {
+            "speaker": "Keth of the Nets",
+            "lines": "Look at us, all dressed as midwives at the birth of a gate, and what is a birth but a narrow mercy turned into a road. You have your songs and your hammers and your righteous brows, and I have my soft hands and a customer with deeper pockets than your collection plates and guild coffers. Let the opening be wide enough for two favors to pass through and we all go home dry; if you keep the door tight, you may find it slams when you need it most. You owe me one slow turn of the tide for resin and a mother’s brace, and I collect my debts in ways that leave people with their kneecaps, which is a kindness in this city. Or throw me out and I will remember, and the Bazaar will remember, and even the Engine will remember in the way machines remember: through the hands that tend it and the shadows that pay those hands after hours."
+        }
+    ],
+    "choices": [
+        {
+            "id": "A",
+            "title": "Drive Keth’s operatives out and seal the rite",
+            "text": "You set your feet on the grating and let the Engine’s hum pass through your bones until your tremor finds a rhythm that steadies rather than shakes. You call out the Wardens’ old step-code, and though you are no longer sworn, your voice has the iron in it that makes men step back from edges and fools reconsider knives. When the first operative slips from the shadows of a rib-arch, you feint with the saint-glass buckler and spark green light off the stormglass lens to blind, then turn the Rib-Splitter Pike like a baton to clip knuckles instead of cutting throats. A second shadow tries to slide a hook under Rhy’s hymn, and you answer with the eel-skin coil snapping like a whip, stealing his breath and buying her notes another measure. You warn Keth that this chamber will not be a rung in his ladder, not tonight and not while your name still means anything in the Lantern, and you step toward him in such a way that the idea of staying becomes less profitable than the idea of coming back another day.",
+            "outcome": "The operatives scatter like fish breaking from a net, leaving behind a dropped hook with a Black Net sigil and a smear of lamp-black that will mark your buckler until rain takes it. Caur’s hands do not shake as he nods for the sequence, and your pike rings three ribs in the cadence of wind-harps at the cairn, opening the water gate with a breath loud enough to make your glass-sparked eye prickle. Rhy’s hymn holds the pulse low and slow, and the measure you bottle is clean, a clear baseline like a calm river at dawn, so pure that even the Collegium would have to bow to it. Keth’s eyes are knives sheathed in a smile as he retreats, promising that your debt has merely changed shape, and that he can be patient in the way tides are patient. Word of your stand drifts to the Wardens by morning on eel smoke, earning you a nod from old patrols and a quiet grudge from the Bazaar; the Engine remembers you as the hand that kept the rite untouched, and Caur grants you standing access to the outer gallery with a craftsman’s solemn blessing."
+        },
+        {
+            "id": "B",
+            "title": "Bargain at the lip of the opening",
+            "text": "You read the currents of faces as if they were the Nine Mouths in flood, and you find the shoal where a skiff can pass without scraping. You let your voice lower and your words come slow, offering Keth a sliver of the opening’s width that will not touch the heart, a margin wide enough to soothe a creditor’s pride but narrow enough to leave no scar. You bind him to terms with river oaths that Rhy folds into her hymn, the kind of oath that tastes like copper if broken, and you make him repeat each clause as if he were practicing a knot. Caur bristles but holds his tongue when he sees you anchor the deal in a time no longer than two sung breaths, and he marks the ribs with chalk so no stray hand slips past the agreed seam. You remind Keth of the resin and the mother’s brace and the night you turned a Warden sweep aside, and you lay down your last card: the knowledge that you can name him to the Ferryman if he cheats, a name given for a name, a silence paid for silence.",
+            "outcome": "The gate opens on cue, a wet inhalation in the bones, and Keth’s two chosen hands move like practiced thieves along a margin no wider than a prayer, slipping a small pouch through and drawing nothing out but leverage. Rhy’s hymn threads the air with coolness, and the Engine’s pulse stays low; Caur takes the measure with care like a surgeon lifting a splinter, and the vial seals without a tremor. Keth keeps his end, flicking you the name of a Salt Parliament fixer who has been moving counterfeit brine—Yasma Brine’s errant nephew by marriage, a quiet link on a loud chain—and the knowledge sits heavy and useful in your pocket. The Bonewrights grumble but cannot deny the cleanliness of the measure or the restraint of the rite, and Rhy gives you a look that says bargains can be nets or bridges depending on which side you stand. The Bazaar whispers that you can talk Keth into fairness when the city needs it, the Wardens whisper that you can talk with smugglers without spilling blood, and the Engine remembers that your voice held the gate steady without courting a flood."
+        },
+        {
+            "id": "C",
+            "title": "Use Keth’s operatives as tools, then cut them loose",
+            "text": "You decide that a net can steer a fish as much as catch it, and you let Keth think you will open the door wide enough for his shadow to pass. You place his operatives where you want them with a guard’s casual authority, telling them exactly where footing is safe and where the Engine’s lattice will scream if touched, and you praise their light steps as if you were weaving them into the rite. You mark the ribs with ash instead of chalk so your true sequence will hide in plain sight, and you time your pike-strikes to make their entrance look like part of the plan. When the gate inhales, you let them near enough to feel the cold on their teeth but not near enough to slide a blade through the city’s throat, and you shift them with a shouted warning that makes them stumble where you choose. Then, at the close, you pull the eel-skin line taut on a rung only you can see, tripping them into retreat as the gate exhales and the chamber drinks itself shut.",
+            "outcome": "Caur’s measure is clean because your deceit kept the margin pristine, and Rhy’s hymn does not skip a note, though her eyes flash a rebuke at the taste of trickery near sacred machinery. The operatives curse and skitter back, more embarrassed than injured, and Keth’s slow clap echoes off the ribs as he admits he should have seen that coming from a river-fox raised on pilot knots. He withholds any bonus favors and no names cross to you, but he also does not declare open feud; instead, he files your method away like a new knot learned in bad weather. The Bonewright Covenant notes that you will cheat to keep the Engine safe, which is a kind of loyalty they can live with, and the Tidemothers note that you will cheat near a rite, which is a kind of sin they will watch. The Engine remembers the precision of your strikes more than the lies that framed them, and the outer gallery opens to you thereafter under a steward’s eye, while the Bazaar’s ladders creak a warning whenever you pass."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "3",
+            "7",
+            "8"
+        ],
+        "next": [
+            "11"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "A clean pulse measure keyed to the heart chamber’s baseline"
+        },
+        {
+            "type": "Access",
+            "description": "Standing access to the Engine’s outer gallery under Bonewright supervision"
+        },
+        {
+            "type": "Information",
+            "description": "If Keth is bargained with: the name of a Salt Parliament fixer moving counterfeit brine"
+        }
+    ]
+}

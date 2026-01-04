@@ -1,0 +1,58 @@
+{
+    "id": "M4",
+    "title": "Hymns for a Failing Brood",
+    "quest_giver": "Brynna Coil",
+    "description": "In the Loom Cathedral, looms creak like resting animals and silk panels shift color with the light. A moth blight has flicked its ash-black tongue across the brood, and apprentices weep in the dye gardens at night. Guildmother Brynna Coil admits, with a rare wince, that the Cathedral holds strains smuggled from a distant monastery, and they will not survive without harmonics only the Willowwives and a patient lantern can blend. Kezra must tune the nave’s pedal hymn to the moor-moths’ flight, negotiate openly with Ossa Wreath for a fair exchange, and decide whether to reveal the seed-vault’s secret to the Order’s eyes. The reed-thing rumors roost in the rafters; moths will not fly near vows that taste of ash.",
+    "objectives": [
+        "Meet Brynna Coil to learn the extent of the blight and the limits of the Cathedral’s secret strains.",
+        "Travel to the Mourning Mire’s willow hovels to parley with Ossa Wreath; obtain moth-sense herbs and a fair contract.",
+        "Tune the loom pedals to a harmonic sequence that soothes the brood and record it in lantern patterns for future seasons.",
+        "Decide whether to inform the Order of the seed-vault’s existence and justify the choice to Brynna."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Brynna Coil",
+            "lines": "The moths do not answer to coin or pride. They answer to patience, to gardens watered with breath and song. I have kept a secret to save the city’s veils, and secrecy is an acid even when it eats in the right direction. Help me sing to them, Kezra. And tell me if my silence is a sin I must confess."
+        },
+        {
+            "speaker": "Ossa Wreath",
+            "lines": "You city people think a song is a trick to make a living thing do what it should not. The moor-moths fly because we ask softly and keep our hands clean of greed, most days. Bring your lantern, let it listen to our reeds. Then you can ask me for a bundle of herbs and a word to your guildmother that is not a threat dressed for dinner."
+        },
+        {
+            "speaker": "Archcantor Pel",
+            "lines": "Tread lightly in the nave. The looms like to think themselves organs, and they take to pride like silk to dye. Your feet will set the key; your breath will hold it. If you get it wrong, the brood will not die—they will simply choose someone else to hear, and it will not be us."
+        },
+        {
+            "speaker": "Prior Ansel of the Black Thistle",
+            "lines": "Secrets kept for the good are still secrets, and secrets tempt disaster. Tell me what lives under your altar, Guildmother, and I will not parade it before the Exchange; I will hold it until it becomes a weight we must share. Kezra, see with both eyes, not just the one that loves light."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I’ll tune the hymn until the moths sleep and wake to it. And I’ll write the contract as if we have to live with its terms when the river runs low and when it runs proud. If any secret here is a knife, let’s wrap it before it cuts the wrong hand."
+        }
+    ],
+    "connections": {
+        "previous": "M3",
+        "next": "M5",
+        "locations": [
+            "Loom Cathedral",
+            "Mourning Mire"
+        ],
+        "npcs_involved": [
+            "Brynna Coil",
+            "Ossa Wreath",
+            "Archcantor Pel",
+            "Prior Ansel of the Black Thistle"
+        ],
+        "themes": [
+            "cooperation",
+            "ethics of secrecy",
+            "songcraft"
+        ]
+    },
+    "rewards": [
+        "Sound-damping silk scarf upgraded with moth-sense weave (improves stealth and focus)",
+        "Signed Willowwife Accord draft granting access to mire channels",
+        "Guild favor marker from the Spindlewrights (counts in future negotiations)"
+    ]
+}

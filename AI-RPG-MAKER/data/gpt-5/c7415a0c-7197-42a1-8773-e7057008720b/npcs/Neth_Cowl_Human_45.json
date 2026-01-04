@@ -1,0 +1,71 @@
+{
+    "name": "Neth",
+    "surname": "Cowl",
+    "race": "Human",
+    "age": 45,
+    "appearance": "Lean, weather-browned, hooded oilskin that beads the rain, a wrecksilver tooth flashing when he laughs, and palms scarred by coral and chain.",
+    "character": "Charming until the deal is struck, then as cold as the trench; keeps score without writing it down.",
+    "traits": [
+        "pragmatic",
+        "resourceful",
+        "bold",
+        "protective of wrecker families"
+    ],
+    "skills": [
+        "night diving",
+        "forgery and counterseals",
+        "coastline piloting in fog",
+        "knife-work",
+        "quiet logistics"
+    ],
+    "talents": [
+        "vanishes into rib-sung surf like smoke",
+        "bribes exactly the right rung of the ladder",
+        "sings a rib-song that steadies panicking crews"
+    ],
+    "flaws": [
+        "reckless wagers",
+        "sentiment for old wreckers blunts profit",
+        "seething hatred of Brinelaw blinds caution"
+    ],
+    "dreams": [
+        "Break the Compact’s choke on tariffs",
+        "Secure permanent safe coves under the bluffs",
+        "Leave a legacy that feeds wrecker widows for a generation"
+    ],
+    "secrets": [
+        "Keeps a ledger naming paid informants across the Market of Teeth",
+        "Arranged a ‘test’ slow-turn at the Array to prove a point about safety—then lost control of events",
+        "Sheltered a Compact heir after a drunken wreck rather than ransom them"
+    ],
+    "relations": [
+        {
+            "npc_name": "Garrik Shale",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Osric Greyfen",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Selka Vire",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Vesk Marran",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Irio Mossvane",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lira Thole",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Ketta Brineshaw",
+            "relation_type": "Different goals"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "2",
+  "title": "Ghosts on the Winch Core",
+  "quest_giver": {
+    "name": "Erynn Sythar",
+    "affiliation": "The Unmoored"
+  },
+  "description": "The ledger scratch reads like the first step of a forbidden calculus, a ten-step knot smudged into nine, a mercy or a lie depending on who reads it. Erynn Sythar’s summons arrives in the old way—three taps on a chainhouse pipe, a folded page tucked into a gear’s teeth, a smear of lantern-oil in a pattern only the Unmoored study—and the oil smells faintly of thunderbeast musk, a signal that speed matters. They want the Cathedral’s heartbeat, not in hymns but in numbers, not in incense but in oscillation, a lattice of data that can translate devotion into thrust vectors and safety margins into sail plans. Above the winch core where choirs time the ratchets and acolytes anoint links, the air shivers with centuries of oaths, and there in the iron ribs a precise ear can hear the Old Song tremble on an off-note that priests call sanctity and engineers call error bars. Lyris must thread those ribs and plant copper-mesh whiskers tuned to drink minute tremors, then nestle a forbidden airflow chime behind a prayer scroll rack so the Unmoored’s receivers can turn breath into calculus and hymn into harmonic. Chainwardens drift through the nave like zealous metronomes in oil-stained vestments, and Rul Fen’s eyes are always looking up where others forget to, his suspicion as steady as the Hinge’s toll in a windless night. Steel and ritual grind together, and beneath it all is the hush of a city that might learn to move again without snapping, a possibility that tastes of cloudfruit sweetness and sanction’s ash.",
+  "objectives": [
+    "Collect a bundle of copper-mesh tuning whiskers and a sealed airflow chime from Erynn’s dead drop at the Torsion Archives service hallway.",
+    "Enter the Chain Cathedral through a maintenance vent near the stained-glass windbreaks, timing your movement to choir cadences.",
+    "Affix tuning whiskers along the winch core’s upper flange and plant the airflow chime behind a prayer scroll rack.",
+    "Copy the pressure-vector inscriptions chalked by senior Chainwardens and photograph them using Istel’s skyglass coin.",
+    "Exit across the chainhouse catwalk and use the glide harness to reach the neighboring lantern tower without being seen."
+  ],
+  "dialogue": [
+    {
+      "speaker": "Erynn Sythar",
+      "lines": "You’ve danced along the Cathedral’s ribs before, but you never listened the way I need you to now, Lyris. The chain has a pulse the hymn hides, a faint tremor that slips between the choir’s cadences, and the whiskers I’ve built will taste that tremor like a tongue tastes salt on the wind. The chime is a heresy and a promise together; it will tease eddies into speech and let our receivers pull meaning from the breath behind the prayers. Bring me numbers, not heroics, because numbers will argue for us in chambers where no one will let us sing, and numbers will tell us which knot to loosen and which to leave bound. If you are seen, you are a thief; if you are heard, you are a blasphemy; if you are felt, you are a gust the Wardens will wall off with law. Go in as a subtraction that leaves no remainder, and when the Crown of Cirrus comes back around, we will have a stanza of the Old Song written in figures even the Hinge must respect."
+    },
+    {
+      "speaker": "Lyris Kael",
+      "lines": "Numbers I can carry, and I can wear silence like a cloak; heroics go clang and stain the floor where oaths keep score. I know the choir’s breath and the timing of the ratchets, and I know where the stained glass throws blind light across the trusses so a shadow becomes a sermon no one remembers hearing. I will plant your whiskers where the tremor lives and leave the chime to whisper behind scripture, and I will copy the chalk marks the senior Wardens adore as if they were commandments carved in iron. If the chain speaks in the tongue you believe it has, we will hear it on the far side of the city through your coils and my coin, and the Old Song will show us where the ninth step wobbles toward a tenth. If Rul Fen looks up, I will already be crossing the catwalk, and if the Hinge rings at my back, it will be only because the wind loves a joke and not because I stepped wrong on a broken-circle rivet."
+    },
+    {
+      "speaker": "Rul Fen",
+      "lines": "I smell copper and insolence long before I see either, and the Cathedral always gathers both in its rafters like dust that thinks it is thunder. There’s always someone who believes these ribs are scaffolding and shadow, that a clever hand can pry truth out of consecrated bolts without prying at the city’s bones. Hear me, Kael: the chains hold more than stone; they hold oaths stacked like weights on a scale that we dare not unbalance for the thrill of a calculation. Break the wrong one and the Hinge rings for funerals no bell-ringer meant to toll, and you don’t get a second wind or a quiet courtyard to think your regret into a lesson. I would rather scrape grease than scrape you off a ratchet, but if I must choose between you and integrity, I will keep integrity and mourn the smear, and I will do it without flinching so the city does not fall because I blinked."
+    },
+    {
+      "speaker": "Yassa Nim",
+      "lines": "If Rul has to scrape you, little knot, it will be because you forgot to be small, and I didn’t carve you out of a ledger to see you poured back into one as a stain. Be small and be wind and be the hesitation behind an eyelid that never quite becomes a thought, and the Wardens will bless the space you occupy without knowing it was ever yours. Your chime is tuned to gossip and grief; let it fret the air just enough to loosen a tongue of numbers, not so much that a priest calls for incense and a cross-check. Take the dead drop with clean fingers and leave no scent but liturgical grease, and if you see our lost boy under the nave, bring me his ribbon or bring me the name of the hand that cut it so I can tie a bow on that story. Matron Vessa wants profit and the Sailor wants wind, but I want you home with your skin unscraped and your coins uncracked, and that means you remember the difference between daring and noise."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Move with the Hymn",
+      "text": "You choose to enter during peak choir surge...",
+      "outcome": "The hymn masks your movements so thoroughly..."
+    },
+    {
+      "id": "C2",
+      "title": "Between Oil Shifts",
+      "text": "You bide your time until the maintenance changeover...",
+      "outcome": "The hush cuts both ways..."
+    },
+    {
+      "id": "C3",
+      "title": "Lantern Shadows and High Rafter Crawl",
+      "text": "You wait for the Lantern Yards’ rehearsal lamps...",
+      "outcome": "Light and shadow conspire in your favor..."
+    }
+  ],
+  "connections": {
+    "previous": ["1"],
+    "next": ["3"]
+  },
+  "rewards": [
+    {
+      "type": "Reputation",
+      "description": "Unmoored trust increase (access to restricted dead drops)."
+    },
+    {
+      "type": "Item",
+      "description": "Countertension charm sewn into cloak hem (+1 chance to resist chain sway mishaps)."
+    },
+    {
+      "type": "Intel",
+      "description": "Pressure-vector sketch of the winch core (used in later calculations)."
+    },
+    {
+      "type": "Narrative",
+      "description": "A faint sense that Rul Fen is watching for more than a collaring; he hesitated."
+    }
+  ]
+}

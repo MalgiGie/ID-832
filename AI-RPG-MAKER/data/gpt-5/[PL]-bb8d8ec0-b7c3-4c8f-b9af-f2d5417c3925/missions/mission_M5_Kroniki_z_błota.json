@@ -1,0 +1,49 @@
+{
+    "id": "M5",
+    "title": "Kroniki z błota",
+    "quest_giver": "Matka Korala",
+    "description": "Bagna Szeptów kryją skrytki z czarnymi księgami dłużników i listy, które mogą pogrążyć kilku seniorów Konfederacji Siódemułów. Matka Korala pragnie, by Elian wydobył z błota prawdę – i nie utonął w starych powstańczych głosach, które bagna lubią wskrzeszać. Pływający głaz z runami Ankorytów Wiatru zmienia położenie, a białe czaple obserwują, jakby liczyły każdy krok.",
+    "objectives": [
+        "Spotkaj się z Matką Koralą na skraju Bagien Szeptów i odbierz wskazówki do skrytki.",
+        "Znajdź pływający głaz z runami Ankorytów i odczytaj ustawienie zgodne z cyklem przypływów.",
+        "Odszukaj skrytkę z czarnymi księgami i zabezpiecz je w wodoodpornych trokach.",
+        "Ucieknij przed patrolem Legii lub przekieruj go sygnałem pryzmatycznym na fałszywy tor.",
+        "Przekaż wybrane kopie Maerze oraz oryginały Limie Fal do bezpiecznego przechowania."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Matka Korala",
+            "line": "Cienie w tym mieście mają chóry, a każdy śpiewa inną pieśń o sprawiedliwości. W bagnach leżą nuty, które mogą zmienić melodię Rady. Weź je, ale nie daj ich nikomu, kto liczy tylko srebro. Rozdziel prawdę tak, by każdy musiał słuchać drugiego, inaczej zrobimy tylko nowy refren starej opresji."
+        },
+        {
+            "speaker": "Aiona Pustodębna",
+            "line": "Słyszysz? To nie wiatr, to oddech tych, którym obiecano, że woda będzie sprawiedliwa. Niech twoje stopy nauczą się rytmu suchych kęp, Elianie. Wtedy bagna cię poniosą, nie połkną. Jeśli podniesiesz kamień nasienny, usłyszysz głos dębu, który pamięta czasy przed opłatą za każdy oddech."
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Mam w dłoniach strzały i mapy, ale dziś potrzebuję bardziej słuchu niż oczu. Wezmę księgi i sprawię, by trafiły tam, gdzie zaboli i tam, gdzie uleczy. Nie oddam ich Legii ani Konfederacji; przysięgam na Wir i na węzły kotwic."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "evidence",
+            "description": "Czarne księgi dłużników – materiał kompromitujący seniorów Konfederacji."
+        },
+        {
+            "type": "reputation",
+            "description": "Silna więź z Chórem Cieni; możliwość wezwania cichej łodzi w bagnach."
+        },
+        {
+            "type": "item",
+            "description": "Runiczny znacznik z pływającego głazu – jednorazowo stabilizuje ruchomą kępę."
+        }
+    ]
+}

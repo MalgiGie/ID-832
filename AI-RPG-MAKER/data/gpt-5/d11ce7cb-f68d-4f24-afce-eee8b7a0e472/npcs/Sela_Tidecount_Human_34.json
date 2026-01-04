@@ -1,0 +1,63 @@
+{
+    "name": "Sela",
+    "surname": "Tidecount",
+    "race": "Human",
+    "age": 34,
+    "appearance": "Lean and quick with cropped sea-black hair and wind-cut eyes. Smells of fog oil and eel-smoke; wears a stormglass lens on a bone cord.",
+    "character": "Brash, superstitious about wind omens, but deadly precise when the mist rolls in.",
+    "traits": [
+        "Competitive",
+        "Incisive",
+        "Blunt",
+        "Superstitious",
+        "Protective of her pilots"
+    ],
+    "skills": [
+        "Fog prediction by taste and temperature",
+        "Signal rhythms with lanterns and horns",
+        "Chart annotation",
+        "Skiff handling in zero visibility"
+    ],
+    "talents": [
+        "Sensing channel edges without sounding",
+        "Fixing balky lenses mid-storm",
+        "Whistling tones that carry through fog"
+    ],
+    "flaws": [
+        "Contempt for Collegium meddling",
+        "Short patience for showy youth",
+        "Reluctant to admit error"
+    ],
+    "dreams": [
+        "Chart the ghost routes the Lantern hides",
+        "Win veto rights for the Conclave in storm season",
+        "Teach a new generation to read fog by breath alone"
+    ],
+    "secrets": [
+        "Keeps a darksetting that reveals a Ferryman path, but fears its price",
+        "Feeds the Wardens misdirections when Parliament squeezes tolls too hard",
+        "Lies awake hearing the Skyhook hum out of season"
+    ],
+    "relations": [
+        {
+            "npc_name": "Isera Bent-Pike",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jaxin Brail",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Pell Lenseson",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Holl Riverborn",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Keth of the Nets",
+            "relation_type": "neutral"
+        }
+    ]
+}

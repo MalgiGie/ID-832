@@ -1,0 +1,63 @@
+{
+    "name": "Pell",
+    "surname": "Lenseson",
+    "race": "Human",
+    "age": 31,
+    "appearance": "Narrow-faced with glass-scar freckles across the cheeks and magnifiers clipped to a nose-bridge. Nails filed square for grinding work.",
+    "character": "Cautious and curious in equal measure, always counting cost before clarity.",
+    "traits": [
+        "Analytical",
+        "Nervous",
+        "Ambitious",
+        "Proud of craft",
+        "Politely disdainful"
+    ],
+    "skills": [
+        "Lens grinding and polishing",
+        "Stormglass handling",
+        "Prism math and calibration",
+        "Subtle bribe negotiation"
+    ],
+    "talents": [
+        "Noticing refraction anomalies at a glance",
+        "Steady hands under heat",
+        "Building rapport with officials who like gadgets"
+    ],
+    "flaws": [
+        "Debt-ridden to guild and lenders",
+        "Conflict-averse in public, petty in private",
+        "Disdain for pilots' 'folk methods'"
+    ],
+    "dreams": [
+        "Prove stormglass can dampen the heartstone without rites",
+        "Erase his debts and secure a kiln license",
+        "Raise a line of glass signal towers to the dunes"
+    ],
+    "secrets": [
+        "Copied a forbidden lens design from monastery prototypes",
+        "Sabotaged a rival's kiln by seeding it with salt dust",
+        "Bribed a basin page to shift a hue reading once"
+    ],
+    "relations": [
+        {
+            "npc_name": "Caur Spinekeeper",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sela Tidecount",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Yasma Brine",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Jaxin Brail",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Rhy Tidesong",
+            "relation_type": "Different goals"
+        }
+    ]
+}

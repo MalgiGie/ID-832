@@ -1,0 +1,95 @@
+{
+    "id": "M6",
+    "title": "Sumped Ink, Sudden Surge",
+    "quest_giver": {
+        "name": "Sereth Vex",
+        "affiliation": "Skull Keep, Custodian of the Remains"
+    },
+    "description": "The eye halls of Skull Keep glowed like lanterns set in the sockets of an ancient titan, and beneath that watchful light the Council of Cartilages hissed and bargained as if their breath alone could sway the bones of Marrowgate. Kiln-Queen Avar Ir’s words flashed like furnace sparks, demanding veins of star-glass from the west; Master Brunna Coil traced invisible joints in the air, already claiming any pre-wyrm ossature the bone-squalls might exhume; and Prior Edris Thale stood like a black-corded pillar reminding them that taboos bend like ribs until they crack and spear the heart. Into this chorus of old ambition and newer fear, Iriel Vask set the Resonance Map upon the table whose planks came from a ship that had once been sworn to never again know flood, and the room subtly leaned toward the vellum as if the whole council were a compass needle pulled by an unseen north. Lines inked with ash from reliquaries and glimmering traces of Skyfall shard harmonics showed the city’s hidden hum: the sluiceworks’ pulse, the reliquaries’ hush, the Council’s own bickering as a jitter on the bassline of the River of No Echo. Then a door slammed like the lid of a tomb and a runner with tide in their lungs stammered the thing no map had ever permitted: the river was surging off the charts, a pressure no ledger had room to name. Lady Sereth Vex did not curse, did not blanch; she merely gathered the council’s fear into her gaze and pointed down, toward the sumped vault beneath the Keep where relic-silt settles and the prophets of the river brew ink that writes itself when the future refuses to keep quiet. \"Go,\" she said, and the council’s quarrel died like a bell’s last vibration; the bones of the hall creaked once, as if to mark an oath, and the work began.",
+    "objectives": [
+        "Present the Resonance Map to the Council of Cartilages at Skull Keep.",
+        "Descend to the sumped vault with Prior Edris Thale and stabilize the pressure surge using the Cartographer’s Needle’s imprinted tone.",
+        "Collect a vial of relic-silt ink that writes itself and capture the warning it forms before it smears into silence.",
+        "Report back to Lady Sereth Vex with stabilized pressure readings and the exact ink-written message."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sereth Vex",
+            "lines": "If the city is an instrument, then today it screams, and I will not have my council play deaf while the strings fray. We govern a skeleton that remembers storms; do not let pride unlearn the lessons of the Ash Rains when our grandmothers bargained breath for shelter. Take your map and your flute, take the Prior’s cords and the Riverwardens’ weight, and go beneath my Keep where treaties drip into ink and the river dreams in black. Hold pressure as if it were your own breath, for it is; every gate, every oath-post, every ledger cord depends on that held note staying true. Bring me numbers I can command and words I can bind, not omens I must fear at arm’s length, because fate is merely a rumor until the Custodian writes it into law. And Iriel Vask—remember the taboos, but do not let them become an excuse for cowardice if the bone-song itself asks for courage rather than silence."
+        },
+        {
+            "speaker": "Edris Thale",
+            "lines": "The Bone Bell has not tolled without a hand, so no oath is murdered, but oaths can drown without dying if we let the river press them down. The Accords of Quiet Dust were born for nights like this, when fear would make engineers of us all and engineers would make priests of themselves. We will set the low chant where the vault’s stone learns its humility, and I will knot the ash-cords in patterns that remind the silence it is a guest and not a king. Your tone, set true to the Needle’s memory, will brace our work like a rib catching breath; between prayer and pitch, we will ask the city to remember its promise to live and to let the dead rest. If the ink writes, we will treat it as a witness and not a master, for prophecy is not a leash to drag the living but a lantern to throw shape on the road ahead. And if the words name a breaking of the Seventh Rib, then we will answer not with panic but with craft, because craft is how the living keep their covenant with those who built our shelter first."
+        },
+        {
+            "speaker": "Avar Ir",
+            "lines": "If star-metal bearings quieted your gates when the Ugden Flood clawed at their hinges, then star-glass annealed to the right pitch can tame this tantrum of water and silence. My annealers married skyfire to sand until it sang truer than bone, and we did it while priests muttered about taboos that never saved a single lock from bursting. Bring me a measure of whatever stirs the sumped vault—silt, ink, whisper, it is all grist to a furnace—and I will teach it to keep shape inside a glass throat. Ritual has its place, but a city lives on tools that hold when hands shake; let us give the river a mouthpiece it respects. You fear that glass will shatter where bone bends, but I say bone forgets the heat that made it strong, and glass remembers every flame; let us test both and keep the one that does not lie. And when the council sings your praises, remember who offered fire when holy water ran cold."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "lines": "Maps tilt rooms and songs tilt hearts, and today we need both to lean in the same direction or the river will lean us all into the dark. I will take the Needle’s tone down into the wet and set it like a brace against the vault’s aching seam; if there is a wrong song in the sluice, we will hear its false note and answer it until it falls back into key. Prior, your cords and your chant will anchor us where courage frays; I have learned that courage is just another word for keeping pitch when the world tries to retune you. Kiln-Queen, if fire must join the choir, I will not throw it out, but it will sing in harmony or not at all, because the bones have a language and they do not forgive arrogance. And Sereth Vex—my oath stands: I will bring you numbers you can trust and words you can bind, even if those words insult us and even if those numbers tell us that comfort is a lie. If the ink writes ‘when the Seventh Rib breaks, the silence will finally speak,’ I will not flinch from carrying that sentence up the stairs, because truth is a splinter you can only pull by going deeper first."
+        },
+        {
+            "speaker": "Jull Nerr",
+            "lines": "I do not worship glass, and I do not kneel to chants, but I know the weight of water and the way it pretends to be patient until it isn’t. My lock-keepers have seen pressure maps lie polite right up to the breath before a gate screams; that breath will be yours to hold, scholar, so do not slip. We will give you a squad who knows how to listen with their hands, and if any of you start speaking in riddles I will have you hauled up by your ears and replaced with sandbags. Mind the dead-pulleys and the trap lines; smugglers build false paths under every honest stone, and the river loves nothing more than a shortcut to disaster. If you make it sing quiet, I will sign the ledger that says I was wrong to keep you on so short a cord; if you fail, you won’t need my signature to know it. And remember: no whistling near the gates, not even clever, tuneful whistling, because our taboos were written by people who buried friends, not by people who wanted to be difficult."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Set the Harmonic Protocol",
+            "text": "Iriel proposes a measured descent conducted like a symphony: the Riverwardens anchor the pressure valves, Edris Thale intones the low vigil, and Iriel threads the Cartographer’s Needle’s dusk-tone through the vault’s saturate hush. The plan insists on patience, on listening more than pushing, and on trusting that the city’s bones still remember their promise to cradle rather than crush. It requires the map to be pinned to the vault wall, a forbidden act in any other day, to let the vellum’s strange way of leaning draw the surge into a manageable curve. The choice also means refusing Avar Ir’s immediate furnace-solution, risking her temper in favor of a slower craft. It is a plan that bets the lives below on a belief that resonance persuades more surely than force, and that the silence beneath the Keep can be taught to sing its old lullaby again. Iriel explains this not as a gamble but as a covenant: they will not break what they can bend, and they will not bend what they can tune.",
+            "outcome": "The descent becomes a liturgy of tools and breaths: ash-cords nestle in niches like veins settling under skin, the Riverwardens’ hands press against stone until knuckles pale, and Iriel’s flute sends a fine silver thread of sound into the black. The vault’s door sweats letters that twitch and smear, but the protocol’s patience gives them spine, and the sentence gathers itself like a spine knitting under a surgeon’s touch: when the Seventh Rib breaks, the silence will finally speak. Pressure readings, once rabid, relent into numbers that look like numbers again instead of teeth; Jull Nerr grunts and does not smile, which for him is a hymn. Edris Thale’s chant finishes not in triumph but in relief, and his look at Iriel is a quiet blessing that means the Accords still have allies outside their cloister. Avar Ir’s pride takes a small burn, but she nods once when a Riverwarden shows her the steadied gauge because results temper resentment. Back upstairs, Sereth Vex receives not omens but instruments: stabilized readings, a vial of self-writing ink sealed under warden cord, and a witness sentence copied clean, and the rewards she promised come with a weight that feels like future work rather than a feast eaten and forgotten."
+        },
+        {
+            "id": "C2",
+            "title": "Forge a Glass Brace",
+            "text": "Iriel accepts Kiln-Queen Avar Ir’s offer and asks her annealers for a hastily tempered star-glass throat, sized to sleeve the vault’s most dangerous seam. The plan is audacious: insert the glass brace while the surge is still hunting for failure, then sing into it with the Needle’s tone so that glass and bone share a resonance rather than fight for it. Edris Thale agrees to the test if and only if the cords are laid first, so that ritual and furnace-tech walk shoulder to shoulder instead of elbowing for credit. The Riverwardens grumble but assign their steadiest crew to the brace, because no one lifts a glass throat into a living river’s windpipe with shaky hands. This choice risks shatter if the pitch slips or if the seam rejects the foreign throat; it also risks the Order’s ire if the brace is seen as an affront to the Remains. Iriel argues that respect is not an excuse for paralysis, and that respectful innovation can be a prayer said in a new language.",
+            "outcome": "The glass throat slides into place with a sound like winter lanterns touching, and the vault’s breath turns from a ragged cough into a held note as the brace takes some of the surge’s insult into itself. When Iriel sings the Needle’s tone through the green-lit chamber, the brace glows faintly with starfire’s memory, and the bone’s own harmonics answer not with anger but with a curious, cautious acceptance. Letters bead on the door like dew learning to write, and the message settles with an eerie calm: when the Seventh Rib breaks, the silence will finally speak. Pressure stabilizes faster than anyone dared hope, though hairline stress fronds appear in the brace like frostifer veins—useful warnings for future reinforcement rather than signs of imminent death. Edris Thale’s eyes are thoughtful instead of scornful; he concedes aloud that the living may honor the dead by improving the tools that guard them. Avar Ir earns a small, sharp smile from Sereth Vex and a larger allotment of patience at the next council session; Iriel carries the ink and the readings up the stairs knowing they have made two rivals listen to the same music without shouting, and the city pays them in experience, chits, and seals as promised."
+        },
+        {
+            "id": "C3",
+            "title": "Steal the Wyrm’s Breath",
+            "text": "Iriel suggests a perilous detour: open the triple-seal to the Wyrmwell’s upper catwalk and borrow a coil of the wyrm’s last breath, the bottled weather the legends say still sleeps at the nadir. The plan is to pour just a sigh of that impossible wind into the sumped vault, not to blast the surge away, but to give the room a second set of lungs while the tone and the cords do their work. Edris Thale hesitates, because the Wyrmwell is a sanctum under triple oath, but concedes that the Accords allow exceptional measures when the Remains are threatened by neglect or flood. The Riverwardens are furious on principle but follow orders, securing lines and swearing silent to avoid calling bad luck with a whistle, because even anger knows how to tie a knot correctly. This choice courts political backlash if discovered, and it courts mythic backlash if mishandled, but it also promises a margin of safety in a night with no margins left. Iriel promises to keep all steps within the letter of the seals, to call nothing that should not be called, and to return the breath with gratitude like a borrower who intends to be invited again someday.",
+            "outcome": "The Wyrmwell opens like a pupil widening, and the borrowed weather tastes like storms that learned to be patient; the coil of breath hums in its corded bottle as if remembering the language of ribs. In the vault, when the bottle’s stopper is lifted a finger-width, the room inhales for the first time in a century and the surge finds itself soothed not by force but by the reminder that lungs are for sharing. Iriel threads the Needle’s tone through that borrowed inhalation, and Edris Thale knots his cords so fast his fingers seem to have practiced in dreams; together they pin the pressure to a rhythm the city can keep. The door blooms script that tries to run, but the extra breath gives the letters time to settle into the same stark line: when the Seventh Rib breaks, the silence will finally speak. No alarms toll; the taboos are bent but not broken, and though Jull Nerr’s glare could slice glass, he signs the readings with a reluctant nod that means he will not write anyone up today. Back in the eye hall, Sereth Vex reads the sentence twice as if weighing it for lies, then accepts the vial, the numbers, and the fact that some rescues are not pretty; she pays in ink, seal, chits, and standing, and the Wyrmwell keeps its patience for one more day."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Experience",
+            "description": "550 experience for mastering high-pressure resonance under oath-bound conditions and returning with verifiable measurements."
+        },
+        {
+            "type": "Item",
+            "description": "Vial of Self-Writing Ink drawn from the sumped vault, sealed under ash-cord; when unstoppered near bone, it composes legible script of witnessed truths."
+        },
+        {
+            "type": "Item",
+            "description": "Council Seal of Passage, a bone-inlaid token from Skull Keep that grants expedited access through guarded halls and triple-checked sluice ladders."
+        },
+        {
+            "type": "Currency",
+            "description": "35 chits in matched scrimshawed slivers registered by the Loom of Names, sufficient to fund specialized annealing or cordwork."
+        },
+        {
+            "type": "Reputation",
+            "description": "Skull Keep +2: Lady Sereth Vex marks you as reliable in crisis and precise with truth."
+        },
+        {
+            "type": "Reputation",
+            "description": "Order of the Third Rib +1: Prior Edris Thale acknowledges your respect for the Accords and your refusal to let prophecy become a chain."
+        },
+        {
+            "type": "Reputation",
+            "description": "Riverwardens of the No Echo +1: Jull Nerr grudgingly credits your steady hands and sober readings during a surge."
+        }
+    ]
+}

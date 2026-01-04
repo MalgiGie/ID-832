@@ -1,0 +1,56 @@
+{
+    "name": "Ysil",
+    "surname": "Kett",
+    "race": "Fenborn",
+    "age": 50,
+    "appearance": "Peat-smudged face, a net of bog beads, reed tattoos that braid down the throat.",
+    "character": "Sardonic and proud; trusts mud and reeds more than stone and bells.",
+    "traits": [
+        "independent",
+        "fearless in fens",
+        "debt-keeping"
+    ],
+    "skills": [
+        "peatcutting",
+        "fen navigation",
+        "poison identification",
+        "witch-lore and moor-light calling"
+    ],
+    "talents": [
+        "hears lies ripple across still fen water",
+        "coaxes moor-lights to mark a safe path"
+    ],
+    "flaws": [
+        "contempt for city law",
+        "provoking temper",
+        "sootglass fume habit"
+    ],
+    "dreams": [
+        "rekindle a legal kiln in the Obsidian Fen",
+        "gaze into the witch-mirror without owing the Veil",
+        "teach cityfolk to walk bog without sinking"
+    ],
+    "secrets": [
+        "owes a night to the Veil after gazing at blackwater",
+        "harvested a mirrorglass lily that whispers her own lies",
+        "helped move a kiln core under the Wardens' noses"
+    ],
+    "relations": [
+        {
+            "npc_name": "Mavek Dross",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mira Cael",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Jalen Sarq",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Daru Fenlik",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

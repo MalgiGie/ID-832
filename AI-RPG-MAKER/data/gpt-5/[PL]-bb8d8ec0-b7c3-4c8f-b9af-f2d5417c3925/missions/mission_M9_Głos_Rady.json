@@ -1,0 +1,53 @@
+{
+    "id": "M9",
+    "title": "Głos Rady",
+    "quest_giver": "Orla Krawężna",
+    "description": "Dom Segmentów napełnia się głosami, które lubią brzmieć głośniej niż prawda. Orla Krawężna szykuje wystąpienie o odbudowę Niebomostu i moratorium na najgłębsze szyby. Elian ma przynieść dowody: czarne księgi z bagien, tatuażowy plan arkad, noty z komory pryzmatów. Pod podłogą sali obrad skrzynie akustyczne wzmacniają jednych i dławią innych – a to też można zmienić.",
+    "objectives": [
+        "Spotkaj się z Orlą Krawężną i przygotuj pakiet dowodów do obrad Rady.",
+        "Dostrój skrzynie akustyczne pod salą tak, by głosy oponentów nie tłumiły twoich sojuszników.",
+        "Skonfrontuj Vaska Dantera dowodami lichwy i manipulacji cłami na selenit.",
+        "Przekonaj niezdecydowanych segmentariuszy, że odbudowa Niebomostu jest konieczna i bezpłatna dla pieszych.",
+        "Zabezpiecz uchwałę – podpisy i pieczęcie – mimo prób interwencji Legii."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Orla Krawężna",
+            "line": "Most to nie jest tylko kamień i lina. To oddech miasta. Jeśli go zabierzesz, ludzie zaczną krzyczeć na klatkach schodowych. Daj mi głos, który przejdzie przez tę salę, jak przechodzi przez arkady twój strzał z linką. A jak panowie od miedziaków zaczną grać na skrzyniach, ty im zmień melodię."
+        },
+        {
+            "speaker": "Vasko Danter",
+            "line": "Nikt tu nie chce krzywdy robotnika. My tylko liczymy, co się opłaca i czego miasto potrzebuje. Mgła sama się nie opłaci, a dźwigi nie będą chodziły na pobożne życzenia. Pokaż mi choć jedną księgę, która mówi inaczej, a ja ci pokażę dziesięć, które mówią tak samo."
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Oto twoje księgi, Vasko. Zielone szkło z twojej ręki, które kapało z kotwicy powstańców; przysięgi złamane na Schodach; i mapa Niebomostu, której baliście się jak prawdy. Nie wzywam burzy. Proszę tylko, byście przestali kręcić miasto jak kołowrót dźwigu bez obciążnika."
+        },
+        {
+            "speaker": "Serad Głaz",
+            "line": "Jeśli Rada poprze most, moje oddziały będą musiały stanąć po właściwej stronie barierek. Ja to rozumiem. Czy rozumieją to ci, którzy karmią was obietnicami? Mnie nie obchodzą wasze pieczątki, tylko to, czy ludzie wrócą do domów żywi."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "decree",
+            "description": "Uchwała Rady: rozpoczęcie odbudowy Niebomostu z klauzulą darmowego przejścia dla pieszych."
+        },
+        {
+            "type": "reputation",
+            "description": "Poparcie części segmentariuszy i wahanie Konfederacji."
+        },
+        {
+            "type": "access",
+            "description": "Prawny dostęp do podziemi Domu Segmentów (na czas budowy)."
+        }
+    ]
+}

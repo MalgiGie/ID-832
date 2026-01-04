@@ -1,0 +1,53 @@
+{
+    "id": "M6",
+    "title": "Sumped Ink, Sudden Surge",
+    "quest_giver": "Sereth Vex",
+    "description": "Lady Sereth Vex convenes a closed session at Skull Keep’s eye hall. Under the lantern glow, the Council of Cartilages bickers: Kiln-Queen Avar Ir demands access to new star-glass veins; Master Brunna Coil wants to claim any pre-wyrm ossature exposed by the recent bone-squalls; Prior Edris Thale warns the taboos are creaking. Iriel lays the Resonance Map on the council table and the floor seems to tilt toward it. Before debate can knot, a runner gasps that the River of No Echo is surging in a way not measured on any pressure map. Sereth Vex orders Iriel, Edris, and a Riverwarden squad below to the sumped vault beneath the Keep, where relic-silt gathers and prophets brew self-writing ink. The vault’s door is already damp with letters that compose themselves into a warning as the river presses at the stone: when the Seventh Rib breaks, the silence will finally speak.",
+    "objectives": [
+        "Present the Resonance Map to the Council of Cartilages at Skull Keep.",
+        "Descend to the sumped vault with Edris Thale and stabilize the pressure surge using the Needle’s imprinted tone.",
+        "Collect a vial of relic-silt ink that writes itself and capture the warning it forms.",
+        "Report back to Sereth Vex with the stabilized readings and the ink-written message."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sereth Vex",
+            "line": "If the city is an instrument, then today it screams. I do not have the indulgence of perfect information, only the obligation to act well under imperfect light. Take your map and your flute and the Prior’s cords and go below my Keep where the old treaties drip into ink. Hold the pressure as if it were your own breath and bring me words I can command instead of omens I can only fear."
+        },
+        {
+            "speaker": "Edris Thale",
+            "line": "The Bone Bell has not tolled unbidden, so vows are not murdered—yet. But the river has ways to undo bindings we think are sure. We will set the low chant and you will set the tone, and between prayer and pitch we will ask the city to remember its oaths to live. If the ink writes a prophecy, we will treat it as a witness, not a master."
+        },
+        {
+            "speaker": "Avar Ir",
+            "line": "If star-metal can quiet bearings, it can quiet this, and if my annealers had a free hand we would have long since married glass to bone without so much ritual. Bring me a sample of what stirs the water and I’ll teach it to sing in a kiln."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "No kiln can harden what is not meant to keep shape. I’ll take the tone down and set it like a brace, and I’ll listen through the surge for whatever wrong song someone pushed into our gates. If the ink writes the truth, I’ll bring it back even if it insults us."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": {
+        "experience": 550,
+        "items": [
+            "Vial of Self-Writing Ink",
+            "Council Seal of Passage"
+        ],
+        "currency": {
+            "chits": 35
+        },
+        "reputation": {
+            "Skull Keep": 2,
+            "Order of the Third Rib": 1,
+            "Riverwardens of the No Echo": 1
+        }
+    }
+}

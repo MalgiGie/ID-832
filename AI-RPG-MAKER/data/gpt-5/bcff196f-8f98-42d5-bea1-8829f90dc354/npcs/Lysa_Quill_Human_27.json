@@ -1,0 +1,63 @@
+{
+    "name": "Lysa",
+    "surname": "Quill",
+    "race": "Human",
+    "age": 27,
+    "appearance": "Dark hood and soft-soled boots, ink under nails, rope-burnished palms, a compass rose tattooed at her wrist.",
+    "character": "Witty and secretive, seduces with curiosity and leaves with your measure.",
+    "traits": [
+        "nimble",
+        "ambitious",
+        "sly"
+    ],
+    "skills": [
+        "stealthy survey",
+        "cartography",
+        "code-ink crafting",
+        "persuasive whispers"
+    ],
+    "talents": [
+        "maps a street after a single pass",
+        "walks rope and gutter edge without slip"
+    ],
+    "flaws": [
+        "risk-lover",
+        "manipulative",
+        "disdainful of oath-bound authority"
+    ],
+    "dreams": [
+        "join the Compass and steer the city by measure",
+        "chart the mirror city that gleams under midsummer shadow"
+    ],
+    "secrets": [
+        "sold pages from a pilot’s route-book to fund a chart-lantern",
+        "acts as a quiet agent for Sera Verrin",
+        "stole a small lens from Glasslake ruins and keeps it hidden"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sera Verrin",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Olan Vetch",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ansel Thornward",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Finn Bracken",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Irevan Glassmere",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Selde Karst",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

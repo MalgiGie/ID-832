@@ -1,0 +1,66 @@
+{
+    "name": "Lerrin",
+    "surname": "Vale",
+    "race": "Human (Archivist)",
+    "age": 58,
+    "appearance": "Silver-streaked scholar with bone-inked fingers and crescent spectacles ground from moon-glass.",
+    "character": "Measured, meticulous, quietly dangerous with secrets.",
+    "traits": [
+        "meticulous",
+        "patient",
+        "principled",
+        "subtle"
+    ],
+    "skills": [
+        "oath recordkeeping",
+        "memory-shell tending",
+        "legal rhetoric",
+        "moonshard lamp maintenance"
+    ],
+    "talents": [
+        "near-photographic recall",
+        "calms rooms with voice cadence",
+        "detects inconsistencies in testimony"
+    ],
+    "flaws": [
+        "controlling",
+        "secretive by habit",
+        "slow to forgive breaches"
+    ],
+    "dreams": [
+        "keep the Archive apolitical",
+        "map Vaelor's bone-song safely",
+        "train a successor who won't sell secrets"
+    ],
+    "secrets": [
+        "knows the location of a sealed marrow aisle",
+        "keeps a codex hinting at Vaelor's heart path",
+        "once used a memory-graft to learn lockpicking"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sera Dake",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ysil Aer",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sorn Ilt",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thia Mol",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Roa Mestri",
+            "relation_type": "Friendship"
+        }
+    ]
+}

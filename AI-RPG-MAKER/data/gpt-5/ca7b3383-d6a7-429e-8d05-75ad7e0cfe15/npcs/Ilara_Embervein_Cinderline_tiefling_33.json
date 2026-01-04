@@ -1,0 +1,61 @@
+{
+    "name": "Ilara",
+    "surname": "Embervein",
+    "race": "Cinderline tiefling",
+    "age": 33,
+    "appearance": "Copper-threaded hair, soot-flecked skin, small curling horns, and ember-thread bracelets that hum in warm air.",
+    "character": "Serene, inquisitive, and quietly torn between compassion and strict duty.",
+    "traits": [
+        "contemplative",
+        "precise",
+        "empathetic",
+        "careful",
+        "idealistic"
+    ],
+    "skills": [
+        "heat-harmonic divination",
+        "ritual law recitation",
+        "fault-chart drafting",
+        "negotiation and counsel",
+        "trance guidance"
+    ],
+    "talents": [
+        "hums basins into harmonic clarity",
+        "dreams that sometimes ring true after Coilnight"
+    ],
+    "flaws": [
+        "second-guesses herself",
+        "fears public address",
+        "avoids open conflict"
+    ],
+    "dreams": [
+        "to shepherd the Iron Cradle without tearing the city apart",
+        "to reconcile Loom authority with street faith"
+    ],
+    "secrets": [
+        "smuggled Loom notes to Riven to prevent a hoist disaster",
+        "believes the Iron Cradle must move within the Chainheart soon"
+    ],
+    "relations": [
+        {
+            "npc_name": "Riven Hask",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Maela Scor",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sere Vell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Jask Lumenwright",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Nemra Coil",
+            "relation_type": "Different goals"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Selka",
+    "surname": "Vire",
+    "race": "Human",
+    "age": 61,
+    "appearance": "Silver-streaked braid pinned with bone-lace combs, salt-brick coat trimmed in kelp-silk, a signet of the Anchor-Compact on a moon-iron chain she keeps tucked inside her collar.",
+    "character": "Measured and maternal in tone, but relentless in pursuit of leverage; her patience is a net that tightens slowly.",
+    "traits": [
+        "authoritative",
+        "cautious",
+        "strategic",
+        "superstitious about oaths",
+        "unflappable"
+    ],
+    "skills": [
+        "contract negotiation",
+        "tariff manipulation",
+        "maritime logistics",
+        "patronage networks",
+        "rhetoric before tribunals"
+    ],
+    "talents": [
+        "reads micro-expressions",
+        "near-perfect recall for debts and favors",
+        "calms a room with a single phrase"
+    ],
+    "flaws": [
+        "risk-averse to paralysis",
+        "underestimates faith and tradition",
+        "keeps grudges for years"
+    ],
+    "dreams": [
+        "Unify Dorsalhaven’s factions under a lasting compact",
+        "End pirate tributes through a binding treaty",
+        "Secure a reliable inland lifeline via the Sky-Quay"
+    ],
+    "secrets": [
+        "Bribed a clerk to misfile liability ledgers from the Night of Unmoored Chains",
+        "Knows of the meteoric moon-iron link beneath the Hall and uses its ‘caution’ to sway hesitant speakers",
+        "Pays a private stipend to a Hookcutter intermediary to soften demands without the Compact’s knowledge"
+    ],
+    "relations": [
+        {
+            "npc_name": "Pera Ilem",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Osric Greyfen",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Garrik Shale",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Neth Cowl",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Yhosa Kel",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Vesk Marran",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Ketta Brineshaw",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Siala Nerm",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Irio Mossvane",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Talon Orase",
+            "relation_type": "Different goals"
+        }
+    ]
+}

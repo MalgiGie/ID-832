@@ -1,0 +1,45 @@
+{
+    "id": "M5",
+    "title": "Glass Pages, Hot Ink",
+    "quest_giver": "Maela Scor",
+    "description": "The Black Library of Scoria is a temple to the sharpness of memory. You step into the cooled lava bubble with gloved hands, past shelves cut from obsidian and scrolls inked in ash. Maela Scor watches you with eyes that reflect like mica as you request access to the sealed aisle on Orin gyre maintenance and river map-songs. She has heard the Loom whispers too, and she will tolerate your hum if it serves the city rather than your pride. Somewhere behind the stacks is a shelf that loosens to a particular tune, a hum that has rattled in your throat since a guilty night long ago. If you open it now, you must do so with witnesses and with care, because knowledge that hides under glass always cuts on retrieval. When the shelf glides, its perfume is old heat and copper.",
+    "objectives": [
+        "Meet Maela Scor at the Black Library and request supervised access to Orin gyre codices and river map-songs.",
+        "Recite the map-song hum that loosens the hidden aisle while acknowledging prior unsanctioned access.",
+        "Copy the Feathered Gyre service notes without taking originals and record the Singing Gate bell-intervals in ash-ink.",
+        "Pledge the map-song to the Library’s ledger and agree to report anomalies after any run.",
+        "Depart without spreading the hum beyond the reading room."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Maela Scor",
+            "text": "You have the look of someone who has been here after hours. Do not bother lying; the glass does not echo for thieves unless it wishes to. If you intend to open the shelf, do it in my sight and bind your voice to our ledger. Knowledge is not stolen here, it is traded, and the price is responsibility. You can carry that, can you not."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "It has rung in me like a toothache, the way the shelf wants the note. I touched it once because fear and need make small thieves of all of us. Today I touch it for the city and will let the ledger hold my hand while I do."
+        },
+        {
+            "speaker": "Maela Scor",
+            "text": "Good. Copy what you need and keep your ink narrow. The Orin notes are precise because the sky did not forgive their mistakes. The river will not forgive yours, either. Leave a breath of your voice with us and take a breath of our trust with you."
+        },
+        {
+            "speaker": "Reading Room Attendant",
+            "text": "Harmonics recorded, bell-intervals transcribed, codex returned. May the words you carry return as food and not as fire."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ]
+    },
+    "rewards": [
+        "Map-song notation for the Singing Gate bell-intervals",
+        "Gyre service addendum: Feathered Gyre counterbalance tolerances",
+        "Library reference token allowing expedited future access",
+        "Reputation: + with Scorians"
+    ]
+}

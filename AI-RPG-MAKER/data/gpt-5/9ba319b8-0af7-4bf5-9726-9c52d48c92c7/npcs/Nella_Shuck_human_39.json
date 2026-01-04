@@ -1,0 +1,72 @@
+{
+    "name": "Nella",
+    "surname": "Shuck",
+    "race": "human",
+    "age": 39,
+    "appearance": "Stocky, rope-scarred hands, a sun-faded red kerchief, and a whistle cord knotted with protest dates.",
+    "character": "Fierce advocate with a dock-mother’s heart; quick to laugh and quicker to chain a quay.",
+    "traits": [
+        "stubborn",
+        "empathetic",
+        "straight-talking",
+        "brave"
+    ],
+    "skills": [
+        "mass organizing",
+        "speechcraft",
+        "barricade tactics",
+        "whistle-code networks",
+        "petition strategy"
+    ],
+    "talents": [
+        "swaying crowds at low tide debates",
+        "reading a crew’s morale by footsteps",
+        "tying impossible mooring knots fast"
+    ],
+    "flaws": [
+        "impulsive in negotiations",
+        "romanticizes unity",
+        "underestimates legal traps",
+        "holds public grudges"
+    ],
+    "dreams": [
+        "win a permanent commons bench in the Glass Parliament",
+        "end mooring dues citywide",
+        "secure ring-rights for outer wards"
+    ],
+    "secrets": [
+        "accepted clandestine support from the Ratchet Syndicate for a dock blockade",
+        "harbors doubts about a riot she’s blamed for but suspects paid provocateurs",
+        "once hid Free Wharfers oaths from Mnemos tithe by swapping candles"
+    ],
+    "relations": [
+        {
+            "npc_name": "Yarik Nine-Fingers",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Brask Ilyne",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Maris Veyron",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Luma Keel",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orrix Vant",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Iria Venn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sel Corvane",
+            "relation_type": "Conflict"
+        }
+    ]
+}

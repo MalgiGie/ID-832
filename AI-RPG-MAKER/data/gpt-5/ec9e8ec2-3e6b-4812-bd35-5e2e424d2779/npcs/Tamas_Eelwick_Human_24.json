@@ -1,0 +1,57 @@
+{
+    "name": "Tamas",
+    "surname": "Eelwick",
+    "race": "Human",
+    "age": 24,
+    "appearance": "Slim marsh ferryman with eel-skin gloves, reed-brown hair, and a bone charm tied at the throat in the Knotted Wives’ style.",
+    "character": "Open-hearted and stubborn, holds marsh law in both hands and won’t let city boots trample it.",
+    "traits": [
+        "helpful",
+        "stubborn",
+        "community-first",
+        "curious"
+    ],
+    "skills": [
+        "pole-ferrying in surge",
+        "knot-law reading and tying",
+        "marsh foraging",
+        "bone walkway repair",
+        "song-leading for night crossings"
+    ],
+    "talents": [
+        "makes friends quickly across factions",
+        "hears safe channels in frog-choirs",
+        "can tie left-handed mirror-knots"
+    ],
+    "flaws": [
+        "naive about city politics",
+        "takes reckless shortcuts when proud",
+        "resents taxes he doesn’t understand"
+    ],
+    "dreams": [
+        "Win full recognition of knot-law in city courts",
+        "Build lantern stations along the Bone Bridge for safe mist travel"
+    ],
+    "secrets": [
+        "Left a lantern at the Bone Bridge and followed the lit path to undo a betrayal; he paid a price he won’t name",
+        "Ferries contraband medicine during green blister season"
+    ],
+    "relations": [
+        {
+            "npc_name": "Isha Brinehand",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Liora Fen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Keshan Drook",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Nerey Alis",
+            "relation_type": "Different goals"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "M12",
+    "title": "Plaza of New Names",
+    "quest_giver": {
+        "name": "Leth Morrow",
+        "affiliation": "Loom of Names"
+    },
+    "description": "Dawn lifts over Sternum Plaza like a careful hand, and the old bone tiles sweat frost-script in curling lines that no elder remembers seeing before. The ribs above answer the cold ink with a deep and steady hum, a cathedral’s breath drawn not to frighten but to steady, and every stall in the Bone-Market hushes as if a chorus were about to begin. The Accord of Living Flow is carried on a litter of woven cords, not because it is heavy but because its clauses bear the weight of canals, tithes, and trust, and the Loom’s singers ballad each knot so that memory cannot pretend it did not hear. The Council eyes glitter from the Skull Keep’s shadows, the Grey Lanterns shutter a single green beat from Phosphor House and go dark again, and the Bone Bell stands silent until a human hand chooses thanksgiving over omen. Leth Morrow steps forward with the tired grace of a man who has wrestled an entire city’s breath for most of his life and finally decides to set it down, inviting witness, solace, and a new risk that feels like unfreezing. Safra Ninebridges lifts salt to seal travelers’ tables, Brunna Coil and Avar Ir trade craft-oaths like careful blades laid flat between them, and Edris Thale bows over cords as if they were the wrists of the restless he soothed in older nights. Jull Nerr watches the lock of people as if it were a gate about to surge and does not flinch when it steadies, and Suri Yal’s smile pulls a private harbor from stormed waters as if to say we tuned this together and now the whole city can hear. Iriel Vask stands within the ring that belongs to anyone who dares to speak their own name without flinching, and the Green-Shutter Lantern at their belt holds a sleeping ember that once coordinated evacuations and now prepares to signal a peace. When the braiding begins, what changes is not the act of tying but the direction of the knot, for the city binds itself to its people and the people bind themselves to the river, and for a heartbeat the wyrm’s bones forget how to creak and remember how to sing.",
+    "objectives": [
+        "Deliver the Accord of Living Flow to the Loom of Names and oversee its public braiding.",
+        "Negotiate final clauses between the Calcifiers’ Guild, Ember Kiln Syndicate, Nadiri Caravan Court, and Riverwardens.",
+        "Publicly acknowledge your own name-cord lien and resolve it under the new Accord terms.",
+        "Sound the Fourth-Rib Bone Flute at dusk to confirm the city’s harmonics have settled."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Leth Morrow",
+            "lines": "I have spent a lifetime believing that control is kindness in a mask, that the city is safest when every name is tied and tagged, and that mercy must be administered with a ledger. Today we ask a greater name to bind us back, and I confess what I hide even from mirrors: I am afraid of hands I cannot guide and voices I cannot quantify. But fear is not a contract and it is not a compass, and I would rather be afraid in the light than powerful in the dark where only ink keeps me company. Iriel Vask, you have walked between sluice and scripture and caught both lying when they were tired, so speak your own debt and let us end it as citizens who choose, not as supplicants who are chosen. If the ribs approve, they will hum, and if they do not, I will bear the silence with you and we will try again until the city learns to trust the living more than our cords."
+        },
+        {
+            "speaker": "Brunna Coil",
+            "lines": "Hear me, hawkers and hands, because bones remember and so do I when I test a joint and hear it whisper where it wants to rest. The bearing-bones will be repaired with honor under witness and measure, and not a fragment will be taken without a license that has a name brave enough to stand beside it. If any hand breaks a bearing for profit or for piety, I will break that hand’s tools in the plaza at noon and set the pieces as a lesson that even shards have standards. The Accord will make artisans of us again and forbid the scavenger’s itch when the city groans, and any master who teaches otherwise will find themselves apprentices to their own shame. Let the Calcifiers sign, not as victors but as stewards, and I will lay my guild’s weight on any wheel that turns toward care instead of greed."
+        },
+        {
+            "speaker": "Avar Ir",
+            "lines": "My furnaces do not drink vows, they drink ash and air, and yet I hear the truth in this new song and I will not drown it in smoke. The Ember Kiln Syndicate pledges to weigh not only sand and shard but consequence, for a city that breathes is a better customer than a market built on embers. Give us allotments that do not cannibalize relics, and we will anneal glass that sings the ribs’ own key and shatters lies when tongues go crooked. We will share heat in famine and throttle back when the river is thirsty, and in return we ask only that inspections be honest and tolls be set where a worker can still buy bread after the shift. If any of mine break the bearing-bones to feed a furnace, I will quench their hammers myself and teach them that craft without conscience is only arson waiting for a spark."
+        },
+        {
+            "speaker": "Safra Ninebridges",
+            "lines": "We have carried cities across water on our backs and called it culture, and we have crossed your gates when they were closed to remind you that roads exist even when ink denies them. Let the Salt-Tithe be measured at a table with ten chairs and ten bowls, not behind a locked gate with one stool where loneliness writes the receipts. If we feed you in famine, you will not starve us in plenty, and we will call that an old fairness with a new name tied in green thread so even the Grey Lanterns smile at the color. The bridges will be long, the feasts longer, and the songs longer still, because people who sing together do not easily draw knives in the same breath. I sign this ledger with a proud hand and an empty other palm, because that is how trust stands up in a wind."
+        },
+        {
+            "speaker": "Edris Thale",
+            "lines": "The Bone Bell was gifted to stop a plague of fears as much as a plague of fevers, and I have tolled it for omens when the city needed warning and for silence when the dead needed rest. Today I take its rope not for prophecy but for gratitude, and I remember every name sung on the Long Shelf and every cord tied with ash-stained fingers that trembled and steadied. The Accords of Quiet Dust taught us that a city cannot live by taking from the gone, and this Accord teaches that a city cannot live by taking from the living until they feel like ghosts themselves. Let the wardens stand witness, and let the reliquaries hold their bones a little easier because the living have found a way to hum without stealing a single bone’s voice. When I release this rope, may the sound be not an omen but an answer: we heard you, and we chose to change."
+        },
+        {
+            "speaker": "Jull Nerr",
+            "lines": "Gates like mine do not care for treaties, they care for pressure, they care for timbers swollen right, and they care for the sound that comes just before a break. I have watched scholars make theories that leak like rotten boats, and I have watched one scholar crawl under a crown wheel with star-glass and come out with a tune that saved a thousand lives, and I remember which is which. The Riverwardens will sign if flows are sovereign and if smugglers find fewer shadows than lamplight, and we will pay the price of pride in public if the gates ever hum wrong and we do not listen. The Salt-Tithe, the ash allotments, the name-cords, all of it is only worth our ink if, when the river surges, someone who has never lifted a wrench can still cross a bridge and keep their feet dry. I nod because a nod is all prudence allows a man who must hold a river by the lip and call that a job."
+        },
+        {
+            "speaker": "Suri Yal",
+            "lines": "I have counted more nights by sluice rattle than by stars, and when the surge came silent I thought my heart would be counted next among the fittings. We tuned the bearings with glass that remembered falling from the sky, and the city did not drown because the ribs accepted a new harmony when an old one cracked. I see the Accord and I hear it, and if it sings this steady at dusk I will dare to sleep without one ear on the gate for the first time in three years. Let the inspectors come with fair weights, let the Riverwardens keep the whistle off their lips near lock gates, and let the Nadiri carry news as quick as water so we do not learn too late. Iriel, when you lift that flute, remember the night the cartilage gate sang back, and play to the part of the city that listened and lived."
+        },
+        {
+            "speaker": "Tamsin Veil",
+            "lines": "Green is the color we keep for truce and truths that wish to live to see dawn, and tonight we shutter once to say the rumor may be true, and then we go dark because some truths walk better without us dragging them like banners. We will carry the Accord on tongues that know how to cup a flame, not blow it out, and we will teach the shy clauses how to travel without being hunted. If the Loom wishes our logs, they will find only the shadows of our lamplight, because this pact belongs to the plaza and the river, not to a single tower with neat cords. Iriel Vask, if you choose to lay your name-cord open before the frosted tiles, know that our masks will face the crowd, not your shame, because you bought that cord with years of service the city already spent gladly. When the ribs hum right, even spies prefer to be citizens, and that is the sort of quiet rumor I have waited my whole youth to hear."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "lines": "I sold a sliver of my name when I was young and hungry for pages, and I have been careful and clumsy with it ever since, learning to speak around the missing thread as if that were a talent. Under this Accord, I buy it back with service counted in chords and oaths held true, and I give it back to the city not as collateral but as promise, binding my future to the sound of these ribs when they are content. I say this aloud because secret debts rot faster than riverwood, and I am tired of the smell, and I do not believe a city can change if its people keep pretending their scars are decorations. If I ever forget the sound the ribs make when they hum and not creak, let this flute shame me and remind me, and let Suri’s callused hands and Lysa’s careful ink pull me back toward the note. When dusk comes, I will lift the Fourth-Rib bone flute and test the harmony we claimed, and I pray that the city answers in the key we have earned rather than the key we merely hoped for."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Bind the Salt-Tithe to Flow",
+            "text": "Stand with Safra Ninebridges at the table of ten bowls and draft a clause that sets the Salt-Tithe by measured flow rather than by fixed fear. Speak of seasons when the River of No Echo runs lean and of years when it overbrims, and insist that tolls breathe with the gates so no one chokes on a number. Remind Jull Nerr that a flexible tithe can reward good stewardship by lowering costs when the Riverwardens keep surges tamed, and penalize neglect by tightening when warnings are ignored. Promise that Nadiri songs will carry notices upriver and down faster than chits can be stamped, making sudden closures rarer and panic scarcer. Conclude by laying a grain of salt on the frost-script, letting it melt into a legible sparkle that the plaza can read without a crier.",
+            "outcome": "The Nadiri Caravan Court cheers a clause that finally measures their lives by water rather than whim, and Safra stays long enough to teach the plaza a bridge-feast chorus. The Riverwardens grumble but sign, soothed by language that honors flow sovereignty and rewards pressure discipline with lower tithes in calm months. Merchants at the Bone-Market begin to price goods with a new column for tide-index, and panic-buying eases when the Grey Lanterns leak the schedule in a careful drizzle. The Loom of Names records a precedent that ties economic cords to physical measures, and Archivist Leth Morrow allows himself a small smile at the thought of ledgers that listen. In the weeks to follow, caravans arrive on calmer timetables, street rumors cool, and even the ribs take to humming a steadier bar on market eves."
+        },
+        {
+            "id": "C2",
+            "title": "Sanctify the Bearings, Share the Shards",
+            "text": "Stand between Brunna Coil and Avar Ir and propose a twin clause: bearing-bones are sacrosanct and may not be harvested, while star-glass and kiln-shards from Skyfall and the Silica Reef will be shared by allotment to cover the industrial hunger. Speak of how a city that carves its own skeleton for fuel will soon sit down and never stand again, and how craft is strongest when it refuses to drink the body that shelters it. Offer public inspections under mixed guild oversight so that the Calcifiers’ Guild cannot be accused of hoarding, and the Ember Kiln Syndicate cannot be accused of raiding reliquaries. Promise research grants from the Pale Collegium to refine ash-ceramics that require less sacred material, and let Avar Ir’s pride find a new frontier that tastes like innovation rather than theft. Seal it by tapping a resonant star-glass fork against a plaza keystone, letting the note ring until silence nods its head.",
+            "outcome": "The Calcifiers’ Guild signs with firm ink and firmer posture, and Brunna’s oath about breaking the tools of bone-thieves becomes a story children repeat with wide eyes. The Ember Kiln Syndicate grows cautious but intrigued, rallying behind Avar Ir’s promise to outdo relic ash with better recipes and brighter anneals that sing true. The Order of the Third Rib relaxes invisible shoulders as reliquaries sleep easier, and Edris Thale offers Kiln-Queen artisans a blessing that is half prayer and half challenge. Mixed inspections begin, and the first surprise is not fraud but inefficiency, which craftsmen from rival banners fix together in a day because pride prefers to be praised as skill rather than tolerated as stubbornness. Within a fortnight, furnace yields even out, ash-smoke thins on the Second Rib, and the plaza gossips less about theft and more about a new glass that chimes in the ribs’ key."
+        },
+        {
+            "id": "C3",
+            "title": "Green Shutters, Open Ledger",
+            "text": "Ask Tamsin Veil to bring the green lamp to the plaza ring and tell the crowd that you will take your name-cord back where all can watch. Explain that secrets make debts breed in the dark like blind eels, and that a city asking for trust must watch someone risk the very thing it haggles with. Admit the fear that your voice will rasp when you speak the lien aloud, the way it does near flowing water, and accept the rasp as proof that the river has always been in you. Invite Leth Morrow to recite the old terms and then the new ones, not to humiliate the Loom but to show how power learns humility when a better chord is offered. End by tying your returned sliver into a public braid on the Accord itself, so the place where you were thin becomes a strength others can feel under their fingers.",
+            "outcome": "The Grey Lanterns shutter a slow green applause and then kill their light, letting the plaza hold the moment without guidance or gossip, which is its own kind of respect. The Loom of Names accepts the new clause that converts exploit into service, and Leth Morrow’s voice steadies as he reads the words that set you free by binding you to the Accord. Citizens watch a ledger turn back into a promise, and the frost-script catches your name like breath on glass, making it visible without making it fragile. Riverwardens who once doubted scholars start shifting their weight toward your side when canal talk rises, because a person who risks public shame for a better rule probably does not lie about pressure. In the days after, two apprentices at the Scribehouse copy your petition as a template, and the ribs hum with a tone that sounds suspiciously like relief."
+        },
+        {
+            "id": "C4",
+            "title": "Dusk Sounding of the Fourth-Rib",
+            "text": "Climb the speaker’s ring at dusk carrying the Fourth-Rib bone flute, and wait until the plaza’s lamps are lit but not bright enough to drown the old bone’s sheen. Remember the cartilage gate in the Wyrmwell and how it sang back, then choose not to force that memory on the city but to invite a kinder echo. Wet the flute’s lip with canal water drawn in silence and marked by Suri Yal’s nod, and raise the instrument where all can witness your breath leave you and return as pattern. Play the note the Collegium taught you and then the note the city taught you, and listen not only to the harmony but to the places where it almost tears, because that is where work waits. Hold the last tone until your chest aches and then let it fall so the ribs can answer without being chased, giving the city the final word it has always deserved.",
+            "outcome": "The first response is a tremor felt more in the teeth than in the ears, as if the plaza had become a mouth where a prayer turned into a vowel. Then the ribs take the note and make it theirs, humming through arches and alleys until even the Seventh Rib’s rope bridges are quiet for once, listening like students at a first lesson. Gatewrights down at the First Rib hear bearings settle like old arguments finally decided, and Jull Nerr allows himself an exhale that fogs nothing except his own visor. In the Cathedral, the Bone Bell stays still but quivers enough that Edris Thale smiles, because sometimes a bell is happier being a throat than a shout. Phosphor House does not signal, because the rumor needs no help; the rumor is already living in the bones, and the city goes to sleep that night on a lullaby it wrote with you."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        {
+            "type": "experience",
+            "description": "1000 experience for delivering the Accord, brokering peace among guilds and wardens, resolving a public name-cord lien, and successfully sounding the city’s dusk harmony."
+        },
+        {
+            "type": "item",
+            "description": "Fourth-Rib Pitch Ring (Consecrated), its tone now aligned with the city’s settled hum, and a Cityspeakers’ Token granting speaking rights on market eves at Sternum Plaza."
+        },
+        {
+            "type": "currency",
+            "description": "75 chits in scrimshawed slivers, stamped to the new braid and honored at all Seven Ribs."
+        },
+        {
+            "type": "reputation",
+            "description": "Reputation shifts: Pale Collegium +2, Skull Keep +2, Grey Lanterns +2, Calcifiers' Guild +1, Riverwardens of the No Echo +2, Nadiri Caravan Court +2."
+        }
+    ]
+}

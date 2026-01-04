@@ -1,0 +1,72 @@
+{
+    "name": "Sirae",
+    "surname": "Glowhand",
+    "race": "Kelp-kin",
+    "age": 24,
+    "appearance": "Young lightwright with luminous freckles and gently glowing fingertips; hair braided with reed-fiber; apron speckled with dried algae.",
+    "character": "Optimistic artisan who believes better light makes better people; outspoken in council alleys despite youth.",
+    "traits": [
+        "meticulous",
+        "idealistic",
+        "outspoken",
+        "kind"
+    ],
+    "skills": [
+        "lumenkelp braiding",
+        "light-ward layout",
+        "brine glyph painting for drains",
+        "first aid",
+        "lantern maintenance"
+    ],
+    "talents": [
+        "emit a faint controlled glow from fingertips",
+        "soothe panicked crowds with light patterns",
+        "read lumen strain health at a glance"
+    ],
+    "flaws": [
+        "naive about politics",
+        "overpromises deadlines",
+        "holds grudges against smugglers",
+        "takes risks to help friends"
+    ],
+    "dreams": [
+        "Light Moonlock Lighthouse solo at true low moon",
+        "Invent portable glow-sheets for Brinewarden rescues",
+        "Win recognition of Weavers as sacred workers"
+    ],
+    "secrets": [
+        "Altered a lighthouse pulse once to guide a friend’s skiff",
+        "Hides a stolen strand of forbidden kelp that cures night-blindness",
+        "Decoded part of the shadow pulse but told only Asha"
+    ],
+    "relations": [
+        {
+            "npc_name": "Asha Heliope",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Tern Quietwake",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Verrin Nasse",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Rusk Bonebinder",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Tullis Nacrethane",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Ilya Salt-Kite",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Mara Vell-Seren",
+            "relation_type": "Different goals"
+        }
+    ]
+}

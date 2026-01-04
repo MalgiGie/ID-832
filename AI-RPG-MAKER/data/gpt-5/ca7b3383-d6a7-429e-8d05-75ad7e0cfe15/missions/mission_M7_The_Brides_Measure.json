@@ -1,0 +1,45 @@
+{
+    "id": "M7",
+    "title": "The Bride’s Measure",
+    "quest_giver": "Yevra Ashleaf",
+    "description": "Whisperfen does not decide between steam and frost, so it keeps both. Reed-specters comb the fog and return with bits of voices they sell to hungry pools. Yevra Ashleaf meets you under a bell stake, eyes ringed with smokeherb silver. The Bride of Mist waits where three plumes cross, and she demands tender coin: the memory of something that makes you yourself. She will trade you a path by sound to anywhere you know, but the path collapses if you speak a true name. You have already paid her once in secret. Now, you must bring her a memory you can spare and ask for a route that turns the city inside out, so you can enter the Wound without drawing the Emberwatch’s gaze. The bog gurgles as if laughing at your balance.",
+    "objectives": [
+        "Meet Yevra Ashleaf at the Whisperfen bell stakes and receive ritual guidance for avoiding true names.",
+        "Gather a sprig of smokeherb with silver veins as an offering and place it at the crossing of three plumes.",
+        "Trade a lesser memory to the Bride of Mist in exchange for a breath-path to Aelmyr’s Wound that masks your heat-signature.",
+        "Use the Vent-Pearl Pair to store the path’s breath and avoid voice-thief specters.",
+        "Return with a sealed whisper describing the path without speaking it."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Yevra Ashleaf",
+            "text": "The Bride does not take what you think she will. She takes what the fog wants to keep warm. Choose a memory that will not collapse you, and remember that saying your own true name is a kind of surrender here. Walk with your breath as your only bell."
+        },
+        {
+            "speaker": "Bride of Mist",
+            "text": "Come closer, warm one. I can smell the fire under your tongue. You have given me a face before, and I have kept it safe where the air does not forget. Give me a different sweetness. Give me the taste of a first success, perhaps, or the sound of a promise that you almost broke and did not. In return, I will stitch you a quiet between law and legend."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "Take the sound of a day when a gyre balanced for the first time under my hand and I was alone and triumphant. I have others to borrow triumph from now. I need a path that holds its breath when watchmen pass."
+        },
+        {
+            "speaker": "Yevra Ashleaf",
+            "text": "Do not uncork the whisper until you are ready to walk it. And when you do, breathe with it, not through it. Paths like this go sour when rushed."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        "Sealed breath-path whisper to Aelmyr’s Wound",
+        "Vent-Pearl Pair attuned to path-breath (stores one song-breath per pearl)",
+        "Reputation: + with Oracle Loom seers",
+        "A lesser memory surrendered to the Bride of Mist"
+    ]
+}

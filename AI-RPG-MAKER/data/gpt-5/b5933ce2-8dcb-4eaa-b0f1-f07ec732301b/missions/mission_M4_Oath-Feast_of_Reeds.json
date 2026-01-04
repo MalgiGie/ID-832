@@ -1,0 +1,48 @@
+{
+    "id": "M4",
+    "title": "Oath-Feast of Reeds",
+    "quest_giver": "Ollo Fen",
+    "description": "Amber reeds bow and whisper as the Gilded Marsh breathes with the tide. Mist-Warden Ollo Fen calls an oath-feast on a raft wide as a plaza: reed-cutters, shrine-keepers, and a trio of Temple singers try not to glare while eel-oil lamps spit. A census-boat has vanished near humming stands, and the Reedbound blockade will not lift until the shrine waters are recognized and the taxes eased. At dusk, a low hum rises through the sedge, and the reeds vibrate with a voice that feels like copper on the tongue. The Reed-Queen’s presence curls along the channels, and she will guide only if paid with copper and milk.",
+    "objectives": [
+        "Mediate a ceasefire between reed-cutters and shrine-keepers by brokering an oath-feast agreement witnessed by Temple singers.",
+        "Track and recover the missing census-boat near the humming reeds without provoking marsh spirits.",
+        "Offer copper and milk at the humming stand to secure the Reed-Queen’s guidance.",
+        "Collect any additional pitted glassy stones found in the reeds and note their placement and song."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ollo Fen",
+            "lines": "You were born to these waters, Aren, and the reeds still remember your weight. The city taxes our gardens like we don’t feed them in lean years, and the Weir starves our channels when it suits their charts. I don’t want war; I want the Temple to mark our shrines in ink that doesn’t wash out in rain. Help me bring the census-boat home, and we’ll show them how the marsh keeps its own ledgers."
+        },
+        {
+            "speaker": "Temple Singer",
+            "lines": "We come with bells not blades, but the river has moods, and some of our brethren mistake engineering for piety. The hum here is not blasphemy; it is heritage. If we can agree on where the shrine begins, we can fight for its recognition in the Conclave. Do not spill blood in humming water; it stains the note for a generation."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "Copper and milk, then silence while the reeds speak. We’ll pull the census-boat slow and light and pretend the marsh is listening to our apologies. Ollo, I’ll carry your words upriver, but we’ll need more than song to carve them into ledgers. Bring witnesses, and let the river see us keep the peace while it hums."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": {
+        "currency": 10,
+        "items": [
+            "Reedbound Pilot’s Cord (proof of safe-passage by marsh clans)",
+            "Bundle of Marsh Herbs (resists waterborne fevers)"
+        ],
+        "reputation": {
+            "The Reedbound": 3,
+            "Temple of the Nine Tides": 2
+        },
+        "access": [
+            "Guided channels through the Gilded Marsh"
+        ]
+    }
+}

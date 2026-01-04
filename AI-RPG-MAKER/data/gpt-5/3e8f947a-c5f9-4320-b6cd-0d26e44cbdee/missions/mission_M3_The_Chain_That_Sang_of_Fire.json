@@ -1,0 +1,79 @@
+{
+    "id": "M3",
+    "title": "The Chain That Sang of Fire",
+    "quest_giver": "Zexi Orr",
+    "description": "High along the spine, the sky smells of metal and dust, and the Spinespan Aerie creaks like an old ship at anchor. Zexi Orr’s rook returns with a mirrored eye that shows a city on fire not yet burning; she sends word in tight kite-codes begging Rogan to come fast and quiet. At the moorings, a great chain hums a counter-note to the Gate’s second tone, a tension like a throat trying not to cry. Pilots mutter about sabotage, and Watch lancers pace with hands on hook-lances, unsure whether to blame the Rookery or the Syndicate first. The Aerie is the city’s lifeline, and a snapped chain can take a skyship and a row of ribs with it. Rogan’s shoulder aches where old fulgurite burns spiderweb his skin, and he remembers pulling Zexi back from a chain that wanted to sing her name into thunder. This time, the chain is not singing a warning. It is singing to someone.",
+    "objectives": [
+        "Meet Zexi Orr at Spinespan Aerie and review intercepted signal kites.",
+        "Inspect the weakened mooring chain and identify the source of the counter-hum.",
+        "Confront Murne Glass-Eater and Syndicate riggers attempting a clandestine resonance test.",
+        "Decide whether to alert Legate Tharn Corvell immediately or secure proof before calling the Watch.",
+        "Stabilize the mooring chain using star-metal filings and wind-kelp rope knots."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Zexi Orr",
+                "line": "Your feather’s still tied to my kit, Rogan, and my life is still tied to that day you pulled me out of a chain’s mouth. The rook I sent came back with an eye that isn’t mine, reflecting a fire that hasn’t happened. If we don’t fix that chain and the song that works on it, the Aerie will be the first match."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "Chains should sing weight, not secrets. Show me the kite codes and the places where the sound feels wrong in the bone. If the Syndicate is tuning metal to match a bone note, they’re building a bridge between disaster and desire."
+            },
+            {
+                "speaker": "Edda Tarn",
+                "line": "The links are good iron, but someone dusted them with powdered cullet and rubbed a resin into the pivots. It’s a musician’s trick turned into an engineer’s sin. We can bind it quiet, if we’re quick and the wind stays kind."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Murne Glass-Eater",
+                "line": "You bring a sword made of storm and pretend you don’t eat what the storm leaves behind, Kettlebone. We’re only proving what the city needs: a gate that obeys men with ledgers, not bones with secrets. Step away and you’ll get paid in coin instead of funerals."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "You talk like a kiln when the damper sticks—too much heat and not enough sense. Unhook your resin from our lifelines, Murne, or the first chain that snaps will be the one wrapped around your purse hand."
+            },
+            {
+                "speaker": "Legate Tharn Corvell",
+                "line": "Stand down and stand apart. Pilot, Bonewright, Syndicate cur, and you, my stubborn stray. This Aerie stands or falls together, and I will not have it fall because men wanted to prove whose song was loudest. Secure that chain before the gust turns on us."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Zexi Orr",
+                "line": "The chain rests. It still hums like an old hurt in rain, but it won’t sing a ship to death today. I caught three signals that don’t match our book, and they all spell the same intent: a storm walk tuned to a name."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "Storms answer names in the Saltglass if the legends aren’t just drink-talk. If someone taught the Gate to speak ours, then the city’s a bell waiting for a finger. I’ll need a guide who knows where fulgurite stands taller than men."
+            },
+            {
+                "speaker": "Legate Tharn Corvell",
+                "line": "Take a slow lancer and don’t make me regret it. Bring back proof that can hang a man in the Hall of Mirrors, not just rumors that sing pretty and vanish with the wind."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Rookery signal-kite codebook (improves signal literacy)."
+        },
+        {
+            "type": "reputation",
+            "description": "Favor with the Rookery of Aerie Pilots (moderate)."
+        },
+        {
+            "type": "access",
+            "description": "Authorization to requisition one Aerie lancer for field escort (limited)."
+        }
+    ]
+}

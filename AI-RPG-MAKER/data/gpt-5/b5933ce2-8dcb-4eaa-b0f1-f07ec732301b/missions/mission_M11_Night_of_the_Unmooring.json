@@ -1,0 +1,50 @@
+{
+    "id": "M11",
+    "title": "Night of the Unmooring",
+    "quest_giver": "Sava Deren",
+    "description": "Lanterns drift like a slow constellation as wick-boats weave a glowing script upon the river. The Lantern Unmooring stills knives for a night and sets debts adrift on tiny seas of flame. But tonight, rumors say the Night Ledger plans a spectacular ‘erasure’ to end a feud by panic, while Indigosatchel intends to prove private guardianship by saving the crowd from a crisis they will quietly start. Sava Deren asks Aren to keep the peace without breaking the festival’s grace, to use the Menders’ bell-tree code and the dwarven resonance to soothe a crowd that could become a stampede. The city must sing before it bleeds.",
+    "objectives": [
+        "Coordinate discreetly with Brass Menders bell-ringers to broadcast calming codes across the banks.",
+        "Use the resonance ring to harmonize the crowd’s chant with the river’s unknown note without causing a surge.",
+        "Identify and thwart a staged panic by Indigosatchel agents and prevent a Night Ledger erasure from claiming an innocent.",
+        "Keep the wick-boats safe from sabotage while preserving the sanctity of the festival."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sava Deren",
+            "lines": "This night belongs to the river and to those who remember their dead by light, not to ledger-men staging heroics for tomorrow’s broadsheets. I can keep poles between boats and blades between ribs if I have to, but I’d rather row my people home with their lanterns unspilled. You do the soft work and I’ll do the hard work, and maybe we’ll meet in the middle with the city still gentle."
+        },
+        {
+            "speaker": "Calra Orun",
+            "lines": "Spectacle is an investment that pays back in trust. If the crowd feels safe, they will not spit on contracts they cannot begin to understand. I don’t intend harm, Aren; I intend proof. Remove the agitators, and you remove my necessity. I would prefer we both leave tonight with clean hands and full coffers."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "Trust isn’t a coin you mint; it’s a ferry you pole in weather you didn’t choose. Keep your agents leashed, Calra, or we’ll all be fishing for names in a panicked river. Sava, I’ll ring the bells soft and set the chant so the water has something to answer that isn’t fear. Let the city sing itself calm."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": {
+        "currency": 22,
+        "items": [
+            "Ferrymen Tide-Marker (priority docking in emergencies)",
+            "Bell-Tree Sequence Chart (citywide signaling phrases)"
+        ],
+        "reputation": {
+            "Guild of Silver Ferrymen": 2,
+            "Indigosatchel Consortium": -1,
+            "Night Ledger": -1,
+            "Brass Menders": 1
+        },
+        "access": [
+            "Temporary command over festival watch crews during crises"
+        ]
+    }
+}

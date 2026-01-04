@@ -1,0 +1,49 @@
+{
+    "id": "M11",
+    "title": "The Weir’s Heart",
+    "quest_giver": "Rull Fen",
+    "description": "Upstream, the Shattered Weir of Sel rose like the jawbones of a river-titan, iron rings big as wagon-wheels biting slick stone. Between those cyclopean teeth, eddies snarled and undertows inverted boats with spite, and chain-ghouls hunted by vibration like hungry harps. Rull Fen and Orren Halv agreed for once: a salvage run must bring back a slate etched with a hinge-song said to wake sleeping gates anywhere on the Sel, and perhaps an amnesty writ lost in a pearl-crusted reliquary. The Weir smelled of stormlight and old breath, and Neris’s family name caught on the wind like a piece of old rope snagged on a ring. If a heart still beat here, it was a lesson in rhythm and remorse.",
+    "objectives": [
+        "Map a safe salvage route through a newly opened weir-throat using knot-hook arrows and buoy lines.",
+        "Distract or repel chain-ghouls using rhythmic vibrations and rope-song learned from Bastion crews.",
+        "Retrieve a slate etched with a hinge-song waking chord from a drowned vault.",
+        "Search for and recover a Parliament amnesty writ sealed in a pearl-crusted reliquary on the lowest floor.",
+        "Survive a sudden drawdown by anchoring to pre-fall iron rings and timing release with the river’s pulse."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Rull Fen",
+            "line": "Your father taught you to hear a current turning in its sleep, Neris. That was before papers made his hands dirtier than silt. Help me pull a clean song out of this toothy throat and I will stamp a charter that lets you pilot with your name unbent. The river remembers fairness when you shout it in the right key."
+        },
+        {
+            "speaker": "Orren Halv",
+            "line": "Do not romanticize this ruin; it chewed its builders and will chew you if you speak to it in poetry. We need that waking chord, not for power but for safety that does not rely on fear. Bring me the slate, and I will write the co-authority you want into a schedule that reads like math, not like mercy. Bring me excuses, and I will bring you edicts."
+        },
+        {
+            "speaker": "Chain-Ghoul Echo",
+            "line": "Vibrate with us and we will dance you down. Still yourself and we will forget you for an hour. Sing and we will eat the music until there is no rope for you to hold. Your heart is a drum we like."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "I have loosed lines across hungrier mouths than yours. I will set buoys where your teeth cannot find them and take back a chord that makes hinges listen. If the river has a heart, I will keep pace with it until it lets me pass."
+        },
+        {
+            "speaker": "Jana Fell",
+            "line": "If you find the amnesty writ, do not read it under this sky. Bring it to the city where law is watched and weighed, not to a ruin that makes liars of promises. Some papers break their seal when they sniff daylight. Keep it dark and keep it dry."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        "Lawful pilotage charter for Neris Quay signed by River-Marrows and countersigned by Tidewrights",
+        "Pre-fall iron link worked into a talisman against undertow",
+        "Amnesty writ pertaining to past dock strike actions to be invoked or sealed at your discretion",
+        "Reputation: Joint favor from Syndicate and Marrows (rare concurrence)"
+    ]
+}

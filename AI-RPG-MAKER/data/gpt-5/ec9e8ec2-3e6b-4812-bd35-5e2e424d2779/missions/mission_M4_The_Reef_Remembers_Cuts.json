@@ -1,0 +1,38 @@
+{
+    "id": "M4",
+    "title": "The Reef Remembers Cuts",
+    "quest_giver": "Thalen Marr",
+    "description": "The Glassreef Shoals breathe at night like a sleeping animal, and the Reefkeepers count that breath with thumb and blade. Thalen Marr, pilot and oath-brother to the Reef-Mistress, brings word that certain beds have started to hum with a pitch that stings the teeth, a pitch not native to the reef. Poachers would not risk such a song—it alerts every blade for miles. This has the Conclave’s fingerprints, Thalen says, and if reef-song is being tuned by lenses for civic ends, the Reef-Mother might rouse and the leviathan Uln might turn in its sleep. You must ride out with the pilots, protect their survey, and confront whoever laid glass-lenses among the plumes. On the outer rock, a woman in Conclave colors waits with a coil of light-twine: Liora Fen, bright-eyed, hands inked with resonance runes, certain that she is doing the city's work and that the sea will understand.",
+    "objectives": [
+        "Escort Thalen Marr and the Reefkeepers to the affected reef beds without injuring the Shoals.",
+        "Locate and disable lens-tuned devices anchored among the plumes.",
+        "Confront Liora Fen and determine whether the Conclave sanctioned the devices."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Thalen Marr",
+            "content": "Hear that, Tairn? That's not the reef singing. That's a city edge trying to cut a sea stone. The Reef-Mother hums when she's pleased, and this is a bite, like someone dragging a chair across a shell floor. We cut poachers easy because they cut easy. But if the Conclave set these, we have to cut careful, because it's one thing to slice a net and another to slice a treaty."
+        },
+        {
+            "speaker": "Liora Fen",
+            "content": "Do you think we do this for sport? We mapped a resonance that could guide boats safely in fog and hum a lullaby through the Veiled Current to keep pirates to their lanes. The reef can carry more than fish and light; it can carry civic will. The devices are gentle, tuned to avoid spawning chords. I know the Faith will hiss, and the Reefkeepers will bare their palms, but we are trying to keep your children from drowning in a firestorm of knives."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "content": "I have bled on these planks and on those rocks, Liora. I believe you want the city safe. But I've seen a man lean too hard on a good idea until it became a lever that pried open a floodgate. If the reef is a choir, you ask it to sing before you know the words. Pull your lenses for now, and bring your case to the Court with the Reefkeepers' hands on the same stele. If the reef agrees, we'll all hear it, and if it doesn't, you'll hear the keening before you have time to apologize."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        "Reefkeeper's cut-token allowing safe navigation in marked shoal lanes",
+        "A single glass-polyp seed charm that hums faintly near razor eels",
+        "Reputation: +Small with Reefkeepers' Lodge, ±Minor with Conclave of Prismancers depending on choices"
+    ]
+}

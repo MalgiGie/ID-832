@@ -1,0 +1,64 @@
+{
+    "name": "Tallen",
+    "surname": "Quill",
+    "race": "human",
+    "age": 31,
+    "appearance": "Pale clerk with ink-smudged spectacles and eel-skin gloves; eyes twitch at loud bells.",
+    "character": "Nervous, ambitious, eager to please whoever holds the purse.",
+    "traits": [
+        "precise",
+        "sycophantic",
+        "greedy",
+        "secretive"
+    ],
+    "skills": [
+        "ledger scribing",
+        "clause crafting",
+        "memory-ink handling",
+        "archive research",
+        "handwriting mimicry"
+    ],
+    "talents": [
+        "recalling faces perfectly",
+        "ghost-footfalls in quiet halls",
+        "finding refraction tricks on glass plates"
+    ],
+    "flaws": [
+        "cowardly",
+        "addicted to siphoned memories",
+        "easily blackmailed",
+        "envies superiors"
+    ],
+    "dreams": [
+        "rise to a privileged scriptorium chief",
+        "collect a hidden annulus of forbidden pages",
+        "own a private recall well"
+    ],
+    "secrets": [
+        "siphons days of memories as graft from minor petitioners",
+        "altered a marriage clause for House Veyron to secure salt-tithe claims",
+        "keeps a duplicate sketch of the Parliament’s sealed annulus placement"
+    ],
+    "relations": [
+        {
+            "npc_name": "Maris Veyron",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Yarik Nine-Fingers",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Serene Khel",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Brask Ilyne",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Nella Shuck",
+            "relation_type": "neutral"
+        }
+    ]
+}

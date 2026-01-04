@@ -1,0 +1,64 @@
+{
+    "name": "Talo",
+    "surname": "Brine",
+    "race": "Human",
+    "age": 37,
+    "appearance": "Compact and quick, brine-scented coat, mirrored tray always under one arm, ink-stained fingertips from tallying flame counts.",
+    "character": "Nervy, earnest clerk-marshal who believes process can save the city if enforced cleanly.",
+    "traits": [
+        "meticulous",
+        "rule-bound",
+        "swift-footed",
+        "eager to please superiors",
+        "suspicious of guild bribes"
+    ],
+    "skills": [
+        "flame tallying",
+        "vote-lamp verification",
+        "crowd flow control",
+        "document chain-of-custody",
+        "emergency floor procedure"
+    ],
+    "talents": [
+        "catches forged moon-flames by scent alone",
+        "maps conspirators by who avoids his eyes",
+        "keeps order with a single whistle and tray rap"
+    ],
+    "flaws": [
+        "overworks to collapse during crises",
+        "alienates allies by pedantry",
+        "secretly craves recognition"
+    ],
+    "dreams": [
+        "expose the mirror-passage without collapsing talks with the Rookery",
+        "become Clerk-Marshal of the Hall",
+        "codify lamp-carry rules no guild can twist"
+    ],
+    "secrets": [
+        "Burned his palm on a backward-burning fake stored by Parliamentors",
+        "Keeps a private ledger of who tries to bribe him",
+        "Once delayed a vote to save a child lost below the galleries"
+    ],
+    "relations": [
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Lisi Jhak",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

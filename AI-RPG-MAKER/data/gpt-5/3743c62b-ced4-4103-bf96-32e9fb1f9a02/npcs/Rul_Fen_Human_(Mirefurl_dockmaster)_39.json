@@ -1,0 +1,62 @@
+{
+    "name": "Rul",
+    "surname": "Fen",
+    "race": "Human (Mirefurl dockmaster)",
+    "age": 39,
+    "appearance": "Sea-gray coat, one ear missing, metal-capped teeth; smells of tar and storm-oil.",
+    "character": "Gruff and practical with a hidden sentimental streak for old ships and older crews.",
+    "traits": [
+        "Decisive",
+        "Crew-loyal",
+        "Opportunistic",
+        "Streetwise"
+    ],
+    "skills": [
+        "Berth allocation",
+        "Mooring drills",
+        "Cargo manifests",
+        "Backdoor dealing"
+    ],
+    "talents": [
+        "Sense for weather windows",
+        "Keeps impeccable triple books",
+        "Reads a hull by its creak"
+    ],
+    "flaws": [
+        "Skims aerolith slivers",
+        "Trusts the wrong people",
+        "Short temper with officials"
+    ],
+    "dreams": [
+        "Clear his name before inspectors",
+        "Build a small sky-courier fleet",
+        "Retire to a quiet chainhouse with a view"
+    ],
+    "secrets": [
+        "Maintains a private berth for delta runs",
+        "Knows identities of two Unmoored captains",
+        "Sold a mooring slot to a rogue Orchid and regrets it"
+    ],
+    "relations": [
+        {
+            "npc_name": "Nalia Pree",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Mira Pellan",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jorin Vell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Saela Morn",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Ovelle Kite",
+            "relation_type": "neutral"
+        }
+    ]
+}

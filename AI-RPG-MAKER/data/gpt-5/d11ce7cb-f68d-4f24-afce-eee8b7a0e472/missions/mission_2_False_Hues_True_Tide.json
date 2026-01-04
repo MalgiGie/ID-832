@@ -1,0 +1,43 @@
+{
+    "id": 2,
+    "title": "False Hues, True Tide",
+    "quest_giver": "Rhy Tidesong",
+    "description": "The Salt Parliament prepares to vote on emergency tariffs to pay for new signal mirrors, but a basin key has gone missing and a whisper runs that someone plans to discolor the brine to skew the hue count. Mother Rhy brings Sere to the terraced basins, where delegates murmur among prismatic pools and a hush ripples through the crowd each time the light shifts. The Tidemothers fear that a false hue could justify seizing ritual authority from them and handing it to glassmakers who claim science is cleaner than prayer. Under the basins lies a warren of drains, the very veins of the city, and somewhere below a hidden room waits with jars of counterfeit color and a ledger that names an architect of the crime.",
+    "objectives": [
+        "Escort Rhy Tidesong through the Salt Parliament Basins and survey vulnerabilities around the voting pools.",
+        "Find the missing basin key without provoking a public scandal.",
+        "Descend into the drain passages and locate the hidden mixing room.",
+        "Secure the counterfeit brine jars and the ledger without letting the crowd see you dragging wet crimes into sunlight.",
+        "Choose whether to reveal the plot immediately, or hold the proof to leverage a later vote."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Rhy Tidesong",
+            "text": "When water is frightened it clings to its container, and I see the same fear in those eyes around the pools. They will say this is only brine, that color is a neutral ship to carry will across a vote. But they have forgotten that a city is a bowl of thirsts and that truth is a tide. Walk with me and listen to the basins breathe, Sere. If you hear a lie rising from the drains, I want your hand to be the first to catch it by the throat."
+        },
+        {
+            "speaker": "Sere Kallin",
+            "text": "I have walked enough sewers to know a current from a trickle. If someone is coloring the vote, they are not only stealing law, they are stealing the taste of justice from every mouth. Give me three moments and a quiet grate and I will find where the brine goes when it thinks no one is looking. If I have to choose who to shame to keep the peace, I will choose with a steady hand, but do not ask me to keep silent if the ribs begin to sing."
+        },
+        {
+            "speaker": "Yasma Brine",
+            "text": "You walk heavy for a hired shield, girl, and your eyes are too quick for a bystander. The basins do not favor twitchy hands. If there is a theft here, the Parliament will deal with it in its own hue, and it will not be a color that flatters you. Do what you must with your priestess and keep your discoveries narrow. A riot can start from a single drop of red in the wrong pool."
+        }
+    ],
+    "connections": {
+        "previous": [
+            1
+        ],
+        "next": [
+            3
+        ],
+        "related": [
+            10
+        ]
+    },
+    "rewards": [
+        "A basin pass that allows entry during closed sessions",
+        "Quiet protection from Tidemother acolytes when operating near the basins",
+        "A sealed jar of true-color brine to test for forgeries"
+    ]
+}

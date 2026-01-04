@@ -1,0 +1,49 @@
+{
+    "id": "M6",
+    "title": "Przysięga na wodę",
+    "quest_giver": "Neris Winnafala",
+    "description": "Zakon Wiru i Przypływu chce przywrócić neutralność Płaczących Schodów. Kapłanka Neris Winnafala prosi Eliana o mediację między karawaniarzami a Legią oraz o odzyskanie obrzędowego kielicha ze szkła, skradzionego rok temu. W niszy zdrójku echo odpowiada w nieznanych językach, a moneta selenitowa może pokazać przyszłość tylko kosztem wspomnień. Na dnie leży też cień odpowiedzi o bracie Eliana.",
+    "objectives": [
+        "Porozmawiaj z Neris Winnafala o warunkach mediacji i o zaginionym kielichu.",
+        "Zorganizuj spotkanie z Seradem Głazem i przedstaw propozycję czasowego wstrzymania opłat.",
+        "Odnajdź obrzędowy kielich w rękach pasera lub w skrytce legijnego żołnierza i przynieś go Neris.",
+        "Zadecyduj, czy wrzucić monetę selenitową do zdrójku, by uzyskać wizję o bracie, ryzykując utratę wspomnienia.",
+        "Podpisz przysięgę neutralności Schodów – pieczęć Zakon/Legia/Karawany."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Neris Winnafala",
+            "line": "Schody płaczą, bo stały się miejscem, gdzie łzy kosztują. Jeśli przywrócimy im neutralność, karawany wrócą do przysiąg na wodę, a nie na strach. Kielich to nie tylko szkło – to pamięć o umowie między wiatrem a ludźmi. Pomóż mi go odzyskać, a ja stanę przy tobie, gdy będziesz rozmawiał z kamieniem i latarnią."
+        },
+        {
+            "speaker": "Serad Głaz",
+            "line": "Nie jestem potworem z soli i żelaza. Ale porządek kosztuje. Dasz mi powód, bym cofnął halabardy ze Schodów? Pokaż mi, że twoje układy z cechami nie wywołają burzy, której nie da się przykryć tarczą. Przyjmę rozejm, jeśli zobaczę, że nikt nie wykradnie miasta przez boczny żleb."
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Zrobimy z Schodów miejsce, gdzie znów można podać sobie wodę bez liczenia monet. Kielich wróci, a ty, Seradzie, dostaniesz pieczęć, która powie twoim ludziom, że honor nie potrzebuje kasy fiskalnej. Co do wizji... jeśli mam coś oddać, niech to będzie strach, nie pamięć tych, których kocham."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "faction",
+            "description": "Czasowy rozejm z Legią na Schodach – mniejsze kontrole na szlakach."
+        },
+        {
+            "type": "item",
+            "description": "Obrzędowy kielich (zwrócony Zakonu) – w zamian Neris ofiaruje kroplę namaszczenia: jednorazowe wzmocnienie głosu podczas rytuału."
+        },
+        {
+            "type": "insight",
+            "description": "Wizja z zdrójku: trop o losie brata Eliana w Szybie Siódmym."
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "M10",
+    "title": "Masks and Mandates",
+    "quest_giver": "Vara Keshlin",
+    "description": "The Emberwatch Citadel looks down on Skarnhold with brass chevrons that glow in heat like patient eyes. Vara Keshlin meets you in the drill square, mask clipped to her belt, speaking through the grit of a long night. To run your cradle openly and to move anything heavier than a rumor, you will need a mandate that pauses lifts, reroutes traffic, and empowers wardens to keep crowds from tearing your work to bright pieces. Emberwatch will not bless what they do not understand, so you must run their drills, pull their hoses, and show them how your heat wards keep sparks from nesting in rope. The Citadel keeps its own secrets, including the rumor of a mask that writes the city’s shadow laws, but Vara shrugs all that like a cloak in summer. Make her trust her crews will not carry your blame, and she will stamp your permit with brass.",
+    "objectives": [
+        "Report to Vara Keshlin at the Emberwatch Citadel and request a temporary lift shutdown and corridor clearance mandate.",
+        "Assist in a live fire drill, using your ember-thread wards to contain a staged flare on a chain-lift platform.",
+        "Demonstrate the Half-Brass Mask’s filter efficacy with the miner’s insert against slag smoke.",
+        "Answer a panel of wardens’ questions about crowd control and emergency failsafes for the Iron Cradle.",
+        "Receive a stamped permit authorizing a timed test run through the Chainquarter and Underrun docks."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Vara Keshlin",
+            "text": "I do not care about myths, I care about not counting bodies. You want me to stop the city for your test. Then show me you can start it again without leaving half of it on the floor. My crews will ask hard questions, and if you answer like a poet, I will throw you back into your basins."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "Poetry is what engineers write when they do not have time to pretend they are not afraid. I am afraid. That is why my failsafes have failsafes and my wards breathe with the platform rather than smother it. Watch the flare chase the thread and lose interest."
+        },
+        {
+            "speaker": "Emberwatch Warden",
+            "text": "Filter held under load, no cough, eyes clear. Wards caught the spark and walked it away from the rope like a patient dog. Answers were not pretty, but they were true. I have seen worse stamped with less fuss."
+        },
+        {
+            "speaker": "Vara Keshlin",
+            "text": "Fine. Here is your permit, brass and clean. If your test goes sideways, you pull back, you do not push forward, and you call my bell. If I think you are hiding a corpse behind a hymn, I will end your project on a signal and sleep that night without regret."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        "Emberwatch stamped permit for timed corridor clearance",
+        "Brass-ward patches for chain-lift platforms",
+        "Reputation: + with Emberwatch crews",
+        "Access to Citadel bell-signal during test window"
+    ]
+}

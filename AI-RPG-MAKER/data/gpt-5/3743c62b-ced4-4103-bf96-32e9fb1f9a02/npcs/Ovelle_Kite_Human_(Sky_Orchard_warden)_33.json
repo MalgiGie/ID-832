@@ -1,0 +1,58 @@
+{
+    "name": "Ovelle",
+    "surname": "Kite",
+    "race": "Human (Sky Orchard warden)",
+    "age": 33,
+    "appearance": "Silver-leaf tattoos on forearms, glide harness always within reach, vine-fiber hair ties that hum in wind.",
+    "character": "Protective and inventive, with a fierce streak for Orchard autonomy.",
+    "traits": [
+        "Nurturing",
+        "Agile",
+        "Stubborn",
+        "Sly trader"
+    ],
+    "skills": [
+        "Cloudfruit harvest",
+        "Glide flight",
+        "Islet tethering",
+        "Kite wardening"
+    ],
+    "talents": [
+        "Perfect balance",
+        "Calms panicked crews",
+        "Reads vine tension by fingertip"
+    ],
+    "flaws": [
+        "Smuggles on principle",
+        "Overworks",
+        "Distrusts Aerarium edicts"
+    ],
+    "dreams": [
+        "Cooperative ownership of Orchard islets",
+        "Safer harvest rigs",
+        "A guild for Orchard folk separate from city politics"
+    ],
+    "secrets": [
+        "Diverts aerolith nodules to Unmoored experiments",
+        "Fed a sky-whale cloudfruit and now dreams true weather",
+        "Keeps a hidden line to a Mirror Guild journeyman for black-market lenses"
+    ],
+    "relations": [
+        {
+            "npc_name": "Kesh Storm-Runner",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Yassa Nim",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Nalia Pree",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Jorin Vell",
+            "relation_type": "Conflict"
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+[
+    {
+        "from": "Lysa Curren",
+        "to": "Kara Dusk",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lysa Curren",
+        "to": "Tomas Helwin",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Lysa Curren",
+        "to": "Pesha Lume",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lysa Curren",
+        "to": "Daru Fenlik",
+        "type": "Alliance"
+    },
+    {
+        "from": "Tomas Helwin",
+        "to": "Lysa Curren",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Tomas Helwin",
+        "to": "Seler Daki",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tomas Helwin",
+        "to": "Mira Cael",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tomas Helwin",
+        "to": "Orel Vaska",
+        "type": "Different goals"
+    },
+    {
+        "from": "Seler Daki",
+        "to": "Tomas Helwin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Seler Daki",
+        "to": "Mavek Dross",
+        "type": "Hostility"
+    },
+    {
+        "from": "Seler Daki",
+        "to": "Mira Cael",
+        "type": "Alliance"
+    },
+    {
+        "from": "Seler Daki",
+        "to": "Kara Dusk",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Mavek Dross",
+        "to": "Seler Daki",
+        "type": "Hostility"
+    },
+    {
+        "from": "Mavek Dross",
+        "to": "Kara Dusk",
+        "type": "Alliance"
+    },
+    {
+        "from": "Mavek Dross",
+        "to": "Mira Cael",
+        "type": "Conflict"
+    },
+    {
+        "from": "Mavek Dross",
+        "to": "Aren Mir",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Mavek Dross",
+        "to": "Ysil Kett",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nelai Pruen",
+        "to": "Pesha Lume",
+        "type": "Alliance"
+    },
+    {
+        "from": "Nelai Pruen",
+        "to": "Orel Vaska",
+        "type": "Friendship"
+    },
+    {
+        "from": "Nelai Pruen",
+        "to": "Daru Fenlik",
+        "type": "Different goals"
+    },
+    {
+        "from": "Nelai Pruen",
+        "to": "Lysa Curren",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Kara Dusk",
+        "to": "Lysa Curren",
+        "type": "Friendship"
+    },
+    {
+        "from": "Kara Dusk",
+        "to": "Mavek Dross",
+        "type": "Alliance"
+    },
+    {
+        "from": "Kara Dusk",
+        "to": "Seler Daki",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Kara Dusk",
+        "to": "Daru Fenlik",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Daru Fenlik",
+        "to": "Jalen Sarq",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Daru Fenlik",
+        "to": "Lysa Curren",
+        "type": "Alliance"
+    },
+    {
+        "from": "Daru Fenlik",
+        "to": "Nelai Pruen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Daru Fenlik",
+        "to": "Ysil Kett",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Daru Fenlik",
+        "to": "Kara Dusk",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Aren Mir",
+        "to": "Lysa Curren",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Aren Mir",
+        "to": "Pesha Lume",
+        "type": "Friendship"
+    },
+    {
+        "from": "Aren Mir",
+        "to": "Mavek Dross",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Aren Mir",
+        "to": "Nelai Pruen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Pesha Lume",
+        "to": "Nelai Pruen",
+        "type": "Alliance"
+    },
+    {
+        "from": "Pesha Lume",
+        "to": "Aren Mir",
+        "type": "Friendship"
+    },
+    {
+        "from": "Pesha Lume",
+        "to": "Mira Cael",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Pesha Lume",
+        "to": "Orel Vaska",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ysil Kett",
+        "to": "Mavek Dross",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ysil Kett",
+        "to": "Mira Cael",
+        "type": "Hostility"
+    },
+    {
+        "from": "Ysil Kett",
+        "to": "Jalen Sarq",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ysil Kett",
+        "to": "Daru Fenlik",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Mira Cael",
+        "to": "Seler Daki",
+        "type": "Alliance"
+    },
+    {
+        "from": "Mira Cael",
+        "to": "Mavek Dross",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Mira Cael",
+        "to": "Pesha Lume",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mira Cael",
+        "to": "Tomas Helwin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mira Cael",
+        "to": "Ysil Kett",
+        "type": "Hostility"
+    },
+    {
+        "from": "Jalen Sarq",
+        "to": "Daru Fenlik",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jalen Sarq",
+        "to": "Ysil Kett",
+        "type": "Friendship"
+    },
+    {
+        "from": "Jalen Sarq",
+        "to": "Orel Vaska",
+        "type": "Alliance"
+    },
+    {
+        "from": "Jalen Sarq",
+        "to": "Kara Dusk",
+        "type": "neutral"
+    },
+    {
+        "from": "Orel Vaska",
+        "to": "Nelai Pruen",
+        "type": "Friendship"
+    },
+    {
+        "from": "Orel Vaska",
+        "to": "Jalen Sarq",
+        "type": "Alliance"
+    },
+    {
+        "from": "Orel Vaska",
+        "to": "Tomas Helwin",
+        "type": "Different goals"
+    },
+    {
+        "from": "Orel Vaska",
+        "to": "Pesha Lume",
+        "type": "Friendship"
+    }
+]

@@ -1,0 +1,82 @@
+{
+    "id": "M1",
+    "title": "Heat in the Basins",
+    "quest_giver": {
+        "name": "Jask Lumenwright",
+        "affiliation": "Oracle Loom"
+    },
+    "description": "Steam beads on copper lips at the Oracle Loom, rolling into bright droplets that catch the lamp-flare like patient stars caught in a wheel. Threads of dyed glass hum like held breath, a careful choir that vibrates against the teeth and settles into the bones with a promise and a warning. Jask stands with sleeves rolled past scarred forearms, his old burn-lines mapping the history of a dozen near-fires, eyes following the ripples you coax from a basin with one fingertip as if each circle were a word he has learned to fear. The Loom has whispered again, not in poems but in schedules and temperatures and the aching practicality of time: the Iron Cradle must be set spinning, or the Pact of First Heat will cool to ash, and with it the fragile bargains that keep Skarnhold moving. To begin, you must stitch a circle of trust out of frayed guild loyalties, starting with legal breath for trance-hearing and blessed ink that will not smear when heat leans close. Rukha Mossbank can secure smokeherb permits for trance-breaths and ration chits for your long nights, but she will want promises that proficiencies serve plates, and that the whir of your cradle will not drink water needed by moss-fruit and fungi beds. Above, Aelmyr’s Wound still murmurs in heat and memory; if you dare lean close, your chipped horn may recall the glassfall that scored it, and the faint chain-link cinder-mark along your jaw may flare like a cautioned heartbeat. The rope stairs and slag ridges that climb to the Wound will test your lungs; the fissures will test your nerve; and the song that rises from molten dreams caught in cooled glass will test your resolve to bind omens to iron. The Loom’s copper sings a thin note beneath your teeth, as if answering a question you have not yet asked and suggesting several you will not want to hear until the moment your stylus touches ash-ink to obsidian.",
+    "objectives": [
+        "Meet Jask Lumenwright at the Oracle Loom and receive the first harmonic pattern for the Iron Cradle.",
+        "Secure a smokeherb trance permit and two ration chits from Rukha Mossbank without indebting the Terrace-Stewards beyond reason.",
+        "Climb to Aelmyr’s Wound and use the Copper Basin Locket to listen for harmonics along a fissure.",
+        "Sketch the heat ripple-map with the Ash-Ink Stylus and mark three resonance nodes.",
+        "Return to Jask with the ripple sketches and a written pledge to keep food allotments in mind."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jask Lumenwright",
+            "lines": "The basins do not sing for patience alone, apprentice; they sing for motion, for the promise that heat will be carried and not hoarded, for the discipline that keeps a rhythm and forbids a long sleep. We have read a pattern the Loom kept in a sealed box of silence, and I break that seal now because the city’s warmth is thinning like a bad broth and time itself has begun to cool along the edges. The Iron Cradle must be made and it must not rest, not for a breath, not for a prayer, not for the convenience of schedules or the vanity of guild banners. You will need smokeherb breath to hear the quiet layers beneath the loud ones, and ash-ink to write without smearing the future when a vent sighs too close. Go gently with the Stewards, Neris; when you bargain for heat, remember the bellies that sleep under thin blankets, and understand that an engine that forgets hunger becomes a weapon against its own makers."
+        },
+        {
+            "speaker": "Rukha Mossbank",
+            "lines": "I know the brightness in your eyes, Neris Coilglass, the quick-gold light that says you have sketched a ladder up the sky and you mean to climb it no matter the wind. It is the look of someone who thinks engines can do the same work as communities, and I tell you plainly they cannot, though they can be yoked to purpose when guided by hands that remember who eats last and who eats not at all. I will sign the trance-breath permit and slide you two ration chits, because I have seen you carry a Quiet Pour jug without complaint and I have read the careful notes you leave in the Kitchen Ledger when you take a ladle more. But you will come to our terraces on a Quiet Pour and carry jugs like any of us, and you will stand with moss-fruit pickers when wind knifes the Ledges, and you will explain your heat-math to grandmothers who do not care for numbers but understand the taste of a promise. If your work draws water away from food, I will be the first to close your taps and the loudest to shout your name at the Exchange, and I will do it for love of those who cannot afford your omens, so do not make me do that, friend who would spin a cradle in a hungry city."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "lines": "I have listened to chainwheels in storm and to the Ireflow when it drums the ribs of the city, and I have learned that rhythm is a kind of mercy when everything else wants to break. The Wound hums in a pitch that lances my jaw and shakes the scar on my horn, like a voice I once knew and traded away for a path, and I will not pretend I do not fear what it might ask me to remember. If there is a heartbeat in the slag, it is either memory or promise, and both can bind as tightly as any iron band when you let them close around your name. I will treat it as both until I know which it is, and I will write what it tells me in ash-ink that will not run, even if my hands do. And when I bring the ripples back, they will not merely be lines on cooled glass; they will be a pledge that I will tie heat to hunger and keep count of plates as carefully as I count gears."
+        },
+        {
+            "speaker": "Jask Lumenwright",
+            "lines": "Bring me ripples I can trust and I will give you a thread that binds engines to omens, a first harmonic that will teach even stubborn metal the habit of keeping time with a sleeping heart. You are walking a line between guild ledgers and the Pact’s old story, a tightrope braided from pride, fear, and the oldest courtesy this city knows. Walk it with your eyes open, and when a scribe tries to sell you a shortcut, count your fingers before and after and tally not just coin but the weight of owed breath. Do not let the Chainwrights draft your conscience into a schedule without margins for mercy, and do not let the Loom make a god of a pattern that cannot feed a child. Return to me with drawings that smell of the Wound and a written promise that Stewards may read without squinting, and I will set the loom-threads singing to match the map you make."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Carry the Quiet Pour and bargain from service",
+            "text": "You join the Terrace-Stewards at dusk, taking a jug that leaks warm mineral tears onto your boots and walking the slow procession that winds from cistern to river-edge. The hymn is simple and low, a work-song more than a prayer, and when your breath fogs in the cooler pockets you match the exhale to your step and the step to the bell. Children watch your horns with awe and then lose interest when you stumble on a slick stone, and you laugh with them and learn the names of the moss rows you will later account for in your ledgers. When the jugs are offered back to the Ireflow in bright drops of humility, you stay to scrub the tar from duckboards and listen without interrupting as elders list the weeks when stew ran thin. Only when your hands are raw and your shoulders hum like a held chord do you open your basin locket and ask, gently, for the smokeherb permit and the two ration chits you need to keep your work awake at night.",
+            "outcome": "Rukha signs with a firm hand and a steady eye, noting not just your need but your willingness to sweat in time with those who feed the city. She reminds you that service is not a down payment on indulgence but a habit you will keep, and you agree without flinching because the rhythm of the procession has already set a cadence in your bones. Your permit is clean, your chits are unshadowed, and your name passes along the terrace benches with a warmth that is not heat alone. Word reaches Jask that you chose patience over leverage, and when you later present the ripple-map he finds fewer reasons to doubt your judgement than he had rehearsed in his caution. The choice costs you a night of work, but it buys you a reputation for steadiness that will open a gate when omens demand a pause and guilds want to run."
+        },
+        {
+            "id": "C2",
+            "title": "Broker a ledger-pledge with hard guarantees",
+            "text": "You meet Rukha at a bench under the bronze awnings near the Saltfold Exchange, where the air tastes like tears and the bells cut hours into coins. You unfurl a draft agreement scored in ash-ink, promising that any engine-time you beg from Chainwrights will include a turn of the crank reserved for food lifts and compost trains, and that your cradle calculations will be published for Stewards to audit. You offer to post a bond of your personal ration chits against any deviation, and you set your Copper Basin Locket between you as a mirror that reflects both your faces, so each clause feels like a spoken vow. Rukha challenges every line twice, asking where water flows when the vents cough, who eats if the Aquifer surges close the docks, and how many minutes of crank-time equal a tray of seed. You answer in numbers that bend toward kitchens, and when the paper is full and your stylus is dull, the two of you have a ledger-pledge that could be read aloud in the Quiet Pour and not be booed from the steps.",
+            "outcome": "The permit and the two chits arrive with an official seal and a thumbprint that smells faintly of smokeherb, and the bond you posted is tucked into a clay envelope that Rukha promises to break only if you break first. The Terrace-Stewards, pragmatic as ever, respect the auditable shape of your promises, though some mutter that oaths should be sung, not signed, and you prepare to do both when the time comes. Jask reads the agreement and arches an eyebrow at how cleverly you tied Chainwright time to kitchen rhythm, and he warns you that cleverness can make enemies as quickly as it makes solutions. The Chainwrights will not love seeing their minutes collateralized by a Loom-bred tiefling with a chipped horn and a bright idea, and you must be ready to hold ground without making a martyr of your work. Still, the path ahead feels straighter, for you have made a road out of words that can bear a wagon’s weight."
+        },
+        {
+            "id": "C3",
+            "title": "Leverage a shadow audit to gift Rukha a win",
+            "text": "In a side corridor behind the Exchange’s ringing pit, you find a narrow alcove where a clerk of the Veil and Ledger waits with fingers inked in ciphers and a smile like a drawn blade. You trade a sanitized scrap of an Orin gyre log for a thin slate that lists the Salt Charter’s quiet ‘second scales’ for the week, noting the tiny thefts that add up to a hungry street. You bring the slate to Rukha without naming your source, letting the numbers speak as a crosstide that pushes her barge of arguments into a favorable channel. Together you spring the trap during a Price-Bell arbitration, and the Charter is forced to return a chest of ration bricks and three barrels of brine lentils to the Terrace-Stewards in open shame. Only then do you ask, softly, for a smokeherb permit and two ration chits, promising that your cradle will spin for the city, not for a ledger’s private weather.",
+            "outcome": "Rukha’s eyes flash with triumph at the public win, and she signs your permit with ink still wet from victory and presses the two chits into your palm with callused fingers. The Veil and Ledger clerk expects a favor called ‘soon’ and does not define it, and you can feel the weight of that undefined word settle across your shoulders like a chain with a knot you cannot yet see. The Salt Charter takes note of the embarrassment and adds your name to a list that is not spoken aloud but shapes the wind around the Exchange, and you will taste salt in strange places for a time. Jask hears enough rumor to know you moved through shadow to buy light, and he cautions you that even righteous arithmetic can unbalance a city already swaying over a Rift. Still, your path is open, your nights are fueled, and your cradle’s first sketches will carry a sharper edge born of understanding how easily weights can be cooked and how simply a promise can be salted away."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Schematic",
+            "description": "Ember-thread pattern: First Harmonic Coil, a sung schematic that teaches metal the habit of continuous motion without heat-loss."
+        },
+        {
+            "type": "Permit",
+            "description": "Smokeherb trance permit valid for three sessions, signed under Terrace-Stewards authority and recognized by Emberwatch wardens."
+        },
+        {
+            "type": "Ration",
+            "description": "Two ration chits from the Terrace-Stewards, marked for night-work sustenance and tradable for stew, bread, and boiled moss-fruit."
+        },
+        {
+            "type": "Reputation",
+            "description": "Standing improved with the Oracle Loom; your name is inked beside those who return with maps instead of excuses."
+        },
+        {
+            "type": "Reputation",
+            "description": "Standing improved with the Terrace-Stewards; kitchens speak your name with cautious approval and a ladle’s nod."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "M6",
+    "title": "Trial by Lantern",
+    "quest_giver": "Prior Ansel of the Black Thistle",
+    "description": "A vigil lantern in Black Thistle House will not stay lit. The Order calls a secret hearing to test a ledger-knife taken from the Exchange’s shadow corridors, a woman who claims she falsified no stamps and cut no man’s reputation without cause. Sera Verrin attends as a ‘concerned citizen,’ and Floor Marshal Hesk sits pale and still with his hands folded like empty nets. Kezra is asked to light the vigil with memory oil and to cut a single reflection from the room—one look on one face—to hold up against a testimony. The shard recovered in the night lays on the altar and hums like a hive. When vows are spoken, it sings in the teeth.",
+    "objectives": [
+        "Attend the secret hearing as neutral witness; keep detailed lantern notes.",
+        "Use the Glasslake reflection-shard to isolate one chosen reflection when testimony conflicts; present it carefully.",
+        "Determine whether the ledger-knife’s confession is coerced, coached, or true; advise the Order’s judgment.",
+        "Keep the hearing from collapsing into factional accusation between the Order and the Hall of Shares."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Prior Ansel of the Black Thistle",
+            "lines": "I do not convene these chambers to frighten merchants or to dress justice in ritual for the sake of spectacle. I convene them because lies nest in daylight and truth sometimes prefers a dark room and a single witness. Light the lantern, Kezra. Hold us all to its memory, myself most of all."
+        },
+        {
+            "speaker": "The Ledger-Knife (Cal Tesser)",
+            "lines": "I cut ledgers to straighten them, not to bleed them. The stamp that passed those bricks never touched my hand. What I did do was whisper to a man that his courage was cheaper than salt, and he sold it to me. That is not a crime before the Exchange; it is a profession before the mirror."
+        },
+        {
+            "speaker": "Sera Verrin",
+            "lines": "We are all tempted to call our rivals’ strengths crimes of character and our own compromises necessities. If there was a forgery, expose it; if there was only ambition, do not crucify it because you dislike the face it wears. I would see the City governed by vows that do not turn to cudgels in pious hands."
+        },
+        {
+            "speaker": "Floor Marshal Hesk",
+            "lines": "I signed no false warrants. But I did close an eye on a corridor where I should have opened two. Laziness can be as poisonous as theft. If you must weigh a man, weigh that against the years I kept the vaults honest."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I’ll cut one reflection and only one, and not because I enjoy the taste of other people’s futures. I’ll do it so we all remember what we saw when we were brave enough to look. Then we’ll bind the words to that light and leave the room with only one story to tell."
+        }
+    ],
+    "connections": {
+        "previous": "M5",
+        "next": "M7",
+        "locations": [
+            "Black Thistle House"
+        ],
+        "npcs_involved": [
+            "Prior Ansel of the Black Thistle",
+            "Cal Tesser",
+            "Sera Verrin",
+            "Floor Marshal Hesk"
+        ],
+        "themes": [
+            "justice",
+            "temptation",
+            "limits of power"
+        ]
+    },
+    "rewards": [
+        "Order’s written commendation (grants private audience rights in crises)",
+        "Temporary custody of the humming shard for research under supervision",
+        "A promise from Sera Verrin to back a public oath-chart draft in committee—conditional on results"
+    ]
+}

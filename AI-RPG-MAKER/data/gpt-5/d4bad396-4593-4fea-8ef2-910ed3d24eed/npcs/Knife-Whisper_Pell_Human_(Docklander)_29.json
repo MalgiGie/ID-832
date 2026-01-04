@@ -1,0 +1,67 @@
+{
+    "name": "Knife-Whisper",
+    "surname": "Pell",
+    "race": "Human (Docklander)",
+    "age": 29,
+    "appearance": "Soft-footed, with glowmoss-ink tattoos that shimmer at the throat; always speaking just below hearing.",
+    "character": "Sly fixer who prefers leverage over blood, until blood is needed.",
+    "traits": [
+        "Patient",
+        "Secretive",
+        "Opportunistic",
+        "Charming in whispers",
+        "Hard to read"
+    ],
+    "skills": [
+        "Smuggling routes",
+        "Blackmail craft",
+        "Knife throwing",
+        "Shadowing",
+        "Vault etiquette"
+    ],
+    "talents": [
+        "Masks oath-tones with layered hums",
+        "Reads lips in low light",
+        "Vanishes into market churn"
+    ],
+    "flaws": [
+        "Overconfident",
+        "Superstitious about salt tears",
+        "Trusts no one fully"
+    ],
+    "dreams": [
+        "Break the Oath of Silence curse on their crew",
+        "Own the Night Market outright",
+        "Turn the Wardens into paying customers"
+    ],
+    "secrets": [
+        "Keeps a hidden wheel to a spillway culvert the Wardens forgot",
+        "Etched their true name behind the Mirror-Queen’s bead curtain in blood and silver"
+    ],
+    "relations": [
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Pellar Nine-Poles",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Iven Kall",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Asha Greyling",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Tavi Mireline",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sere Aven",
+            "relation_type": "Conflict"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "M7",
+    "title": "The Coral’s Question",
+    "quest_giver": "Irio Mossvane",
+    "description": "Irio Mossvane, sky-barge navigator and old friend, leans on a bone rail at the Sky-Quay and watches the air-moss breathe. He has a charter to reach the Coral Library of Nareth with a joint delegation from the Bonewrights and the Rime-Lantern Guild. The coral keeps questions like pearls; pry them wrong and you bleed. Yhosa Kel wants Shell-Scribe technique to lace bone with coral; Pera Ilem wants glyphs that cool marrow without plague; the Pilgrims want the Library left uncut. The reef sings in circles and serpents bow to no flag. The sliver of coral hidden under Mara’s bow-grip hums in sympathy; something below remembers her already.",
+    "objectives": [
+        "Sail by coastal hops to the Coral Library of Nareth with Irio’s guidance, avoiding trick currents.",
+        "Sing the opening verse taught by Pilgrims to unseal a question-knot; retrieve a memory that belongs to no one and everyone.",
+        "Evade or pacify a territorial reef-serpent without killing it; preserve the Library’s living coral.",
+        "Return fragments of Shell-Scribe technique or hymn to Yhosa Kel and Pera Ilem, and share a Pilgrim-approved copy for the Reliquary."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Irio Mossvane",
+            "lines": "I’ve seen storms that breathe easier than this dock. The air-moss knows a squall two hours before a gull does, and it’s humming like a kettle. We’ll thread the reefs as if we’re threading a quarrel through your bow—slow, precise, and with no waste. If the Library asks you something, don’t answer with pride. Pride reads as hunger in the water."
+        },
+        {
+            "speaker": "Yhosa Kel",
+            "lines": "We will not cut living coral. We will not cut living coral. Say it until you believe it. If we learn how to ask without taking, we become more than artisans—we become citizens of a city that deserves to last."
+        },
+        {
+            "speaker": "Pera Ilem",
+            "lines": "The rumor of a cooling hymn for marrow has outlived three generations of careful lies. If you find a verse that chills without stealing the heat from hands and hearts, bring me even a fragment. I am tired of the word ‘plague’ being used as a cudgel and a prayer in the same breath."
+        },
+        {
+            "speaker": "Siala Nerm",
+            "lines": "The Library keeps questions, child. Ask one, and it will give you an answer that was never yours, and you will carry it like a lantern left burning in a room you cannot return to. If you bring back song, bring back silence to match it."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "Then we’ll tread light, ask true, and leave more living than we found. If the coral has a question for me, I’ll answer in a way that lets another answer later."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        "Shell-Scribe ‘Heart-Opening Verse’ (a chant that harmonizes with deep pulses; used later)",
+        "Coral glaze formula fragment for Bonewrights (non-destructive)",
+        "Marrow-cooling counterphrase for Rime-Lanterns (reduces volatility)",
+        "+Favor with Irio Mossvane and balanced goodwill with Bonewrights, Rime-Lanterns, and Pilgrims"
+    ]
+}

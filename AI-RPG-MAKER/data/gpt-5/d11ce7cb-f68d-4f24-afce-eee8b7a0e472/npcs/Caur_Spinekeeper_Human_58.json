@@ -1,0 +1,64 @@
+{
+    "name": "Caur",
+    "surname": "Spinekeeper",
+    "race": "Human",
+    "age": 58,
+    "appearance": "Spare frame wrapped in resin-stained robes, fingers inked with pulse marks. Hair tied back with a rib-shaving; eyes always measuring.",
+    "character": "Patient teacher with a practical streak; treats machines as stubborn children and people as delicate machines.",
+    "traits": [
+        "Patient",
+        "Secretive",
+        "Pragmatic",
+        "Soft-spoken",
+        "Meticulous"
+    ],
+    "skills": [
+        "Bonecraft grafting",
+        "Hydraulic tuning",
+        "Pulse metering",
+        "Engine schematics drafting",
+        "Emergency bracing"
+    ],
+    "talents": [
+        "Hearing micro-changes in the Engine's beat",
+        "Growing bone lattice that obeys song",
+        "Turning rivalries into working protocols"
+    ],
+    "flaws": [
+        "Keeps too many back doors in his designs",
+        "Poor gambler with debts of favor",
+        "Deflects direct questions with technicalities"
+    ],
+    "dreams": [
+        "Decode the heartstone's grammar",
+        "Unite Covenant and Temple around a shared rite",
+        "Create a civic brace the city forgets is bone"
+    ],
+    "secrets": [
+        "Knows a three-rib chord that opens a water gate",
+        "Grew a hidden shelf in the Archive that bends away from certain names",
+        "Owes Keth a favor for smuggled resin and fungus during a shortage"
+    ],
+    "relations": [
+        {
+            "npc_name": "Rhy Tidesong",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Keth of the Nets",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Nalea Chalkfinger",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Pell Lenseson",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Lur Oghrim",
+            "relation_type": "Friendship"
+        }
+    ]
+}

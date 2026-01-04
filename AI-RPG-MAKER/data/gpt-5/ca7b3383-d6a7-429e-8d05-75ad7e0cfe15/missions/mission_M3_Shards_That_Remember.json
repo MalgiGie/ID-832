@@ -1,0 +1,45 @@
+{
+    "id": "M3",
+    "title": "Shards That Remember",
+    "quest_giver": "Tosk Glassbite",
+    "description": "The Shatter Mines take light and return it in a thousand spiteful pieces. Ropes creak, glass dust glitters on lips, and every breath feels like borrowing. Tosk Glassbite claps your shoulder with a hand like a stone bracket and grins around a strip of eel jerky. A shatterwight fog has taken a lateral gallery and spooked the crews from a seam of star-crystal perfect for machine coils. The wights here are the breath of the dead caught in glass, the Miners say, and they remember panic more easily than calm. You will be threading ember-threads through the air itself to mark safe pockets of breath, listening to fault-whispers under the clink of your harness, and prying a clutch of facets from a wall that wants to cut you from every angle. The Crown of Nine Edges is just a story, Tosk assures you, then tells it with too many details to be only a story.",
+    "objectives": [
+        "Travel with Tosk Glassbite to the Shatter Mines and rig a rope-saddle over the target gallery.",
+        "Use the Ember-thread Spool to ward a path through shatterwight fog without dispersing it violently.",
+        "Harvest 3 star-crystal facets suitable for heat focusing and record fault-whisper patterns in ash-ink.",
+        "Avoid glassfall by reading micro-harmonics in the chain pins above the gallery entrance.",
+        "Return to the winch-train with facets intact and deliver a copy of the fault-whispers to Tosk."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tosk Glassbite",
+            "text": "You breathe, the mine remembers, you breathe again, and sometimes the mine brings that first breath back with teeth. Wights are not ghosts so much as bad habits of the air. We will keep our own habits better. You mark and I pull, you listen and I keep the glass above from remembering how to fall."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "I have stood in fog that wanted to be a person again. If I sing the Loom’s threads low enough and true, they calm to a stillness that is almost peace. Almost. It is never entirely kind down here."
+        },
+        {
+            "speaker": "Tosk Glassbite",
+            "text": "There. Those facets will take heat like river stone takes a thrown coin, and they will give it back along lines you choose. Keep two for your cradle and slide me one for the crew bonus pool. I tell you plain, Coilglass, someday you will need a miner more than a mirror. I will answer when you call."
+        },
+        {
+            "speaker": "Shatterwight Whisper",
+            "text": "We were breath in the dark and then the lamp went out. Do not teach the stone to hold its breath again. Move, move, move."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        "2 Star-crystal facets for heat focusing",
+        "Miner’s filter insert for Half-Brass Mask",
+        "Reputation: + with Basaltborn crews",
+        "Promise of aid from Tosk Glassbite in future mines work"
+    ]
+}

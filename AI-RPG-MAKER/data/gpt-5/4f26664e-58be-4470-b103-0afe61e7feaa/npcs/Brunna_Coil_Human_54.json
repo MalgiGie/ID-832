@@ -1,0 +1,65 @@
+{
+    "name": "Brunna",
+    "surname": "Coil",
+    "race": "Human",
+    "age": 54,
+    "appearance": "Muscular master carver with tendon-inked forearms; wears a bone-measure around her neck and carries a collapsible articulator’s brace.",
+    "character": "Exacting perfectionist who believes bones deserve dignity and profit.",
+    "traits": [
+        "meticulous",
+        "traditionalist",
+        "proud",
+        "mentoring"
+    ],
+    "skills": [
+        "articulation",
+        "bonecraft",
+        "public adjudication",
+        "guild negotiation"
+    ],
+    "talents": [
+        "intuitive joint mechanics",
+        "steady hands under pressure",
+        "commanding oratory"
+    ],
+    "flaws": [
+        "haughty",
+        " grudging compromiser",
+        "impatient with amateurs"
+    ],
+    "dreams": [
+        "win a third guild vote on the Council",
+        "secure pre-wyrm ossature for a royal commission",
+        "codify bonecraft as a protected sacred art"
+    ],
+    "secrets": [
+        "Illegally purchased pre-wyrm ossature from the Ossuary Dunes",
+        "Keeps unlicensed relic fragments locked beneath her atelier"
+    ],
+    "relations": [
+        {
+            "npc_name": "Avar Ir",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Edris Thale",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Marek Sol",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sereth Vex",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Lysa Truin",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Safra Ninebridges",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "M4",
+    "title": "The Reef Remembers Cuts",
+    "quest_giver": {
+        "name": "Thalen Marr",
+        "affiliation": "Reefkeepers' Lodge"
+    },
+    "description": "Night falls like a slow tide over Marinth Vell, and the Glassreef Shoals begin their breathing, a pulse of blue-green light that rises and sinks as if the sea itself were asleep and dreaming in color. Pilots read that breath as scripture and warning, and on this night the scripture is smudged by a new, aching note that sets teeth on edge and turns lantern flames thin. Thalen Marr, scarred by salt and sworn by the three cuts of the Lodge, finds you at the Prism Quay berths with a boat that smells of kelp and tar and a worry he will not name until the oars bite water. Out past the chain-gates and the outer flags, the shoals lie like a city beneath the skin of the sea, but among their living panes glimmer foreign prisms anchored with wire and resin knots that were not set by Lodge or Faith. That new hum threads the current, a city cleverness braided through an ancient choir, and Thalen says the word that makes the pilots spit into the wind and touch their scars for luck: Conclave. You ride the tide to the outer rock where a woman in Conclave blues waits with a coil of light-twine, eyes full of storm-bright certainty and hands inked in resonance runes; she names herself Liora Fen, and she believes the reef will understand a good intention if the chord is tuned true. Between her hope and the Reef-Mother’s patience lies the leviathan Uln asleep beneath the shoals, and each breath of the sea feels like a count toward a decision that will ripple through city, marsh, and memory.",
+    "objectives": [
+        "Escort Thalen Marr and the Reefkeepers to the affected reef beds without injuring the Shoals.",
+        "Locate and disable lens-tuned devices anchored among the plumes.",
+        "Confront Liora Fen and determine whether the Conclave sanctioned the devices."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Thalen Marr",
+            "lines": "Hear that, Tairn, the thin whine under the reef pulse, like a knife being drawn too slow across a plate. That is not the Reef-Mother humming approval; that is a chair dragged over a shell floor until the floor remembers the insult. We cut poachers easy because they cut easy, and a net that bites too deep can be parted by a steady hand and a good oath. But this is a city edge trying to teach the sea a trick, and tricks taught to old waters come back as storms or debts we cannot pay. If the Conclave set these, then we cut careful, because it is one thing to slice a rope and another to slice a treaty that has taken our palms and our blood to bind. I bring you because you know how to hold a line between angry crews, and because your blade does not sing unless it must, and because if we must carry this to Court, your words will not tangle when shells begin to keen."
+        },
+        {
+            "speaker": "Liora Fen",
+            "lines": "Do you think we do this for sport, rigger, or to score a cleverness in some private ledger. We mapped a safe chord that hums through fog and sings into the Veiled Current without touching the spawning bands, and we tested it on glass that never knew a fish. The reef can carry more than light and schools; it can carry intention if you ask it gently, and it can carry a lullaby that turns pirates by habit and not by blood. Yes, the Faith will hiss, and the Reefkeepers will bare their palms, and the shells will listen for any lie I do not tell, but our children drown on bad nights and we have a way to thread a lantern through their darkness. The devices are gentle by every measure we have, and the sea has endured storms and furnaces and old faiths with less care than we bring; I am not here to awaken a monster, I am here to keep one asleep with a better song. If the Conclave is guilty of anything it is hope and a reach, and I would rather defend hope than drown in caution and call that virtue."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "lines": "I have bled on these planks and on those rocks, Liora, and I have listened to the Court’s shells keen for men who thought a bright chord excused a broken oath. I believe you want the city safe, and I have stood in fog with a rope in my teeth wishing for a voice to carry further than a lantern can throw. But I have seen a man lean too hard on a good idea until it became a lever that pried open a floodgate, and the flood does not stop to hear apologies. If the reef is a choir, you are asking it to sing a part before you know the whole, and when choirs break time the congregation drowns. Pull your lenses for now and keep the runes you wrote, and bring your case to the Court with the Reefkeepers’ hands on the same stele so the shells can hear you when the city is listening. If the reef agrees we will all hear it, and if it does not you will hear the keening before you have time to swallow the taste of what you have done."
+        }
+    ],
+    "choices": [
+        {
+            "id": "M4-C1",
+            "title": "Cut the hum and carry it to Court",
+            "text": "You insist the lenses come up tonight, and you set your boots wide on the living panes while the pilots ease their knives under wire and resin knots with the same tenderness they would use to lift a child from a snare. You help Liora coil her light-twine and you do not shame her for bringing it, but you make her promise by the warming of your fulgurite that the next chord she sings will be sung in the Court where shells hear every tremor. You mark each anchorage on a slate with lantern shorthand, so no one can claim later that the devices were rumor or reef-mirage, and you hand a copy to both Lodge and Conclave to keep the facts from being carved crooked. You remind Thalen that anger makes hands heavy and reefs bruise, and you speak to the pilots until their breath matches the sea again and the knives stop shaking in callused fingers. When the last hum fades you stand on the outer rock with Liora and watch the original pulse return, and you tell her that the difference between caution and cowardice is what you bring to the next hearing.",
+            "outcome": "The Reefkeepers leave with chins up and eyes wet, grateful that the shoals were not cut twice in one night, and they press a salt-wet cut-token into your palm in front of witnesses who will speak for you in any chainhouse. Liora returns to the Prismarium with her notes intact and her pride bruised, and Arch-Prism Hadrin sends a message that burns in color rather than ink to say that they will argue in the Court, not in the tide. Word spreads through the Lamplands that someone made the Conclave climb down without breaking a lens or a hand, and the Faith murmurs approval like foam against a hull. The Conclave’s regard cools for a season, not to ice but to a wary distance, and a few apprentices hiss when you pass the Bazaar, though some make eye contact and nod as if relieved to have been stopped. In the weeks that follow, the shells in the Court do not keen when the matter is docketed, and you find your name spoken in the Lodge with warmth and in the Conclave with careful pronunciation that leaves room for future concord."
+        },
+        {
+            "id": "M4-C2",
+            "title": "Broker a reef-safe trial under oath",
+            "text": "You step between pilot and prism and propose a third chord, a hush that turns the devices from command to listening until law and rite can catch up. You persuade Liora to retune one lens under the hands of a Reefkeeper and a faithful censer-bearer so that its mouth will only open when both are present, and you bind that promise with a knot tied to the rhythm of the tide. You convince Thalen to allow a single beacon to remain asleep beneath a veil of eelgrass, marked in the League’s secret lantern code as do not touch without stele witness. You write an agreement on salt-slate with the old forms and have Liora sing her name into the grain while a pilot presses his bleeding palm beside it, and you all feel the room of the reef grow larger when patience is given a place to sit. You close the other devices and store their prisms aboard your boat with resin-soaked cloth, and you make the night end with a plan rather than a wound.",
+            "outcome": "The Reefkeepers grumble but accept the oath because it tastes of their own practice, and they admit that a supervised trial can be watched as closely as any storm-run at the caldera. The Faith of Azerene sends a junior priest to smell the truth of the knot, and when she does not wrinkle her nose the lamplighters along the quays pass the word that this is a rare peace worth keeping lit. Liora writes that the reef did not protest the sleeping lens, and the Conclave measures your compromise with cool respect, recognizing a bridge that they did not have the wit to build themselves. Pirates on the Veiled Current do not find any new song to follow, and no fish change their path, and the city learns to wait for once without spinning outrage into rope. Your name rises modestly with both Lodge and Conclave, not to heights but to a place where either will listen when you clear your throat, and the Court sets a hearing that everyone expects to be long, loud, and honest."
+        },
+        {
+            "id": "M4-C3",
+            "title": "Shield the research but silence the reef now",
+            "text": "You kneel with Liora over each device and teach her how Reefkeepers unfasten without scarring, and in return you ask her for copies of her diagrams so that no one can bury the work in a drawer and pretend it was never done. You make it clear that not a single lens will hum again until the Court has heard what you have seen and the Lodge has traced the plumes for three tides to be sure Uln still sleeps. You speak hard to Thalen about not burning the notes, because ignorance is tinder for worse fires, and you remind him of the Storm-Wrath when a generation cut blind and paid in blood. You press Liora’s hand to the boat’s gunwale and promise you will walk with her into the Court even if the shells keen, and you ask her to promise that she will not set a single rune in secret between now and then. Together you lift the last prism and lay it on resin cloth like a wounded bird, and the reef’s pulse returns to its old count as though an ache has left its bones.",
+            "outcome": "The Reefkeepers nod their thanks and whisper that you carried both stone and glass without dropping either, and they invite you to the Lodge to hear the old songs that pilots teach to children when they want them to sleep. The Conclave takes the return of intact research as a grace they did not expect, and a quiet note from an Illuminary lab asks whether you would consider observing future tests as a lay advocate, which is their way of admitting fault without spilling any ink. Faithful eyes notice that you brought rune and rope back together rather than letting them fray apart, and a censer-barge leaves an extra candle at your mother’s sill without a word. There is grumbling in the Prismarium about lost momentum and missed nights of fog-safety trials, but it is tempered by the fact that they keep every curve and measure you saved, and some who wanted you to be an enemy begin to wonder whether you are a hinge. In the months that follow, both factions remember that the reef exhaled easier because of you, and while tempers flare in council chambers, no hands go to knives on the outer rocks where you first stood between hum and hush."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Navigation Token",
+            "description": "Reefkeeper's cut-token allowing safe navigation in marked shoal lanes."
+        },
+        {
+            "type": "Charm",
+            "description": "A single glass-polyp seed charm that hums faintly near razor eels."
+        },
+        {
+            "type": "Reputation",
+            "description": "+Small with Reefkeepers' Lodge, and a minor shift with the Conclave of Prismancers depending on choices made at the reef."
+        }
+    ]
+}

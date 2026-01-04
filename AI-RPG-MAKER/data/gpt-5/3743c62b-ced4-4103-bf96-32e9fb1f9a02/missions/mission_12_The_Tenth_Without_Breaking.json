@@ -1,0 +1,47 @@
+{
+    "id": 12,
+    "title": "The Tenth Without Breaking",
+    "quest_giver": "Saela Morn",
+    "description": "The Wind Court fills with lantern light and sharp breaths. The Skyscribes spool charts across the dais, Mirror Guild apprentices bring lenses wrapped like swaddled infants, and Chainwardens stand with hands clasped as if to keep the city from leaving their fingers. Saela Morn asks Lyris to do what the city has not done in three centuries: speak the truth about motion without letting it be chained or set on fire. Matron Vessa sits in the shade, eyes like the polished backs of beetles, calculating a price for silence; Arch-Warden Mael stands with a mouth that has forgotten how to smile and a heart that maybe remembers how. The Sailor of the Ninth Knot’s voice comes again from nobody and everywhere, and Lyris must choose where to lay the ten-step page: in the Archives under oath, in the market under sun, or in her cloak hem, where secrets sleep and sometimes wake.",
+    "objectives": [
+        "Compile the proof-of-concept data, ten-knot fragments, and safety protocols into a single dossier.",
+        "Present the dossier in the Wind Court with Saela Morn’s advocacy, timing statements with forecasted gusts.",
+        "Negotiate terms with Arch-Warden Mael to establish regulated 'Voyage Hours' for future partial unmoorings.",
+        "Confront Matron Vessa Greye and settle outstanding debts in exchange for limiting Orchid interference.",
+        "Deposit a sealed copy of the ten-step calculus page into the Torsion Archives under a new oathbinding that protects against unilateral use."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Saela Morn",
+            "lines": "Every law is a promise written down where others can see it. If we promise to move only when the city consents, if we promise to stop when she flinches, then we can write a future that doesn’t break anyone’s back. Speak for the wind as if it were a person who will remember what you said when you meet again in a storm."
+        },
+        {
+            "speaker": "Arch-Warden Mael Iqiren",
+            "lines": "I will not bless a revolution. I might, however, bless a schedule. Voyage Hours, measured and bounded, with my hand on a brake I promise never to yank for politics. You will hate me some days for making you stop. I can live with your hate if the city lives with all of us."
+        },
+        {
+            "speaker": "Matron Vessa Greye",
+            "lines": "Debts are a scent. You and I have worn each other’s for too long. I will erase one line with your name if you promise me that the first time this program threatens my profits, you will bring me the truth before you bring it to the bell. Lie to me, and you will not hear the chime that kills you."
+        },
+        {
+            "speaker": "The Sailor of the Ninth Knot",
+            "lines": "The Tenth is not a knife to cut your chains; it is a hand to loosen them when you ask. Put it where it cannot be taken by zeal or greed. Then teach the city to ask, and to answer. You have done enough for today. Let the Old Song find a new verse."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "I place the page where oaths live so that it cannot be bought by a ledger or bent by a chime. We will move when the city is ready and stop when she is not, and anyone who tries to sell that stopping will learn how patient the wind can be when it chooses its debts. I have loved this city long enough to let it leave me, a little, and come back."
+        }
+    ],
+    "connections": {
+        "previous": [
+            11
+        ],
+        "next": []
+    },
+    "rewards": [
+        "Voyage Hours program established (legal framework for controlled partial unmoorings)",
+        "Free-knot charter for a small knot-house teaching oathcraft without guild tolls",
+        "Erasure of one major Night Orchid debt ledger mark",
+        "Honorary title recorded in the Torsion Archives: Waykeeper of the Wind"
+    ]
+}

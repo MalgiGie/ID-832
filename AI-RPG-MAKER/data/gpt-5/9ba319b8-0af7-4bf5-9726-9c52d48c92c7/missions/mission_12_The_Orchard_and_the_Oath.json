@@ -1,0 +1,54 @@
+{
+    "id": 12,
+    "title": "The Orchard and the Oath",
+    "quest_giver": "Tallen Quill (on behalf of the Glass Parliament)",
+    "description": "With the city steady, final work remains: fix the law so it cannot be rewritten in a fog. The Glass Parliament commissions a new root-glass seal from the Glass Orchard’s fulgurite trunks to prevent future forgeries of city charters and to bind the tri-council’s shard protocol. The orchard chimes in a wind like crystal rain; mirror-larks mimic footsteps; cuts can bleed memory. A veiled penitent shows the path to a root where lovers once carved an impossible promise. Tallen Quill asks Raithe to stand guard as the seal is coaxed from the earth and carried back through the city, across the Leviathan Bone Bridge where omens will bless or curse the work. In the Parliament at low tide, the luminous grout glows, and the seal is pressed into wet law. Raithe hears in the chain-song a small change: the city breathes easier.",
+    "objectives": [
+        "Travel to the Glass Orchard and protect craftsfolk as they grow and cut a root-glass seal.",
+        "Resist the orchard’s memory-bleeding hazards and keep Tallen Quill focused on the charter text.",
+        "Carry the seal across the Leviathan Bone Bridge and interpret its rib-shadow omen for a final blessing.",
+        "Install the seal at the Glass Parliament during ebb and witness the enactment of the shard protocol and ring-rights addendum."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tallen Quill",
+            "line": "We write law on glass because it remembers pressure and forgives little. This seal will outlast our bones if we do it right. Keep the orchard’s songs off my skin and I will write our truce into something even House Veyron’s cleverest can’t un-etch."
+        },
+        {
+            "speaker": "Veiled Penitent of the Conclave",
+            "line": "Promises carved here cannot be forgotten and cannot be kept without price. Take only what you must, and leave a vow worth the cut. The orchard loves honesty and hates hurry."
+        },
+        {
+            "speaker": "Nella Shuck",
+            "line": "I never thought I’d see a day when ring-five names were etched beside guild sigils without a riot. If this seal holds, kids will grow up without learning the taste of truncheon varnish. Don’t let anyone snatch it before it kisses the Parliament floor."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "line": "I’ve bled for a lot less than a decent law. We’ll carry this seal through bone and bell and breath, we’ll set it in its circle, and we’ll hold the city to its better self. After that, I’m going to build a small home by the rib and teach hooklings to tie true knots."
+        }
+    ],
+    "connections": {
+        "previous": [
+            11,
+            8
+        ],
+        "next": [],
+        "related": [
+            6
+        ]
+    },
+    "rewards": {
+        "items": [
+            "Root-Glass Seal imprint token (symbolic; grants you the right to request one certified copy of a charter)",
+            "Deed for a modest dwelling near the Leviathan Bone Bridge"
+        ],
+        "coin": 0,
+        "faction": {
+            "name": "Glass Parliament",
+            "favor": "Standing permission to address the floor in emergencies without prior petition."
+        },
+        "unlock": [
+            "Ring-rights for your declared household; one sealed day from your tithe returned to you by Serene Khel."
+        ]
+    }
+}

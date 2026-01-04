@@ -1,0 +1,64 @@
+{
+    "name": "Kael",
+    "surname": "Rimestrand",
+    "age": 27,
+    "race": "Human",
+    "appearance": {
+        "description": "Lean, salt-browned archer with kelp-black hair braided in tight cords, sea-gray eyes, and callused hands inked with faded brine glyphs. Wears bone-scale pauldrons over a reef-cloth coat and carries siltglass goggles on a pearl-cord.",
+        "distinctive_signs": "A crescent pearl-splinter scar along the jaw, lumenkelp threadwork tattoos that dim and brighten with the tide, and a right ear cuff carved from whale-tooth etched in listening sigils."
+    },
+    "class": "ARCHER",
+    "history": "Born among the fishers of the Bonebridge Isles, Kael learned to loose bone-fletched shafts at mirror-crabs across wind-cut channels. A flood year drove their clan into Thassyl, where the Children of the First Shell fed them and taught oaths of safe harbor. As a youth, Kael apprenticed on the Spine Market hauling for the Siltglass Syndicate and learned to read brine glyph stakes the Tidemasons set along safe roads. A Brinewarden scout-muster took Kael into service under Captain Ysger Thorn as a deck-archer and lookout during corsair seasons. Kael gained a reputation for silent shots and fast signal work, guiding cutters by lumen arrows during squalls. After a crackdown on lanternless night-walkers that spilled into a soup line at the Sanctum, Kael confronted the chain of command and resigned the pike. Matron Asha Heliope of the Lumin Weavers hired Kael as a procession guard and night guide, trusting a steady hand to keep glow rites safe through the Whisper Mangroves and along the Spine. Between contracts, Kael runs messages and scouts reef cuts, keeping an ear for the Fathom Tongues’ warnings and an eye out for Gray Sail tricks. A dive at Moonlock Reef with an old friend, Ilya Salt-Kite, revealed a pocket of phosphor coral that thrummed off-pulse and a carved groove that might match the legend of the Moonkey pearl. Since then, Kael has balanced Brinewarden favors, Weavers’ obligations, and the dangerous goodwill of smugglers while the city tightens knots over pearls, glass, and the sea’s will.",
+    "equipment": [
+        {
+            "name": "Spindrift Recurve",
+            "description": "A laminated bone-and-siltglass bow tuned to pull smoothly in damp air; its limbs are wrapped with salt-hardened reed to resist creep. The grip bears a tiny lumenkelp bead that glows when the tide turns."
+        },
+        {
+            "name": "Moonthread Quiver",
+            "description": "Reed-fiber quiver lacquered against brine, holding arrows fletched with dried lumenkelp and gull-feather vanes; includes three signal shafts that flare blue, green, or dim amber when loosed."
+        },
+        {
+            "name": "Jawbone Grapnel",
+            "description": "A light hook carved from a sailfish jaw with a siltglass bite, thrown with a braided rope for scaling rib arches and snagging skiffs without piercing hulls."
+        },
+        {
+            "name": "Siltglass Goggles",
+            "description": "Blue-green lenses polished with mirror-crab carapace; reduce glare on the Siltglass Flats and protect eyes from salt-winds and iron-gnats."
+        },
+        {
+            "name": "Brine Glyph Ledger",
+            "description": "Oilskin-wrapped booklet of flow marks and ward paths copied from Tidemason stakes, annotated with Kael’s own notes on safe cuts and flash-tide signs."
+        },
+        {
+            "name": "Whalesong Reed Whistle",
+            "description": "A narrow reed tuned to a harmless call used by Fathom Tongue sympathizers to signal quiet passage without metal bells near Singer’s Trench."
+        }
+    ],
+    "main_attributes": {
+        "strength": 5,
+        "agility": 8,
+        "constitution": 6,
+        "intelligence": 7,
+        "wisdom": 6,
+        "charisma": 5,
+        "dexterity": 9,
+        "endurance": 7,
+        "perception": 9,
+        "luck": 6
+    },
+    "soft_skills": [
+        "Tide route navigation",
+        "Guild diplomacy",
+        "Reading brine glyphs"
+    ],
+    "relationships": {
+        "Ilya Salt-Kite": "Childhood friend from the Bonebridge Isles turned gray-sail courier; Kael once pulled Ilya from a Brinewarden sweep below the Spine Market and now trades quiet favors while refusing to carry contraband that would gut local wards.",
+        "Ysger Thorn": "Former commanding officer in the Brinewardens; mutual respect tempered by a bitter dispute over a harsh night crackdown. Thorn still taps Kael as a freelance tracker when the whale-road goes strange.",
+        "Asha Heliope": "Matron of the Lumin Weavers and current patron; trusts Kael to guard night processions and to escort lumenkelp strains between cloisters and the Moonlock Lighthouse. Advises caution around the Pearl Compact’s claims."
+    },
+    "ambitions": "To chart a neutral, safe-cut network independent of cartel tolls, prove who is throttling flow quotas to sway votes over the Shellspire, and find the true Moonkey pearl before the wrong hands sing the city into ruin.",
+    "flaws": "Restless and distrustful of rigid authority; holds grudges longer than is wise; tinnitus from a botched sounding near Singer’s Trench can muddle hearing when echoes build.",
+    "dreams": "To one day teach archery and tidecraft to ward orphans under a roof lit by living light, and to stand atop Veloros’s spine if the Long Note ever wakes the bones to walk.",
+    "secrets": "Kael keeps a resonant shard lifted from a drowned passage of the Thalassarium that can mimic a fragment of the Tongues’ chord rumored to open a hidden Tide Loom bypass. On a fog night, Kael also altered the Moonlock signal pulse to draw Brinewarden cutters away from a Weavers’ procession—and accidentally cleared a channel a Gray Sail skiff used to slip a tariff line."
+}

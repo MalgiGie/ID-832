@@ -1,0 +1,67 @@
+{
+    "name": "Keth",
+    "surname": "of the Nets",
+    "race": "Human",
+    "age": 39,
+    "appearance": "Lean broker with a smile like a cut and hands inked in ladder maps. Wears a patchwork vest lined with hidden pockets and knife-sheaths.",
+    "character": "Silver-tongued, careful with knives and promises. Keeps three exits in sight at all times.",
+    "traits": [
+        "Cunning",
+        "Paranoid",
+        "Charismatic",
+        "Resourceful",
+        "Patient when profit grows"
+    ],
+    "skills": [
+        "Route mapping through ribs and reed",
+        "Bribery and blackmail",
+        "Disguise and voice-cant",
+        "Knife fighting at close quarters"
+    ],
+    "talents": [
+        "Remembering debts and favors by touchstones",
+        "Loosening a rung with one tap",
+        "Reading crowd flow like current"
+    ],
+    "flaws": [
+        "Sentimental about old crews",
+        "Trusts too few",
+        "Underestimates zealots"
+    ],
+    "dreams": [
+        "Place a proxy in the Salt Parliament",
+        "Own a legitimate salt basin family by paper",
+        "Acquire a key to the Engine for leverage"
+    ],
+    "secrets": [
+        "Keeps a duplicate ledger hidden in a knot-rope niche in the Lantern",
+        "Sold a false map that sent a Warden patrol into mangrove quickmire",
+        "Pays temple tithe in someone else's name"
+    ],
+    "relations": [
+        {
+            "npc_name": "Isera Bent-Pike",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Sela Tidecount",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Caur Spinekeeper",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Yasma Brine",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Jaxin Brail",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Aro Pike-Second",
+            "relation_type": "Revenge"
+        }
+    ]
+}

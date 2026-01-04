@@ -1,0 +1,54 @@
+{
+    "id": "M1",
+    "title": "Bells Beneath the Starspan",
+    "quest_giver": "Asha Greyling",
+    "description": "Dusk bleeds copper into the braided rivers as prayer-bells under the Starspan answer one another like distant cousins. Prior Asha Greyling asks you to come without cloak-show or guild-banner, to stand in the bell-room and listen for the breath between beats. The Order of the Basalt Arch believes the Loom of Tides has begun to breathe wrong, a subtle quickening like a racing heart that denies it is afraid. If the Loom stutters, prophecy says, the Starspan will split and the river will choose its own throne. She wants you, a creature of locks and oaths and culverts, to hear what most cannot: the city's rhythm tugging off-true.\nBeneath the arch's pitted ribs you can smell iron damp and votive ribbon dye. Bellkeeper Dorn gestures to the shadowed niches where the old rock hums in sympathy. You pin a ribbon where thousands of pleas hang heavy with salt and dust, and you promise Asha to carry the Order’s omen to those who keep the cogs. You feel your own voice echo in your bones, a half-breath late, as if the stone is thinking about what you said and answering back.",
+    "objectives": [
+        "Meet Prior Asha Greyling at the Starspan Shrine at dusk",
+        "Descend with Bellkeeper Dorn to the bell-room and listen to the arch’s hum",
+        "Pin a votive ribbon and swear to carry a true omen-report",
+        "Deliver the Order’s report to Magister Vell at the Loom of Tides",
+        "Note any signs of strain in the Loom’s outer wheels and report back"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Asha Greyling",
+            "text": "I asked for you because you walk where vows breathe and where water pretends to be tame. The bells say the Loom has picked up a second voice, like a singer pushing too hard. The arch remembers calamity more clearly than joy, Lio, and it has started to flinch between notes. If we are to keep the memory of our city from splitting like poor-fired glass, we must act before the crack sings loud enough for merchants to hear profit in it."
+        },
+        {
+            "speaker": "Bellkeeper Dorn",
+            "text": "Close your eyes and listen with the bones at the back of your neck. Hear the wheel-teeth counting their blessings in iron, hear the river trying to keep time with them and missing half a sip. It feels like a swimmer who can’t decide if they’ve enough breath to dive. I do not like it. I hear the way the old fractures gather breath like a sigh before a collapse."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "I hear it, though my echo plays tricks when rooms go still. It’s like a keel off true in a slow-current—easy to ignore until you run the shoals. I’ll carry your words to the Loom, and I won’t soften them for politics. If there’s a hidden wheel or a hidden will behind this, I know where the culverts keep their secrets."
+        },
+        {
+            "speaker": "Asha Greyling",
+            "text": "Good. Take our ribbon with you as a witness that the Order spoke plainly. Magister Vell chases the river’s song with machines and bright ore; ask them to measure humility as well as resonance. And Lio, if the Loom must slow to keep the arch whole, I would have you say it first in places where such truths can be heard without being strangled."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "Then I’ll be your bell on the move. I’ll tell the Collegium what the stone told me, and I’ll listen to what they aren’t saying back. If we must teach Miravale to breathe in time again, better to start with the lungs than the throat."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ],
+        "related_locations": [
+            "The Starspan (Basalt Arch) Shrine",
+            "The Loom of Tides"
+        ],
+        "factions_involved": [
+            "Order of the Basalt Arch",
+            "Cobalt Collegium"
+        ]
+    },
+    "rewards": [
+        "Order bell-token granting sanctuary at the Starspan Shrine",
+        "Access permission to the Loom of Tides’ public catwalks",
+        "Reputation (modest) with the Order of the Basalt Arch"
+    ]
+}
