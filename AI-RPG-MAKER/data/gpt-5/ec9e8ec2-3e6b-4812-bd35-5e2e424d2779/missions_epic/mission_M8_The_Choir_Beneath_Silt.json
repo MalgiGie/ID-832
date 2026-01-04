@@ -1,0 +1,74 @@
+{
+    "id": "M8",
+    "title": "The Choir Beneath Silt",
+    "quest_giver": {
+        "name": "Myris Khel",
+        "affiliation": "Faith of Azerene, the Censered Tide"
+    },
+    "description": "When the tide loosens its grip and the marsh exhales, the Silted Basilica bares pearled ribs to the gray light and the organ of shells groans a chord that tastes like old vows. The living towers of Marinth Vell hum in sympathy, and even the Beacon of Myr Sal sends a thin keen that makes knives second-guess their edge. Myris Khel of the Faith believes the city's restless singing answers an older choir, and that the Nacre Crown sleeping below can hush lies long enough for truth to stand without leaning. The League of Lanterns has set a secret braid of lamp-signs and phosphor chips, mapping a descent path that holds for the space of a single tide and no longer. You will descend on a waist-line and a prayer, the marsh-knot charm salted on your wrist and a fulgurite shard warm against your throat, and you will hear questions that sound like your own breath being measured. The shells are kinder than men but less patient, and they ask in music what courts ask in ink. Echo-sickness turns thoughts into ringing, and the organ will try to tune your spine to its hymn; keep your rhythm steady or it will steal parts of your memory like a tide taking steps from a staircase. In the nave’s silted tilt a reliquary waits, guarded by bubbles that take breath as tax for passage, their shimmer counting pulse and promise. Bring the Nacre Crown up and give it to hands that smell of brine and oil and oath-smoke, and do not wear or test what was meant to measure cities, not heads. You will return with lungs that have tasted a cathedral’s silence and a voice that can still a quarrel the way low water stills a channel around a grounded hull.",
+    "objectives": [
+        "Descend into the Silted Basilica during low tide using League of Lanterns markers.",
+        "Navigate echo-sickness and the shell organ’s resonance to reach the reliquary.",
+        "Retrieve the Nacre Crown and deliver it to the Faith without wearing or testing it."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Myris Khel",
+            "lines": "Be light in your breathing and heavy in your promise, Tairn Latch, for breath and promise are coin in the Basilica and the shells know counterfeit. The Crown is not for wearing and not for testing; it is for remembering where truth lives when markets and councils forget the door. If you feel the organ lean its music through your bones, count your strokes and think of the ferry rhythm that never drowned you; echo-sickness feeds on the gaps between beats. Do not lie to the shells, not even in the safe chamber of your skull, because their hearing is older than language and sharper than debt. Bring the Crown to me at the Court of Echoing Shells, and I will place it where clean hands can reach and no purse can tempt the keeper, and I swear by Azerene’s hush that no name scraped upon it will be sold or softened. The League has set a lantern road that will hold through one falling tide only, and if you miss its last lamp you will learn what it is to be prayed over by silt. Take this shell with soot and salt, kiss it dry, and remember it demands truth before it grants air."
+        },
+        {
+            "speaker": "Tamas Eelwick",
+            "lines": "I’ve lit the way as far as a man can without growing gills, brother, and I’ll be on the winch with my palms salted and my eyes on the line. The markers are reed twists with a smear of blue phosphor under the knots; you’ll see them like slow stars when you shade your lamp and let your eyes learn the water. Count to six between each marker in the long corridor and to four in the short, and if you feel the counting try to get clever and add or skip, spit into your palm and start again because the organ loves a proud counter. If the bubbles come thick and your chest tightens like the Bastion’s fist, pull twice hard and once soft and I’ll feed slack; any more and you’ll have the Wardens asking why I drowned a friend for a crown. Should the bell of the Basilica ring—and it might, traitor or no—bite your knot-charm and think of the Bone Bridge at dusk, because that thought has led more than one fool home by the long way. If I flash two shorts and a long with the lantern, it means the Veils are folding and you’ve got one lull left before the Current tugs; don’t make me send a boat where boats don’t belong."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "lines": "I’ve been under chains and under storms, Myris, and I’ve had my ribs tuned by a deck that rose faster than my breath, but I’ve not yet bowed to a bishop’s bones and I don’t plan to start. If something down there asks me a question I cannot answer, I will keep moving and count, and if it asks me a question I must answer, I will answer plain and let the shells judge whether I earn another lungful. I will not wear the Crown and I will not test it, not even to hush a quarrel that begs for quiet, because some tools are meant to rest between wars and I am not a war on two boots. I don’t trust light-tricks after the Bazaar hearing, but I trust the League’s lantern math when it’s your hands, Tamas, and I trust the Faith’s shells more than I trust papers that burn. My father’s name lives on a promise I made in the Lamplands and it will not be written under Lost if I can help it, and I’ll come back up with a thing that belongs to the city and not to any one head. If the organ tries to teach me its hymn, I’ll hum back the ferry-song and let my scars remember which beat saved which body."
+        },
+        {
+            "speaker": "The Pearl-Warder",
+            "lines": "I bartered my bones into pillars and my breath into tides so the coast would not wander, and I remain because the city keeps setting wagers against its own memory. You wear a hook that is not greedy and you carry a knot that remembers the hands that tied it, and that is almost enough for safe passage and sometimes enough to raise a child. Do not lie to me, child of the marsh; one lie here and the Basilica will take a day to teach Marinth Vell how lungs fill with salt when vows are sold, and the choir above will learn to keen for real. The Crown you seek is a cup for truth and a mirror for debt, and heads that wear it forget where their mouths belong; take it without tasting and hold it like a knife you have sheathed for a friend. Promise me on your shard of lightning that your oath warms, and promise me on your shard of fear that you know you could fail and will not pretend otherwise. If you keep those promises, the bubbles will count you as one of mine for a breath and a half, and that will be enough. Return the Crown to hands that burn brine without perfume, and tell them an old saint is listening for whether their shells keen out of duty or out of love."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Walk the Lantern Road",
+            "text": "You trust the League’s descent to the measure, and you become a metronome of muscle and salt, counting beats between the dim stars Tamas braided into the dark. You shade your lamp until it is a whisper and you let the phosphor knots do the speaking, a galaxy of low blue that your eyes learn without asking permission from fear. Every kick is a phrase of a song you have always known, ferry poles and chainhouse drills and the soft syllables of a mother telling you not to slip, and the organ’s groan fades to background like rain past a roof. When the echo tries to lick inside your skull, you bite the knot-charm and hum the ferry rhythm until your teeth click in time and the echo slinks away hungry. You reach the reliquary not as a conqueror but as a punctual guest, the bubbles furling like curtains at a theater that recognizes your ticket and your cloak, and the Crown gleams like a moon poured into a bowl.",
+            "outcome": "You lift the Nacre Crown with careful hands and with a line still tight at your waist, and the bubbles flutter their tax but the debt they demand is nothing a long exhale cannot pay. On the return, the organ swells once and you feel a tug at a memory of your father’s laugh, but your count holds and it slips away like a fish between fingers it does not trust. Tamas’s lantern beats two short and a long as you rise, and you surface in time to throw your forearms over the skiff’s gunwale and cough brine and a laugh that doesn’t hurt anything. In the Court of Echoing Shells, Myris Khel receives the Crown with palms open and shells hush around your admission that you did not test the cup, and the judges’ masks tilt like satisfied gulls. For the rest of your days you find a word in your mouth that can calm a flare of fists and noise, and the League gifts you a tide-chart whose lines read like a promise; the Faith’s regard weighs gentle on your shoulder like a stole of cool water."
+        },
+        {
+            "id": "C2",
+            "title": "Swear the Pearlbond",
+            "text": "You face the revenant’s choir with no mask and let the Pearl-Warder’s old tide wash the silt from your stubbornness, then you speak the oath she asks for in a voice that knows the cost of a glove bricked into a wall. You promise on warmed fulgurite and on the cold in your gut, and you do not hide the fear that you will be asked to tell a truth you have not told even to yourself. The bubbles draw close as witnesses and each one becomes a living lens, showing you a hundred small promises you kept without applause and one promise you have misplaced among shadows. You are honest about the loss and you name it without naming the drowned Warden, and the choir answers with a softening that is almost a blessing and very much a warning. The reliquary opens like a jaw that has decided not to bite, and you lift the Crown as if it were a sleeping child you have been asked to carry to a bed you do not own.",
+            "outcome": "A hush walks with you up the line as if a saint took your elbow, and even the organ’s swell feels like the breath of a mother lowering her voice so a tired house can sleep. You breach the surface and Tamas sees in your face a pledge heavier than any anchor, and he nods the way a friend does when he decides not to ask for details that are not his. At the Court, the shells keen once in recognition and then hush as Myris places the Crown upon a stand of plain salt, and she touches your wrist and says she heard your vow sing true as a storm line in still air. The ability to still crowds settles into your throat like a new tone, not learned so much as remembered, and you find brawls quiet when you speak with that note threaded through. The League’s tide-chart is placed in your palm with a wink from a Lantern who respects a man who can bind himself without a knot, and the Faith’s regard warms enough to light your way through doubts without burning your fingers."
+        },
+        {
+            "id": "C3",
+            "title": "Cut Your Own Current",
+            "text": "You decide the Basilica will not be allowed to lead, and you throw a loop of line to a tusk of pearled column and make your own anchors, moving in deliberate jerks that confuse echo and organ both. You keep your lamp a fraction brighter, trusting motion and steel and a marshborn’s instinct over mapped constellations, and you make a rhythm out of labor instead of liturgy. The bubbles swarm like curious birds around a plow and they peck at your breath, but you pay them with small coins of air and a steady glare that says you owe no more. Silt surges once as if offended by your refusal to dance, and your chain-hook punches into a seam of old nacre that holds like a friend’s wrist in a crowd. You pull yourself to the reliquary by choices rather than by signs, and the Crown meets your hands with the weight of something that has been waiting for a particular kind of stubbornness.",
+            "outcome": "On ascent the Basilica springs one last riddle and the water turns a half-blind, but Tamas sees your line jerk in a language only brothers read and he calls the lift with a hiss and a prayer that tastes of oil and salt. You come up with grit in your teeth and singing in your ears, and you spit both into the skiff and grin because you did not let a cathedral choose your steps. At the Court, the shells ring in curiosity at your improvised path and then still when you speak cleanly that you did not wear or test the Crown, and Myris’s smile has a shade of reprimand wrapped in pride. Your new hush comes with a rasp at the edges as if it remembers silt, and it works on tempers like a hand on a bell, stilling the clapper without silencing the metal. The League’s tide-chart is gifted anyway, annotated with a Lantern’s note about when to trust stubbornness and when to trust stars, and the Faith’s goodwill settles on you like a mantle you can shoulder without your back asking for mercy."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Ability",
+            "description": "Azerene’s Hush: once per day you can steady a panicked crowd or hush a brawl with a word, the hush carrying the cool, tide-heavy calm you brought back from the Basilica."
+        },
+        {
+            "type": "Map",
+            "description": "League of Lanterns tide-chart for the Basilica channels, inked with safe descent windows, echo-shelter eddies, and danger folds that shift with the Veils."
+        },
+        {
+            "type": "Reputation",
+            "description": "Reputation gain: +Medium with Faith of Azerene and +Small with League of Lanterns for returning the Nacre Crown without wearing or testing it."
+        }
+    ]
+}

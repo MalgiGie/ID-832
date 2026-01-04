@@ -1,0 +1,357 @@
+[
+    {
+        "from": "Lysa Shardhands",
+        "to": "Neris Aline",
+        "type": "Alliance"
+    },
+    {
+        "from": "Lysa Shardhands",
+        "to": "Iven Shadequinch",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Lysa Shardhands",
+        "to": "Garrin Chainwatch",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lysa Shardhands",
+        "to": "Sava Inkweft",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lysa Shardhands",
+        "to": "Thane Kelvar",
+        "type": "Different goals"
+    },
+    {
+        "from": "Neris Aline",
+        "to": "Lysa Shardhands",
+        "type": "Alliance"
+    },
+    {
+        "from": "Neris Aline",
+        "to": "Ina Peppercoal",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Neris Aline",
+        "to": "Thane Kelvar",
+        "type": "Different goals"
+    },
+    {
+        "from": "Neris Aline",
+        "to": "Rook Salter",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Neris Aline",
+        "to": "Sava Inkweft",
+        "type": "Alliance"
+    },
+    {
+        "from": "Thane Kelvar",
+        "to": "Lysa Shardhands",
+        "type": "Different goals"
+    },
+    {
+        "from": "Thane Kelvar",
+        "to": "Neris Aline",
+        "type": "Different goals"
+    },
+    {
+        "from": "Thane Kelvar",
+        "to": "Garrin Chainwatch",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Thane Kelvar",
+        "to": "Iven Shadequinch",
+        "type": "Alliance"
+    },
+    {
+        "from": "Thane Kelvar",
+        "to": "Borgo Emberdell",
+        "type": "Alliance"
+    },
+    {
+        "from": "Thane Kelvar",
+        "to": "Rook Salter",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ina Peppercoal",
+        "to": "Borgo Emberdell",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ina Peppercoal",
+        "to": "Thane Kelvar",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ina Peppercoal",
+        "to": "Neris Aline",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ina Peppercoal",
+        "to": "Garrin Chainwatch",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ina Peppercoal",
+        "to": "Jaya Basaltrip",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ina Peppercoal",
+        "to": "Mara Tidecall",
+        "type": "Friendship"
+    },
+    {
+        "from": "Iven Shadequinch",
+        "to": "Thane Kelvar",
+        "type": "Alliance"
+    },
+    {
+        "from": "Iven Shadequinch",
+        "to": "Lysa Shardhands",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Iven Shadequinch",
+        "to": "Rook Salter",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Iven Shadequinch",
+        "to": "Tala Fenmint",
+        "type": "Friendship"
+    },
+    {
+        "from": "Iven Shadequinch",
+        "to": "Sava Inkweft",
+        "type": "Different goals"
+    },
+    {
+        "from": "Iven Shadequinch",
+        "to": "Erynn Mirrorfall",
+        "type": "Different goals"
+    },
+    {
+        "from": "Borgo Emberdell",
+        "to": "Ina Peppercoal",
+        "type": "Conflict"
+    },
+    {
+        "from": "Borgo Emberdell",
+        "to": "Thane Kelvar",
+        "type": "Alliance"
+    },
+    {
+        "from": "Borgo Emberdell",
+        "to": "Jaya Basaltrip",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Borgo Emberdell",
+        "to": "Rook Salter",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Borgo Emberdell",
+        "to": "Garrin Chainwatch",
+        "type": "Different goals"
+    },
+    {
+        "from": "Borgo Emberdell",
+        "to": "Erynn Mirrorfall",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Garrin Chainwatch",
+        "to": "Lysa Shardhands",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Garrin Chainwatch",
+        "to": "Thane Kelvar",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Garrin Chainwatch",
+        "to": "Ina Peppercoal",
+        "type": "Friendship"
+    },
+    {
+        "from": "Garrin Chainwatch",
+        "to": "Rook Salter",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Garrin Chainwatch",
+        "to": "Sava Inkweft",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sava Inkweft",
+        "to": "Lysa Shardhands",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sava Inkweft",
+        "to": "Neris Aline",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sava Inkweft",
+        "to": "Iven Shadequinch",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sava Inkweft",
+        "to": "Garrin Chainwatch",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sava Inkweft",
+        "to": "Tala Fenmint",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sava Inkweft",
+        "to": "Erynn Mirrorfall",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rook Salter",
+        "to": "Thane Kelvar",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Rook Salter",
+        "to": "Iven Shadequinch",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rook Salter",
+        "to": "Garrin Chainwatch",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Rook Salter",
+        "to": "Borgo Emberdell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rook Salter",
+        "to": "Mara Tidecall",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Rook Salter",
+        "to": "Tala Fenmint",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mara Tidecall",
+        "to": "Rook Salter",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Mara Tidecall",
+        "to": "Ina Peppercoal",
+        "type": "Friendship"
+    },
+    {
+        "from": "Mara Tidecall",
+        "to": "Lysa Shardhands",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Mara Tidecall",
+        "to": "Thane Kelvar",
+        "type": "Conflict"
+    },
+    {
+        "from": "Mara Tidecall",
+        "to": "Jaya Basaltrip",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tala Fenmint",
+        "to": "Iven Shadequinch",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tala Fenmint",
+        "to": "Sava Inkweft",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tala Fenmint",
+        "to": "Neris Aline",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tala Fenmint",
+        "to": "Lysa Shardhands",
+        "type": "Different goals"
+    },
+    {
+        "from": "Tala Fenmint",
+        "to": "Rook Salter",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jaya Basaltrip",
+        "to": "Ina Peppercoal",
+        "type": "Alliance"
+    },
+    {
+        "from": "Jaya Basaltrip",
+        "to": "Borgo Emberdell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jaya Basaltrip",
+        "to": "Mara Tidecall",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jaya Basaltrip",
+        "to": "Thane Kelvar",
+        "type": "Conflict"
+    },
+    {
+        "from": "Jaya Basaltrip",
+        "to": "Lysa Shardhands",
+        "type": "neutral"
+    },
+    {
+        "from": "Erynn Mirrorfall",
+        "to": "Borgo Emberdell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Erynn Mirrorfall",
+        "to": "Ina Peppercoal",
+        "type": "Friendship"
+    },
+    {
+        "from": "Erynn Mirrorfall",
+        "to": "Iven Shadequinch",
+        "type": "Different goals"
+    },
+    {
+        "from": "Erynn Mirrorfall",
+        "to": "Sava Inkweft",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Erynn Mirrorfall",
+        "to": "Neris Aline",
+        "type": "Friendship"
+    }
+]

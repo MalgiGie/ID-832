@@ -1,0 +1,42 @@
+{
+    "id": "M1",
+    "title": "Lanterns in the Reeds",
+    "quest_giver": "Daru Fenlik",
+    "description": "A harvest barge vanished on a moonless turn in the Shardmere, and the Lantern Court needs answers before rumor becomes riot. Inspector Daru Fenlik, eyes red from long nights under soot-lamps, presses a sealed writ and a waxed packet into your palm. The writ grants you temporary authority to investigate canalside and reedbeds; the packet holds charcoal sketches of a cove at the beds’ edge where black-glass reeds are said to sing a cracking note. The city is tense: the Weavers whisper about sabotage, the Tidewrights blame smugglers, and pilots in Molden Quays add fresh knots to the memorial rope. Daru wants you to find the barge’s lanterns, retrieve any ledger or route tokens, and bring what you learn to the House of Quiet Wings, where the Order will test the soot on the wicks. You will need a pilot who knows the reeds’ moods; Nelai Pruen, a fisher who reads knots like scripture, is waiting by a skiff with oars wrapped in mothcloth.",
+    "objectives": [
+        "Meet Daru Fenlik at the Hall of Lanterns and receive the writ of inquiry.",
+        "Travel with Nelai Pruen to the Shardmere cove marked in the sketches.",
+        "Recover the barge’s burned lanterns and any route tokens or ledgers.",
+        "Deliver the items to the House of Quiet Wings for mothwax testing.",
+        "Report preliminary findings to Daru Fenlik in Candlecourt."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Daru Fenlik",
+            "line": "You still carry the smell of the quays, Orrel, and that is why I asked for you. The Court needs eyes that don’t blink when reeds start to sing or when a pilot curses the bells. Don’t mistake my manners for friendship; I have a stack of writs prepared for the day the city drowns in rumor and I will sign them without a tremor if I must. Bring me lanterns, not stories, and if the Veil has a hand on this rope I want to feel it burn."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "I grew up counting those lanterns on my way to dawn shifts, Daru. When they go dark, people stop eating and start carrying knives. I’ll find what burned and who set the flame, and I’ll lay it on your mosaic river so you can point a finger without guessing. But don’t ask me to twist a pilot’s tongue for your ledger’s comfort."
+        },
+        {
+            "speaker": "Nelai Pruen",
+            "line": "You tie your knots like a Windward graduate, neat as a bell-clerk, and that’s a fine way to drown. In the reeds you tie for feel, not for show. The cove we’re headed to hums wrong in a south wind, and the fish turn to glass when you stare too long. If the Reedmother knotted those channels to keep fools out, we’ll ask permission with our oars and go in on the hush."
+        },
+        {
+            "speaker": "Pesha Lume",
+            "line": "Bring any soot you find to our moths without letting it taste open flame. Soot remembers the last breath that fed it; in stillness, it will tell us whether it tasted fear or calculation. The House will speak softly in return, as we always do, but make no mistake: if the night itself warned us last winter, this is not the end of the warning."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        "Lantern Court stipend (modest coin)",
+        "Temporary Investigator’s Writ (grants leniency at quays for the next mission)",
+        "Order of Moths favor (minor): access to the Listening Cloister for one consultation"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "M7",
+    "title": "The Bell-Chart of Farsong",
+    "quest_giver": "Seler Daki",
+    "description": "The Archive of Unnamed Days needs the bell-chart from Farsong Monastery Ruins to decode a palimpsest overlaying Thyssara with an older moth-shaped city. Seler Daki, a scribe with ink under every nail and a memory for the sound of rain, asks you to guide him to the cliffside cloister. The wind there eats words and turns them into music, and the lower cells are painted with moths and bells that have not rung in a century. A cave behind a broken organ pipe is said to breathe warm air and whisper of a market with no dawn; Seler wants nothing from that market, only the chart in the abbot’s cell. The sea may be visible, a knife of iron-blue on the horizon; the path is narrow, the past narrower.",
+    "objectives": [
+        "Escort Seler Daki safely to the Farsong Monastery Ruins.",
+        "Locate the abbot’s cell and retrieve the original bell-chart.",
+        "Resist the lure of the ‘market with no dawn’ behind the organ pipe.",
+        "Evade scavengers and return by a safe cliff path.",
+        "Deliver the bell-chart to the Archive of Unnamed Days."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Seler Daki",
+            "line": "The bell-chart is not just notation, Kade. It is a map of consent between stones and air, a record of how a city agreed to remember itself. With it, the palimpsest in our Archive will stop crawling under my fingers and lie still long enough to be read. Walk ahead of me when the path narrows; I do not mind staring at your back if it means I do not stare into the drop."
+        },
+        {
+            "speaker": "Mira Cael",
+            "line": "Wardens have flown patrols over Farsong, and I’ve picked two spots where the cliff won’t pretend to be rock and then become air. Whistle twice if the wind turns sour and I’ll throw you a rope from above. I don’t trust monasteries that make music when no one’s there. That’s a kind of hunger."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "I grew up with a memorial rope under my fingertips, and I’ve learned the difference between a knot that holds and a knot that hopes. We’ll take the chart, we’ll leave the market, and if any old bells try to recruit us, we’ll answer with our feet. Keep your eyes on the stone and I’ll keep the wind honest."
+        },
+        {
+            "speaker": "Pesha Lume",
+            "line": "When you bring the chart, bring also the smell of it if you can. Dry parchment remembers the room it slept in. We will match its breath to our palimpsest and hear what louder cities could not hear through their own shouting."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        "Order of Moths favor (major): permission to consult the Hall of Unnumbered Calendars",
+        "A windline token from Mira Cael (emergency aerial extraction signal)",
+        "Insight: knowledge that the palimpsest marks a lightwell widening under the Prism Spire"
+    ]
+}

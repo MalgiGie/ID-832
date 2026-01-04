@@ -1,0 +1,100 @@
+{
+    "id": "M4",
+    "title": "Teeth of Saltfang",
+    "quest_giver": {
+        "name": "Oaric Bent",
+        "affiliation": "Order of Tidemasons"
+    },
+    "description": "Beyond the jaw gates the Saltfang Geysers fling scalding banners skyward, their white plumes torn by crosswinds and braided into steaming veils that hiss like serpents with a choir of boiling tongues. Bone-braced scaffolds sway and creak, canvas scoops gulping the mineral rain into carved troughs that feed mills, furnaces, and the humming looms beneath Thassyl. A grit that is not silt has crept into the siphons, and teeth that are not rats have gnawed at seals, leaving wounds on the works like bite marks on a promise. The Tidemasons have sworn a brine oath that failure through neglect will be atoned by drinking salt to the dregs before the Council, and the taste of that shame has already salted their sleep. Kael Rimestrand is tasked to walk the ring with Oaric Bent, to taste the spray for iron and for lies, to smoke away iron-gnats that thirst for the song of metal, and to catch the shadow of the crew who salted a quiet vent for a falsehood. Arno Kest of the Siltglass Syndicate waits on pure rime-salt to keep lenses from clouding and panes from warping, and a single scald in the wrong vein can sour a season’s worth of glass and coin. The vent field is a mirrored inferno beneath a sky smelling of brine and metal, and every step is a wager laid against heat, pressure, and the greed of those who would sell a city’s breath for a margin.",
+    "objectives": [
+        "Meet Oaric Bent at the Saltfang maintenance platform and swear a witness’s brine oath.",
+        "Inspect three siphon heads and collect scrapings for alchemical assay.",
+        "Drive off iron-gnats using smoke and avoid scald plumes during a pressure surge.",
+        "Discover and document signs of sabotage implicating an outside crew.",
+        "Deliver findings to Oaric and send a sealed copy to Arno Kest."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Oaric Bent",
+            "lines": "Every plank here is married to a promise, and every promise is married to a flood that waits behind its patience like a hand behind a door. If the siphons choke, the mills cough, the looms complain, and then the city weeps and calls it weather when it is neglect. I do not dress prayers in pretty words, archer, for words do not tighten bolts or teach a gear its duty. I patch and I swear, and today I ask you to witness what I swear so the salt will take me if I lie. Drink with me a mouth of brine, taste this oath on your tongue, and keep your eyes clean of fear so you can see the hand that meddles where only tide should move."
+        },
+        {
+            "speaker": "Arno Kest",
+            "lines": "I would sooner stand before a roaring kiln than on a scaffold that sweats itself slick as glass, yet here I am because a furnace cannot see a sabotage and a kiln cannot lift a wrench. My founders and I need the rime-salt pure or the lenses cloud and the panes sing false when the wind presses, and then our stamp becomes a joke sold in alleys by boys with counterfeit marks. I smell grit in the brine like cheap ambition ground fine, and I have seen seals chewed in a way that speaks of hands, not hunger. My guild can fight market tricks with ledgers and purity stamps, but this is the sort of trick that scalds skin and takes fingers, and I will not have it on my men. Find me the proof that a foreign crew salted a quiet vent for their lie, and I will polish that proof until even the Council sees its edges without squinting."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "I have read the dance of water since I was tall enough to lean over a skiff’s gunwale and watch weed shiver when a hidden eddy pressed it, and I will read this dance too. If someone salted your vent for a false tale, the brine will hold its flavor, and their tools will tell on them like tongues numbed by too much oath-salt. My arrows will not help much against steam, but my hands are quick and I know how to wrap metal from gnats that drink edges dull. I will walk the ring beside you, Master Bent, and I will note every scrape and stain like I note wind on a string and the lag-twitch of a gull before it turns. When we have our proof, we will carry it where it must go, and we will carry it sealed so no one can pick the wax and change the words while we blink."
+        },
+        {
+            "speaker": "Oaric Bent",
+            "lines": "Mind the surge bell and listen for the low throb beneath the hiss, for the teeth bite hardest when they pretend to be gums and then laugh when you lean in. The iron-gnats come when we sing with tools, and they love the glitter of a fresh edge like a miser loves coin, so smother shine with oil and canvas and they will seek easier feasts. When you scrape, scrape along the teaching of the grain and not across it, because the metal remembers kindness and breaks less when it is treated like a friend. See the brine color when I lift this scoop and watch the way it streaks on the pan, because pure flow runs like a clear sentence and foul flow stutters like a liar caught short of words. If a hand has meddled, it will leave not just marks but attitudes, and I want you to write those in your ledger as if they were the names of guilty tides."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "Here at the first siphon I see scrapes that cut across the seam as if a wrench with no right to be here sought leverage where a craftsman never would, and the cut lips of the seal have a human impatience to them. In the mouth of the second siphon the grit glints a thin mean green, not the honest brown of silt nor the white fleck of salt, and it carries a vinegar scent like certain foreign glass batches I hauled once under an angry sky. A third head shows fibers trapped under a bolt that match rope made on flats where the knots are tied quick and lazy, and this pattern is not the pattern of your crews who tie their ends like prayers. My smoke drive pushes the iron-gnats into a black buzzing cloud that flinches from our covered tools and drinks the breath of my hood instead, and I keep my goggles down while the plumes kick higher on the surge. I have sketched each wrongness in my ledger and taken scrapings in three vials marked by notch and stain, and the pattern is a hand that came from outside and did its mischief between whistles."
+        },
+        {
+            "speaker": "Oaric Bent",
+            "lines": "You have brought me proof instead of panic, and in this season that is rarer than a councilor’s unpaid meal, and I am grateful enough to say it plain. Everyone is selling fear these days because fear is cheaper than salt and it lasts longer on the tongue, but proof is heavy and sinks, and that is why few carry it. These fibers and this grit and these spiteful cuts sing together, and their song is not ours, and when the Council asks I will play that note until it rings their teeth. I will tighten the siphons and I will tighten the Council’s jaw by the same measure, and I will ask for watch rights at the Saltfang ring the next three surges. Walk careful now, archer, because a crew willing to scald my people to pinch a tariff will boil your blood for free and call it weather when the smoke clears."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "I will step where the brine says step and I will keep my metal veiled until the gnats grow bored of the taste of me, and I will not silhouette myself against a plume to make an easy shot for chance. Keep your low watch on the quieter bell, and set a coil of damp weed where the wind rolls in crooked so the smoke will carry right. I will see that the sealed copy reaches Arno Kest with wax unbroken and cord unfrayed, because his furnaces cannot afford rumor in their salt. If anyone follows the seal, I will lead them along the ribs where the gulls nest and let their feet slip on algae while I go another way. When the next surge comes and the teeth sing again, I will be where I can hear their false step in the brine, and I will put that sound in my ledger with the same neat hand I use for tide and wind."
+        }
+    ],
+    "choices": [
+        {
+            "id": "M4-C1",
+            "title": "Seal the proof under Council wax and stand with the Tidemasons at dawn",
+            "text": "Kael proposes that the findings be pressed into a formal packet under the Council’s blue wax, with Oaric’s sigil and Kael’s witness mark cut deep enough that a counterfeiter would bleed trying to mimic it. He counsels that they present the evidence at first bell, when the Vertebrae galleries are full of ward citizens and when fearmongers are still rubbing sleep from their eyes. He argues that sunlight is a tonic and that showing the pattern of cuts, grit, and rope to a crowd will make it harder for a quiet bribe to blur the edges later. He warns Oaric to expect the saboteurs to yelp and throw ledger ink like squid, but says a clean tide carries muck away when everyone can see the slick. He promises to stand at Oaric’s shoulder and name each mark out loud so the city’s memory catches and holds, because secrets rot and proof breathes best in open air.",
+            "outcome": "The packet lands on the Council dais with a thump that echoes under the fossil chandeliers, and your steady voice turns each exhibit into a story even the most coin-soured reeve can follow. The Pearl Compact’s scribes frown and the Siltglass Syndicate men nod grimly while the Children of the First Shell murmur about oaths and tools, but the central point bites like salt on a cut, and it stings those who ought to feel it. Oaric wins a temporary cordon at the Saltfang ring and a pair of Brinewarden whistles for his crews, while a chartered auditor is named to trail receipts for salt and rope along the flats. The saboteurs do not show their faces, but their rumor mill misfires, and for a week their gossip sounds like a rusty hinge while your name turns up in alley talk as the archer who made the plumes speak. You gain Oaric’s quiet promise to whisper you ahead of any maintenance embargo, your access to the low sluice walks is stamped in ink that dries true, and a Gray Sail lookout notes your silhouette with interest that feels like a wind at your back and a pebble in your boot."
+        },
+        {
+            "id": "M4-C2",
+            "title": "Courier the sealed copy to Arno Kest first and sharpen a guild alliance",
+            "text": "Kael advises that speed matters where heat rules, and that Arno’s kilns will burn wrong if they must wait for the Council’s slow spoon to stir. He offers to take the sealed copy by the quickest rib-paths and the jawbone quays at night, trusting his tidecraft and his quiet feet to beat the lanterns to the blue-row doors. He vows to keep the seal unbroken and to make Arno read it twice before he speaks once, so that his first words to his own men are careful and true. He suggests that a glass guild forewarned will check its shipments for grit and its apprentices for new rope, closing doors that saboteurs use while others still argue definitions at the dais. He resolves to return to Oaric before second bell with Arno’s countersign and a plan to set matched purity tests at the siphon mouths, turning two wary houses into a sharper spear.",
+            "outcome": "Arno takes the packet with hands that smell of ash and lime, and after the second read his jaw sets like cooled glass and his gratitude warms the room like a banked kiln. He dispatches inspectors to the Siltglass Flats and orders rope marks checked against guild records, and a foreman with too many new coils suddenly remembers urgent business elsewhere. When Oaric receives Arno’s countersign, suspicion thins from the air between them and the two men talk as craftsmen first and rivals second, agreeing on a twin assay routine that catches foul flow at the lips and not in the belly. The saboteurs find doors shutting where they expected them to swing, and a shipment of subtractive grit gets caught at a ward gate by a reeve who has never before cared about the color of dust. Your standing with the Syndicate rises a step, though some Tidemasons mutter about choosing who hears first, and you can feel that trust is a tide that must be tended lest it turn and drown you when you blink."
+        },
+        {
+            "id": "M4-C3",
+            "title": "Blow the whalesong reed for a Brinewarden escort and widen the net",
+            "text": "Kael tilts the reed whistle to his lips and considers the low legal reefs that lurk beneath hasty moves, then argues that saboteurs thrive in gaps where one guild assumes another is watching. He proposes signaling Captain Ysger Thorn’s cutters for a measured escort, not a raid, so that the presence of blue coats turns the wind on the ring without spooking honest crews into tripping over their own lines. He promises to mark the escort path with smoke and hand signs so the iron-gnats do not drink any unintended edges, and to keep the Brinewardens’ boots from clattering on sacred planks while the pressure bell sings. He warns Oaric that uniforms will draw eyes and that some eyes belong to those who like to shout over whistles, but says a steady backbeat of duty can drown a saboteur’s quickstep when done without swagger. He commits to delivering both copies as agreed, one to Oaric and one to Arno, with a Brinewarden notation of chain of custody that will irritate cheats who trade on rumor and fog.",
+            "outcome": "The cutters slide in under throttled steam like cats skeptical of water, and Ysger’s people keep their hands low and their helms unshined while your signals drift like harmless fog over the ring. The sudden absence of easy shadows makes a pair of watchers blink, and one iron-gnat net slips before it is sprung, giving Oaric’s riggers time to cover edges and spare their fingers. A Gray Sail runner testing the wind near the ring finds that the wind has teeth and a question, and chooses a long way home rather than short talk with a familiar captain. Some warders grumble about Brinewardens near the geysers and a Council scribe scribbles a memo shaped like a raised eyebrow, yet the net holds and a pressure surge passes without blood blistering the boards. You bank a favor with Thorn as clean as a well-oiled winch, Oaric files your escort note with a sigh that is more grateful than he lets on, and Arno adds a quiet line of credit-shells to your standing for bringing the blue coats without breaking the kilns’ temper."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "xp",
+            "description": "500 experience toward advancement for reading flows under fire and bringing proof instead of panic"
+        },
+        {
+            "type": "item",
+            "description": "Tidemason Brine-Glyph Patch that sharpens the eye for flow marks and helps decode maintenance sigils under spray"
+        },
+        {
+            "type": "item",
+            "description": "Scaldcloak Mantle woven with steam-shedding fibers that grant resistance to sudden bursts and biting plumes"
+        },
+        {
+            "type": "favor",
+            "description": "Oaric Bent’s maintenance embargo warning whispered to Kael before any citywide flow changes ripple through the wards"
+        },
+        {
+            "type": "access",
+            "description": "Low Sluice Walkways under the Spine opened to Kael’s steps with a stamped token for restricted maintenance paths"
+        },
+        {
+            "type": "coin",
+            "description": "35 credit-shells paid in clean marks, enough to oil bowstring, replace hooks, and keep a roof lit with living light for a time"
+        }
+    ]
+}

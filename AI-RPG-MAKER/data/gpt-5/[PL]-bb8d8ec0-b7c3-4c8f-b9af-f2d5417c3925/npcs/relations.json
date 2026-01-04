@@ -1,0 +1,362 @@
+[
+    {
+        "from": "Orla Krawężna",
+        "to": "Matka Korala",
+        "type": "Alliance"
+    },
+    {
+        "from": "Orla Krawężna",
+        "to": "Lima Fal",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Orla Krawężna",
+        "to": "Vasko Danter",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Orla Krawężna",
+        "to": "Serad Głaz",
+        "type": "Conflict"
+    },
+    {
+        "from": "Orla Krawężna",
+        "to": "Maera Buławka",
+        "type": "Friendship"
+    },
+    {
+        "from": "Orla Krawężna",
+        "to": "Jodan Piżmowy",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Delerion Ognikowy",
+        "to": "Orla Krawężna",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Delerion Ognikowy",
+        "to": "Vasko Danter",
+        "type": "Conflict"
+    },
+    {
+        "from": "Delerion Ognikowy",
+        "to": "Serad Głaz",
+        "type": "Conflict"
+    },
+    {
+        "from": "Delerion Ognikowy",
+        "to": "Lima Fal",
+        "type": "Different goals"
+    },
+    {
+        "from": "Delerion Ognikowy",
+        "to": "Tira Selenitna",
+        "type": "Alliance"
+    },
+    {
+        "from": "Delerion Ognikowy",
+        "to": "Matka Korala",
+        "type": "neutral"
+    },
+    {
+        "from": "Vasko Danter",
+        "to": "Serad Głaz",
+        "type": "Alliance"
+    },
+    {
+        "from": "Vasko Danter",
+        "to": "Orla Krawężna",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Vasko Danter",
+        "to": "Delerion Ognikowy",
+        "type": "Conflict"
+    },
+    {
+        "from": "Vasko Danter",
+        "to": "Matka Korala",
+        "type": "Hostility"
+    },
+    {
+        "from": "Vasko Danter",
+        "to": "Lima Fal",
+        "type": "Different goals"
+    },
+    {
+        "from": "Vasko Danter",
+        "to": "Maera Buławka",
+        "type": "neutral"
+    },
+    {
+        "from": "Matka Korala",
+        "to": "Orla Krawężna",
+        "type": "Alliance"
+    },
+    {
+        "from": "Matka Korala",
+        "to": "Serad Głaz",
+        "type": "Hatred"
+    },
+    {
+        "from": "Matka Korala",
+        "to": "Vasko Danter",
+        "type": "Conflict"
+    },
+    {
+        "from": "Matka Korala",
+        "to": "Maera Buławka",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Matka Korala",
+        "to": "Jodan Piżmowy",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Matka Korala",
+        "to": "Aiona Pustodębna",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lima Fal",
+        "to": "Orla Krawężna",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lima Fal",
+        "to": "Delerion Ognikowy",
+        "type": "Different goals"
+    },
+    {
+        "from": "Lima Fal",
+        "to": "Serad Głaz",
+        "type": "Hostility"
+    },
+    {
+        "from": "Lima Fal",
+        "to": "Vasko Danter",
+        "type": "neutral"
+    },
+    {
+        "from": "Lima Fal",
+        "to": "Neris Winnafala",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lima Fal",
+        "to": "Eldan Zmierzchowy",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Serad Głaz",
+        "to": "Vasko Danter",
+        "type": "Alliance"
+    },
+    {
+        "from": "Serad Głaz",
+        "to": "Orla Krawężna",
+        "type": "Conflict"
+    },
+    {
+        "from": "Serad Głaz",
+        "to": "Matka Korala",
+        "type": "Hatred"
+    },
+    {
+        "from": "Serad Głaz",
+        "to": "Lima Fal",
+        "type": "Hostility"
+    },
+    {
+        "from": "Serad Głaz",
+        "to": "Jodan Piżmowy",
+        "type": "Conflict"
+    },
+    {
+        "from": "Serad Głaz",
+        "to": "Rikel Stalnik",
+        "type": "Different goals"
+    },
+    {
+        "from": "Maera Buławka",
+        "to": "Orla Krawężna",
+        "type": "Friendship"
+    },
+    {
+        "from": "Maera Buławka",
+        "to": "Matka Korala",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Maera Buławka",
+        "to": "Serad Głaz",
+        "type": "neutral"
+    },
+    {
+        "from": "Maera Buławka",
+        "to": "Jodan Piżmowy",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Maera Buławka",
+        "to": "Eldan Zmierzchowy",
+        "type": "Friendship"
+    },
+    {
+        "from": "Maera Buławka",
+        "to": "Vasko Danter",
+        "type": "neutral"
+    },
+    {
+        "from": "Jodan Piżmowy",
+        "to": "Orla Krawężna",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jodan Piżmowy",
+        "to": "Matka Korala",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jodan Piżmowy",
+        "to": "Serad Głaz",
+        "type": "Conflict"
+    },
+    {
+        "from": "Jodan Piżmowy",
+        "to": "Maera Buławka",
+        "type": "Friendship"
+    },
+    {
+        "from": "Jodan Piżmowy",
+        "to": "Neris Winnafala",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Eldan Zmierzchowy",
+        "to": "Matka Korala",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Eldan Zmierzchowy",
+        "to": "Lima Fal",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Eldan Zmierzchowy",
+        "to": "Delerion Ognikowy",
+        "type": "Different goals"
+    },
+    {
+        "from": "Eldan Zmierzchowy",
+        "to": "Maera Buławka",
+        "type": "Friendship"
+    },
+    {
+        "from": "Eldan Zmierzchowy",
+        "to": "Neris Winnafala",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tira Selenitna",
+        "to": "Delerion Ognikowy",
+        "type": "Alliance"
+    },
+    {
+        "from": "Tira Selenitna",
+        "to": "Lima Fal",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tira Selenitna",
+        "to": "Vasko Danter",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Tira Selenitna",
+        "to": "Aiona Pustodębna",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tira Selenitna",
+        "to": "Orla Krawężna",
+        "type": "neutral"
+    },
+    {
+        "from": "Rikel Stalnik",
+        "to": "Serad Głaz",
+        "type": "Different goals"
+    },
+    {
+        "from": "Rikel Stalnik",
+        "to": "Matka Korala",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rikel Stalnik",
+        "to": "Maera Buławka",
+        "type": "Friendship"
+    },
+    {
+        "from": "Rikel Stalnik",
+        "to": "Vasko Danter",
+        "type": "Conflict"
+    },
+    {
+        "from": "Rikel Stalnik",
+        "to": "Orla Krawężna",
+        "type": "neutral"
+    },
+    {
+        "from": "Neris Winnafala",
+        "to": "Lima Fal",
+        "type": "Friendship"
+    },
+    {
+        "from": "Neris Winnafala",
+        "to": "Jodan Piżmowy",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Neris Winnafala",
+        "to": "Eldan Zmierzchowy",
+        "type": "Friendship"
+    },
+    {
+        "from": "Neris Winnafala",
+        "to": "Serad Głaz",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Neris Winnafala",
+        "to": "Matka Korala",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Aiona Pustodębna",
+        "to": "Matka Korala",
+        "type": "Friendship"
+    },
+    {
+        "from": "Aiona Pustodębna",
+        "to": "Lima Fal",
+        "type": "Different goals"
+    },
+    {
+        "from": "Aiona Pustodębna",
+        "to": "Tira Selenitna",
+        "type": "Friendship"
+    },
+    {
+        "from": "Aiona Pustodębna",
+        "to": "Delerion Ognikowy",
+        "type": "neutral"
+    },
+    {
+        "from": "Aiona Pustodębna",
+        "to": "Vasko Danter",
+        "type": "Rivalry"
+    }
+]

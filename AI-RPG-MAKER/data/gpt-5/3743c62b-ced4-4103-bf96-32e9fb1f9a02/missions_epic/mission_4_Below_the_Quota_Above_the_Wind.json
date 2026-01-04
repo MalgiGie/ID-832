@@ -1,0 +1,76 @@
+{
+  "id": "4",
+  "title": "Below the Quota, Above the Wind",
+  "quest_giver": {
+    "name": "Ovelle Kite",
+    "affiliation": "Sky Orchard Kite Wardens"
+  },
+  "description": "The Sky Orchard drifts in a lazy gyre downwind of Ankharion, its verdant islets stitched together by vine-bridges, kites, and bright cords that hum like low harps in the mist. Silver-leafed boughs shiver as pods of cloudfruit swell and bob, each a patient promise of lift bound in living fiber and old rites. Aerarium quotas press like stormweight on the Orchard folk, their tally bells ticking in the fog while masked assessors stride the bridges and stamp chits that can turn a season harsh. Ovelle Kite moves along the vines as if the wind taught her steps, reading eddies with a glance, tying slipknots that respect sapflow, and tapping shrine bells to placate the unseen Gardeners of the Air. She asks Lyris Kael to harvest tuned pods without harming living vines on a fog day, to unearth two aerolith-bearing root nodules without leaving a scar the assessors can smell with their ledgers, and to ride a thread of plausible routes through an inspection Mira Pellan is sharpening like a mirror’s edge. The Unmoored have netted a cache beneath a vine-bridge where lanternlight seldom falls, and the delivery must happen without provoking seizure, scandal, or a gust that remembers the wrong name.",
+  "objectives": [
+    "Meet Ovelle Kite at the Orchard’s leeward tether and learn the day’s windroads.",
+    "Harvest three mature cloudfruit pods without cutting living vines on a fog day and offer a ribbon at the Gardeners’ shrine.",
+    "Unearth two aerolith-bearing root nodules and hide them among legitimate baskets bound for the Aerarium.",
+    "Outmaneuver Mira Pellan’s inspection by presenting forged chits and a plausible harvest route, or negotiate a reduced levy.",
+    "Deliver the pods and nodules to an Unmoored cache netted beneath a vine-bridge without provoking Aerarium seizure."
+  ],
+  "dialogue": [
+    {
+      "speaker": "Ovelle Kite",
+      "lines": "Hold your breath when you cut the stem, else the pod remembers your lungs and floats you where you do not mean to go..."
+    },
+    {
+      "speaker": "Mira Pellan",
+      "lines": "Your chits are saffron, yes, but the watermark wavers as if the paper forgot which house paid its pulp tithe..."
+    },
+    {
+      "speaker": "Lyris Kael",
+      "lines": "I brought my breath to match the mist and my hands to match the vines..."
+    },
+    {
+      "speaker": "Kesh Storm-Runner",
+      "lines": "I have run windroads under your floating shadow when a quota cut pushed a farmer to hurry..."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Bluff the assessor with clean forgeries and tuned eddies",
+      "text": "You smooth your Whispercloak, quiet the chime pendant to a breath-soft murmur...",
+      "outcome": "Mira’s fingers hover on the paper as if they might feel contrition through pulp..."
+    },
+    {
+      "id": "C2",
+      "title": "Argue the rope-math and win a reduced levy",
+      "text": "You lower your hands, open your ledger to an empty page...",
+      "outcome": "Mira’s mouth makes a line that is not quite a smile and not quite a cut..."
+    },
+    {
+      "id": "C3",
+      "title": "Slip the inspection with a shadow route and a shrine’s favor",
+      "text": "You bow to the Gardeners’ shrine until your brow tastes damp bronze...",
+      "outcome": "The shrine bells answer your ribbon with a clean chiming that separates like clear glass..."
+    }
+  ],
+  "connections": {
+    "previous": ["3"],
+    "next": ["5"]
+  },
+  "rewards": [
+    {
+      "type": "Item",
+      "description": "3 tuned cloudfruit pods (temporary lift for lines and kits)"
+    },
+    {
+      "type": "Item",
+      "description": "Aerolith root nodules (small liftstone cache; risky to keep)"
+    },
+    {
+      "type": "Favor",
+      "description": "Sky Orchard cooperatives favor (access to kite-harness repairs)"
+    },
+    {
+      "type": "Status",
+      "description": "Aerarium scrutiny flag: Mira Pellan remembers your face and your argument"
+    }
+  ]
+}

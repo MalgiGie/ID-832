@@ -1,0 +1,88 @@
+{
+    "id": "M9",
+    "title": "Night of Mothfast",
+    "quest_giver": {
+        "name": "Lysa Curren",
+        "affiliation": "Order of Moths liaison to the Saffron Exchange"
+    },
+    "description": "Thyssara’s lamps barter color like coin, but tonight their hunger is counted in heartbeats that fall into a widening throat beneath the Prism Spire. The palimpsest’s thin strokes and the recovered runecap’s stubborn hum align on the same dreadful measure: a lightwell is opening under the city’s oldest promise, and every wick fed to it fattens the dark thing listening there. The Order names a remedy as old as a moth’s instinct and as hard as a merchant’s ledger: a Mothfast, one night when flame is sealed, panes are shaded, and even the signal-banners sleep, so the well below starves and the tone of the city can be retuned. You, Kade Orrel of the quays and the wind, are given a bell-chart endorsed by the Order and co-signed at the Saffron Exchange, a legal lattice of hours and hush to pin upon doors that spit at pins and knockers alike. The Wardens fear roofline shadows and alleys unguarded; the Salted Compact counts children’s bowls and the ways bread can cross water without a bell; the Guild of Glassreed Weavers hears furnaces ping and shiver if cooled wrong; the Smoulder Veil tastes a night with no eyes and smiles behind ash. Between barges and banners you must walk, bearing a chart of quiet and a runecap that remembers tones, and convince a city built on light to lay it down for one vigilant dusk to dawn.",
+    "objectives": [
+        "Present the Mothfast proposal to the Lantern Court and secure provisional sanction.",
+        "Negotiate with the Wardens of the Windward for patrol coverage in the dark.",
+        "Win the Salted Compact’s commitment to run relief quietly during the fast.",
+        "Ensure the Guild of Glassreed Weavers can bank furnaces safely for one night.",
+        "Deter Smoulder Veil arson attempts during the fast and keep the peace."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lysa Curren",
+            "lines": "I keep my ink capped when others slosh it, Kade, and tonight I need you to do the same with the city’s light. The chart I hand you is not a prayer but a contract written in hours and hush, and the Exchange has stamped its quiet consent because broken furnaces and shattered panes cost more than any sleepless night. You will carry it to bells and barges alike, and you will not flinch when a guildmaster tells you her kiln sings sweeter than the Spire’s warning. I am practical, and practicality demands a cure that starves the widening throat beneath our feet before it learns the taste of festivals and court days. Bring me signatures, not speeches, and bring me promises that can hold their own weight when the lamps go out."
+        },
+        {
+            "speaker": "Magistrate Vela Orun",
+            "lines": "The Lantern Court does not bend to portents, it bends to proofs, and your proofs are inked twice and hummed once, which is more than most omens manage. Provisional sanction is a heavy ring and I will not slip it on the city’s finger without a catch, so take this writ that declares the fast a legal interval under emergency statute and binds false-lighters to fines and service. We will not ring the third bell at dawn, not for tradition’s sake but to keep panic from racing through Molden Quays like fire through chaff, and we will post Wickwards with sealed lamps in case a child falls in old stairs. Bring me the Wardens’ routes and the Weavers’ banking schedule, and I will put a law-lantern in the Citadel window that reads in smoke: hush and hold. Fail to persuade the dockfolk and I will rescind the sanction before dusk, because a city that stumbles blind without consent breaks its own shins."
+        },
+        {
+            "speaker": "Aren Mir",
+            "lines": "The Captain will grind his teeth to powder when I say yes to this, but I have walked blind nights with you and counted them lucky because we were stubborn and fast. Give me sky-steps along the canals, rooftops we can trust to hold a skiff’s skid, and alleys where the drumline will not echo wrong and lure crews into dead ends. We will burn salt in the beacon brazier and lower white fire from masts like falling stars, and we will teach the younger hands to listen for rope talk and not chase every whisper that sounds like a match. If a mask lights a wick in Quiet Walks, I want your rope ready to snag him off his feet and a place to land that does not rain tiles into the canal. Write me routes, not poems, and I will write the city’s shadow in lines a Warden can fly by."
+        },
+        {
+            "speaker": "Matron Selya Thorn",
+            "lines": "A furnace is a heart with no patience for sudden sorrow, Kade, and if I bank mine wrong the song of glass will crack into knives and debt. Bring me a span of hours with pressure steps and a guarantee the tide won’t lunge when my annealing racks are sleeping, and I will cool the Guild’s great throats to a low hum that can hold its breath. I have apprentices who think darkness is romance and masters who think it is treachery, and I will leash both kinds if the Wardens keep the wind calm over Reedgate and no Veil spark licks our doors. You will deliver me the Compact’s promise to feed the night shift with quiet bread so my people do not break the fast for hunger, and you will deliver the Court’s seal that any crack born of this night is counted as calamity, not negligence. Give me those and you have my signature, my shutters, and a furnace hymn tuned to silence for one turn of the sky."
+        },
+        {
+            "speaker": "Cord-Master Tavin Greel",
+            "lines": "You bring me a night without bells and ask me to keep families from chewing rope, so you had better bring more than pretty charts. I can put pilots on relief runs with muffled poles and blacked lantern panes, and I can thread the sluices without waking the gate’s greedy teeth if the Tidewrights keep their hands off the thief’s lever until dawn. We will need bread, salt, and hot broth stacked where even a drunk striker cannot trip it, and we will vote the route stones in the Hall so no crew feels cheated by shadows. The Wardens can fly over our heads like hawks so long as they remember we are not mice, and if any ashmasks try to sell fear as fire at our quays I will knot them to a bollard until after breakfast. Give me law-cover for quiet runs, give me Weavers’ promise of kettle heat for the bairns, and I will tell my people to walk the night steady and make no wakes where none are needed."
+        },
+        {
+            "speaker": "Jalen Sarq",
+            "lines": "Mothfast tastes like a lock without a keeper and I would be a fool not to lick my lips at the thought, but hunger teaches manners and so does debt. I can keep my ash-masked cousins from calling the night theirs, and I can put a thumb on the reckless palms who think a dark street is a license to burn old grudges. In return I want words about the Night Tax written with softer ink, not erased, not yet signed, just warmed so that when morning comes we have a seat at the same table as the Wardens and the Exchange. Do not ask me to love the Court’s light when it does not love our families’ nights, but I will respect your chart if the Wardens respect our docks and the Weavers stop whispering that every underquay fire is mine. Bring me a promise of fair dawn bargaining and I will make sure no furnace dreams itself into cinders while we are all pretending to be moths."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "lines": "One night will not unmake a city, but it might unmake a hunger that has learned our names, and I will wager sweat on that chance. I will walk your chart to the bells and the barges and I will lay it down like a plank over a bad current, and those who spit on it will find me standing at the other end with rope and reason. Wardens will fly, pilots will steer, Weavers will cool, and even the Veil will mind its tongue if it wants its teeth back in the morning. I am not selling a new law, I am buying a single shared breath, and any hand that tries to steal more than that from the dark will hear my sabre sing. If the city wakes with cracked glass or empty bowls, that shame is mine to carry, but if it wakes steady, I will pour the first light out for the moth-keepers and for every child who slept without a lantern and dreamed of nothing burning."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Discipline of Unbroken Dark",
+            "text": "You press the Lantern Court to declare a strict hush with no exemptions beyond rescue, and you bind your own routes to the tightest clock the chart allows. You insist the Wardens fly white-salt beacons only on crisis drift and keep skiffs high so no home feels a wing’s shadow as threat. You tell the Weavers to bank deep and early, to count each ping like a prayer bead, and you tell Tavin Greel to prep relief in covered pots that never see a lick of flame until dawn. You refuse Jalen Sarq’s tentative bargain, warning him that a single spark will name the Veil to the Court and the Wardens both, and that you will tie that name to every ash grate in the Warrens. You walk the alleys whispering the fast like a vow, and you let the city feel the full weight of a night without its colored breath.",
+            "outcome": "The night holds clean and heavy, and the lightwell’s hunger falters audibly in the bones of the Prism Spire as though a bell were exhaling. The Wardens mark three ambushes by shadow and none by fire, and their drumline hums a low route that becomes a legend among junior crews. The Weavers lose a single pane to a hairline sigh and the Guild publicly credits your stiff terms for saving three furnaces from cracking like eggs in frost. The Salted Compact grumbles at the strict ration of warmth, but they also count empty bowls filled by quiet hands, and in the morning their memorial rope takes no new knots. The Smoulder Veil sulks and keeps its embers banked, but Jalen’s eyes harden, and though no arson mars the fast, he files the insult like a shard for later bargaining."
+        },
+        {
+            "id": "C2",
+            "title": "Threaded Night Compact",
+            "text": "You weave a compromise that staggers the city’s breath, granting the Wardens tiered patrol lanes and pre-approved descent points while pilots run relief on mirrored routes beneath them. You negotiate with Selya Thorn for a rolling bank that lets one furnace sing softly while another sleeps, and you put Compact kettles in those warm rooms for apprentices and night-wardens alike. You accept Jalen Sarq’s limited accord, not for coin but for calm, binding him to three quiet promises and one public statement that the Veil honors the Order’s night. You have Magistrate Vela ink a rider that exempts rescue braziers and infirmary lamps, so long as panes are hooded and flames are counted aloud by a Wickward, and you post those counts on the Hall doors to prove the night is kept in trust. You spend dusk to midnight on rooftops with Aren Mir counting beats between drum-echo and rope-sign, and midnight to dawn in quays where bread and broth move like murmurs and no child goes cold.",
+            "outcome": "The city settles into a felt rhythm that is neither suffocation nor license, and the Spire’s quiet thickens like winter air until the hum at its base slides down a note. Wardens report only minor scuffles and praise the pre-marked landing stones that saved a crew from splintering a cornice, and the drumline adds two new phrases to the training wall called Kade’s Steps. The Weavers’ rolling bank saves delicate work-in-progress pieces that would have warped under a hard stop, and apprentices will tell stories of shared soup that tasted of glass heat and pepper. The Salted Compact counts the night a victory of dignity, and in the morning their strike flags stay folded in respect because the routes were voted and honored. The Veil keeps to its word and even tips two warnings about hotheaded lads with stolen oil; Jalen earns a nod in Candlecourt that will buy him a hearing at dawn but not a crown at night."
+        },
+        {
+            "id": "C3",
+            "title": "Ash and Amber Accord",
+            "text": "You take Jalen Sarq aside under a shuttered bridge and hammer out a secret truce, promising to argue for a softer Night Tax and to deliver a private audience with Magistrate Vela if his people stand down entirely. You ask the Wardens to reduce rooftop presence in the Underquay and focus on Quiet Walks and Reedgate, trusting your word to hold the tunnels calm. You offer the Weavers extra Compact relief at shift-change in exchange for their patience if ash-smoke drifts light from old vents, and you prepare a quiet signal whip for Aren Mir to call you if the balance tilts. You bring Tavin Greel’s crews into the pact openly but warn them to keep a double-knot watch, because any betrayal in the tunnels will come fast and smiling. You spread the chart like a map of truce lines rather than prohibitions, writing your name on the margins where law and smoke touch, and you accept that if it goes wrong your rope will be the first knotted in blame.",
+            "outcome": "The night slides smooth in the Underquay and nervous as a glass harp in Candlecourt, but no great flame rises and the lightwell starves enough to change its hungry rhythm. Wardens grumble at the thin patrol in the tunnels until a saved patrol at Quiet Walks thanks the redeployed eyes for catching a would-be looter and preventing a panic. The Weavers endure a faint ash tang with pinched lips but no cracked song, and Matron Selya acknowledges the relief crews kept her youngest from foolishness under fatigue. The Compact appreciates the open-handed trust and repays it with extra broth and blankets to wards that never see dawn kindness, and their whistles carry a new three-note thank-you between sluice posts. Jalen keeps his word and earns Vela’s cold audience at dawn, and though the Court makes no promises, the Wickwards whisper that a man in an ashmask once passed up a free fire, which is a memory Thyssara will use when it must judge him again."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Armor Upgrade",
+            "description": "Guild of Glassreed Weavers upgrade: your singing-glass lamellar is re-tuned for truer resonance, granting improved impact dispersion without brightening your profile."
+        },
+        {
+            "type": "Reputation",
+            "description": "Citywide goodwill: reduced hostility at night checkpoints for a time as Wardens, pilots, and clerks remember your stewardship of the fast."
+        },
+        {
+            "type": "Mystic Boon",
+            "description": "Order of Moths boon: a bell-tone recorded into your runecap for later use, a steadying note that can align a room or stall a panic when struck true."
+        }
+    ]
+}

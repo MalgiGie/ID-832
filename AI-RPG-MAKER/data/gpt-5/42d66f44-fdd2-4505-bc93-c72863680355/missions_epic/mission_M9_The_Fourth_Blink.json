@@ -1,0 +1,88 @@
+{
+    "id": "M9",
+    "title": "The Fourth Blink",
+    "quest_giver": {
+        "name": "Sirae Glowhand",
+        "affiliation": "Moonlock Lighthouse Lamplighter; Lumin Weavers and Siltglass Syndicate Joint Station"
+    },
+    "description": "Moonlock Lighthouse rises like a siltglass spindle bound in bone rings, its lens a slow heart of shaved pearls turning moonlight into measured blinks that steer nights and tempers both. Between the third and fourth blinks lives a narrow hush, a shadow seen only by those who have learned to look away just before the light returns, and to them it is a door into a smuggler cove inked into the dark. Sirae Glowhand has kept the lens honest until the sea began to sing lies; a false chorus rolls from beyond the harbor mouth, coaxing whales and cupsized skiffs toward teeth of rock as if the tide itself had grown a trickster’s tongue. She has oiled pivots and polished rings until her hands are nacre-burned, but the chorus is not a scratch she can rub out alone, and so she calls for Kael Rimestrand, whose arrows have once written instructions in the air and whose ears read the water even when echoes pain them. Arno Kest of the Siltglass Syndicate ascends the corkscrew stair with the weight of guild law in his gaze, ready to defend the purity of the lens as if it were a child of his kiln, while a Brinewarden presence at the door measures every motion against protocols and fines. Oil hangs in the lamp room like a warm shawl, salt vapor beads the railing, and stubbornness sits at the round table to share bread with urgency. If Kael admits he once altered the pulse to spare a procession, old quarrels will rattle the bone-braced panes like a sudden squall, yet the work must be done before the moon thins and the chorus tightens its snares. The choice is simple as an arrow and complicated as a tide: erase a criminal’s code at the cost of a refuge some desperate souls have learned, preserve the code and look a captain in the eye, or turn the city toward a new covenant of light with a pulse all can hear and none can steal. Tonight, the lighthouse is a throat, and whoever tunes it decides which song Thassyl sings to the dark.",
+    "objectives": [
+        "Climb the Moonlock Lighthouse and assist Sirae Glowhand in polishing the pearl-lens.",
+        "Identify and map the current pulse sequence including the shadow between the third and fourth blinks.",
+        "Decide whether to expose or erase the smuggler cove shadow code.",
+        "Retune the lens to counter the false chorus without blinding incoming patrols.",
+        "Report your actions to Captain Ysger Thorn and justify your choice."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sirae Glowhand",
+            "lines": "Listen with your fingertips as much as your ears, Kael, because this lens is a choir of small moons and they bruise if handled without patience. Each pearl carries a memory of tides and the way they used to answer the sky, and if even one of them grieves, our blinks come crooked and the night grows mean. I can mend the resin seams and rub out the hairlines with kelp oil until my knuckles glow like embers, but the false chorus beyond the jaw gates is not a stain I can scour with cloth alone. It steals harmonics and sets a wolf-note under the third blink, then hides its teeth in the shadow before the fourth, and that is where skiffs start to lean the wrong way. Stand beside me and help me teach the light to sing true again, for your hands remember bowstrings that hum and your eyes know how to count the heartbeats of danger."
+        },
+        {
+            "speaker": "Arno Kest",
+            "lines": "Mind the lens, Rimestrand, because every pane and pearl here has a pedigree that was argued over with ink and heat until the city’s teeth hurt from clenching. We shaved moonpearls so thin they could catch a whisper and bend it back into a beam, and we set them in resin that does not warp even when the lighthouse sulks under a winter gale. If I catch a greasy rag near that mosaic I will press it into your hand and make you polish until the moon itself limps up the stairs and begs a dance to be free of us both. There is talk in the market that the glass lies, that the Syndicate’s lens winks favors at smugglers, and I will not have that rumor fossilize into custom. Keep your tools clean, your claims cleaner, and if we must change the pulse, we shall do so in a way that leaves the craft innocent and the city wiser."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "I see the sequence like silt lines under clear water: one, two, three, and then the hush that feels like a held breath before the fourth blink returns. In that breath is a question I have heard before, a gap that says, ‘Turn now if you are kin to shadows,’ and I do not need a Gray Sail to tell me who listens hardest. Once I bent a pulse to draw cutters away from a procession that would have bruised under a rough hand, and the guilt of that night rattles in my ear whenever fog kisses my cuff. We can cut the shadow clean and strand the wolves without a door, but some lambs learned that door in fear and they may perish on rocks if we slam it without telling them another path. Or we can build a better song that drowns out the chorus and leads every boat by three slow breaths away from teeth, and then stand before a captain and say with clear voices why the night now speaks differently."
+        },
+        {
+            "speaker": "Ysger Thorn",
+            "lines": "Protocols are not petty chains, Kael; they are the brine glyphs that keep a hundred boats from trusting their luck instead of their bearings when a storm decides to wear a friendly mask. I know your work and I know the weight of your conscience, but I also know the weight of a drowned child lifted from a hull crushed against a reef that never moved an inch in its life. Alter a pulse and you alter more than light; you alter routes, debts, grudges, and the way the city tells itself that it is lawful, and if you make that change to spare a friend while damning a stranger, I will call that treason against the tide. Speak your reasons and show me your map of the new sequence, and I will judge whether you changed the song for the city or for the choir you favor. If your answer is good, I will hold my temper like a rope in a squall, and if it is hollow, I will clap irons on your ankles myself and throw the key into a vent that loves oaths more than it loves air."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Swallow the Shadow Entire",
+            "text": "You propose to erase the smuggler cove code fully by smoothing the resin around the offending pearl facets and rebalancing the clockwork so the third and fourth blinks marry without a hush between. You explain that the false chorus uses that hush as a hook, and that removing it robs both wolves and would-be lambs of a turning point toward rocks. You promise to lace a soft fallback into the fog itself by adding a faint, slow triplet pulse low in the blue that any child could count, guiding small boats away from danger without opening a door for criminals. You accept that Gray Sail skippers will curse your name in taverns that smell of tar, and you say you will weather that storm because the tide does not bargain with thieves. You face Ysger and tell him you change the light for the many, not the few, and that you will carry the weight of those who must learn a new way home.",
+            "outcome": "Sirae works with you, hands steady, until the shadow narrows and then folds into the fourth blink like a seam closed with patient stitches, and the room exhales as if the lighthouse itself had been holding back a cough. The next fog night, orphans with lanterns low count the soft triplet like a lullaby and come in without scraping a keel, while a sleek skiff hunting the old hush drifts too long and loses its window through the patrol nets. Arno Kest nods toward the lens with a craftsman’s reluctant respect and spreads word through the Syndicate that the glass told the truth and the liar was the sea, not the kiln. Ysger Thorn accepts your report with a hard jaw but a cleaner gaze, grants you a signaled authorization for emergencies, and warns that you will sit before the Council if the smugglers’ retaliation breaks a ward. In back rooms along Pearl Row, the Gray Sail Association retires a codebook and sharpens another knife, and you feel the balance shift toward law on the water even as your name sours in two shadowed mouths."
+        },
+        {
+            "id": "C2",
+            "title": "Keep the Door, Re-Key the Lock",
+            "text": "You argue that desperate boats know the shadow between the third and fourth blinks like a prayer, and that to rip it away without warning is to turn a kindness into an ambush. Instead, you propose to leave a shadow but change its shape, bending the hush a heartbeat longer and nesting within it a harmless hum tuned to drown the false chorus while still offering a turn to those who seek refuge. You commit to whispering the new pattern to lamplighters, soup altars, and the Children of the First Shell who guide fog-walkers, so the poor learn the new key before the wolves do. You promise Ysger that you will mark a subtle watermark in the beam—one only Brinewarden scopes can see—so patrols know who is using the door and when to shadow them without ramming. You accept that you will stand in the crossfire of guilds arguing purity and mercy, and you tell Sirae that sometimes the city survives on secrets that serve the open day.",
+            "outcome": "The lens keeps its breath but now sings a tone underneath that smooths the false chorus into a dull murmur, and in trial runs the whales curve wide with untroubled grace while skiffs guided by white-heron tales find a kinder turn. Sirae promises to vouch for your judgment among lamplighters, and the Weavers carry the new count in night-processions that braid song and light where rumor travels fastest. Arno fumes about adulterating perfection until the test panes show no distortion in the main beam, at which point he fixes you with a kiln-hot stare and declares that if the glass remains honest, he will swallow the politics like bitter tea. Ysger takes your report and, after a long silence measured in four clean blinks, pockets his anger with the watermark you designed and sets a watch that tracks smugglers by their faith in the hush rather than by brute chase. Gray Sail captains suspect a trick and adjust their routes warily, and while a few slip through, more find unexpected Brinewarden shadows behind them than they are used to, which grows a quiet legend that the lighthouse now tests the hearts of those who use its mercy."
+        },
+        {
+            "id": "C3",
+            "title": "Expose the Code and Call for a Civic Refuge Signal",
+            "text": "You decide that light owed to the city must answer the city in public, not through whispers and technical cleverness traded like contraband. You announce your intent to erase the smuggler shadow and to petition the Council at the Vertebrae, with Sirae’s testimony and Arno’s craft notes appended, to establish an official ‘Refuge Pulse’ aired on storm nights and fog mornings that any citizen may learn. You promise to teach the count at soup lines and docks so the poor do not depend on the charity of criminals, and you insist that the Brinewardens codify when the refuge pulse may be used and how it is recorded to prevent abuses. You warn that the false chorus must be answered now by retuning the lens to a neutral hum that starves it, while the civic debate catches up to what the sea tried to make of us. You accept that public light makes public enemies, and that the Pearl Compact, the Syndicate, and the Children of the First Shell will all want a finger on the switch that you will refuse them.",
+            "outcome": "You and Sirae erase the shadow and lay a clean fourth blink across the water, then stitch a low, steady hum through the mechanism that throws the false chorus off balance, pulling its teeth without blinding patrols. Arno drafts purity attestations and glass diagrams that accompany your petition, and though he grumbles, his seal on the parchment drags skeptical reeves to the table. Ysger Thorn presents your justification to the Council with the weight of drowned names behind it, and after a day of voices rising and falling like tide against the vertebra walls, the chamber authorizes trials for a Refuge Pulse under Brinewarden oversight and public teaching by lamplighters. In the short term, smugglers lose a private door and flail against new rules they cannot counterfeit with a wink; in the long term, shrines and workshops hang small placards with the count, and orphans learn a song that promises not a hidden cove but a lawful harbor. The city’s arguments grow louder, but a new custom is born that belongs to no guild alone, and the lighthouse’s reputation shifts from rumor of complicity to emblem of a bargain struck in the open with the sea."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "xp",
+            "description": "700 experience, earned for mastering light, song, and judgment atop the moon-pearl lens."
+        },
+        {
+            "type": "item",
+            "description": "Shaved Lens Shard: a sliver of polished pearl-lens that can focus a tight, pale beam for signaling through fog or across short distances."
+        },
+        {
+            "type": "item",
+            "description": "Signalmaster’s Code Slip: a stamped authorization allowing you to adjust lighthouse pulses in bona fide emergencies without incurring fines."
+        },
+        {
+            "type": "favor",
+            "description": "Sirae Glowhand’s Vouch: lamplighters in Thassyl will treat your requests with trust and open their stairs after a word from her."
+        },
+        {
+            "type": "access",
+            "description": "After-hours access to the Moonlock Lighthouse catwalk for observation, signaling, and quiet thought above the jawbone quays."
+        },
+        {
+            "type": "coin",
+            "description": "30 credit-shells, pressed and counted under the lamplight’s watchful eye."
+        }
+    ]
+}

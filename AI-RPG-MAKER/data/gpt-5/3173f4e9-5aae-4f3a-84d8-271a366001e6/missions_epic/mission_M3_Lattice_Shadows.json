@@ -1,0 +1,85 @@
+{
+    "id": "M3",
+    "title": "Lattice Shadows",
+    "quest_giver": {
+        "name": "Thia Mol",
+        "affiliation": "Moth Lanterns"
+    },
+    "description": "Beneath the Crown-Market Arcade, where the lantern-lattice hangs like a second sky and the counterweights breathe in slow iron sighs, the bones of Vaelor hum a gentler chord that only the patient hear. Spice-smoke trickles through the slats and turns to ghost-ribbons in the drafts, and every footstep above translates into a whispering rain upon trussed bone-plates and chain. Aerin feels that old tightness in her chest, the one that comes when the wind carries a warning without words, and the moonshard in her lantern answers with a faint, cold glimmer. Thia Mol waits at the mouth of a smugglers’ crawl, all soft grin and hard eyes, the kind of gaze that counts every way in and every way out while pretending it measures only your heart. Mira Olt leans beside her with fungus-dappled sleeves and lamplighter calm, the yellow of her watch lantern shaded just so, so it does not wake the weight-rings that keep the Arcade honest. Within the crawl, the planted cache sits like a wasp’s nest in a child’s bed: forged safety seals gleaming too new, a ledger scrap inked in Saltlick glyphs smelling faintly of brine and ash, and a Conclave memo stamped by Kessa Tharn with a pressure too light to have come from her careful hands. To anyone who has ever run from a patrol with lungs on fire and knees cut raw, the arrangement says set-up in a voice louder than bells. The ribs murmur, the chains answer, and between those sounds Aerin hears the city’s breath catch in fear, the same fear that lets stories grow sharp and simple, the kind that cut the poor first. She comes here not to choose a side, but to find the hand that plays Ribcrown like a wind-organ and force it to face the hollow where true law should live.",
+    "objectives": [
+        "Enter the Arcade’s hidden crawl without triggering the lantern-lattice counterweights.",
+        "Recover the cache: forged safety seals, Saltlick glyph ledger scrap, and the memo stamped by Kessa Tharn.",
+        "Interview Mira Olt about new crawl-knots and who could tie them so clean.",
+        "Convince Thia Mol to share a Lantern signal-trail that leads out toward Saltlick Terraces."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Thia Mol",
+            "lines": "Look at me, paladin, and listen for the space between my words where the truth keeps its teeth. If I wanted to stop a horn, I would hang a ribbon in the wind and make a prayer of it, and the gale itself would decide whether to hush or to sing. This mess is a clumsy story dressed in my colors, stitched with fear for thread, and it is sized to fit the necks of children who have done nothing but run where bridges do not reach. Someone plants our shadow where the lamplight thins and then charges toll on the panic it buys, because panic is a currency that spends clean and leaves no ledger. I will not answer for that with necks belonging to my children, not while I still have breath to bargain, a grin to mask my fury, and a hundred lanterns that know how to speak to the dark without making it bigger."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "lines": "I don’t want your necks, Thia, and I won’t let anyone weigh them against a rumor and call it justice, not while my oathstone warms near false testimony. I want the hands that tied these knots and pressed these seals, the hands that know which ribs hum loud enough to mask the scrape of a guilty body crawling away. The stamp bears Kessa Tharn’s mark, but the ink is wrong, thin as riverwater and too quick to dry, and the pressure doesn’t speak with her careful, oath-bound weight. And the knots—no street-runner ties this clean on the first try, not with a bite set this precise and a tail tucked to catch a sudden tremor in the chain. What I hear under all of this is a practiced rhythm, a Chainhouse cadence, and I intend to follow that beat until the drummer runs out of steps."
+        },
+        {
+            "speaker": "Mira Olt",
+            "lines": "Rigger work, clear as the lamplighter’s hymn on the last watch before dawn, and I’ll tell you how I know because I spent two seasons taking tickets in the Triad shadow when the Vigil was thin. See the twist just before the bite, how it bends back to kiss the spine of the line, then slides the strand through like threading a needle with wet hands; that’s Chainhouse teaching, the kind they drill until your fingers ache and your shoulders hum with the memory of weight. The crawl-knots are new, tight, and without the nervous stutter of a first-time thief, and there’s a loop set to break silent if a counterweight stirs, which is a habit taught by crews who live and die on the speed of a brake. As for this scrap—Saltlick glyphs for ration allotments with a smudge where their stewards add emergency marks, and it still smells of brine-pan heat and kiln-ash, which means it didn’t live in a Lantern hole long. Someone wants a line drawn from Lantern to Bonewright to brine pan and back so clean even a blind man could trace it, but to my ear it rings too neat, too loud, like a parade drum beaten in a prayer hall."
+        },
+        {
+            "speaker": "Thia Mol",
+            "lines": "Then follow my quiet, because quiet is where sense gets work done and where children get to wake up tomorrow, and I have learned to love the future more than I love the sound of winning. I’ll give you a signal, a lantern-flicker most of my own haven’t learned, spoken in pauses and little trembles the wind does not bother stealing, and it will lead to the brine winds where the terraces climb in white steps. The signal will pass you through lattice crawls the Vigil doesn’t map and the Rafter Guild pretends not to see, and it will ask you to trust the dark for a few heartbeats more than you like. If you find a Conclave inspector tangled in this, and the smell of their ink still fresh on the seal, don’t let the guilds make her disappearance a lesson to the poor, because the poor have had enough lessons for ten cities already. Carry that promise like a coal under the tongue, and know that even a coal can light a lantern if you breathe on it right."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "lines": "I’ll follow your quiet, Thia, and I’ll carry it like a wind-note inside my ribs, because sometimes the softest tones are the ones that steer ships away from rocks. If I find a lesson written in someone’s blood, the Vigil and the Breathkeepers will read it aloud in Spinegate, and the Seat of the Hollow will hear it, and the bones will remember it long after banners rot. I will not trade one scapegoat for another, not the Lanterns for the Rafters, not the poor for the proud, because my oath was sworn to breath and bone and not to any ledger. The cache will be lifted clean, the knots counted, the ink weighed, and I’ll take your flicker to the Saltlick winds and come back with the name hidden in the brine. When I do, I expect you to keep that coal alive for me in the Undershadows, and I will keep the gale from taking it when the city’s breath grows thin."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C3-1",
+            "title": "Shadow-Step the Lattice",
+            "text": "You choose silence over ceremony and move like a rigger who has learned to listen to weight as much as to wind. You time each breath to the sigh of the counterweights and mark your steps to the low drone of the ribs, letting the Oathplate Shield brush a chain until its hum matches your pulse. The Moonshard Lantern is shaded to a sliver, just enough to whisper edges into being, and you kiss the knot with your fingers to feel the telltale tremor of a trip-loop waiting for a clumsy hand. You honor every taboo about fire and noise as if the Vigil watched from within the bolts, because you know it is not their eyes that will catch you here, but the architecture’s memory of movement. Your path is a negotiation with gravity itself, and in that negotiation you offer patience and poise instead of coin or blood.",
+            "outcome": "You slide through the crawl without waking the lattice and find the cache tucked in a pocket where dust falls in a star pattern, which tells you the hiding hand knew this place well. The forged seals are perfect to sight but chime off-key when you rap them against your shield, and that wrong note will be admissible in Spinegate if you swear to it. A breath later, a distant bell above the Arcade rings for a merchant’s hour, and you use the cover of noise to ease the packet free and coil the riggers’ knots for later study. No one spots you leave, but a smear of brine on the ledger scrap and a grain of kiln-salt in the memo’s wax confirm Mira’s suspicion about the Saltlick Terraces. You gain the evidence clean, the crawl remains secret, and Thia rewards your care by teaching the first half-phrase of the lantern-flicker that will open the path to the brine winds."
+        },
+        {
+            "id": "C3-2",
+            "title": "Invoke the Oath at the Weight Rings",
+            "text": "You step into the half-lit hollow under the weight rings and strike the Breathkeeper chime, counting the wind-notes that drift down from the Galecliffs until the lattice answers with a gentled sway. You speak the variant Hollow Oath that lets a sworn paladin request safe passage during investigation, and the oathstone in your shield warms like a hand in winter. The sound carries, but it carries with ritual authority, and even the rats pause as if a priest had just set down bread in the lane. You signal Mira to bear witness and Thia to stand clear, and you name the bones and the ribs and the law that keeps them from being cut, which is a way of reminding the city that you serve it and not any faction. You move then, not hurried, not secret, but as one who has a right to tread, trusting that formality can be its own kind of key.",
+            "outcome": "The counterweights settle into a steady rhythm and the lattice stills around your steps, granting you an aisle of truce through the crawl. Two market scribes above, who hear the sanctioned chime, later testify that they witnessed you enter in rite and depart with a sealed bundle, and that written witness will harden your evidence when the Charter calls you to account. But authority draws eyes, and a River Lords tally-scribe lurking near the western rail notes your presence and sends a neat report to Ulo Hen, who will try to spin it as collusion unless you frame the story first. You retrieve the seals, the Saltlick scrap, and Kessa Tharn’s memo without scrape or stumble, and the memo’s wax takes your oath-mark clean, which makes it more difficult to dismiss. Thia grits her teeth at the attention but, seeing your care with her people, gives you the full lantern-signal phrase that traces a safe path toward the Saltlick Terraces when the wind is in the east."
+        },
+        {
+            "id": "C3-3",
+            "title": "Confront a Rafter Night-Sentry",
+            "text": "You catch the flicker of a watch coal and choose to face it instead of creeping past, because sometimes the straight walk leaves fewer knives at your back. A Rafter Guild sentry crouches in a cutout, knuckles scarred and eyes rimmed red from nights on the cables, and he startles when your lantern finds his badge. You speak first with respect for the work that holds the city aloft, and you do not hide the seals or the ledger scrap when he asks what brings a Breathkeeper paladin under the market at this hour. You show him the knot-work and ask him, as a craftsman, what he sees when he looks at the bites and turns, and you watch the moment pride wrestles with fear behind his teeth. You do not accuse, you listen, and in that listening you offer him a way to be larger than the rumor that would make him a thug.",
+            "outcome": "The sentry swallows hard and admits, in five slow sentences each weighed like stones, that the knots were taught by a foreman whose temper has turned ugly since the Chainhouse deaths, and that he saw a shadowed figure pass a parcel to a courier with salt pans on his belt. He swears he did not cut any cable and that he has children sleeping two decks below, and he begs you to remember that not every rigger is a blade for hire. He agrees to mark the knots that do not belong to sanctioned routes with a secret chalk the Rafters use to warn each other of brittle lines, which will help you trace the planted paths without breaking your cover. He also warns that Gor Relk will take your questions as an insult unless you bring him something he can respect, and a cleanly wrapped truth often serves better than a threat. When you leave, he tips his coal-lantern twice in a pattern you do not know, and Thia later translates it as a reluctant blessing; in return, she shares the lantern-flicker trail but cautions that the Rafters’ chalk marks mean you must step where the chalk is not."
+        },
+        {
+            "id": "C3-4",
+            "title": "Accept Thia’s Secret Signal-Trail",
+            "text": "You accept the quiet Thia offers and let her teach your fingers to speak in light, because you know there are languages that live outside of law and still serve it. She shows you how to hood the lantern and let three brief moth-wings of brightness slip out between your knuckles, then hold your breath until the chain hum dips just so. Mira times the pauses with a lamplighter’s patience, tapping the back of your hand so you understand that rhythm matters as much as message. You practice until the flicker feels like a heartbeat and the heartbeat feels like a path, and in that practice you honor the trust Thia extends, which is a coin rarer than any minted at Riverfoot. When the pattern sits in your bones, you look toward the east where the brine-wind rises and the terraces gleam like stacked moons, and you commit to walking that wind as soon as the Arcade’s day-noise gives you cover.",
+            "outcome": "The signal carries you past two Lantern lookouts and a pair of curious Vigil lamplighters without incident, and it answers in three places with answering glows that show you the cleanest way out. Thia’s people will now honor that flicker in the lattice crawls named in her sanction, which grants you safe passage through holes the guild maps do not admit exist. Mira promises a future favor and presses a strip of spore-treated cloth into your palm, saying that when Sporefall comes you need only show it at the Gardens’ rope-rings and a light will meet you. The cache of forged seals, the Saltlick ledger scrap, and Kessa Tharn’s memo ride in your satchel like stones that will one day anchor a bridge, and you feel the Oathplate’s inlaid stone warm when you swear to carry them straight to Spinegate when the time is right. Most of all, the path ahead clarifies: east to the Saltlick Terraces, where brine and bone meet, and where someone has mistaken the city’s patience for permission to lie."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Knowledge",
+            "description": "Lantern-signal pattern granting safe passage through select lattice crawls, taught in flickers and pauses that mimic moth wings and sanctioned quietly by Thia Mol."
+        },
+        {
+            "type": "Favor",
+            "description": "A favor from Mira Olt: guided lamp-lit access to the Ossuary Gardens during Sporefall, with sporemasks prepared and watch times whispered so you can pass without fines or fevers."
+        },
+        {
+            "type": "Evidence",
+            "description": "Recovered memo and glyph scrap as admissible evidence for future hearings, sealed in Vigil wax with your oath-mark to ensure they hold in Spinegate Hall."
+        }
+    ]
+}

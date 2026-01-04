@@ -1,0 +1,74 @@
+{
+    "name": "Siala",
+    "surname": "Nerm",
+    "race": "Human (Tide-touched)",
+    "age": 58,
+    "appearance": "Sea-glass eyes, kelp-silk shawl that whispers in the wind, lanternlight tracing old vigil-mark scars along her hands.",
+    "character": "Compassionate yet immovable when the rites demand; speaks with a tide’s patience.",
+    "traits": [
+        "devout",
+        "compassionate",
+        "stern",
+        "charismatic in quiet ways"
+    ],
+    "skills": [
+        "whale-song hymnody",
+        "ritual law",
+        "organizing vigils and flotillas",
+        "counseling grief-struck families"
+    ],
+    "talents": [
+        "hears the bones’ ‘heartbeat’ under the Span",
+        "pacifies a crowd with a chant",
+        "interprets omens from wind and chime"
+    ],
+    "flaws": [
+        "inflexible on holy nights",
+        "neglects her own health",
+        "politically naive in council halls"
+    ],
+    "dreams": [
+        "Prove Orum dreams and limit harvest days",
+        "End marrow venting in the city’s heart",
+        "Reconcile workers and worship through shared rites"
+    ],
+    "secrets": [
+        "Guards a scale she believes to be a Heart-Scale beneath the Cathedral",
+        "Privately fears her latest dream speaks of chains breaking soon",
+        "Once delayed a vigil at a Compact envoy’s plea to avert violence, and hates herself for it"
+    ],
+    "relations": [
+        {
+            "npc_name": "Selka Vire",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Pera Ilem",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Garrik Shale",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Yhosa Kel",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Lira Thole",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Osric Greyfen",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Ketta Brineshaw",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Irio Mossvane",
+            "relation_type": "neutral"
+        }
+    ]
+}

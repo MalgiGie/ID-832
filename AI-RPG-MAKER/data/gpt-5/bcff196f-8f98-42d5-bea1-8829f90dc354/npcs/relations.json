@@ -1,0 +1,467 @@
+[
+    {
+        "from": "Arelon Vale",
+        "to": "Selde Karst",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Arelon Vale",
+        "to": "Olan Vetch",
+        "type": "Friendship"
+    },
+    {
+        "from": "Arelon Vale",
+        "to": "Sera Verrin",
+        "type": "Different goals"
+    },
+    {
+        "from": "Arelon Vale",
+        "to": "Ansel Thornward",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Arelon Vale",
+        "to": "Yael Emberkeel",
+        "type": "Alliance"
+    },
+    {
+        "from": "Arelon Vale",
+        "to": "Tholl Ironspan",
+        "type": "Alliance"
+    },
+    {
+        "from": "Arelon Vale",
+        "to": "Sula Reedmantle",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Selde Karst",
+        "to": "Sera Verrin",
+        "type": "Alliance"
+    },
+    {
+        "from": "Selde Karst",
+        "to": "Arelon Vale",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Selde Karst",
+        "to": "Olan Vetch",
+        "type": "Conflict"
+    },
+    {
+        "from": "Selde Karst",
+        "to": "Brynna Coil",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Selde Karst",
+        "to": "Lysa Quill",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Selde Karst",
+        "to": "Yael Emberkeel",
+        "type": "Different goals"
+    },
+    {
+        "from": "Selde Karst",
+        "to": "Dhorik Basaltbane",
+        "type": "neutral"
+    },
+    {
+        "from": "Ansel Thornward",
+        "to": "Arelon Vale",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ansel Thornward",
+        "to": "Brynna Coil",
+        "type": "Different goals"
+    },
+    {
+        "from": "Ansel Thornward",
+        "to": "Cal Tesser",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ansel Thornward",
+        "to": "Lysa Quill",
+        "type": "Hostility"
+    },
+    {
+        "from": "Ansel Thornward",
+        "to": "Sula Reedmantle",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ansel Thornward",
+        "to": "Sera Verrin",
+        "type": "Conflict"
+    },
+    {
+        "from": "Sera Verrin",
+        "to": "Selde Karst",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sera Verrin",
+        "to": "Arelon Vale",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sera Verrin",
+        "to": "Lysa Quill",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sera Verrin",
+        "to": "Brynna Coil",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sera Verrin",
+        "to": "Olan Vetch",
+        "type": "Conflict"
+    },
+    {
+        "from": "Sera Verrin",
+        "to": "Irevan Glassmere",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Brynna Coil",
+        "to": "Ossa Wreath",
+        "type": "Alliance"
+    },
+    {
+        "from": "Brynna Coil",
+        "to": "Arelon Vale",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Brynna Coil",
+        "to": "Sera Verrin",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Brynna Coil",
+        "to": "Selde Karst",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Brynna Coil",
+        "to": "Yael Emberkeel",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Brynna Coil",
+        "to": "Irevan Glassmere",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Yael Emberkeel",
+        "to": "Tholl Ironspan",
+        "type": "Alliance"
+    },
+    {
+        "from": "Yael Emberkeel",
+        "to": "Brynna Coil",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Yael Emberkeel",
+        "to": "Arelon Vale",
+        "type": "Alliance"
+    },
+    {
+        "from": "Yael Emberkeel",
+        "to": "Dhorik Basaltbane",
+        "type": "Friendship"
+    },
+    {
+        "from": "Yael Emberkeel",
+        "to": "Selde Karst",
+        "type": "Different goals"
+    },
+    {
+        "from": "Yael Emberkeel",
+        "to": "Cal Tesser",
+        "type": "Friendship"
+    },
+    {
+        "from": "Olan Vetch",
+        "to": "Arelon Vale",
+        "type": "Friendship"
+    },
+    {
+        "from": "Olan Vetch",
+        "to": "Selde Karst",
+        "type": "Conflict"
+    },
+    {
+        "from": "Olan Vetch",
+        "to": "Finn Bracken",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Olan Vetch",
+        "to": "Sera Verrin",
+        "type": "Conflict"
+    },
+    {
+        "from": "Olan Vetch",
+        "to": "Lysa Quill",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Olan Vetch",
+        "to": "Sula Reedmantle",
+        "type": "Friendship"
+    },
+    {
+        "from": "Irevan Glassmere",
+        "to": "Sula Reedmantle",
+        "type": "Friendship"
+    },
+    {
+        "from": "Irevan Glassmere",
+        "to": "Lysa Quill",
+        "type": "Different goals"
+    },
+    {
+        "from": "Irevan Glassmere",
+        "to": "Brynna Coil",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Irevan Glassmere",
+        "to": "Arelon Vale",
+        "type": "neutral"
+    },
+    {
+        "from": "Irevan Glassmere",
+        "to": "Ansel Thornward",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Irevan Glassmere",
+        "to": "Sera Verrin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ossa Wreath",
+        "to": "Brynna Coil",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ossa Wreath",
+        "to": "Finn Bracken",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ossa Wreath",
+        "to": "Ansel Thornward",
+        "type": "Different goals"
+    },
+    {
+        "from": "Ossa Wreath",
+        "to": "Dhorik Basaltbane",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ossa Wreath",
+        "to": "Sera Verrin",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ossa Wreath",
+        "to": "Sula Reedmantle",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tholl Ironspan",
+        "to": "Yael Emberkeel",
+        "type": "Alliance"
+    },
+    {
+        "from": "Tholl Ironspan",
+        "to": "Arelon Vale",
+        "type": "Alliance"
+    },
+    {
+        "from": "Tholl Ironspan",
+        "to": "Dhorik Basaltbane",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tholl Ironspan",
+        "to": "Finn Bracken",
+        "type": "Different goals"
+    },
+    {
+        "from": "Tholl Ironspan",
+        "to": "Cal Tesser",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tholl Ironspan",
+        "to": "Olan Vetch",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Finn Bracken",
+        "to": "Olan Vetch",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Finn Bracken",
+        "to": "Ossa Wreath",
+        "type": "Friendship"
+    },
+    {
+        "from": "Finn Bracken",
+        "to": "Tholl Ironspan",
+        "type": "Different goals"
+    },
+    {
+        "from": "Finn Bracken",
+        "to": "Lysa Quill",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Finn Bracken",
+        "to": "Sera Verrin",
+        "type": "neutral"
+    },
+    {
+        "from": "Finn Bracken",
+        "to": "Cal Tesser",
+        "type": "Conflict"
+    },
+    {
+        "from": "Dhorik Basaltbane",
+        "to": "Yael Emberkeel",
+        "type": "Friendship"
+    },
+    {
+        "from": "Dhorik Basaltbane",
+        "to": "Tholl Ironspan",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Dhorik Basaltbane",
+        "to": "Arelon Vale",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Dhorik Basaltbane",
+        "to": "Brynna Coil",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Dhorik Basaltbane",
+        "to": "Selde Karst",
+        "type": "neutral"
+    },
+    {
+        "from": "Dhorik Basaltbane",
+        "to": "Ossa Wreath",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lysa Quill",
+        "to": "Sera Verrin",
+        "type": "Alliance"
+    },
+    {
+        "from": "Lysa Quill",
+        "to": "Olan Vetch",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Lysa Quill",
+        "to": "Ansel Thornward",
+        "type": "Hostility"
+    },
+    {
+        "from": "Lysa Quill",
+        "to": "Finn Bracken",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lysa Quill",
+        "to": "Irevan Glassmere",
+        "type": "Different goals"
+    },
+    {
+        "from": "Lysa Quill",
+        "to": "Selde Karst",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sula Reedmantle",
+        "to": "Irevan Glassmere",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sula Reedmantle",
+        "to": "Ansel Thornward",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sula Reedmantle",
+        "to": "Arelon Vale",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sula Reedmantle",
+        "to": "Brynna Coil",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sula Reedmantle",
+        "to": "Lysa Quill",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sula Reedmantle",
+        "to": "Ossa Wreath",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sula Reedmantle",
+        "to": "Olan Vetch",
+        "type": "Friendship"
+    },
+    {
+        "from": "Cal Tesser",
+        "to": "Ansel Thornward",
+        "type": "Friendship"
+    },
+    {
+        "from": "Cal Tesser",
+        "to": "Tholl Ironspan",
+        "type": "Friendship"
+    },
+    {
+        "from": "Cal Tesser",
+        "to": "Arelon Vale",
+        "type": "Alliance"
+    },
+    {
+        "from": "Cal Tesser",
+        "to": "Sera Verrin",
+        "type": "Different goals"
+    },
+    {
+        "from": "Cal Tesser",
+        "to": "Finn Bracken",
+        "type": "Conflict"
+    },
+    {
+        "from": "Cal Tesser",
+        "to": "Yael Emberkeel",
+        "type": "Friendship"
+    }
+]

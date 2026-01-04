@@ -1,0 +1,68 @@
+{
+    "name": "Sav",
+    "surname": "Orlai",
+    "race": "Glassmarked Human",
+    "age": 22,
+    "appearance": "Bright-eyed with hair that catches light oddly, a shadow that sometimes lags a heartbeat, student’s wraps flecked with mirror-dust.",
+    "character": "Earnest, awkward, and ruthless with curiosity when a mystery arrives.",
+    "traits": [
+        "curious to a fault",
+        "loyal to mentors",
+        "impulsive",
+        "easily awed",
+        "secretive about their shadow"
+    ],
+    "skills": [
+        "lens polishing",
+        "signal transcription",
+        "shadow-tracking exercises",
+        "basic oath-knot reading",
+        "silent-footing in glass halls"
+    ],
+    "talents": [
+        "shadow occasionally scouts ahead and returns with impressions",
+        "excellent visual memory for glyphs",
+        "intuitive with refraction angles"
+    ],
+    "flaws": [
+        "naive about politics",
+        "obsesses over mirror anomalies",
+        "forgets meals during experiments"
+    ],
+    "dreams": [
+        "prove that shadows can bear messages",
+        "build a lens that keeps moths from moon-flames",
+        "earn a commission to light a Parliament night"
+    ],
+    "secrets": [
+        "Their shadow once spied on the Rookery Cistern and brought back a second heartbeat",
+        "Borrowed a living pane fragment without permission",
+        "Writes to an exiled Fifth Knot novice in cipher"
+    ],
+    "relations": [
+        {
+            "npc_name": "Pel Korr",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Gantrix Pell",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "neutral"
+        }
+    ]
+}

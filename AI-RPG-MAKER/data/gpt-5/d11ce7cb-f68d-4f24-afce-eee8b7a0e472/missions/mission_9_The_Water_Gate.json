@@ -1,0 +1,44 @@
+{
+    "id": 9,
+    "title": "The Water Gate",
+    "quest_giver": "Caur Spinekeeper",
+    "description": "The cracked conduit near the Heartward Engine is more than a flaw; it is a throat that can open if struck in the right order. Caur Spinekeeper brings Sere into the sternum chambers where bone pistons pump like tired fists and red veins of crystal throb beneath latticed grates. The plan is to strike three ribs in the learned sequence and open a water gate for long enough to see the heart chamber and take a safe measure. But the Black Net has learned of the attempt, and Keth of the Nets has sent quiet hands to co-opt the opening. The chamber’s air tastes like old blood and prayers half-swallowed.",
+    "objectives": [
+        "Guard Caur Spinekeeper and Rhy Tidesong while they prepare the Engine rites.",
+        "Strike the three ribs in the correct order to open the water gate without flooding the chamber.",
+        "Confront Keth’s operatives and decide whether to drive them off, bargain, or use them.",
+        "Secure a clean pulse measure from the heart chamber and close the gate on time."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Caur Spinekeeper",
+            "text": "I have spent my life convincing bone to remember it belongs together. This is the part where the bones must remember they belong to us as well. Strike where I show you and not a breath to either side. If the gate opens and the heart speaks, do not try to answer it. It does not know what a city is. It only knows its own sleep."
+        },
+        {
+            "speaker": "Rhy Tidesong",
+            "text": "I will hum the hymn that mothers use on fevered children, and you must imagine the city in your arms when you hear it. If we must choose between a neat measure and a quiet pulse, we choose the quiet no matter what the Collegium says they can build from neatness. A tide can drown in tidy buckets. We are here to let it breathe."
+        },
+        {
+            "speaker": "Keth of the Nets",
+            "text": "Look at us, all dressed as midwives at the birth of a gate. You have your songs and your hammers. I have my hands and a customer with deeper pockets than your collection plates. Let the opening be wide enough for two favors to pass through and we all go home dry. Or throw me out and watch the door remember it can slam."
+        }
+    ],
+    "connections": {
+        "previous": [
+            3,
+            7,
+            8
+        ],
+        "next": [
+            11
+        ],
+        "related": [
+            12
+        ]
+    },
+    "rewards": [
+        "A clean pulse measure keyed to the heart chamber’s baseline",
+        "Standing access to the Engine’s outer gallery under Bonewright supervision",
+        "If Keth is bargained with: the name of a Salt Parliament fixer moving counterfeit brine"
+    ]
+}

@@ -1,0 +1,899 @@
+{
+    "city": {
+        "name": "Marrowhold",
+        "epithet": "City in the Ribs",
+        "location": "Nested within the calcified ribcage of a fallen sea-titan at the heart of the Saltglass Expanse",
+        "geomorphology": "Arches of titanic bone rise overhead like pale avenues. Streets coil along rib-ledges and through marrow-hollows. Wind organs carved into vertebrae turn the constant desert gusts into low song. A natural canyon, the Spinewind, splits the city beneath, bridged by bone-and-glass spans. The sternum has been carved into a ceremonial gate that sings in storms.",
+        "population": 143000,
+        "demographics": "Humans (55%), ash-elves (11%), glassborn (12%), fen-dren (9%), ogre-blooded (6%), and others (7%) including itinerant skyfolk and caravan clans.",
+        "government": "A precarious Triarchy: the Magistrate of Coin (currently Factor Orun Ves of the Saltglass Syndicate), the Prelate of the Hollow Sun (Lys Amon), and the Legate of the Watch (Tharn Corvell). In practice, guilds and cults control policy through leverage on water permits, skyship tariffs, and bonework licensing.",
+        "economy": "Exports: saltglass panes, fulgurite blades, carved leviathan-bone, marrow-ink, fossil curios, whisper-reed tonics. Imports: timber, grain, iron, beasts of burden, and fresh fruit. Trade flows from caravan trails, skyships docking at Spinespan Aerie, and barge lines from Hearthmirror Lake.",
+        "law_and_order": "The Watch of the Rib patrols ribways and markets, deputizing bone-constructs as shock units during unrest. The Night-Glass Brotherhood deals in secrets the Watch cannot legally touch. The Unentombed police necromancy through internal oaths; licensed rites only.",
+        "religion": "The Order of the Hollow Sun venerates the veiled light said to have scorched the titan; rites involve mirrored reliquaries and bone lanterns. Ancestor cords are tied to rib-hooks in homes. Minor cults include the Wind's Teeth (storm-chanters) and the Last Current (mariners-in-exile).",
+        "magic": "Resonant bonecraft binds runes into calcified strata to carry sound, memory, and force. Marrow-ink acts as a memory conduit when written on skin or vellum. Necromancy is a scholarly discipline restricted to post-mortem counsel and civic labor; true raising is illegal. Star-metal from the Barrows powers rare engines.",
+        "military": "The Watch of the Rib fields 2,400 regulars and 600 reserve Aerie Lancers. The Bonewrights can animate thirty civic constructs in hours if threatened. Skyhooks on the Spinespan Aerie rig trawl-nets to down enemy gliders.",
+        "infrastructure": "Wind-trap condensers feed the Marrowspring Cisterns. Echo-pipes burrow through bone to carry announcements citywide. Shade-canopies of woven reeds stretch between ribs to cut heat. The Resonant Gate channels storm-sound into the city’s alarm network.",
+        "history": "Founded three centuries ago by exile caravans who sheltered in the titan’s ribs after the Glassfall Storm. The Gilding Age began when fulgurite techniques birthed the Saltglass Syndicate. A century ago, the Sunderspark War pitted the Bonewrights against a rogue necromantic cabal; the ribs split and the Under-Ribs collapsed in places. A tenuous peace has held since the Triarchy Accord, but every drought strains it.",
+        "legends": "It is said the titan’s heartseed still turns slow beneath the sternum, warming the city in winter. Every ninety-ninth noon, the Resonant Gate hums a note only children and hounds hear—an omen of famine or fortune. A jawbone door in the Ossuary Palace opens for those who speak their true name forward and backward, revealing a hall of futures in fossil-amber.",
+        "festivals": "Hollowing Day (midsun rites of reflection and bone-polishing), Spinewalk (night procession along rib-edges with mirror-lanterns), Glass Night (fulgurite lightning-calling with sky kites), Water Oath (new season permits blessed at the Cisterns), and the Quiet Thrum (citywide silence kept during the Gate’s long hum).",
+        "imports": [
+            "timber",
+            "grain",
+            "iron",
+            "dried fruit",
+            "pack lizards"
+        ],
+        "exports": [
+            "saltglass",
+            "leviathan-bone carvings",
+            "marrow-ink",
+            "fulgurite blades",
+            "whisper-reed tonics",
+            "fossil curios"
+        ],
+        "dependencies": [
+            "Water rights from Hearthmirror Lake secured through the Caravan League and guarded by the Watch of the Rib.",
+            "Saltglass Syndicate furnaces power a third of the city’s industry; without their cullet stockpiles, work halts.",
+            "Spinespan Aerie tariffs fund the Watch; loss of skyship traffic would cripple public order.",
+            "The Bonewrights’ constructs maintain bridges and ribs; without them, infrastructure fails.",
+            "Whisper Fen herb caravans supply medicines critical to heat-sickness treatment."
+        ],
+        "conflicts": [
+            "The Bonewrights’ Conclave and Saltglass Syndicate contest control of the Iron Garden and fuel rights.",
+            "The Order of the Hollow Sun seeks to curtail the Unentombed’s research after rumors of a heartseed experiment.",
+            "Night-Glass blackmail files have implicated a Triarch; factions scramble to identify which and to control the fallout.",
+            "The Caravan League presses for lower Aerie tariffs; the Rookery threatens a strike.",
+            "Lady Ember-Thorn of Cindervale demands tribute for ash-road protection, backed by mercenaries."
+        ],
+        "notable_districts": [
+            {
+                "name": "Cage Market",
+                "description": "A bazaar slung between ribs on platforms and nets. Stalls spill saltglass trinkets under shadecloths. Bone lanterns sway, carrying color-coded prices."
+            },
+            {
+                "name": "Under-Ribs",
+                "description": "Collapsed neighborhoods beneath the ribline, crowded by refugees and salvage crews. Echoes carry too well; secrets are hard to keep."
+            },
+            {
+                "name": "Spinespan Aerie",
+                "description": "Skyship moorings threaded along the spinal ridge. Windward taverns and the Rookery’s guildhall overlook a sheer drop into the Spinewind."
+            },
+            {
+                "name": "Marrowspring",
+                "description": "Cistern quarter of cool halls and dripping pipes. Water-called chants regulate flow. Authorized distribution is a political cudgel."
+            },
+            {
+                "name": "Ossuary Heights",
+                "description": "Civic quarter within skull cavities. The Triarchs meet here, ringed by ancestral bone reliquaries and whispering echo-pipes."
+            }
+        ]
+    },
+    "surroundings": [
+        {
+            "name": "Hearthmirror Lake",
+            "type": "alkaline lake and shoreworks",
+            "direction": "east",
+            "distance": "12 miles",
+            "description": "A vast mirror of still water rimmed with salt-petals. Low piers and reedworks dot the western shore where condensers hum and barge-lines queue.",
+            "resources": [
+                "freshwater by condensation and skimming",
+                "whisper-reed",
+                "lake-salt",
+                "silver minnows"
+            ],
+            "legends": [
+                "On windless dawns, the lake shows a second sky that answers questions asked in silence.",
+                "The Hearthmirror Saint walks the shallows once each decade, marking a barge whose crew will either found a dynasty or drown together within a year."
+            ],
+            "factions_interest": [
+                "Caravan League of Five Bearings (barge contracts)",
+                "Watch of the Rib (water permits and security)",
+                "Order of the Hollow Sun (blessing rituals)"
+            ],
+            "relationships": [
+                "Primary water source for Marrowhold; loss would collapse the Triarchy.",
+                "Smuggling route for Night-Glass via hidden reed canals."
+            ],
+            "risks": [
+                "alkaline burns during storms",
+                "reed-wraiths that lure with the voices of loved ones",
+                "barge raids from Cindervale cutthroats"
+            ],
+            "hooks": [
+                "A barge marked by mirrored frost refuses to dock; its crew speak only in others’ memories.",
+                "Shore condensers go silent; bone chimes found packed with wet ashes spell a name that no one remembers on waking."
+            ]
+        },
+        {
+            "name": "Saltglass Expanse",
+            "type": "dune sea of fused glass",
+            "direction": "northwest",
+            "distance": "sprawling; begins 3 miles from the outer rib",
+            "description": "Vast dunes of green-blue glass scored by lightning. Shifting waves hiss under sun. Glass wyrms tunnel beneath, leaving skylight rings.",
+            "resources": [
+                "fulgurite rods",
+                "glass shards for cullet",
+                "ancient shipwreck fossils"
+            ],
+            "legends": [
+                "In the heart of the expanse is a storm-anchor that calls lightning on a name spoken into it.",
+                "Glass wyrms are said to be the titan’s last dream, still seeking its ocean."
+            ],
+            "factions_interest": [
+                "Saltglass Syndicate (exclusive cullet rights)",
+                "Watch of the Rib (escort contracts)",
+                "Rookery of Aerie Pilots (storm-kiting for fulgurite harvest)"
+            ],
+            "relationships": [
+                "Fuel for glass furnaces depends on steady cullet; Syndicate patrols clash with free salvors.",
+                "Bonewrights test heat-hardened bone composites here, angering wyrms."
+            ],
+            "risks": [
+                "glassstorms that flay to bone",
+                "wyrm breaches",
+                "mirage pitfalls that are actually thin panes over voids"
+            ],
+            "hooks": [
+                "A fulgurite monolith hums with the same note as the Resonant Gate, syncing stormpaths toward the city.",
+                "A wyrm surfaces bearing a harpoon of star-metal and a torn Rookery banner."
+            ]
+        },
+        {
+            "name": "Whisper Fen",
+            "type": "oasis wetland and reed labyrinth",
+            "direction": "south",
+            "distance": "28 miles",
+            "description": "A green tangle of reed-choked channels and floating orchards. Mist clings low, and frogs sing like flutes.",
+            "resources": [
+                "whisper-reed for instruments and medicines",
+                "fenfruit",
+                "peat",
+                "reed-silk"
+            ],
+            "legends": [
+                "The Fen Queen bargains in breath; a promise broken here steals your voice at sunset.",
+                "A drowned bell tolls only for those whose lovers are unfaithful, pointing a way through the reeds."
+            ],
+            "factions_interest": [
+                "Caravan League (herb caravans)",
+                "Order of the Hollow Sun (pilgrimages to healers)",
+                "Night-Glass Brotherhood (smuggler paths)"
+            ],
+            "relationships": [
+                "Medicines from the Fen limit heat-deaths in Marrowhold each high-sun.",
+                "The Unentombed study reed-born spores that store memories, drawing censure."
+            ],
+            "risks": [
+                "reed-thieves who cut rafts loose at night",
+                "breath-takers (parasites)",
+                "bog lanterns that mimic loved ones’ footsteps"
+            ],
+            "hooks": [
+                "Fen elders refuse trade after a Triarch’s envoy fails to return his voice.",
+                "A reed hymn spreads in Marrowhold; those who hum it dream of the titan’s last breath and wake with wet footprints."
+            ]
+        },
+        {
+            "name": "Starfall Barrows",
+            "type": "meteor-scarred tumuli and catacombs",
+            "direction": "north",
+            "distance": "19 miles",
+            "description": "Low hills peppered with glassy craters. Barrows honeycomb the earth, lined with star-metal veins and bone mosaics.",
+            "resources": [
+                "star-metal shards",
+                "ancient funerary lore",
+                "glowmoss"
+            ],
+            "legends": [
+                "The Barrow-Lords play chess with meteors; their moves are the shooting stars.",
+                "A door of cold air opens on nights of twin comets, leading to a hall where you can bargain away one memory for one future."
+            ],
+            "factions_interest": [
+                "The Unentombed (rite archaeology)",
+                "Bonewrights’ Conclave (star-metal tools)",
+                "Watch of the Rib (keeping tomb-robbers from provoking curses)"
+            ],
+            "relationships": [
+                "Star-metal keeps Aerie skyhooks sharp; supply fluctuations ground ships.",
+                "Hollow Sun clerics pressure to sanctify, limiting Unentombed access."
+            ],
+            "risks": [
+                "memory-sinks that steal names",
+                "tomb gas",
+                "barrow shades who sue in ancient law"
+            ],
+            "hooks": [
+                "A comet-scar brightens; a petition arrives from a Barrow-Lord demanding tithe from the city, written in light on the Ossuary walls.",
+                "A star-metal vein starts to hum in harmony with children’s whispers in the Under-Ribs."
+            ]
+        },
+        {
+            "name": "Cindervale",
+            "type": "ash valley and kiln towns",
+            "direction": "west",
+            "distance": "45 miles",
+            "description": "A broad bowl of black ash with rivers of cooled cinder. Kilns line the slopes, breathing sparks into the dusk. Orchards of ash-apples thrive in the heat.",
+            "resources": [
+                "cinder-iron",
+                "charcoal",
+                "ash-apple brandy",
+                "brick"
+            ],
+            "legends": [
+                "Lady Ember-Thorn is said to have been born with a cinder-rose in her fist; it has never cooled.",
+                "An iron serpent sleeps under the vale—each time it turns, a kiln city shifts one street to the left."
+            ],
+            "factions_interest": [
+                "Saltglass Syndicate (fuel and brick contracts)",
+                "Watch of the Rib (border patrols)",
+                "Caravan League (ash-road toll negotiations)"
+            ],
+            "relationships": [
+                "Cinder-iron feeds the Iron Garden forges; interruptions stall public works.",
+                "Tribute threats from Ember-Thorn create budget crises for the Watch."
+            ],
+            "risks": [
+                "ash lung",
+                "spark storms",
+                "razor-crows that nest in hot brick stacks"
+            ],
+            "hooks": [
+                "Ember-Thorn’s envoys arrive with a sealed brazier demanding the city light it or forfeit the treaty.",
+                "A caravan returns with bricks that bleed warm ash when broken, spelling a name in the dust."
+            ]
+        },
+        {
+            "name": "Rift of Lumes",
+            "type": "bioluminescent canyon",
+            "direction": "northeast",
+            "distance": "33 miles",
+            "description": "A narrow chasm whose walls drip with glowing fungi. Lume-eels coil in hanging pools, pulsing with soft blue light.",
+            "resources": [
+                "lume-fungus (safe light)",
+                "eels (oil)",
+                "cavern quartz"
+            ],
+            "legends": [
+                "At the chasm’s nadir burns an Under-Sun that never rises.",
+                "A singing fissure reads your shadow and speaks the name of the thing you fear to love."
+            ],
+            "factions_interest": [
+                "Order of the Hollow Sun (heresy patrols against the Under-Sun cult)",
+                "Night-Glass Brotherhood (covert meets by eel-light)",
+                "Bonewrights’ Conclave (quartz resonators)"
+            ],
+            "relationships": [
+                "Lume oil lights Under-Ribs clinics; shortages cause night riots.",
+                "Quartz improves echo-pipe fidelity, amplifying Triarch decrees."
+            ],
+            "risks": [
+                "lume-sickness that causes waking dreams",
+                "eel swarms",
+                "rockfall in narrow passes"
+            ],
+            "hooks": [
+                "An Under-Sun hymn catches in Marrowhold; mirrors refuse to reflect those who sing.",
+                "A quartz harp carved in the Rift plays the Gate’s ominous note on its own."
+            ]
+        },
+        {
+            "name": "Skyspine Pinnacle",
+            "type": "high ridge and thermal column",
+            "direction": "above and north",
+            "distance": "0.5 miles from Spinespan Aerie, but 800 feet up",
+            "description": "A needle of rock extending beyond the titan’s spine, catching steady thermals. Rook nests and signal kites crowd the summit platforms.",
+            "resources": [
+                "steady lift for training",
+                "wind-kelp for rope",
+                "rooks (messengers)"
+            ],
+            "legends": [
+                "Cloud rooks carry souls that refuse the ground back to storms.",
+                "In the highest gusts, the titan’s last breath rises as mist; those who breathe it remember a life not their own."
+            ],
+            "factions_interest": [
+                "Rookery of Aerie Pilots (exclusive training rights)",
+                "Watch of the Rib (signal corps)",
+                "Night-Glass Brotherhood (intercepting messages)"
+            ],
+            "relationships": [
+                "Control of signals dictates who learns of threats first; Night-Glass bribes rook-handlers.",
+                "Aerie union power grows with each new rook line."
+            ],
+            "risks": [
+                "sheer drops",
+                "gust shears",
+                "rook fevers"
+            ],
+            "hooks": [
+                "Signal kites vanish into a silent sky; a shadow passes against the sun with bones for wings.",
+                "A rook returns with a mirrored eye; it shows a city on fire not yet burning."
+            ]
+        },
+        {
+            "name": "The Sighing Steps",
+            "type": "ancient stair carved into escarpment",
+            "direction": "southeast",
+            "distance": "21 miles",
+            "description": "A mile of switchback steps cut with organ-pipes that sing when the wind rises. Pilgrims climb with offerings of bone-carved names.",
+            "resources": [
+                "pilgrim trade",
+                "wind-harps",
+                "old stone"
+            ],
+            "legends": [
+                "The Steps were carved by lovers of the titan, who sang to wake it and failed.",
+                "Each thousandth step lies to you in a voice you trust, and each thousand-and-first tells a hard truth in your own."
+            ],
+            "factions_interest": [
+                "Order of the Hollow Sun (custody of pilgrims)",
+                "Saltglass Syndicate (souvenir stalls)",
+                "Caravan League (waystation rights)"
+            ],
+            "relationships": [
+                "Pilgrim coins grease Hollow Sun coffers, aiding their political reach.",
+                "Step-stalls siphon coin from the Cage Market, sparking merchant feuds."
+            ],
+            "risks": [
+                "gust-toppling",
+                "step-bandits in the harmonium caves",
+                "bone-singers who tax with song"
+            ],
+            "hooks": [
+                "A procession refuses to descend; they claim the Steps are breathing.",
+                "The thousandth step tells the same lie to everyone: the Triarchy is already dead."
+            ]
+        }
+    ],
+    "buildings": [
+        {
+            "name": "Ossuary Palace",
+            "location": "Ossuary Heights, within the titan’s skull",
+            "function": "Triarch council, courts, and civic ceremonies",
+            "description": "Chambers carved through jawbones and sinus caverns adorned with reliquaries of honored dead. Echo-pipes run like veins to carry proclamations across the city.",
+            "history": "Raised in the Gilding Age after bonecraft matured. The Sunderspark War scarred its lower halls; a hundred niches remain sealed for shame.",
+            "factions_influence": [
+                "Order of the Hollow Sun (ritual custodians of the council chamber)",
+                "Watch of the Rib (court enforcement)",
+                "Night-Glass Brotherhood (informants in the clerk corps)"
+            ],
+            "dependencies": [
+                "Echo-pipe maintenance by Bonewrights keeps law audible citywide.",
+                "Saltglass panes temper the harsh sun in the Hall of Mirrors."
+            ],
+            "rivalries": [
+                "The Unentombed contest Hollow Sun relic claims stored in sealed niches.",
+                "Saltglass Syndicate lobbyists compete with Caravan League petitioners in waiting halls."
+            ],
+            "secrets": [
+                "A sealed jawbone door opens to a fossil-amber hall that reflects possible votes before they are cast.",
+                "One echo-pipe does not connect to any court; it leads to a private chamber under the Prelate’s apartments."
+            ],
+            "rules": [
+                "No iron blades may be drawn within the Hall of Mirrors.",
+                "Whispering during proclamations is a fine and a public brushing of the ribs."
+            ]
+        },
+        {
+            "name": "Resonant Gate",
+            "location": "At the carved sternum on the Spinewind’s edge",
+            "function": "Ceremonial gate, storm-harp, and alarm system",
+            "description": "A ribbed doorway strung with bone strings and bronze tongues that sing in rising winds. The sound carries through calibrated echo-pipes as warning or ritual bell.",
+            "history": "Carved in early settlement days to harness storm-sound. It hummed a three-day note before the Sunderspark War.",
+            "factions_influence": [
+                "Watch of the Rib (key custody for storm-seals)",
+                "Order of the Hollow Sun (ritual rights on festival days)",
+                "Bonewrights’ Conclave (string and frame maintenance)"
+            ],
+            "dependencies": [
+                "Gate alarms coordinate water rationing and fire brigades.",
+                "A harmonic alignment with Quartz from the Rift of Lumes keeps tones stable."
+            ],
+            "rivalries": [
+                "Rookery pilots resent Hollow Sun control of festival flyovers.",
+                "Night-Glass maintains a tuning diagram stolen from the Bonewrights."
+            ],
+            "secrets": [
+                "A hidden chord unlocks a subsonic passage to the Under-Ribs.",
+                "When played in a star-metal key, the Gate maps lightning paths onto the city’s roofs."
+            ],
+            "rules": [
+                "No unauthorized plucking under penalty of finger-branding.",
+                "Gate must be sounded at dusk during sandstorm season."
+            ]
+        },
+        {
+            "name": "Archive of Veins",
+            "location": "Marrowspring district, along a thickened vein of bone",
+            "function": "Library of marrow-ink records and civic memory",
+            "description": "Scrolls written on stretched vellum and bone slates, each line bound with ritually prepared ink that can be sung back into the ears of scribes.",
+            "history": "Founded by the first Unentombed scholars; later placed under a joint charter with the Watch after historical edits sparked riots.",
+            "factions_influence": [
+                "Night-Glass Brotherhood (black file stacks and rumor ledgers)",
+                "The Unentombed (curators of funerary treatises)",
+                "Watch of the Rib (custody of criminal records)"
+            ],
+            "dependencies": [
+                "Ink supplied by marrow breweries at the Iron Garden.",
+                "Lume oil from the Rift keeps night copying safe."
+            ],
+            "rivalries": [
+                "Saltglass Syndicate funds public reading rooms to sway opinion of trade matters.",
+                "Hollow Sun seeks to annex heretical scrolls on the Under-Sun."
+            ],
+            "secrets": [
+                "A shelf of erased names whispers in sleep to those who shelve there.",
+                "A living indexer, grown from reed-spores, knows every step a reader has taken."
+            ],
+            "rules": [
+                "No speaking names louder than a hum in the Name Aisle.",
+                "Borrowed boneslates must be returned with a cup of clean water."
+            ]
+        },
+        {
+            "name": "Ember Market",
+            "location": "Cage Market, lowwind side",
+            "function": "Smelters, glassworks, and hot trade",
+            "description": "Covered lanes of kilns and annealing beds where glass flows like honey. Sparks rise like drifting fireflies in the shade.",
+            "history": "Built during the Syndicate’s rise as an enclosed furnace quarter to prevent glassstorms in open streets.",
+            "factions_influence": [
+                "Saltglass Syndicate (owners and taxers)",
+                "Caravan League (fuel and sand haulage)",
+                "Watch of the Rib (fire wardens)"
+            ],
+            "dependencies": [
+                "Cinder-iron and charcoal from Cindervale keep furnaces lit.",
+                "A steady cullet stream from the Saltglass Expanse shapes quality."
+            ],
+            "rivalries": [
+                "Bonewrights bid against Syndicate for kiln-time to temper bone composites.",
+                "Rookery pilots broker cargo priority in return for under-the-table repairs."
+            ],
+            "secrets": [
+                "A hidden crucible creates mirrors that do not reflect the holder’s lies.",
+                "An old kiln-witch can fix a shard inside a bone, turning it into a seeing window."
+            ],
+            "rules": [
+                "Hair and veils must be tied; embers steal souls through loose ends, so the workers say.",
+                "Market bells ring thrice for uncontrolled flare; evacuate along the blue-marked lines."
+            ]
+        },
+        {
+            "name": "Temple of the Hollow Sun",
+            "location": "Ossuary Heights, facing the Resonant Gate",
+            "function": "Religious center, rites, and arbitration",
+            "description": "A domed hall with a mirror-oculus that dims the sun to a soft halo. Bone lanterns line a nave of pale steps. Reliquaries hum with prayer.",
+            "history": "Raised after the first drought, credited with saving the city through ration prayers and water oaths.",
+            "factions_influence": [
+                "Order of the Hollow Sun (absolute control of rites)",
+                "Triarchy (uses arbitration court under temple neutrality)"
+            ],
+            "dependencies": [
+                "Pilgrim alms support soup lines during droughts.",
+                "Mirror maintenance from the Saltglass Syndicate prevents burns."
+            ],
+            "rivalries": [
+                "The Unentombed object to doctrinal edits in ancestor-counsel rites.",
+                "Night-Glass plants confessors to gather leverage."
+            ],
+            "secrets": [
+                "The oculus sometimes reflects a second nave where the pews are empty and the reliquaries are bones of giants.",
+                "A reliquary hum matched the Gate’s long note before each past famine."
+            ],
+            "rules": [
+                "No shoes upon the mirror floor.",
+                "No coin may be counted aloud within the dome."
+            ]
+        },
+        {
+            "name": "Spinespan Aerie",
+            "location": "Along the titan’s spine, high above the Spinewind",
+            "function": "Skyship moorings, guildhall, and signal tower",
+            "description": "Tiered platforms with skyhooks and wind-sails. Rookery perches crowd the highest mast. Signal kites mark wind shear and tariff codes.",
+            "history": "Began as a single mooring beam. After the Gilding Age, it doubled every decade until the Sunderspark War froze expansion.",
+            "factions_influence": [
+                "Rookery of Aerie Pilots (dock rules and strike threat)",
+                "Watch of the Rib (tariff enforcement)",
+                "Caravan League (freight contracts)"
+            ],
+            "dependencies": [
+                "Star-metal edgework from the Barrows keeps hooks keen.",
+                "Wind-kelp ropes from Skyspine Pinnacle prevent catastrophic snaps."
+            ],
+            "rivalries": [
+                "Saltglass demands priority for cullet shipments; Caravan League balks.",
+                "Bonewrights argue for structural reinforcement budgets."
+            ],
+            "secrets": [
+                "A mooring chain hums a counter-note to the Gate; it is weakening and will snap within three storms unless appeased.",
+                "A hidden hangar holds a kite-sail that rides lightning instead of wind."
+            ],
+            "rules": [
+                "No drunk rooking on the upper perches.",
+                "Signal codes change at each dusk bell; theft is exile."
+            ]
+        },
+        {
+            "name": "Iron Garden",
+            "location": "Ribward of the Cage Market",
+            "function": "Forge park, construct yard, and metalworks",
+            "description": "Rows of iron cacti bristle with tongs and tools. Bone-and-iron constructs rest under shadecloth, their ribs etched in runes.",
+            "history": "Established by the Bonewrights to centralize forgework; expanded via Syndicate funding for civic works.",
+            "factions_influence": [
+                "Bonewrights’ Conclave (masters of the yard)",
+                "Saltglass Syndicate (capital investment)",
+                "Watch of the Rib (military requisitions)"
+            ],
+            "dependencies": [
+                "Cinder-iron from Cindervale and cullet for tempering composite bone.",
+                "Water allotments from Marrowspring for quenching."
+            ],
+            "rivalries": [
+                "Syndicate accountants meddle in Bonewrights’ designs.",
+                "Unentombed inspectors demand ethics seals on constructs."
+            ],
+            "secrets": [
+                "A retired war-construct remembers an order it never carried out: seize the Ossuary Palace.",
+                "A cactus blooms once per decade; its flower is steel that sings the names of those it will cut."
+            ],
+            "rules": [
+                "Apprentices must dress their tools like gardens; rust is a sin.",
+                "Constructs may not be given faces."
+            ]
+        },
+        {
+            "name": "Marrowspring Cisterns",
+            "location": "Marrowspring district",
+            "function": "Water capture, storage, and rationing",
+            "description": "Cool, echoing halls where water drips from bone condensers into stone troughs. Brass counters track quotas; chant-lines regulate flow.",
+            "history": "Built from the first years of settlement, expanded thrice during droughts with emergency ribs tapped for condensation.",
+            "factions_influence": [
+                "Watch of the Rib (ration security)",
+                "Order of the Hollow Sun (Water Oath rites)",
+                "Caravan League (barge unloading schedules)"
+            ],
+            "dependencies": [
+                "Steady barge arrivals from Hearthmirror Lake.",
+                "Echo-pipe signals from the Gate during crisis rationing."
+            ],
+            "rivalries": [
+                "Night-Glass bribes ration clerks to funnel water to Under-Ribs allies.",
+                "Syndicate pushes glass-lined pipes over bone, angering Bonewrights."
+            ],
+            "secrets": [
+                "A hidden overflow leads to a clean pool where the water forgets who drank it; debts do not follow those who drink.",
+                "The count-wheels have been skipping teeth during the Quiet Thrum."
+            ],
+            "rules": [
+                "No open flames within three doors of the cistern mouths.",
+                "Ration tokens are bone-cut and bound to a person’s bite; trading them is an arrestable offense."
+            ]
+        },
+        {
+            "name": "Hall of the Unentombed",
+            "location": "Under-Ribs, set into a knotted vertebra",
+            "function": "Necromantic academy, ethics tribunal, and ritehouse",
+            "description": "Austere halls of pale stone and curtained alcoves. Whisper-wires carry the soft tones of post-mortem counsel rooms.",
+            "history": "Founded after the Sunderspark War to regulate necromancy under public vows. The Hall’s charter binds every practitioner to the city’s dead.",
+            "factions_influence": [
+                "The Unentombed (governance and teaching)",
+                "Order of the Hollow Sun (oversight pressure)",
+                "Night-Glass Brotherhood (clients seeking erased testimonies)"
+            ],
+            "dependencies": [
+                "Access to the Archive of Veins’ funerary rolls.",
+                "Lume oil to light counsel chambers without flame."
+            ],
+            "rivalries": [
+                "The Watch plants informers after rumors of heartseed research.",
+                "Bonewrights petition for the right to animate more civic labor constructs."
+            ],
+            "secrets": [
+                "Professor Nyra Vale keeps a bone sliver that thrums in time with the Gate; she believes it to be a piece of the heartseed.",
+                "A sealed alcove whispers with a voice that names future droughts."
+            ],
+            "rules": [
+                "No raising beyond counsel; no binding beyond seven nights.",
+                "Every rite must be witnessed by three: a student, a relative, and the city."
+            ]
+        }
+    ],
+    "politics": [
+        {
+            "name": "Bonewrights’ Conclave",
+            "type": "craft guild and civil engineers",
+            "leader": "Matron Sere Kall",
+            "symbols": [
+                "ivory saw",
+                "knotted bone cord"
+            ],
+            "agenda": [
+                "Maintain and expand bone infrastructure without foreign dependence.",
+                "Win autonomous authority over construct law and emergency engineering."
+            ],
+            "resources": [
+                "construct yard at the Iron Garden",
+                "apprentice schools",
+                "patents on composite bone"
+            ],
+            "methods": [
+                "strikes of maintenance crews",
+                "public works gifts",
+                "ritual demonstrations of structural failures"
+            ],
+            "allies": [
+                "Watch of the Rib (in crises)",
+                "The Unentombed (on ethics committees)"
+            ],
+            "enemies": [
+                "Saltglass Syndicate",
+                "Night-Glass Brotherhood"
+            ],
+            "history": "Rooted in the founding caravans’ bonecutters, the Conclave rose as the city scaled the ribs. Their near-coup in the Sunderspark War led to a binding charter limiting their command in wartime.",
+            "influence": "Controls bridges, echo-pipes, and construct labor allocations. Without their blessing, the city slows to a crawl.",
+            "current_conflicts": [
+                "Battle with the Syndicate over the Iron Garden’s budget and ore procurement.",
+                "Internal schism between conservative rib-keepers and radical composite innovators."
+            ]
+        },
+        {
+            "name": "Saltglass Syndicate (Guild of Nine Weights)",
+            "type": "merchant consortium and industrial magnates",
+            "leader": "Factor Orun Ves",
+            "symbols": [
+                "nine-beamed scale",
+                "green-glass coin"
+            ],
+            "agenda": [
+                "Monopolize cullet and glasswork supply to dictate city policy.",
+                "Replace bone infrastructure with glass-lined systems under their control."
+            ],
+            "resources": [
+                "Ember Market furnaces",
+                "caravan shares in Cindervale",
+                "mirrorworks"
+            ],
+            "methods": [
+                "tariff manipulation",
+                "soft loans and debt hooks",
+                "patronage of public festivals"
+            ],
+            "allies": [
+                "Caravan League of Five Bearings (when profitable)",
+                "Night-Glass Brotherhood (quiet favors)"
+            ],
+            "enemies": [
+                "Bonewrights’ Conclave",
+                "Rookery of Aerie Pilots (over tariffs)"
+            ],
+            "history": "Born from three furnace families who survived the Glassfall Storm by sheltering beneath fused dunes. Their Nine Weights ledger is a secret set of prices that never changes.",
+            "influence": "Sets prices on windows, mirrors, and cullet. Funds law courts and guild feasts to sway the Triarchy.",
+            "current_conflicts": [
+                "Negotiations with Ember-Thorn for exclusive ash-road, risking war if talks sour.",
+                "Smuggling losses to Night-Glass copycats undermining their control."
+            ]
+        },
+        {
+            "name": "Order of the Hollow Sun",
+            "type": "religious institution and moral arbiter",
+            "leader": "Prelate Lys Amon",
+            "symbols": [
+                "eclipsed sun reliquary",
+                "mirror-oculus"
+            ],
+            "agenda": [
+                "Bind drought relief to temple authority via Water Oaths.",
+                "Stamp out Under-Sun heresies and limit necromancy."
+            ],
+            "resources": [
+                "Temple coffers",
+                "pilgrim donations",
+                "oath network"
+            ],
+            "methods": [
+                "public fasts",
+                "sanctuary courts",
+                "ritual endorsements of Triarch decrees"
+            ],
+            "allies": [
+                "Watch of the Rib",
+                "Saltglass Syndicate (on festival funding)"
+            ],
+            "enemies": [
+                "The Unentombed",
+                "Under-Sun cult splinters"
+            ],
+            "history": "Founded by desert ascetics who saw a veiled light in the Gate’s first storm-song. They quelled two food riots by opening temple stores; their popularity waxes and wanes with the rains.",
+            "influence": "Temples across districts shape public virtue and control the narrative of scarcity and mercy.",
+            "current_conflicts": [
+                "Pushing for a ban on heartseed research allegedly ongoing in the Hall of the Unentombed.",
+                "Debate within the Order whether to bless the Syndicate’s mirror-lined aqueduct plan."
+            ]
+        },
+        {
+            "name": "Night-Glass Brotherhood",
+            "type": "secret society of informers, thieves, and memory-brokers",
+            "leader": "The Nameskeeper (true identity unknown)",
+            "symbols": [
+                "black mirror shard",
+                "gloved hand with an empty palm"
+            ],
+            "agenda": [
+                "Own every secret that moves within the ribs.",
+                "Bleed the Syndicate while keeping them indebted."
+            ],
+            "resources": [
+                "black file stacks in the Archive of Veins",
+                "mirror-masked agents",
+                "smuggler boats at Hearthmirror"
+            ],
+            "methods": [
+                "blackmail ledgers",
+                "forged marrow-ink entries",
+                "mirror-drops at the Aerie"
+            ],
+            "allies": [
+                "Caravan League (occasionally)",
+                "Saltglass Syndicate (begrudging clients)"
+            ],
+            "enemies": [
+                "Watch of the Rib",
+                "Bonewrights’ Conclave"
+            ],
+            "history": "Began as mirror handlers in Ember Market. Their first triumph was swapping a death sentence scroll with a love letter in the Ossuary Court.",
+            "influence": "Can topple minor officials overnight. Keeps factions paranoid and paying.",
+            "current_conflicts": [
+                "A leaked ledger implicates one of the Triarchs; internal debate over whether to use or bury it.",
+                "A splinter cell sells Under-Sun hymns that erase faces in reflections."
+            ]
+        },
+        {
+            "name": "Watch of the Rib",
+            "type": "city guard and civil militia",
+            "leader": "Legate Tharn Corvell",
+            "symbols": [
+                "ribcage encircling a star",
+                "bone whistle"
+            ],
+            "agenda": [
+                "Keep order along ribways and markets.",
+                "Secure water lines and the Gate during crises."
+            ],
+            "resources": [
+                "armories in Ossuary Heights",
+                "Aerie Lancers",
+                "oathbound deputies"
+            ],
+            "methods": [
+                "curfews",
+                "ration escorts",
+                "construct deputization"
+            ],
+            "allies": [
+                "Order of the Hollow Sun",
+                "Bonewrights’ Conclave"
+            ],
+            "enemies": [
+                "Night-Glass Brotherhood",
+                "Cindervale raiders"
+            ],
+            "history": "Formed from caravan guards; professionalized after the Sunderspark War with Aerie Lancers as a rapid response wing.",
+            "influence": "Controls permits for gatherings; can shut districts with whistle-chains and echo calls.",
+            "current_conflicts": [
+                "Budget shortfalls as Aerie tariffs falter due to storms.",
+                "A rumored conspiracy among sergeants to replace the Legate."
+            ]
+        },
+        {
+            "name": "The Unentombed",
+            "type": "necromantic academy and ethics council",
+            "leader": "Professor Nyra Vale",
+            "symbols": [
+                "silver thread around a bone chip",
+                "open eye with a tear"
+            ],
+            "agenda": [
+                "Preserve and consult the city’s dead within ethical bounds.",
+                "Study the titan’s heartseed to stabilize climate and drought cycles."
+            ],
+            "resources": [
+                "Hall of the Unentombed",
+                "licensed practitioners",
+                "rite libraries"
+            ],
+            "methods": [
+                "public counsel rites",
+                "peer oaths",
+                "quiet fieldwork in Barrows"
+            ],
+            "allies": [
+                "Bonewrights’ Conclave (on civic labor)",
+                "Archive of Veins"
+            ],
+            "enemies": [
+                "Order of the Hollow Sun",
+                "Watch hardliners"
+            ],
+            "history": "Sworn into law after rogue raisings nearly tore the city apart. They bind themselves to the city’s dead with threads of duty visible only in temple mirrors.",
+            "influence": "Without their rites, civic memory and oath verification degrade; contracts and lineages blur.",
+            "current_conflicts": [
+                "Internal split over heartseed experiments that may cross legal lines.",
+                "Accusations that they erased testimonies for Night-Glass clients."
+            ]
+        },
+        {
+            "name": "Caravan League of Five Bearings",
+            "type": "trade coalition and road wardens",
+            "leader": "Mistress Pall Ludo",
+            "symbols": [
+                "five-point wind-rose knot",
+                "braided reins"
+            ],
+            "agenda": [
+                "Lower tariffs at the Aerie and protect lake-barge monopolies.",
+                "Break Cindervale tribute demands without war."
+            ],
+            "resources": [
+                "road guards",
+                "barges on Hearthmirror",
+                "warehouses in Cage Market"
+            ],
+            "methods": [
+                "embargo threats",
+                "convoy strikes",
+                "funding rival candidates for Magistrate of Coin"
+            ],
+            "allies": [
+                "Night-Glass Brotherhood (for intel)",
+                "Watch of the Rib (for escort contracts)"
+            ],
+            "enemies": [
+                "Saltglass Syndicate",
+                "Rookery of Aerie Pilots"
+            ],
+            "history": "Forged by five caravan families who mapped the safest glass-dune paths. Their oath is to the wind, not the wall.",
+            "influence": "Chokes or floods the city with goods at will, turning scarcity into leverage.",
+            "current_conflicts": [
+                "Tariff war with the Rookery over sky-freight versus road share.",
+                "Smoldering dispute with the Syndicate over warehouse seizures."
+            ]
+        },
+        {
+            "name": "Rookery of Aerie Pilots",
+            "type": "aeronaut guild and signal corps",
+            "leader": "First Rook Jey Olt",
+            "symbols": [
+                "winged hook",
+                "rook feather laced with glass thread"
+            ],
+            "agenda": [
+                "Maintain control of dock rules and tariff signals.",
+                "Upgrade moorings with Barrow star-metal and expand training at Skyspine."
+            ],
+            "resources": [
+                "Spinespan Aerie",
+                "signal kites",
+                "rook messengers"
+            ],
+            "methods": [
+                "dock slowdowns",
+                "signal blackouts",
+                "sponsoring daring rescues for public favor"
+            ],
+            "allies": [
+                "Watch of the Rib (during evacuations)",
+                "Bonewrights’ Conclave (for structural upgrades)"
+            ],
+            "enemies": [
+                "Caravan League of Five Bearings",
+                "Saltglass Syndicate"
+            ],
+            "history": "From kite-sailers to formal pilots after the Gilding Age. Their greatest feat was towing a burning skyship clear of the ribs in a storm.",
+            "influence": "Can starve the city of sky goods or speed relief in a day. Their heroes are folk legends.",
+            "current_conflicts": [
+                "A faction wants to form an independent sky-city and leave Marrowhold behind.",
+                "Tariff code leaks blamed on a traitor within the Rookery."
+            ]
+        }
+    ]
+}

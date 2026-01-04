@@ -1,0 +1,59 @@
+{
+    "name": "Nerey",
+    "surname": "Alis",
+    "race": "Human",
+    "age": 51,
+    "appearance": "Tall and spare with tide-gray hair bound in shell pins, sea-weathered skin, and a cloak woven with lantern-thread that shimmers in stormlight.",
+    "character": "Pragmatic harbor mother who weighs every risk against the city’s long memory; slow to anger, quicker to bind an oath than a boast.",
+    "traits": [
+        "even-tempered",
+        "strategic",
+        "civic-minded",
+        "guarded",
+        "ritual-respectful"
+    ],
+    "skills": [
+        "harbor logistics",
+        "mediation",
+        "oath ceremony protocol",
+        "emergency chain-gate drills",
+        "tri-faction negotiation"
+    ],
+    "talents": [
+        "reading currents by sound",
+        "steel-nerved under pressure",
+        "photographic recall of faces and debts"
+    ],
+    "flaws": [
+        "overcautious with innovation",
+        "keeps secrets too tightly",
+        "suspicious of zealotry"
+    ],
+    "dreams": [
+        "Open a sanctioned route through the Veiled Current without empowering smugglers",
+        "Seed a new beacon that reconciles guild claims",
+        "End rolling tariff wars that starve the Lamplands"
+    ],
+    "secrets": [
+        "Once ordered a targeted blackout during the Corsair Year that led to civilian casualties, buried in sealed ledgers",
+        "Holds an unsigned resignation letter in her desk for the day the Beacon keens in clear sky"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sorev Katch",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Isha Brinehand",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sel Var Saltvein",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Thalen Marr",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

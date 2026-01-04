@@ -1,0 +1,86 @@
+{
+    "id": "M1",
+    "title": "The Gate’s Second Note",
+    "quest_giver": {
+        "name": "Isha Velroon",
+        "affiliation": "Order of the Hollow Sun"
+    },
+    "description": "On a day without wind, the Resonant Gate gives a second, lower note that rattles cup rims and stirs old grief, and even the mirror-oculus in the Temple dims itself as if a cloud has passed inside stone. In the Marrowspring halls, the brass counters skip like frightened teeth and a smear of wet ash clings beneath each tally wheel, leaving prints like the sigh of a storm that never came. Echo-pipes breathe a subsonic promise through bone corridors, the kind of promise that the city remembers with its nerves and forgets with its tongue. Isha Velroon summons Rogan Kettlebone to stand beneath reliquaries that tremble against their hooks, asking him to carry a truth that will not shatter when brought into light. Rumors surge along rib-ledges and market nets as quick as sand, saying the titan’s heartseed is turning in its sleep or that greedy hands have mis-tuned the Gate to frighten the city into obedience. Rogan’s old habits tighten around him like his rib-lamellar, beckoning him to count, to cordon, to calm, yet the hum crawls beneath his etched oath cords and spells a name that empties itself the moment he breathes it. This is how it begins in the City in the Ribs, with a note that should not exist, a tally that will not keep its measure, and a priest who trusts a stubborn warrior to walk where law and rumor try to trip one another.",
+    "objectives": [
+        "Meet Isha Velroon in the Temple of the Hollow Sun and receive a sanctuary writ.",
+        "Inspect the Marrowspring Cistern count-wheels; collect ash residue and note missing teeth.",
+        "Trace the subsonic hum through echo-pipes to the hidden service tunnel under the Resonant Gate.",
+        "Recover a bundle of bone chimes packed with wet ash that spell a name no one remembers on waking.",
+        "Report findings to Isha and decide whether to inform the Watch or the Bonewrights first."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Isha Velroon",
+            "lines": "You still carry yourself like a man listening for orders, Rogan, but the person I need is the one who refused to speak a lie when the city demanded it. The Gate sounded a second note, lower than prayer and closer to grief, and every reliquary in this nave trembled as if a shadow had hands. I have watched the oculus dim without command and seen candles gutter in a room without wind, and I will not comfort the city with an easy story while a difficult truth waits. I ask you to walk the ribs as you once did for the Watch, but with your old whistle silenced and your conscience kept awake. Bring me a truth that can survive being said aloud, a truth that does not dissolve like a dream at noon, and I will answer for trusting you before the Triarchs and before the Hollow Sun."
+        },
+        {
+            "speaker": "Rogan Kettlebone",
+            "lines": "I have heard the Gate lie when lightning stabbed the dunes and told children to run, and I have heard it warn an hour early so we could lead the elders to shade and dignity. This was neither lie nor warning as I have known them, but a hand sliding under the ribs to press the breath short and whisper a name my mouth cannot keep. I will take your writ and I will step carefully, because careful steps keep blood in thirsty streets, but I will not walk blind if I find Syndicate fingers on sacred strings. I will count the teeth that jump like panicked fish, and I will feel the pipes as if they were veins and I were a physician of echoes. If someone mis-tuned our city to sell fear, I will haul their false note into the sun and let the people hear what it costs."
+        },
+        {
+            "speaker": "Marrowspring Scribe",
+            "lines": "Look close and you will see the tenth tooth trying to vanish, and when the count passes it the wheel shakes as if embarrassed to be seen. Three times today I have wiped away ash that should not be wet, and three times it returned, marking the brass with a smear as soft as breath. My clerks hum a tune in their sleep and forget it when they wake, and each tells me the same thing without the same words, that the tune begged for a name. There is no draft here, and yet my hairs rise like reeds before rain, which is a blasphemy in a hall that worships stillness. If you mean to follow that wrongness, take the pipe that should be cool and is instead the slightest bit warm, like a secret someone hoped the bone would keep for them."
+        },
+        {
+            "speaker": "Rogan Kettlebone",
+            "lines": "I have been in enough riot halls to know when a wall pretends to be innocent and is not, and this one is guilty of humming to itself in a way it was not built to do. The warmth is not from flame, but from movement, and the movement is not of air, but of intention, and that is the worst kind because it never trips on stairs. There is a chord hidden in the ribs and someone has plucked it under cover of our prayers, and the pluck moved water by frightening the numbers instead of the flow. I will walk the service tunnel and cross where I am not invited, and if the echoes try to scatter me I will tie wind-kelp to my waist and make the pipe my rope. Keep your scribes at their work with soft voices and no sudden bells, because when the city listens together the city is strong."
+        },
+        {
+            "speaker": "Bone Chimes",
+            "lines": "Hung in a hidden niche where a hand-shaped absence cooled the dust, the chimes do not sing so much as thud like teeth tapped by a restless tongue. When lifted, threads of wet ash slough between the ribs and settle into a pattern on the stone, a pattern that kneels into a name and then stands up and walks away from memory. The smell is of rain that never arrived and of a hearth that went cold in the telling, a scent meant to summon grief without giving it a cause. If a mouth is brave enough to shape the syllables, the syllables are brave enough to slip the mind and leave only a taste of iron and old vows. The bundle is heavier than bone should be, as if it has been fed with quiet promises and expects to be fed again."
+        },
+        {
+            "speaker": "Isha Velroon",
+            "lines": "You bring a cold with you that prayers do not banish, and I do not think it comes from the desert night but from a bone left too long without witness. You say a name was written in ash like a confession and that your memory will not let you keep it, and that is not how glass keeps light or how honest sound behaves. If memory itself has been tied to a note then whoever tied it is playing the city like a harp no one consented to hear. I will order silence tonight not as a fast but as a listening, and we will keep watch on the Gate to see whether it seeks to speak again of its own will. Tell me now which ear we give this truth to first, the Watch who keeps law with whistles or the Bonewrights who keep bridges with vows."
+        },
+        {
+            "speaker": "Matron Sere Kall",
+            "lines": "Give those chimes to my hands and to no accountant’s ledger, ogre-blood, because bone that weeps ash has been wronged by art or by debt and I am mother to both. My Conclave binds sound to structure with oaths ancient and dull, and for it to be bent into theft of memory is a trespass that will not be negotiated in coin. If the Guild of Nine Weights has threaded glass into my city’s marrow and then tuned it to frighten clerks, I will mark every furnace that fed the sin and shut them with my own hammer. You know I do not love the Watch when it thinks itself a king, and yet I have marched beside their whistles when bridges lilt in storms, so measure carefully the order of your telling. Hand me the bundle and I will hear it the way a surgeon hears a chest in the night, and if it speaks of mischief, the Conclave will answer in the language of braces and broken contracts."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Carry the evidence to the Watch first",
+            "text": "Rogan decides to walk the high ribs toward Ossuary Heights and present the bundle and his notes to Legate Tharn Corvell’s duty dais, letting the echo-pipes carry his report into the clerk vaults before rumors devour it. He frames his steps with the certainty of a man who knows curfews and cordons, because if panic is brewing, whistles can pen it to pens where it does less harm. He remembers the ration riots and how quickly fear turns to heat, and he thinks the Watch is the only hand that can cool a boiling street without snapping the bridges. The sanctuary writ rests against his chest like an extra rib and he is ready to show it but not wield it, because he knows how pride bites when cornered by temple paper. He also knows that telling the Watch first will put eyes on the Bonewrights and the Syndicate in equal measure, and in that balance there may be safety, even if it angers craftsmen who prefer to be asked before they are accused.",
+            "outcome": "The Legate listens with a face like carved bone and orders a quiet cordon around the Gate’s service tunnels, which prevents tampering but lights a fuse of resentment among Bonewright apprentices who find Watch seals where their tools should be. Aerie Lancers pass word by rook and kite, and a dusk bell carries a new whistle pattern that means hold and listen, and the city settles into an uneasy quiet that feels like a held breath. The Night-Glass Brotherhood hears of the seals within an hour and begins to test your name for weaknesses, because first tellers are either very brave or very alone. Isha’s trust in you grows because you dared to choose order before favor, and the Order’s door opens to you with a little more warmth and a cup of clean water no one tallies. Matron Sere Kall agrees to examine the chimes under Watch witness, but she speaks five heavy sentences about jurisdiction that promise a future argument, and craftsmen in the Iron Garden watch you with eyes that weigh and remember."
+        },
+        {
+            "id": "C2",
+            "title": "Bring the chimes to the Bonewrights’ Conclave first",
+            "text": "Rogan places his steps toward the Iron Garden, letting the ring of hammers and the sigh of quenching troughs steady the hum still crawling under his skin. He knows bone speaks truer to the Bonewrights than to any other ear, and if memory has been tied to sound, then those who tie runes into ribs can hear how the knot was made and how to unmake it. He also knows the Watch will bristle when told second, but he has seen what pride costs when bridges fall, and he chooses to give knowledge to craftsmen who can act without declaring a curfew. He presents the bundle to Matron Sere Kall in a yard where constructs sleep like patient oxen, and he asks for a listening before a judgment because he has been judged without listening and will not do the same to others. He carries Isha’s writ but does not flash it, trusting that Sere Kall’s oath to the city’s bones is older than any coin and sharper than any blade.",
+            "outcome": "The Matron calls a hush over the Garden and brings in a circle of senior Bonewrights who hold the chimes with gloved reverence and mutter terms that taste like braces, anchors, and relief cuts. They detect a filament of glass-thread braided through resonant bone, a sacrilege blamed on a hand that knows both furnaces and pipes, and they swear to insulate the Gate’s hidden chord before another night can be tuned against the city. The Watch hears second and sends a vexed sergeant with a legal slate, and he scowls at you as if you were a corridor someone took without a permit, but Isha’s writ melts his scowl into a duty he cannot refuse. The Order of the Hollow Sun marks your choice as a mercy toward craft and truth, and a small lantern burns in your name for a night in the Temple, though no one says so aloud. The Syndicate’s agents in the Ember Market feel the tremor of the Conclave’s attention and grow careful with their tongues, and you sense that you have bent a future quarrel away from blood and toward tools, which is the best direction a quarrel can be bent."
+        },
+        {
+            "id": "C3",
+            "title": "Consult the Night-Glass Brotherhood in secret before informing anyone",
+            "text": "Rogan descends along shadecloth stairs and takes the long path through the Cage Market’s quiet lanes, where mirror-shards watch like lizards and rumors hide in the seams of awnings. He knows the Night-Glass Brotherhood has a file for every hum and a ledger for every breath, and if a name has been erased from memory, they may have the ink that shows where it went when it left. He also knows that telling them invites a hand into his pocket that will never quite leave, and that debts written in reflection do not fade when morning comes. Still, information can save a life, and if the Gate has been tuned to eat names, the Brotherhood will know who owned the tuning fork and what price they called due. He offers them the description of the ash-script and not the chimes themselves, holding the bundle behind his back like a secret he wants to keep until he knows whether the secret wants to keep him.",
+            "outcome": "The Nameskeeper’s agent listens behind a black shard and recites back to you three places where ash has spelled names that slipped, two of them in years of famine and one of them last dusk in a Syndicate storeroom, which is a pattern even a priest would call a sermon. They offer you a name that tastes like coin and glass and oath, and though your tongue forgets it at once your marrow pricks like a dog that hears its master in a crowd, and you know the shape of the guilt if not the word. In return they demand the first look at any future ash-script you find and the last look at any ledger you hope to burn, which is a leash braided from favors and silence. If you accept, your path to truth grows quicker and more dangerous, and the Order will forgive you if the city is saved and never forgive you if it is not, which is the calculus of saints and sinners alike. When you finally bring word to Isha and to whichever power you choose, your report is sharper and your shadow is longer, and both facts follow you as close as your coat."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "permit",
+            "description": "Temple sanctuary writ allowing passage past minor Watch cordons for seven days."
+        },
+        {
+            "type": "item",
+            "description": "Bundle of bone chimes packed with ash (evidence and later tuning clue)."
+        },
+        {
+            "type": "reputation",
+            "description": "Trust with the Order of the Hollow Sun (minor)."
+        }
+    ]
+}

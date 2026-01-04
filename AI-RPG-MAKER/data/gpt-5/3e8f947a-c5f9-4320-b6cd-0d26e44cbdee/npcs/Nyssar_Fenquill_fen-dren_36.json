@@ -1,0 +1,55 @@
+{
+    "name": "Nyssar",
+    "surname": "Fenquill",
+    "race": "fen-dren",
+    "age": 36,
+    "appearance": "Smooth, damp green skin with reed-scar tattoos along the throat. Wide amber eyes and webbed fingers stained by fen tonics. Carries a satchel that smells of mint and peat.",
+    "character": "Gentle, attentive, and tireless in crisis. Speaks softly with a cadence that calms the overheated and the afraid.",
+    "traits": [
+        "unflappable bedside manner",
+        "keeps tiny frog charms for children",
+        "moves silently",
+        "always slightly damp"
+    ],
+    "skills": [
+        "whisper-reed medicine brewing",
+        "heat-sickness triage",
+        "Under-Ribs clinic management",
+        "reed-path navigation by echo"
+    ],
+    "talents": [
+        "can match a patient’s pulse to a calming reed hymn",
+        "uncanny sense for tainted water"
+    ],
+    "flaws": [
+        "too trusting of authority",
+        "self-neglect during busy seasons",
+        "reluctant to charge for care"
+    ],
+    "dreams": [
+        "Open a free clinic lit by lume oil for Under-Ribs families",
+        "Broker peace between temple healers and Unentombed methods"
+    ],
+    "secrets": [
+        "Assists discreet Unentombed studies on reed spores that store memories in breath",
+        "Smuggled a shipment of forbidden fen tincture past a Hollow Sun checkpoint"
+    ],
+    "relations": [
+        {
+            "npc_name": "Professor Nyra Vale",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Prelate Lys Amon",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Serge Kobb",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Edda Tarn",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

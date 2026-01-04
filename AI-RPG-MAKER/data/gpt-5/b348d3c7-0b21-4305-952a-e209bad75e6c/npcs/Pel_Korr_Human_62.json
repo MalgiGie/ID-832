@@ -1,0 +1,76 @@
+{
+    "name": "Pel",
+    "surname": "Korr",
+    "race": "Human",
+    "age": 62,
+    "appearance": "Ink-thin elder with a prism monocle, hair like silver threads, fingertips permanently gray with pumice dust.",
+    "character": "Playfully didactic, with a zealot’s conviction that light reveals truth but a showman’s love for spectacle.",
+    "traits": [
+        "inquisitive",
+        "didactic",
+        "vain about lenses",
+        "impatient with slow minds",
+        "protective of students"
+    ],
+    "skills": [
+        "precision lens-grinding",
+        "optical dramaturgy",
+        "mirrorglass procurement",
+        "patent navigation",
+        "parliamentary display design"
+    ],
+    "talents": [
+        "hears when glass is about to crack",
+        "aligns star maps from memory",
+        "can split a flame’s color by hand-held prisms"
+    ],
+    "flaws": [
+        "dismisses the ethics of surveillance as ‘later work’",
+        "takes petty rivalries too public",
+        "envy of the Rookery’s sky-rights"
+    ],
+    "dreams": [
+        "secure exclusive rights to sky-signals for the Collegium",
+        "craft a lens that reads intent from mouth-light",
+        "turn Avarinth itself into a speaking lens"
+    ],
+    "secrets": [
+        "Keeps a shard of the rumored Mother Lens hidden beneath the Conservatory",
+        "Accepted Compact coin to exaggerate certain Parliament lamp colors",
+        "A living pane in his care whispers his name in other voices"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Gantrix Pell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lisi Jhak",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sav Orlai",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Kael Ibrin",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

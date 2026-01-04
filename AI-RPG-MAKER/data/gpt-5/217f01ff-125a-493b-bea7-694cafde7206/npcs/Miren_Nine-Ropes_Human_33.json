@@ -1,0 +1,63 @@
+{
+    "name": "Miren",
+    "surname": "Nine-Ropes",
+    "race": "Human",
+    "age": 33,
+    "appearance": "Lean, long-armed officer with nine rope bracelets, weather-cut cheeks, and a habit of watching the wind before speaking.",
+    "character": "Bold tactician who believes in small, clean cuts that untie big knots.",
+    "traits": [
+        "quick-thinking",
+        "sardonic",
+        "loyal to crew",
+        "daring"
+    ],
+    "skills": [
+        "knotwork and code-knots",
+        "skiff cordon maneuvers",
+        "counter-smuggling",
+        "rooftop chases",
+        "intercept planning"
+    ],
+    "talents": [
+        "reads wind from flags and gull flight",
+        "lays perfect cordons with three skiffs",
+        "hears drum-codes through fog"
+    ],
+    "flaws": [
+        "risk-seeking in pursuit",
+        "sleep-deprived edge",
+        "operates solo too often"
+    ],
+    "dreams": [
+        "break Syndicate networks without a war on the docks",
+        "write a new, cleaner codebook for the city",
+        "be recognized beyond Jath’s shadow"
+    ],
+    "secrets": [
+        "moonlights as the brass-masked vigilante disrupting lamp-codes to scramble smuggling timetables",
+        "keeps a hidden cache of confiscated smugglers’ maps for off-book stings",
+        "once signaled a false ‘two bells’ to stop a panic drill that would have trampled children"
+    ],
+    "relations": [
+        {
+            "npc_name": "Jath Pell",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Arla Third-Tone",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sall Brass",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Rae Fen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Kelen Prism",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

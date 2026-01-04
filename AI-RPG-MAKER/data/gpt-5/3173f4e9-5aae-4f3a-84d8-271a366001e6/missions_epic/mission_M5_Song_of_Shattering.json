@@ -1,0 +1,79 @@
+{
+  "missions": [
+    {
+      "id": "M5",
+      "title": "Song of Shattering",
+      "quest_giver": {
+        "name": "Inspector Kessa Tharn",
+        "affiliation": "Bonewrights’ Conclave (speaking through Master Archivolt Sera Dake)"
+      },
+      "description": "The Bonewright Foundry-Kilns glowed like patient suns in their housings of wind-braced brick, each chimney breathing out threads of salt-ash that sparkled in the drafts like drifting constellations. Hammer-songs rang from the test-wall where plates were proven, a disciplined cadence that the Conclave had kept for three centuries, and today the rhythm stuttered to make room for a different chord. Aerin stepped into that light with her Oathplate shield and moonshard lantern veiled, flanked by Sera Dake whose voice carried the steadied gravity of the Conclave and, beneath it, the distant will of Inspector Kessa Tharn laid up in convalescence yet determined to speak through her colleague’s tongue. Gor Relk arrived with a trio of riggers in mourning sashes, the Chainmaster’s jaw set like obsidian, his eyes raw from nights spent pacing platforms that still whispered of the dead. When the sanctioned demonstration began and the pale resonant tiles were nested along a gentle curve on the test-wall, the first strikes sounded like clean rain on glass; then the overtone climbed like a blade, sweet turning to a keen that wormed into teeth and bone, and spider-veins ghosted across the surface as if frost were learning to walk. One by one, thin threads of sound tugged at the wall until a hairline seam crept exactly where the curve focused it, and the room felt it like a shiver in the ribs of the world. Gor did not curse; he breathed out once like a man who had found the splinter at last, and then the arguments began in low voices where grief and duty wrestled. Sera Dake admitted the hubris of the experiment and promised record, audit, and open accounting, while Aerin set the fragments on waxed cloth and listened as her birthmark prickled to a faint sub-note that did not come from the tiles. The implication rippled through the kiln-heat: Danka Suth, the scapegoated worker who had been named too quickly, could not have acted alone, not with eel-skin silver moving through requisition ledgers and foundry schedules bending on a whisper; someone with weight and cunning had placed these notes to teach the city’s bones to sing themselves into shattering. And so the mission hardened into purpose: gather the tile under watch, prove the song on the wall, fix the pattern to page and shard, and wring from Gor Relk the grudging leave to crawl his catwalks in search of the same murderous curve before the next gale found it first.",
+      "objectives": [
+        "Acquire a sample of the experimental resonant tiles under Conclave supervision.",
+        "Set up and conduct the test-wall demonstration with Sera Dake and Gor Relk present.",
+        "Document how overtone climbs when tiles are aligned along a curve; secure fragments as evidence.",
+        "Win begrudging permission from Gor Relk to inspect Chainhouse catwalks for similar placement."
+      ],
+      "dialogue": [
+        {
+          "speaker": "Gor Relk",
+          "lines": "If you’re about to ask me to care what a plate sings, remember that three of mine went down screaming when a cable gave like wet rope, and I still hear that sound when I close my eyes. Show me something I can hold, Rell, not another prayer dressed up in pretty words and priest-bells. I bury men, and I grease brakes with hands that shake because I’m counting the bolts I might have missed, not notes. The Guild bled on those drums when your emergency drop made a mockery of our timing, and I won’t have you soothing me with talk about harmonies. Give me proof I can set before widows and crews, something that answers when a hammer meets it and doesn’t vanish like breath in the gale."
+        },
+        {
+          "speaker": "Aerin Rell",
+          "lines": "You’ll hear it first, then see it crack, and I ask you to keep your anger until the wall answers. These tiles hum pretty when they’re alone, like a lullaby you’d trust, but when you set them along a curve the song climbs with purpose like a hook in a rope. The sweetness turns thin, then sharp, then it makes a seam where no seam should be, and the stone shivers like a deck before a drop. It’s not a prayer, Gor, and I would not insult the memory of your dead with incense when a hammer will do; it is a trap set to spring when the wind rises and every platform becomes a mouthpiece. If we can prove the pattern, we can hunt where it repeats, and I swear on my oathstone to carry that hunt into any house it leads, even if the echo points toward yours."
+        },
+        {
+          "speaker": "Sera Dake",
+          "lines": "We dreamed of resonance that would steady the bones and sing the ribs into quieter truths, and we woke to a weapon someone turned beneath our hands. That failure is on me and mine; I will not pretend it is otherwise, nor will I hide it in any vault. Craft that outruns wisdom is just another kind of storm, and it is our duty to trim sail and make fast before it tears a deck free. The Conclave will open the ledgers, the test notes, and the requisitions to the Vigil’s stamps, and we will sign our names to that exposure as workers and oathkeepers. If this demonstration bears out, I will stand in Spinegate and say so aloud, and I will ask Inspector Kessa Tharn to speak through me again so every faction hears it in the same breath."
+        },
+        {
+          "speaker": "Gor Relk",
+          "lines": "Fine. You have my grudging, gods-cursed permission to crawl my catwalks and sniff my bolts, though I feel the insult of it like grit in an eye. If I find a single moth mark you dismiss, I’ll wrap it round your striker hand and make you listen to it break until you know the difference between music and murder. You bring an escort, you keep to the lines I set, and you don’t move a plate without a rigger’s glove on it, do you hear me. I won’t have some priest-brave paladin unseating a counterweight because she fancies herself a Guildmaster of ropes. Give me reason, not riddles, and I’ll give you six hours of dark to look where you please, no more."
+        },
+        {
+          "speaker": "Aerin Rell",
+          "lines": "I’ll crawl, and I’ll listen, and I’ll bring back what I find, and I will mark it where your crews can see my chalk as if it were their own. If the trail points to your house, I’ll not flinch from the saying, and I’ll stand where your men can throw their curses without the Vigil’s shields in the way. If it points elsewhere, neither will you, because what we tie holds, and we both know a frayed oath snaps faster than a frayed rope. I lost a song to learn your emergency clutches, Gor, and I paid for that knowledge in silence I can never fill again; I won’t waste it on lies. Let the wall sing, let the bone answer, and let us name the hands that taught them the wrong tune."
+        }
+      ],
+      "choices": [
+        {
+          "id": "C1",
+          "title": "Call Witnesses to the Song",
+          "text": "Aerin proposes that the demonstration not be a closed circle of Guild and Conclave, but a witnessed rite of proof where the Vigil and a Breathkeeper cantor observe with their ledgers and bells. She speaks of years when rumors poisoned more than storms, and how transparency can cool tempers that steel alone cannot bend. She asks Sera Dake to send a runner to Spinegate for a Vigil clerk and to the Temple of the Unbroken Breath for a cantor who can mark tones in the old way, even as Gor Relk scowls at the delay. She promises Gor that the presence of witnesses is not an ambush but a shield for the truth, and that her own brother Jarik will be kept to the back rail so the Guild is not made to feel cornered. She is explicit that no charges will fly on this day, only notes and fractures, and that the tile fragments will be sealed in wax with Vigil stamps in view of all hands.",
+          "outcome": "The Vigil clerk arrives with a portable seal and calm eyes, and the cantor brings a set of hand chimes that answer the wall’s rising pitch with notes the room can measure, not just feel. When the overtone climbs and the seam forms, the clerk records and the cantor names the interval, and even Gor Relk’s muttered oaths settle into listening; you can see some of his men’s shoulders loosen for the first time in days. Jarik Rell trades a silent look with you that promises questions later, but his presence rests like a guarantee that no one will tilt the ledger after you leave. Sera Dake announces the opening of the Conclave records in a voice that carries through the kiln-smoke, and the clerk affixes Vigil wax so hot it hisses, binding the fragments with authority recognized by all three arms of the Triune. Gor still growls about lost hours, but when you ask for catwalk access he cannot frame it as a risk of ambush, and his permission comes with fewer chains than it might have, even if he assigns a stern escort and insists on a lantern-code to mark your passage."
+        },
+        {
+          "id": "C2",
+          "title": "Press the Chainmaster in Private",
+          "text": "Aerin keeps the circle small and the door barred, choosing not to spread the moment beyond those who will have to act on it first and fastest. She lays out the tile, sets the curve, and strikes it thrice, then holds the Oathplate shield so its grooves sing in sympathy for Gor Relk to feel in his teeth, not just his ears. She recounts the night she pulled the emergency clutch, not to plead forgiveness but to say that she knows the weight of a choice that breaks a shipment to save a system, and she expects the same resolve from him now. She tells him straight that if he denies her the catwalks and a man dies because of it, the guilt will not fall on priestly shoulders but on his own silent refusal, and that she will say so in Spinegate. She offers to sign his Guild ledger for any damage done during the inspection, promises to wear rigger gloves, and asks for a whistle so his crews will run when she calls and not dismiss her as a meddling saint.",
+          "outcome": "Gor Relk studies you for a long count, watching your shield’s inlaid oathstone to see if it warms under your words; when it stays cool, he nods once and spits into his palm to seal the bargain as if you were one of his riggers. He gives you his spare chainmaster’s whistle with a warning that it is not a toy and that if you blow it falsely you will never cross another platform that he can bar. The permission he grants is edged with iron: six hours before first light, one escort who will not carry your tools, and a map with three routes scratched in grease that you are not to stray from. He insists that any moth mark you find be recorded and presented to him first, not shouted across the ribs, and his voice goes low when he swears to close the platforms himself if you prove the pattern. Your stance with the Rafter Guild remains brittle as kiln glaze, yet there is a new thread in it, a taut respect that can hold if you do not pull too hard too fast."
+        },
+        {
+          "id": "C3",
+          "title": "Warn the Lantern-Queen and Walk the Hidden Crawls",
+          "text": "Aerin slips away before the test, lantern-shaded, to find Thia Mol amid the Ossuary Gardens’ sporelight and the dangling hush of fungi that remember footsteps. She tells the Lantern-Queen that the moth marks under the catwalks look like a framed confession, and if the Rafter Guild finds them without context the poor will pay in blood before any culprit with eel-skin silver does. She asks for a map of the crawlways that braid beneath the Chainhouse lattice, the smuggler’s paths that could bring a saboteur to a curve where a tile might be laid and left to sing in secret. She offers warning in return: if the Lanterns know of any such placements, this is the last moment to move them or die by them, because by tomorrow the Guild will storm through with hammers and blame. She makes a hard promise, too: she will not expose a safe hole or a passage that keeps children from drowning in the city’s edges, but she will name the hand that turns the city’s bones against themselves regardless of the banner that hand waves.",
+          "outcome": "Thia Mol listens, the green shimmer of sporelight painting her cheekbones, and she nods slowly as she admits that a new lantern-signal has flashed twice in recent nights—one she did not send. She gives you a sketched overlay of the lattice under the western rail, marked with moth sigils that mean, in Lantern tongue, trust, not guilt, and she presses a bead into your palm that will make a dim white glow if the way ahead is watched. When you return and the wall proves the song, you carry the secret map under your tabard, and that night you use it to approach a catwalk seam from below where no Rafter patrol looks, your grip-line whispering over resin-slick bone. You find one tile tucked into a crease of support where only a crawler could reach, and you mark it without prying it loose, because you swore not to move plates without gloves and also because the pattern matters more than the trophy. When you present the finding to Gor, you do not give him the map that would betray a Lantern safe hole, and he sees that you are holding something back; his eyes harden, but the evidence is strong enough that suspicion turns outward, away from the Lanterns’ rank-and-file and toward whoever has coin enough to buy these songs and get them carried into forbidden places."
+        }
+      ],
+      "connections": {
+        "previous": ["M4"],
+        "next": ["M6"]
+      },
+      "rewards": [
+        {
+          "type": "access",
+          "description": "Rafter Guild catwalk access chit and a chainmaster’s whistle for emergency crew summons."
+        },
+        {
+          "type": "evidence",
+          "description": "Resonant tile fragments logged as evidence with Vigil stamps."
+        },
+        {
+          "type": "reputation",
+          "description": "Improved standing with Bonewrights for transparent exposure of a failed experiment."
+        }
+      ]
+    }
+  ]
+}

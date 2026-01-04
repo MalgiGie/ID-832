@@ -1,0 +1,62 @@
+{
+    "name": "Erynn",
+    "surname": "Mirrorfall",
+    "race": "Human",
+    "age": 30,
+    "appearance": "Ink-black hair with glass threads braided in, prism-dusted cheeks, and a long apron scored by solder burns. Eyes reflect lamp-colors like chips of Shard.",
+    "character": "Imaginative and tempestuous, a romantic for light who haggles like a storm when cornered.",
+    "traits": [
+        "Imaginative",
+        "Volatile",
+        "Independent",
+        "Generous"
+    ],
+    "skills": [
+        "Stained-glass design",
+        "Lead came work",
+        "Street haggling",
+        "Show-window theatrics"
+    ],
+    "talents": [
+        "Traps Shardlight in micro-lenses",
+        "Perfect color memory",
+        "Tunes panes to hum faintly at dusk"
+    ],
+    "flaws": [
+        "Dramatic spending",
+        "Distrusts authorities",
+        "Takes criticism as personal insult"
+    ],
+    "dreams": [
+        "Found an independent artisan hall free of Kelvar purse-strings",
+        "Craft a singing window for the House of Reconciliation",
+        "Light Murkwall lanes with charity panes"
+    ],
+    "secrets": [
+        "Buys shed plates off-book via Rook’s routes",
+        "Her panes are used as Night Orchard signal markers without her full consent",
+        "Hid a cracked plate that hums at the wrong lunar cadence"
+    ],
+    "relations": [
+        {
+            "npc_name": "Borgo Emberdell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ina Peppercoal",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Iven Shadequinch",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Sava Inkweft",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Neris Aline",
+            "relation_type": "Friendship"
+        }
+    ]
+}

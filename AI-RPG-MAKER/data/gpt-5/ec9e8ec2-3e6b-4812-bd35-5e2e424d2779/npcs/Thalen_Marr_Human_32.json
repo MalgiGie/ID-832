@@ -1,0 +1,66 @@
+{
+    "name": "Thalen",
+    "surname": "Marr",
+    "race": "Human",
+    "age": 32,
+    "appearance": "Lean prismancer with ink-stained fingers, lenses hanging from a braided cord, eyes reflecting rainbow slivers.",
+    "character": "Curious to the point of trespass, idealist about knowledge, blind to etiquette when a pattern beckons.",
+    "traits": [
+        "inquisitive",
+        "earnest",
+        "socially oblivious",
+        "competitive",
+        "innovative"
+    ],
+    "skills": [
+        "light-bending rites",
+        "memory-lens tuning",
+        "reef-song analysis",
+        "storm-choir harmonics",
+        "field documentation"
+    ],
+    "talents": [
+        "sees hidden symmetries in reflections",
+        "perfect pitch for shell choirs",
+        "can hold breath longer than most"
+    ],
+    "flaws": [
+        "disregards taboos",
+        "naive about politics",
+        "dismissive of ‘old salt’ wisdom"
+    ],
+    "dreams": [
+        "Decode Uln’s Lullaby safely",
+        "Prove light archives can coexist with salt steles"
+    ],
+    "secrets": [
+        "Recorded a Trium session without sanction and traded a copy for caldera access",
+        "Uses a shard from the Silted Basilica as a focusing prism against doctrine"
+    ],
+    "relations": [
+        {
+            "npc_name": "Nerey Alis",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Liora Fen",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Keshan Drook",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Myris Khel",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Serat Voss",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orun Shard",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

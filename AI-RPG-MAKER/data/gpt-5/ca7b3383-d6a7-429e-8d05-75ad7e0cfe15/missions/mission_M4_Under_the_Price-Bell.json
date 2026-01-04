@@ -1,0 +1,45 @@
+{
+    "id": "M4",
+    "title": "Under the Price-Bell",
+    "quest_giver": "Breg Tesserin",
+    "description": "The Saltfold Exchange sounds like a hive of bells and sharp voices. On the terraced galleries, clerks knot cords with fingers so fast they blur, while brass mirrors catch lots and bounce them to ledgers. Breg Tesserin meets you with a smile that means arithmetic and a ring that smells of brine. The Salt Charter will not oppose your engine time if you can stitch a truce at the edges, shaving a hiss from tariffs just long enough to move parts and food in tandem. The Price-Bell hangs over all of it, and you can feel the city’s appetite measured in its chime. In the shadows below the rail knots, Sere Vell circles with a little book of names and cuts that would make two enemies shake hands for a day or two. Laughter collapses into a hush as a blue lot of brine pearls is raised. The taste of salt fills your mouth like a warning.",
+    "objectives": [
+        "Meet Breg Tesserin on the Saltfold Exchange’s east terrace and discuss temporary tariff relief tied to cradle freight windows.",
+        "Convince a skeptical runner clique to accept synchronized lift slots for foodstuffs and machine parts.",
+        "Win a bid for a small crate of brine pearls used in heat exchange without triggering an Emberwatch audit.",
+        "Choose whether to accept Sere Vell’s offer to mask a minor loss to make the numbers look fair.",
+        "Secure a written charter addendum tying tariff relief to Quiet Pour contributions."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Breg Tesserin",
+            "text": "Price is memory and memory is power. I do not forget who made me money last season, nor who cost me margin. Give me a day when your engines will require lifts and I will give you pennies shaved from tariffs on that day and that day only. In return, the Stewards get their bins up the chains without begging. We both remember who arranged it and we both smile."
+        },
+        {
+            "speaker": "Sere Vell",
+            "text": "Look at the knots on that rail. There is a story there about two men who hated each other and kept the city alive anyway. I can tie a similar knot for you, a neat loop to hide a bruise. You will owe me a thread. I am not asking you to sell your soul, Neris. Just remember who kept the book clean when the numbers were not."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "If your salt keeps food from rotting and my cradle keeps heat from scattering, we are both stewards whether we admit it or not. I will not sell the river short to fatten a ledger, but I will bind schedules tight enough to share a day without cutting each other’s hands."
+        },
+        {
+            "speaker": "Auction Caller",
+            "text": "Blue lot up. Brine pearls, nine jars, sealed, glow-certed. Bids begin at pain-of-tongue plus three. Speak clear or forever swallow salt."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        "Salt-scrip grant earmarked for machine lubrication and food carriage fees",
+        "Crate of brine pearls for heat exchange experiments",
+        "Reputation: + with Salt Charter",
+        "Conditional tariff relief window tied to future test run"
+    ]
+}

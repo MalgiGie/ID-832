@@ -1,0 +1,65 @@
+{
+    "name": "Liora",
+    "surname": "Fen",
+    "race": "Human",
+    "age": 41,
+    "appearance": "Salt-dusted archivist in resin-sealed robes, hair braided with waxed thread, eyes like wet slate that miss little.",
+    "character": "Patient examiner of truth, iron spine under quiet manners, believes records save lives.",
+    "traits": [
+        "methodical",
+        "unflappable",
+        "principled",
+        "dryly humorous"
+    ],
+    "skills": [
+        "salt-etch law",
+        "audit trails",
+        "oath witnessing",
+        "forgery detection",
+        "ledger reconstruction after flood"
+    ],
+    "talents": [
+        "eidetic recall for numbers",
+        "hears stress in a liar’s breath",
+        "can stay motionless for hours during observation"
+    ],
+    "flaws": [
+        "self-righteous",
+        "slow to trust light-records",
+        "work-consumes personal life"
+    ],
+    "dreams": [
+        "Unmask hidden tunnels to the Veiled Current in city ledgers",
+        "Codify knot-law equivalence in the Brine Archive"
+    ],
+    "secrets": [
+        "Keeps a private register of true names whispered in her presence",
+        "Erased a debt marker for a marsh family that saved her during green blister fever"
+    ],
+    "relations": [
+        {
+            "npc_name": "Nerey Alis",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thalen Marr",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Isha Brinehand",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sel Var Saltvein",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Serat Voss",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Tamas Eelwick",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

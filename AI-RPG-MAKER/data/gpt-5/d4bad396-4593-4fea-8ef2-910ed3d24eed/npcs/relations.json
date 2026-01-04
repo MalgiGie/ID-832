@@ -1,0 +1,397 @@
+[
+    {
+        "from": "Maera Lockfen",
+        "to": "Asha Greyling",
+        "type": "Alliance"
+    },
+    {
+        "from": "Maera Lockfen",
+        "to": "Iven Kall",
+        "type": "Alliance"
+    },
+    {
+        "from": "Maera Lockfen",
+        "to": "Pellar Nine-Poles",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Maera Lockfen",
+        "to": "Knife-Whisper Pell",
+        "type": "Hostility"
+    },
+    {
+        "from": "Maera Lockfen",
+        "to": "Orin Thalen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Maera Lockfen",
+        "to": "Sere Aven",
+        "type": "Different goals"
+    },
+    {
+        "from": "Maera Lockfen",
+        "to": "Magister Vell",
+        "type": "Different goals"
+    },
+    {
+        "from": "Asha Greyling",
+        "to": "Maera Lockfen",
+        "type": "Alliance"
+    },
+    {
+        "from": "Asha Greyling",
+        "to": "Iven Kall",
+        "type": "Friendship"
+    },
+    {
+        "from": "Asha Greyling",
+        "to": "Magister Vell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Asha Greyling",
+        "to": "Knife-Whisper Pell",
+        "type": "Conflict"
+    },
+    {
+        "from": "Asha Greyling",
+        "to": "Sere Aven",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Asha Greyling",
+        "to": "Bellkeeper Dorn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Magister Vell",
+        "to": "Sere Aven",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Magister Vell",
+        "to": "Orin Thalen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Magister Vell",
+        "to": "Asha Greyling",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Magister Vell",
+        "to": "Iven Kall",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Magister Vell",
+        "to": "Maera Lockfen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Magister Vell",
+        "to": "Pika Jinn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Iven Kall",
+        "to": "Maera Lockfen",
+        "type": "Alliance"
+    },
+    {
+        "from": "Iven Kall",
+        "to": "Asha Greyling",
+        "type": "Friendship"
+    },
+    {
+        "from": "Iven Kall",
+        "to": "Magister Vell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Iven Kall",
+        "to": "Knife-Whisper Pell",
+        "type": "Hostility"
+    },
+    {
+        "from": "Iven Kall",
+        "to": "Sere Aven",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Iven Kall",
+        "to": "Orin Thalen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Pellar Nine-Poles",
+        "to": "Maera Lockfen",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Pellar Nine-Poles",
+        "to": "Knife-Whisper Pell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Pellar Nine-Poles",
+        "to": "Sere Aven",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Pellar Nine-Poles",
+        "to": "Orin Thalen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Pellar Nine-Poles",
+        "to": "Ressa Quay",
+        "type": "Friendship"
+    },
+    {
+        "from": "Pellar Nine-Poles",
+        "to": "Tavi Mireline",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Knife-Whisper Pell",
+        "to": "Maera Lockfen",
+        "type": "Hostility"
+    },
+    {
+        "from": "Knife-Whisper Pell",
+        "to": "Pellar Nine-Poles",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Knife-Whisper Pell",
+        "to": "Iven Kall",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Knife-Whisper Pell",
+        "to": "Asha Greyling",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Knife-Whisper Pell",
+        "to": "Tavi Mireline",
+        "type": "Alliance"
+    },
+    {
+        "from": "Knife-Whisper Pell",
+        "to": "Sere Aven",
+        "type": "Conflict"
+    },
+    {
+        "from": "Orin Thalen",
+        "to": "Sere Aven",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Orin Thalen",
+        "to": "Magister Vell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Orin Thalen",
+        "to": "Pika Jinn",
+        "type": "Alliance"
+    },
+    {
+        "from": "Orin Thalen",
+        "to": "Maera Lockfen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Orin Thalen",
+        "to": "Pellar Nine-Poles",
+        "type": "Different goals"
+    },
+    {
+        "from": "Orin Thalen",
+        "to": "Iven Kall",
+        "type": "Different goals"
+    },
+    {
+        "from": "Orin Thalen",
+        "to": "Harn Slate",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sere Aven",
+        "to": "Magister Vell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sere Aven",
+        "to": "Orin Thalen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sere Aven",
+        "to": "Maera Lockfen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sere Aven",
+        "to": "Pellar Nine-Poles",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sere Aven",
+        "to": "Ressa Quay",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sere Aven",
+        "to": "Knife-Whisper Pell",
+        "type": "Conflict"
+    },
+    {
+        "from": "Sere Aven",
+        "to": "Pika Jinn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ressa Quay",
+        "to": "Sere Aven",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ressa Quay",
+        "to": "Pellar Nine-Poles",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ressa Quay",
+        "to": "Maera Lockfen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ressa Quay",
+        "to": "Knife-Whisper Pell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ressa Quay",
+        "to": "Bellkeeper Dorn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ressa Quay",
+        "to": "Tavi Mireline",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Bellkeeper Dorn",
+        "to": "Asha Greyling",
+        "type": "Friendship"
+    },
+    {
+        "from": "Bellkeeper Dorn",
+        "to": "Maera Lockfen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Bellkeeper Dorn",
+        "to": "Magister Vell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Bellkeeper Dorn",
+        "to": "Ressa Quay",
+        "type": "Friendship"
+    },
+    {
+        "from": "Bellkeeper Dorn",
+        "to": "Pika Jinn",
+        "type": "Different goals"
+    },
+    {
+        "from": "Pika Jinn",
+        "to": "Magister Vell",
+        "type": "Friendship"
+    },
+    {
+        "from": "Pika Jinn",
+        "to": "Orin Thalen",
+        "type": "Alliance"
+    },
+    {
+        "from": "Pika Jinn",
+        "to": "Sere Aven",
+        "type": "Friendship"
+    },
+    {
+        "from": "Pika Jinn",
+        "to": "Asha Greyling",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Pika Jinn",
+        "to": "Maera Lockfen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Pika Jinn",
+        "to": "Bellkeeper Dorn",
+        "type": "Different goals"
+    },
+    {
+        "from": "Pika Jinn",
+        "to": "Tavi Mireline",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tavi Mireline",
+        "to": "Knife-Whisper Pell",
+        "type": "Alliance"
+    },
+    {
+        "from": "Tavi Mireline",
+        "to": "Pellar Nine-Poles",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tavi Mireline",
+        "to": "Ressa Quay",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Tavi Mireline",
+        "to": "Maera Lockfen",
+        "type": "Conflict"
+    },
+    {
+        "from": "Tavi Mireline",
+        "to": "Pika Jinn",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Harn Slate",
+        "to": "Orin Thalen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Harn Slate",
+        "to": "Magister Vell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Harn Slate",
+        "to": "Pellar Nine-Poles",
+        "type": "Different goals"
+    },
+    {
+        "from": "Harn Slate",
+        "to": "Maera Lockfen",
+        "type": "neutral"
+    },
+    {
+        "from": "Harn Slate",
+        "to": "Sere Aven",
+        "type": "neutral"
+    }
+]

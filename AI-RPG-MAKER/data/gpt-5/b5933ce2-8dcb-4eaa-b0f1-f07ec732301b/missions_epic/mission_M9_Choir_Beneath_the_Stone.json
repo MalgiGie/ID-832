@@ -1,0 +1,83 @@
+{
+    "id": "M9",
+    "title": "Choir Beneath the Stone",
+    "quest_giver": {
+        "name": "Quill Vess",
+        "affiliation": "Order of the Luminous Weir"
+    },
+    "description": "At the turn of the lowest tide, when the Tess and the Vail inhale together and the riverbed shows its ribs, the Sunken Charterstone gleams like the spine of a buried leviathan. Copper-green spires watch from the basalt knoll as the ritual barge drifts above the eddy, its hull veiled in saffron pennants and prism-thread, its deck crowded by engineers and priests who have not stood shoulder to shoulder since the Flood-Princes were names rather than warnings. The stone sings in a tongue that breathes bubbles instead of consonants, and divers who go down return with gilled throats and eyes full of tides, owing words they cannot pronounce to gods they cannot name. Oath-leeches bloom from the cracks like black tulips, scenting broken promises the way sharks scent blood; they remember every contract the city forgot to honor and wait with a patience that feels like pity. You, Aren Siltwarden of the Reedbound, are clasped in tide-mail and braided reed-cords, anointed with clarity sap at the brow and laced into a joint rite devised by the Order’s choirmasters and the Temple’s tide-singers: engineering and reverence bound for one necessary descent. The prism register, a palmboard of humming lenses taken from the Emberlight vaults, is strapped to your forearm; the memory pin—star-metal etched with hair-thin furrows—rests over your heart to catch whatever the Charterstone whispers that no tongue can carry. You must descend along a line of river-salt crystals and prayer knots, calm the stone’s anger without breaking your oaths, and ask what price the river truly seeks if the city dares to raise its first pact from the silt again. The talk on all banks says a king is the toll, a crown hammered from lives and laid upon a single head; your task is to listen for an answer and return with a bargain that does not drown the century in obedience.",
+    "objectives": [
+        "Perform a joint Weir-Temple preparation rite and descend to the Sunken Charterstone at low tide, letting chant and craft stitch breath to stone for as long as the river will suffer it.",
+        "Drive off or bypass oath-leeches without violating your own oaths, using salt, song, and steady truth to keep their mouths from your promises.",
+        "Consult the humming stone with the prism register and the memory pin to interpret its response, catching meanings that surface and vanish like silver fish.",
+        "Recover a missing tile if the stone consents, and return with the river’s demand regarding the 'king-price' so that no rumor rules policy."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Quill Vess",
+            "lines": "Engineering without reverence is vanity; reverence without engineering is disaster, and we have flirted with both in the name of pride. I have counted floods by the notes they refuse to sing and learned humility from a gate that opened to no living pitch, and I will not pretend competence can replace covenant. If we pry the old stone up, we may give the city calm waters for a century, and I refuse to purchase that calm with a crown hammered from the necks of our grandchildren. Call me a coward for choosing patience over glory if you must, but understand that I would rather be a cautious steward today than an architect of shackles tomorrow. Go down, Aren, not as my instrument but as the city’s listening ear, and bring me the truth even if it ruins my plans and undoes my arguments in the Conclave."
+        },
+        {
+            "speaker": "Mereth Tydel",
+            "lines": "The river is a god when it is hungry and a neighbor when it is sated, and both deserve courtesy seasoned with prudence. I have watched crowds still at a bell’s note and storms bow to a prayer whispered through reeds, and I know that bargains made for applause always ferment into bitterness. Go down, Aren Siltwarden, with your reedbound courage and your oath like a lantern in fog, and listen as an honest man listens, with more questions than answers and with a willingness to be changed. If the river demands a king, let us imagine a crown it cannot wear and yet respects, a crown of duties braided from many hands and set upon no brow. Return with the river’s wording, not the Conclave’s rumor, so that we may bind our humility to our law and leave no room for tyrants hiding in the flood’s shadow."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "I’ve been kept alive by both oaths and river current, and neither is gentler than the other when a man drifts or lies. Tie me to your line and sing me down, and I’ll count my breaths by your measures until the silt decides it has heard enough of my heart. I do not trust machines that need hymns to behave any more than I trust hymns that are sung to drown a thing we fear to understand, but I trust the river to keep its own character. If the river wants a king, I will ask what service it seeks that we have failed to render, and whether a city that remembers its name can weigh as much as a single crowned head. I will bring up whatever truth the stone grants, even if it leaves me colder than the undertow and sets me at odds with friends who think they know the flood’s price."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Offer the Covenant of Many Hands",
+            "text": "You shape your answer at depth where the light breaks like glass, and you speak to the Charterstone with breath you ration like coin. You tell it that a king is a weight the city rejects, but that the weight of a thousand small oaths can balance the same scale if they are bound to public duty and not to spectacle. You describe a crown made of tasks: sluice-opening rights audited by the Conclave in clear daylight, shrine access pledged in law, and a yearly procession of households renewing the pact with copper and labor rather than kneeling. You say the city will bind a rotating choir to the Weir so that no one voice rules the gates, and that this choir will be dismissed at the river’s displeasure by omens agreed in advance. You hold your breath until the humming deepens, and you press the memory pin to your heart so that the Charterstone’s answer cannot be stolen by your own forgetfulness.",
+            "outcome": "The leeches peel away as if abashed, tasting no liar’s sweetness in your blood, and the stone’s glow slows to a resting pulse that steadies the register’s needles. Through the prism, colors arrange themselves into a ladder that spells consent without capitulation, and the memory pin warms with a phrase that translates as 'A keep of duties is a crown the flood respects.' When you surface, Quill’s shoulders sag with relief he tries to hide, and Mereth allows herself a slow exhale that sounds like a prayer returning to its nest. Word spreads that the river will accept a covenant made of many hands so long as it is renewed in work and witness, and the Conclave’s loudest monarchists find their speeches suddenly tasteless to listening ears. You return with a single consent-marked tile and the city gains a path that is heavy with labor but empty of thrones, and both Temple and Weir owe you silence where others would have given applause."
+        },
+        {
+            "id": "C2",
+            "title": "Name the City as Its Own King",
+            "text": "You speak into the stone’s choir with the steadiness of a pilot threading tides, proposing a paradox that tastes like brass and river-salt. You declare that Vyratha itself will wear any crown demanded, not upon a head but upon its ledgers and clocks, its market weights and weir-chants, so that the sovereign is measure, not person. You promise that its steward shall be time, its judge the tide-window set into the Citadel’s floor, and its treasury the public ledgers that glow until three seals ratify them. You add that any failure will be paid in visible coin and labor by the offenders rather than in hidden blood by an unlucky heir, because a city ruled by an idea cannot exile its own skeleton. You wait for the undertow to tug in disagreement, and it does not; instead it hushes, and the lens-board trembles as if counting new math it had not considered worth counting before.",
+            "outcome": "The Charterstone answers with a slow chime that climbs your bones and nests behind your sternum, and for a moment you hear the market bells of Lantern Bank ringing to a rhythm older than coin. The prism register displays a single band of sea-night, a color that cancels other colors, and then that band dissolves into a lattice of nine threads—one for each tide—binding themselves around a stylized crown and then dissolving it. When you rise gasping and laughing, the deck crews fall quiet, because laughter in a ritual is either grace or hubris and they cannot tell which until you translate. Your account convinces the Conclave to draft a charter where the city is named Sovereign Duty in matters of flood and wall, and the Temple writes a rite to address Vyratha as a person only when all banks speak together. The rumor of a mortal king dies not with a shout but with a shrug, and though a few ambitious necks ache for a weight they will never bear, trade flows easier for the absence of that shadowed throne."
+        },
+        {
+            "id": "C3",
+            "title": "Trade Memory for Mercy",
+            "text": "You consider that the river deals in memories as much as in water, and you offer it a tender that only a fool or a lover might consider fair. You unstopper your ampoule of clarity sap to keep your wits and then press the memory pin against the prism to catch what you are about to spend, and you tell the stone that you will give it a name you hold dear if it will waive its king-price for the city. You remember a night on the Moonbridge when your own true name went into the fog so a fevered child could live, and you know how dear a name can be; still, you open your mouth and let the river lift a different memory, one that has warmed you on cold decks—a cradle-song your mother used to hum on raft-corridors. You tell the stone you will forget the melody if the city can forget the rumor of the crown, and you wait in the hush that follows, hearing nothing but the beat of your own courage getting thin. The leeches bend toward you and then back away in puzzled hunger, and the Charterstone’s glow folds inward until it is no more than a thought pressed into the dark.",
+            "outcome": "The prism board cools against your skin, and the memory pin clicks faintly as if a gear has slipped into a new tooth; you feel a softness fade from your chest, and you know the song is gone for you though you can still see your mother’s lips shaping it. The stone sends up a pulse that your muscles hear as relief, and on the surface the choirs on both sides know without words that a price has been paid and a larger price has been declined. Quill Vess looks at you with the particular grief of a man who measures costs in more than coin, and Mereth Tydel touches your brow with wetted fingers as if returning a blessing that cannot find its way back. The Conclave finds its appetite for crowns has vanished like a taste one cannot name, and by the week’s end the rumor of kingship is a story that no one can quite remember how to tell with conviction. You keep your tile and your culvert pass and you walk away lighter in one place and heavier in another, and when night winds sigh through reed-beds you cannot hum to them but you can still listen, and it is enough."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "currency",
+            "description": "15 coin pieces minted clean at the Ledgerhall of Tithes, hazard pay for descending under joint rite to the Sunken Charterstone."
+        },
+        {
+            "type": "item",
+            "description": "Charterstone Tile (consent-marked fragment, usable in final rite): a palm-sized shard that hums at low tide and answers to the city’s lawful vows."
+        },
+        {
+            "type": "item",
+            "description": "River-Salt Crystals (anchor wards against undertow): a pouch of faceted salts that fix lines and quiet oath-leeches when scattered with a steady hand."
+        },
+        {
+            "type": "reputation",
+            "description": "Order of the Luminous Weir reputation +2 for honoring the measured descent and returning with a reading that turns rumor into workable policy."
+        },
+        {
+            "type": "reputation",
+            "description": "Temple of the Nine Tides reputation +2 for keeping covenant, refusing a crown of flesh, and speaking the river’s will without trimming it for applause."
+        },
+        {
+            "type": "access",
+            "description": "Ritual culvert access beneath the city: sanctioned passage through a hidden overflow that brushes the undercurrent where memory flows like minnows."
+        }
+    ]
+}

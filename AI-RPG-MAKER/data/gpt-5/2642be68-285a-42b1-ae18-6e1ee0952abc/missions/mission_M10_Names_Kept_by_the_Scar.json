@@ -1,0 +1,44 @@
+{
+    "id": "M10",
+    "title": "Names Kept by the Scar",
+    "quest_giver": "Mira Cael",
+    "description": "The Mothfast starves the lightwell, but not before it whispers a coordinate, a rhythm in rivets, a promise that a hidden hand rests beneath the tenth gate. To use the runecap’s tone in the Engine’s bones, you must reclaim your name in full, for the Scar will not let you strike a true note if it still holds a syllable of you. Mira Cael, steady and spare with words, offers a skiff and a rope. Pesha Lume meets you at the Scar’s rim with a jar of silence. The bowl glows faintly; echoes pile like leaves in windless corners. Your voice, reversed and iron-sweet, is waiting for you like an old injury.",
+    "objectives": [
+        "Travel with Mira Cael to the Starfall Scar and descend to the central bowl.",
+        "Use the jar of silence to bait your held name-echo.",
+        "Refuse any false bargains and reclaim your name in full.",
+        "Imprint the reclaimed name into the runecap’s tone.",
+        "Return safely to Thyssara with the coordinates for the hidden bypass handle."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Mira Cael",
+            "line": "Names anchor ropes better than rings do. If the Scar holds yours, it can pluck you off a deck when the wind chooses. I’ll hold the line and count to one hundred twice. If you’re not back by the second hundred, I come down with a knife and an apology. Don’t make me choose between your lungs and your pride."
+        },
+        {
+            "speaker": "Pesha Lume",
+            "line": "Echoes make generous offers because they do not understand cost. They will promise you a life without error if you let them live in your scars. When you hear yourself say what you most want to hear, close your eyes and breathe out until your ribs ache. Your true name will be the one that sounds tired and still keeps walking."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "I gave the Scar a piece of me because a child needed a name more than I did. If it wants the rest, it can come wrestle me for it. I’ll take back what I loaned and sing a note that fits the tenth gate’s bones, and then we’ll go home and make our own mistakes again."
+        },
+        {
+            "speaker": "The Echo of Kade",
+            "line": "I can be the tide that never turns and the rope that never frays. Lay down your weight and I will carry it until the bells forget you and you forget them. Take my hand and you will not have to wake up in any more storms. Refuse me and I will wait by your last dawn and take what is mine when your jaw is soft."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        "Your name reclaimed (resolves lingering echo affliction; improves resistance to manipulation)",
+        "Runecap harmonized with your true name (enables emergency bell-tone usage)",
+        "Wardens favor: Mira Cael’s personal recommendation to Captain Aramus Dene"
+    ]
+}

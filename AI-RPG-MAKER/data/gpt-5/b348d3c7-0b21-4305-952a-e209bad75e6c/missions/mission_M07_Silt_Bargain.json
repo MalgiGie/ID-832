@@ -1,0 +1,49 @@
+{
+    "id": "M07",
+    "title": "Silt Bargain",
+    "quest_giver": "Ysra Dokk",
+    "description": "The northern channels choked and shifted like a sulky throat, and the River-Marrows muttered about dying trade while the Syndicate waved charts that said patience. Harbormother Ysra Dokk and Pilot-Captain Rull Fen asked Neris to help chart a new safe lane through treacherous silt and to capture a saboteur faking Red Gale signals to crash dye prices and justify emergency closures. Lanterns in Lowwater burned a little dimmer every night because silt slowed the coalboats, and rumor made coin out of hardship. The river does not care whose faction has the right lamp color; it cares who understands its teeth. Tonight, the city would learn whether an archer could stitch a truce where engineers and boatmen had been untying each other for years.",
+    "objectives": [
+        "Place four discreet buoys that only River-Marrows can read, creating a safe lane through the shifting silt bars.",
+        "Decode a pattern of false Red Gale signals and trace them to their origin point without alerting the culprit.",
+        "Apprehend the saboteur and present them to a neutral witness from the Order of Knotted Light.",
+        "Draft a preliminary co-authority knot witnessed by the Order that grants River-Marrows input on trade-hour hinge openings.",
+        "Deliver lane charts to both Syndicate and Marrows to force a shared solution."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ysra Dokk",
+            "line": "We keep this city fed and clothed and lit, and we do it with hands that blister and heal before the Parliament has finished clearing its throat. If a red lamp lies to us, it is not a safety law, it is a theft with a hymn. I want your arrows to stitch a path that does not answer to a single guild bell. Do this, and I will clear your family’s record as far as my tide will reach."
+        },
+        {
+            "speaker": "Rull Fen",
+            "line": "I remember the night you threw that hook for the Speaker’s barge, and I remember how quick you were to keep quiet about who asked for quiet. No hard feelings if you’ve been both rescue and rumor. Today I need you to be neither and both. Put the buoys where my boats can live through morning."
+        },
+        {
+            "speaker": "Gantrix Pell",
+            "line": "You think we crave closures because we like the power of gates, but I like them open when they should be and shut when death comes with its mouth full of silt. Bring me a saboteur, and I will sign a knot in public that shares the bell in trade hours. Bring me hand-wringing, and I will simply ring louder."
+        },
+        {
+            "speaker": "Order Witness (Acolyte Sera)",
+            "line": "I will watch you tie this with clean hands and a clear lamp. A co-authority knot is not a marriage, it is a braided promise, and braided promises rub wrists until callus becomes comfort. Speak plainly, and the cord will hum if the river in your words turns aside."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "I will set a lane that treats hungry mouths as more urgent than proud ones. And when we knot the bell between you, it will be tight enough to pull against and generous enough to breathe. The river likes deals that remember it is older than maps."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M06"
+        ],
+        "next": [
+            "M08"
+        ]
+    },
+    "rewards": [
+        "River-Marrows salvage chit clearing a portion of the Quay family’s Weir record",
+        "Stamped guild rope with coin-notches granting pilotage on the new lane",
+        "Reputation: River-Marrows Guild (trusted pilot-friend)",
+        "Knowledge: the false Red Gales were timed with dye futures calls at the Saffron Ledger Exchange"
+    ]
+}

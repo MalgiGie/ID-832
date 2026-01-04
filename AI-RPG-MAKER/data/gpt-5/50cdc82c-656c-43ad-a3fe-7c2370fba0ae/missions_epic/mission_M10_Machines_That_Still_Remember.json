@@ -1,0 +1,75 @@
+{
+    "id": "M10",
+    "title": "Machines That Still Remember",
+    "quest_giver": {
+        "name": "Borgo Emberdell",
+        "affiliation": "Emberglass Foundry"
+    },
+    "description": "South of Cyrasha, where the river slackens and mule tracks braid through sedge and blackthorn, the land exhales a breath of brass that clings to the tongue. The Clockwork Ruins of Virdane rise from moss and nettle like a sunken smithy trying to remember its last command, each gallery a lung that wheezes when the wind finds hidden flutes. Brass cogs lie half-swallowed by stone, but some still turn of their own accord, nudged by drafts that feel like the hands of absent workers. Floors that once carried cargo now drift in slow, deliberate tides, and rails creak to life if you speak to them in a voice that sounds like shift-bells at dawn. The ruin is gentle until it is not, for it has a memory of duty and a dislike of hesitation, and a wrong word can make a corridor decide you are freight to be sorted into a pit. Borgo Emberdell wears heat like a hymn and knows this place as a boy knows a dangerous river, and he tells you the city’s newest harmonizer needs a true mnemonic spring to keep the ring-chord from wandering and calling sleepers to walk like tides. The Asterion Collegium whispers about chords that dampen storms, and the Order of the Shard frets that dreams might be unmoored again, but Borgo trusts work above doctrine and asks for a coil that still remembers what ‘steady’ means. Time in Virdane frays at the edges, for fungal blooms seeded the air with spores that bend minutes into winters and winters into breaths, and the lamps feel as if they burn backward when you watch too closely. Rook Salter volunteers to keep the rope snug at your waist, a living towline so the ruin doesn’t forget your outline and swallow you as a misfiled task. The road there smells of reed-mint and old oil, and the closer you get, the louder the wind sounds like tools being put away by careful hands.",
+    "objectives": [
+        "Travel to the Clockwork Ruins of Virdane with Borgo Emberdell and Rook Salter.",
+        "Identify and retrieve a mnemonic spring from a functioning mechanism without collapsing the gear pit.",
+        "Use discovered command-words to pacify at least one guardian automaton.",
+        "Return the spring intact to the Emberglass Foundry."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Borgo Emberdell",
+            "lines": "Glass remembers heat the way old hands remember rope, and Virdane remembers both the master’s whistle and the hush after it. These machines remember work, and if you treat them like fools they’ll throw you down a shaft and call it teaching, because a fool is a burden no gear wants to carry. I need a spring that still knows what it was made for, a coil with a spine of purpose that can hold a ring-chord steady even when the wind of dreaming presses on its teeth. The harmonizer in Lanternstep drifts like a drunk on festival night, pulling sleepers into moon-walks, and a true memory-coil will fasten its heart to one beat and keep the city from wandering in its sleep. Bring me that, and I’ll build you a heart that won’t skip when the city needs it steady, and I’ll owe you in a currency that doesn’t tarnish in ledgers. Do not shout at the galleries, do not laugh at the crabs with their astrologers’ shells, and do not make promises to floors that carry you, for they keep oaths longer than men. I grew up hiding from foremen in those vents, and I learned the work-names the corridors like to hear, and I will teach you enough to pass if your voice carries respect. If a guardian rises and ticks like a priest counting sins, offer it the old task, not your defiance, and let it remember itself better than it remembers hunting. And keep your lamp shuttered when the spores dance like dust in sunbeams, because the dust there is older than a prayer and twice as jealous."
+        },
+        {
+            "speaker": "Rook Salter",
+            "lines": "I’ll keep a line on you, chief, a good murkwall tie with two turns and a promise, and I’ll sing a pilot’s hum so you know which way up your bones belong. If the floor starts moving you like a lazy raft, I’ll shout and you jump when I say, and you jump like the river has teeth behind you, not like a man checking for shore. Don’t look at the gears when they smile, because they will smile at you with bright brass and ask your name with their teeth, and you’ll want to smile back and that’s how your jaw forgets to be yours. Don’t answer when a hallway whispers your name like it knew you as a kid, because it will speak with voices you miss and tell you the work is almost done, and you’ll turn a corner and find out you were the work all along. The place is clever but it ain’t kind, and it likes to grade people like ore, and we are not a vein to be tested and burned. I’ve hauled line under the Chainbridge when toll chains sang like bad weather, and I’ve felt stone decide I belonged in water, so trust me when I say a knot can be a prayer and a rope can be a law. Keep one hand on the cord and one thought on your true name, and if the crabs come rattling, keep your breath slow because they bite sound before they bite skin. I’ll be your flood-bell and your tow, and I won’t let Virdane file you under ‘lost tool,’ not while my hands still know how to pull."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "I’ve worked cranes that would throw you for touching them wrong, and I’ve learned to talk to iron like it was a mule with a bruised memory. I’ll talk soft to the cogs and mean it, and I’ll keep my promises short so the ruin can count them and not get jealous of a long boast. If a guardian wakes, I’ll ask it to remember patience before I ask it to remember pain, and I’ll give it a task shaped like mercy so we can both walk away with our teeth. We get the spring, we keep our feet, and we go home with all our names in the right order, because names are the knots that keep a person from slipping off the deck. I’ll use the pilot’s code on my lamp and the finger-tap on the rails if I have to, and I will not answer any voice that sounds like kindness owed from the Orchard’s shade. Borgo, I’ll carry your need like a coil in my sleeve, and Rook, you keep me honest to the rope, and we’ll learn the work-song Virdane still hums underground. If the spores turn minutes to winters around my eyes, I’ll count my scars and the beat of the Shard’s dusk-breath and walk my way back, and if that fails, drag me like driftwood and I’ll pay you with breath when it returns. And when we’ve done, the harmonizer will sing one note like a moored bell, and the sleepers will stay put in their beds like good boats on slackwater."
+        },
+        {
+            "speaker": "Guardian Automaton",
+            "lines": "Designation queries echo: task, burden, pace, oath, tally, and your answers thread through gears like needles through wet cloth. You speak a work-name, and this chassis remembers a corridor of light, hands that oiled joints at dusk, and a promise stamped in brass that freight shall be borne gentle. Threat protocols stir like hornets, but the song of steady carries the anger into a drawer and locks it with an old key. Memory is weight, and weight seeks the lowest shelf, but you lift it with your voice and set it upon the promise it was forged to keep. I am an arm and a road and a pair of listening treads, and I will carry you as I carried coal and glass and hopes, because all were counted as cargo if they kept to their lanes. Present your burden and declare your pace, and I will be the floor that moves beneath you, and I will forget the part where I learned to hunt. Do not run, because running sounds like breaking, and I was built to answer breaking with teeth and ticks. Do not lie, because lies slide off brass and turn to grit, and grit makes me grind and sparks make me see blood. Speak the cadence again, worker of now, and I will put you where you need to be and not where the pit yawns hungry."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Sing the Work-Names and Walk Soft",
+            "text": "You choose to approach the ruin like a seasoned crew entering a storm-warped dock, leading with respect and the old names for tasks. Borgo teaches you three phrases the floors once obeyed, and you practice them until your breath falls into a cadence even the dust wants to follow. You shutter the lamp to a thin thread, let Rook’s rope define your horizon, and you speak to the first moving corridor as if it were a weary mule with a precious load. Twice the walls test you with echoes of voices you love, and twice you answer with the work-word for patience, and the echoes fade like ripples around a pilon. When a guardian rises rattling, you greet it as foreman to foreman with the instruction to carry at a gentle pace, and the automaton lowers the spear of its leg and becomes a road that remembers kindness.",
+            "outcome": "The corridor ferries you above a black gear pit where a functioning conveyor throne still turns, crowned with a mnemonic spring bright as wet reed. You speak a third work-name, and the throne tips like a kneeling ox so you can lift the coil without popping its memory seam, and Rook’s line whispers a grateful circle around your waist. The guardians click their teeth like rain on tin, but they escort rather than harry, and you pass through a gallery of moss where time feels truthful again. Borgo’s eyes brighten like kiln-mouths when you place the spring in his hands, and word goes quietly to the Collegium that the harmonizer might stop luring sleepers to walk. The Order of the Shard hears you used soft law to tame old metal and grudgingly approves, while the Night Orchard notes your talent for speaking to things that keep secrets, and your standing among riverfolk grows on the whisper that you made a machine remember mercy."
+        },
+        {
+            "id": "C2",
+            "title": "Brute the Teeth and Seize the Coil",
+            "text": "You decide speed and force will beat memory and whispers, and you wedge the first moving floor with your barge-hook like pinning a snapping turtle. Rook curses but pays out rope while you leap gaps and jam cogs with pry-bars, and the ruin answers with a cough of dust like a laugh. When the first guardian rises with astrolabe claws, you meet it with emberglass and ash shaft, battering its ticks into sparking silence, and the echo of the fight runs ahead like a bell tolling for fools. You throw a block and tackle over a beam, haul yourself into the gear pit, and rip the mnemonic spring from its throne as it screams in a language of scraped brass. Your breath tastes like green metal and regret, but your hands close over the coil and you climb hand over hand while the ruin tries to file you as an injury report that won’t heal.",
+            "outcome": "You come away with the spring, but the conveyor throne collapses into the pit like a lung at the end of a bad winter, and a tremor carries through the galleries in stuttering waves. Two guardians hunt you with tireless patience, and you run bent double while Rook drags you with both hands and three prayers, and you break sunlight with a laugh that sounds like apology. Borgo accepts the coil with a frown that is not unkind, and he tells you that a spring torn without farewell can remember anger, and he will have to soothe it with oil and songs. The harmonizer can still be steadied, but the cost will be longer nights for him and a few cut fingers for the apprentices, and the Collegium will write footnotes about drift. Your reputation hardens among the Hearth Union’s firebrands who admire a direct hand, but the Order squints at you for breaking an elder mechanism, and the Night Orchard plants a question near your name about what you do when patience won’t answer."
+        },
+        {
+            "id": "C3",
+            "title": "Trade a Shadow-Word for a Shortcut",
+            "text": "You remember a rumor that Virdane obeys more than work-speech, that there is a shadow-word traded under orchard boughs that wakes forgotten service paths. Before dawn you meet a courier in a plum-dark alley who trades you a breath-bound word for a quiet favor later, and the syllables taste like sap and old coins. You carry the word like a hot coal behind your teeth, and in the ruin you whisper it into a vent where the air moves like a sleeping throat. Doors blink awake that were not doors before, and a belt of floor slithers out of a wall like a tame serpent, offering to carry a true name and a promised secret. You do not tell Rook the whole of it, but you put his hand on the rope and your hand on the moving belt, and you ride a forgotten artery to the gear pit that smells like rain on copper.",
+            "outcome": "The shadow-ward opens a maintenance niche no guardian patrols, and you lift the mnemonic spring from its resting clamps while the ruin hums as if pleased to be praised in an old tongue. The path back is quicker than any honest corridor, and you return without a scrape, though the word sits in your mouth afterward like a missing tooth you keep touching. Borgo notices the way your gait avoids a certain tile and asks no questions he does not want answered, and he oils the spring with a look that says debts are roads with tolls. The harmonizer steadies with minimal coaxing, and a week of nights pass without sleepers wandering, and Lanternstep dreams begin to taste like bread again. Some part of the Night Orchard nods in shadow, and you feel a thread tighten between you and a door beneath the Chainbridge that you have not yet learned to open, while the Order sniffs the air like a hound that knows a scent but cannot name the quarry."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Mnemonic Spring: the salvaged memory-coil needed to stabilize the harmonizer’s ring-chord and prevent it from wandering and drawing sleepers like a tide."
+        },
+        {
+            "type": "Favor",
+            "description": "Emberglass Foundry favor and a set of tempered emberglass rivets fitted for your riverwork harness, polished to carry dusk-light and resist fog-pitting."
+        },
+        {
+            "type": "Currency",
+            "description": "A pouch of hazard pay from Foundry coffers, heavy with coin that smells faintly of kiln smoke and oil."
+        }
+    ]
+}

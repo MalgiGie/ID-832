@@ -1,0 +1,72 @@
+{
+    "name": "Sereth",
+    "surname": "Vex",
+    "race": "Human",
+    "age": 47,
+    "appearance": "Tall and spare, hair streaked iron-grey, bone-inlaid pauldron over a dark mantle; lantern-glow often reflected in her steady eyes.",
+    "character": "Pragmatic and protective, slow to anger, quicker to bind a promise than break it.",
+    "traits": [
+        "resolute",
+        "calculating",
+        "duty-bound",
+        "observant"
+    ],
+    "skills": [
+        "governance",
+        "oath-law",
+        "negotiation",
+        "ceremonial swordplay",
+        "bone-resonance etiquette"
+    ],
+    "talents": [
+        "keen ear for the ribs' hum",
+        "reads factions' moods",
+        "endures long councils without fatigue"
+    ],
+    "flaws": [
+        "distrustful of populists",
+        "overcentralizes power",
+        "insomniac",
+        "superstitious about rib creaks"
+    ],
+    "dreams": [
+        "stabilize the Council of Cartilages",
+        "keep the River of No Echo sovereign",
+        "unify competing guild codes into one charter"
+    ],
+    "secrets": [
+        "Privately chimed the Bone Bell to summon counsel without quorum",
+        "Keeps a hidden name-cord with a fragment of the city's rumored true name",
+        "Paid for a Grey Lantern rumor to vanish a treacherous vote tally leak"
+    ],
+    "relations": [
+        {
+            "npc_name": "Leth Morrow",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Marek Sol",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Tamsin Veil",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Brunna Coil",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Avar Ir",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Jull Nerr",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Safra Ninebridges",
+            "relation_type": "Different goals"
+        }
+    ]
+}

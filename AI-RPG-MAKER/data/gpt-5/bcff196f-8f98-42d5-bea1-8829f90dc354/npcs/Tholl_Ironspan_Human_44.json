@@ -1,0 +1,62 @@
+{
+    "name": "Tholl",
+    "surname": "Ironspan",
+    "race": "Human",
+    "age": 44,
+    "appearance": "Broad-backed, steel-gray moustache, knuckles lined with old slag burns, Ember Gate sigils polished on his pauldron.",
+    "character": "Dutiful and stern but fair, keeps his ward as clean as his conscience.",
+    "traits": [
+        "disciplined",
+        "observant",
+        "protective"
+    ],
+    "skills": [
+        "gate command and logistics",
+        "crossbow drill",
+        "evidence gathering",
+        "crowd control"
+    ],
+    "talents": [
+        "gut-sense for weight and balance",
+        "reads iron quality by sound on stone"
+    ],
+    "flaws": [
+        "rigid adherence to protocol",
+        "insomnia before festival nights",
+        "deep distrust of the Night Cartographers"
+    ],
+    "dreams": [
+        "keep Ember Gate incorruptible",
+        "sponsor capable Floodwalk youths into the watch"
+    ],
+    "secrets": [
+        "covers for a talented ash-lock breaker child he believes can be reformed",
+        "keeps a secret culvert map for evacuations"
+    ],
+    "relations": [
+        {
+            "npc_name": "Yael Emberkeel",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Arelon Vale",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Dhorik Basaltbane",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Finn Bracken",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Cal Tesser",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Olan Vetch",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1,
+  "title": "The Bell That Rang in Stillness",
+  "quest_giver": {
+    "name": "Yassa Nim",
+    "affiliation": "Night Orchids"
+    },
+  "description": "On a windless night the Hinge bell in the Chain Cathedral tolled by itself, and Ankharion held its breath as if a city of stone remembered it could float. The Old Song faltered on a sour note that seemed to thread Lyris’s bones, tugging at every broken promise she had ever hidden under her whispercloak. Beneath the Knotfast Commons’ black-cord pole, where names are tied without being spoken and bells are forbidden to ring, Yassa Nim waits with ink-stained fingers and grease-smudged sleeves, the look of someone who has crossed a dozen lines and left only rumors standing in her footprints. She speaks of an oath snapped in the Cathedral’s nave, the kind recorded by an oath ledger whose pages are oiled like prayer and numbered like debts, and of an Orchid runner who went in for a simple page-swap and never came back to report his success or his ghost. The Chain Cathedral’s ribs groan softly in the stillness, and every rivet looks like an eye that knows exactly how many oaths Lyris has bent to keep people breathing and promises alive. To learn what woke the Hinge, Lyris must slip through choir scaffolds timed to hymns, kneel under the third nave bench two rivets shy of a broken-circle stamp without letting her heel touch the iron taboo, pry out a hidden ledger slip, and carry it like a live spark to the Sky Market where skyglass can coax truth out of soot and sweat. Istel Shardwright will read the ghost-scratches in farseeing light, but Matron Vessa has a ledger of her own and will demand proof, a culprit, or a body before the Night Orchids decide to balance their books in blood. The city’s chains sway as if remembering stories of sailing free, the Wind Court listens for an edict on the breeze, and Lyris feels the hush stretch tight enough that one more broken oath might snap the whole chord.",
+  "objectives": [
+    "Meet Yassa Nim under the black-cord pole at Knotfast Commons after sundown.",
+    "Enter the Chain Cathedral via the choir scaffolds and avoid Chainwarden acolytes on grease-duty.",
+    "Recover the hidden ledger scrap from beneath the third nave bench, two rivets shy of a broken-circle stamp.",
+    "Use Istel Shardwright’s skyglass at the Sky Market to reveal micro-scratches and decode the ledger line.",
+    "Deliver a clean copy of the ledger line to Yassa Nim for the Night Orchids and a second copy to Erynn Sythar at an Unmoored dead drop."
+  ],
+  "dialogue": [
+    {
+      "speaker": "Yassa Nim",
+      "lines": "You hear it too, little shadow? The bell that forgot the wind, the Hinge that never speaks without a gust, sang out in a stillness thick as old grease..."
+    },
+    {
+      "speaker": "Lyris Kael",
+      "lines": "The last time the Hinge rang for me was the night I chose a life over a law..."
+    },
+    {
+      "speaker": "Istel Shardwright",
+      "lines": "Bring me whatever you pry loose from that sanctified machinery, and I will show you how light remembers what ink pretends to forget..."
+    },
+    {
+      "speaker": "Rul Fen",
+      "lines": "You come near that nave on an off day and I’ll smell the Orchid perfume three tiers away, Kael..."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Sing with the Choir and Ghost the Scaffolds",
+      "text": "You choose to time your approach to the Cathedral with the night practice of the hymn-choir...",
+      "outcome": "Your fingers find the hidden slip nested behind a shiver of varnish..."
+    },
+    {
+      "id": "C2",
+      "title": "Bargain with a Chainwarden Acolyte",
+      "text": "You pull your forged customs chits and your mirror coin...",
+      "outcome": "The acolyte swallows, glances up at the sleeping ribs of the Hinge..."
+    },
+    {
+      "id": "C3",
+      "title": "Set the Wind Listening",
+      "text": "You untie your tuned chime pendant and hold it between finger and thumb...",
+      "outcome": "The chime’s work frays at the edges, and a Chainwarden novice tries to tune a wind-harp..."
+    }
+  ],
+  "connections": {
+    "previous": [],
+    "next": ["2"]
+  },
+  "rewards": [
+    {
+      "type": "Favor",
+      "description": "Night Orchid black-marker favor (minor debt reduction)"
+    },
+    {
+      "type": "Currency",
+      "description": "20 chain-chits for expenses from Yassa Nim"
+    },
+    {
+      "type": "Reputation",
+      "description": "Mirror Guild goodwill with Istel Shardwright (access to bespoke lenswork)"
+    },
+    {
+      "type": "Clue",
+      "description": "Oath ledger references a 'Release calculus petition' scheduled in the Wind Court"
+    }
+  ]
+}

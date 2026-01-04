@@ -1,0 +1,38 @@
+{
+    "id": "M9",
+    "title": "Shells and Light",
+    "quest_giver": "Nerey Alis",
+    "description": "The Court of Echoing Shells fills with a listening hush that pricks the skin. Nerey Alis, Harbormistress and one third of the Trium, calls for a public hearing. On one side stand the Conclave and the Glassworkers, bristling with lenses and chits; on the other, the Faith and the Reefkeepers, hands cut and cords tied. The Order of Brine-Scribes brings slabs like the bones of a white animal. House Saltvein glides in, Sel Var like a ship that always finds the deep channel. You carry the Nacre Crown wrapped in oilcloth and the evidence of shaved slabs. The shells will keen for lies, but they cannot force confessions. There is a taste of lightning in the air, and the Beacon's hum has started to color the room like distant birdsong.",
+    "objectives": [
+        "Present the recovered Nacre Crown to the Court as evidence of the city's oath heritage.",
+        "Submit the Amber Vaults evidence against the altered tariff slabs to the Order of Brine-Scribes.",
+        "Argue for a joint stewardship charter over the Beacon and reef-song with Nerey Alis as mediator."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Nerey Alis",
+            "content": "Marinth Vell remembers in salt and glass, and I am tired of those memories being dragged across a reef until they cut feet that never chose their path. We will hear from every party. We will put the Crown on the stele where no one can touch it without the shells singing. And when this is done, I will write a charter that binds like a tide-rope unless the shells keen when we try to tie it."
+        },
+        {
+            "speaker": "Sel Var Saltvein",
+            "content": "You bring me a crown dredged from a drowned faith and call it a ledger? The city eats because caravans move and salt seals do not dissolve when a priest disapproves. If a clerk in my house shaved a slab, find me the knife and I'll cut their employment myself. But do not use an ancient toy to make law that forgets the desert's lessons."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "content": "This isn't a toy, and those shells don't care about deserts or reefs or caravans. They care if your mouth makes a shape your heart isn't ready to hold. The Beacon keened because someone lied big enough to tilt the city. We put our hands on the same glass and swear the same oath: the reef is not a harp, the Beacon is not a throne, and salt is not a cudgel. We bind stewardships together so no one hand can pull a string until the city sings what they want to hear."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        "Draft of the Beacon Stewardship Charter (proof item)",
+        "Reputation: +Medium with Nerey Alis and Order of Brine-Scribes, ±Minor with Conclave, Faith, and Glassworkers based on your arguments",
+        "Permission to access the Beacon’s lower choir for one tuning session"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "name": "Rukha",
+    "surname": "Mossbank",
+    "race": "Riftborn human",
+    "age": 50,
+    "appearance": "Broad-hipped terrace elder with earth-stained hands, a moss-green shawl, and a copper water-measure hanging from her belt.",
+    "character": "Practical and nurturing, unafraid to scold the mighty when ration ledgers go red.",
+    "traits": [
+        "steady",
+        "community-minded",
+        "stubborn",
+        "frugal",
+        "plainspoken"
+    ],
+    "skills": [
+        "terrace irrigation",
+        "fungus and moss-fruit cultivation",
+        "ration calculations",
+        "mediation and dispute settling",
+        "ledger auditing"
+    ],
+    "talents": [
+        "tastes water mineral balance",
+        "charms terrace crowds into cooperation"
+    ],
+    "flaws": [
+        "overly controlling",
+        "suspicious of merchants",
+        "slow to forgive slights"
+    ],
+    "dreams": [
+        "to decouple food prices from salt indices",
+        "to build redundant cisterns and emergency kitchens across the Ledges"
+    ],
+    "secrets": [
+        "hides an emergency grain cache beneath a false floor",
+        "skims tiny rations in crises to rebuild seed stock without permission"
+    ],
+    "relations": [
+        {
+            "npc_name": "Neris Undersong",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Breg Tesserin",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Vara Keshlin",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Yevra Ashleaf",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sere Vell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Nemra Coil",
+            "relation_type": "Friendship"
+        }
+    ]
+}

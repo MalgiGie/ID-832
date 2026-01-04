@@ -1,0 +1,43 @@
+{
+    "id": "M6",
+    "title": "Silver that Forgets Promises",
+    "quest_giver": "Lantern-Queen Thia Mol (warning of ghost-barge call)",
+    "description": "The river falls like a held breath, and the Mistmarket Flats tremble into being. Aerin drifts among awnings and bells, past stalls selling feather-bright oils and eel-skin ledgers, following a ghost-barge whisper Thia passed along. High Bargewarden Ulo Hen plays host with a smile stapled over sharpened accounts. He would buy silence, sell a city’s patience by the dram, and dredge up an old debt owed to the ghost-barges to chain Aerin’s hands. The ghost-barge slides through fog, its crew silent as cut kelp, and offers a silver coin that takes a promise in exchange for forgetting another. Iven Rill, a cousin and river pilot with calloused hands, swears he’s seen eel-skin coin pass to a Rafter foreman named Danka Suth. Between Ulo’s leverage and the ghost-barge’s cold bargain, Aerin chooses the hard path: return stolen silver to the ghost-barge to quiet the dead debt, and pry from the Mistmarket a ledger bound in eel-skin that murmurs when warmed—the kind that forgets, unless lit by moonshard truth.",
+    "objectives": [
+        "Meet Ulo Hen at the Riverfoot stall and deflect his attempt to bind you by debt.",
+        "Seek the ghost-barge before dawn bells and offer back the stolen silver on someone else’s behalf.",
+        "Secure the eel-skin ledger that records payments to Danka Suth and an initial to ‘R. Mestri’.",
+        "Enlist Iven Rill’s testimony about a hidden sluice trick at the Locks used to beach rival barges."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ulo Hen",
+            "line": "Paladin! Come, drink where the river pays the cup. I hear you’ve a taste for debts that wash clean in fog. Perhaps we can clean one of yours. Names needn’t be spoken for a city to keep balance. Let the market breathe; we’ll keep it from hyperventilating."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "I’ve no thirst for your kindness, Bargewarden. Keep your fingers off my oaths. I’m here for a ledger that hums when warmed and the truth it’s tried to swallow."
+        },
+        {
+            "speaker": "Iven Rill",
+            "line": "Saw it with my own eyes, Aerin. Eel-skin purse to Danka, hush-hush talk by the depth-mark poles, and a slide of water from a hidden sluice to beach a rival just in time to buy their cargo cheap. I’ll say it under oath if I must."
+        },
+        {
+            "speaker": "Ghost-Barge Ferryman",
+            "line": "Silver returns to silver. A promise returns to the mouth that cast it. Take this coin back and remember what you are willing to forget to save a child. Pay it forward, and a lantern will burn on a night you cannot see."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "Then I will pay what I can see. Keep your hooks out of our bones. I’ll warm your ledger with moonlight and show the names it hides."
+        }
+    ],
+    "connections": {
+        "previous": "M5",
+        "next": "M7"
+    },
+    "rewards": [
+        "Eel-skin ledger listing bribe disbursements tied to Danka Suth and ‘R. Mestri’.",
+        "Pilot’s knotpass from Iven Rill for free, lawful passage at Riverfoot Locks in emergencies.",
+        "A ghost-barge coin that warms near broken promises (one-time omen use)."
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Serad",
+    "surname": "Głaz",
+    "race": "człowiek",
+    "age": 47,
+    "appearance": "Kark twardy jak klin, blizny pod obsydianowym napierśnikiem; broda przystrzyżona; spojrzenie ciężkie i niewzruszone.",
+    "character": "Zdyscyplinowany, chłodny, wierzy w porządek i karę bardziej niż w cnoty; ma lojalność wobec kontraktu.",
+    "traits": [
+        "autorytarny",
+        "punktualny",
+        "odporny na presję",
+        "milczący"
+    ],
+    "skills": [
+        "dowodzenie oddziałami",
+        "taktyka miejska",
+        "przesłuchiwanie",
+        "strzelectwo kuszą",
+        "organizacja blokad"
+    ],
+    "talents": [
+        "wyczuwa zapach buntu",
+        "niestrudzony marsz",
+        "niewzruszona postura, która gasi spory"
+    ],
+    "flaws": [
+        "uparty",
+        "podejrzliwy",
+        "mało elastyczny w myśleniu"
+    ],
+    "dreams": [
+        "rozszerzyć jurysdykcję Legii",
+        "wyeliminować Chór Cieni",
+        "uzyskać tytuł namiestnika"
+    ],
+    "secrets": [
+        "przyjmuje łupy do tajnego skarbca w Wieży Grot",
+        "jego siostra działa w Chórze Cieni, co ukrywa przed podkomendnymi"
+    ],
+    "relations": [
+        {
+            "npc_name": "Vasko Danter",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Orla Krawężna",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Matka Korala",
+            "relation_type": "Hatred"
+        },
+        {
+            "npc_name": "Lima Fal",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Jodan Piżmowy",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Rikel Stalnik",
+            "relation_type": "Different goals"
+        }
+    ]
+}

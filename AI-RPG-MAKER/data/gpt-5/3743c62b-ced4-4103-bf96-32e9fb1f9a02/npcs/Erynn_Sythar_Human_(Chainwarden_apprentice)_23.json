@@ -1,0 +1,58 @@
+{
+    "name": "Erynn",
+    "surname": "Sythar",
+    "race": "Human (Chainwarden apprentice)",
+    "age": 23,
+    "appearance": "Lean and grease-streaked, with iron prayer charms braided into a dark plait; gray-blue eyes that narrow when listening to the chains’ Old Song.",
+    "character": "Methodical, devout, and anxious about letting others down; seeks certainty before action.",
+    "traits": [
+        "Pious",
+        "Punctual",
+        "Stubborn",
+        "Observant"
+    ],
+    "skills": [
+        "Chain inspection",
+        "Knot calculus",
+        "Winch operation",
+        "Oath-ledger reading"
+    ],
+    "talents": [
+        "Hears microtonal shifts in the Old Song",
+        "Ambidextrous",
+        "Fast mental arithmetic under pressure"
+    ],
+    "flaws": [
+        "Risk-averse",
+        "Tunnel vision",
+        "Over-deferential to authority"
+    ],
+    "dreams": [
+        "Design a fail-safe slack-catcher",
+        "Earn an arch-warden sash",
+        "Lead a Tensioning with zero incidents"
+    ],
+    "secrets": [
+        "Read a sealed ten-knot page in the Torsion Archives",
+        "Forged a minor blessing stamp to cover a friend’s late maintenance",
+        "Hid a hairline crack report to avoid a panic during festival"
+    ],
+    "relations": [
+        {
+            "npc_name": "Greydin Korr",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Seresya Thorn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Yassa Nim",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Nalia Pree",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

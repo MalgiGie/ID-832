@@ -1,0 +1,65 @@
+{
+    "name": "Vasko",
+    "surname": "Danter",
+    "race": "człowiek",
+    "age": 50,
+    "appearance": "Płaszcz podszyty solą i jedwabiem, pierścienie z pieczęciami domów; oczy zimne jak stal; perfumy o zapachu jałowca.",
+    "character": "Kalkulujący i uprzejmy w mowie, bezwzględny w rachunku; rzadko unosi głos, częściej dług.",
+    "traits": [
+        "elegancki",
+        "przewidujący",
+        "dominujący w rozmowie",
+        "cierpliwy gracz"
+    ],
+    "skills": [
+        "finanse i kredyty",
+        "szantaż ekonomiczny",
+        "retoryka",
+        "zarządzanie agenturą",
+        "planowanie logistyczne"
+    ],
+    "talents": [
+        "wyczuwa słabość długu po jednym spojrzeniu",
+        "pamięta twarze i przysługi"
+    ],
+    "flaws": [
+        "pyszny",
+        "pogardza biedotą",
+        "lęk przed otwartą wodą"
+    ],
+    "dreams": [
+        "sprywatyzować dźwigi i nabrzeża",
+        "wyprzeć Chór Cieni z kanałów",
+        "zapisać swoje imię w Domu Segmentów na pokolenia"
+    ],
+    "secrets": [
+        "utrzymuje niewpisany do ewidencji skarbiec w Wieży Grot",
+        "ma cichy dług u kapłanów po nieudanej przeprawie podczas sztormu"
+    ],
+    "relations": [
+        {
+            "npc_name": "Serad Głaz",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Orla Krawężna",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Delerion Ognikowy",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Matka Korala",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Lima Fal",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Maera Buławka",
+            "relation_type": "neutral"
+        }
+    ]
+}

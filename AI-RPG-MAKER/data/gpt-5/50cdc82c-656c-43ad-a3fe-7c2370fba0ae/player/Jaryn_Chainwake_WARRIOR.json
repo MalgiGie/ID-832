@@ -1,0 +1,68 @@
+{
+    "name": "Jaryn",
+    "surname": "Chainwake",
+    "age": 29,
+    "race": "Human (Riverfolk)",
+    "appearance": {
+        "description": "Broad-shouldered riverborn with sun-browned skin and storm-black hair tied in a pilot’s knot. Wears layered leather with emberglass scale plates, a weathered river-cloak, and a rope-belt strung with tool-hooks.",
+        "distinctive_signs": "A prismed scar across the left cheek from a Shard-shed splinter; a tattoo of interlocked chains and waves on the right forearm signifying a vow to keep crossings open."
+    },
+    "class": "WARRIOR",
+    "history": "Jaryn Chainwake grew in Murkwall’s flood-stooped lanes, the Shard’s dusk-breath his nightlight and the Luthien his schooling. As a teen he hauled lines in Chainward, learned crane-sign, and stood as a hook guard on barge convoys when toll feuds ran hot. The Pilots’ Covenant took him on as a shieldman during spring surges, where he earned his surname hauling a snapped toll-chain clear in a flood. He later rotated to union watchlines at the House of Reconciliation, helping keep tempers from becoming torches when heat-levy caps were fought. He respects the Order of the Shard’s wardens but bristles at rites that halt work on hungry days. He has ferried scholars of the Asterion Collegium to measure the Shard’s song, and once escorted a night-sap run near the Moonless Orchard where he tasted the fruit and forgot who first taught him to splice a rope. Jaryn avoids House Kelvar debt ledgers, having watched friends drown in numbers. He keeps the river’s codes, can hear when the Shard hums louder before a storm, and carries both blade and barge-hook with the practiced calm of a crane crew chief. With rumors of convoys being trimmed by unseen hands, he has begun to gather a small band willing to guard routes that guild charters neglect.",
+    "equipment": [
+        {
+            "name": "Emberglass Falchion",
+            "description": "A single-edged blade cast in the Emberglass Foundry, tempered to drink dusk-light and hold a keen edge in wet. Etched with flood-bell marks for luck."
+        },
+        {
+            "name": "Barge-Hook Halberd",
+            "description": "A stout ash shaft with a hook for snagging lines and a slate-toothed beak for close-quarters on quays and chainbridges."
+        },
+        {
+            "name": "Prism-Lamp",
+            "description": "A hand lamp fitted with a Shard-shed lens that stores dusk glow, shuttered to signal convoy codes across misted water."
+        },
+        {
+            "name": "Copper Ward-Tile",
+            "description": "A palm-sized tile issued by the Order, stamped against ill luck and used to seal oaths; Jaryn keeps it on a cord at his throat."
+        },
+        {
+            "name": "Fenmint Salve Kit",
+            "description": "Tin of reed-mint and wax-bark balm to fight gnats and fever, learned from fen guides of Shiverfen."
+        },
+        {
+            "name": "Riverwork Harness and Lines",
+            "description": "Webbed belt with quick-tie loops, a throw-line, and iron snap-hooks for chainbridge crossings and cliff work at the Fallen Stair of Marn."
+        },
+        {
+            "name": "Mirrorfish-Scale Bracer",
+            "description": "A bracer inlaid with glimmering scales from omen-kin fish; doubles as a quiet signal surface under moonless skies."
+        }
+    ],
+    "main_attributes": {
+        "strength": 16,
+        "agility": 12,
+        "constitution": 15,
+        "intelligence": 11,
+        "wisdom": 12,
+        "charisma": 13,
+        "dexterity": 14,
+        "endurance": 15,
+        "perception": 13,
+        "luck": 10
+    },
+    "soft_skills": [
+        "Convoy leadership and drill",
+        "Mediation across guild lines",
+        "Riverfolk finger-tap code literacy"
+    ],
+    "relationships": {
+        "Tala Fenmint": "A reedmarch guide from the Shiverfen who once smuggled Jaryn through lamp-eel channels during a toll blockade; occasional partner and confidante who taught him the smell of fever winds.",
+        "Mara Tidecall": "Senior steerswoman in the Pilots’ Covenant and Jaryn’s former captain; mentor who drilled him in flood-bell discipline and still calls on him when convoys need a hard shield.",
+        "Neris Aline": "Junior aetherist of the Asterion Collegium whom Jaryn has escorted to risky sites like the Moonless Orchard and the Fallen Stair; friend whose research into harmonics he quietly protects."
+    },
+    "ambitions": "Forge an independent river-guard that answers to the House of Reconciliation rather than debt ledgers, keep crossings open during crises, and learn whether the sealed stair within the Shard leads to a truth that can steady the city when the hum next falters.",
+    "flaws": "Quick to square shoulders against perceived bullies, distrustful of contracts that smell of counting-hall ink, and haunted by the kindness he forgot after tasting night-fruit, which makes him brusque with old friends he cannot fully recall.",
+    "dreams": "Recurring dream of walking a glass dune beside his own delayed shadow while the Shard sings like rain on bronze; he lays a chain across a river that parts like pages, revealing names he cannot read fast enough.",
+    "secrets": "Years ago he ran a quiet courier job for Tala that masked a Night Orchard exchange beneath the Chainbridge; his parcel was a decoy that let others lift a ring of keys tied to a hidden lock under the span. He has never told Mara, and Neris suspects the theft relates to the council cavity inside the Shard’s collar."
+}

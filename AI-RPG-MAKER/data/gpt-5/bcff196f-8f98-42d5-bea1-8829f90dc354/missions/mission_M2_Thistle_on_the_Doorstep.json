@@ -1,0 +1,59 @@
+{
+    "id": "M2",
+    "title": "Thistle on the Doorstep",
+    "quest_giver": "Finn Bracken",
+    "description": "By lantern-smear dawn, Finn Bracken rows under the Weir Market and raps Kezra’s skiff with a knuckle: another body, floating where the contraband sluice cuts under Stall 47. Thistle bundles have been left on doorsteps across the Floodwalk, and the reed-thing whispered about in taverns begins to collect a shape in rumor—long as a man, with a slit mouth that drinks vows out of the air. The Order of the Black Thistle demands a witness at the scene who can bind words from wriggling. Kezra must read the thistle knots, survey the eddies, and persuade the living to speak plainly while the dead say nothing but what their water-logged clothes have learned. The rain-chains’ tune is back in the ears like a headache, and the Oathstone’s salt-sweat seems thicker when the body is brought to shore.",
+    "objectives": [
+        "Examine the crime scenes at the Floodwalk, the contraband sluice, and a lamplit alley near the Loom Quarter.",
+        "Use the oath-glyph kit to test the thistle bundles for vow-resonance and record any souring when lies are spoken nearby.",
+        "Confer with Sister Meret, oath-reader, about the reed-thing stories; establish what is rumor and what is ritual.",
+        "Deliver your findings at a small hearing in Black Thistle House, keeping the Hall of Shares from co-opting the conclusion."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Finn Bracken",
+            "lines": "It’s not just a bad tide, Kezra. The river’s quieter around them, like it’s holding its breath. I don’t like bodies where the sluices run; too many ways for truth to slide under a board. And those thistle bundles—somebody wants to say ‘I remember,’ and I think they mean ‘I accuse.’ Come see. Don’t bring bells."
+        },
+        {
+            "speaker": "Sister Meret",
+            "lines": "The thistles are twisted in a penitent’s knot, but the stem breaks are wrong—too clean, as if clipped by a measure and not a hand. When I read them, the taste is like dark salt. If a vow is being drunk, it is being drunk by something that knows ceremonies and mocks them."
+        },
+        {
+            "speaker": "Matron Selde Karst",
+            "lines": "The Exchange has no patience for ghost tales that spook barge-crews from their duties. Bodies are tragedies; tragedies, in turn, depress prices. Bring me a culprit in flesh and a motive with a ledger; I will not seek justice in reeds and rotary superstition."
+        },
+        {
+            "speaker": "Prior Ansel of the Black Thistle",
+            "lines": "Do not let the Hall shame grief into bargaining. If this is a thing of promises, it will feed on our denials as easily as our confessions. Speak what you found, Kezra, and be braced. A city’s first defense is the truth it admits."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I can bind a few words to the light and ask them not to wriggle, but I can’t conjure a murderer out of gossip. The knots remember a careful hand. The water remembers silence. Between the two, there’s a path. I’ll walk it."
+        }
+    ],
+    "connections": {
+        "previous": "M1",
+        "next": "M3",
+        "locations": [
+            "Floodwalk",
+            "Weir Market",
+            "Black Thistle House"
+        ],
+        "npcs_involved": [
+            "Finn Bracken",
+            "Sister Meret",
+            "Matron Selde Karst",
+            "Prior Ansel of the Black Thistle"
+        ],
+        "themes": [
+            "murder mystery",
+            "ritual misuse",
+            "truth vs. trade"
+        ]
+    },
+    "rewards": [
+        "Public thanks from the Order (improves standing among common folk)",
+        "Riverlight Pilots ferry-markers from Finn (free passage between three canal wards)",
+        "A small reliquary pin that warms near oath-breaking (subtle clue in future scenes)"
+    ]
+}

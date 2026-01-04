@@ -1,0 +1,65 @@
+{
+    "name": "Leth",
+    "surname": "Morrow",
+    "race": "Human",
+    "age": 58,
+    "appearance": "Pale, ink-stained fingers, cord rings on each knuckle, spectacles that catch lamplight like coins.",
+    "character": "Cold and careful, prideful in the legibility of all things.",
+    "traits": [
+        "analytical",
+        "patient",
+        "risk-averse",
+        "pedantic"
+    ],
+    "skills": [
+        "ledgercraft",
+        "contract magic",
+        "forensic auditing",
+        "deposition interrogation"
+    ],
+    "talents": [
+        "eidetic memory for cords",
+        "hears mismatched chit carvings"
+    ],
+    "flaws": [
+        "aloof",
+        "unyielding",
+        "underestimates informal networks"
+    ],
+    "dreams": [
+        "complete registry of names and debts",
+        "bind the city's own name-cord",
+        "subjugate rumor markets to written truth"
+    ],
+    "secrets": [
+        "Hides a blank cord he believes resonates with the city's unnamed thread",
+        "Manipulated audits to sway a crucial Council vote",
+        "Uses illicit self-writing river ink in private notes"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sereth Vex",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Tamsin Veil",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Safra Ninebridges",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Edris Thale",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Nalai Thread",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Cor Yune",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

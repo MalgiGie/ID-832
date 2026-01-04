@@ -1,0 +1,72 @@
+{
+  "id": "M6",
+  "title": "Przysięga na wodę",
+  "quest_giver": {
+    "name": "Neris Winnafala",
+    "affiliation": "Zakon Wiru i Przypływu"
+  },
+  "description": "Płaczące Schody w Słonych Stepach, dawny zdrój przysiąg i kupieckich przymierzy, zamieniły się w kaskadę opłat, rozkazów i zimnych rachub. Zakon Wiru i Przypływu pragnie przywrócić im bezpieczną neutralność, gdzie woda jest ważniejsza od ostrzy i pieczęci. Kapłanka Neris Winnafala wzywa Eliana Kotwicznego, łucznika-kuriera z tarasów Kaledry Bazaltowej, by stał się żywym mostem między karawaniarzami a Legią Obsydianu i odzyskał obrzędowy kielich ze szkła żywego, zrabowany rok temu pod osłoną mgły. Echo niszy u stóp schodów odpowiada w językach, których nikt nie zna, i mówi o przyszłościach płynących jak przypływy, ale każde spojrzenie w dal zabiera coś z bliskiej pamięci. W kroplach tego echa drży też cień odpowiedzi o bracie Eliana, który zaginął w Szybie Siódmym, jakby sam zdrój pamiętał, kogo utonęła sól, a kogo uniósł śpiew selenitu.",
+  "objectives": [
+    "Porozmawiaj z Neris Winnafala o warunkach mediacji oraz o zaginionym obrzędowym kielichu ze szkła, aby zrozumieć święty ciężar zadania i granice kompromisu.",
+    "Zorganizuj spotkanie z Komendantem Seradem Głazem na Płaczących Schodach lub w Wieży Grot i przedstaw propozycję czasowego wstrzymania opłat do czasu rytualnego rozejmu.",
+    "Odnajdź obrzędowy kielich w rękach pasera, w kryjówce przemytników lub w skrytce żołnierza Legii i bezpiecznie przynieś go Neris do pieczęci oczyszczenia.",
+    "Zadecyduj, czy wrzucić monetę selenitową do zdrójku, aby uzyskać wizję o losie brata w Szybie Siódmym, ryzykując utratę jednego z własnych wspomnień.",
+    "Podpisz przysięgę neutralności Schodów, wybierając pieczęć: Zakon, Legia lub Karawany, i zatwierdź rozejm, który algowe lampy i karawanowe bukłaki poniosą dalej."
+  ],
+  "dialogue": [
+    {
+      "speaker": "Neris Winnafala",
+      "lines": "Schody płaczą, Elianie, bo stały się miejscem, gdzie łzy mają cenę, a woda jest ważona jak zboże. Dawniej każdy, kto tu klękał, składał przysięgę, której strzegły wiatr, sól i pamięć wspólnoty, nie dzidy i licencje. Obrzędowy kielich nie jest tylko szkłem; to skroplony traktat między wiatrem Ankorytów a ludźmi drogi, i dopóki jest na wygnaniu, przysięgi są jak niedopite krople. Pomóż mi go odzyskać, a stanę przy tobie wobec kamienia, Legii i karawan, mówiąc, że Wir widzi twoją rękę jak rękę rozjemcy. A jeśli zdrój zażąda monety z selenitu, pamiętaj, że prąd przyszłości płaci sobą wspomnieniem; wybierz więc, czy wolisz znać drogę brata, czy ocalić to, co wiąże cię z kotwicami twojego serca."
+    },
+    {
+      "speaker": "Serad Głaz",
+      "lines": "Nie jestem potworem z soli i żelaza, choć wielu woli widzieć mnie jako kolczasty mur. Porządek ma koszt, a moje oddziały karmią nie tylko dyscyplinę, ale i rodziny, które czekają na żołd, gdy wiatr zatyka żagle. Daj mi powód, by cofnąć halabardy ze Schodów, a zrobię to tak, żeby nie wyglądało na słabość, tylko na mądrą pauzę przed sztormem. Pokaż mi, że twoje układy z cechami nie wywołają burzy, której nie przykryje żadna tarcza, i że kielich wróci, zanim ktoś zacznie śmiać się z prawa. Przyjmę rozejm na próbę, jeśli zobaczę oddech ładu w oczach karawaniarzy i kapłanów, i jeśli przysięga zostanie złożona publicznie, przy świadkach i pod moimi chorągwiami."
+    },
+    {
+      "speaker": "Elian Kotwiczny",
+      "lines": "Zrobimy z tych Schodów miejsce, gdzie znów można podać sobie wodę bez liczenia monet i bez lęku, że ktoś odmierza krople mieczem. Kielich wróci, choćby trzeba było wyłuskać go z solnych nisz albo wykupić z rąk kogoś, kto nie wie, co w nim niesie się przez pokolenia. Seradzie, dam ci pieczęć i słowo, które zrozumieją twoi ludzie, słowo o honorze, który nie potrzebuje kasy fiskalnej ani zbrojnego echo. A jeśli zdrój zażąda ode mnie ceny, niech porwie strach, nie pamięć twarzy, które stoją za moim imieniem jak szpaler światła na kanale. Przysięgnę przy was, że nie niosę Schodom burzy, tylko spokojny przypływ, a łuny algowych latarni będą świadczyć o tym, że w ciemności też można podjąć dobrą decyzję."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Pieczęć Trójprzymierza",
+      "text": "Wybierasz wspólną pieczęć Zakonu, Legii i Karawan, i proponujesz rytuał wspólnej wody, w którym każdy przelewa kroplę do kielicha i pije z powrotem. Przemawiasz długo i spokojnie, odwołując się do pamięci Schodów i do rachunku zysków, który nie zna krwi ani łez. Podkreślasz, że czasowe wstrzymanie opłat jest jak oddech przed skokiem, który ocali więcej ładunków niż zdławi budżety, a jednocześnie pozwoli Legii zachować twarz. Zakon ma strzec rytmu i pilnować, by rozejm nie zamienił się w dziką swobodę, a karawany mają dać słowo, że wykorzystają przerwę na odbudowę zaufania. Deklarujesz, że kielich wróci na schody, by odtąd każda przysięga była słyszana przez kamień i wodę, a nie przez kasę i żelazo.",
+      "outcome": "Komendant Serad zgadza się na miesięczny rozejm i odwołuje większość posterunków, pozostawiając dyskretny nadzór w cieniu chorągwi. Zakon ustanawia straż rytualną przy zdrójku, a karawany wnoszą dar czystej soli na utrzymanie źródła, co tłumi szemranie skarbnika. Handel ożywa, przez co nawet Konfederacja musi przyznać, że bilans skłania się ku neutralności, choć ostrzega przed precedensem. Wieść o twojej roli niesie Chór Cieni, a Bractwo Bazaltowych Cieśli przypisuje ci oddech, który daje mostom siłę. Echo zdrójku tej nocy przemawia wyraźniej, zapowiadając, że ślad brata prowadzi w okolice Szybu Siódmego, gdzie śpiew selenitu przygasa na jednym z poziomów oddechowych."
+    },
+    {
+      "id": "C2",
+      "title": "Pieczęć Legii",
+      "text": "Podkreślasz, że bezpieczeństwo jest warunkiem każdej przysięgi, i proponujesz rozejm pod auspicjami Legii, z przysięgą w kielichu i chorągwiami jako strażnikami neutralności. Mówisz o dyscyplinie i odpowiedzialności, które pozwolą zatrzymać wymuszenia band i wyłapać paserów, nie dławiąc uczciwych wędrowców. Proponujesz, by opłaty zostały zawieszone, ale kontrola dokumentów trwała symbolicznie, tak by wilk syty i owca cala obejrzały światło jednego żyrandola. Zakon ma pobłogosławić zawiasy rozejmu, a karawany złożyć kaucję w soli i wodzie, która wróci do zdrójku po miesiącu spokoju. Dodajesz, że zwrot kielicha będzie dowodem dobrej wiary, a każdy, kto spróbuje zakłócić rytuał, usłyszy ostry szept Wiru i szczęk obsydianu.",
+      "outcome": "Legia wykorzystuje rozejm do poprawy reputacji i wyciszenia buntów, a jednocześnie ogranicza nadużycia kilku gorliwych kaprali po twojej interwencji. Karawany oddychają lżej, choć szemrzą na widok zbroi, i dotrzymują warunków, bo to, co tymczasowe, zaczyna przypominać normalność. Zakon akceptuje układ, bo woda płynie, a przysięgi nie są przerywane rozkazem, tylko zamykane w ciszy żłobionego szkła. Kielich wraca na miejsce, a na jego ściankach pojawiają się nowe rysy, które Neris czyta jak mapę możliwych dróg przez mgły. Echo zdrójku oddaje ci wizję z Szybu Siódmego: migotliwą galerię obok serca lewiatana i cień lampy, która porusza się jakby niosła ją znana dłoń."
+    },
+    {
+      "id": "C3",
+      "title": "Pieczęć Karawan",
+      "text": "Stajesz po stronie wędrowców, akcentując stare prawo wody jako wspólnego dobra i wyłączając Schody spod ciężkiej ręki fiskalnej. Prosisz Legię o wycofanie widocznych posterunków i pozostawienie jedynie niewidzialnej kurtyny, która nie przestraszy kupców, a odstraszy grabieżców. Proponujesz, by karawany wystawiły własnych porządkowych do wsparcia rytuału, a Zakon prowadził księgę przysiąg, zamiast księgi opłat, dając legitymację każdemu, kto pije z kielicha. Odwołujesz się do pamięci dawnych neutralnych zgromadzeń, gdzie przysięga na wodę była ważniejsza niż jakikolwiek dekret. Zapowiadasz zwrot kielicha jako znak, że stary porządek może znów oddychać, i obiecujesz, że przez miesiąc żadna ręka nie sięgnie po sakiewkę przy schodach bez kary w oczach całej wspólnoty.",
+      "outcome": "Karawaniarze śpiewają do wody pieśń dziękczynną, a Zakon zapisuje przysięgi w księdze algowego atramentu, co tworzy nowy rytm zaufania. Legia zgrzyta zębami, ale akceptuje kompromis, by nie wyglądać jak wróg chleba i soli, i przenosi ciężar kontroli na odległe rozstaje. Handel ożywa, a smugi lampników prowadzą nocą bezpieczne pochody bukłaków i beczek, nie narażając nikogo na obcowanie z ostrzem. Kielich wraca po oczyszczeniu, a jego brzeg lśni tak, jakby pił blask z Latarnianych żyrandoli, co Neris odczytuje jako pomyślny omen. Echo zdrójku szepcze o Szybie Siódmym i o korytarzu, gdzie śpiew selenitu usypia straże, a ślad buta odbija się w solnym proszku jak znak, że ktoś, kogo szukasz, chodził tam niedawno."
+    }
+  ],
+  "connections": {
+    "previous": [
+      "M5"
+    ],
+    "next": [
+      "M7"
+    ]
+  },
+  "rewards": [
+    {
+      "type": "faction",
+      "description": "Czasowy rozejm z Legią na Płaczących Schodach i okolicznych rozstajach, skutkujący mniejszymi kontrolami i łagodniejszym traktowaniem karawan."
+    },
+    {
+      "type": "item",
+      "description": "Obrzędowy kielich wraca do Zakonu, a Neris Winnafala w podzięce udziela kropli namaszczenia: jednorazowego wzmocnienia głosu i autorytetu podczas rytuału lub mediacji."
+    },
+    {
+      "type": "insight",
+      "description": "Wizja ze zdrójku odsłania trop o losie brata Eliana w Szybie Siódmym, wskazując na galerię przy sercu lewiatana i ścieżkę, którą można podążyć."
+    }
+  ]
+}

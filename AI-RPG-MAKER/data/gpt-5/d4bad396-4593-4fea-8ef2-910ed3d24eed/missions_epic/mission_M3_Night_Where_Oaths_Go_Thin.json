@@ -1,0 +1,90 @@
+{
+    "id": "M3",
+    "title": "Night Where Oaths Go Thin",
+    "quest_giver": {
+        "name": "Knife-Whisper Pell",
+        "affiliation": "Embersleeve"
+    },
+    "description": "Word of your hands near the singing bale runs ahead of you like a ripple before a barge, sliding into eddies where rumors fatten. In the Night Market Vaults the glowmoss paints old cistern stone the color of drowned moons, and the fish-oil lamps draw shadows long as spears across stalls that barter in silences and second thoughts. Knife-Whisper Pell waits where bead-glass curtains hide a shrine to the Mirror-Queen, voice coming soft and regular as a whetstone, asking for a decoy chime-plate that will soothe the Watch while a truer, meaner melody slips into the Loom of Tides like a thief into a sleeping house. Between the Wardens’ iron keys and the Collegium’s humming glyphs, you can feel the city’s pulse in your teeth, a rhythm that could be charmed into mercy or tricked into seizure. Tavi hovers near the crowd’s edge, thumb grazing the salt-bowl scar on your palm as if to keep your courage from running out with the sweat, and you remember a cell door that opened because Pell wanted it to, and how easily it could close if you misplace a single word tonight.",
+    "objectives": [
+        "Meet Knife-Whisper Pell in the Night Market Vaults",
+        "Negotiate terms for a decoy chime-plate without promising more than you can deliver",
+        "Consult Magister Vell to craft a harmless decoy that flags tampering",
+        "Plant the decoy in Embersleeve hands while warning a Warden contact without revealing sources",
+        "Record your compromise on a brass leaf for future witness"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Knife-Whisper Pell",
+            "lines": "You move among oaths the way some folk move among reeds, Lio: you part them with your wrists, you pluck what you like for a flute, and you pretend the river will not notice the tune changing. I have turned more than one page so your name dried in kinder ink, and I have let more than one guard believe their lantern failed when it was really my shadow on their eyes. Now I require a simple misplacement, a note laid just off the beat so that another song can walk through the door while the Wardens nod along, proud and deaf. I do not want a war that burns barges and boils the Vaults; I want a reminder that the Wardens are not crowned and the Collegium’s machine is a heart that beats for the city, not a throne that sits on its chest. Bring me a plate that purrs to the sloppy and hisses to the hungry, and let us see whose hands shake when the river keeps time without their leave."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "lines": "You ask me to dull one bell so you may ring another, to hide a hook inside a minnow and hope the fisherman smiles at his own reflection. I can lay a decoy that croons to the inattentive and flutters to the trained ear, and I can etch a thread in the brass that shows me who touches it without betraying who set it down. But the line between misdirection and betrayal is as thin as fish-skin stretched over a drum, and you only hear it rip after the beat is gone. My echo already lags a breath behind my words; I won’t let my promises do the same. If I place a decoy, it will carry a telltale your people might call vanity, but I call a lifeline, and if that earns me a name you’ve saved for the disobedient, say it now so I can taste it and decide whether to swallow."
+        },
+        {
+            "speaker": "Tavi Mireline",
+            "lines": "I don’t like the way the Vaults breathe, like the city exhaled a secret and forgot to pull it back in, and every whisper down here smells like old nets. If you must hand Pell a toy, make sure the splinters point inward so the hand that squeezes draws its own blood first. Be clever toward the bread-eaters and water-haulers, not only toward the men with ledgers who think a throat is just a valve for bargaining. Remember the Shattermere’s bargain and how it left your reflection a heartbeat late, and ask yourself if this is another price you can’t count until it’s already taken. If you go through with this, leave a braid of caution where the Wardens can trip over it without seeing your footprints, and please, for once, write down the truth you intend so a future witness can remind you who you were tonight."
+        },
+        {
+            "speaker": "Magister Vell",
+            "lines": "A decoy plate that sings harmlessly to laymen yet tattles to a trained ear is not beyond my bench, though the ethics will make the Archivists hum like offended bees. I can tune a sky-ore wafer with a deliberate flutter, a minute out-of-phase quiver at the E5 band that will record the caress-patterns of those who handle it, much like frost remembers which windowpanes were touched. If Pell’s people introduce it to the Loom, the resonance chamber will echo their fingerprints in chime, and I will have the imprint of every touch framed in sound. But understand the risk: a thief who feels a stage underfoot will test the boards twice, and a thief who feels the board give will pry it up, and Pell is no stranger to carpentry of shadows. Bring me a clean pretext, bring me starshard grit for the damping, and bring me your promise in words I can measure, because the machine keeps time with truth as surely as with water."
+        },
+        {
+            "speaker": "Maera Lockfen",
+            "lines": "You want to warn the Wardens without giving me a name to drown with, and you want me to thank you for it when the river runs clear of knives; I have dealt with worse gambles and paid dearer losses. Speak to me in the language of locks and levels: give me a window, a cadence, a direction of touch, and I can place my people where the harm becomes a lesson instead of a funeral. Do not bring me gossip like wet paper; bring me a pattern that can bear weight, and I will turn my eyes a deliberate degree away when your foot slips past a chain-boom on some future dawn. If you burn me, I will not chase you with a warrant; I will let the river take you with indifference, which is worse than anger because it never tires. But if you place your decoy as you say, and if you leave me a spillword that proves you meant to keep the city breathing, I will remember that your echo came from courage, not cowardice."
+        },
+        {
+            "speaker": "Knife-Whisper Pell",
+            "lines": "You smell of brass and salt and a new-made lie you want to believe until it becomes true by repetition, and I can respect the craft even when it isn’t to my order. Bring me your not-quite-straight instrument, and we will discover together whether the dancers follow the music or the floorboards, because either can be taught to creak just so. Know this: some ledgers you pay down with coin and some ledgers pay you down into the dark, and I keep both in my head where no Archivist can plate them. If you try to play me in front of an audience I did not invite, I will clap with one hand and the other will be closing a door on your ankle. But if you serve the night with grace and the morning with tact, I will cross a favor from your debt as cleanly as a knife takes a ribbon, and perhaps even tell you which wheel opens which water, if I feel generous and the river is in a laughing mood."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Thread the Needle: Flagged Decoy and Quiet Warning",
+            "text": "You accept Pell’s commission but insist on terms etched into breath and brass, promising a decoy that hums sweet yet carries a telltale shiver only a trained ear will hear. You visit Vell by the Loom’s warm breath and secure a plate tuned with a deliberate flutter, and you bind a line of words that leaves room for conscience without leaving room for betrayal. You carry the decoy through the Vaults beneath a cloak that smells of river-stone and glowmoss, and you leave it in Embersleeve hands with a smile they can read as compliance. Then you slip a Warden’s spillword to Maera in the language of levels and windows, naming no names but drawing a map of risk with your finger on a railing. At the Scriptorium’s edge you scratch a brass leaf with your own mark and two witnesses—your echo and your reflection—recording the compromise you intend and the debt you will not owe.",
+            "outcome": "Pell tests the plate and finds a lullaby where a storm ought to be, and the Embersleeve smiles because they hear what they want to hear while storing a private doubt about your neatness that feels like respect in bad lighting. Vell listens through the Loom to the feathered quiver and catches the caress-patterns of hands that are not yours, gaining a chime-trail of the meddling fingers without tripping the engine’s teeth. Maera stations a quiet crew at the right beam and averts harm with the kind of preparedness that never makes a song, and she writes your name in the column labeled Not Enemy Yet. Your debt ledger loses one dead weight favor, and Pell’s people nod at you in corridors as if to say you did not embarrass the night in front of its mirrors. You walk away with a culvert wheel’s secret mark pressed into your palm and a whispered timeline of an upcoming attempt to mask oath-tones at the Loom, and your reflection finally nods in time with your smile."
+        },
+        {
+            "id": "C2",
+            "title": "Shadow Loyalty: Give Pell a Cleaner Lie",
+            "text": "You agree to deliver a decoy that looks so honest it blushes, and you tell Vell only what you must to get a plate whose betrayal is quiet enough to hide inside a heartbeat. You let the telltale be subtle as dew, a recall shimmer that only a tuned ear at close range could catch, and you carry it to the Mirror-Queen’s beads without a single extra word. When Pell’s lieutenant asks if the thing is pure, you meet their gaze until they blink and you let silence say yes in a dialect it has used for centuries. Your warning to Maera comes as a ghost in a maintenance tally, a shift in cadence on a reported flow that means stand ready without naming why, and you trust her to read it because you have seen her read the river. The brass leaf you scribe speaks broadly of intent and narrowly of means, an honest veil that covers a face even as it reflects it.",
+            "outcome": "Pell’s trust warms by a degree that feels like a light in winter, and a major favor slides off your ledger with the soft finality of a coin leaving fingers it has haunted too long. Vell senses you held back an ounce of truth and files the feeling away with a scholar’s patience, satisfied enough by the imprint he captured to keep your accord from cracking. The Wardens watch without flinching and find nothing to seize but everything to notice, which is sometimes the best way to keep a city from tearing itself in half. You gain the culvert’s hidden wheel mark from Pell as a private handshake, a secret that tastes like iron and old rain when you lick it into memory. A whisper reaches you through the Loom’s steam about the hour and angle of a coming oath-tone masking attempt, and the information settles into your kit like a new knife you mean to use well and carefully."
+        },
+        {
+            "id": "C3",
+            "title": "Warden’s Lantern: Stage the Catch",
+            "text": "You take Vell’s decoy and bend the plan so that it becomes a lesson instead of a theft, fixing into it a failsafe flutter that will flare harmlessly if it touches the Loom’s core. You set a meeting where Embersleeve fingers expect to close on certainty and instead close on a plate that sings true enough to tempt them, and you keep your face docile as a closed lock. Beforehand, you ghost a message to Maera in the geometry of gates and the timing of patrol oars, telling her where to place ears and how to hear the wrongness when it comes. You do not name Pell; you do not need to, because the river does not care who started the current so long as the banks hold. At the Scriptorium you leave a brass leaf under your own name, not a mask, and you blow the salt dry with a breath that shakes more than it should.",
+            "outcome": "When the decoy is tried near the Loom the failsafe sings a bright, harmless alarm that startles more than it harms, and Maera’s crew steps from shadow like a lock gate opening with practiced grace. The Embersleeve loses face but not blood, and Pell’s eyes go hard as river-ice even as they scratch a favor from your debt in a gesture that says the job was done if not to their taste. Vell applauds the elegance in private while advising discretion in public, and your standing with the Collegium tightens like a well-set knot. The culvert’s hidden wheel mark arrives anyway, perhaps out of spite or perhaps out of respect for the audacity of your stagecraft, and you memorize the pressure needed to spin it as if it were a prayer. The word about an impending oath-tone masking attempt flows to you carried on a rumor Pell cannot entirely stop, proof that even offended shadows keep talking when the river leans its ear."
+        },
+        {
+            "id": "C4",
+            "title": "Archivist’s Thread: Bind the Night to a Narrow Path",
+            "text": "You steer the negotiation into the Scriptorium’s penumbra and propose a limited-scope vow under a Preceptor’s listening bells, not to betray Pell but to define the edges of acceptable mischief. Pell does not like the taste of sanctioned night-work, but they like even less the idea of the Wardens calling their bluff in a flood of light, and so they agree to terms as thin and sharp as snapped glass. With that narrow oath plated, you take Vell’s decoy and lace into it a watermark only an oath-scribe’s mirror-lens could love, a signature no one will see until it matters. Your warning to Maera is couched in the very language of the vow you just swore, a paradox only the honest can use, and you trust her to read the letter and the hum. You finish by etching your own account on a brass leaf with a witness mark from Preceptor Iven Kall, salting it with a line that will sting you if you forget why you chose the narrow way.",
+            "outcome": "The Embersleeve grudges the ceremony but takes the plate and the terms, and in the taking you feel one heavy favor lift off your back like a sack you had forgotten you were always carrying. Vell examines the watermark and smiles the way an engineer smiles when the numbers and the river agree, and he tucks the chime-imprints away without bragging that he has them. Maera honors the wording and the hum of the vow, positioning her people to learn without provoking a riot, and she grants you the mercy of plausible cleanliness should the matter stain. Pell, constrained but not chained, palms you the culvert’s hidden wheel mark with a sharp look that warns you not to grow fond of law, and you file the warning beside your ambitions. The rumor of an impending oath-tone masking attempt reaches you through both shadow and brass, corroborated enough to matter, and you leave the Scriptorium feeling that for once the river and the record shared a cup without biting each other."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Favor",
+            "description": "Embersleeve debt reduced (one major favor removed), struck from Pell’s ledger like a ribbon cut clean."
+        },
+        {
+            "type": "Access",
+            "description": "Secret mark to a hidden wheel controlling a culvert sluice, granting a discreet hand on a quiet flow."
+        },
+        {
+            "type": "Information",
+            "description": "Intelligence about an upcoming attempt to mask oath-tones at the Loom, precise enough to plan around."
+        }
+    ]
+}

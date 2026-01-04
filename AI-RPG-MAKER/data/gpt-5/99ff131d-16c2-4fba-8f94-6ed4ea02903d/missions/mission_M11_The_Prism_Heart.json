@@ -1,0 +1,53 @@
+{
+    "id": "M11",
+    "title": "The Prism Heart",
+    "quest_giver": "Meret Hal",
+    "description": "The Heliolith’s sealed chamber is a throat of crystal and old choices. Scaffolds creak with the careful weight of Compact climbers; Solace oils move like light over gears; Mistral lines anchor in the open sky to steady the Spire as if it were a ship. With the joint writ strapped to your chest and the ligature cipher in your hand, you must enter the chamber where a rotating prism redirects the Spire’s hum into star-codes. Copper ligatures must be laid like veins, the memory-stone nested as a sympathetic ear, and the founders’ block set as a lawful vow-stone. Avar Jen’s observers circle like hawks; your finger slips will become political fractures; your song will either coax a missing note home or shake the city loose from its moorings.",
+    "objectives": [
+        "Use the Ligature Cipher to open the sealed prism chamber without damaging the mechanism.",
+        "Install copper ligatures and mount the Memory-Stone Shard in a resonance bracket.",
+        "Set the Founders’ Bargain Block and the Oris Mirror Shard as stabilizing oath foci.",
+        "Conduct the Chord Splicing ritual with Seru Chime’s song and Maela Vint’s wind timing while Thren Basso’s crews hold the scaffolds."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Meret stands with her palm on the Spire’s cool skin. \"We are not here to win an argument. We are here to keep a city. I have built machines that pull breath from stone and I have watched people turn that breath into a cudgel. I will not bless a rite that becomes a weapon. You carry the notes, Tallea. Make them a braid that won’t strangle us if we lean on it.\"",
+        "hero_reply": "Tallea closes her eyes and remembers the night-flower’s dream lesson. \"Water, wind, heat. Shared, not stolen. Law that breathes and song that counts. I will lay the ligatures like arteries and tune the prism to the wind the Syndic keeps and the law the Oris line holds and the balm Solace spreads and the safety Thren bleeds for. If the Spire wants a price I cannot pay, I will walk us back down and endure the dimming with the city.\"",
+        "npc_interjections": [
+            {
+                "name": "Seru Chime",
+                "line": "Seru’s voice threads through the chamber like silk. \"We offer no conquest. We offer a lullaby—one that mothers sing to thirsty children so they sleep until morning. Spire, remember what it is to be sung to without being asked to perform a miracle.\""
+            },
+            {
+                "name": "Thren Basso",
+                "line": "From the scaffold, Thren growls through clenched teeth. \"Lines are good. Lines are holding. If your note kicks, I cut the load to save the crew. No speeches, just ropes.\""
+            },
+            {
+                "name": "Avar Jen",
+                "line": "Avar’s voice floats from the gallery, bland and terrible. \"If the star-code changes because of this, understand that you have just altered risk across a dozen caravans. I will be generous in my interpretation if you succeed. If you fail, I will be merciless in my math.\""
+            },
+            {
+                "name": "Maela Vint",
+                "line": "From the open air, Maela calls the wind with practiced profanity. \"Now, Tallea. On my count. Three breaths sweet, one bitter. If you take an extra note, take it on my lungs, not the city’s.\""
+            }
+        ],
+        "ambient": "The chamber smells like lightning that decided to stay. The prism turns, and for a heartbeat you hear something vast lean closer, like a listener waking to their own name."
+    },
+    "connections": {
+        "previous": "M10",
+        "next": "M12",
+        "related": [
+            "M4",
+            "M5",
+            "M7",
+            "M9"
+        ]
+    },
+    "rewards": [
+        "Experience: 900",
+        "Prism Tuning Key (symbolic authority to retune minor oscillations during festivals)",
+        "Reputation (Aquifer Collegium): +12",
+        "Reputation (Veil Covenant): +12",
+        "Reputation (Mistral Syndic): +8",
+        "Reputation (Cliffward Compact): +8"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 11,
+    "title": "Seven Chords on the Chain",
+    "quest_giver": "Rhy Tidesong",
+    "description": "It is time to pluck the sky. The Skyhook Chain glows along dead links as stormheads gather out of season. The eel-skin codex, the stormglass whistle, and the heart pulse measure together point to a sequence: seven chords, in order, at precise distances along the chain, while the Engine’s water gate is open to listen. Rhy Tidesong asks Sere to lead the climb with Sela Tidecount reading wind, Jaxin Brail tending stormglass, and Vara Rootlight singing the eel-chant to calm the waves below. The city looks like a wet lantern from that height. The heartstone’s red beat is a drum underfoot, and lightning is eager to hear a new song.",
+    "objectives": [
+        "Coordinate with Sela Tidecount, Jaxin Brail, and Vara Rootlight to time the climb and the gate opening.",
+        "Pluck the seven chords at their marked links in the correct sequence without being knocked free by wind or lightning.",
+        "Signal the Heartward Engine team to close the gate at the final note and record the pulse settling.",
+        "Survive the backwash of power and see whether the city’s bones stop singing."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Rhy Tidesong",
+            "text": "You will be my hand where my feet cannot go. Remember the rhythm we practiced at the Engine and measure your breath by it when the sky tries to steal it. If the chords begin to argue with one another, slow them with kindness. The heart is old. It prefers lullabies to orders."
+        },
+        {
+            "speaker": "Sela Tidecount",
+            "text": "Feel the rope hum and you will know which way the wind is already leaning. Do not fight the gusts like they insulted your mother. Roll your shoulder into them and let them think you are turning aside when really you are climbing. If you hear me curse, it is a good sign; it means I still have breath."
+        },
+        {
+            "speaker": "Jaxin Brail",
+            "text": "The coil is primed and the whistle remembers the last thunder like a sweet tooth. If I tell you to wait one heartbeat before the next note, trust that my fear is doing math faster than my courage. If this works, we will not hear victory. We will hear the absence of panic. That will be our applause."
+        },
+        {
+            "speaker": "Vara Rootlight",
+            "text": "I will keep the water listening without asking it to answer. If you fall, I will make the river softer than it knows how to be. But do not fall. There are songs that only climb, and you have one of them in your hands now."
+        }
+    ],
+    "connections": {
+        "previous": [
+            6,
+            7,
+            9,
+            10
+        ],
+        "next": [
+            12
+        ],
+        "related": [
+            1
+        ]
+    },
+    "rewards": [
+        "The chain quiets and the Engine’s pulse settles two measures toward sleep",
+        "A length of storm-tempered rope that hums when pressure shifts dangerously",
+        "Renown across guilds as the climber who taught the sky a lullaby"
+    ]
+}

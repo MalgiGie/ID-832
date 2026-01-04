@@ -1,0 +1,77 @@
+{
+    "id": "M1",
+    "title": "The Gate’s Second Note",
+    "quest_giver": "Isha Velroon",
+    "description": "On a day without wind, the Resonant Gate gives a second, lower note that rattles cup rims and stirs old grief. In Marrowspring, the water counters skip teeth like a nervous jaw, and a fine smear of wet ash clings beneath the tally wheels, as if a storm passed through a whisper. Isha Velroon summons Rogan to the Temple of the Hollow Sun, where reliquaries tremble against their hooks and the mirror-oculus dims itself unbidden. Word travels faster than sand down a slope: some say the titan still breathes and wants to warn its city; others say the Gate is mis-tuned by greedy hands. Rogan feels his old Watch habits return—count, cordon, calm—yet the hum crawls under his marrow-ink and spells a name he can’t quite remember when he tries to say it aloud. This is how it begins: with a note, a skipped count, and a priest who trusts him to step where law and rumor trip each other.",
+    "objectives": [
+        "Meet Isha Velroon in the Temple of the Hollow Sun and receive a sanctuary writ.",
+        "Inspect the Marrowspring Cistern count-wheels; collect ash residue and note missing teeth.",
+        "Trace the subsonic hum through echo-pipes to the hidden service tunnel under the Resonant Gate.",
+        "Recover a bundle of bone chimes packed with wet ash that spell a name no one remembers on waking.",
+        "Report findings to Isha and decide whether to inform the Watch or the Bonewrights first."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Isha Velroon",
+                "line": "You still carry yourself like a man listening for orders, Rogan, but the person I need is the one who refused to speak a lie when the city demanded it. The Gate sang a second note last night, and my reliquaries thrummed as if something vast passed beneath them. Bring me truth that can be spoken aloud, and not just a fear that hides in a mirror."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I’ve heard the Gate lie in a storm and tell the city to run, and I’ve heard it warn us an hour early so the old could be led to shade. This was neither. The sound crept under my ribs and made my oath cords itch like fresh ink. I’ll walk the cistern wheels and the pipes, but if I find Syndicate hands on strings, I won’t pretend I didn’t."
+            },
+            {
+                "speaker": "Isha Velroon",
+                "line": "Take this sanctuary writ. It won’t open every door, but it will make men think before they shut one on you. If you must choose between telling the Watch or the Bonewrights first, choose what helps the city breathe. The Order will answer for my choice to trust you."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Marrowspring Scribe",
+                "line": "Look how the count-wheel jumps, as if trying to forget each tenth measure. I’ve polished ash off three times today, and still it comes back wet, as if rain dripped from an invisible roof. The clerks hear a hum in their sleep, and when they wake, they cannot remember the song, only that it asked for a name."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "There’s a draft that doesn’t belong in a sealed hall. The echo-pipe wall is warmer where it should be cool. Someone tuned a hidden chord, something that carries the Gate’s note into places it was never meant to reach. I’ll follow it down to the legs of the Gate, and I’ll be gentle until I need not be."
+            },
+            {
+                "speaker": "Bone Chimes (unvoiced)",
+                "line": "The chimes thud like wet teeth tapped together. When Rogan lifts them, a pattern of ash spells a name on the stone, and his mouth shapes it, then loses it, like a dream dissolved by noon."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Isha Velroon",
+                "line": "You smell of ash and the empty cold that clings to a bone kept in shadow too long. A name was spelled, and you cannot keep it in your mind. That is not how glass, or men, or honest sounds behave. Someone has bound memory to the hum."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "The Gate has a hidden throat, and someone plucked it in the dark. Tell the Order to keep the city quiet tonight, not for prayer, but so we can hear if it tries to speak again. I’ll take the chimes to the one guild that hears bones like other men hear flutes."
+            },
+            {
+                "speaker": "Matron Sere Kall (arriving)",
+                "line": "Bring me those chimes, ogre-blood. Bones shouldn’t weep ash unless a craft was misapplied or a debt was called. If the Syndicate has been threading glass into my city’s marrow, I’ll pry it out with my own hands."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "permit",
+            "description": "Temple sanctuary writ allowing passage past minor Watch cordons for seven days."
+        },
+        {
+            "type": "item",
+            "description": "Bundle of bone chimes packed with ash (evidence and later tuning clue)."
+        },
+        {
+            "type": "reputation",
+            "description": "Trust with the Order of the Hollow Sun (minor)."
+        }
+    ]
+}

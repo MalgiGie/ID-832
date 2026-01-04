@@ -1,0 +1,84 @@
+{
+  "id": "M5",
+  "title": "Kroniki z błota",
+  "quest_giver": {
+    "name": "Matka Korala",
+    "affiliation": "Chór Cieni"
+  },
+  "description": "Bagna Szeptów drżą od wspomnień, a trzcinowe języki powtarzają przysięgi złożone dawno tym, których chorągwie utonęły w błocie. Pływający głaz z runami Ankorytów Wiatru żegluje po torach niewidzialnych prądów, jakby sam oddychał razem z przypływem, a białe czaple liczą kroki obcych, by wyśpiewać je w nocy ich wrogom. W tych mokradłach Matka Korala ukryła czarne księgi dłużników i listy, które potrafią ściąć pióra najdumniejszym seniorom Konfederacji Siódemułów, jeśli tylko trafią do właściwych rąk. Elian Kotwiczny ma z błota wydobyć prawdę, lecz nie dać się wciągnąć szeptom powstańczych zmarłych, które próbują napisać nową przysięgę jego ustami. Nad całą wyprawą stale krąży cień Legii Obsydianu, która wyczuła zapach papieru i atramentu, a jej patrole czeszą rozlewiska, kuszone nagrodą i strachem przed kompromitacją swoich mocodawców.",
+  "objectives": [
+    "Spotkaj się z Matką Koralą na skraju Bagien Szeptów i odbierz wskazówki do skrytki, słuchając uważnie rytmu trzcin i znaków łuny, które wskażą bezpieczne wejście.",
+    "Znajdź pływający głaz z runami Ankorytów i odczytaj jego ustawienie zgodne z cyklem przypływów, tak by zrozumieć moment, w którym odsłoni właściwy tor pośród solnych oczek.",
+    "Odszukaj skrytkę z czarnymi księgami i zabezpiecz je w wodoodpornych trokach, by żadna fala ani błoto nie wypiły atramentu i nie zatarły nazwisk.",
+    "Ucieknij przed patrolem Legii lub przekieruj go sygnałem pryzmatycznym na fałszywy tor, wykorzystując mgłę, odbicia na wodzie i wiedzę o ich białych plamach w ochronie.",
+    "Przekaż wybrane kopie Maerze oraz oryginały Limie Fal do bezpiecznego przechowania, rozdzielając ryzyko i ciężar odpowiedzialności między karczmę, skryptorium i ciszę morza."
+  ],
+  "dialogue": [
+    {
+      "speaker": "Matka Korala",
+      "lines": "Cienie w tym mieście mają chóry, a każdy śpiewa inną pieśń o sprawiedliwości i cudzym długu. W bagnach leżą nuty, które mogą zmienić melodię Rady, jeśli zagramy je we właściwej kolejności i w porze odpowiedniej dla serc, nie tylko dla zegarów na tarasach. Weź te księgi, Elianie, ale nie oddawaj ich nikomu, kto liczy tylko srebro i nie zna wstydu w obliczu morza. Rozdziel prawdę tak, by każdy musiał słuchać drugiego, bo inaczej stworzymy tylko nowy refren starej opresji, a błoto połknie nasze imiona razem z ich winami. Jeśli czaple zaczną milczeć, wiedz, że Legia uszyła mgłę w mundur, więc mów językiem świateł i uciekaj śladami, których nie zostawia się w wodzie."
+    },
+    {
+      "speaker": "Aiona Pustodębna",
+      "lines": "Słyszysz, jak trzcina oddycha i jak woda powtarza słowa, których nikt nie wypowiedział na głos od pół wieku. To nie wiatr, to oddech tych, którym obiecano, że woda będzie sprawiedliwa, a potem sprzedano ją w beczkach i rachunkach. Pozwól, by twoje stopy nauczyły się rytmu suchych kęp, Elianie, bo wtedy bagna poniosą cię jak łódź z algowym światłem, nie połkną cię jak głodny lew błota. Gdy znajdziesz pływający głaz, nie siłuj się z jego biegiem, tylko słuchaj śpiewu selenitu, bo runy mówią do tych, którzy znają cierpliwość. Jeśli podniesiesz kamień nasienny w myślach, usłyszysz głos dębu, który pamięta czasy sprzed opłaty za każdy oddech, i zrozumiesz, komu naprawdę należy się oddech wolny od długu."
+    },
+    {
+      "speaker": "Lima Fal",
+      "lines": "Niech twój oddech podąża spiralą Wiru, a dłoń zachowa spokój, gdy mgła zacznie konfiskować kierunki. Oryginały ksiąg skryj pod opieką Skryptorium Przypływów, bo papier bywa kruchy jak lód, ale prawda staje się twarda, gdy leży pod pieczęcią morza i modlitwy. Kopie podziel roztropnie, by nikt nie myślał, że może spalić jedną skrzynkę i zakończyć pieśń, którą rozpoczęliśmy. Pamiętaj, że Legia pragnie kontroli, a Konfederacja pragnie ciszy, lecz my pragniemy rytmu, w którym ludzie i przypływy nie będą sobie wrogami. Jeśli zawahasz się między prawością a przebiegłością, wybierz drogę, która nie rozbudzi tego, co śpi w głębiach, i oddaj mi to, czego nie wolno rozgłaszać bez zrozumienia."
+    },
+    {
+      "speaker": "Maera Buławka",
+      "lines": "Pod Osiemdziesięcioma Kotwicami mam skrzynkę suchą jak dowcip starych wilków morskich i ciężką jak ich milczenie, a w niej miejsce na kopie, które muszą czasem przemówić głośniej niż oryginały. Znam ludzi, którzy przeczytają właściwe strony i zadadzą właściwe pytania podczas gry w kości, nie zdradzając, skąd wzięli liczby. Przynieś mi nie wszystko, a tyle, by rozbudzić ciekawość i strach, i by ceny dźwigów zaczęły drżeć jak łańcuchy w sztorm. Nie będę łamać twoich słów, ale dam im krążyć po sali hazardowej jak refren, który wchodzi w ucho i nie wychodzi, dopóki ktoś nie odda, co zabrał. A kiedy Legia zacznie się rozglądać, moje kotwice zadzwonią jak dzwony, które mówią: tu nic nie cumuje bez mojej zgody."
+    },
+    {
+      "speaker": "Serad Głaz",
+      "lines": "Mokradła są pełne zgubionych map, a ja nie mam zwyczaju pozwalać, by papier pływał dłużej niż mój rozkaz. Słyszę, że ktoś szuka ksiąg, które nie należą do nikogo prócz prawa i ognia, który czyści to, co brudne. Jeśli cię zobaczę z trokami cięższymi niż łuk, nie będę pytał o rachunki, tylko o twoje ostatnie słowo, bo resztę napisze się sama. Mówisz o prawdzie, ale prawda, którą się podrzuca z karczmy do skryptorium, bywa bardziej śliska niż węgorz na patelni u Buławki. Odwróć się od błota, póki możesz, bo Legia wie, gdzie kończy się ścieżka suchych kęp, a zaczyna bagno bez dna."
+    },
+    {
+      "speaker": "Elian Kotwiczny",
+      "lines": "Mam łuk i światło, ale dziś ważniejsze jest ucho, które pamięta śpiew selenitu i echo obietnic. Wezmę te księgi z błota i rozdzielę ich ciężar tak, by zraniły pychę i uleczyły strach, a nie stały się kolejnym łańcuchem dla miasta. Nie oddam ich ani Legii, ani Konfederacji, bo jedno chce knebla, a drugie chce kasy, i oba boją się ciszy, w której słychać prawdę. Przysięgam na Wir i na węzły kotwic, że oryginały trafią pod opiekę, a kopie do rąk, które mówią głośno, lecz słyszą szept. A jeśli mgła spróbuje ukraść mi pamięć, zwiążę ją pryzmatem i strzałą linkową, jak wiatr wiąże żagiel, który próbuje uciec bez kapitana."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Ścieżka suchych kęp",
+      "text": "Zdejmiesz buty, by czuć pod palcami chłód kęp, i wejdziesz w trzcinę tak cicho, jakbyś pływał po szkle. Zatrzymasz oddech, gdy białe czaple przechylą głowy, i powtórzysz sobie rytm Wiru, by serce nie pomyliło półnut z ćwierćnutami. Ominiesz błyszczące lustra solnych oczek, wybierając mapę zapisaną w dotyku, nie w tuszu, bo tutaj linie rysuje wiatr. Gdy natrafisz na pływający głaz, przyłożysz pryzmat do run i pozwolisz, by kamień powiedział ci, gdzie czeka skrytka, zamiast ciągnąć go jak niecierpliwy rybak. Księgi zwiniesz w wodoodporne trokasy i odwrócisz się, zanim echo twoich kroków dogoni twoje pięty.",
+      "outcome": "Przeniknięcie przez mokradła pozostaje niezauważone, a Legia traci trop i spisuje błędny raport o miejscu twojego pobytu. Chór Cieni docenia finezję i obiecuje, że w bagnach zawsze znajdziesz cichą łódź, gdy zapłoną latarnie obsydianowych patroli. Maera dostaje kopie na czas, a Lima Fal przyjmuje oryginały, zamykając je w chłodnej sali map, gdzie wilgoć staje się strażnikiem, nie wrogiem. Konfederacja słyszy szepty stołów hazardowych, ale nie potrafi wskazać palcem źródła, bo palec ślizga im się po soli. Twoja reputacja rośnie wśród lampników i cieśli, a na tarasach mówi się, że umiesz słuchać bagien bez obrażania ich pamięci."
+    },
+    {
+      "id": "C2",
+      "title": "Pryzmatyczna fatamorgana",
+      "text": "Ustawisz pryzmatycznego sygnalistę na krawędzi kępy i nakarmisz go barwą, której strażnicy nie lubią, bo nie wiedzą, co znaczy. Poślesz w niebo trzy krótkie i dwa długie błyski, takie same, jakimi Chór Cieni wzywa przyjazne galery pod Latarnią Rozszczepioną. Gdy Legia ruszy za widmem światła, poślizgniesz się w przeciwległy rów i pogonisz w stronę, którą uznają za zbyt płytką dla człowieka i zbyt głęboką dla konia. Czaple rozłożą się jak wachlarze, dając ci chwilę osłony, a śpiew selenitu z pływającego głazu przytłumi stukanie haków na pasach legionistów. Księgi podniesiesz wtedy, gdy echo ich przekleństw odbije się od trzcin, a ty będziesz już po kolana w zwycięskiej mgiełce.",
+      "outcome": "Patrol Legii biegnie za fałszywym sygnałem, odsłaniając białe plamy w swojej ochronie, które potem przekażesz Matce Korali jako cenny dodatek do ksiąg. Konfederacja wpada w gniew, bo ich najemnicy ścigali światło jak dzieci, a nie ślady jak myśliwi, co uruchamia serię nerwowych decyzji w Domu Segmentów. Maera wykorzystuje opowieść o pogoni, by wzniecić śmiech i strach na sali, a przez śmiech łatwiej przechodzą słowa, które gryzą dumę handlarzy soli. Lima Fal prosi, byś oddał pryzmat na noc do skryptorium, bo barwa, którą karmiłeś, lubi zostawać na palcach, i może przyciągnąć nie ten wzrok, co trzeba. Chór Cieni świętuje ciche zwycięstwo, a w bagnach pojawia się znak, po którym poznasz odtąd najbezpieczniejszą drogę."
+    },
+    {
+      "id": "C3",
+      "title": "Układ na ostrzu haka",
+      "text": "Wyłonisz się z mgły przed Rikelem Stalnikiem, człowiekiem Serada, i zaproponujesz mu rozmowę, której nie pisze się w raporcie i nie powtarza w koszarach. Pokażesz mu pusty trok, ciężki jak sumienie, i powiesz, że w innym miejscu jest drugi, lżejszy, w którym mieści się jego szansa na widełki awansu bez rozlewu krwi. Zaprzęgniesz do tej rozmowy nazwiska, które pamiętasz z nocnych gier w kości, i obiecasz mu, że jeśli spuści parę z kotła, to kotły nie rozsadzi mostów. W zamian poprosisz o pół godziny ciszy w rejonie, w którym trzcinę mierzy się w oddechach, nie w sążniach, i o czystą kartę dla bezimiennego kuriera, który podobno kiedyś pomylił latarnię z gwiazdą. Gdy skinie głową, przejdziesz jak cień przez jego cień i wrócisz z towarem, którego nie umiałby udźwignąć jego honor, a twoja roztropność nosi go lekko.",
+      "outcome": "Ryzykowna ugoda utrzymuje miecze w pochwach, a Serad Głaz otrzymuje raport tak gładki, że prawie w niego wierzy, co daje ci czas na podział ksiąg. Chór Cieni kręci nosem, ale przyznaje, że miękki cios czasem łamie szybę ciszej niż pięść, i odsuwa twoje nazwisko od listy ryzykownych kurierów. Maera korzysta z wyciszenia patrolu, by przemycić do miasta kilka dodatkowych węzłów informacji, co wzmacnia nacisk na Domy kupieckie. Lima Fal przegląda oryginały w spokoju i kreśli na marginesach znaki, które staną się kiedyś argumentami w Radzie, bez krzyku i bez zdrady pływów. Legia dostaje sygnał, że nie każdy cień jest warty strzelania, a ty zyskujesz u Rikelu dług, który może kiedyś zadziałać jak klucz do głuchej kłódki."
+    }
+  ],
+  "connections": {
+    "previous": [
+      "M4"
+    ],
+    "next": [
+      "M6"
+    ]
+  },
+  "rewards": [
+    {
+      "type": "evidence",
+      "description": "Czarne księgi dłużników – materiał kompromitujący seniorów Konfederacji, spisany w atramencie z alg i solą przypływu, gotów do zagrzebania tronów w piachu wstydu."
+    },
+    {
+      "type": "reputation",
+      "description": "Silna więź z Chórem Cieni; możliwość wezwania cichej łodzi w bagnach, gdy noc śpiewa głosem czapli i trzeba odpłynąć bez śladu."
+    },
+    {
+      "type": "item",
+      "description": "Runiczny znacznik z pływającego głazu – jednorazowo stabilizuje ruchomą kępę, zamieniając ją w twardy grunt na czas potrzebny, by przejść, podnieść, zniknąć."
+    }
+  ]
+}

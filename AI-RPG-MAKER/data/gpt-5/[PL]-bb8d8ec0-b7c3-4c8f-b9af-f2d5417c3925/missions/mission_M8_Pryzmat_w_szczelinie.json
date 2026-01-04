@@ -1,0 +1,53 @@
+{
+    "id": "M8",
+    "title": "Pryzmat w szczelinie",
+    "quest_giver": "Delerion Ognikowy i Lima Fal",
+    "description": "Czas zajrzeć do komory pryzmatycznej pod Latarnią Rozszczepioną. Delerion przynosi kalibrowany pryzmat, Lima błogosławi pieśń. Eldan Zmierzchowy prowadzi przez zardzewiałe galerie, gdzie wiatrowskaz węża morskiego znów skrzypi jak ostrze. Legia zacieśnia kordon, a Konfederacja liczy, ile monet da się wycisnąć z mgły. Trzeba zsynchronizować snopy i nie obudzić tego, co śpi w wodzie.",
+    "objectives": [
+        "Spotkaj się z Delerionem i Limą w bazie pod latarnią i zsynchronizuj pryzmat z krystaliczną łuską.",
+        "Wejdź do komory pryzmatycznej z Eldanem Zmierzchowym i rozpocznij śpiew łączenia świateł.",
+        "Odeprzyj próbę sabotażu – wyłącz manipulowany klin w mechanizmie soczewki.",
+        "Zapisz wzór pieśni i kątów, które przez mgnienie zespoliły trzy snopy w jeden.",
+        "Wycofaj się kanałem odpływowym, by uniknąć starcia z kordonem Legii."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Delerion Ognikowy",
+            "line": "To nie jest zwykły pryzmat. W jego wnętrzu oddycha odrobina tego, co znalazłeś przy sercu lewiatana. Jeśli ustawimy go źle, będziemy mieli piękny pokaz i katastrofę. Jeśli dobrze – latarnia przestanie być kaprysem historii, a stanie się narzędziem miasta."
+        },
+        {
+            "speaker": "Lima Fal",
+            "line": "Pieśń nie może być silniejsza niż pokora. Zanim dotkniesz soczewki, połóż dłoń na kamieniu i oddychaj, jak uczyłam cię w nawie bazyliki. Morze oddaje, kiedy czuje, że go słuchasz, a nie każesz. Zrobię, co mogę, by utrzymać ciszę w duszach tych, którzy dziś będą cię słyszeć – i tych, którzy chcą, byś się pomylił."
+        },
+        {
+            "speaker": "Eldan Zmierzchowy",
+            "line": "Kiedyś latarnia była jak stary żeglarz: mrugała okiem i każdy wiedział, co to znaczy. Dziś ma troje oczu i każde patrzy gdzie indziej. Niech twoje ręce będą jak dwa wiosła: jeden ruch z Delerionem, drugi z Limą. A ja będę trzymał łódź."
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Znam strach wysokości i ciemności, ale dziś boję się tylko tego, że zabraknie mi oddechu między dwoma nutami. Utrzymam go. Zepnę światła, choćby miały mi przeciąć wspomnienia na włókna. Musimy to zrobić, zanim ktoś z góry policzy mgłę na miedziaki."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "ability",
+            "description": "Wzór Pieśni Zespalającej – możliwość czasowego harmonizowania świateł i dźwięków selenitu."
+        },
+        {
+            "type": "item",
+            "description": "Pryzmat-kamerton od Deleriona – narzędzie do precyzyjnego strojenia."
+        },
+        {
+            "type": "reputation",
+            "description": "Szacunek Zakonu i Szklarek za czystą operację pod latarnią."
+        }
+    ]
+}

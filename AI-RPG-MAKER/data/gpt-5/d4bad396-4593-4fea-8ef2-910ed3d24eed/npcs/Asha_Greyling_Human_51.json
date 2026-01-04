@@ -1,0 +1,64 @@
+{
+    "name": "Asha",
+    "surname": "Greyling",
+    "race": "Human",
+    "age": 51,
+    "appearance": "Ash-gray hair braided with bell-filaments; basalt-dusted robes and steady river-dark eyes.",
+    "character": "Serene but unyielding omen-reader who speaks softly and is obeyed.",
+    "traits": [
+        "Patient",
+        "Pious",
+        "Perceptive",
+        "Dry humor",
+        "Unflinching"
+    ],
+    "skills": [
+        "Omen-reading",
+        "Ritual bell-tuning",
+        "City mediation",
+        "Processional leadership"
+    ],
+    "talents": [
+        "Senses hairline fractures in stone by fingertip",
+        "Calms angry crowds with cadence and bell-sequences"
+    ],
+    "flaws": [
+        "Inflexible about sacred protocols",
+        "Sleepwalks to the arch during crises"
+    ],
+    "dreams": [
+        "Keep the Starspan intact through the drought",
+        "Win a monthly slow-flow ritual day",
+        "Reconcile civic ambition with reverence"
+    ],
+    "secrets": [
+        "Once saw the Starspan open in a vision and heard a second arch reply below the river",
+        "Keeps a forbidden bell tone that can force the Loom to stutter for a heartbeat"
+    ],
+    "relations": [
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Iven Kall",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Magister Vell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Knife-Whisper Pell",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Sere Aven",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Bellkeeper Dorn",
+            "relation_type": "Friendship"
+        }
+    ]
+}

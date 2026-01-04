@@ -1,0 +1,55 @@
+{
+    "name": "Talekan",
+    "surname": "Yss",
+    "race": "ash-elf",
+    "age": 62,
+    "appearance": "Ash-gray skin, hair bound with a silver thread around a bone chip. Eyes ringed with sleepless ink. Robes smell faintly of lume oil and old vellum.",
+    "character": "Curious, empathetic, and principled to a fault. Believes rules are scaffolds meant to protect, not cages meant to confine.",
+    "traits": [
+        "speaks softly",
+        "meticulous rite notes",
+        "touches reliquaries like greeting elders",
+        "hesitates before lying"
+    ],
+    "skills": [
+        "post-mortem counsel",
+        "circle wards and bindings",
+        "memory stitching",
+        "script and sigil reading"
+    ],
+    "talents": [
+        "sees faint afterimages in fresh marrow-ink",
+        "can quote the dead with their cadence"
+    ],
+    "flaws": [
+        "politically naive",
+        "too transparent with intentions",
+        "haunted by mistakes"
+    ],
+    "dreams": [
+        "Prove heartseed studies can stabilize the climate ethically",
+        "Write a public rite that heals trust between temple and Hall"
+    ],
+    "secrets": [
+        "Copied a sealed binding to preserve an ancestor’s last words beyond seven nights",
+        "Keeps a private counsel thread with a ‘barrow shade’ that may be something else"
+    ],
+    "relations": [
+        {
+            "npc_name": "Professor Nyra Vale",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Prelate Lys Amon",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Isha Velroon",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sila Vane",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

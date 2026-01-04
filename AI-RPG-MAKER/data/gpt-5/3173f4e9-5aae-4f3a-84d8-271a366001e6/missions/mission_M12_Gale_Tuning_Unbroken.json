@@ -1,0 +1,49 @@
+{
+    "id": "M12",
+    "title": "Gale Tuning, Unbroken",
+    "quest_giver": "Captain-Magistrate Sorn Ilt, executing the Triune Emergency Edict",
+    "description": "The day of Gale Tuning dawns bright and wind-full. The city strings itself in banners and bells. At the Gale Organ Cliffs, the Breathkeepers raise their horns; at the Crown-Market, River Lords count coins with eyes on the counterweights; in the Foundry, Bonewrights lay hands on plates and whisper apologies to the bones. Ulo Hen stands with a coterie at the market’s edge, face smooth with expectation. Danka Suth lurks in the shadow of a chainhouse tug-line, hand near a hidden lever. Sorn’s wardens thin, pulled to every trouble at once. Aerin moves through the city like a thread in a worried seam: breath at the cliffs, touch at the counterweights, hand at the chain. When the five-note descent sounds under a clear sky and a hush falls, Ulo’s men spring for the levers to tilt the market, to make a riot look like physics and bury the blame in bone. But the heart-reed sings, the resonant plates are detuned and smashed, and the counterweight locks slam home by Vigil writ. Thia’s lanterns flicker signals to the rooftops; Gor’s crews seize Danka at the lever; Sera’s Bonewrights stand in a line in front of the plates, hammers raised to break their own work if needed. Ulo Hen’s smile cracks at last. Spinegate bells toll. The city breathes as one chord. Ribcrown holds.",
+    "objectives": [
+        "Coordinate with Breathkeepers to set a counter-tone at the Gale Organs that cancels the resonant curve planned at the market.",
+        "Lead Vigil and Lantern teams to secure the counterweight locks before the signal is given.",
+        "Confront Danka Suth at the Chainhouse lever; take him alive and seize his seals and correspondence.",
+        "Expose Ulo Hen’s role publicly using the decoded schedule and hireblade testimony; secure his arrest in view of the Triune.",
+        "Guide the city through the Tuning without panic, using the Heart-Reed Charm where needed."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sorn Ilt",
+            "line": "All right, people. We are spread thin as a tanner’s patience. Aerin, you carry the edict and the city’s attention. Make your moves clean. If we do this right, the only thing anyone will remember is the sound of a city singing together."
+        },
+        {
+            "speaker": "Thia Mol",
+            "line": "Lanterns! Blink the rooftop code and keep your knives sheathed unless someone bleeds us first. We’re not the villain of this story today; we’re the chorus."
+        },
+        {
+            "speaker": "Gor Relk",
+            "line": "Danka, you stupid, bought fool. You bleed Guild blood and you about sold it for eel-skin scraps. Drop the lever. That’s my last ask."
+        },
+        {
+            "speaker": "Ulo Hen",
+            "line": "This is a misunderstanding spread by a woman who likes to sit sacred chairs and call it salvation. Trade is breath. You can’t arrest breath."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "No, Ulo. Trade is current. Breath is breath. The bones taught me the difference. By the echo of the Seat, by the Oathwater, by the ledgers you tried to drown in moonlight—Sorn, take him. Let the city tune itself to life."
+        },
+        {
+            "speaker": "Ysil Aer",
+            "line": "Hear the Hollow, heed the wind. Let the last note fall where it should: into quiet relief, not sudden mourning."
+        }
+    ],
+    "connections": {
+        "previous": "M11",
+        "next": null
+    },
+    "rewards": [
+        "Arrest and removal of Ulo Hen and Danka Suth; dissolution of the bribe network.",
+        "Permanent Mediation Charter: Aerin is recognized by the Triune as Paladin of the Unbroken Breath with cross-faction mandate for safety oaths.",
+        "Funding and space granted at the Galecliffs for Aerin’s dream: a safe training deck for Scale-born youths.",
+        "Atonement rite completed during Spine Remembering: public absolution for sitting the Seat, paid by service and bare-foot walk along the ribs."
+    ]
+}

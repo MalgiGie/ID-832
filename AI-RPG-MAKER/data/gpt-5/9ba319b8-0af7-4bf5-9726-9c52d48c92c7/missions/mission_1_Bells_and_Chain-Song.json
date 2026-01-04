@@ -1,0 +1,50 @@
+{
+    "id": 1,
+    "title": "Bells and Chain-Song",
+    "quest_giver": "Serene Khel",
+    "description": "Low tide exposes the letters of law on the Glass Parliament’s floor-script, and the chain-song of the Tide-Gate Crown sets the city's breath. Abbatess Serene Khel summons Raithe Calder to the Hall of Winter Ledgers for a discreet escort across ring three to the Basilica of the Drowned Star. A sealed recollection must be verified at the altar while the tide kisses the stone. Serene speaks of debts old as the city—of shards that hum when choirs sing and cogs that answer as if they remember stormlight. As bells toll, Raithe feels his bone-chime earring vibrate to a bell no hand rings. The air tastes of eel oil and salt ink; a Mnemos novice clutches a memory case like a reliquary. In the Basilica’s mirror-mosaic glow, the hymn climbs, and in Raithe’s ribs the hidden scar-map seems to ache. Iria Venn, his friend in Cartel blues, waits outside with a pilot’s impatience and a warning about fog and false light. All threads tug toward the same knot: the city breathes, but who holds its lungs?",
+    "objectives": [
+        "Escort Serene Khel and her novices from the Hall of Winter Ledgers to the Basilica of the Drowned Star during the ebb.",
+        "Stand watch during a sanctioned recollection while the tide-water rises at the altar.",
+        "Observe and report any resonance between the Basilica’s song and the Tide-Gate’s chain-bells.",
+        "Meet Iria Venn outside the Basilica and exchange safe fog codes."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Serene Khel",
+            "line": "Raithe Calder, three days of your youth sleep in our ink and I keep the key. Today I ask not for more of your past, but for your presence. Walk with me as memory crosses stone to meet the sea. There is a song the city has begun to hum beneath the obvious hymns, and I would have a loyal shoulder nearby when we listen for its truth."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "line": "I’ve stood against riot shields and storm-surge both, Mother Abbatess. Singing walls unsettle me more. If the city has another voice, I’ll hear it—and if hands seek to silence it, they’ll have to pass my buckler."
+        },
+        {
+            "speaker": "Iria Venn",
+            "line": "You still stand like you’re ready to take a line across the chest, Raithe. Listen: the fog’s been answering the beacons at odd hours, and a convoy waits at the Salt Spires. If a bell no hand rings answers tonight’s hymn, I need to know whether to steer them home or hold them in the black-toothed channel. Tell me the truth, not the pretty version."
+        },
+        {
+            "speaker": "Serene Khel",
+            "line": "Truth is never pretty for long, child. The tide takes polish off everything. If the hum is what I suspect, then law itself has a pulse we did not account for when we swore the first covenants. Walk softly, both of you. The city listens when the choir sings names that were drowned to keep them safe."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            2
+        ],
+        "related": []
+    },
+    "rewards": {
+        "items": [
+            "Sanctioned Mnemos recall token (one use)"
+        ],
+        "coin": 25,
+        "faction": {
+            "name": "Order of Mnemos",
+            "favor": "Priority scriptorium access for one hearing at the Hall of Winter Ledgers."
+        },
+        "unlock": [
+            "Safe audience with Tidebound Conclave chantmasters at the Basilica."
+        ]
+    }
+}

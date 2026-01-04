@@ -1,0 +1,66 @@
+{
+    "name": "Sere",
+    "surname": "Vell",
+    "race": "Riftborn human",
+    "age": 29,
+    "appearance": "Slender fixer in an ash-grey cloak with hidden pockets, inked wrists in cipher knots, and a smile that sells air.",
+    "character": "Calculating and playful; believes every law needs a shadow to stabilize the city.",
+    "traits": [
+        "opportunistic",
+        "resourceful",
+        "witty",
+        "patient",
+        "secretive"
+    ],
+    "skills": [
+        "shadow accounting",
+        "forgery and seal-casting",
+        "ciphers and code-making",
+        "disguise and misdirection",
+        "bribery and leverage mapping"
+    ],
+    "talents": [
+        "reads lips across a loud hall",
+        "balances ledgers entirely in mind"
+    ],
+    "flaws": [
+        "risk-addicted",
+        "underestimates the principled",
+        "keeps too many secrets spinning"
+    ],
+    "dreams": [
+        "to steer the Veil away from blunt control toward elegant influence",
+        "to retire with a terrace license and no ledgers"
+    ],
+    "secrets": [
+        "forged a minor Oracle edict to skew auction timing",
+        "embezzled from a Veil fund to help a smokeherb addict",
+        "leaks patrol routes to River pilots for a cut"
+    ],
+    "relations": [
+        {
+            "npc_name": "Vara Keshlin",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Breg Tesserin",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Neris Undersong",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Yevra Ashleaf",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Maela Scor",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Ilara Embervein",
+            "relation_type": "neutral"
+        }
+    ]
+}

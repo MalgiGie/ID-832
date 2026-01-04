@@ -1,0 +1,43 @@
+{
+    "id": "M4",
+    "title": "The Inspector in the Rootbeds",
+    "quest_giver": "Master Archivolt Sera Dake of the Bonewrights’ Conclave",
+    "description": "Salt squalls rake the terraces eastward when a Conclave runner finds Aerin with Sera Dake’s summons. Kessa Tharn, an inspector with a nose for hairline fractures and forged seals, vanished after flagging a suspect maintenance certification that would have sent weight through a rib in ways the Hollow Oath forbids. The Lantern trail leads down-rope into the Ossuary Gardens, where the air tastes like mushrooms and old rain. Among whispering sporelight and the slow crackle of mycelium remembering footsteps, Aerin finds Kessa broken but breathing, tucked beneath shelf fungus by panicked hands. A rafter’s knot at her wrist and brine grit on her boots speak of a struggle that crossed both terrace and chainwalk. Kessa gasps a warning: experimental resonant tiles from the Foundry were diverted, their song sharp enough to shatter a rib if lined in the wrong place. The trail names a Rafter foreman—Danka Suth—and a purse stamped with the eel-skin sigil of the River Lords.",
+    "objectives": [
+        "Descend to the Ossuary Gardens using safe ropes and spore mask, following Thia Mol’s lantern-signal.",
+        "Locate and stabilize Kessa Tharn; extract her testimony without moving her overly much.",
+        "Gather physical clues: rafter’s knot, brine grit, purse with eel-skin stamp.",
+        "Secure Kessa’s passage to Vigil care and alert Sera Dake of the resonant tile diversion."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sera Dake",
+            "line": "Our oath forbids cuts to bone. It does not forbid honest fear. An inspector of mine named something that smelled like both salt and smoke, and then she disappeared. Find her, Aerin. If Conclave hands are dirty, I will clean them in public, but I will not let a rival write the story first."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "I’ll bring her back or bring what she tried to say. If resonant tiles were taken, then someone wants the bones to sing wrong. I can hear the edges of that song already."
+        },
+        {
+            "speaker": "Kessa Tharn",
+            "line": "Don’t let them… line the plates along a curve. It turns the hum into a knife. Sera thought we could use resonance to brace, but the test-walls cracked when the wind pushed. I traced a requisition to Danka Suth. A purse with eel-skin silver paid for a quiet stamp. I tried to tear the page. They tied me like a bundle and kicked me into the fungus."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "Rest. Your work’s not wasted. I’ll put your words where they can’t be cut out. The Vigil will keep watch, and the Conclave will hear your name in the open."
+        },
+        {
+            "speaker": "Mira Olt",
+            "line": "Spore-light will hide her while we fetch a litter. I’ll keep the midges off. Go, paladin. The rafter knots on her skin smell like the Chainhouse at shift-change."
+        }
+    ],
+    "connections": {
+        "previous": "M3",
+        "next": "M5"
+    },
+    "rewards": [
+        "Conclave inspection writ bearing Sera Dake’s seal, allowing site access during structural emergencies.",
+        "A pouch of antibiotic shelf fungus poultice from the Ossuary keepers.",
+        "Public pledge from Sera Dake to submit Conclave experiments to Vigil oversight."
+    ]
+}

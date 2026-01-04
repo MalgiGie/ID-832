@@ -1,0 +1,86 @@
+{
+    "id": "M1",
+    "title": "Bells Beneath the Starspan",
+    "quest_giver": {
+        "name": "Asha Greyling",
+        "affiliation": "Order of the Basalt Arch"
+    },
+    "description": "Dusk bleeds copper into the braided rivers as the prayer-bells under the Starspan answer one another like distant cousins remembering a family song. The basalt ribs loom like the underside of a sleeping leviathan, pitted knuckles strung with bells that quiver at every change of current, every intake of the river's great breath. Prior Asha Greyling has asked you to come without cloak-show or guild-banner, to stand where the Order keeps vigil and listen for the breath between beats that no ledger can tally. The Order of the Basalt Arch believes the Loom of Tides has begun to breathe wrong, a quickening hidden within its measured churn, like a singer pushing beyond their range while smiling for the crowd. If the Loom ever stutters, prophecy says, the Starspan will split and the river will choose its own throne, taking city and pledge into its cold decision. Under the arch you smell iron damp, incense and votive ribbon dyes, brass polish and the last sweetness of mulled riverfruit offered to stone. Bellkeeper Dorn gestures to the shadowed niches where the rock hums in sympathy with the water's drawn-out note, and your skin prickles as if the stone is listening back. You pin a ribbon where thousands of colored pleas hang heavy with salt and dust, a small strip of hope adding its whisper to the arch's litany, and you promise Asha to carry the Order's omen to those who keep the cogs. In your bones, your own voice echoes a half-breath behind itself, as if the city is trying to speak through you and your reflection waits one heartbeat longer to agree.",
+    "objectives": [
+        "Meet Prior Asha Greyling at the Starspan Shrine at dusk",
+        "Descend with Bellkeeper Dorn to the bell-room and listen to the arch’s hum",
+        "Pin a votive ribbon and swear to carry a true omen-report",
+        "Deliver the Order’s report to Magister Vell at the Loom of Tides",
+        "Note any signs of strain in the Loom’s outer wheels and report back"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Asha Greyling",
+            "lines": "I asked for you because you walk where vows breathe and where water pretends to be tame, and because you have learned to hear what others teach themselves to ignore. The bells have taken on a second voice that does not belong, a thin filament of haste winding through the proper measure like thread drawn too tight. The arch remembers calamity more clearly than joy, and lately it has flinched between notes as if bracing for a blow no one else admits is falling. I would not set the city running on rumor, nor would I feed the merchants a fear to bridle and sell until its muzzle bleeds. Yet if we fail to listen and fail to speak, we will be the ones who taught the crack to sing loud enough for profit to hear."
+        },
+        {
+            "speaker": "Bellkeeper Dorn",
+            "lines": "Close your eyes and listen with the bones at the back of your neck, not with the easy drums of your ears that love the clatter of the market. Hear the wheel-teeth far off counting their iron blessings, steady until you notice the skipped grace where a blessing should be and is not. The river is trying to keep time with them and missing half a sip, like a swimmer debating whether to dive and wasting breath on the thought. In these ribs the old fractures draw and release the tiniest breath, and when stone starts to breathe you are a fool if you do not ask why. I do not like it, Lio, because it has the taste of a held note that will break a singer's voice at the worst moment of the song."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "lines": "I hear it, even through the trick my echo plays when rooms go still and people wait for me to commit a word to the air. It is like a keel off true in a lazy stretch of current, nothing until the shoals rise and then everything at once with a scrape you remember for years. I will carry your words to the Loom and I will set them down without ribbons of politics, because truth trussed too tightly drowns slower but drowns the same. If there is a hidden wheel or a hidden will behind this second voice, I know where culverts keep their secrets and which grates whisper when no one is counting. If the city has started speaking behind its teeth, I would rather hear it now than taste the crack later."
+        },
+        {
+            "speaker": "Asha Greyling",
+            "lines": "Good, then take this ribbon with you as a witness that the Order spoke plainly and without hedge or hidden clause, and tie it where the engineers must step over it to reach their brass. Magister Vell chases the river's song with bright ore and cunning mathematics, which I do not despise, but ask them to measure humility as well as resonance in their ledgers of risk. The Loom is a servant that became a heartbeat, and heartbeats must not be beaten like drums in a parade for the sake of applause. If the Loom must slow to keep the arch whole, it will be a bitter recommendation to make, but I would have you say it first in places where such truths can be heard without being strangled. Carry also this prayer in plain language, that the city learn to breathe in measure again and remember that mercy keeps more bridges standing than pride."
+        },
+        {
+            "speaker": "Magister Vell",
+            "lines": "You bring me bells and breath and prophecy, and I see you have also brought me data in your eyes, because you count the stutters against the spin without touching the rails. The Loom has tolerances that a lay ear calls omens and an engineer calls noise, yet there are harmonics I do not like on the third and fifth wheels when the south sluice is open. We have increased pace to keep canals awake and honest while drought gnaws the bones of commerce, and any machine asked to make up for nature's sting will sing a little sharp. Still, sharp can shear if it is carried too far, and I will not pretend your arch-prior's concern is faith alone when the gauges quiver in the same places her bells ring. If a day of deliberate slow-flow keeps a century of stone from finding a new language for ruin, then we can speak of it, but you know and I know that merchants and Wardens will spit teeth before they swallow that medicine."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "lines": "I am not here to sell you incense, Magister, only to tell you where the stone winces and where the song loses count, and to ask what price a slow breath might buy us in saved bridges and unbroken vows. I watched the outer catwalks on my way and the second wheel's bearings wore their worry in a whisper the untrained would miss, like a gambler rubbing the same coin raw without noticing. If I walk out of here with a lie to please a guild, the arch will still flinch and the river will keep its own counsel until it chooses a throat to drown, so I will not do it. Give me words I can pin that are honest and human enough to pass through the Scriptorium without turning to slag in the salt. If we must purchase a day of quiet from panic, set me to bargaining with those who hoard fear like grain, and I will pay with my own breath if I must."
+        },
+        {
+            "speaker": "Bellkeeper Dorn",
+            "lines": "When you return, lay your palm on the old basalt and tell it what the Loom's keepers answered, because stone respects the courtesy of being included in the truths it must bear. The bells do not lie when they are tuned to grief as well as gladness, and tonight they sound like a mother counting children at a crossing while pretending not to count. If the Collegium will slow the pace, we will ring a thank you that does not accuse, because small mercies grow taller when they are not mocked while they are small. If they will not, we will mark the stutter in our plates and write down the names of those who heard and chose haste, not to curse but to remember which hands pulled which ropes. Memory is the only river that never runs dry, and we tend it with care because someday it will be the cup you and I are handed when there is nothing else left to drink."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Speak the warning unvarnished to the Collegium",
+            "text": "You decide that the moment for careful courtesies has passed, and that a clear note must be struck in a hall that prefers chords of compromise. You tell Magister Vell exactly what the bells said and what the arch did, using plain words that neither a contract nor a chorus can twist into comfort. You stand on the public catwalk where smoke and steam make halos of lamplight and you say slow the Loom for one full day or risk a split the city cannot afford to mend. You do not barter the fear to the Wardens first, and you do not carry it to the Night Market to be sold as leverage, because truth that is delayed is a debt that withers the debtor. You leave the ribbon tied to a handrail where every engineer must choose to step over it or move it with their own hand, and you note who pretends not to see it and who pauses, if only for a heartbeat.",
+            "outcome": "Magister Vell stiffens at your candor and then nods, because a messenger who softens steel with sugar is a danger in a machine hall that lives on precision. The Collegium convenes a hurried ring of gauges and minds, and though dissent crackles like frost on glass, they agree to a trial slow-flow window marked in ink thin as a breath. Word leaks like warm air into frost and traders rasp their anger, but Prior Asha hears the change in the bells before the notices are posted, and she sends for bread and thanks instead of triumph. The Wardens simmer, because no one eases a pace without moving their hands on the gates, and your name rings through their briefings like a stone in a bucket, not yet a threat but no longer forgettable. Your choice plants a stake in the city that others will later tie ropes to, and for a time the arch's flinch eases into a wary stillness that feels like a wound being allowed to knit instead of being pulled open for spectators."
+        },
+        {
+            "id": "C2",
+            "title": "Translate the omen into numbers and tolerances",
+            "text": "You sheath the sharpness of prophecy inside the language that the Loom respects, which is the language of ratios, harmonics, and wear rates that anyone with a ledger and a conscience can argue. You tabulate the bell-room's second voice beside the third wheel's warm bearing and the fifth wheel's humming stanchion, and you present it as a cascade that ends badly if not caught early. You recommend a marginal reduction at critical hours rather than a whole day of slack, because even a careful city will not drink medicine that tastes like failure when the markets are watching. You speak to Magister Vell in a tone that respects their mind and guards their pride, and you ask for a pilot program wrapped in a public message about maintenance rather than omens. You keep the ribbon tucked in your palm until the moment you see a face soften, and only then do you tie it where it can be seen without being paraded.",
+            "outcome": "The Collegium finds the numbers harder to dismiss than bells and easier to defend than prophecies, and they authorize a stepped slow-flow at dawn and dusk for three days running. The Order of the Basalt Arch is not insulted, because you bring them the truth of the compromise and not a victory blown out of shape by vanity, and their bells sing an even note that is not quite celebration. Merchants grumble but point to the posted tolerances as reassurance, and the Wardens use the maintenance language to save face while quietly rebalancing gate duty. In the quiet that follows, the Loom's hum rounds its sharpest edge and the arch's flinch melts into a tension one can live with, like a scar that stops itching when the weather changes. Your choice grants you a reputation as someone who can coax steel and stone into the same sentence, and both engineers and omen-readers begin to test you with errands that require minds to bend rather than backs to break."
+        },
+        {
+            "id": "C3",
+            "title": "Route the report through the Wardens before the Collegium",
+            "text": "You choose to carry the Order's concern first to Captain Maera Lockfen at the River Crown Citadel, because the keys to any real slowing live in Warden hands, not in elegant diagrams. You make the case that a day of ordered slack is cheaper than a week of broken bridges, and you show her where the catwalks creaked and where the wheels whispered their discomfort. You do not slight the Collegium, but you ask Maera to stand beside you when you speak to Vell, so the speech cannot be framed as an attack dressed in incense. You understand that the Wardens are tired of being default villains in street songs, and you offer them a role that smells like stewardship rather than seizure. You lay the ribbon on the Citadel's stone for a breath and then lift it again, because even a token can pick up a scent of authority when it rests on a throne's doorstep.",
+            "outcome": "Maera Lockfen hears you without blinking, because she has buried people whose breath failed where the river did not, and she recognizes the tone of a warning that is not trying to blackmail a gate. She agrees to stand with you in the Loom's shadow, and when you and Magister Vell speak, the debate is less about politics and more about schedules that can be held without breaking and pride that can be set aside without letting go. The Wardens take ownership of the slow-flow window as a tactical measure, which angers some engineers and comforts many rafts, and the announcement is phrased as a drill that teaches the city to move without panic. The Order thanks you with their quietest gesture, which is a bell struck soft enough that only those who did the work can hear it and feel their ribs ring in answer. Your choice threads a narrow path between powerhouses and leaves your name written in several ledgers as a person who can be invited to a table without inviting a riot, though the Embersleeve wonders if your loyalties have shifted from shadows to bells and may test you for it later."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Order bell-token granting sanctuary at the Starspan Shrine, a small bronze charm that will quiet quarrels long enough for you to speak and be heard under the arch"
+        },
+        {
+            "type": "Access",
+            "description": "Access permission to the Loom of Tides’ public catwalks, allowing close observation of outer wheels and gauges without escort during posted hours"
+        },
+        {
+            "type": "Reputation",
+            "description": "Reputation (modest) with the Order of the Basalt Arch, marked in their ledgers as a listener who carried a true omen-report without bending it to factional profit"
+        }
+    ]
+}

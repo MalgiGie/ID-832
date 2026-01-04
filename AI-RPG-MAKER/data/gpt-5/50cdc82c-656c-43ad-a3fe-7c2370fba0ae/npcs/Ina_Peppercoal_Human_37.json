@@ -1,0 +1,66 @@
+{
+    "name": "Ina",
+    "surname": "Peppercoal",
+    "race": "Human",
+    "age": 37,
+    "appearance": "Broad-shouldered with warm brown skin dusted by furnace soot, braid wrapped in red cloth, and smile lines that turn to flint on strike days.",
+    "character": "A hearth that can become a forge: nurturing to workers and children, iron-hard to exploiters.",
+    "traits": [
+        "Fiery",
+        "Nurturing",
+        "Stubborn",
+        "Honorable"
+    ],
+    "skills": [
+        "Oratory and rallying",
+        "Logistics for soup-lines and shelters",
+        "First aid for burns and rope wounds",
+        "Mediation"
+    ],
+    "talents": [
+        "De-escalates volatile crowds",
+        "Bread-baking that draws neighbors across alleys",
+        "Reads crew fatigue by gait"
+    ],
+    "flaws": [
+        "Impulsive when pushed",
+        "Distrustful of merchants",
+        "Holds public grudges"
+    ],
+    "dreams": [
+        "Secure a worker seat among the Twelve Seals",
+        "Safe kilns and capped heat-levies",
+        "Rest-shelters along the Glass Dunes route"
+    ],
+    "secrets": [
+        "Keeps a hidden hatch map beneath the House of Reconciliation dais",
+        "Her younger brother runs with toll-bandits in Shiverfen",
+        "Secretly admires a Pilots’ songline she pretends to mock"
+    ],
+    "relations": [
+        {
+            "npc_name": "Borgo Emberdell",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Thane Kelvar",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Neris Aline",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Garrin Chainwatch",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Jaya Basaltrip",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Mara Tidecall",
+            "relation_type": "Friendship"
+        }
+    ]
+}

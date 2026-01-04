@@ -1,0 +1,72 @@
+{
+    "name": "Yerin",
+    "surname": "Pale",
+    "race": "Human",
+    "age": 52,
+    "appearance": "Pale-eyed bibliomancer in a slate-grey coat, ink-stained fingertips, a soft voice that files edges off threats.",
+    "character": "Courteous and surgical; he believes every feud has a profitable evening, and mercy is best when it keeps accounts balanced.",
+    "traits": [
+        "Patient",
+        "Calculating",
+        "Composed",
+        "Ruthlessly fair"
+    ],
+    "skills": [
+        "Negotiation",
+        "Information brokerage",
+        "Memory reading",
+        "Misdirection",
+        "Intimidation"
+    ],
+    "talents": [
+        "Reads people like ledgers",
+        "Erases a presence from rumor for a year via Moonbridge tolls",
+        "Mask-mediated arbitration"
+    ],
+    "flaws": [
+        "Detached empathy",
+        "Hoarder of secrets",
+        "Underestimates idealists",
+        "Insomniac"
+    ],
+    "dreams": [
+        "Make the Night Ledger indispensable to Seven-Kettle",
+        "Expand white-book pardons into policy",
+        "Finally reread the memory he hid in the Archives"
+    ],
+    "secrets": [
+        "Secret patron of the Concordant Archives",
+        "Orchestrated a dock ‘quieting’ that went loud",
+        "Uses the masked child’s dawn scale to end feuds in blood when required"
+    ],
+    "relations": [
+        {
+            "npc_name": "Calra Orun",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Jilai Sunquiet",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Iren Vask",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sorev Dusk",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Brina Coil",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sila Jor",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Thorek Brimvauld",
+            "relation_type": "Conflict"
+        }
+    ]
+}

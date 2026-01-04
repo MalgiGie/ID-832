@@ -1,0 +1,39 @@
+{
+    "id": "M3",
+    "title": "Keys for a Lock You Can’t See",
+    "quest_giver": "Iven Shadequinch (Night Orchard go-between)",
+    "description": "On a misted night when lanterns blur into stars, Iven Shadequinch steps out of a fog bank beneath the Chainbridge. He is a gardener who never carries dirt under his nails, and he remembers your old guilt though he never speaks it aloud. He says keys were cut for a lock no one admits exists, and that someone will reach for them tonight with a hand dipped in debt and doctrine. He needs you to move a decoy ring through the pivoting panel at mid-span, draw eyes and blades, and buy the Orchard time to plant a counter. The panel hides a ladder into a collar cavity big enough for a council meeting, and the lock below that cavity hears old metal sing. House Kelvar’s guards watch the toll towers, the Order has posted a warden in a fury of piety, and Garrin Chainwatch runs the mid-span like a stubborn helmsman. This is a dance on a chain with truth below it like cold black water.",
+    "objectives": [
+        "Meet Iven Shadequinch under the Chainbridge at the pivoting panel.",
+        "Carry the decoy keyring across mid-span without allowing it to be seized.",
+        "Distract or placate Garrin Chainwatch without exposing the panel and ladder.",
+        "Plant the decoy in a predetermined cache and signal Iven with prism-lamp code."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Iven Shadequinch",
+            "lines": "You and I shared a parcel once that wasn’t what it claimed. That night bought this night and I will not pretend otherwise. There is a lock here older than the charters and hungrier than the tolls, and fools with tidy ledgers want to turn it to shut out voices they don’t like. Carry my decoy where it will be seen, let their greed chase shadows, and I will put the true teeth where they belong. I do this for the city’s canopy, not for coin."
+        },
+        {
+            "speaker": "Garrin Chainwatch",
+            "lines": "No one dances mid-span without my say. Toll tower eyes are on you and the chains are loaded like bows. I’ve seen smugglers crawl under this deck like beetles and I’ve seen lovers whisper promises that walked along the links to strangers. Give me a straight word, Jaryn. If you lie, I’ll know by the way your hand sits on your hook."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "Straight as a stretched towline, Garrin: I’m carrying a decoy so the real trouble looks the wrong way. If I let the wrong people set their teeth in the right key, we’ll wake to find half the city sold to a ledger number. Stand with me or stand aside, but don’t call a flood down on us while we’re still crossing."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        "Night Orchard favor (you may call in one quiet rumor or safehouse shelter).",
+        "A whispered map to the Chainbridge collar cavity entrances.",
+        "Increased suspicion from House Kelvar guards (story consequence)."
+    ]
+}

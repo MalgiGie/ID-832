@@ -1,0 +1,66 @@
+{
+    "name": "Selde",
+    "surname": "Karst",
+    "race": "Human",
+    "age": 58,
+    "appearance": "Lean and sun-creased, salt-burn freckles, lacquered ledgersman’s nails, wind-bell earrings that chime softly when she turns her head.",
+    "character": "Shrewd and patient, refuses to hurry a deal; speaks little, listens for what costs men sleep.",
+    "traits": [
+        "ascetic negotiator",
+        "relentless memory for debts",
+        "matronly to her factors"
+    ],
+    "skills": [
+        "high-stakes negotiation",
+        "double-entry bookkeeping",
+        "caravan logistics",
+        "salt-flat weather reading"
+    ],
+    "talents": [
+        "hears patterns in roof wind-bells",
+        "can taste adulterated salt at a grain"
+    ],
+    "flaws": [
+        "prideful",
+        "grudge-bearing",
+        "neglects water and health during negotiations"
+    ],
+    "dreams": [
+        "make the Salt Crown Exchange the city’s true heart",
+        "break the pilots’ monopoly without bloodshed"
+    ],
+    "secrets": [
+        "authorized a quiet run of counterfeit bricks to test Exchange inspectors",
+        "keeps a private ledger of debt-chains that could topple rivals"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sera Verrin",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Arelon Vale",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Olan Vetch",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Brynna Coil",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Lysa Quill",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Yael Emberkeel",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Dhorik Basaltbane",
+            "relation_type": "neutral"
+        }
+    ]
+}

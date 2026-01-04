@@ -1,0 +1,66 @@
+{
+    "name": "Iven",
+    "surname": "Kall",
+    "race": "Human",
+    "age": 63,
+    "appearance": "Tall and spare with ink-stained fingers, brass plate-dust at the cuffs, and a voice like riverstone.",
+    "character": "Stern in court, unexpectedly kind in private.",
+    "traits": [
+        "Meticulous",
+        "Devout",
+        "Cautious",
+        "Principled",
+        "Patient"
+    ],
+    "skills": [
+        "Oath-binding rites",
+        "Arbitration",
+        "Memory drills",
+        "Legal strategy",
+        "Public testimony"
+    ],
+    "talents": [
+        "Feels when a spoken name is false",
+        "Recalls every sworn case he has heard"
+    ],
+    "flaws": [
+        "Haunted by broken oaths",
+        "Indecisive when ethics and survival collide",
+        "Migraine-prone during drought arguments"
+    ],
+    "dreams": [
+        "Restore the Tide-Pledge in spirit, not just letter",
+        "End name-theft and coerced vows",
+        "Raise a new generation of truly neutral witnesses"
+    ],
+    "secrets": [
+        "Bargained at the Whispering Moor and gave a fragment of his true name to save a child from oath lashings",
+        "Shelters defectors who regret Embersleeve oaths in a hidden annex"
+    ],
+    "relations": [
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Asha Greyling",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Magister Vell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Knife-Whisper Pell",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Sere Aven",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orin Thalen",
+            "relation_type": "Different goals"
+        }
+    ]
+}

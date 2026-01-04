@@ -1,0 +1,64 @@
+{
+    "name": "Tavi",
+    "surname": "Mireline",
+    "race": "Selkie-blooded",
+    "age": 22,
+    "appearance": "Seal-sleek dark hair, faint webbing between fingers, and salt-shine eyes; moves like a ripple.",
+    "character": "Playful courier masking a wary heart.",
+    "traits": [
+        "Agile",
+        "Flirtatious",
+        "Loyal to a few",
+        "Resourceful",
+        "Secretive about origins"
+    ],
+    "skills": [
+        "Culvert routes",
+        "Underwater navigation",
+        "Disguise",
+        "Pickpocketing",
+        "Vault message-running"
+    ],
+    "talents": [
+        "Slips through grates others call impossible",
+        "Holds breath far longer than most humans",
+        "Soft-voice mimicry in echoing tunnels"
+    ],
+    "flaws": [
+        "Naive in big politics",
+        "Thrill-seeking",
+        "Sticky fingers"
+    ],
+    "dreams": [
+        "Buy off their Embersleeve debt",
+        "Swim the Shattermere at a full moon without fear",
+        "Own a lantern-barge and crew"
+    ],
+    "secrets": [
+        "Owes Knife-Whisper Pell for a name-plate debt",
+        "Once lifted a Warden seal and returned it to curry favor",
+        "Left a sealed question for the Mirror-Queen they fear to open"
+    ],
+    "relations": [
+        {
+            "npc_name": "Knife-Whisper Pell",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Pellar Nine-Poles",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ressa Quay",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Pika Jinn",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

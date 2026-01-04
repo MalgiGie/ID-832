@@ -1,0 +1,79 @@
+{
+    "id": "M11",
+    "title": "Light Remembered by Stone",
+    "quest_giver": {
+        "name": "Lerrin Vale",
+        "affiliation": "Marrow Archive Curators"
+    },
+    "description": "North across the scrub, the Moonshard Heath opens like a pale scar on the land, a hush of heather and low thorn where the earth drinks starlight until it glows. Shallow craters catch the sky and hold it as cold glass, each shard a sliver of last night’s firmament remembering constellations with a patience older than the city. The air smells of iron and winter even in high summer, and every footstep answers with a dry crackle as if sand itself carries a charge. Static storms prowl without cloud, raising hair and stinging skin, and the lunar moths come in slow, drifting curtains that try to settle on breath and brow, numbness and forgetfulness following their soft touch. Poachers slink between hummocks in layered cloth and glass visors, their grapples silent, their sacks lined with ash to hide the glow; their eyes are always hungry because a single clean shard buys a season of food in a city that reads hunger in tolls. Aerin walks with Iven Rill, coils of insulated line looped across his shoulders and her moonshard lantern shaded to a calm, even tone that will not lure the moths, listening with Scale-born care for a stable note beneath the crackle. The shard they seek is not the brightest, Iven insists, but the one that hums like a held breath, a memory of an untroubled sky that will not spit when handled. When they return, the Archive will drink that calm and relent; eel-skin pages will flex and gleam and surrender to the light they crave. And when the ceiling of the Echo Hall fills with replayed stars and their lines meet in patterns Lerrin knows better than the veins on his hands, the secrets nested in those constellations will map a merchant’s treachery to counterweight drums and rendezvous bells, naming a dawn at the Saltlick Terraces with Danka Suth and a final purse meant to tip the whole Crown-Market during Gale Tuning so the city would sing and break in one breath.",
+    "objectives": [
+        "Travel to the Moonshard Heath and harvest a stable moonshard under static-safe procedure.",
+        "Fend off or outwit shard-poachers without lethal force if possible.",
+        "Use the shard to power the Archive’s lamps and replay the recorded starfield over the ledger pages.",
+        "Decode the counterweight schedule and identify times and names for the planned tilt at the Crown-Market Arcade."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lerrin Vale",
+            "lines": "We say the shards remember the last light they saw, and memory has weight when cut into crystal. Tonight, I ask you to bring me a memory that is clean and northern, a calm sky unmarred by storm-flare, so the Archive’s cold lamps can drink it and shine without flicker. The eel-skin ledger we took from Riverfoot curls like a sleeping eel and refuses to lie flat unless bathed in true light, and beneath its stubborn ink a net of constellations waits to be coaxed into speaking. I trust your ear, Aerin Rell, because the bones themselves taught you patience and the rightness of held breath, and because you have already paid a song for knowledge and will not waste what it bought you. Go with Iven Rill, who knows the heath like he knows the backs of his own hands, and keep your oath, your eyes, and your line steady; return with a shard that has seen what we need, and together we will make the sky answer a merchant’s arrogance."
+        },
+        {
+            "speaker": "Iven Rill",
+            "lines": "Keep the line low and the lantern higher than your heart, not for magic but because the moths rise to warmth and will try to sheath your sight in sleep. If the air prickles and you taste metal, set your knees to ground and let the shock skate, because standing proud only invites the storm to strike your shoulders. The brightest shards are show-offs and will bite any hand that thinks greed is a glove; we want the modest glow that hums like an old lullaby, the tone that endures. Sing a true note when you lift, something you believe without thinking, because static hesitates around confidence and turns aside from breath that holds its shape. And if we meet poachers who think the night is a purse to be cut, remember what your chime taught you: a warning sounded right is mercy, and mercy given firmly is a rope that can bear weight."
+        },
+        {
+            "speaker": "Shard-Poacher",
+            "lines": "You walk like you own the heath, city folk, with your clever lantern shaded and your coil that looks like a tame snake, but out here the only charter is cold and the price of frostbite. Leave the bright stones where they lie and leave your purse to make the lesson stick, and I will leave your bright blood where it belongs instead of letting it steam on the heather. Think on how many children eat when one shard sells, and tell me your Archive’s hunger is holier than mine, and look me in the eye while you try to say it without flinching. I have seen your Vigil look away when a barge slides under the gate with the right silver, and I have seen your guilds weigh a widow’s grain two measures light, and the stars did not fall then for truth. So step back, lower your glaive, and make a deal that doesn’t end with someone waking in the Undershadows with no memory of how their breath left them."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "lines": "No, the heath is not a purse and the night is not your knife, and the shard we seek is not for display in a manse but to keep a market deck from turning into a grave. I have watched children play above the Crown-Market lattice and I have felt the ribs hum a warning note, and the plan written under those eel-skin pages would tilt their laughter into the river if we let greed shake the counterweights. I will not take your breath, and I will not stain this place with blood if I can help it, but I will take your hands off this shard and set them to better work if you will listen. There is a way to earn coin and keep conscience, and it starts with you walking away whole tonight and later speaking to a warden under the Oathwater where lies chill the tongue. If you force a fight, I will bind you rather than break you, but I will not flinch, and the storm will not wait while we decide what kind of people we are."
+        },
+        {
+            "speaker": "Lerrin Vale",
+            "lines": "There—hush and look, and let the Hall go dark so the shard can breathe its memory across the ceiling, because this is the hour when stone tells what it learned in silence. See how the constellations do not merely sparkle but align along the ledger’s neat hand, each star a mark of a tally-scribe who thought himself safe behind clever ink. The Archer, bent to loose, is no myth here but a note on a drum: a counterweight shift on the western ring, a weight drawn too far to prime a tilt. The Crown, set at a slant, is the lattice itself, its counterweights written as stars and its timing written as a comet’s tail, and here at the tail’s bright knot is a name we feared to see: Saltlick at first light, Danka Suth to receive and disperse. And here, drawn like a mouth ready to swallow a city’s breath, is the finale that braids our fear to proof: Gale Tuning for the great tilt, when the ribs sing and all eyes rise, and in that music someone would have fed us to the river if not for what you brought back from the clean north."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Sing the steady note and harvest in the storm’s lull",
+            "text": "You choose patience over posture, waiting until the static’s prickle deepens to a low, even hum, and then you loosen your shoulders and let the heath’s cold sink into your bones. You draw a breath that tastes of iron and winter, and you ring your Rite-Striker once, not loud but true, a tone you learned on the Galecliffs that says here I stand and I will not hurry the wind. The lunar moths waver in their drift and hesitate, troubled by the certainty in the sound, and you shade the lantern until its glow is a calm moon behind a cloud. With Iven mirroring your stance, you crouch, slide the insulated loop beneath the chosen shard, and lift as if cradling a sleeping child, not a treasure to be seized. The poachers watch from the scrub and see no rush and no fear to feed on, and some of their hunger drains away because courage is a kind of weather that chills the knife-hand.",
+            "outcome": "The shard comes free with a whisper and no bite, its glow steady, and your lantern drinks its remembered sky without a crack. A few poachers peel away, disappointed at the lack of panic, while one lingers long enough to whisper that he has seen Delver marks near the Saltlick Terraces, which puts a new chill in your spine and a new line on the map. You avoid injury and keep your oath against needless harm, and the heath’s charge bleeds off harmlessly through your calm. Back in the Archive, the starfield plays clean and crisp, making the overlay sharp and the cipher obedient, so the counterweight schedule resolves into exact bells and drum-taps. Lerrin marks you as a practitioner who can carry stillness into storm, and that reputation will draw the right allies in the next council, though a few poachers now know your face and will test your patience again when coin runs thin."
+        },
+        {
+            "id": "C2",
+            "title": "Broker a truce with the poachers using a lawful salvage favor",
+            "text": "You keep your glaive low and your shield turned, and you talk not like a warden but like a woman who has needed a full purse herself, naming the price of bread, the way tolls bite, and the taste of being turned from a gate. You offer a path that lets them walk away intact and not empty-handed: a promise to speak for a salvage chit under the Vigil’s eye if they swear the Hollow Oath’s lesser echo to leave the Moonshard Heath unbloodied for a season. You don’t pretend the city is clean or the guilds kind, and you don’t pretend you can wash their hunger with a word, but you promise to bind your name to the request and take the heat when the River Lords sniff at it. The poachers push, scowl, and test, but you neither flinch nor preen; you name the penalty for striking at an oath-bearer under sky and you name the mercy that follows restraint. Iven backs you by telling a hard truth of his own, about a time he poached and paid, and how silver earned without a stain tastes heavier in the hand.",
+            "outcome": "Two of the four poachers accept and back away with a muttered oath, and one, a woman with salt in her hair, offers a tip that Danka Suth favors dawn meets where the brine pumps drone loudest. The third scowls and promises to test whether your word carries in Spinegate, which fixes a future complication to your path, but for now blades stay sheathed and the heath stays quiet. You harvest the shard under their wary eyes, and the storm, dulled by your stillness, passes like a hand that decides not to slap. At the Archive, the eel-skin ledger uncoils and the constellations align with neat certainty, and Lerrin inks a writ that can be carried to the Vigil citing both the schedule and the whisper you were given. Your choice buys you grace with the Marrow Archive Curators and a thread of goodwill among the desperate, though the River Lords will bristle when a salvage chit shaves their cut and a rumor will crawl that you favor thieves who speak pretty."
+        },
+        {
+            "id": "C3",
+            "title": "Outwit the ambush with a decoy shard and a rigger’s traverse",
+            "text": "You catch the poachers’ shadow before their breath reaches you and decide the only way through is to give them something bright and hollow to chase. You set your lantern to a shallow gleam and reflect it off a splinter of glass, wrapping the shard-shaped glint in cloth, and you let it roll into a convenient hollow as Iven drags a line across two low stones with a climber’s surety. When the poachers spring, quick and silent, you snap the line taut, vault the wash with your hook, and lead them across the humming ground like children chasing a moth, their feet too quick for caution. The static cracks, but you ride the rhythm rather than fight it, and when the closest poacher lunges you tap his wrist with your shield’s rim and twist his balance instead of breaking bone, letting the charge sting him into retreat. By the time they realize the prize is a ghost, you are already kneeling over the real shard, lifting it in a lull, and your breath holds steady because showmanship, done kindly, can be a form of mercy.",
+            "outcome": "The poachers scatter in confusion and pride-hurt anger, but none lie bleeding, and your decoy buys you clean seconds you spend well. One trips the line and yelps as the static kisses him hard, and you haul him upright rather than leave him twitching, earning a confused, grudging nod that may become something like respect. Your rigger’s gambit is noticed by a Chainhouse spotter practicing on the cliffs, and word will drift to Gor Relk that you still know the cables’ language, which will grate his teeth yet soften his certainty that you are an enemy of his crews. The shard you take is pure and even-tempered, and in the Archive its memory paints the ceiling with a starfield sharp enough to cut through every obfuscating flourish in the eel-skin ledger. Lerrin decodes the counterweight schedule cleanly, names the Saltlick dawn with Danka Suth and the Gale Tuning finale, and presses into your palm a seizure writ that will bite hard when presented, though the poachers you fooled will lay snares for your pride if you swagger."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Moonshard Lantern Lens upgrade: improved clarity for recording and replaying tones and starfields, cut from the steady shard you recovered so your signals and sky-maps shine true."
+        },
+        {
+            "type": "legal",
+            "description": "Archive seizure writ for contraband counterweights and resonant plates tied to the decoded schedule, bearing the Curators’ seal and the authority of oath-ink traced under the Oath Vault."
+        },
+        {
+            "type": "reputation",
+            "description": "Strengthened alliance with the Marrow Archive Curators, who mark you as a reliable bearer of calm light in storm and a partner in exposing the Crown-Market tilting plot."
+        }
+    ]
+}

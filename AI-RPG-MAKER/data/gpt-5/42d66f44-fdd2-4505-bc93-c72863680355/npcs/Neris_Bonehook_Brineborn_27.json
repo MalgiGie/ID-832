@@ -1,0 +1,63 @@
+{
+    "name": "Neris",
+    "surname": "Bonehook",
+    "race": "Brineborn",
+    "age": 27,
+    "appearance": "Webbed fingers scarred by coral, cropped hair, reef-tattoo behind left ear; necklace strung with legally tagged micro-pearls.",
+    "character": "Brave, loyal diver who keeps her crew first; suspicious of easy coin; proud of Compact affiliation but open-eyed about its flaws.",
+    "traits": [
+        "courageous",
+        "loyal",
+        "competitive",
+        "curious"
+    ],
+    "skills": [
+        "long-breath diving",
+        "reef maze navigation",
+        "pearl grading",
+        "spear-fishing",
+        "kelp line splicing"
+    ],
+    "talents": [
+        "hears the reef’s faint bell-tone",
+        "sharp night vision underwater",
+        "quick, controlled ascents under surge"
+    ],
+    "flaws": [
+        "provoked easily by cheats",
+        "superstitious about ‘silent’ pearls",
+        "reluctant to back down publicly"
+    ],
+    "dreams": [
+        "Find the legendary Moonkey",
+        "Prove free divers can be ethical and independent",
+        "Own a stout skiff and license"
+    ],
+    "secrets": [
+        "Once surfaced with a ‘silent’ pearl and forgot to breathe for a count of sixty",
+        "Quietly passes tips to Brinewardens when it protects her crew",
+        "Owes Tern Quietwake a life after a trench eddy turned on her"
+    ],
+    "relations": [
+        {
+            "npc_name": "Mara Vell-Seren",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Verrin Nasse",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Tern Quietwake",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Ilya Salt-Kite",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Asha Heliope",
+            "relation_type": "Different goals"
+        }
+    ]
+}

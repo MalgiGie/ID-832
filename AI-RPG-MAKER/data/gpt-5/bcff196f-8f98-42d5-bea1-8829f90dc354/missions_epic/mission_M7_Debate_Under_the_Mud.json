@@ -1,0 +1,79 @@
+{
+    "id": "M7",
+    "title": "Debate Under the Mud",
+    "quest_giver": {
+        "name": "Irevan Glassmere",
+        "affiliation": "Lantern Archive"
+    },
+    "description": "In the crescent hall of the Lantern Archive, where water runs in narrow channels to catch stray thoughts, Archivist Irevan spreads a procession of pallid charts that seem to flinch from the lamplight. The inks have not faded from neglect but from thirst, as if the drought had put a tongue to the parchment and drunk the memory out of it. He shows you the ghost of a survey line that once ran true as a drawn blade across the mudflats, and the place where an oath-key should flare like a dawn mark but now lies as numb as ash. The first surveyors, he reminds you, bound their measures to verses carved into the statues along the Sunken Road, and those verses wake only when the water lowers to new moon and debate stirs beneath the slabs. To relearn what the river has chosen to forget, you must walk the causeway in company with Gate-Captain Tholl’s iron-disciplined escort, carry enough bread, oil, and dry cord for a tide’s full cycle, and listen with the humility of a student rather than the hunger of a thief. When the river bares its gums and hisses, you will press your ear to the right stone and hear the philosopher-kings renew the old argument in voices that weigh water like coin; you will lift verse-keys from moss with the gentlest of blades, and make rubbings that speak to the shy, sleeping pigments of drought-shocked charts. Under the cupped hands of a toppled sage that cradle a bird’s nest soft as fog, an oath-stone shard waits, lodged where a virtue was once promised away and the river learned obedience for a season. To take it without breaking a feather will be a test not only of quiet feet and patient timing, but of whether you can be as careful with vows as with ink. At the margins you may glimpse the Night Cartographers, polite as midwives and wearing expressions that remind you a ledger is a kind of cradle too, ready to cover any inconvenient cry with a cloth of words. If you return with verses and shard intact, Sula Reedmantle will wake the slumbering inks with her storm-scented oil, and the charts will darken like clouds fat with promise; if you falter, the city will keep arguing with itself, and the river will continue taking what it is owed.",
+    "objectives": [
+        "Secure Tholl’s escort and march to the Sunken Road with supplies sufficient for a full tide cycle.",
+        "At low water, make ink rubbings of three debate stanzas and take a careful tracing of the oath-keys hidden in moss.",
+        "Retrieve the oath-stone shard lodged under a toppled statue without disturbing the nesting birds in its cupped hands.",
+        "Return the verse-keys to the Lantern Archive and, with Sula’s aid, reactivate a set of fading charts."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Irevan Glassmere",
+            "lines": "There are maps that darken when the river drinks too deeply, and these are of that stubborn kind. You may call it tincture and formula, or you may call it oath and echo; I call it a memory that refuses to live in only one medium. The first surveyors cut verses into stone so that their measures would not be lonely on paper, and those verses must be coaxed to speak again with rubbings and patient ears. Bring me the stanzas and the hidden keys, Kezra, and do not mistake the water’s silence for consent while you work. There is a shard lodged beneath a sage’s hands that once weighed a promise; take it gently, for promises and eggs crack with equal ease. The Night Cartographers will float around you like polite wasps, telling you it is arithmetic to share, but the Archive has its own arithmetic, and it begins with trust. I have seen you bind your craft to the city’s good; remind the inks who they are, and they will remember their duty to rise."
+        },
+        {
+            "speaker": "Gate-Captain Tholl",
+            "lines": "My job is to keep folk from dying in stupid ways, and the Sunken Road breeds clever stupidity like a stagnant pool breeds midges. We march on the ebb and camp on the rise, and no one steps where the algae shines unless they want to learn how stone leeches count to ten with their mouths. Mind your footing, mind your rope spacing, and mind the birds, because they are citizens of this city same as you and they were here first. If the statues seem to lean and listen, keep your remarks to yourself and your hands off your charms; we do not feed the echoes with bravado. Should you hear a voice under the mud tell you to sleep, keep your mouth shut and breathe through your nose till it passes, because cursed commands love an open throat. I will be near, and my halberd will be nearer, but I cannot guard you from the bargains you are tempted to make. Come back with your rubbings, your shard, and your sense of proportion, and my watch will remember you as one who steps where the city needs and leaves no bootprint on a nest."
+        },
+        {
+            "speaker": "Lysa Quill (Night Cartographer)",
+            "lines": "We sketch what others pretend is beneath their notice, and we price it fairly when the night is honest. Share your rubbings in a measure small and careful, and I will share a way around the reed-thing that does not demand a prayer you cannot afford; that is balance, and cities survive on balance. This is not a threat, merely the arithmetic of risk, and I know you keep such arithmetic in your lantern and behind your tongue-thorn. The Exchange will find a way to measure these verses soon enough and weigh them against salt, so better a friendly ledger than a hungry one. Tholl’s eyes are dutiful and bright, but even bright eyes miss what we walk with by habit; let us be your margin on this page, and your page will not tear. Think of this as midwifery for knowledge: a cloth for the inconvenient cries, a hand steadying the head so it does not strike the world too hard."
+        },
+        {
+            "speaker": "Sula Reedmantle",
+            "lines": "Bring the rubbings straight to me, still smelling of moss and moon, and we will wake the inks with oil that remembers storms on old stone. The pigments will darken if they recognize their own reflection in the verse-keys, and I will show you how to tilt the page till the memory falls back into its right grooves. If the Night Cartographers leave a thumbprint on your work, do not tear the page in anger; there are gentler ways to lift such grease without smearing the past. Beware the under-mud debate, because its courtesies are old and can sound like commands when your ear is pressed to grief; let your lantern hold the pattern for you when your skull rings. You have sworn a thorn to the tongue, and that vow is not a leash but a bridle, guiding you back to the city’s good when the bit tastes of pride. Return with patience, and we will make the charts remember the low-water paths and the old oaths without owing any debt we cannot pay."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I will listen to the debate under the mud and take only what the river can spare, leaving the rest to argue eternity back into silt. I will borrow the cadence of the philosopher-kings and give it back in ink, lantern-light, and careful measures on honest paper. The birds will not pay for my hurry, and the shard will rise when the tide and my patience agree that it is time. If the Night Cartographers come with arithmetic dressed as kindness, I will count my breaths and my debts before I tally theirs. When the verses are home, the Archive will wake them, and the charts will show the drought-safe shallows like bones under skin, and we will steer the city between famine and flood."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Trade a sliver of knowledge to the Night Cartographers",
+            "text": "At the causeway’s edge where a toppled king lies bearded in moss, Lysa Quill proposes a quiet exchange while Tholl’s patrol makes a slow circuit under the false distance of fog. You choose a stanza whose cadence you already half-remember from the Archive’s lanterns and copy it twice, the second time with tiny errors only your own hand could love. You bind the rubbings with a filigree of oath-glyphs that will sour if a liar reads them, not to harm but to warn the paper itself to be wary. In return, you ask for a map thread around the reed-thing, a route measured not in ells but in silences where it will not hear you pass. You hold Lysa’s gaze and make it clear that you do not barter lives, you barter risk against risk, and that your city is the larger client in any contract. She smiles as if midwifing a difficult truth and tucks the careful copy away as though laying a child to sleep.",
+            "outcome": "Lysa leads your finger to a shadowed passage through the reed-banks that tastes of old wind rather than new blood, and your lantern learns the whistle for it the way a throat learns a prayer. On the return nights you walk that way and feel the reed-thing’s attention glance off you like rain from oilskin, a grace purchased without a name, only a measure. Sula finds the faintest grease mark on one corner of your true rubbing and shows you how to lift it with powder and patience, and she nods at the intact cadence with approval that feels like a light placed behind you rather than in your eyes. The Night Cartographers now consider you a partner of sorts, not bought but measured, and they stop trying to price your soul and begin trying to price your time. Tholl notices that you kept your dealings brief and above the board as far as boards in fog will allow, and though his jaw tenses, he files your name under those who understand margins without falling off them. Later, a clerk of House Verrin drops a casual remark about ell-measures near you, and you hear the future knocking on your door with a velvet glove; for now, your charts grow darker, and your city’s routes grow safer."
+        },
+        {
+            "id": "C2",
+            "title": "Tide and patience: retrieve the shard without disturbing the birds",
+            "text": "You study the slackening river for a full quarter hour and count the breaths between the statue’s shadow and the ripple at its base until a pattern reveals itself like a seam in silk. Wrapping the hush-silk scarf around your throat, you muffle your own pulse, then ease off your boots and slide along the algae with the slow boldness of a cat in rain. Your fingers find the shard not by force but by familiarity, tracing the cold edge where oath once met stone until your skin knows where the tide will lift rather than resist. You wait, and you wait longer, until the nest’s woven rim rises two finger-widths with the swell and the birds murmur in their sleep like soft gears and not alarm bells. Without moving the hands that cup their home, you lever the shard with a flattened reed spatula you fashioned earlier, heart matching the river’s patient tick. When it comes free it is like slipping a thorn from the tongue without blood, and even Tholl exhales as if he had been holding his own breath with yours.",
+            "outcome": "The nest does not rock, a chick cracks shell with a wet, victorious whisper, and the mother bird turns one bright unafraid eye toward you as if accepting an introduction. The shard hums so gently in your palm that your teeth notice it before your ears do, a note that makes your lantern flame draw a narrower line as though embarrassed by its own wobble. Tholl touches the halberd’s haft to his brow and murmurs that he has seen worse surgeons in better rooms, which is as generous as a captain gets when the river is listening. Word of your gentleness travels the brickwork in capillary threads; a Brother of the Black Thistle nods without reproach when you pass the chapel yard the next dawn. Sula receives the shard in a fold of silk and remarks that it feels as if the vow it once held has remembered itself instead of being hunted down, and the ink answers accordingly. At the Ember Gate thereafter, eyes that once measured your pack now measure your patience, and the measure is found good."
+        },
+        {
+            "id": "C3",
+            "title": "Leverage and speed: pry the shard free despite the nest",
+            "text": "The tide turns faster than the sky promised, stone leeches begin to dot the shallows like misplaced punctuation, and a young watchman mutters that time is a boot with a nail coming through the sole. You choose to move now before the river does it for you, jamming a prybar under the sage’s hand while your thumb holds the reed-basket steady. The nest wobbles, a bird startles up, a single egg rolls to the rim and shivers there as if choosing a parent or a fate. You breathe a rasped apology to no one and everyone, hear Lysa’s arithmetic in your ear and Tholl’s lecture in your other, and you force the lever until the stone groans. The shard comes free with a bitter laugh of grit, your arm shakes with the effort, and the egg settles back into the curve of woven stems with the grace of the spared. You are already binding the crack in your conscience with reeds when you realize the echo of the debate has taken your haste as a vote cast in its favor.",
+            "outcome": "The shard is yours, streaked with a line the color of old vows, but the water around your ankles has grown cool and complicated, as if you misconstrued a lesson and the river now means to test you on it twice. Sula takes one look at the piece and the strain in your shoulders and prescribes a rite of patience before any ink is woken, which costs you a night’s rest and earns you back a measure of calm. Tholl’s praise is short and edged, yet he sees you rebuild the nest’s rim with trembling care and says that sometimes speed is a mercy, provided you pay the tithe afterward; the watch will remember both acts. A faint line from the under-mud debate lodges in your ear like a tune you cannot shake, whispering that virtue is a currency one must spend to purchase peace, and you find yourself arguing back out loud until the words dull. The charts darken after the rite and the verses take, but you carry a reminder that impatience collects interest and that kindness paid late is still a payment, not a pardon. At the Ember Gate, scrutiny eases because you show your hands open and your halts precise, and the gate knows the difference between a smuggler’s hurry and a penitent’s pace."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Knowledge",
+            "description": "Reactivated survey charts revealing drought-safe shallows, granting a reliable navigation advantage along the Low Veyne."
+        },
+        {
+            "type": "Consumable",
+            "description": "A vial of storm-stone memory oil that strengthens and prolongs the durability of recorded patterns and awakened inks."
+        },
+        {
+            "type": "Reputation",
+            "description": "Respect of Tholl’s watch, resulting in reduced scrutiny and swifter passage at the Ember Gate."
+        }
+    ]
+}

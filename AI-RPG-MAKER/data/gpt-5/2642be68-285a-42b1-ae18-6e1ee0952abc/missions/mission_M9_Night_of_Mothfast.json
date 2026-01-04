@@ -1,0 +1,44 @@
+{
+    "id": "M9",
+    "title": "Night of Mothfast",
+    "quest_giver": "Lysa Curren",
+    "description": "The palimpsest’s reading and the runecap’s hum agree: a lightwell is widening beneath the Prism Spire, and every lit lamp feeds it a heartbeat. The Order proposes a Mothfast—a citywide dark of one night—to starve the widening and reset the tone. Lysa Curren, hard-nosed and practical, asks you to broker the fast with guilds and quays so furnaces don’t crack and children don’t go hungry. The Wardens fear a night of unlit streets; the Veil tastes opportunity; the Tidewrights bristle at being told how to schedule the river’s breath. You will carry a bell-chart endorsed by the Order and the Exchange, and you will pin it to doors that do not like to be pinned.",
+    "objectives": [
+        "Present the Mothfast proposal to the Lantern Court and secure provisional sanction.",
+        "Negotiate with the Wardens of the Windward for patrol coverage in the dark.",
+        "Win the Salted Compact’s commitment to run relief quietly during the fast.",
+        "Ensure the Guild of Glassreed Weavers can bank furnaces safely for one night.",
+        "Deter Smoulder Veil arson attempts during the fast and keep the peace."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lysa Curren",
+            "line": "You bring me a night with no light, and I bring you windows that don’t sing themselves to pieces. I can cool furnaces if you promise me pilots who don’t sleep and moth-keepers who keep their promises. I don’t deal in omens, Kade. I deal in cracking points and how to avoid them."
+        },
+        {
+            "speaker": "Aren Mir",
+            "line": "The Captain will call me mad for agreeing to patrol a city that hid its own eyes. But I’ve walked worse nights with you at my shoulder. Give me routes, not poems. If a mask lights a match in Quiet Walks, I want to know how long it will take me to land a skiff on his head."
+        },
+        {
+            "speaker": "Jalen Sarq",
+            "line": "Mothfast is a tasty word. It sounds like silence and smells like doors left on the latch. I can promise you my people will leave the furnaces to their dreams and keep the underquay calm. In return, I want a Night Tax that doesn’t bind us like a docked barge. You don’t have to say yes now. Just don’t say no when we come back with contracts."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "This is one night, not a new law. We starve a hunger under the Spire and wake with a city that still belongs to itself. Wardens fly; pilots steer; Weavers cool; Veil behaves. If anyone tries to set a new schedule by the dark, I’ll break their bell by morning."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        "Guild of Glassreed Weavers upgrade: your singing-glass lamellar is re-tuned (improved impact dispersion)",
+        "Citywide goodwill: reduced hostility at night checkpoints for a time",
+        "Order of Moths boon: a bell-tone recorded into your runecap for later use"
+    ]
+}

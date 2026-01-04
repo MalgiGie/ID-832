@@ -1,0 +1,58 @@
+{
+    "name": "Seresya",
+    "surname": "Thorn",
+    "race": "Human (Skyscribe)",
+    "age": 36,
+    "appearance": "Wind-chapped skin, isobar tattoos along both forearms, triple-braided hair threaded with weather charms.",
+    "character": "Candid, ethical, and obsessively accurate; would rather lose face than lie to the wind.",
+    "traits": [
+        "Meticulous",
+        "Prophetic dreamer",
+        "Melancholic humor",
+        "Principled"
+    ],
+    "skills": [
+        "Kite reading",
+        "Cloud augury",
+        "Wind-jurisprudence timing",
+        "Whisperstone mapping"
+    ],
+    "talents": [
+        "Eidetic recall of cloud forms",
+        "Hears verdict bells across districts",
+        "Reads microgusts on skin"
+    ],
+    "flaws": [
+        "Blunt to the point of offense",
+        "Insomnia",
+        "Distrusts mirror augury"
+    ],
+    "dreams": [
+        "Heal the Skyscribe schism",
+        "Chart a safe path for a controlled drift",
+        "Publish a true calendar free of guild pressure"
+    ],
+    "secrets": [
+        "Tested forbidden ten-knot vectors alone atop a weather tower",
+        "Altered a forecast to save a lover’s crew",
+        "Keeps a hidden whisperstone to talk with steppe shamans"
+    ],
+    "relations": [
+        {
+            "npc_name": "Erynn Sythar",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Kesh Storm-Runner",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Yassa Nim",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Istel Shardwright",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

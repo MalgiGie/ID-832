@@ -1,0 +1,62 @@
+{
+    "name": "Bellkeeper",
+    "surname": "Dorn",
+    "race": "Human",
+    "age": 44,
+    "appearance": "Barrel-chested with bell-chime tattoos on his palms, soot-streaked robe hems, and a limping left knee.",
+    "character": "Jovial off-duty, solemn when the bells must speak.",
+    "traits": [
+        "Loyal",
+        "Observant",
+        "Brave",
+        "Humble",
+        "Devoted to craft"
+    ],
+    "skills": [
+        "Bell tuning",
+        "Structural listening",
+        "Crowd calming",
+        "Shrine maintenance",
+        "Emergency signaling"
+    ],
+    "talents": [
+        "Rings sequences that soothe mobs",
+        "Feels fracture paths through the soles of his feet"
+    ],
+    "flaws": [
+        "Bad knee",
+        "Too trusting of divers’ tales",
+        "Fear of deep water"
+    ],
+    "dreams": [
+        "Train a new generation of bellkeepers",
+        "Synchronize the Loom and shrine bells safely",
+        "Earn the Starspan’s silence for one whole night"
+    ],
+    "secrets": [
+        "Hides a cracked bell that mimics a forbidden Loom note",
+        "Sings a lullaby to the arch that the Order forbids, claiming it keeps the stone asleep"
+    ],
+    "relations": [
+        {
+            "npc_name": "Asha Greyling",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Magister Vell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ressa Quay",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Pika Jinn",
+            "relation_type": "Different goals"
+        }
+    ]
+}

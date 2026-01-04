@@ -1,0 +1,92 @@
+{
+  "id": 10,
+  "title": "Crown of Cirrus",
+  "quest_giver": {
+    "name": "The Sailor of the Ninth Knot",
+    "affiliation": "The Unmoored"
+  },
+  "description": "The Crown of Cirrus takes seven minutes to pass a city’s brow, and in Ankharion those seven minutes spool out like a consecrated cable over the void. Bells hush and wind-harps lean their songs to the same note while the nine anchor-chains hum, and every pulley and oathmarked brace remembers the hands that blessed them. On the margins of Anchor Three the scaffold breathes with the crowd below, and the Chain Cathedral’s great bell, the Hinge, holds its tongue as if the Old Song itself is listening for a new chord. Kites burst from rooftops like silver fish leaping, reading the veil’s thin eddies; Skyscribes scribble frantic confirmations, their braided cords flicking as gusts wrap around the amphitheater of the Wind Court. The Anchorworks crews call cadence, and the Ribbon-bridge hawkers fall quiet as Ovelle’s teams dance along tethers with cloudfruit cords between their teeth, knives flashing only when a line must be cut and re-tied in one breath. Kesh Storm-Runner counts lightning strikes across the Stormsteppe and whistles into a whisperstone ring, guiding thunderherds away from charge lines that would foul the ground anchors’ field. In the lens quarter of the Sky Market, Istel Shardwright lowers the Cirrus Splitter Lens into its copper cradle, and the skyglass sings with interference patterns like the skin of a sleeping sky-whale; every flicker maps an oscillation that could become a yaw. Arch-Warden Mael Iqiren stands at the emergency brake with hands that know the weight of cities and the price of letting hope outrun proof, and his Chainwardens sound off each micro-pause ready-call with voices honed in prayer and practice. Through a brass voice-pipe no one can quite find, the Sailor of the Ninth Knot speaks like a tide around pilings, and the test sequence uncoils: Erynn Sythar plants tuning rods into anchor plates and etches a ten-knot diagram that no law permits and no weather-clerk will admit to reading. The hum wakes under Lyris’s gloved fingers as if the chain remembers the touch of a different era, and the hum becomes a chord as cloudfruit lines are knotted to aerolith nodules with a ritual precision that sits somewhere between calculation and faith. The city moves a hair, a breath, a promise, and for the length of a heartbeat Ankharion is not anchored but alive, drifting at the edge of a decision that has been three centuries in coming and seven minutes in proving.",
+  "objectives": [
+    "Climb Anchor Three’s outer scaffold and tie the partial-release sequence with Erynn’s tuning rods and Ovelle’s cloudfruit lines.",
+    "Coordinate with Kesh Storm-Runner to adjust ground anchors in response to thunderherd shifts.",
+    "Use the Cirrus Splitter Lens to monitor oscillations and signal Arch-Warden Mael for micro-pauses.",
+    "Ride out the induced yaw by redistributing lift via aerolith nodules and cloudfruit cords along the test chain.",
+    "Rebind the Nine Knots in their test configuration and confirm stabilization before the Crown passes."
+  ],
+  "dialogue": [
+    {
+      "speaker": "The Sailor of the Ninth Knot",
+      "lines": "Breathe with the chain, Lyris, and count your breaths in links rather than seconds..."
+    },
+    {
+      "speaker": "Arch-Warden Mael Iqiren",
+      "lines": "I have never hated the sky, girl, but I have respected its appetite and I have counted its teeth..."
+    },
+    {
+      "speaker": "Ovelle Kite",
+      "lines": "Hands to lines, eyes to knives, and teeth to cords only when I shout..."
+    },
+    {
+      "speaker": "Istel Shardwright",
+      "lines": "The Cirrus Splitter Lens is seated, the copper cradle is grounded, and the skyglass has taken the veil’s measure..."
+    },
+    {
+      "speaker": "Kesh Storm-Runner",
+      "lines": "Your city hums like a fat thunderbeast settling into the grass..."
+    },
+    {
+      "speaker": "Erynn Sythar",
+      "lines": "These tuning rods are not prayers, they are mathematics hammered into crystal..."
+    },
+    {
+      "speaker": "Yassa Nim",
+      "lines": "I cut you free once in a night full of bells, little chain ghost..."
+    },
+    {
+      "speaker": "Lyris Kael",
+      "lines": "Old Song, don’t fail me, and if you do, fail me gently..."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Signal the first micro-pause early",
+      "text": "You steady the chime and send the prearranged triple-note to Arch-Warden Mael a heartbeat before Istel’s lens pattern completes...",
+      "outcome": "Mael’s pause cuts a nascent eel-curve off at the head, shaving dangerous amplitude from the first yaw..."
+    },
+    {
+      "id": "C2",
+      "title": "Divert more lift to cloudfruit lines at the peak of yaw",
+      "text": "You make a swift, decisive choice and pull from the aerolith nodules’ reserve...",
+      "outcome": "The induced yaw smooths into a wide, supple curve that settles rather than builds..."
+    },
+    {
+      "id": "C3",
+      "title": "Confide the ten-knot hum to Mael in the moment",
+      "text": "You lean into the voice-pipe and speak softly but fully, telling Arch-Warden Mael that the hum under your gloves is not a ghost...",
+      "outcome": "Mael’s answer binds you both: proceed under my eye, and do not make me regret calling courage by its right name..."
+    }
+  ],
+  "connections": {
+    "previous": ["9"],
+    "next": ["11"]
+  },
+  "rewards": [
+    {
+      "type": "Discovery",
+      "description": "Proof-of-concept data: Partial unmooring successful within safe tolerances."
+    },
+    {
+      "type": "World State",
+      "description": "City drifted a measurable span without catastrophic stress, inspiring public awe and provoking factional alarm."
+    },
+    {
+      "type": "Title",
+      "description": "Workers whisper a new epithet for Lyris: Chainwalker."
+    },
+    {
+      "type": "Access",
+      "description": "Arch-Warden grants supervised access to Anchor schematics for further tests."
+    }
+  ]
+}

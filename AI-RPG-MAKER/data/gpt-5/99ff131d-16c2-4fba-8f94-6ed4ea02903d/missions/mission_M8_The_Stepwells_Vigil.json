@@ -1,0 +1,40 @@
+{
+    "id": "M8",
+    "title": "The Stepwell’s Vigil",
+    "quest_giver": "Kael Orisborn",
+    "description": "At the Stepwell of Oris, the city remembers thirst in a thousand steps. Kael Orisborn has posted wardens and petitions both, but drought cultists braid austerity into zeal, sealing steps with traps and scripture knives. Pilgrims descend in quiet lines with mirrored bowls, and the water at the bottom gleams like truth no one can afford. You must keep the vigil from becoming a riot, unspool the traps without mocking piety, and make room for a dusk-rite that tastes like compromise. If the well accepts a song and a law in the same hour, the city might accept it too.",
+    "objectives": [
+        "Disarm three booby-trapped steps without startling the pilgrim line.",
+        "Confront the drought cult leader Lune Arikara’s estranged cousin in a ritual debate.",
+        "Allow Seru Chime to perform a brief fog-rite sanctioned by Kael.",
+        "Recover the cracked mirrored bowl shard of Oris for use as a lawful-swearing token."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Kael’s voice carries the weight of a man who has learned to be disliked without becoming cruel. \"I will not turn a vigil into theater. I will not turn a faith into a faucet. But I will not let a child break her neck on a step trapped by a man who thinks injury is a lesson. Help me hold the middle. If the Covenant wants a verse, give them one verse under my law. If the cultists want pain, they can have mine: the pain of watching their grip fail.\"",
+        "hero_reply": "Tallea nods, the old knot of rivalry loosening a little. \"I’ll cut the wires, not the faces. I’ll count the steps like a warden and the breaths like a singer. If the well accepts a shared bowl at dusk, I want you there to see that a rite can obey a ration. And if anyone throws my name into your politics after, I’ll stand in the Courts beside you and sing what I saw.\"",
+        "npc_interjections": [
+            {
+                "name": "Seru Chime",
+                "line": "Seru’s song warms the stone. \"We do not ask to drown the well in wish. We ask to speak our grief into it so we do not pour it into each other. If we can’t sing here, we will sing somewhere you do not like, and the city will hear us either way.\""
+            },
+            {
+                "name": "Thren Basso",
+                "line": "Thren watches the line from the shade. \"I can hold people by force for a day. You hold them by meaning for a season. If you botch the meaning, I’ll be back with ropes and apologies.\""
+            }
+        ],
+        "ambient": "The well’s spiral smells of cool stone and old stories. Every step down is a memory of thirst, every step up a promise not to forget."
+    },
+    "connections": {
+        "previous": "M7",
+        "next": "M9",
+        "related": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        "Experience: 600",
+        "Oris Mirror Shard (oath-binding focus)",
+        "Reputation (Aquifer Collegium): +8",
+        "Reputation (Veil Covenant): +8"
+    ]
+}

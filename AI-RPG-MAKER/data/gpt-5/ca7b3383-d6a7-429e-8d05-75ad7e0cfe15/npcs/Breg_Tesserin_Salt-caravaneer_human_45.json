@@ -1,0 +1,62 @@
+{
+    "name": "Breg",
+    "surname": "Tesserin",
+    "race": "Salt-caravaneer human",
+    "age": 45,
+    "appearance": "Sun-seared trader, mirrored scarf wrapped at the throat, salt cracks lining knuckles, and sand-sledge goggles hanging from a leather ring.",
+    "character": "Charming until price is spoken; then the desert in him shows.",
+    "traits": [
+        "convivial",
+        "thrifty",
+        "proud",
+        "superstitious",
+        "stubborn"
+    ],
+    "skills": [
+        "mirage navigation",
+        "sand-sledge handling",
+        "hard bargaining",
+        "desert survival",
+        "sun-salt grading and packing"
+    ],
+    "talents": [
+        "counts heat by touch",
+        "reads cloud shadows to find safe lanes"
+    ],
+    "flaws": [
+        "miserly in crises",
+        "cuts safety corners",
+        "nurtures grudges over underweights"
+    ],
+    "dreams": [
+        "to launch a salt-backed scrip recognized citywide",
+        "to find the noon-hidden palace of Queen Tesser"
+    ],
+    "secrets": [
+        "runs a second-scale skimming ring with Sere Vell",
+        "left a rival to a salt squall and keeps the memory in a shard",
+        "carries a memory stolen from the Glass Sea beneath his tongue"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sere Vell",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Neris Undersong",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Rukha Mossbank",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Yevra Ashleaf",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Vara Keshlin",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

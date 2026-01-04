@@ -1,0 +1,44 @@
+{
+    "id": 10,
+    "title": "Parliament of Tides",
+    "quest_giver": "Yasma Brine",
+    "description": "The basins brim with delegates and accusations. The counterfeit brine jars, the wind-named councilors, and whispers of a new channel twist the day into a storm. Yasma Brine summons Sere to stand near her as a shield and a witness. The motion on the floor is to cede emergency authority over the Heartward Engine to a commission chaired by the Ember Collegium, with the Wardens as enforcers. The Tidemothers threaten to withdraw rites if it passes. The Ferryman’s prophecy has drifted through the reeds and into the city: seat him at the next basin vote. Whether or not he appears, the choice will send ripples to every rib in Marrowgate.",
+    "objectives": [
+        "Present the counterfeit brine ledger and jars to the Parliament without igniting a riot.",
+        "Read the wind-harp names into the record and demand a pause for omens.",
+        "Arrange a chair at the basins for the Ferryman Without Wake and hold the floor long enough for silence to take root.",
+        "Ensure the vote creates a balanced steward’s circle rather than a single guild’s rule."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Yasma Brine",
+            "text": "Stand at my left where the light makes you look larger and my rivals feel smaller. I am not here to win a crown for salt. I am here to keep bread from marrying rumor and birthing panic. If I lean on your shoulder, it is not because I need holding up; it is because your steadiness teaches people to count their breaths before they tip a jar. Do not let the glassmakers trick this city into drinking fire with its law."
+        },
+        {
+            "speaker": "Isera Bent-Pike",
+            "text": "The Wardens will not break skulls for a vote unless the vote is breaking the city. I will have my pikes lined but pointed down. If the Ferryman walks in here, I will pretend I do not see him as long as he sits quiet. If anyone throws red into a basin to see blood instead of law, I will carry them out by the ear like a street brat."
+        },
+        {
+            "speaker": "Sere Kallin",
+            "text": "We have proof that color was ready to lie for coin. We have names that the wind risked its pride to sing aloud. We have a river mouth that is humming like a new tooth. We can either build a circle of hands to hold this city through its fever or we can give the hottest head a scepter and ask it to spare our beds from fire. I know which choice lets us sleep."
+        }
+    ],
+    "connections": {
+        "previous": [
+            2,
+            8
+        ],
+        "next": [
+            11,
+            12
+        ],
+        "related": [
+            6
+        ]
+    },
+    "rewards": [
+        "A formal writ naming you River-Steward’s Blade with authority to act across guild lines during crisis",
+        "Protection from Parliament reprisals when operating under the writ",
+        "Quiet gratitude from multiple factions for averting a power grab"
+    ]
+}

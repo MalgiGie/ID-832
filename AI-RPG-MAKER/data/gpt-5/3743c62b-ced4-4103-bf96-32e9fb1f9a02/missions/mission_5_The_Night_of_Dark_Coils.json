@@ -1,0 +1,45 @@
+{
+    "id": 5,
+    "title": "The Night of Dark Coils",
+    "quest_giver": "Greydin Korr",
+    "description": "The Lantern Yards’ sheds glow like low suns, copper spires hissing, while the city’s shadows crowd beneath. Greydin Korr, a foreman with burned hands and a gentler voice than his jaw suggests, needs a condenser coil moved under the Mirefurl Docks before the Syndic’s tariff squeeze cuts his night shift. Kesh runs escort on windroads below, blinking signal-lamps to whisperstone beats. Halfway there, Syndic press-gangers appear with reed-boat hooks and a letter of marque, and from the catwalk above comes the scent of orchids and a sound like the memory of a bell—Seresya Thorn and her rogue cell, eager to borrow the coil in exchange for future silence. Lyris must keep the coil alive without letting it become a weapon against the city she is trying to save.",
+    "objectives": [
+        "Collect the condenser coil from Greydin Korr at the Lantern Yards and secure it with cloudfruit lines.",
+        "Coordinate with Kesh Storm-Runner via whisperstone for ground-level diversions.",
+        "Repel a press-gang attempt by Syndic hires near Mirefurl Tower Two without escalating to lethal force.",
+        "Decide whether to allow Seresya Thorn to copy the coil’s plating pattern on-site or deny Orchid interference entirely.",
+        "Deliver the coil to the hidden berth near Mirefurl Tower Three and confirm Greydin’s receipt."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Greydin Korr",
+            "lines": "Storm-oil makes brave men stupid and careful men saints. This coil will make sure children in the tower blocks can read at night and the winches don’t cough when it blows. I don’t care about guild wars; I care that the lights come on when we say they will."
+        },
+        {
+            "speaker": "Seresya Thorn",
+            "lines": "Do not mistake me for charity. I will not take the coil, I will only look at it until my eyes remember the plates. My Matron wants a sketch, and I would rather draw than bleed. But if you say no, I will not ask twice, and the next thing that knows your name will be a chime."
+        },
+        {
+            "speaker": "Kesh Storm-Runner",
+            "lines": "Press-gangers ahead. Two boats, one flag, three men who cannot strike straight when the wind is cross. Give me a whistle and I’ll wrap them in reeds like fish. I’d rather not spill blood for a tariff written by a man who has never slept in a barn during a lightning squall."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "No one bleeds tonight if I can help it. You get your sketch, Thorn, or you don’t, depending on whether you can keep your knives in their sheaths. Greydin, keep the coil’s heart warm; if it goes cold, all of this becomes principle instead of light."
+        }
+    ],
+    "connections": {
+        "previous": [
+            4
+        ],
+        "next": [
+            6
+        ]
+    },
+    "rewards": [
+        "2 phials of refined storm-oil (utility consumables)",
+        "Lantern Yards favor (priority refuel in emergencies)",
+        "Night Orchid leverage token if Seresya was allowed a sketch (or grudging respect if denied)",
+        "Hidden berth access at Mirefurl Tower Three confirmed for future use"
+    ]
+}

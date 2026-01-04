@@ -1,0 +1,59 @@
+{
+    "name": "Pera",
+    "surname": "Thass",
+    "race": "human",
+    "age": 52,
+    "appearance": "Shaved head and throat tattooed with chant-lines. Wears cool linen and a brass counter ring. Voice like a well: deep and steady.",
+    "character": "Serene, precise, and stern when quotas waver. Treats water as covenant and song as law.",
+    "traits": [
+        "meticulous record-keeper",
+        "stops to listen before speaking",
+        "collects broken cup handles",
+        "sips only measured cups in public"
+    ],
+    "skills": [
+        "flow regulation and chant-cadence",
+        "ration adjudication",
+        "crowd calming",
+        "dispute mediation"
+    ],
+    "talents": [
+        "whistle harmonics that quiet restless lines",
+        "hears leaks through bone a wall away"
+    ],
+    "flaws": [
+        "uncompromising on rules",
+        "slow to forgive theft",
+        "seen as temple-leaning by skeptics"
+    ],
+    "dreams": [
+        "Insulate Water Oaths from political meddling",
+        "Train a new generation of chant-leaders from the Under-Ribs"
+    ],
+    "secrets": [
+        "Uses knowledge of the hidden overflow pool to erase debts for those she deems worthy",
+        "Sang the Gate’s warning chord a bell early during a ration riot, breaking protocol"
+    ],
+    "relations": [
+        {
+            "npc_name": "Prelate Lys Amon",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Legate Tharn Corvell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Serge Kobb",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Edda Tarn",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Zexi Orr",
+            "relation_type": "Friendship"
+        }
+    ]
+}

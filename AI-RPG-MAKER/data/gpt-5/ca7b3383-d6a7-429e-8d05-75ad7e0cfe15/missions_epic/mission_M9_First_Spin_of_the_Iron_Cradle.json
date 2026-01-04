@@ -1,0 +1,86 @@
+{
+    "id": "M9",
+    "title": "First Spin of the Iron Cradle",
+    "quest_giver": {
+        "name": "Ilara Embervein",
+        "affiliation": "Oracle Loom"
+    },
+    "description": "The borrowed testing bay in the Chainquarter breathed like a sleepless animal, all heat and rhythm and the faint sweetness of oil seeping into ancient stone. Chains whispered through the rafters as counterweights settled, and the copper ribs of a vent-shroud glowed dull as an ember at dusk. Ilara Embervein rolled up Loom-woven sleeves whose glass fibers sang quietly when the air shifted, cinder marks pulsing along forearms in answer to the engine’s exhale as if the skin itself kept time with the city. Star-crystal facets gleamed where you had set them into the ring, each tooth of light drinking the room and giving it back as a steadier breath, and the Feathered Gyre sat in the heart of the frame like a quiet oath made to motion. You laced ember-threads in arcs that remembered river eddies, humming the map-song your mentor taught you and feeling the frame gather a wanting, a patient tilt toward movement, as if stillness were a story it politely suffered. Outside the open door, boots paused in mid-stride the way people do when they feel a draft of fate, and Sere Vell leaned in wearing a smile that could have meant kindness or bookkeeping, offering a warning shaped like a favor and a favor shaped like leverage. Moments later, Nemra Coil’s procession flowed in soft-footed as fog, Orphans laying iron feathers in a careful crescent and humming an old Coilnight rhyme that smelled of ash-bread and smokeherb and promises made on rooftops. When you thumbed the gyre, the cradle turned with a lifting sigh and the air around your horns shivered, not as metal shivers under strain but as water shivers when a stonewhale sings upstream, and in the thin bright hush afterward you would have sworn a distant heart answered. The city seemed to lean in from its terraces and tunnels, waiting to see if Skarnhold’s old bargain would learn a new rhythm and if your hands and their politics could keep time.",
+    "objectives": [
+        "Assemble the Iron Cradle prototype with Ilara Embervein using the Feathered Gyre and star-crystal facets.",
+        "Calibrate the cradle with the Loom’s First Harmonic Coil and the Singing Gate intervals at low power.",
+        "Prevent sabotage by identifying and disarming a sand-sugar dump aimed at fouling the bearings.",
+        "Invite Nemra Coil to perform a Pact blessing and decide whether to credit the Orphans publicly.",
+        "Record full spin data in a neutral ledger for cross-guild review."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ilara Embervein",
+            "lines": "Every city is a nest of spinning debts, but today we set a kinder wheel moving and ask it to remember why the first pulley turned. Feel the frame with your palms and hear how it lies about stillness, because even at rest it counts itself forward like a pilgrim pacing prayers. We feed that hunger with geometry and patience, not speed, and we teach it the river’s courtesy by wrapping the First Harmonic Coil around its temper. The star-crystal teeth will drink the room’s waste-heat and whisper it to the gyre so the lift of motion doesn't come like a shout that cracks the rafters. If the old pact has any breath left in it, it will travel along these threads and find a place to nest in bearings that know respect. I will speak for the Loom when the time comes to sign, but the signatures that matter are the ones the machine writes into the workers’ bones when they step near it and do not flinch. Remember that our work is not a sermon shouted at the Chainwrights but an invitation set gently on their bench and left warm enough that they cannot help but sit."
+        },
+        {
+            "speaker": "Sere Vell",
+            "lines": "I will not insult you by dressing this in charity, because my ledger has your name in it and that is a truth whether I am saint or thief. This warning is free only in the way a whistle is free, because if the train slows before the cliff then all our cargo arrives together, and that pleases me more than watching the fall. Someone in a cleaner coat than mine wants your bearings sugared like festival bread, the crystals dusted with sand-sugar that looks like grit and tastes like victory, and once it melts into the grease it puffs and gums and grinds itself into a confession at exactly the wrong moment. Check the grease for grit and check the grit for sweet, and if your tongue goes numb then your enemies are better cooks than engineers. Do your checks twice and pretend you are checking thrice while you watch the doorway, because the one who hates your spin the most will hate the delay even more. When you find the packet you will find the messenger, and when you find the messenger you will find a purse that knows a guild by scent, and then you will need to decide whether truth buys you more than silence."
+        },
+        {
+            "speaker": "Nemra Coil",
+            "lines": "We lay iron feathers to remind heavy things of their better nature, because even a chain can learn to rise if it is taught the shape of a wing. We sing not to make you ours, but to make you remember who you already are in the story the founders wrote with heat and hunger and a promise to a wounded guardian. If your cradle is meant for an egg then our hands will be a hearth and our breath will be the mercy that does not demand a tithe before it warms. We will stand by and not in front, and we will lift when you strain and hush when you focus, and we will take our blessing back quietly if it ever becomes a banner that frightens the people you must persuade. Name us if it protects the work and anonymize us if it protects the peace, because the pact cares for the tending more than the credit. The only thing we ask is that when the cradle spins with the weight it was meant to carry, you do not let fear flatten it back to a table out of convenience and you do not let profit tie a toll to its heartbeat."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "lines": "Let the record show the cradle spun true at low power and held the Loom’s First Harmonic without ripple-tear, and let it show that the Singing Gate intervals were introduced in thirds and answered in kind. Let the record show that attempted fouling was spotted and cleared, the sugar-sand packet recovered unspent, and the bearings washed with solvent and prayers until they hummed like a quiet street at dawn. Let the record show that the Pact’s rhyme ran along the rim without raising a blister in the threads or a quarrel in the room, and that the blessing was given without price and taken without debt. Let the record show that the data quills marked torque, surge, and grace in a neutral ledger set between guild seals, and that the margins were left blank where gossip tries to sneak in as proof. Let the record show we are not children playing with a story but caretakers keeping a promise in motion, and that any name written below this line is written to guard a breath that belongs to more than any single house."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Name the Blessing under the Pact",
+            "text": "You decide to speak the Orphans’ name aloud when the time comes to log witnesses, and you do so with the calm weight of someone who has measured the wind and trusts the rope. You lift the neutral ledger and read Nemra Coil’s name and those of her companions with care, setting each like a rivet in the page until the binding warms under your fingers. You explain that a blessing given in daylight needs no apology and that the Pact is not a secret to be traded in alleys, because Skarnhold survives when its bargains are sung, not whispered. You look to Ilara and the Chainwrights and ask that the machine remember the hands that steadied it, because a city that forgets its servants finds its pulleys rusted and its food spoiled. You accept that Emberwatch eyes will narrow and a few Salt Charter scribes will chew their knots, but you refuse to let fear edit the truth of who showed up with iron feathers when the bearings needed courage.",
+            "outcome": "The Orphans of Aelmyr glow with the serious pride of people whose labor has been seen, and Nemra offers to place volunteers near the Chainheart on spin days to sing the heat into better manners. Emberwatch officers mark the page with a frown and a note to review procession permits, but the Citadel keeps its distance because the ledger bears three guild seals and the optics of a raid would scorch the wrong fingers. The Chainwrights grumble in a way that means they are thinking, and two apprentices who look like yesterday’s skeptics sidle closer to feel the rim’s quiet tremor with their palms. Sere Vell watches, amused as a cat near a gearhouse, and slides you a slate that lists names of sugar sellers whose ledgers suddenly grew shy, a quiet acknowledgment that public light has uses even in shadow. Your reputation with the Orphans rises with the steady surety of a counterweight lifting, and the city hums with a rumor that the Pact’s children and the Loom’s acolytes can share a bench without setting it on fire."
+        },
+        {
+            "id": "C2",
+            "title": "Record a Blessing, Withhold the Name",
+            "text": "You choose to mark the presence of a Pact blessing without inscribing its singers, arguing gently that sometimes the city’s most faithful work is done behind a veil and stays truer for it. You write that a blessing was given at first spin and that it ran clean without claim or counterclaim, and you leave the witness line blank but for a small iron feather glyph drawn in ash-ink. You tell Nemra Coil face to face that your discretion is a fence against the city’s hungers, because some factions would burn a stable shed if they saw a dragon’s shadow in the rafters. You assure Ilara that the data is still neutral and exact, and that any mathematician can reproduce the calibrations without knowing which throat carried which note. You promise yourself that you will spend your credit not on applause but on time, because time is the only currency that keeps an egg warm enough to wake.",
+            "outcome": "Nemra thanks you with the complicated relief of someone who has been forced to wear names as armor and would rather walk in her own skin, and the Orphans fold their iron feathers back into pockets with a private smile. The Chainwrights nod at the restraint and one elder engineer signs the ledger with a steadier hand, because fewer banners means fewer riots and fewer riots mean fewer broken tools. Sere Vell drifts close and murmurs that silence can carry farther than trumpets if you hum the right pitch, then slips you a chit promising a clean test window free of petty pranks. Emberwatch notes the absence of names and, finding no foothold for a public scolding, occupies itself with inspecting extinguishers rather than pieties. Your standing with the Orphans still rises, because trust is a better advertisement than a placard, and your project accrues a thin, protective mist of being about the work rather than the noise."
+        },
+        {
+            "id": "C3",
+            "title": "Ring the Price-Bell and Expose the Sugar-Hand",
+            "text": "You carry the recovered packet to the Saltfold Exchange and demand the Price-Bell, because some poisons belong in the market’s mouth where all can taste the bitterness. You lay the sand-sugar on a brass plate and ask the clerks to read its provenance, and when their mirrors wink toward the counting floor you plant your feet like a mast set for weather. You speak not of villains but of incentives, explaining that a city that taxes its engines with fear will bankrupt its courage, and you do so in long sentences that leave no quick exits for polite cowards. You name no names until the scales themselves sing, and they do, because the knot-ledgers remember who ordered the sweet grit and whose runner carried it through a gate. You ask for a fair fine payable to the Chainheart safety fund and a public apology to be written in the Exchange minutes, not to humiliate but to remind everyone that Skarnhold’s bargains do not include the right to break the city and call it competition.",
+            "outcome": "The Exchange’s minutes crease around your demand and then accept it like a dock taking a heavy boat, and the guilty buyer pays with a pale face and a hand that shakes enough to be instructive. The Salt Charter grinds its teeth but prefers a controlled scandal to a rumor it cannot price, and the River Covenant pilots buy you a warm beer at the Underrun for making a noisy mess in the correct room. Sere Vell shrugs and says that honest bells make honest echoes, and she promises that your next test window will be watched by quiet eyes who would rather keep business alive than score a petty revenge. The Chainwrights send a safety inspector who actually inspects, and he leaves a small bag of clean bearings with a stamped note that says use these if yours look tired. The city notices that the Iron Cradle has a spine as well as a song, and your ledger entry carries a weight that makes future saboteurs check their own pockets for sand before they try yours."
+        },
+        {
+            "id": "C4",
+            "title": "Turn the Trap Quietly and Follow the Purse",
+            "text": "You keep the packet in your sleeve and scrub the bearings clean, then replace the bait with powdered glass that will glitter under lamplight but do nothing worse than itch. You ask Sere Vell for a shadow’s hour and she obliges with a nod that says debts can be paid in silence as well as coin, and you sit in the dark and listen to engines breathe until a hand moves where it shouldn’t. You let the saboteur work long enough to mark his pattern and you follow him not with boots but with attention, because attention is a net the river taught you to weave. You trail him through the Chainquarter’s gantries to a counting nook where a broker with soft fingers passes him a purse that smells of salt and ink and a life lived indoors. You sketch their faces in ash-ink on your palm and you decide that public humiliation will make them clever while private leverage will make them useful, and you prefer useful when eggs are on the line.",
+            "outcome": "You trade the sketches to Sere Vell for a thin promise written in thicker ink, and she arranges for the broker to have a very unlucky week of failed appointments and wrong doors until he learns a gentler way to calculate risk. The runner who took the purse finds better work as a rigger’s porter because you quietly introduced him to a Chainwright foreman who values nimble fingers on the right side of the ledger, and a problem turns into a pair of hands that now watch your bearings like they were kin. The Salt Charter’s local buyer does not see prison, which avoids a riot, but he does see his margins thin to something like repentance, and his name becomes a cautionary flavor in every deal he tries to season. Ilara notes that the Loom prefers outcomes that reduce heat rather than increase it, and she signs your ledger with a steadier breath. Sere Vell honors her chit for a clean test window, and petty sabotage fades from your periphery long enough for data, not drama, to fill your pages."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "prototype",
+            "description": "Iron Cradle prototype operational and capable of sustained low-power spin aligned to Singing Gate intervals."
+        },
+        {
+            "type": "document",
+            "description": "Neutral testing ledger signed by Loom, Chainwright, and Orphan witnesses, with complete spin, torque, and harmonic data."
+        },
+        {
+            "type": "reputation",
+            "description": "Reputation increase with the Orphans of Aelmyr for honoring the Pact’s blessing and safeguarding the work."
+        },
+        {
+            "type": "protection",
+            "description": "Quiet protection from Sere Vell against petty sabotage for one test window, reducing interference during critical trials."
+        }
+    ]
+}

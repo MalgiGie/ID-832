@@ -1,0 +1,38 @@
+{
+    "id": "M3",
+    "title": "Breath Below the Harps",
+    "quest_giver": "Ayo Solace",
+    "description": "Ayo Solace proposes a remedy with equal parts science and scandal. The Syrinx Wind Courts are tuned in public, but under the flutes lies a sealed subchamber that hoards the city’s breath—the same illicit cache Tallea once dared to steal from. A controlled draw from that chamber, Ayo claims, could be mixed with enzyme and echo-stone to make a calibration tincture for the Heliolith’s pulse. But the Ledger keeps keys and schedules, and a single misstep in timing will spill the plan into the harps where truth becomes case law. To listen under law is to skate on glass humming with power.",
+    "objectives": [
+        "Acquire a midnight access window to the Syrinx subchamber by persuading wind-scribe Rhyss Quell.",
+        "Synchronize with the aeolian harps and open the subchamber between notes without tripping the bell-scribes.",
+        "Mix a small vial of breath-tincture using Solace enzymes on-site.",
+        "Evade Ledger auditors led by Dorel Glassant and exit before the hour turns."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Ayo leans close enough for her balm to cool your cheek. \"I will not sanctify theft, Tallea. But I will sanctify a cure. The Courts have been collecting our breath for years in the name of record. If we draw a cup and return a cure that steadies the Courts themselves, who can object with a straight face? You time the lulls better than any clerk alive. I can mix the breath into a tincture that will teach your fork the city’s average note. Meet me at moon-tier, and bring courage dry enough not to squeak.\"",
+        "hero_reply": "Tallea’s throat tightens around a memory of a stolen vial. \"If I step under the harps, I will hear every lie I ever spoke echo back at me. I’ll still go. Rhyss owes me a favor for the chain-pass audit and he hates the Ledger’s long fingers as much as I do. We do this clean, Ayo. If the harps catch us, we speak the plan aloud and dare the city to call it a crime.\"",
+        "npc_interjections": [
+            {
+                "name": "Rhyss Quell",
+                "line": "Rhyss rubs the back of his neck where ribbon burns scar his skin. \"You’re asking me to breathe wrong in the very place I teach people how to breathe right. Fine. I’ll hold the lull open for a count of seven. If you miss it, I will testify we came to fix a leak, and I will hate you for making me lie so pretty.\""
+            },
+            {
+                "name": "Dorel Glassant",
+                "line": "Dorel’s eyes gleam with late-hour lamplight. \"A tincture to bind the city’s breath into a single metric? Poetic, and, you must admit, very useful for underwriting. Don’t look so betrayed, Tallea. We both collect patterns. Only I’m honest about why.\""
+            }
+        ],
+        "ambient": "The wind harps sing like glass arteries, and in the beat between notes you can hear footfalls, heartbeats, and the legal weight of words waiting to be spoken."
+    },
+    "connections": {
+        "previous": "M2",
+        "next": "M4",
+        "related": []
+    },
+    "rewards": [
+        "Experience: 450",
+        "Breath-Tincture (consumable, improves resonance checks)",
+        "Reputation (Solace Guild): +8",
+        "Minor Favor (Rhyss Quell): 1 use in Wind Courts"
+    ]
+}

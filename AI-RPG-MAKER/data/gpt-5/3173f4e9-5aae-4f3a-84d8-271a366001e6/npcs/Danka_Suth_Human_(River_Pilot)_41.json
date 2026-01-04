@@ -1,0 +1,66 @@
+{
+    "name": "Danka",
+    "surname": "Suth",
+    "race": "Human (River Pilot)",
+    "age": 41,
+    "appearance": "Weathered pilot with sun-browned skin, a knot of river-charms on a thong, and long-scarred hands.",
+    "character": "Steady, pragmatic, quietly humorous.",
+    "traits": [
+        "reliable",
+        "patient",
+        "wary",
+        "resourceful"
+    ],
+    "skills": [
+        "barge handling",
+        "fog navigation by bell",
+        "sandbar reading",
+        "crew training"
+    ],
+    "talents": [
+        "smells floodrise hours ahead",
+        "whistles to echo depth",
+        "keeps perfect toll tallies in head"
+    ],
+    "flaws": [
+        "risk-averse in experiments",
+        "skeptical of omens",
+        "grudges against city folk"
+    ],
+    "dreams": [
+        "keep Mistmarket families safe",
+        "build a small independent lock",
+        "teach Scale-born to pilot"
+    ],
+    "secrets": [
+        "runs the hidden sluice for Ulo Hen sometimes",
+        "hid a Lantern on a barge to dodge a warden",
+        "keeps a forbidden shard compass"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sorn Ilt",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thia Mol",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ysil Aer",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Iven Rill",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Lerrin Vale",
+            "relation_type": "neutral"
+        }
+    ]
+}

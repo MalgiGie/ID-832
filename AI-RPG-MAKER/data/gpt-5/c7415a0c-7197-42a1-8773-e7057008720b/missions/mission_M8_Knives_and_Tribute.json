@@ -1,0 +1,44 @@
+{
+    "id": "M8",
+    "title": "Knives and Tribute",
+    "quest_giver": "Selka Vire",
+    "description": "Trade staggers when pirates cut the tide. Matron Selka Vire tasks Mara to run escort and speak for the Compact at Moon’s Hook Atoll, where Hookcutters fish with moon-iron and trim luck from the water the way others cut rope. Tribute is overdue; Chainmasters bristle; the Ribshadow Brotherhood smells opportunity. Talon Orase, a Hookcutter envoy with eyes like wet basalt, offers coin’s twin—promise. The lagoon glows as if the moon is ground to dust and blown through the water; breathe it too long and your sense of tide slips from your bones. Mara must keep the convoy free of knives, steer Selka’s pride, deflect Neth Cowl’s back-channel bids, and bring the Hookcutters to terms that won’t drown Dorsalhaven in steel or debt.",
+    "objectives": [
+        "Sail with the convoy to Moon’s Hook Atoll and establish parley with Talon Orase.",
+        "Negotiate tribute terms that balance Compact coin, safe passage, and Hookcutter honor.",
+        "Prevent a Ribshadow side-deal from scuttling talks without burning bridges; confront Neth Cowl discreetly if necessary.",
+        "Return with signed tide-marks and acquired moon-iron arrowheads for emergency line-cutting."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Selka Vire",
+            "lines": "We pay tribute because it costs less than funerals, and because pride does not float flotsam back to the pier. Bring me a signature that doesn’t stink of extortion. If the Hookcutters demand blood or an oath that binds the city’s knees, you walk away and I will send ships with decks high enough to spit on their knives."
+        },
+        {
+            "speaker": "Talon Orase",
+            "lines": "Moon-iron cuts bad luck and good rope alike. We know the difference; the Compact often pretends not to. We want fewer ledgers and more respect. Pay on time, speak plain, and do not send your Brinelaw clerks to tell us what the tide is when we have known it since before your chains found the seabed."
+        },
+        {
+            "speaker": "Neth Cowl",
+            "lines": "A side current can save a ship when the main flow drags it onto teeth. I can buy you quiet routes for half what Selka pays in pride if you let the Hookcutters keep their knives pointed at her banners instead of our skiffs. Or you can force a neat treaty and count how many strangled coin-purses float home."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "Pride is a poor anchor, and so is fear. Talon, take coin that arrives when promised and a seat at the table when routes are drawn, and in return keep your knives off marked convoys and the families who carry their bread. Neth, you know my ledger. I won’t ruin yours, but I won’t let yours ruin ours."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        "Two moon-iron broadheads for emergencies (line-cutting)",
+        "Signed tide-marks guaranteeing safer convoy passage for a season",
+        "+Favor with Anchor-Compact (Selka Vire) and respect with Hookcutters (Talon Orase)",
+        "Quiet understanding with Ribshadow Brotherhood (if handled discreetly)"
+    ]
+}

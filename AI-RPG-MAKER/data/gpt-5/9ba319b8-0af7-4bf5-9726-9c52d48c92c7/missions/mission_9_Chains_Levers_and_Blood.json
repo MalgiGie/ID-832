@@ -1,0 +1,56 @@
+{
+    "id": 9,
+    "title": "Chains, Levers, and Blood",
+    "quest_giver": "Sel Corvane",
+    "description": "The Parliament’s light blazed and then dimmed; outside, ropes and voices tangle. Ratchet Syndicate crews move to seize Dry Dock Three and, through a smuggler’s chute, the bypass tunnel beneath the Tide-Gate Crown. Sel Corvane presses a brass lever-rod into Raithe’s hand and names him auxiliary for a single night. Yarik Nine-Fingers comes, not with subtlety but with a simple proposition: turn the gate to prove the Guild’s tyranny, let the city see who really holds the hinge. The ring streets flood and empty with a dangerous rhythm as the Saltwardens split loyalties. In the lever-room, the humming tooth sings like a struck bowl.",
+    "objectives": [
+        "Secure Dry Dock Three’s control house and seal the smuggler’s chute to the bypass tunnel.",
+        "Confront Yarik Nine-Fingers and prevent a forced lever-pull during high tide.",
+        "Decide whether to reveal the existence of the starshard tooth to calm the crews or maintain secrecy to prevent panic.",
+        "Keep the Gate Crown stable until the tide turns."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sel Corvane",
+            "line": "I do not often share my levers, but I will share one with you tonight. Hold my Crown. If they pull at the wrong breath, ring seven will drown and ring two will riot. If you must choose between truth and safety, choose the choice that leaves the city alive to hear truth tomorrow."
+        },
+        {
+            "speaker": "Yarik Nine-Fingers",
+            "line": "What good is a tomorrow where we still beg for air? Turn the gate, Calder. Let the inner rings taste a little flood and learn humility. Or stand there in borrowed brass and pretend you aren’t carrying the Guild’s chains for them."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "line": "I’ve slept on flooded steps and I’ve stood on dry stone, Yarik. A flood that teaches a lesson drowns the wrong students. Back your crews off. The docks will get their hearing without making corpses of our neighbors."
+        },
+        {
+            "speaker": "Iria Venn",
+            "line": "Raithe, Cartel pilots are lining up at the mouth. If the gate hiccups, I’ve got thirty hulls with no room to turn. I don’t care about your lever politics—just keep the breath steady and our bell true."
+        }
+    ],
+    "connections": {
+        "previous": [
+            8,
+            3
+        ],
+        "next": [
+            10,
+            11
+        ],
+        "related": [
+            4
+        ]
+    },
+    "rewards": {
+        "items": [
+            "Lever-rod stamped with a temporary Gate Crown glyph (expires after the next new moon)"
+        ],
+        "coin": 75,
+        "faction": {
+            "name": "Guild of Tidewrights",
+            "favor": "Emergency requisition privilege for tools and labor, once."
+        },
+        "unlock": [
+            "Dry Dock Three overseers will grudgingly answer your questions."
+        ]
+    }
+}

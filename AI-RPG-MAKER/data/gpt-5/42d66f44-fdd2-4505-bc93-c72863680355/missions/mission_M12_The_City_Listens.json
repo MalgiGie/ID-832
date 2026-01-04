@@ -1,0 +1,80 @@
+{
+    "id": "M12",
+    "title": "The City Listens",
+    "quest_giver": "Asha Heliope and Tern Quietwake (joint)",
+    "description": "The Long Note’s fragments lie chalked on Thalassarium stone, and the city’s factions look at one another through steam and suspicion. The false chorus has gone quiet, the siphons breathe steady, and the Shellspire debate hangs by a thread. Asha Heliope proposes a pact: a night procession of light to encircle the Tide Loom halls while the Fathom Tongues hum a safe chord that will settle the mechanisms into a temper that resists sudden hands. Kael must place the Moonkey sketch at the right resonant point, lead the Weavers’ lines through the Spine without panic, and stand at the lectern tooth while the Listener Triad draws a verse that promises the sea respect without surrendering the city’s bones. Mara watches; Oaric listens; Mother Tullis binds oaths in brine. The choice is not to walk the city or to sleep it, but to teach it to hear itself again.",
+    "objectives": [
+        "Coordinate a joint rite between Lumin Weavers, Fathom Tongues, Brinewardens, and Tidemasons.",
+        "Place the Moonkey Setting Sketch and the Echo-Baffle Coil at designated resonance points around the Tide Looms.",
+        "Lead a calm procession around the Spine Market while maintaining order and light density.",
+        "Support Tern Quietwake at the Thalassarium lectern to produce a stabilizing chord without invoking the Long Note.",
+        "Negotiate a written accord for a neutral 'safe-cut' network and limits on unilateral flow changes."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Asha Heliope",
+                "line": "We have asked the dark to be kind and the water to be patient. Tonight we ask the city to listen to its own heartbeat. We will wrap the Loom in light not as a threat but as a promise: we will see you, we will tend you, and we will not let fear hire your hands."
+            },
+            {
+                "speaker": "Tern Quietwake",
+                "line": "We will sing a chord that says, 'No,' to panic and 'Yes,' to breath. It is a line between waking and sleeping. Balance your feet there, Kael. Keep your eyes on the lanterns and your ears on the stone."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Oaric Bent",
+                "line": "Your lines are clean, your anchors cleaner. If the city doesn’t trip coming around this corner, we might keep our codes and our consciences. I’ll sign your safe-cut accord if you keep my men’s names off political banners."
+            },
+            {
+                "speaker": "Mara Vell-Seren",
+                "line": "An accord signed under whale-whispers is still an accord. If it keeps my warehouses dry and my divers alive, I will pretend it was my idea and pay for the ink."
+            },
+            {
+                "speaker": "Kael",
+                "line": "Hold the light steady. Breathe on the count of the hum. If your hands shake, tighten your grip and let the shake travel up your arm into the lantern. It can carry more fear than you can."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Tern Quietwake",
+                "line": "The city heard itself tonight and did not flinch. The chord is set in the looms like a spine straightened. No man will turn a wheel on a whim without the stone asking him twice. That is as much safety as we dare call by name."
+            },
+            {
+                "speaker": "Asha Heliope",
+                "line": "You walked in front and did not insist everyone follow; you made a path and then widened it for the ones behind. That is leadership I can bless without blushing. Take this token. It opens doors that should not have been closed to you."
+            },
+            {
+                "speaker": "Kael",
+                "line": "I wanted a map that didn’t ask anyone’s permission. What I have is an accord that asks everyone’s. That will do for now. The bones felt quieter tonight. Maybe that’s what peace sounds like in a city made of memory."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": [],
+        "related_to": [
+            "M1",
+            "M6",
+            "M8",
+            "M10"
+        ]
+    },
+    "rewards": {
+        "xp": 1200,
+        "items": [
+            "Founders’ Token of Safe-Cut Stewardship (recognizes Kael as neutral guide; reduces tolls and grants right-of-way)",
+            "Lumenbraid Bowstring (quiet draw; steadies aim in wind)"
+        ],
+        "favors": [
+            "Signed multi-guild accord guaranteeing Kael’s neutral routes and whistle-rights in emergencies"
+        ],
+        "access": [
+            "Standing access to the Thalassarium lectern during closed rites",
+            "Registered safe-cut network paths mapped under Kael’s seal"
+        ],
+        "coin": "80 credit-shells"
+    }
+}

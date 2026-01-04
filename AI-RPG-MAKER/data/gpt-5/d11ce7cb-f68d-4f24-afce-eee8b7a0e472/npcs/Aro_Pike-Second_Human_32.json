@@ -1,0 +1,63 @@
+{
+    "name": "Aro",
+    "surname": "Pike-Second",
+    "race": "Human",
+    "age": 32,
+    "appearance": "Square-jawed sergeant with a split lower lip scar and tattooed tally marks along one forearm. Keeps his pike head dull to show restraint.",
+    "character": "Hard-nosed, fiercely loyal to patrol, takes failure like a personal wound.",
+    "traits": [
+        "Hot-tempered",
+        "Disciplined",
+        "Protective",
+        "Blunt",
+        "Proud of badge"
+    ],
+    "skills": [
+        "Pike drill and formation work",
+        "Canal pursuit on skiffs",
+        "Smugglers' cant recognition",
+        "Interrogation-by-silence"
+    ],
+    "talents": [
+        "Balancing on swinging ladders",
+        "Spotting loose rungs at speed",
+        "Remembering faces more than names"
+    ],
+    "flaws": [
+        "Drinks too hard after bad nights",
+        "Quick to escalate when baited",
+        "Holds secrets poorly under pressure"
+    ],
+    "dreams": [
+        "Captain his own harbor skiff squad",
+        "Earn an old siege-tooth for valor",
+        "Clean the Ribsward without sparking riot"
+    ],
+    "secrets": [
+        "Destroyed a scrap of evidence to protect a sibling tied to the Nets",
+        "Keeps contraband brine markers as trophies",
+        "Fears he enjoys the chase too much"
+    ],
+    "relations": [
+        {
+            "npc_name": "Isera Bent-Pike",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Jaxin Brail",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Keth of the Nets",
+            "relation_type": "Revenge"
+        },
+        {
+            "npc_name": "Yasma Brine",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Sela Tidecount",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

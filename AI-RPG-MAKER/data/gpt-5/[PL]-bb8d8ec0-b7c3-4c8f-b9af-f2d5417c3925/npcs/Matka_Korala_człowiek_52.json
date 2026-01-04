@@ -1,0 +1,67 @@
+{
+    "name": "Matka",
+    "surname": "Korala",
+    "race": "człowiek",
+    "age": 52,
+    "appearance": "Cienkie warkocze z paciorkami ze szkła; tatuaże sygnałów na dłoniach; ruchy płynne jak fale; spojrzenie czujne i ciepłe jednocześnie.",
+    "character": "Łagodna dla słabych, ostra dla wrogów; etyka selektywna, lojalność bezdyskusyjna; matkuje swojej sieci jak łodziom w porcie.",
+    "traits": [
+        "opiekuńcza",
+        "sprytna",
+        "dyskretnie charyzmatyczna",
+        "czujna",
+        "cierpliwa"
+    ],
+    "skills": [
+        "konspiracja",
+        "szyfry pryzmatyczne",
+        "nawigacja w mgle",
+        "zarządzanie łącznikami",
+        "handlowanie informacją"
+    ],
+    "talents": [
+        "czyta blaski jak wiadomości",
+        "zjednuje ludzi jednym zdaniem",
+        "znika w tłumie bez śladu"
+    ],
+    "flaws": [
+        "nadopiekuńcza",
+        "paranoiczna wobec Legii",
+        "gromadzi kompromaty, które mogą ją spalić"
+    ],
+    "dreams": [
+        "strefa wolnego handlu na Tarasie Kotwicznym",
+        "zniszczyć czarne księgi Konfederacji",
+        "wykupić długi załogantów"
+    ],
+    "secrets": [
+        "płaci za naukę jednego legionisty w tajemnicy przed nim samym",
+        "przechowuje relikwię Ankorytów w Gaju Pustych Dębów"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orla Krawężna",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Serad Głaz",
+            "relation_type": "Hatred"
+        },
+        {
+            "npc_name": "Vasko Danter",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Maera Buławka",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jodan Piżmowy",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Aiona Pustodębna",
+            "relation_type": "Friendship"
+        }
+    ]
+}

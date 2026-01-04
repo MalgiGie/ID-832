@@ -1,0 +1,80 @@
+{
+    "name": "Jana",
+    "surname": "Fell",
+    "race": "Human",
+    "age": 58,
+    "appearance": "Severe bun, scholar’s stoop, fingers stained a permanent dusk-brown from truth-ink. Wears a cord of tiny seal-knots at her wrist.",
+    "character": "Grave, meticulous, and stubborn about precedent. Gentle with novices, iron with politicians.",
+    "traits": [
+        "principled",
+        "dry-humored",
+        "unbending on flood-law",
+        "patient listener",
+        "suspicious of optics"
+    ],
+    "skills": [
+        "legal custodianship",
+        "forgery detection by scent and warp",
+        "archive logistics",
+        "oath-knot annotation",
+        "underwater script recovery"
+    ],
+    "talents": [
+        "smells falsehoods in drying ink",
+        "hears hinge-songs hidden in mold patterns",
+        "recites verbatim the founding hinge-charter"
+    ],
+    "flaws": [
+        "dismissive of profit motives",
+        "holds Parliament in quiet contempt",
+        "workaholic to collapse"
+    ],
+    "dreams": [
+        "keep flood-law beyond Parliament tampering",
+        "compile a complete history of hinge-songs",
+        "return the Sunken Archive’s lost writs to the surface"
+    ],
+    "secrets": [
+        "Shelters a contraband slate from Thren that grants amnesty to an enemy guild",
+        "Tied one forbidden knot in youth that still hums when lies are near",
+        "Has been corresponding with a stone librarian who calls her ‘curator’"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Ysra Dokk",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Senne Vell",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Lisi Jhak",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sav Orlai",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Rull Fen",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Pel Korr",
+            "relation_type": "Different goals"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "M10",
+    "title": "Seven Kettles, One Note",
+    "quest_giver": "Thorek Brimvauld",
+    "description": "Steam ghosts curl from the Seven-Kettle Springs, each pool singing a note as tools are tempered in their breath. One kettle’s tone has soured, warping steel and argument alike. Thorek Brimvauld believes the same unknown note troubling Vyratha has upset the valley’s chord that keeps a forge-titan asleep. The dwarves will help sing the city’s missing note if the kettle is calmed and a fair blades-for-grain pact is written without invisible ink. At the valley’s heart, forge-spirits demand truth, and lies turn to slag in the throat.",
+    "objectives": [
+        "Diagnose and correct the sour note at the fourth kettle using the prism register and the Charterstone fragment’s consent-mark.",
+        "Appease offended forge-spirits by recounting a true tale of restraint at the Weir and offering forge-salt procured openly.",
+        "Draft a fair exchange between Seven-Kettle Syndic and Vyratha’s Conclave that protects both star-metal abstention and winter grain supply.",
+        "Secure a resonance ring forged to carry the unknown note safely for the final rite."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Thorek Brimvauld",
+            "lines": "If you lie in this valley, the steam will sharpen your tongue until it splits. Better to chew truth and swallow pride than the other way around. Help us set the note, and I’ll bring dwarven throats to your river’s edge to sing a sound you humans cannot hold alone. Don’t bring your Ledger’s tricks; this is hammer-law."
+        },
+        {
+            "speaker": "Brina Coil",
+            "lines": "We can forge a ring that will not break if the note wants to run wild. But it must be tempered in honesty, and that means the pact you carry back cannot hide a clause to fine the poor for standing near water. I will not put Emberlight’s seal on a lie. I’d rather see my oath-tattoos burn."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "I don’t sing well, but I know when a story rings true. I’ll tell your spirits about the day I held a crowd back with my hands while the Weir found its breath, and I’ll put my name to a pact that feeds the valley and the city both. Make me the ring, and I’ll bring it to the river like a bell that won’t crack."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": {
+        "currency": 28,
+        "items": [
+            "Resonance Ring (focus for the unknown note)",
+            "Forge-Salt Pouch (ritual component for final rite)"
+        ],
+        "reputation": {
+            "Seven-Kettle Syndic": 3,
+            "Emberlight Artificers": 1
+        },
+        "access": [
+            "Dwarven courier assistance for one urgent message"
+        ]
+    }
+}

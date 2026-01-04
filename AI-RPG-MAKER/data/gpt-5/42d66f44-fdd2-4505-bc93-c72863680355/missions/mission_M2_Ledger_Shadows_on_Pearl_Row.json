@@ -1,0 +1,74 @@
+{
+    "id": "M2",
+    "title": "Ledger Shadows on Pearl Row",
+    "quest_giver": "Captain Ysger Thorn, Brinewardens",
+    "description": "The Spine Market hums like a hive under nets that rattle in the salt wind. Pearl Row glitters with moonlust while ledger-scribes dip brine pens and argue margins. Whispers of counterfeit marks and altered tolls skate along the stalls like fish. Ysger Thorn, equal parts salt and stubborn, asks Kael to shadow Gray Sail runners along the Gray Threads beneath the market and to gauge who profits if fear of smuggling spikes before the Council debates the Shellspire. Mara Vell-Seren of the Pearl Compact has eyes in every polished shell; she might notice a familiar jawline in the crowd and offer a quieter coin. Arno Kest of the Siltglass Syndicate squints over purity marks and resents cheap foreign glare more than he resents the Brinewardens, which is saying much. The market is a storm where words are oars and credit-shells are anchors; if Kael rows wrong, he drowns in paper.",
+    "objectives": [
+        "Meet Captain Ysger Thorn at the Embersalt Arsenal outpost by the Spine Causeway.",
+        "Shadow a suspected Gray Sail courier from Pearl Row into the Gray Threads below the market without being spotted.",
+        "Eavesdrop on a private negotiation between Mara Vell-Seren and a ward reeve regarding emergency tolls.",
+        "Identify any altered purity stamps or counterfeit pearl marks with Arno Kest’s help.",
+        "Report your findings to Ysger Thorn without leading a tail back to the arsenal."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Ysger Thorn",
+                "line": "You know my measure, Kael. I don’t ask you to carry a pike again, and I don’t ask you to forget the night the lines crossed. I do ask you to carry your eyes through Pearl Row and come back with rope I can pull without drowning a ward. The Gray Sails are growing clever, but clever is just another kind of rust if you pour salt on it long enough."
+            },
+            {
+                "speaker": "Kael",
+                "line": "I can slip the ratlines without pulling a single thread. If you want names, I’ll bring names; if you want proof that can stand in the Council ring without flinching, I’ll bring that too. But if your sergeants mistake a hungry runner for a corsair, I’m done."
+            },
+            {
+                "speaker": "Arno Kest",
+                "line": "If you’re peering at glass, you can use my bench. I’d rather grind my teeth than say it, but a bad lens can blind a city faster than a bad captain. Keep smugglers from pawning sunburnt sand as siltglass, and I’ll owe you a pane or two."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Mara Vell-Seren",
+                "line": "The market breathes profit the way the sea breathes storms. Captain Thorn asks for emergency tolls, and I ask whether he intends to toll courage next. I can fund a patrol boat for the price of a tariff, and I can sink a rival with a rumor. What I cannot do is abide thieves cutting pearls out of my rights with counterfeit stamps. Walk with me, archer. I pay for silence as easily as for speech."
+            },
+            {
+                "speaker": "Kael",
+                "line": "I’ve learned to count tides, not coins, Broker. If your ledger makes the water rise in one ward and fall in another, the Brinewardens aren’t your only concern. The Lumin Weavers dim the streets when you cross them, and everyone trips in the dark."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Ysger Thorn",
+                "line": "You kept your feet dry and your eyes open. That’s more than half my salt-lieutenants manage when the market sings. I’ll use what you brought carefully. If I move heavy, I’ll break something I can’t mend. If I move light, I might finally catch the right shadow by the ankle."
+            },
+            {
+                "speaker": "Kael",
+                "line": "There’s a pattern in the counterfeit marks that points to a cove I’ve seen only in a shadow-pulse from the lighthouse. I won’t say more yet. Not until I know whose fingers wrote that code in the blinks."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ],
+        "related_to": [
+            "M9"
+        ]
+    },
+    "rewards": {
+        "xp": 450,
+        "items": [
+            "Brinewarden Letter of Passage (reduces inspections at jawbone quays)",
+            "Siltglass Loupe from Arno (helps detect counterfeit marks)"
+        ],
+        "favors": [
+            "Captain Ysger Thorn grants a discretionary escort on one risky run"
+        ],
+        "access": [
+            "Limited access to Embersalt Arsenal counting room"
+        ],
+        "coin": "30 credit-shells"
+    }
+}

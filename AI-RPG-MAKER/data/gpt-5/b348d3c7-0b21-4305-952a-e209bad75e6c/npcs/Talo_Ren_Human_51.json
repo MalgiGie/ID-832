@@ -1,0 +1,80 @@
+{
+    "name": "Talo",
+    "surname": "Ren",
+    "race": "Human",
+    "age": 51,
+    "appearance": "Trim in lamp-scribed robes, salt-and-pepper beard, eyes reflecting flame colors too readily. Keeps a polished mirror-coin for nervous habits.",
+    "character": "Measured and theatrical, equally at ease in back rooms and on the floor of the Hall.",
+    "traits": [
+        "persuasive",
+        "image-conscious",
+        "cautiously bold",
+        "collector of favors",
+        "ritual-respectful"
+    ],
+    "skills": [
+        "lamp-floor rhetoric",
+        "coalition brokering",
+        "crisis optics management",
+        "protocol choreography",
+        "coded gesture reading"
+    ],
+    "talents": [
+        "frames votes with color to shift mood",
+        "calms a chamber with a single raised lamp",
+        "remembers every faction’s lamp tincture by scent"
+    ],
+    "flaws": [
+        "overrelies on spectacle",
+        "keeps too many doors half-open",
+        "envies the Rookery’s quiet power"
+    ],
+    "dreams": [
+        "restore public trust after the Schism’s lingering ash",
+        "bind guilds into transparent compacts",
+        "light a reconciliation flame with the Fifth Knot"
+    ],
+    "secrets": [
+        "Keeps a crate of moon-resin fakes to test opponents’ scruples",
+        "Uses the mirror-passage to eavesdrop then pretends surprise",
+        "Once let a forged moon-flame pass to trap a bribery ring"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lisi Jhak",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ysra Dokk",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Pel Korr",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Kael Ibrin",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Senne Vell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Gantrix Pell",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

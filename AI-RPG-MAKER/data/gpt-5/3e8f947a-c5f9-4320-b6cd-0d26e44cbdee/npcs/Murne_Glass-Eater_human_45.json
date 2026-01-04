@@ -1,0 +1,51 @@
+{
+    "name": "Murne",
+    "surname": "Glass-Eater",
+    "race": "human",
+    "age": 45,
+    "appearance": "Lean, scarred by old glass cuts, with a sandveil hood and goggles permanently ringed with pale dust. Teeth faintly greened by cullet tests.",
+    "character": "Pragmatic and wry, with a superstition for storms and names spoken on the dunes. Counts friends by who shows up when the wind shifts.",
+    "traits": [
+        "spits only on glass",
+        "wears a luck-rope of fulgurite beads",
+        "never turns his back to the Expanse",
+        "talks to dunes like old friends"
+    ],
+    "skills": [
+        "fulgurite mapping",
+        "dune survival and campcraft",
+        "wyrm sign reading",
+        "hard barter with guilds"
+    ],
+    "talents": [
+        "can grade cullet by bite and sound",
+        "hears the edge of a glassstorm minutes early"
+    ],
+    "flaws": [
+        "hoarder",
+        "stubborn negotiator",
+        "mistrustful of officials"
+    ],
+    "dreams": [
+        "Win a legal cullet share free of Syndicate strings",
+        "Find the storm-anchor that answers names"
+    ],
+    "secrets": [
+        "Recovered a star-metal harpoon from a wyrm breach and hid it under an abandoned rib stair",
+        "Sold cullet to both Syndicate and their rivals on the same night"
+    ],
+    "relations": [
+        {
+            "npc_name": "Factor Orun Ves",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sila Vane",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Arakel Dorn",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

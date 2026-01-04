@@ -1,0 +1,49 @@
+{
+    "id": "M06",
+    "title": "The Shadow with Borrowed Eyes",
+    "quest_giver": "Pel Korr",
+    "description": "The Mirrorglass Conservatory’s courtyards glittered with mosaics capturing constellations, and students shuffled like shy moths behind smoke-shaded goggles. Glassmaster Pel Korr’s smile was sharp as a cut and twice as reflective when he explained that a focusing prism for the equinox had been stolen and a promising student’s shadow had ceased to obey. Tracks led toward the Glass Spine Ridge, where midnight music threatened to crack vaulted ceilings in the Hall of Many Lamps and to draw mirror-lurkers from their lairs. The ridge’s facets caught dawn like fish-scales and made speech feel like a noise too loud. If the shadow had learned to listen to living glass, it could learn to talk back to lamps.",
+    "objectives": [
+        "Track Sav Orlai’s shadow from Brightreach to the Glass Spine Ridge using reflected glints and delayed footprints.",
+        "Recover the Conservatory’s stolen focusing prism before the Collegium’s equinox exhibition.",
+        "Investigate and, if possible, dampen the ridge’s midnight music before it fractures Parliament vaults.",
+        "Avoid mirror-lurkers and blade-winds by timing movement with the ridge’s ringing cycles.",
+        "Return Sav Orlai’s shadow to its owner without harming the student."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Pel Korr",
+            "line": "Light is a better liar than any politician, but only because people are such eager mirrors. Sav’s shadow learned a trick before their hands did, and now it spies better than our best lenses. The prism missing is a child among sharper children, and without it, our exhibition will be a dark house pretending to be a lighthouse. Bring me both, and I will owe you more than a lecture. Break either, and I will teach the city to misremember your face."
+        },
+        {
+            "speaker": "Sav Orlai",
+            "line": "I did not ask for my shadow to leave, but I did wish on a cooling lens that I could hear what the lamps say when we aren’t listening. If it is wrong to want the city to speak to me, then call me wrong, but don’t call my shadow a thief. It learned to love edges, and edges rarely love back. If you see it, tell it I’m sorry I taught it to arrive late."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "Shadows run where ropes hesitate. I’ll bring yours home, Sav, and if the prism has learned pride, I’ll remind it that pride is heavier than glass can carry. The ridge sings like a mouth full of shards; I’ll move when it exhales and be gone between notes."
+        },
+        {
+            "speaker": "Thay Nerr",
+            "line": "The Rookery hears your ridge singing through kites cut finer than silk. If the music cracks Parliament’s vault, rumor prices climb until a bird can buy a bench. Stop the song and I will owe you a discount on discretion. Let it play and you will owe me the story of why."
+        },
+        {
+            "speaker": "Gantrix Pell",
+            "line": "If you can silence that midnight howl, the Bastion’s teeth might stop humming themselves awake when they should be sleeping. I do not like a hinge that dreams. Return with the prism, and return with the song stuffed in your pocket if you can."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M05"
+        ],
+        "next": [
+            "M07"
+        ]
+    },
+    "rewards": [
+        "Tuned mirrorglass signal mirror with extended range",
+        "Lens-polish that clears ash-fog from optics and lanterns",
+        "Reputation: Mirrorglass Collegium (technical confidant)",
+        "Knowledge: a living pane under the Conservatory reflects what it wants and has been imitating leaders"
+    ]
+}

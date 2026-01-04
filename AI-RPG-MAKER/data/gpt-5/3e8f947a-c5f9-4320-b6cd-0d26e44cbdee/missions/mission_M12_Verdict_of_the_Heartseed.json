@@ -1,0 +1,77 @@
+{
+    "id": "M12",
+    "title": "Verdict of the Heartseed",
+    "quest_giver": "Matron Sere Kall",
+    "description": "The Ossuary Palace fills with a reed-scented hush, Triarchs seated among reliquaries that hum with a city’s history. Factor Orun Ves sits with the calm of a man who has never felt a hand close around his throat, Prelate Lys Amon’s eyes shine like tempered glass, and Legate Tharn Corvell’s jaw works as if chewing a word he hates. The Resonant Gate’s low note threads through the echo-pipes, steady and expectant. Rogan carries a ledger page that names the city’s betrayer, a fulgurite shard that sings his guilt, a bone tablet with a tuning phrase that can steady or shatter a reign, and a heartseed sliver that has learned his patience. Outside, the city waits under shade-cloths and mirror-lanterns, ready to cheer or break. This is the hour where a warrior’s blade is nothing, and a voice steadied by debts paid is everything. The verdict will either unseat a Triarch, bind a new accord, or tear ribs from sky.",
+    "objectives": [
+        "Present the ledger page naming Orun Ves to the Triarchs in the Hall of Mirrors.",
+        "Demonstrate the resonance proof using the fulgurite shard and cullet thread.",
+        "Propose a retuning of the Resonant Gate using the bone tablet and heartseed sliver.",
+        "Decide whether to demand Orun Ves’s removal, force a binding accord under public oath, or expose all and risk immediate unrest.",
+        "Sound the Gate’s corrected chord and coordinate with Watch, Bonewrights, and the Order to calm the city."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Matron Sere Kall",
+                "line": "Stand where the floor still remembers the last war’s boot heels and speak. You have brought bone, glass, and word, and that’s the only trinity I kneel for. I will hold the frame; you hold the room."
+            },
+            {
+                "speaker": "Orun Ves",
+                "line": "Rumor is a kind of weather that simple men think is rain. Documents can be forged, songs can be sung off-key, and heroes can be grown in the gutters like mold. Choose your witnesses carefully, Mr. Kettlebone."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I chose the city, and it has more eyes than you have ledgers. You tuned our bones to a profit, and you did it while the poor drank air. Today, the Gate will stop singing your name, and the law will learn a new verse."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Isha Velroon",
+                "line": "The ledger is real. The ink sings the wrong note, and the reliquaries cry when it is read. No prayer I know can make that acceptable. But mercy has a weight as real as justice. We must balance both or break the bowl."
+            },
+            {
+                "speaker": "Legate Tharn Corvell",
+                "line": "My men can hold ribways or they can hold their tongues, but not both at once if the city thinks we’ve lied to them. Give me a chord to sound, a truth to shout, and a plan that doesn’t end with bodies cooling under shade."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "We tune the Gate to the true chord carved on the Steps and anchor it with the heartseed’s patience. We swear a public oath: the Order blesses the water without owning it, the Watch fixes tariffs without hunger in their eyes, the Conclave guards the strings, and the Syndicate steps away from the frame or steps down entirely. Then we sound the note together."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Orun Ves",
+                "line": "You think you can take a city from a man who’s already woven his fingers through its ribs? Perhaps you can. Perhaps all I’ll keep is the lesson that men love a villain they can name. Very well. I will step back, for now, and see if your song can keep time without me."
+            },
+            {
+                "speaker": "Prelate Lys Amon",
+                "line": "By mirror and bone, by hunger stayed and thirst remembered, we bind this accord. The Gate will not sing for any one man’s purse again. Let the true chord be sounded."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "Hear it, city in the ribs—your own breath, even and honest. We will be thirsty again someday. When we are, we will drink together without hands in the cup that do not belong there."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        {
+            "type": "title",
+            "description": "Provisional Ribway Warden: informal authority to coordinate Watch, Bonewrights, and Rookery in emergencies."
+        },
+        {
+            "type": "permit",
+            "description": "Water Oath token granting ration discretion for Under-Ribs blocks during crises."
+        },
+        {
+            "type": "reputation",
+            "description": "Citywide esteem among common folk; enmity from the Saltglass Syndicate faction loyalists."
+        }
+    ]
+}

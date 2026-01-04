@@ -1,0 +1,64 @@
+{
+    "name": "Tullis",
+    "surname": "Nacrethane",
+    "race": "Human",
+    "age": 58,
+    "appearance": "Tall, dignified woman in nacre mask-cape when on procession; silver hair, web of fine brine-ink vows on her hands.",
+    "character": "Maternal firebrand; speaks gently until she doesn’t; turns grief into action and expects the city to do the same.",
+    "traits": [
+        "devout",
+        "unyielding",
+        "charitable to orphans",
+        "politically shrewd"
+    ],
+    "skills": [
+        "oratory",
+        "oath-binding rites",
+        "procession planning",
+        "alms logistics",
+        "civic campaigning"
+    ],
+    "talents": [
+        "reads a crowd’s tide within moments",
+        "calms panic with touch and tone",
+        "draws confession by patient silence"
+    ],
+    "flaws": [
+        "zealous",
+        "intolerant of bone-working she deems sacrilege",
+        "manipulative with piety",
+        "holds public grudges"
+    ],
+    "dreams": [
+        "Raise the Shellspire Temple",
+        "Ban whale-tooth trade within Thassyl",
+        "Cement a guaranteed Council vote block"
+    ],
+    "secrets": [
+        "Sanctioned masked zealots to smash bone-charm stalls while keeping distance publicly",
+        "Keeps a hidden ossuary of early dissenters beneath the sanctum",
+        "Has faked the ‘yes-no’ hum’s meaning twice to win a vote"
+    ],
+    "relations": [
+        {
+            "npc_name": "Asha Heliope",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Oaric Bent",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Tern Quietwake",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Mara Vell-Seren",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Sirae Glowhand",
+            "relation_type": "Friendship"
+        }
+    ]
+}

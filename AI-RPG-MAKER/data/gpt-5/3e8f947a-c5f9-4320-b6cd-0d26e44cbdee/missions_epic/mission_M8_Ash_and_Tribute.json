@@ -1,0 +1,84 @@
+{
+    "id": "M8",
+    "title": "Ash and Tribute",
+    "quest_giver": {
+        "name": "Riala Hearthwake",
+        "affiliation": "Caravan League of Five Bearings"
+    },
+    "description": "West of Marrowhold, where the horizon smolders and the air tastes of cinder-sugar, Cindervale’s kiln-towns exhale sparks that drift like tired constellations. In a waystation stitched from black-brick and canvas, Riala Hearthwake spreads ledgers that glint with ash-dust and worry, her sunburnt patience the only cool thing in a heat that wants to own your breath. Lady Ember-Thorn’s envoy, Bryx Thornbloom, arrives with a sealed brazier whose lid bears the impression of a cinder-rose; its coal-silent weight is a question that has ended treaties and fed orphans depending on who answered it. Factor Orun Ves, the Syndicate’s velvet math made flesh, sends softer letters that promise easy peace and sweeter tariffs if tribute flows through his scales, a route that would salt the Watch’s budgets until their whistles blow dust. Between them is a road of ash-apples and cinder-iron that keeps Marrowhold standing; every kindness offered here is cast with a hook, every refusal invites a rider with hot knives and a policy writ in hoofprints. Rogan Kettlebone must stand in the glare and choose how the brazier burns: set honest coin and straight steel upon it so Ember-Thorn respects the city without starving its guardians, expose the Syndicate’s ledger-trick and take the blast of their retaliation, or turn the coal cold and call the Watch to brace for raiders the way a storm calls to glass. The ash squalls care nothing for speeches, and on the journey home the wind will try to shear the caravan into sparks; only resolve, rope, and rib-borne courage will see the wagons back beneath the singing ribs.",
+    "objectives": [
+        "Meet Riala Hearthwake at the Caravan League waystation on Cindervale’s rim and review the tariff ledgers until every oiled number shows its shadowed meaning.",
+        "Attend the parley with Bryx Thornbloom beside the sealed brazier and carefully assess the full measure of Ember-Thorn’s conditions and courtesies.",
+        "Intercept a backchannel courier bearing Saltglass Syndicate tribute terms meant for Bryx before those papers can tip the brazier’s verdict.",
+        "Choose your stance: support a lean, honest tribute that preserves Watch budgets, expose the Syndicate’s scheme at the table and risk their retaliation, or reject tribute entirely and prepare for border raids.",
+        "Escort the caravan safely back to Marrowhold through ash squalls and spark-storm gusts without losing wagon, water, or oath."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Riala Hearthwake",
+            "lines": "I count coin until the numbers blur, and the longer I listen the more they sing, and I have learned that lies hum in the low register like spent bellows. The Syndicate’s arithmetic is sweet on the tongue and bitter in the gut, because it fattens furnaces and leaves the Watch with cups so dry the whistles might as well be flutes. These ledgers show a peace purchased in installments of pride, each page a little more interest from the city’s spine until the ribs bend. I need a reader of faces and wind, someone who can tell when a kindness is a leash and when a threat is an invitation to speak truer. Walk with me into ash, Rogan Kettlebone, and help me make a deal that does not sell tomorrow to buy this afternoon’s quiet."
+        },
+        {
+            "speaker": "Bryx Thornbloom",
+            "lines": "This brazier is a mouth that speaks without words, and the coal within remembers every hand that ever fed it. Light it, and the ash-road will know your name as one who respects fire, and we will honor the peace that keeps children counting stars instead of hoofbeats. Leave it cold, and tradition changes its song, and our riders will come with hot knives and older treaties that cut truer because they do not pretend to be kind. We are not a market stall to be haggled like glass cullet; we are a valley that burns, and those who speak straight to fire leave with their eyebrows and their honor. Bring steel and straight words, not coin that leaves your Watch hollow, and I will carry your message up the kiln slopes with the same hands that carry tithes."
+        },
+        {
+            "speaker": "Rogan Kettlebone",
+            "lines": "Under the ribs I learned that nothing is given without a price and nothing refused stays gone; it just circles back wearing a different mask. Show me the papers and the person who ferries them, and I will tell you which one carries the greater heat. If a Triarch hides behind a furnace worker’s handshake, I will pull him out by the wrist even if it burns my palm again. I do not mind scars; I mind debts that make children pay, and I have paid enough of those in marches and in the quiet after whistles blow. If this brazier must speak, let it say that Marrowhold keeps its oaths without selling the water that keeps our bones from singing hollow."
+        },
+        {
+            "speaker": "Pera Thass",
+            "lines": "You always manage to find my shadow and step on my toes, Rogan, and I wonder if you enjoy the dance or if your boots are simply clumsy. The tribute flowing through us is a kindness dressed as math, a neat column that turns raiders into merchants and keeps ash-apples on plates in the Under-Ribs. The Watch will make do; they are famous for making do, and it would be rude to rob them of their legend. What is honor when a child is hungry, hmm, and when glass storms eat roofs and ash eats lungs, who would you rather owe—those with kilns or those with whistles? Sign where I’ve left the ribbon and we’ll all look a little better in the mirror, even if the mirror needs a darker room to forgive the figures."
+        },
+        {
+            "speaker": "Factor Orun Ves",
+            "lines": "Peace is a ledger that balances or it is not peace at all, and I have found that it is easier to move a city by purse strings than by echo-pipe slogans. Send the tribute through our scales and we will bear the heat of Ember-Thorn’s appetite while Marrowhold keeps its hands clean and its tariffs sweet. The Watch is a noble instrument, but even noble instruments must be shelved when coins are scarce and storms are dear. I offer soft terms and harder promises: roads untroubled, furnaces happy, and an end to these theatrics on the ash. Should you insist on rattling chains in public, understand that I, too, can play the wind, and I have never known a rook to refuse a heavier perch."
+        },
+        {
+            "speaker": "Bryx Thornbloom",
+            "lines": "I have heard the Syndicate’s music before, and it always plays in nine beats that end on someone else’s throat. Ember-Thorn’s word is not a market token to be passed along your Factor’s string; it is a coal held in the palm by those who are not afraid to blister for it. We take tribute from those who respect the valley’s work, and respect looks like steel, grain, and promises kept, not tricks that starve your own guards in the name of convenience. If you light this brazier with clean flame and straight coin, I will tell my Lady that Marrowhold remembers how to speak to fire without flinching. If you light it with a mirror’s light and a hidden hand, then do not be surprised when the ash learns your steps and dances them back to your gates."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Hammer-Straight Tribute",
+            "text": "Rogan decides to back a lean, honest tribute that delivers steel, grain, and fair coin directly to Ember-Thorn without letting the Syndicate skim the heat from the flame. He argues in the open by the brazier that the Watch must not be starved to feed any guild’s furnaces, that peace purchased on the backs of empty armories is only a lullaby before a knife. He asks Riala to carve the terms on bone as well as vellum, so the ash remembers and so the city cannot be gaslit by later edits. He assures Bryx that respect is the currency of this road and offers a Watch escort schedule instead of a tax on their breath. He accepts that some friends will grow quiet and some enemies loud, and he chooses loud truth over quiet theft with the steadiness of someone who has stood in storm-song before.",
+            "outcome": "Bryx nods and lights the brazier with a coal that takes cleanly; the parley ends with a treaty that pays Ember-Thorn in materials and plain coin while explicitly shielding the Watch’s budgets from adjustment. The Caravan League marks Rogan as a straight-walker and grants him easier passage on future departures, while the Watch of the Rib hums its approval through old whistle-chains. Factor Orun Ves smiles without teeth and withdraws with promises to revisit tariffs, and the Night-Glass Brotherhood sniffs around for purchase but finds little to sell. On the road home, ash squalls rise but the convoy holds formation under Rogan’s signals and wind-reading; two raider scouts test the line and are turned aside by the sight of ready steel rather than rumors of empty coffers. In Marrowhold, word spreads that the city chose to feed its guardians before its furnaces, and though Syndicate doors close a hair, watchpost lanterns burn a shade brighter."
+        },
+        {
+            "id": "C2",
+            "title": "Expose the Ledger Hook",
+            "text": "Rogan produces the intercepted backchannel terms in the open circle of the parley and reads them aloud until the brazier’s metal hums with the attention of every ear. He names the trick plainly: tribute routed through Syndicate scales to siphon Watch budgets and purchase political debts with Cindervale’s peace. He refuses to let any kindness be a leash and invites Bryx to test the city’s respect without a broker’s filter, promising transparency in escort schedules and tariff postings. He tells Riala that the League can walk straighter if it knows who is tugging its reins, and that the ash-road deserves fewer shadows and more witnesses. He knows this will draw retaliation and prepares for it anyway, trusting that an honest blaze burns hotter than a velvet smother.",
+            "outcome": "Bryx laughs once, sharp as a struck flint, and thanks Rogan for naming the heat; the brazier is lit not only as treaty but as a warning brand against hidden tolls. The Syndicate’s envoys leave in embarrassed silence and Orun Ves sends couriers with honeyed threats that taste of iron; embargoes are whispered, and certain furnaces pretend not to hear League requests for a handful of days. The Night-Glass Brotherhood tries to buy Rogan’s proof for their black stacks, but he turns the copies over to the Archive of Veins and the Temple’s arbitration so their songs cannot be remixed. The Watch’s reputation swells among ribway crews, who mutter that someone remembered them when easy coin beckoned, and Legate Corvell’s patience with Rogan’s independence grows complicated but grudgingly respectful. On the return through the ash, a Syndicate-paid gang makes a halfhearted show and melts when faced with an escort that doesn’t flinch; the road keeps its quiet without a leash, and the city remembers the names of those who tried to slip one on."
+        },
+        {
+            "id": "C3",
+            "title": "Cold Brazier, Hot Watch",
+            "text": "Rogan refuses the brazier, declaring that Marrowhold will not pay tribute at all while raiders posture at the border and while any guild seeks to buy policy with toll coins. He tells Bryx that if Ember-Thorn wants respect, the valley can read it in clean roads and open kilns, not in a coal-tax that repeats histories everyone pretends to have learned from. He looks Riala in the eye and says the League should brace wagons, tighten harnesses, and plan escorts as if storms were already dusting the ribs, because sometimes you have to let the wind have its shout. He sends a whistle through old Watch channels to ready constructs and lancers along the rim and writes his name beneath the hard choice with marrow-ink that will not easily fade. He accepts that the next days will be arid and loud and that hunger of coin will bite, but he trusts that a border tested and held teaches better than a border fed and forgotten.",
+            "outcome": "Bryx lifts the brazier’s lid and lets the coal breathe without flame, nodding once with the kind of respect that sharpens knives; he promises riders will test the road before the next moonrise to see if Marrowhold’s courage matches its words. The Watch rallies, bone constructs awaken from shaded rest, and skyhooks at the Aerie hang signal kites that warn Cindervale eyes the city is not asleep. The Caravan League complains at lost ease and deferred ash-apple crates, but when the first raid blows in like a spark storm, Rogan’s preparations and old ribway tactics hold the line with minimal blood. The Syndicate watches with folded arms and finds no leverage to sell, their honey unused while steel speaks in the open air; their resentment simmers, but the city’s spine feels a little truer. When the caravans finally roll under the ribs again, people speak of a road that did not learn to bow, and though the coin-count is lean, the Watch’s standing rises like a wind that knows your name."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "favor",
+            "description": "Caravan League escort priority on future departures, with quartermasters instructed to clear Rogan’s wagons first when ash squalls threaten."
+        },
+        {
+            "type": "coin",
+            "description": "Modest hazard pay from the League for ash-road security, stamped with a cinder-rose to mark the dust walked and the sparks endured."
+        },
+        {
+            "type": "reputation",
+            "description": "Improved standing with the Watch of the Rib for preserving budget integrity and putting straight steel ahead of velvet ledgers."
+        }
+    ]
+}

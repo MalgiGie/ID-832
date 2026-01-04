@@ -1,0 +1,43 @@
+{
+    "id": "M3",
+    "title": "Lattice Shadows",
+    "quest_giver": "Lantern-Queen Thia Mol of the Moth Lanterns",
+    "description": "Beneath the Crown-Market Arcade, the lattice of counterweights and trussed bone-plates hums, carrying footsteps as whispers. Lantern-Queen Thia Mol meets Aerin at the edge of a smugglers’ crawl that opens between slats scraped smooth by generations of knees. She is all soft grin and hard eyes, protective of the gutterborn and tired of being the city’s favorite enemy. The Lanterns did not score the Chainhouse cables, and they did not steal a page from the horn-logs—but someone wants those stories sung until they drown out the truth. Within the crawl, a cache of forged safety seals, a ledger scrap inked with Saltlick glyphs, and a Bonewright memo stamped by Kessa Tharn are tucked in a way that says ‘planted’ to anyone who has ever run from a patrol breathless and bleeding. Mira Olt, a lamplighter with fungus-dappled sleeves, traces the crawl’s newer knots: the etchings resemble moth wings, yes, but the twists are guild-taught, Rafter-perfect.",
+    "objectives": [
+        "Enter the Arcade’s hidden crawl without triggering the lantern-lattice counterweights.",
+        "Recover the cache: forged safety seals, Saltlick glyph ledger scrap, and the memo stamped by Kessa Tharn.",
+        "Interview Mira Olt about new crawl-knots and who could tie them so clean.",
+        "Convince Thia Mol to share a Lantern signal-trail that leads out toward Saltlick Terraces."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Thia Mol",
+            "line": "Look at me, paladin. If I wanted to stop a horn, I would hang a ribbon in the wind and make a prayer of it. This—this is a clumsy story dressed in my colors. Someone plants our shadow and charges toll on the fear it buys. I will not answer for that with necks belonging to my children."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "I don’t want your necks. I want the hands that tied these knots and pressed these seals. The stamp bears Kessa Tharn’s mark, but the ink is wrong. And the knots? No street-runner ties this clean on the first try."
+        },
+        {
+            "speaker": "Mira Olt",
+            "line": "Rigger work. See the twist just before the bite? That’s Chainhouse teaching, the kind they drill until your fingers ache. And this scrap—Saltlick glyphs for ration allotments. Someone wants a line drawn from Lantern to Bonewright to brine pan and back. Too neat. Too loud."
+        },
+        {
+            "speaker": "Thia Mol",
+            "line": "Then follow my quiet. I’ll give you a signal, a lantern-flicker most of my own haven’t learned. It leads to the brine winds. But if you find a Conclave inspector tangled in this, don’t let the Guilds make her disappearance a lesson to the poor."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "I’ll follow your quiet. And if I find a lesson written in someone’s blood, the Vigil and the Breathkeepers will read it aloud in Spinegate."
+        }
+    ],
+    "connections": {
+        "previous": "M2",
+        "next": "M4"
+    },
+    "rewards": [
+        "Lantern-signal pattern granting safe passage through select lattice crawls.",
+        "A favor from Mira Olt: guided lamp-lit access to the Ossuary Gardens during Sporefall.",
+        "Recovered memo and glyph scrap as admissible evidence for future hearings."
+    ]
+}

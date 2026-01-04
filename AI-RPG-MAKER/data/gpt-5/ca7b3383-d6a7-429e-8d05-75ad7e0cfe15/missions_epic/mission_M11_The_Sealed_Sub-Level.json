@@ -1,0 +1,84 @@
+{
+    "id": "M11",
+    "title": "The Sealed Sub-Level",
+    "quest_giver": {
+        "name": "Nemra Coil",
+        "affiliation": "Orphans of Aelmyr"
+    },
+    "description": "Shift change ripples through the Chainheart like a breath drawn and held, and in that held breath the city sounds almost gentle, its iron hymns muffled to a purr. Brass-faced wardens stamp your Emberwatch permit and look away at the exact moment the Orin gyre in its sling begins to hum, the tone so soft it feels like heat stroking the inside of your ears. Nemra Coil waits beneath a riot of swaying counterweights with a scarf of ember-thread looped twice around their throat, eyes bright with sleepless faith, while Riven Hask leans against a rivet column as if propping up Skarnhold with the weight of his jaw and the patience of stone. You hum the Black Library’s map-song, and the glass in the walls answers as if the city remembers a melody you only half know, each note unlocking a seam the Chainwright plans never mapped to ink. The Chainheart’s spine sighs open and the air that comes out tastes of old ash and copper and the promise of a home you have not yet found. Inside, not a vault nor an arsenal but a quiet room of slag and glass cradles itself around a single, perfect egg that moves so slowly you almost miss the wheel of it, a gentle tide kept in time with the city’s engines. You crouch and feel the warmth rise through your palms and into the faint chain-link cinder-mark along your jaw, and when the egg’s heartbeat thumps once against its glass the scuff on your left horn rings like a struck tuning fork. The Orphans’ stories gather and roost in the rafters of your ribs, and the Chainwright’s fears and hopes measure themselves against the cadence of that beat as if all schedules were written in its rhythm. Between faith and iron, you and your companions must bridge motion to motion without letting either flame go out, and draft a law that is more than ink, more than gears, more than omen, a law that breathes.",
+    "objectives": [
+        "Use the Emberwatch permit to access the Chainheart after shift change with Nemra Coil and Riven Hask present as witnesses.",
+        "Hum the Black Library map-song to unlock the sub-level seam and record the mechanism for the ledger.",
+        "Confirm the presence of the egg and assess the ancient glass cradle’s motion and heat loss.",
+        "Integrate the new Iron Cradle prototype without stopping the old cradle, bridging motion through the Feathered Gyre.",
+        "Draft a joint custody protocol between Orphans, Chainwrights, and Loom for continued movement and secrecy."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Nemra Coil",
+            "lines": "I was told a hundred times that I was singing to stories, and I sang anyway because the tune would not release my throat. If this is a story, then it has a heartbeat, and I can feel the pulse in the floorboards counting our failures and our courage like beads. We do not kneel to machines here, Neris, and we do not kneel to fear either, even when it wears a brass mask and a ledger’s smile. We kneel to breath, to the first warm promise we ever made as a people, and the breath has waited so long for us to remember that I am afraid of my own joy. Help me keep it from cooling, not with incense alone, not with schedules alone, but with a living rhythm we can braid into the city until even our enemies breathe along with it."
+        },
+        {
+            "speaker": "Riven Hask",
+            "lines": "I do not like secrets under my floors because secrets buckle girders from the inside, and I have buried too many friends under pretty lies. But I like the thought of a promise broken even less, because a city that breaks its first bargain is a city with rot in its teeth. You will keep that gyre level and you will keep that egg moving, and you will do it with both hands on the chain no matter what prayer or chart is whispering in your ear. If one link chatters wrong I will pull the whole rig down, and we will stand in the wreckage together and count the cost like adults with soot on our tongues. But while the links hold, I will be your counterweight and your witness, and I will sign my name where iron must share its rule with heat and hope."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "lines": "The old cradle’s motion is a hymn bled pale by time, beautiful but losing heat syllable by syllable, and we can catch that fading cadence and spin it into a gyre without dimming it. We will carry its rhythm into this feathered wheel the way the Ireflow carries the city on its back, never stopping, never letting the current stall into death. On my jaw I feel the Pact’s mark answering not as a command but as a question, as if it asks whether we can learn to breathe in chorus with something older than our institutions. On my tongue I taste copper and ash the way a Lampwright tastes a storm coming, and I know the schedule of our lives is about to change by a beat that cannot be negotiated away. Let us align the balances so that when we sign this protocol, we are not merely managing a machine but promising to stay in motion with the heart we found."
+        },
+        {
+            "speaker": "Jask Lumenwright",
+            "lines": "Child of heat and habit, I taught you to read a basin because the city speaks in ripples, and today it speaks with a drum no one can ignore. Prophecy is not a leash, it is a map that redraws itself when you step, and the Iron Cradle was always a path, not a destination. If you integrate your device, do so as if you were laying a reed across a river to listen to its music, not to silence it, and as if your own breath were the metronome. The Loom will take heat for this, as it has for every caution that saved lives, but we can endure reproach if the cadence holds and the egg does not cool. Write your protocol in the grammar of both law and lullaby, and I will sit with a copper basin until dawn to keep the harmonics steady while you work."
+        },
+        {
+            "speaker": "Ilara Embervein",
+            "lines": "I have seen lifts fail because someone believed in a story harder than they believed in torque, and I have seen miracles happen when a story taught torque a new trick, so do not mistake my skepticism for contempt. Give me tolerances, give me redundancies, give me the exact interval at which your gyre must kiss the old wheel and take its kiss back, and I will give you an audit that even my rival will bless. I will not sign a thing that leaves the city at the mercy of a zealot or a poet, but I will sign a thing that makes both of them responsible to a checklist and a prayer. If we do this, we do it with a ritualized inspection, with seals that break if tampered with, and with a ledger that knows the difference between a lie and a secret. I want to hear that heartbeat too, but I want to hear it under the rattle of a safe chain and the hiss of a vent that never spikes without warning."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Whispered Accord with the Orphans",
+            "text": "You propose to open the seam and let the Orphans of Aelmyr stand closest to the glass, their chant braided into the hum of the gyre while the Chainwrights keep their hands on the couplings from a half step back. You promise Riven that every bolt turned will be logged in his book, but the first blessing of movement will be Nemra’s to call, so the faith that kept this secret alive can recognize itself in the new cadence. You ask Jask to veil the Loom’s involvement, not to deceive, but to keep the Emberwatch from smelling a ritual veto where there is none, and you promise to share ledger copies once the heart is steady. You plan the bridge like a smuggler plans a tide window, timing breaths, bells, and sways so that no single lift pauses long enough to starve the city of motion. You sign the protocol with ink infused with ash-flowers, a quiet scent like old warmth, and swear to hold your tongue as if speaking a true name might break the path beneath your feet.",
+            "outcome": "Nemra’s eyes brim and the Orphans lend their cadence like a warm hand under your own, and the gyre takes the old rhythm without a stutter. Riven growls at the ceremony but accepts the logs as honest when he checks the chisel marks against the timestamps, and he chalks a small chalk sigil where only a Chainwright would look that means safe for now. The Emberwatch is none the wiser because nothing stops long enough to be called stoppage, though an Inspector of Sparks later notes a curious lullaby resonance in the alarms that never sets off a fine. The Orphans’ trust in you deepens into something like guardianship, while the Chainwrights temper their respect with a wary frustration that you let a story step first, and they demand a follow-up audit sooner than is polite. The egg’s warmth steadies and the room’s air tastes less of fear, and the secret holds like a lifted breath no one notices because everyone is breathing together."
+        },
+        {
+            "id": "C2",
+            "title": "Engineering First, Faith Beside",
+            "text": "You insist that the Chainwrights run the primary couplings while you map the heat-harmonics in real time, and the Orphans will keep vigil with incense and watchwords that harm nothing mechanical. You call for redundancies like a litany, specifying dual gyre linkages, staggered tooth engagement, and a safety bleed that never opens wider than a heartbeat. You seat Ilara Embervein at the controls with Riven, and you make Nemra an oathkeeper with the ledger, asking them to witness each step so no one can claim godhood when the work is merely good. You refuse to stop the old cradle even for a blink, instead slipping the new gyre into the rhythm like a dancer entering a line, and you calibrate the Feathered Gyre with your thumb until the pitch matches the egg’s pulse. You draft the protocol in three columns—mechanical, ritual, and legal—and make each column answer the other two in plain language and in the symbols each guild understands.",
+            "outcome": "The integration is clean and ungilded, a marvel of timing that makes even the skeptics nod, and the egg’s motion gains a firmness like a stride that finds its pace. Chainwright reputation with you soars as they see you defer to their craft without diminishing your own, and they adopt one of your calibration phrases as a training mnemonic. The Orphans sign with solemn faces and a trace of distance, their faith accommodated but not centered, and they quietly ask for more hours with the heart in exchange for their patience. The Loom praises the clarity of the protocol and caches a copy in the Black Library, but the Veil and Ledger somehow obtain a whisper of the checklist and begin speculating where leverage might be hidden. Nothing stops, nothing spills, and the Emberwatch lets the shift pass without question because the only thing louder than the chains is the sound of problems not happening."
+        },
+        {
+            "id": "C3",
+            "title": "Loom-Brokered Breath-Intervals",
+            "text": "You summon Jask Lumenwright to the Chainheart’s edge with a copper basin and a portable chant-group, asking him to weave micro-intervals into the schedule where breath can gather without anyone calling it a halt. You share the River’s bell-code with Riven to thread Underrun timing into the lift windows, so the city’s tides and the city’s chains harmonize for the space of a heartbeat. You forbid the speaking of true names as the Whisperfen teaches, not for superstition’s sake, but to keep power from snagging on pride while delicate work meets a living secret. You hum the map-song as a counterpoint to Jask’s heat thread, and together you shape the noise of the Chainheart into a soft, invisible net that holds the moment still enough to work without seizing it. You write the custody protocol as a ring of signatures around a stanza of instructions, so that law remembers it is there to protect a rhythm, not to choke it.",
+            "outcome": "The city barely feels the intervals because they are breaths it wanted to take, and the old cradle never loses its step as the gyre slips into the dance. The Loom’s favor toward you sharpens into advocacy, and Emberwatch officers who respect order more than optics quietly mark you as someone who prevents fires by listening before shouting. The Salt Charter grumbles about phantom delays they cannot prove, and you hear your name measured with irritation in the Saltfold Exchange, but no writ bears teeth because deliveries keep arriving on time. Orphans and Chainwrights sign together without looking away, the ritual and the checklist meeting on a page that smells faintly of copper and smokeherb, and in that moment their grudges cool by a finger’s width. The egg’s heartbeat amplifies subtly through the Chainheart in a way only you and a few others notice, and in that resonance the secret feels safer because more of the right people are holding it without needing to speak of it."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Access",
+            "description": "Access to the Chainheart’s sealed sub-level, a hush-chamber of slag and glass where the city’s first promise keeps time with iron."
+        },
+        {
+            "type": "Document",
+            "description": "Joint custody protocol signed by Orphans of Aelmyr, Chainwrights Consortium, and the Oracle Loom, binding faith, engineering, and augury to one cadence."
+        },
+        {
+            "type": "Reputation",
+            "description": "Major boost with the Orphans of Aelmyr and the Chainwrights, earned by keeping motion unbroken and secrets honored under witness."
+        },
+        {
+            "type": "Progress",
+            "description": "Iron Cradle integrated with the ancient cradle, movement stabilized through the Feathered Gyre without stopping the old wheel."
+        }
+    ]
+}

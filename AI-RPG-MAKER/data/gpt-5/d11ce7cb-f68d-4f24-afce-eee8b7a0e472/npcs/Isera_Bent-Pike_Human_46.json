@@ -1,0 +1,66 @@
+{
+    "name": "Isera",
+    "surname": "Bent-Pike",
+    "race": "Human",
+    "age": 46,
+    "appearance": "Tall, broad-shouldered woman with wind-burnt cheeks, a puckered scar across the jaw, and salt-silver at the temples. Wears a dulled bone-mail vest and a tooth-badge polished by countless oaths.",
+    "character": "Pragmatic commander who measures twice before she strikes once. Keeps her temper coiled and her promises ironbound.",
+    "traits": [
+        "Stoic",
+        "Protective",
+        "Methodical",
+        "Unsuperstitious in public",
+        "Secretly devout"
+    ],
+    "skills": [
+        "Pike tactics",
+        "Harbor interdiction",
+        "Interrogation",
+        "Stormglass signal reading",
+        "Logistics planning"
+    ],
+    "talents": [
+        "Reading intentions from posture",
+        "Maintaining brittle truces",
+        "Enduring long watches without sleep"
+    ],
+    "flaws": [
+        "Stubborn to a fault",
+        "Distrustful of scholars meddling with the Engine",
+        "Old knee injury that aches in storms",
+        "Sleeps poorly when the pulse quickens"
+    ],
+    "dreams": [
+        "Break the Black Net without breaking the Bazaar",
+        "Win Warden autonomy from Parliament meddling",
+        "Retire to a reedhouse where the ribs' song is faint",
+        "Hear the Ferryman's answer and live"
+    ],
+    "secrets": [
+        "Keeps a small shrine to the Ferryman hidden in a molar niche",
+        "Removed a name from a contraband ledger to save a young pilot",
+        "Knows a Warden patrol vanished near the mangroves following a false lantern rhythm"
+    ],
+    "relations": [
+        {
+            "npc_name": "Keth of the Nets",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Sela Tidecount",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Aro Pike-Second",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Yasma Brine",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Caur Spinekeeper",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

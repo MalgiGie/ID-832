@@ -1,0 +1,80 @@
+{
+    "id": "M8",
+    "title": "Feathered Mathematics",
+    "quest_giver": {
+        "name": "Pelyn Orinfae",
+        "affiliation": "Scorians of the Black Library of Scoria"
+    },
+    "description": "The Skybridge Ruins of Orin hum in a wind that solves its own problems aloud, long ribs of feather-iron singing in invisible sums as gusts cross old chords. Pelyn Orinfae tightens a scarf against the shear and points with a gloved hand toward a half-buried pylon where lightning snakes once nested, their shed skins crisped into silver coils that still smell like rain on hot stone. Vara Keshlin, a Chainwright on secondment for the day, checks knots and footings with the patient severity of someone who has personally watched a man vanish to the Rift because he trusted a story more than his stance. Hawkweed brushes your calves as you step onto a slab that feels treacherously light, as if some part of its tale was cut away and replaced with air. Below, the Rift’s breath lifts and falls, and in its whisper you think you hear your name braided with the city’s, a reminder that every weight in Skarnhold is shared. You unhook your Copper Basin Locket and murmur a fragment of the map-song you once hummed in the Black Library’s sealed aisle, and the pylon door, welded by years of silence, groans like a chain finally remembering its purpose. Inside, among gear-feathers and gullied dust, a Feathered Gyre still turns in a cobweb of equations, its slow spin like a heartbeat that refuses to be counted by anything but trust.",
+    "objectives": [
+        "Travel to the Skybridge Ruins with Pelyn Orinfae and locate the targeted buried pylon.",
+        "Bypass lightning snake nests and discharge static safely using the Feather-Gyre Calibrator.",
+        "Retrieve the Feathered Gyre core without stopping its spin and secure it in a counterweighted sling.",
+        "With Vara Keshlin, test the gyre’s response to load stories and record its preferences.",
+        "Return to Skarnhold and sign the Chainwright custody ledger for joint stewardship."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Pelyn Orinfae",
+            "lines": "Orin did not build engines as we speak of engines; they composed obligations and taught stones to believe in them, then they wrapped those beliefs in gears so the story would not unravel in the wind. The gyre will not be bribed by metal alone, because it wants a promise it can taste in the tremble of your voice. Speak of motion, yes, but speak of memory too, for lift without remembrance is a betrayal that the Rift never forgives. Do not boast at it, because pride makes the air thin and causes the sums to drop digits you cannot afford. Do not lie to it, because false balance is the cruelest fall, and these pylons have long memories for liars who went light-footed to their end."
+        },
+        {
+            "speaker": "Vara Keshlin",
+            "lines": "I have seen apprentices try to carry a gyre as if it were a bucket, and I have watched the ground refuse them because the tale they told with their shoulders did not match the load. We will move as if our breath and bones are part of a measured diagram, because in truth they are, and the diagram punishes laziness. Keep your feet set as if you are a counterweight, and keep your hands open as if you are negotiating with a stubborn ledger that adds itself when you look away. The calibrator is not a charm, it is a courtesy; hum it true, ground the charge, and let the snakes roll their lightning into the earth like a storm remembering where it belongs. Look to me when the wind gusts and I will look to you, because posture is a shared story here, and falling is always written in plural."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "lines": "Once there was a city that tried to outgrow its own shadow, and it learned the hard lesson that every ascent is also a promise to those below. It tied bridges to the wind and counted itself light enough to tread on air, and when the air faltered the city learned to count again with patience and better knots. I will not ask you to lie for me, Gyre, because my work depends on the kind of truth that sweats and sings and refuses to quit at the first misreading. I am asking you to remember with me that a load is gentler when it moves, that an egg kept in motion will not cool, and that a city that honors its bargains becomes lighter by degrees without cheating the sums. Turn with me and I will give you stories of engines that do not grind, chains that do not bite, and a cradle that never sleeps on its duty."
+        },
+        {
+            "speaker": "Pelyn Orinfae",
+            "lines": "Good, the spin steadied when you named the weight honestly and gave motion a reason kinder than theft or haste. Now we fit the counterweighted sling as if we are dressing a child for a climb, no sudden shifts, no sharp edges, and no talk of stopping until we are safe among our own. We will test its temper with small promises—tools, stones, coils, and stories—and we will write down the flavors it prefers the way cooks keep track of heat on the Sunward Ledges. Do not linger to admire the view because admiration is a kind of drag, and the Sky Leviathans love a lingering gaze that forgets gravity. When we leave, thank the pylon aloud, because gratitude is a brace, and I have never lost a load that was politely sent on its way."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Ground the storm, count the breaths",
+            "text": "You propose patience to Pelyn and Vara, and together you set reedstone stakes around the pylon mouth, humming the Feather-Gyre Calibrator until the air shivers into a lower key. You count breaths and let the wind finish its sentence, then guide the lightning snakes away with gentle static-bleeds that leave their skins crackling and harmless. You move when the gusts pause and freeze when they test your balance, making your posture an answer to a question the ruin keeps asking. Every loop of the sling is checked twice, every knot is felt as much as seen, and you tell the gyre a quiet account of Skarnhold’s need that favors humility over urgency. The work takes time, and the hawkweed nods as if approving the slower mathematics of survival.",
+            "outcome": "The discharge bleeds without drama, and the snakes slither into crevices with only a few petulant sparks to mark their retreat, sparing you singe or scar. The gyre seems to like the measured cadence of your movements, purring its spin a fraction faster when you speak of promises kept at the pace of harvests and river locks. Vara’s respect shows in the way she mirrors your breath, and Pelyn’s notes fill with phrases like steady harmonic and compliant under courtesy, which become tomorrow’s doctrine in the Scorian glosses. You lose an hour to weather-watching and careful footwork, but the hour buys a calmer descent and a cleaner test series as the gyre accepts small loads without sulking. Back in Skarnhold, the Chainwright ledger welcomes your joint stewardship without protest, and the Orin scholars nod over the ink as if your signatures have weight all their own."
+        },
+        {
+            "id": "C2",
+            "title": "Sing the counter-harmonic and take the moment",
+            "text": "You decide that the wind’s mood is brief and must be seized, and you string your ember-thread spool between two feather-iron spars until it hums a counter-song the snakes cannot resist. You clap the Calibrator like a metronome and let your voice ride its clicks, calling the storm-slick creatures into a spiral that grounds in a single brilliant lash. You and Vara move in the bright silence that follows, trusting trained muscles to finish what the song began, and the sling finds the gyre as if it was always meant to wear it. You keep talking even as you work, telling the gyre about schedules that rescue lives and spans that cannot wait, making haste sound like a vow instead of a gamble. Pelyn watches with tight lips and noting eyes, recording every phrase you gift to speed so she can argue its ethics later in a cooler room.",
+            "outcome": "The lightning answers your counter-melody and bites harmlessly into ground you chose, leaving only ozone and a singed edge on the scarf that you will later claim as a lesson. The gyre, buoyed by your swift precision, accepts heavier test-weights with a curiosity that borders on delight, so long as you narrate each increase as a purposeful rescue rather than an impatient grab. Vara grins with that rare Chainwright relief reserved for things done quickly without sacrifice, and she promises an extra hour in the testing bay whenever you ask if you keep telling speed the truth. Pelyn’s respect is reluctant but real, and though she lectures you on the dangers of valorized haste, her copies of your load-story phrases will circulate among Orin-faithful as acceptable urgencies. You return to Skarnhold ahead of the afternoon surge, sign the joint custody ledger with the ink still smelling of brass, and find the bay already warmed to chart the gyre’s new appetite for brave but honest motion."
+        },
+        {
+            "id": "C3",
+            "title": "Ink a shadow ledger and stage a decoy load-story",
+            "text": "You whisper that the Veil and Ledger owe you a favor, and with a tug on old strings a pair of dusk-cloaked spotters appear on the ridge to play audience for a fiction with its feet in truth. Together you script a decoy tale with spare chains and hollow crates, telling the ruins a loud, clumsy story about weight so the lightning snakes and watchful winds turn their attention toward the noisy lie. While the shadow-show stumbles, you and Vara work in the quiet behind it, wrapping the true gyre in honest cloth and steady hands, speaking only the plain promises that matter. You warn Pelyn about the bargain you’re spending and promise to pay interest in transparency once the gyre is safe, because debts unacknowledged drag worse than bad balance. The hawkweed shakes with laughter or disapproval—you cannot tell which—while the air learns to listen to the script you prefer.",
+            "outcome": "The snakes strike at the showy false load and waste their fury on staged bravado, leaving your real work untouched except for a few jealous crackles that never find a path. The gyre responds well to your two-faced theater only because the hands on it are single-hearted, and Pelyn’s notes underline that point with stern satisfaction she refuses to hide. Vara calls you clever in a way that is both compliment and warning, and she makes you repeat the true load-story twice afterward so the gyre does not learn to expect masks. Word of your method travels faster than you would like, earning you a sly nod from a Quillmask runner and a raised brow from an Emberwatch warden who prefers his sums without shadows. Even so, the Chainwright ledger accepts your joint stewardship once you return, the Orin scholars concede that a well-declared ruse can protect a better truth, and the testing bay doors open on schedule to hear which stories the gyre will trust when the city’s safety is at stake."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Feathered Gyre core suitable for the Iron Cradle, still spinning with its native tale and ready to be taught Skarnhold’s promise of motion."
+        },
+        {
+            "type": "Lore",
+            "description": "Orin load-story notes compiled with Pelyn and Vara, cataloging phrases, cadences, and postures the gyre prefers under varying weights."
+        },
+        {
+            "type": "Reputation",
+            "description": "Increased esteem with the Chainwrights and Orin scholars for retrieving the gyre without stopping its spin and for honoring the ethics of balance."
+        },
+        {
+            "type": "Access",
+            "description": "Use of a Chainwright testing bay for assembly and calibration sessions tied to the Iron Cradle project."
+        }
+    ]
+}

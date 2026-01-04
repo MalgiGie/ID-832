@@ -1,0 +1,56 @@
+{
+    "id": "M4",
+    "title": "Question for the Mirror-Queen",
+    "quest_giver": "Tavi Mireline",
+    "description": "You return to the place where questions are paid for in reflections: the Shattermere. The crater-lake lies north of Miravale like a torn eye, its mirrored shelves catching moonlight and returning it as knives. Tavi Mireline tightens the straps on your dive harness and smiles like someone rehearsing bravery. The Glasswrights’ Syndicate would sell permits to drown you, but the Archivists embargo unlicensed retrievals to protect divers from echo-sickness. You know how to step between orders when the water is watching, and you carry a sealed gutskin with a question written in salt-soot: how to cut bindings without shattering a vow.\nThe water is too clear and your reflection lags a heartbeat in the locket on your chest, as if deciding whether to follow. Down where the moon-maddened eels cradle themselves against glass reefs, the hum changes phase and your bones remember that sound from the Loom. When the Mirror-Queen answers, it is not in words but in the way your breath mistimes and then learns a new rhythm.",
+    "objectives": [
+        "Secure a temporary dive pass by convincing Guildmother Sere Aven or presenting an Archivist blessing",
+        "Dive with Tavi Mireline to the mirrored shelves in the Shattermere",
+        "Present a sealed question to the depths and retrieve the answering plate",
+        "Evade moon-maddened eels and avoid echo-sickness by using starshard grit",
+        "Return with a mirror-glass plate that carries a safe cutting method in tone"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tavi Mireline",
+            "text": "I hate the way this lake watches. It makes you feel like a child caught stealing fruit, only the fruit is your face. But I’ll go where you go, Lio. If you must ask the Mirror-Queen another price, make it something you can afford to give twice. I don’t want to pull you to the surface and wonder whose eyes I’ve brought back."
+        },
+        {
+            "speaker": "Sere Aven",
+            "text": "Divers die for less than stubbornness every drought-year. Bring me a plate the size of my palm and free of fractures, and I will forget to tally a permit for you. Bring me superstition, and I will tally every breath you took as a debt. My kilns are hungry, Fenwater. Do not feed them ghost stories when I asked for glass."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "I will bring you glass that sings true, Guildmother, and I’ll keep superstition for places where it knows my name. Tavi, when we go down, count to your heartbeat and mine together. If the echo in me slips a step, tug twice. I’m not trading anything I can’t live without. I’ve done that once, and the Moor still knows how to say me sideways in the reeds."
+        },
+        {
+            "speaker": "The Mirror-Queen (voice in the hum)",
+            "text": "Truth for reflection, reflection for truth. Cut not the oath, but the knot of hands that hold it too tight. Change the rhythm, and the binding bends without breaking; sharpen your breath to the edge of mercy. Pay in a memory given to water, and the water will remember you are kind."
+        },
+        {
+            "speaker": "Tavi Mireline",
+            "text": "You came back on the same count I sent you down with. I’ll take that as luck or as skill, either is fine with me. If the plate teaches your hands a gentler knife, then maybe we can cut a city free without bleeding it white."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ],
+        "related_locations": [
+            "Shattermere",
+            "Sunken Glassworks"
+        ],
+        "factions_involved": [
+            "Glasswrights' Syndicate",
+            "Archivists of Vow"
+        ]
+    },
+    "rewards": [
+        "Mirror-glass answer plate (teaches ‘Soft-Cut’ method for oath-ties)",
+        "Temporary truce with the Glasswrights (transport neutrality for one run)",
+        "Echo-sickness eased for one day when holding the plate"
+    ]
+}

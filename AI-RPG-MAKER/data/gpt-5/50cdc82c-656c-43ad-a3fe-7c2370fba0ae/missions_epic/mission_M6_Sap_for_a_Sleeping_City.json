@@ -1,0 +1,79 @@
+{
+  "missions": [
+    {
+      "id": "M6",
+      "title": "Sap for a Sleeping City",
+      "quest_giver": {
+        "name": "Erynn Mirrorfall",
+        "affiliation": "Mirrorclose artisan"
+      },
+      "description": "Mirrorclose breathed with mellow color as dusk braided itself through alleys of lamp-makers and glasswrights, every window a held breath, every pane a captured hymn. In Erynn Mirrorfall’s studio, sheets of stained emberglass leaned like frozen waves against the wall, and a sketch of sigils and pour-lines mapped a lacquer that would cradle the Shard’s song without rousing sleepers to wander rooftops like moths. She had coaxed a recipe from old guild notes and a whisper traded under bead-curtains, a resin-lacquer that needed night-sap from the Moonless Orchard gathered at the boundary where the Order’s consecrated stakes falter and the Night Orchard’s shadow-wards begin their hush. Jaya Basaltrip of the Asterion Collegium would meet there with instruments humming a counter-chord, ready to bind the sap before the grove’s half-dream could lean its thumb into the mixture and smudge all sums, and Lysa Shardhands, an Order warden with command in her voice like a chime, had sworn she would look the other way until true night’s first bead fell from the sky. Yet the grove had its own arithmetic: directions kinked, compass needles sighed, and fear went slack while debts of memory came due; in that shade Jaryn Chainwake had once eaten night-fruit and lost the shape of a kindness, a laughter on a ropewalk, the scent of tar and rain-wet hemp, a lantern glow caught in someone’s lashes. Now the city’s sleepwalkers drifted at dusk, following the Shard’s strengthened hum as if tides moved in their blood, and the lacquer might counsel the light to be gentler, a hand smoothing a brow. To walk the Orchard’s hem was to risk being walked by your own past, to meet a memory set free like a stray dog, to be asked if you would call it back or let it vanish a second time for the sake of a city that needed quiet nights. Between the ward-stakes and the shadowed hedge, between measured counts and murmured promises, the work would be done or not at all, and all debts would be tallied in light and silence. The Luthien ran friendly beyond the grove, but under the leaves it was a river of another kind, one that ran through voices, names, and the places where vows were tied too loosely and slipped.",
+      "objectives": [
+        "Meet Erynn Mirrorfall and Jaya Basaltrip at the edge of the Moonless Orchard.",
+        "Collect night-sap from marked quince and smoky plum trees without stepping into full shade.",
+        "Assist Jaya in mixing the resin-lacquer and test it on lantern panes.",
+        "Evade Night Orchard watchers and respect the Order’s boundary conditions."
+      ],
+      "dialogue": [
+        {
+          "speaker": "Erynn Mirrorfall",
+          "lines": "Light can be shaped like a hymn and held like a hand, and I have spent half my life learning which lead-lines make it gentler and which edges make it cruel..."
+        },
+        {
+          "speaker": "Jaya Basaltrip",
+          "lines": "The sap is temperamental and storied, like a singer who remembers every hall that ever held her voice..."
+        },
+        {
+          "speaker": "Lysa Shardhands",
+          "lines": "You will hear me say I did not see you cross that last white thread of dust on the rootline..."
+        },
+        {
+          "speaker": "Iven Shadequinch",
+          "lines": "You step close to a hedge we have tended with black-sap and patience..."
+        },
+        {
+          "speaker": "Jaryn Chainwake",
+          "lines": "The Orchard took a piece of me once and I have worn the hole like a badge I don’t show..."
+        }
+      ],
+      "choices": [
+        {
+          "id": "C1",
+          "title": "Honor the Boundary",
+          "text": "You refuse the deeper call of the Orchard and keep to the border stakes where the Shard’s blue breath still reaches like a lantern’s leash...",
+          "outcome": "The lacquer binds clean, the pane’s hum rounding its edges until it feels like a hand smoothing a brow..."
+        },
+        {
+          "id": "C2",
+          "title": "Pursue the Walking Memory",
+          "text": "When the laughter you forgot steps across the shade like a tide-line shape and looks back, you follow it...",
+          "outcome": "The lacquer you and Jaya mix is deeper, more resonant, and when it settles on the pane it hushes the Shard’s tug..."
+        },
+        {
+          "id": "C3",
+          "title": "Bargain with the Night Orchard",
+          "text": "You step to the hedge and speak in the careful cadence of those who remember being ferried at night...",
+          "outcome": "The mixture sets obedient as a well-trained current, and the test pane glows with a velvety restraint..."
+        }
+      ],
+      "connections": {
+        "previous": ["M5"],
+        "next": ["M7"]
+      },
+      "rewards": [
+        {
+          "type": "item",
+          "description": "Crate of Resonant Resin-Lacquer, a set of vials and brushed panes that gently reduces sleepwalking within a small warded area without muting the Shard’s song."
+        },
+        {
+          "type": "reputation",
+          "description": "A letter of thanks from the Asterion Collegium, improving their trust and opening future collaboration on harmonics and field tests."
+        },
+        {
+          "type": "memory",
+          "description": "Personal memory fragment: a half-remembered laughter at a ropewalk, hinting at the kindness you lost and guiding future choices in quiet ways."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "M12",
+    "title": "The Reedmother’s Compact",
+    "quest_giver": "Nelai Pruen",
+    "description": "The flood is bled, the bypass stunned, and the city breathes easier, but the channels still knot themselves on moonless nights. Nelai Pruen comes to you with wet hair and solemn eyes: the reed island has risen under a sliver moon, and the Reedmother is awake. The founders bargained with her for safe harvests, trading moonlight for mercy. Now the city must bargain again—this time for nights that do not run on fear and schedules that do not drown the poor. You will boat with Nelai to the island that isn’t there by day, carrying the runecap, the bell-chart copied by Seler, and a promise written in your own hand: a pilot’s seat in any council that sets the river’s breath. The Reedmother speaks in currents and in the hush of reeds against wood; you must listen with your hands.",
+    "objectives": [
+        "Sail with Nelai Pruen to the appearing island under a sliver moon.",
+        "Offer the runecap and a copy of the bell-chart as tokens of respect.",
+        "Speak the promise of a pilot’s voice in flood and gate councils.",
+        "Accept the Reedmother’s conditions and seal the compact without blood.",
+        "Return to Thyssara and present the compact to the Lantern Court for ratification."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Nelai Pruen",
+            "line": "Do not point at the island when it rises. That is rude here. You will keep your oar low and your breath lower. The Reedmother doesn’t love us; she remembers us, and that is better. I will speak the names of the drowned as we approach, and you will keep count with your fingers so the river knows we have not forgotten."
+        },
+        {
+            "speaker": "The Reedmother",
+            "line": "You come with the song of fallen bridges on your tongue and a jar that smells of moths and rain. The night does not owe you safety; it owes you a chance to ask. I remember the bargain with the ones who built on stilts and promised never to ring a third bell at dawn when the flood was bound. You have rung it since. Do not lie; reeds hear lies the way glass hears a thrown stone."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "I bring you a runecap that holds a note steady, a chart that remembers how to be a city without cracking, and a promise written in calluses. Give Thyssara nights that don’t knot boats to their own fear, and we will seat pilots in rooms where levers live. We will keep the third bell silent on the day you name, and we will bring grain to the alleys when the river cheats its schedule. Take my word and bind it to my wrist if you must; there is already a knot waiting for it."
+        },
+        {
+            "speaker": "The Reedmother",
+            "line": "Three conditions: First, your dawn bell sleeps on Flood-Binding Day and wakes only to call the names of those the water kept. Second, a pilot will sit where schedules are braided, and no gate shall close without a hand that knows rope on its lever. Third, you will return the scent of the star-etch to the water when the moon is a nail paring, so the sky remembers what it broke. I will knot your channels into gentler braids. Fail, and I will tie your boats to the same reed until hunger teaches you again."
+        },
+        {
+            "speaker": "Daru Fenlik",
+            "line": "Present the compact and stand with your back straight. The Court hates being told the river has opinions, but they hate riots more. Bring me your conditions written on reed-pith and I’ll file them where no one’s ink can smudge them. If anyone asks who gave you the right to parley with a lake, tell them the city did when it decided not to drown."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        "A ratified compact: pilots gain a seat on flood schedule councils (fulfills a key ambition)",
+        "Blessing of the Reedmother: channels un-knot for you once in peril (one miraculous escape)",
+        "Founding charter draft for a free pilot school endorsed by the Lantern Court and the Order of Moths"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Yassa",
+    "surname": "Nim",
+    "race": "Human (Aerolith-Touched, Unmoored engineer)",
+    "age": 34,
+    "appearance": "Pale skin haloed by static-light hair, copper-thread tattoos along collarbones; eyes that catch lightning.",
+    "character": "Visionary and impatient, fiercely loyal to their crew and cause.",
+    "traits": [
+        "Daring",
+        "Articulate",
+        "Compassionate to grounders",
+        "Anti-monopoly"
+    ],
+    "skills": [
+        "Cloudfruit-lift engineering",
+        "Clandestine logistics",
+        "Public spectacle planning",
+        "Emergency rigging"
+    ],
+    "talents": [
+        "Intuitive buoyancy sense",
+        "Resistant to minor shocks",
+        "Improvises with scrap flawlessly"
+    ],
+    "flaws": [
+        "Reckless experiments",
+        "Distrusts institutions",
+        "Romantic entanglements complicate ops"
+    ],
+    "dreams": [
+        "Unchain a test district during a Crown of Cirrus",
+        "Share lift freely across classes",
+        "Prove the Tenth Knot can be safe"
+    ],
+    "secrets": [
+        "Planted a mirror-portal key in the Sky Market",
+        "Was the Archives’ silent mole now hunted by Orchids",
+        "Hid a charged cloudfruit cache under a chainhouse stair"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ovelle Kite",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Seresya Thorn",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Greydin Korr",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Erynn Sythar",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Nalia Pree",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Binder Hark Tamsin",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Saela Morn",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

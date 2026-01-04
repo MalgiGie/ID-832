@@ -1,0 +1,55 @@
+{
+    "id": 5,
+    "title": "Netting the Wind",
+    "quest_giver": "Orrix Vant",
+    "description": "A strange stillness haunts Skyhook Cliffs, where cables hum and kites claw the air. The Brass Aerie Collegium suspects illegal net-engines are siphoning wind to sell quiet in the market of fear. Dean Orrix Vant, whose respect Raithe earned in a gale that wanted silence, sends him to climb gantries and inspect gusts written by song. Hooklings—cliff urchins—whistle warnings in a code of their own, and wind-oracles squint at the lines like harp strings. The air itself bears the scratch of a thief’s hand. Ratchet hardliners and Tidewright apprentices trade blame in the cliff markets below as glider skins hang like flags of truce.",
+    "objectives": [
+        "Ascend the Skyhook gantries and use the Windglass Visor to trace where wind has been written and stolen.",
+        "Disable at least two net-engine anchors without letting them snap into the cliff markets below.",
+        "Rescue a trapped Aerie apprentice who fell into a siphoned calm pocket.",
+        "Recover proof of who commissioned the net-engines: invoices, marks, or signatures."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Orrix Vant",
+            "line": "Air may seem free to those who merely breathe it, but we who write upon it know its grammar. Someone is stealing the commas—the pauses that let storms inhale—and selling them as safety. That is a vulgarity I cannot tolerate. Climb, Calder, and read the wind for me. Your visor will show you where fingers scratched at its skin."
+        },
+        {
+            "speaker": "Hookling Ressa",
+            "line": "You climb like a Saltwarden on a dare, big man. The stillness eats whistles; it ate my brother’s thread and tried to drink him. If you cut the wrong line, the wind will fold you like bad silk. If you cut the right line, the cliffs will sing again and pay you in echoes."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "line": "I’ve cut chains under surges and kites under gales; I know the weight of a line. I’ll move slow and keep the market out from under my feet. If the invoices whisper a name, Orrix, I’ll bring it to you even if it wears a Tidewright sigil."
+        },
+        {
+            "speaker": "Orrix Vant",
+            "line": "Bring me names, not assumptions. And Calder—if you find a way to make peace between wind and water law, I will owe you more than a lens. I will owe you a sky-debt."
+        }
+    ],
+    "connections": {
+        "previous": [
+            4
+        ],
+        "next": [
+            6,
+            8
+        ],
+        "related": [
+            3
+        ]
+    },
+    "rewards": {
+        "items": [
+            "Windglass tuning shard (improves reading of aeromancy)"
+        ],
+        "coin": 70,
+        "faction": {
+            "name": "Brass Aerie Collegium",
+            "favor": "A guaranteed wind-slot for critical departures, once."
+        },
+        "unlock": [
+            "Cliff gantry access without toll for a limited time."
+        ]
+    }
+}

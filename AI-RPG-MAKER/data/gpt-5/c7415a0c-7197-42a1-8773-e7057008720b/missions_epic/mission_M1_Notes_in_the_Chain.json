@@ -1,0 +1,77 @@
+{
+    "id": "M1",
+    "title": "Notes in the Chain",
+    "quest_giver": {
+        "name": "Selka Vire",
+        "affiliation": "Anchor-Compact of Dorsalhaven"
+    },
+    "description": "The jaw-harbor gasps and clamps under the pull of a spring tide, and every chain-link along Orum’s bones answers with a breath that is almost speech. Above the ledger-stacked benches of the Anchor-King’s Hall, banners of salt-stiff silk stir as if they remember storms, and in that hush the Tidemill Array sends a strange note through stone and sinew. It is a sound like a lantern catching on its first sip of marrow, a thin silver hum that turns teeth to tuning forks and makes old griefs rise like blisters. Matron Selka Vire waits with the poise of a knife laid beside a meal, her fingers resting on tariff columns that have steadied empires and sunk households, and her eyes count what the numbers cannot hold. She speaks of contracts that tremble when the chains do, of convoy schedules that blur at the edges when the Array misses its step, and of rivals who would buy a single wrong note to rent the city’s spine in pieces. Foreman Garrik Shale has sounded his own alarm over the drum and spray, saying the great wheels slip their rhythm on nights the rime-lanterns burn with a cold too clean to be honest. Pilgrims in their kelp-silk veils answer that Orum turns in sleep and the sea hums in sympathy, and they light vigil candles under the ribs while Brinelaw Keepers weigh writs that taste of iron. You are Mara Kestrel, Tideborn and oath-bitten, a bowstring listener whose map of songs threads between brine and law, and the Matron presses a weighted brass pass into your palm like a coin that knows your name. Tonight you will walk the chainwheels while the tide claws at the harbor mouth, your lantern shuttered and your ear bent to the city’s secret throat, seeking a shard, a stain, a truth that can be priced, feared, or sung.",
+    "objectives": [
+        "Meet Selka Vire at the Anchor-King’s Hall and accept a temporary Array pass.",
+        "Report to Foreman Garrik Shale at the Tidemill Array and survey the chainwheels during a strong tide.",
+        "Locate the source of the discordant hum and recover any unusual fragments or evidence.",
+        "Return the findings to Selka Vire and provide a preliminary assessment."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Selka Vire",
+            "lines": "You stand at a crossing of songs, Mara Kestrel, where coin and current attempt to conduct each other and sometimes refuse. The ledgers in my care carry one melody, neat as score-lines, and the Array carries another, raw as surf and older than law. Between them yawns a silence that swallows profit and breeds panic, and in that silence rivals sharpen their little knives and pray for us to flinch. I sponsored your probation because you hear what others dismiss as omen and you return with something a magistrate can weigh without sneering. Walk the Array for me, not as a clerk afraid of spray but as a listener who knows the difference between sabotage and a dreaming beast. Bring me more than superstition; bring me a shard, a stain, a proof that tells me if I must purchase compliance or brace for war. If the Union plays games with tempo, I will pay to end the game before it becomes a riot; if Pilgrims are right, then we must learn the rhythm and trade with it instead of against it. Remember the Night of Unmoored Chains and the price we paid in lives and reparations, and then understand why I ask you to put your ear against every turning tooth and name the singer."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "I have walked those wheels in stormlight and in calm, Matron, and I have felt the bite of a slipping tooth in the notch of my right ear more times than I care to count. When iron sings wrong my jaw aches and my fingers twitch for a line that is not there, as if the city asks me to brace it like a friend who stumbles. I will take your pass and the weight of your worry, and I will go where the spray salts the lungs and the noise becomes a kind of sky. If the Array hums a true change, I will find where the note is plucked and whether the hand is human, holy, or hungry. If it is a lie, I will hear the hand that lies, and I will bring back something that stings the tongue the way Oathwell brine does when truth is near. I will speak plain to Foreman Shale, I will lend ear to the Pilgrims if they bid me be still, and I will return before the tide turns twice with a story that can stand upright."
+        },
+        {
+            "speaker": "Garrik Shale",
+            "lines": "We double-check rivets by Brinelaw and by grief since the night the chains cut the docks, and still the Array slips a half-beat at shift-change like a drunk trying to dance sober. Tools go slick in good hands, and I have lost two crew to cold shock in the sluices this month because footing turns faithless when that damned note comes up through the grating. I won’t have my people blamed for someone else’s corner-cutting, nor will I let the Compact squeeze overtime by candle then call it devotion when it is merely danger dressed in ledgers. You walk quiet and you listen truer than most, and if you say the hum is real I will put my mark beside yours and force the Hall to hear the truth over the clatter of coin. If you say it is a trick, I will slow the wheels to a crawl and let the city count the cost with me until the trickster’s margin drowns them. I will walk you under the teeth during the strong tide and point where we feel the slip like a heartbeat skipped, and you can hang your lantern where the spray cannot kiss it and tell me if the sea is making a promise or a threat."
+        },
+        {
+            "speaker": "Siala Nerm",
+            "lines": "Orum dreams, child of rope and bone, and when a sleeping giant turns even the sand remembers how to move in its cradle. The Array hums because the sea is reminded of a heart it once followed, and metal that has drunk so much tide cannot help but answer like a choirboy who still knows the hymn. You will be told to hunt saboteurs, to tighten chains, to quiet the hymn with coin and law because fear makes tidy minds, but fear is a poor musician and it breaks more than it mends. Listen first, longer than is comfortable, and let the cold in until your bones ring; if you hear a pulse, do not mistake it for malice simply because it is powerful. Bring back what the sea gives you and not only what the Hall asks for, and you may teach them to count in a new meter instead of forcing the water to march. If you must choose between speed and reverence, choose reverence, and you will not go hungry for it today even if it tastes of kelp and patience."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Lay a saboteur’s snare among the chainwheels",
+            "text": "You decide the hum is a man-made chord, a counterfeit note braided into honest thunder, and you set about proving it like an archer stalking a lantern-fish that mimics a star. You mark the shift-change Garrik curses and salt a handful of bolts with chalk so fine only a thief could smear it, then hide yourself in the mist where the sluice-lash will hide your breathing. You shadow the lamplighters’ route and count their steps, then linger by a pressure-gate to watch how the wheel teeth kiss and part, listening for the hiss of powder or the scrape of a tool that should be still. When the tide crests, you douse your lantern and taste Oathwell brine from your phial to steady your will, then you let patience be your knife. The night stretches thin as wire and you feel the city’s song climb your spine like a ladder, and you hold your breath until the moment word becomes deed under your very hand.",
+            "outcome": "A shadow steps where a worker would not, and your bowstring sings a warning as you see a smear of false halite rubbed into a bearing to make it squeal and stutter. You take the saboteur by surprise with a grapnel pull that leaves him clinging and cursing, and a pouch spills at his belt full of filings that smell of cheap salt and a faint, wrong-cold scent. Garrik’s crew bear witness as you scrape a thin paste from the bearing that eats at the lacquer like moths at cloth, and you bottle a thread of it alongside a tiny sliver of bone-metal the tool left behind. When you return to the Hall, Selka listens to the clink of your evidence and pays you with tight approval, weighing the cost of a quiet purge against the danger of a louder reckoning. She assigns you the same temporary pass for a fortnight and counts your honesty as profit, while Garrik marks a minor favor beside your name for catching a hand he could not see. The shard you salvaged hums faintly near water despite the sabotage, and you begin to wonder if even the counterfeit note was striking something deep that answered despite the trick."
+        },
+        {
+            "id": "C2",
+            "title": "Halt the Array for a breath and listen for Orum’s pulse",
+            "text": "You choose reverence over speed and petition Garrik to grant you one measure of stillness, a single slow-turn that lets the metal exhale rather than grind. The Union grumbles and the tide pulls like a great beast trying to rise, but you stand with your palm on the rim and feel for a rhythm beneath the clamor of industry. You shutter your lantern, let the cold soak your sleeves, and count heartbeats until the roar of the sluices becomes a field of quiet points, each a star you can name. The Pilgrims’ hymn carries along the ribs like a thread drawn through bone-lace, and you align your breathing to its measure until your jaw stops aching and your ear stops flinching. In that held breath you press your cheek to the wheel and the city answers, not in words but in a low swell that seems to move your blood for you, and you know where to reach.",
+            "outcome": "Your fingers brush a seam where lacquer meets ancient bone and a crumb comes away, not rust and not calcine, but a thumb-sized shard of bone-metal composite cooled by a song no crucible knows. It hums not with fear but with orientation, tuning itself near moving water like a compass that prefers poems, and Garrik hears it too though he will not say it in front of all his crews. When you return to Selka, you tell her no saboteur’s hand touched this seam and that if one did their punishment would be to learn awe, and you place the shard upon her ledger so the ink can feel its hum. She pays you in silver and in silence, granting your pass for a fortnight and writing a debt of listening in her own neat hand to justify a future slow-turn, while Brinelaw’s taste of iron lingers in your mouth as if truth approves. Garrik marks a minor favor beside your name for choosing to save lives before tempo, and the shard becomes your companion, singing faintly whenever you pass a chain in motion as if greeting kin."
+        },
+        {
+            "id": "C3",
+            "title": "Enforce a safety-first slow-turn and audit every link with the Union",
+            "text": "You decide that blame, whether holy or criminal, can wait while breath cannot, and you ask Garrik to invoke the safety charter that makes the Array crawl like a cautious crab. You walk the catwalks with chalk, oil, and a rigger’s patience, marking hairline fractures, swapped bolts, and seals that look lawful until you smell the varnish and know they are too fresh. You speak to crews in their own tongue, trading smuggler’s cant for dockside truth until the jokes fall away and the confessions arrive in a cadence as steady as the tide-clock. In the lull, you angle your lantern so its light is a whisper not a shout, and you lean over the grating to listen to the tone each wheel throws into the belly of the harbor. The pattern that emerges is not a single wrong note but a harmony slightly bruised, and you learn the bruise by touch the same way a bonewright learns a rib’s curve in the dark.",
+            "outcome": "You find a handful of counterfeit safety seals, not on the main drives but on secondary gates where an overworked crew might cut time to please a tariff, and you pry them off and line them on the rail like teeth pulled from a lying mouth. In the muck beneath one gate glints a sliver of bone-metal composite vibrating like a plucked string, and when you fish it out the hum steadies across three wheels as if a weight were removed from a song. Selka receives your report with a frown that means respect, pays you the Compact silver, and extends your Array pass for a fortnight while ordering a quiet audit that will ruin at least one subcontractor’s week. Garrik clasps your forearm and writes you a minor favor in chalk on the Union board before the tide can wipe it, promising you crews who will answer your whistle on a bad night. The shard you pocket keeps humming near moving water, and you realize the city’s bones are beginning to trust your ear, even as the Hall begins to trust your judgment."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "currency",
+            "description": "30 silver stamped with the Anchor-Compact seal, paid in a salt-stiff purse that clinks like rain on a rib."
+        },
+        {
+            "type": "pass",
+            "description": "Temporary Tidemill Array access pass valid for one fortnight, brass-weighted and inked against forgery with Brinelaw countersigns."
+        },
+        {
+            "type": "reputation",
+            "description": "Minor favor with the Chainmaster’s Union from Foreman Garrik Shale, recorded in grease-chalk on the Array board and repeated in crews’ good word."
+        },
+        {
+            "type": "item",
+            "description": "A thumb-sized humming shard of bone-metal composite that resonates faintly near moving water, its tone steadying when held against chain-song."
+        }
+    ]
+}

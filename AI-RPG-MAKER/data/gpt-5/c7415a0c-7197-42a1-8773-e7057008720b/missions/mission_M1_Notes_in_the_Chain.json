@@ -1,0 +1,42 @@
+{
+    "id": "M1",
+    "title": "Notes in the Chain",
+    "quest_giver": "Selka Vire",
+    "description": "The tide is running strong through the jaw-harbor, and the Tidemill Array sings a note it should not know. Matron Selka Vire calls Mara Kestrel to the Anchor-King’s Hall under banners stiff with salt, the ledgers like tablet-waves around her. She speaks of contracts that tremble when the chains do, of convoy schedules slurred by a hum no tariff can reckon. Foreman Garrik Shale has sounded alarms at the Array, claiming the machines slip their rhythm on nights the marrow-lamps burn cold; Selka hears sabotage, but the Pilgrims whisper it is Orum’s dreaming. The city remembers the Night of Unmoored Chains, and the Brinelaw stones taste of iron today. Selka wants a watcher who can hear the city’s secret songs and not flinch—someone whose bowstring has hummed this note before. She presses a weighted brass pass into Mara’s palm and orders her to walk the chainwheels and listen for what the ledgers cannot tally.",
+    "objectives": [
+        "Meet Selka Vire at the Anchor-King’s Hall and accept a temporary Array pass.",
+        "Report to Foreman Garrik Shale at the Tidemill Array and survey the chainwheels during a strong tide.",
+        "Locate the source of the discordant hum and recover any unusual fragments or evidence.",
+        "Return the findings to Selka Vire and provide a preliminary assessment."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Selka Vire",
+            "lines": "You stand at a crossing of songs, Mara Kestrel. The ledgers carry one melody, the Array another, and between them is a silence that swallows coin. I sponsored your probation because you hear what others call superstition, and you translate it to terms even Brinelaw can bite. Walk the Array for me. Bring back more than superstition—bring back a shard, a stain, a proof that tells me if I must pay for compliance or for war."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "I’ve walked those wheels in stormlight and in calm, Matron. When iron sings wrong my teeth ache and my fingers twitch for a line that is not there. If the Array hums a true change, I will find where the note is plucked. If it is a lie, I will hear the hand that lies."
+        },
+        {
+            "speaker": "Garrik Shale",
+            "lines": "We double-check rivets by Brinelaw and by grief since the night the chains cut the docks, and still the Array slips a half-beat at shift-change. I’ve lost two men to cold shock in the sluices this month because tools turn slick when that damned note comes. If this is the Compact squeezing overtime by candle, I’ll slow the wheels to a crawl and let the city count the cost. If it’s something deeper, I’ll put my mark beside yours and we’ll force the Hall to listen."
+        },
+        {
+            "speaker": "Siala Nerm",
+            "lines": "Orum dreams, child of rope and bone. The Array hums because the sea is reminded of a heart it once followed. You will be told to hunt saboteurs, to tighten chains, to quiet the hymn with coin and law. Listen first. If you hear a pulse, do not mistake it for malice."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        "30 silver stamped with the Anchor-Compact seal",
+        "Temporary Tidemill Array access pass (one fortnight)",
+        "+Minor favor with Chainmaster’s Union (Garrik Shale)",
+        "A thumb-sized humming shard of bone-metal composite that resonates faintly near moving water"
+    ]
+}

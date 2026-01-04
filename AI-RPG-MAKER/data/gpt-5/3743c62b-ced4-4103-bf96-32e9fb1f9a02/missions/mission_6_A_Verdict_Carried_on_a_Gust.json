@@ -1,0 +1,45 @@
+{
+    "id": 6,
+    "title": "A Verdict Carried on a Gust",
+    "quest_giver": "Saela Morn",
+    "description": "The Wind Court rises like a net woven from law and weather. Saela Morn, an advocate who keeps her hair braided like a rope she can climb out of an argument with, asks for proof and protection. The Court will hear a motion to cap Aerarium tariffs in poor harvest years, and the verdict bell will only bind if the wind carries its note to three corners. Night Orchids have chimes to bend eddies; some serve Matron Vessa, some serve only themselves. Lyris must walk the amphitheater’s under-stairs with a set of true-notes and the courage to use them, deliver the ledger evidence from the Aerarium’s secret credit line to the bench, and keep the wind honest without getting her pendant confiscated or her throat cut.",
+    "objectives": [
+        "Meet Saela Morn at the Wind Court and receive a sealed packet detailing the Aerarium’s secret credit line with the High Tithe Syndic.",
+        "Plant true-note chimes in the Court’s lower vents to counter illicit eddy-benders.",
+        "Deliver the sealed packet to the presiding judge’s clerk without Night Orchid interception.",
+        "Time your pendant chime to ensure the verdict bell’s note carries to three corners.",
+        "Exit via the signal vane ladders before Chainwarden marshals close the gates."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Saela Morn",
+            "lines": "Law is a lattice that hopes the wind will choose to move through it. We can make the lattice stronger, but we cannot command the breeze without lying to ourselves. If we prove the Aerarium purchased famine to sell light, we must be sure the bell does not stutter on its way to a corner that favors their purse."
+        },
+        {
+            "speaker": "Matron Vessa Greye",
+            "lines": "You meddle in airflow and oaths as if both were games played with ribbons. Remember our binding, Kael. I keep secrets alive by ensuring some truths are miscarried. If this verdict costs me a portfolio, you will bring me something richer than justice to replace it."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "I owe you, Matron, and I do not forget debts the way the wind does. But I will not choke a bell to save a ledger. If the Court must hear the truth, let it be a clear note. If it cuts you, consider how often your knives have cut others."
+        },
+        {
+            "speaker": "Nalia Pree",
+            "lines": "The noon gust will falter for seven breaths when the distant beacon shifts. If you chime then, the bell will ride the lull clean. I won’t lie for you, but I will not let the air lie either."
+        }
+    ],
+    "connections": {
+        "previous": [
+            5
+        ],
+        "next": [
+            7
+        ]
+    },
+    "rewards": [
+        "Wind Court pass-token (limited access to clerk corridors)",
+        "Public shifts in tariff policy reduce street hunger (minor reduction in city unrest)",
+        "Saela Morn’s patronage (legal advice and notarized oaths filed without fee)",
+        "Night Orchid pressure increases; Matron Vessa marks a debt payable in influence"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Ayo",
+    "surname": "Solace",
+    "race": "Human",
+    "age": 47,
+    "appearance": "Amber-skinned with gold-flecked eyes; sleeves stained by glowcap resin; hair in a silk wrap; scented with mint and hot glass.",
+    "character": "Charismatic and pragmatic, fiercely protective of apprentices.",
+    "traits": [
+        "Persuasive",
+        "Nurturing",
+        "Ambitious",
+        "Experimental"
+    ],
+    "skills": [
+        "Alchemy",
+        "Pharmacology",
+        "Supply logistics",
+        "Public health triage"
+    ],
+    "talents": [
+        "Mixes by scent alone",
+        "Calms crowds",
+        "Reads skin flush for fever"
+    ],
+    "flaws": [
+        "Cuts safety corners",
+        "Keeps grudges",
+        "Addicted to work"
+    ],
+    "dreams": [
+        "Raise a light-house to stabilize Heliolith oscillations",
+        "Open free clinics along the Sable Road"
+    ],
+    "secrets": [
+        "Secretly funds Veil Covenant fines",
+        "Testing a condenser-compatible enzyme without Collegium approval"
+    ],
+    "relations": [
+        {
+            "npc_name": "Lune Arikara",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Nyra Kest",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Meret Hal",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Avar Jen",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Thren Basso",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Maela Vint",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Kael Orisborn",
+            "relation_type": "Different goals"
+        }
+    ]
+}

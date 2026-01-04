@@ -1,0 +1,90 @@
+{
+    "id": "M2",
+    "title": "The Singing Bale",
+    "quest_giver": {
+        "name": "Maera Lockfen",
+        "affiliation": "Wardens of the Confluence"
+    },
+    "description": "The River Crown Citadel breathed its cool machine-breath as if the whole fortress were a slumbering iron leviathan, and the lock-mist pearled on every brass plate like sweat on a runner’s brow. Lio Fenwater entered under banners damp with fog, the echo-sickness humming in the hollows of the ears, the Starspan’s distant glow caught in the polished rivets of the gateworks. Down a stair where the stone remembered flood-years, a Warden vault waited with its door drawn open like a mouth that had a secret to spit. On a table stenciled with tide-marks and oath-numbers lay the bale: tarred canvas bound crosswise, corners hard as knuckles, the whole parcel shivering just enough to raise the hairs on the wrist when midnight’s memory passed through the room. It sang a single note that could have been sorrow or mathematics, and somewhere inside that tone was the curve of a familiar hand, the shape of a signature traced once in the Night Market Vaults with a lamp guttering and a knife laid politely on a ledger.\n\nCaptain Maera Lockfen was not a woman who mistook sentiment for law; her eyes weighed, filed, and shelved what they saw. She led Lio past racks of seized coilrope and ledgered contraband to the table, her jaw hard where duty had set, her voice quiet because good officers did not need volume to carry weight. The Wardens were arguing upstairs about spillway ratios and the Loom’s tempo, but down here only the blackglass sang and the vault listened while the brass plates around the walls shivered with the faintest sympathy. The bale’s hum nested in Lio’s bones the way a river current folds a boat to its grain, and the mirror-lens locket warmed to the proximity of a secret too long in the dark. Between the Embersleeve’s appetite for mischief and the Cobalt Collegium’s thirst for knowledge there lay a channel barely wider than a promise, and even in drought a channel can drown the incautious.\n\nA detained diver named Ressa Quay sat in sight of the evidence under respectful guard, her hair still salted from a night pulled short, her eyes red around their courage. Magister Vell’s request had already arrived by messenger—a cool note requesting spectral sketches and no drama—and Lio felt the ghost of the Collegium’s chime-plates in the joints of the fingers. Above them, in the reverb of the Citadel’s belly, the machine-gates sang their iron psalms and the city’s heart kept time. All the while the Starspan, with its calcite-threaded ribs and prayer-bells listening for omen, stood miles away with patient fear, as if every cadence of the Loom mattered to the basalt itself. The question at hand was not whether the song could be quieted, but how, and at whose cost, and with what inscription left behind for witnesses to judge when the water chose to remember.",
+    "objectives": [
+        "Meet Captain Maera Lockfen at the River Crown Citadel",
+        "Inspect the seized blackglass bale in the Warden vault and take resonance notes with Chime-plate E5",
+        "Interview Ressa Quay, a diver detained for couriering suspicious shards",
+        "Provide Magister Vell with a spectral sketch without compromising Warden custody",
+        "Decide whether to share a masking pattern to quiet the bale (record your choice on a brass leaf)"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Maera Lockfen",
+            "lines": "You and I don’t share a ledger, Fenwater, but I owe a life to a culvert you opened when panic made cowards of us all, and I pay my debts precisely. I’ll spend that debt on your ears today, because ears are the only tools I trust against songs that try to walk out of a room by themselves. This bale sings wrong, a single note with teeth, and city folk who sleep lightly are starting to dream about water walking off with their faces and leaving them to blink at an empty bowl. I won’t have panic, not in my watch, not in the shadow of the Starspan, not with the prophecy biting the heels of every rumor-monger in three wards. I will have answers that stand up in a hall of witnesses, answers that a Plate-Mistress can etch without her stylus shaking and that a Prior can hear without running to ring a crack-alarm under the arch."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "lines": "If the song is a key, Captain, it’s turning a lock in more than just ears, and that means whoever cut its teeth knew the wards it fits. Blackglass keeps secrets the way a canal keeps silt: it settles quiet until something stirs it, and then the whole channel clouds and the next boat goes blind. I can take notes with the chime-plate E5 and salt my fingers with starshard grit, dulling the echo long enough to catch the edges of the tone without waking what’s sleeping in there. I’ll carry a spectral sketch to Magister Vell that’s clean of custody stains, no fibers, no fingerprints, and I’ll return with the same silence I leave with. But if the hum maps to oath-tones, someone meant it to slip through ledgers like an eel through hands, and if I touch it wrong the eel grows teeth and decides it likes the taste of law."
+        },
+        {
+            "speaker": "Ressa Quay",
+            "lines": "I carried bundles for coin and because my sister coughs every time the kiln smoke goes wrong, and the apothecary tastes like salt more than mercy these days. Don’t write me down as a villain with a sharp jaw and a romance for knives; I can barely keep a knife from rusting in river air and I hate the taste of fear in my mouth. I never heard the bale sing until the Wardens dragged me out of my bed by the toe, and the only song I knew last night was the kettles men pound in the Night Market when the Wardens walk through. If there’s a signature in that sound, it isn’t mine, and if I’d known, I’d have tied a stone to the damn thing and given it to the bottom where the Mirror-Queen buys lies with faces. I’ll answer clean and steady to any witness-plate, but I want it sworn that my hands carried weight, not malice, and that whatever this is belongs to bigger games than a diver’s supper money."
+        },
+        {
+            "speaker": "Magister Vell",
+            "lines": "Bring me a resonance profile, not a shard, and for once let the Collegium be the quietest player at this table. I do not need the Wardens in my antechamber blowing steam and demanding keys while their oaths rattle like cheap hinges, and I do not need the Archivists breathing ethics down my neck before I’ve even named my variables. The Loom’s hum is developing a ghost-harmonic that catches on certain nights like a thread on a nail, and I will not say cause, not yet, because I like my career with all its limbs. But if this bale hums the same ghost, then we have a conversation to hold at a different volume with different listeners, and perhaps we move our chess pieces under the stage at the Drowned Theater while the chorus sings plausible deniability. Bring me clean curves, phase drift, and a good ear’s annotation, and in return I will give you counsel that will not get you pilloried before the Plate-Mistress for improvising with sacred tones."
+        },
+        {
+            "speaker": "Maera Lockfen",
+            "lines": "Choose, then, and choose in such a way that a witness who has never met you would still understand the measure of your hand. Share a masking pattern that calms the song and I can sleep my crews without hearing their teeth chatter, and the rumor-men will have one fewer kindling-stick to burn at dawn. Keep your pattern to yourself and write that choice on brass, so that when this goes to the Scriptorium I can say I asked you clean and you chose eyes-open, and so that no one can pretend you were tricked by blue robes or dark alleys. Either way, step carefully; I won’t forgive a lie, but I’ve forgiven worse told to my face by people who had the courage to hold my eye while they bled me of patience. If this bale ties Embersleeve blades to the Loom’s pulse, I will cut deep and expect your hand on the knife, but not on the throat, because law is for cutting rot from wood, not for carving trophies."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Give Maera the full masking pattern and inscribe the decision on brass",
+            "text": "You lay out the counter-hum with the patience of a lock-tender aligning gates, mapping the note into a gentle braid that soothes instead of shatters. You speak every step to witnesses and then you score the words onto a thin brass leaf with your own stylus, letting the salt in your scar sting you honest as you work. You demonstrate the strike on the chime-plate E5, soft as a moth-wing, showing where to let the tone breathe and where to bank it like a fire that must not die. You warn that it is a tourniquet, not a cure, and that the bale should remain sealed and cold, and you ask for a Warden to keep their hand on the wheel at all times. When the last letter curls into place, you pass the leaf to Maera and accept the weight of doing a thing openly in a city that loves its shadows.",
+            "outcome": "The vault grows quiet as the pattern settles over the bale like dusk over a canal, and the shiver in the tarred canvas softens to a slow, manageable breath. Maera’s crews sleep easier that night and the gossip thins, replaced by the unsensational relief of men and women who do not wake to a toothsome song. Rumor reaches the Rafter’s League that you helped the Wardens straight, and the next tow you buy with your token comes with a stare that weighs your loyalty but does not refuse your coin. Vell accepts the spectral sketch with a pursed smile, mildly vexed at being second to the Warden’s silence but intrigued by the clarity of your curves, and he promises to test the ghost-harmonic against the Loom without stirring politics. The Embersleeve hears of your steadiness and marks your name in two inks—one for reliability, one for interference—and a thin pathway opens toward the hand that tied this bale’s knot."
+        },
+        {
+            "id": "C2",
+            "title": "Offer a partial mask and privately deliver the full pattern to Magister Vell",
+            "text": "You show the Wardens a softened sequence that rounds the sharpest corners without silencing the heart of the hum, calling it a hedge against panic while evidence is preserved. You etch that decision on brass, careful and specific, naming the partiality for what it is so that no Archivist can say you played shell-games with the truth. You then take the longer way to the Collegium by canalside shadows and theater-lights, and in Vell’s quiet room you lay down the complete braid of the tone with an honesty you do not spend cheaply. You argue that the Loom must be protected if the Starspan is to hold, and that a scholar’s ear is best placed to find whether this song is a cousin or a counterfeit. You tell Vell that no shard will pass your hands and no custody will be compromised, but knowledge must be faster than rumor if the city is to sleep.",
+            "outcome": "The bale quiets only to a whisper, a compromise between calm and caution that keeps Maera’s jaw set but her temper leashed, because at least her crews can think. Vell receives the full pattern like a man given a key under a temple bell, promising restraint with every syllable and assigning two students to chase the ghost-harmonic through the Loom’s resonance maps. Word leaks that you hedged, and in taverns by the locks your name is spoken with a mix of grudging respect and wary suspicion, as if you were a bridge that sways but does not fall. The Embersleeve catches the scent of a gap and tests it with a probing question and a veiled compliment, fishing for the piece you did not give Maera, and your old debts tighten like wet rope. The advantage you gain is data: Vell’s first report hints that the bale’s hum is tuned to awaken something that sleeps in dry throats, and that knowledge may be the oar you need in a later flood."
+        },
+        {
+            "id": "C3",
+            "title": "Refuse to share any mask and commit the refusal to the Scriptorium",
+            "text": "You breathe the song and do not touch it, and you let your restraint be recorded in metal rather than in rumor, naming precisely why you chose not to move the waters yet. You argue before Maera and her witnesses that unaltered evidence is the only honest witness when the stakes twist between law and prophecy, and your words taste of salt because you know who taught you to love loopholes. You walk the brass leaf to the Scriptorium of Oaths yourself, and Plate-Mistress Hara Ninn watches as you etch your refusal like a confession that hurts and steadies in the same heartbeat. You send Vell a spectral sketch and nothing more, and you tell him in a thin, careful script that he can either bless your caution or damn it, but he will not change it by sighing. You sit with Ressa Quay a moment longer than you had to and you tell her you will not let the city feed on her to make itself feel safe.",
+            "outcome": "The bale sings on, tamed only by time and the watchfulness of Wardens who grind their teeth and warm their hands on kettles at midnight, muttering prayers they pretend are curses. Panic does not boil, but it simmers, and the Night Market Vaults become a score louder as the Embersleeve tries to drown the rumor with noise of its own. The Archivists nod at your brass leaf with the reserved approval of people who like decisions that do not need footnotes, and a small door opens toward Preceptor Iven Kall’s counsel when you need it. Maera’s respect does not soften into affection, but it stands, stone-true; she can point to your refusal and say she asked clean and you chose eyes-open, and that matters in a city of half-truths. Vell grumbles like a millstone yet sends a margin of figures that will help you understand the bale without laying a finger on its temper, and sometimes that is the only mercy a scholar can afford."
+        },
+        {
+            "id": "C4",
+            "title": "Slip a counter-hum to the Embersleeve while feeding the Wardens a decoy cadence",
+            "text": "You move like a rumor through the culverts and bead-curtains of the Night Market Vaults, wearing your reversible cloak like a decision you can undo if it stains. You teach a small, precise counter-hum to a pair of sleeved hands you do not name, calling it a trader’s lullaby fit to calm a bale that thinks itself a choir, and you make yourself swear you will live with what this births. You return to the vault and you etch a decoy cadence for Maera that will dampen the worst of the teeth without biting into the root, naming it openly and trusting that a partial truth is still a truth if you do not sell it as whole. You sleep poorly after, because you have played both sides of the river at once, and the river does not always forgive ambidexterity. You promise yourself that you will turn this leverage toward the Oath of Flow you dream of, because guilt tastes better when it seasons a plan to save a city.",
+            "outcome": "The bale quiets mysteriously in the small hours, as if soothed by a hand that did not sign the watch-bill, and the Wardens look first at their decoy pattern and then at one another and then at you. Maera does not accuse, because she is not a fool, but her questions grow as careful as a locksmith’s probes, and you feel the want of proof like a draught under a door. The Embersleeve profits in silence and Knife-Whisper Pell’s message arrives folded into a ribbon of glass beads, praising your discretion and reminding you that debts, like songs, have echoes. Your reputation splits along its grain: those who prize results call you effective, and those who prize clean lines call you slippery, and both are right in ways that make sleeping tedious. Vell, reading your spectral sketch, suspects an unreported variable and sends you a chime-plate tuned a hair flatter than E5 with a note that says only, “In case you ever decide to tune toward daylight.”"
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Access",
+            "description": "Warden catwalk pass for the Loom of Tides (restricted)"
+        },
+        {
+            "type": "Currency",
+            "description": "Modest stipend in sealed city scrip"
+        },
+        {
+            "type": "Reputation",
+            "description": "Reputation (modest) with Wardens of the Confluence"
+        },
+        {
+            "type": "Lead",
+            "description": "Lead on Embersleeve involvement (if pursued)"
+        }
+    ]
+}

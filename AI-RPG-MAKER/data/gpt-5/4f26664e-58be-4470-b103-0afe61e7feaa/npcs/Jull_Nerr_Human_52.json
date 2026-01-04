@@ -1,0 +1,62 @@
+{
+    "name": "Jull",
+    "surname": "Nerr",
+    "race": "Human",
+    "age": 52,
+    "appearance": "Broad-shouldered, hands scarred by rope and lime, Riverwarden blue sashes faded by spray; eyes like wet slate.",
+    "character": "Stoic and paternal; believes order keeps people alive.",
+    "traits": [
+        "disciplined",
+        "practical",
+        "stubborn",
+        "protective"
+    ],
+    "skills": [
+        "hydraulics",
+        "pressure reading",
+        "logistics",
+        "brawling",
+        "crew leadership"
+    ],
+    "talents": [
+        "hears gate-song changes at a whisper",
+        "uncanny weather sense along the chasm"
+    ],
+    "flaws": [
+        "inflexible",
+        "slow to forgive",
+        "drinks alone to quiet the river's silence"
+    ],
+    "dreams": [
+        "modernize the sluiceworks without political interference",
+        "eradicate smuggling dead-pulleys",
+        "secure Riverwarden autonomy from the Council’s whim"
+    ],
+    "secrets": [
+        "Once green-lit a smuggler run to carry plague tonics upriver",
+        "Built an unauthorized bypass valve during a flood and hid it in the ledgers",
+        "Owes Safra Ninebridges a personal debt for a rescue long kept quiet"
+    ],
+    "relations": [
+        {
+            "npc_name": "Edris Thale",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sereth Vex",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Tamsin Veil",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Safra Ninebridges",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Suri Yal",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

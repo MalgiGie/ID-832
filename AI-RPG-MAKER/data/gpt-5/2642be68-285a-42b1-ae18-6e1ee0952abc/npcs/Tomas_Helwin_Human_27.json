@@ -1,0 +1,56 @@
+{
+    "name": "Tomas",
+    "surname": "Helwin",
+    "race": "Human",
+    "age": 27,
+    "appearance": "Oil-stained gloves clipped to a belt, brass gauge pendant, tired eyes haunted by flow numbers.",
+    "character": "Methodical and idealistic; believes the river can be civilized without breaking it.",
+    "traits": [
+        "precise",
+        "skeptical",
+        "secretly romantic"
+    ],
+    "skills": [
+        "gate calibration",
+        "blueprint reading",
+        "alloy soldering",
+        "emergency flood mathematics"
+    ],
+    "talents": [
+        "intuits pressure shifts by sound alone",
+        "memorizes drumline patterns after one hearing"
+    ],
+    "flaws": [
+        "resents pilots who ignore protocols",
+        "tunnel vision under stress",
+        "fear of open water"
+    ],
+    "dreams": [
+        "prove a safer turnover schedule",
+        "reconnect the Gallowhill shaft without waking the hill",
+        "clear Tidewright honor shadowed by the Red Flood"
+    ],
+    "secrets": [
+        "copied a hidden bribe ledger from the Engine House and keeps it in a waterproof sleeve",
+        "knows the location of a bypass valve that could drain city basins",
+        "burned a test report that contradicted a superior's order"
+    ],
+    "relations": [
+        {
+            "npc_name": "Lysa Curren",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Seler Daki",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mira Cael",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orel Vaska",
+            "relation_type": "Different goals"
+        }
+    ]
+}

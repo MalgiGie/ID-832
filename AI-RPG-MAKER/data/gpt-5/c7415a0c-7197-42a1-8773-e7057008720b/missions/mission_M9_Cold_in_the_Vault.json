@@ -1,0 +1,44 @@
+{
+    "id": "M9",
+    "title": "Cold in the Vault",
+    "quest_giver": "Pera Ilem",
+    "description": "The Marrow Vaults breathe like a sleeping beast beneath salt-glass and iron. Pera Ilem calls Mara down three locks and two witnesses deep to a sealed chamber thrumming with Shell-Scribe glyphs. Workers whisper the word plague as if it has teeth; the crucibles are colder than they should be, and a lamp guttered blue over an apprentice’s hand. The fragment of coral-song Mara brought back might bridge the Vault’s hymn to something broader, and the humming shard from the Array sings near this sealed door. Brinelaw wants safety; Bonewrights want assurance the Vault won’t crack the city’s bones for profit. Somewhere in the cold is a stabilizer formula and an answer that lets lamps burn without blanching skin and eyes.",
+    "objectives": [
+        "Use the ‘Heart-Opening Verse’ to harmonize the sealed chamber and identify the source of the cold hum.",
+        "Assist Lira Thole in calibrating a safe venting of pressure without releasing volatile marrow vapors.",
+        "Decide whether to share the full stabilizer formula with Brinelaw, Rime-Lanterns, and Bonewrights equally or gate it through Pera Ilem.",
+        "Investigate the humming shard’s resonance with the chamber and record its pitch for the Resonance Chart."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Pera Ilem",
+            "lines": "Fear is a solvent; it strips nuance from the air. We will not let panic do here what plague could not. Sing your verse, match the pitch, and we will ease this chamber open like a jaw easing a stubborn knot. If there is a formula inside it will not be stolen; it will be stewarded. I have buried enough apprentices to know the difference."
+        },
+        {
+            "speaker": "Lira Thole",
+            "lines": "I can keep the gauges in the green if the song holds. If it slips, I need two heartbeats of warning to drown the chamber in brine and write off the work. You keep time for me, Mara. Count it like steps across a wet rope."
+        },
+        {
+            "speaker": "Osric Greyfen",
+            "lines": "If you find a cure and keep it behind a guild seal, I will haul you before the Oathwell so fast your lanterns will not have time to cool. If you find nothing, I will still publish a calm notice so the Market does not set itself on fire with rumor. I tell you this in brine before the locks, so you can weigh your conscience by the taste."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "Then we keep our count, we keep our cool, and we keep our word. If the Vault gives up a secret that saves fingers and faces, it belongs to the city that pays the price of our light."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        "Two vials of improved marrow stabilizer (prevents sputter in harsh wind)",
+        "Documentation of a shared safety protocol filed at Brinelaw (public trust)",
+        "+Significant favor with Rime-Lantern Guild (Pera Ilem) and goodwill with Brinelaw",
+        "Refined resonance note: the shard hum aligns with a deep pulse matching the Fathomfall legends"
+    ]
+}

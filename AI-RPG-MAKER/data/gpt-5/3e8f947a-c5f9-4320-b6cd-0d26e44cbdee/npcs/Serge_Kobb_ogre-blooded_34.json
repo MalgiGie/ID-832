@@ -1,0 +1,59 @@
+{
+    "name": "Serge",
+    "surname": "Kobb",
+    "race": "ogre-blooded",
+    "age": 34,
+    "appearance": "Broad-shouldered with a filed tusk and a patched Watch coat. A bone whistle hangs at his throat; arms crisscrossed by training scars.",
+    "character": "Duty-first pragmatist who prefers clear rules and clear lines. Protective of his patrol and suspicious of ‘cleverness.’",
+    "traits": [
+        "stoic",
+        "keeps boots mirror-clean",
+        "intimidating stare",
+        "collects confiscated dice"
+    ],
+    "skills": [
+        "crowd control",
+        "whistle-chain signaling",
+        "close-quarters baton work",
+        "ration escort logistics"
+    ],
+    "talents": [
+        "remembers faces and ration bites after one meeting",
+        "can silence a crowd with a single blast cadence"
+    ],
+    "flaws": [
+        "inflexible",
+        "slow to apologize",
+        "secretly resents Aerie pilots’ prestige"
+    ],
+    "dreams": [
+        "Rise to Legate and restore morale without temple strings",
+        "Clean the Watch of Night-Glass leaks"
+    ],
+    "secrets": [
+        "Accepted a Night-Glass bribe once to look the wrong way at a mirror-drop",
+        "Keeps an unsent confession to Legate Corvell stitched into his coat lining"
+    ],
+    "relations": [
+        {
+            "npc_name": "Legate Tharn Corvell",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Isha Velroon",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Nyssar Fenquill",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Pera Thass",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Bryx Thornbloom",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

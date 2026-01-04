@@ -1,0 +1,337 @@
+[
+    {
+        "from": "Isera Bent-Pike",
+        "to": "Keth of the Nets",
+        "type": "Hostility"
+    },
+    {
+        "from": "Isera Bent-Pike",
+        "to": "Sela Tidecount",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Isera Bent-Pike",
+        "to": "Aro Pike-Second",
+        "type": "Friendship"
+    },
+    {
+        "from": "Isera Bent-Pike",
+        "to": "Yasma Brine",
+        "type": "Different goals"
+    },
+    {
+        "from": "Isera Bent-Pike",
+        "to": "Caur Spinekeeper",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sela Tidecount",
+        "to": "Isera Bent-Pike",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sela Tidecount",
+        "to": "Jaxin Brail",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sela Tidecount",
+        "to": "Pell Lenseson",
+        "type": "Conflict"
+    },
+    {
+        "from": "Sela Tidecount",
+        "to": "Holl Riverborn",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sela Tidecount",
+        "to": "Keth of the Nets",
+        "type": "neutral"
+    },
+    {
+        "from": "Caur Spinekeeper",
+        "to": "Rhy Tidesong",
+        "type": "Alliance"
+    },
+    {
+        "from": "Caur Spinekeeper",
+        "to": "Keth of the Nets",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Caur Spinekeeper",
+        "to": "Nalea Chalkfinger",
+        "type": "Friendship"
+    },
+    {
+        "from": "Caur Spinekeeper",
+        "to": "Pell Lenseson",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Caur Spinekeeper",
+        "to": "Lur Oghrim",
+        "type": "Friendship"
+    },
+    {
+        "from": "Rhy Tidesong",
+        "to": "Caur Spinekeeper",
+        "type": "Alliance"
+    },
+    {
+        "from": "Rhy Tidesong",
+        "to": "Yasma Brine",
+        "type": "Different goals"
+    },
+    {
+        "from": "Rhy Tidesong",
+        "to": "Holl Riverborn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Rhy Tidesong",
+        "to": "Vara Rootlight",
+        "type": "Alliance"
+    },
+    {
+        "from": "Rhy Tidesong",
+        "to": "Isera Bent-Pike",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Keth of the Nets",
+        "to": "Isera Bent-Pike",
+        "type": "Hostility"
+    },
+    {
+        "from": "Keth of the Nets",
+        "to": "Sela Tidecount",
+        "type": "neutral"
+    },
+    {
+        "from": "Keth of the Nets",
+        "to": "Caur Spinekeeper",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Keth of the Nets",
+        "to": "Yasma Brine",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Keth of the Nets",
+        "to": "Jaxin Brail",
+        "type": "Alliance"
+    },
+    {
+        "from": "Keth of the Nets",
+        "to": "Aro Pike-Second",
+        "type": "Revenge"
+    },
+    {
+        "from": "Nalea Chalkfinger",
+        "to": "Caur Spinekeeper",
+        "type": "Friendship"
+    },
+    {
+        "from": "Nalea Chalkfinger",
+        "to": "Holl Riverborn",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nalea Chalkfinger",
+        "to": "Rhy Tidesong",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nalea Chalkfinger",
+        "to": "Lur Oghrim",
+        "type": "Friendship"
+    },
+    {
+        "from": "Nalea Chalkfinger",
+        "to": "Yasma Brine",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jaxin Brail",
+        "to": "Sela Tidecount",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Jaxin Brail",
+        "to": "Keth of the Nets",
+        "type": "Alliance"
+    },
+    {
+        "from": "Jaxin Brail",
+        "to": "Isera Bent-Pike",
+        "type": "Different goals"
+    },
+    {
+        "from": "Jaxin Brail",
+        "to": "Aro Pike-Second",
+        "type": "Conflict"
+    },
+    {
+        "from": "Jaxin Brail",
+        "to": "Pell Lenseson",
+        "type": "Different goals"
+    },
+    {
+        "from": "Vara Rootlight",
+        "to": "Rhy Tidesong",
+        "type": "Alliance"
+    },
+    {
+        "from": "Vara Rootlight",
+        "to": "Holl Riverborn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Vara Rootlight",
+        "to": "Yasma Brine",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Vara Rootlight",
+        "to": "Caur Spinekeeper",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Vara Rootlight",
+        "to": "Lur Oghrim",
+        "type": "Friendship"
+    },
+    {
+        "from": "Aro Pike-Second",
+        "to": "Isera Bent-Pike",
+        "type": "Friendship"
+    },
+    {
+        "from": "Aro Pike-Second",
+        "to": "Jaxin Brail",
+        "type": "Conflict"
+    },
+    {
+        "from": "Aro Pike-Second",
+        "to": "Keth of the Nets",
+        "type": "Revenge"
+    },
+    {
+        "from": "Aro Pike-Second",
+        "to": "Yasma Brine",
+        "type": "Different goals"
+    },
+    {
+        "from": "Aro Pike-Second",
+        "to": "Sela Tidecount",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lur Oghrim",
+        "to": "Caur Spinekeeper",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lur Oghrim",
+        "to": "Nalea Chalkfinger",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lur Oghrim",
+        "to": "Vara Rootlight",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lur Oghrim",
+        "to": "Isera Bent-Pike",
+        "type": "neutral"
+    },
+    {
+        "from": "Lur Oghrim",
+        "to": "Rhy Tidesong",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Pell Lenseson",
+        "to": "Caur Spinekeeper",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Pell Lenseson",
+        "to": "Sela Tidecount",
+        "type": "Conflict"
+    },
+    {
+        "from": "Pell Lenseson",
+        "to": "Yasma Brine",
+        "type": "Alliance"
+    },
+    {
+        "from": "Pell Lenseson",
+        "to": "Jaxin Brail",
+        "type": "Different goals"
+    },
+    {
+        "from": "Pell Lenseson",
+        "to": "Rhy Tidesong",
+        "type": "Different goals"
+    },
+    {
+        "from": "Yasma Brine",
+        "to": "Isera Bent-Pike",
+        "type": "Different goals"
+    },
+    {
+        "from": "Yasma Brine",
+        "to": "Keth of the Nets",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Yasma Brine",
+        "to": "Pell Lenseson",
+        "type": "Alliance"
+    },
+    {
+        "from": "Yasma Brine",
+        "to": "Rhy Tidesong",
+        "type": "Different goals"
+    },
+    {
+        "from": "Yasma Brine",
+        "to": "Nalea Chalkfinger",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Yasma Brine",
+        "to": "Aro Pike-Second",
+        "type": "Different goals"
+    },
+    {
+        "from": "Holl Riverborn",
+        "to": "Rhy Tidesong",
+        "type": "Friendship"
+    },
+    {
+        "from": "Holl Riverborn",
+        "to": "Nalea Chalkfinger",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Holl Riverborn",
+        "to": "Sela Tidecount",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Holl Riverborn",
+        "to": "Caur Spinekeeper",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Holl Riverborn",
+        "to": "Vara Rootlight",
+        "type": "Friendship"
+    }
+]

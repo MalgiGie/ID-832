@@ -1,0 +1,39 @@
+{
+    "id": "M4",
+    "title": "The Fen’s Answering Bell",
+    "quest_giver": "Tala Fenmint (Shiverfen guide)",
+    "description": "Southwest, the Shiverfen Reedmarch breathes as the wind pushes slow blackwater between reed catenaries. Tala Fenmint greets you with mint on her breath and peat on her boots, but her smile drifts when she speaks of a muffled chime under the peat. Riverfolk have argued for years about a sunken bell from a temple that never was, and the Order funds bell-hunters who never find more than silt. But when the Shard sang hard last dusk, a second, buried note answered and spooked herons from their snags. Tala wants you on her boat and your hook on her lines while she lifts the bell’s tongue from sucking mud and lamp-eel glare. The fen wives love vowbreakers and forgetful men; the reeds will take your ankles like debts take wages. You know the smell of fever winds, and you know when to whisper quiet and when to strike loud.",
+    "objectives": [
+        "Travel with Tala Fenmint to the Shiverfen Reedmarch by barge.",
+        "Locate the site of the supposed sunken bell using the Asterion Tuning Pin.",
+        "Recover the bell's tongue and any inscriptions without breaking the relic.",
+        "Evade lamp-eels and reedcutters moonlighting as toll-bandits on the return."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tala Fenmint",
+            "lines": "When the Shard called last night, something under the peat answered like a throat that hasn’t spoken in years. It pulled at the hair on my arms the way fever winds do. I don’t chase omens if I can help it, but I won’t leave a bell under mud when the city’s forgetting its own names. Bring your hook and your patience. The fen remembers every footstep, and it trades fairly only with those who listen."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "I’ve heard the Ford stumble and the bridge tremble. If there’s a second name ringing under the fen, I want to hear it clean. I’ll keep the lines and you keep the course. And if a fenwife shapes herself out of fog to look like a kindness I forgot, I’ll tie myself to the mast and let your curses keep me honest."
+        },
+        {
+            "speaker": "Tala Fenmint",
+            "lines": "You still owe me a story and a mint. If a shadow asks for both, give her neither. And if the bell doesn’t want to come, don’t tear it loose like a debt-collector. We coax, we don’t conquer. Even the mud here has a memory."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        "Relic: Bell-Tongue of the Unbuilt Temple (resonates softly when the Shard hum shifts).",
+        "Fenmint Salve Kit refills and an extra reed-mint charm against fever gnats.",
+        "Pilots’ Covenant goodwill for opening a safe smuggler channel to legit traffic."
+    ]
+}

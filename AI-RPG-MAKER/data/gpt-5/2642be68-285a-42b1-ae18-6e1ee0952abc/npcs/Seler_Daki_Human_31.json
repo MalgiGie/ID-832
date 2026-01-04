@@ -1,0 +1,55 @@
+{
+    "name": "Seler",
+    "surname": "Daki",
+    "race": "Human",
+    "age": 31,
+    "appearance": "Windburned cheeks, scarf threaded with signal colors, skiff-and-anchor tattoo behind the left ear.",
+    "character": "Watchful with a dry wit; keeps her promises and her altitude.",
+    "traits": [
+        "disciplined",
+        "brave",
+        "bell-superstitious"
+    ],
+    "skills": [
+        "sky-skiff piloting",
+        "rooftop pursuit",
+        "ropegun marksmanship",
+        "signal-kite codes"
+    ],
+    "talents": [
+        "uncanny balance in crosswinds",
+        "reads water from rooftops by ripples and smoke"
+    ],
+    "flaws": [
+        "distrusts dock unions",
+        "keeps grudges long past their use",
+        "risk-seeking in fair weather"
+    ],
+    "dreams": [
+        "lead the Wardens one day",
+        "end rooftop smuggling without blood",
+        "map clean air-lanes over the Scar"
+    ],
+    "secrets": [
+        "once accepted hush coin to ignore a fog-ferry, keeps the coin as penance",
+        "hides a moth-winged skiff's flight log from a forbidden sortie"
+    ],
+    "relations": [
+        {
+            "npc_name": "Tomas Helwin",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mavek Dross",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Mira Cael",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Kara Dusk",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

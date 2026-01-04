@@ -1,0 +1,62 @@
+{
+    "name": "Olan",
+    "surname": "Vetch",
+    "race": "Human",
+    "age": 56,
+    "appearance": "Rope-veined hands, river-squint, a pilot’s cloak stitched with sounding marks, a broken oar peg worn on a thong.",
+    "character": "Wry and fatherly, slow to wrath and quicker to whistle warnings.",
+    "traits": [
+        "cautious",
+        "fair-minded",
+        "stubborn"
+    ],
+    "skills": [
+        "river pilotage",
+        "encoded whistle calls",
+        "mediation",
+        "chart maintenance"
+    ],
+    "talents": [
+        "uncanny sense for moving sandbars",
+        "whistles that calm moths to quay lamps"
+    ],
+    "flaws": [
+        "aching knee in cold rains",
+        "reluctant to adapt to private fleets",
+        "superstitious about demon spines"
+    ],
+    "dreams": [
+        "leave charts better than he found them",
+        "train a successor from the Floodwalk"
+    ],
+    "secrets": [
+        "traded route-book pages for a favor during a famine season",
+        "knows a submerged stone line shifted and hides how afraid he is"
+    ],
+    "relations": [
+        {
+            "npc_name": "Arelon Vale",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Selde Karst",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Finn Bracken",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sera Verrin",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Lysa Quill",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sula Reedmantle",
+            "relation_type": "Friendship"
+        }
+    ]
+}

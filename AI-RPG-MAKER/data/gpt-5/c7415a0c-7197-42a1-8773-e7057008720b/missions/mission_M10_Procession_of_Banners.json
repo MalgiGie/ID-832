@@ -1,0 +1,48 @@
+{
+    "id": "M10",
+    "title": "Procession of Banners",
+    "quest_giver": "Siala Nerm",
+    "description": "The Founding Tide procession rolls along the Dorsal Span like a second sea—banners of salt and kelp-silk, bone chimes and rime-lanterns swinging their winter light. The Pilgrims will carry veiled relics past the Rib Cathedral, and Siala Nerm means to unveil a Heart-Scale to prove Orum dreams. The Anchor-Compact sees a riot in the making; Brinelaw tastes liability; the Chainmasters smell cut ropes under song. Whispers say a faction will sabotage the procession, either to shame the Pilgrims or to shatter the Compact’s calm. The city holds its breath. When Orum’s ribs hum, it will not be myth or sabotage alone—it will be the city’s answer to its own question.",
+    "objectives": [
+        "Guard the procession along the Dorsal Span and watch for saboteurs at key choke points and oath-stalls.",
+        "Coordinate with Brinelaw bailiffs to reroute crowds if stampede risk increases; use the Resonance Chart to anticipate dangerous rhythms.",
+        "Decide whether to support Siala’s unveiling of the Heart-Scale publicly or urge a private audience at the Anchor-King’s Hall.",
+        "Prevent a deliberate chain cut beneath the Span from causing a collapse; apprehend the culprits if possible."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Siala Nerm",
+            "lines": "If we hide our heart for fear of greed, we make a tomb of our city. I will unveil the Scale because the living deserve a true song. Stand with me and I will owe you a debt I will not repay with words alone. Stand against me, and I will still sing for your safe road home."
+        },
+        {
+            "speaker": "Selka Vire",
+            "lines": "This city survives because it picks its moments. If the Scale exists, show it to me in council, not in a crowd that drinks and surges and mistakes awe for permission. I will not have a revelation stamped into a riot to be tallied as a tariff loss."
+        },
+        {
+            "speaker": "Osric Greyfen",
+            "lines": "I can widen the route, post bailiffs at the ribs that creak, and make space for wonder that does not crush children underfoot. If anyone reaches for a chain with cutters in their hands, I will have them in irons before the fourth bell. Give me your eyes where my men cannot see."
+        },
+        {
+            "speaker": "Garrik Shale",
+            "lines": "Two braces under the Span are cracked and waiting for an excuse. If the song goes heavy, you steer the people away. I don’t care if it takes an arrow through a drum. This procession ends with everyone walking home or not at all."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "I will walk the ribs and the crowd with the same care. If the Scale shows, I will make the space for it. If a hand goes for a chain, I will put an arrow between the hand and the iron."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        "Public gratitude and a Pilgrim blessing (advantage on sea omens)",
+        "Anchor-Compact voucher for harbor dues waived on one convoy",
+        "+Favor with Pilgrims (if unveiled safely) or +Favor with Anchor-Compact (if counseled private reveal)",
+        "Access to examine the Heart-Scale up close under watch"
+    ]
+}

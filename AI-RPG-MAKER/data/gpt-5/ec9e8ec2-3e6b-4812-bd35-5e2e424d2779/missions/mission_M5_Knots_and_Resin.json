@@ -1,0 +1,38 @@
+{
+    "id": "M5",
+    "title": "Knots and Resin",
+    "quest_giver": "Myris Khel",
+    "description": "The Elder Mangrove of Iska holds the delta together with knuckles of root as big as houses, and its resin feeds the Beacon, the Nursery, and a thousand small crafts. Lately, cutters whisper that the resin runs have thinned and that House Saltvein guards have been sighted in channels where only Knotted Wives should be. High Censer Priora Mereya Shell is in ceremony; her envoy, Myris Khel, asks you to ferry him to the Assembly landing to witness a new knot-law that sets resin quotas and to keep the peace if brine-backed men try to unmake it. The Knotted Wives have prepared cords that smell of sap and sea, and the Assembly's song will fix the law if it is not cut by blade or coin first. Above, the mangrove's leaves whisper as if repeating gossip in a language you almost understand.",
+    "objectives": [
+        "Escort Myris Khel through the Saltstep Marsh to the Elder Mangrove of Iska.",
+        "Protect the knot-tying Assembly from disruption by House Saltvein hirelings.",
+        "Negotiate a resin-quota truce recognized by both the Faith and the Brine Archive."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Myris Khel",
+            "content": "The sea keeps balance with teeth as often as with mercy, and we serve both. Resin is blood, and when a body bleeds too much, it stumbles. The Knotted Wives will tie law today, and if the cord holds wet and sings straight, even the Trium must step along its length. I need a shield that knows when to be a wall and when to be a door. Stand with me, and if blades come, put yours down first only if they put theirs down second."
+        },
+        {
+            "speaker": "Serat Voss",
+            "content": "Nice cords. Pretty songs. But quotas don't fill caravans or feed guards, priest. The Manse pays for resin boats and keeps pirates from sniffing your scent all the way up the delta. If a knot tells me I cannot take what I bought and bled for, I will cut the knot and blame the tide."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "content": "You cut a knot, Voss, and the marsh remembers your blade. Every ferry will rock beneath you, and not because of the wind. The Archive will etch this cord, and the Court will keen for anyone who frays it. We keep this law or the delta loosens its grip, and then none of us will have piles sturdy enough to stand on when the sea laughs."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ]
+    },
+    "rewards": [
+        "Blessing cord from the Knotted Wives: advantage resisting fatigue in marsh and delta channels",
+        "Brine Archive co-signed quota writ granting the bearer mediation rights in resin disputes",
+        "Reputation: +Small with Faith of Azerene and Piledwellers' Assembly, -Small with House Saltvein (Serat Voss)"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "M3",
+    "title": "Songlines of the Ribs",
+    "quest_giver": "Yhosa Kel",
+    "description": "Dean Yhosa Kel of the Bonewrights’ Collegium receives Mara atop the Dorsal Span where bone-plates gleam like pale waves. The Bonewrights argue that the city must learn the new rhythm in its ribs if the Array is not to grind itself out of true. Yhosa gives her a lacquered chart scored with delicate grooves to catch the whisper-song and a bone cup etched with bearings. A flotilla of Pilgrims glides below with candles, their whale-song a low thrum under wind and gull. Between the shoaling eddies and the hollow marrow-songs of the submerged ribs, Mara will trace three points of resonance to anchor a safer chart through the Whispering Rib Shoals. In the song is an answer to the shard’s hum, and perhaps to Orum’s heart.",
+    "objectives": [
+        "Meet Yhosa Kel on the Dorsal Span and receive the lacquered resonance chart.",
+        "At low tide, descend by skiff to the Whispering Rib Shoals and mark three resonance points while avoiding eddies and entanglement.",
+        "Consult with Pilgrims of Orum’s Dream to compare hymnals and the rib-song you hear.",
+        "Deliver the completed chart to Yhosa Kel and log a copy with Brinelaw for public use."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Yhosa Kel",
+            "lines": "I have shaped bone for thirty years and I have learned this much: a city must never forget what it stands upon. The ribs carry us still, and when they sing, we would be fools not to listen. Take this chart. It will not survive a lie—if you pretend to hear what you do not, the lacquer will crack like ice and waste your work. Bring me three true notes, and I will add buttresses where the song says we can stand."
+        },
+        {
+            "speaker": "Siala Nerm",
+            "lines": "We sing to the ribs to remind ourselves we are guests in another’s body. If the song you gather tastes of sorrow, do not sweeten it with hope. If it tastes of anger, do not cut it with reason. Let it be what it is, and you will know where not to tread."
+        },
+        {
+            "speaker": "Garrik Shale",
+            "lines": "My riggers will be at the surface with lines if the eddies get hold of you. And hear me: if those Pilgrims try to turn this into a procession instead of a survey, you signal and I will pull you out hard. I respect a hymn as much as any mother’s lullaby, but I will not lose another hand to reverence."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "I’ll map what the water tells me, and I won’t flinch from a sour note. The ribs and I have an understanding—I listen, and they let me pass. If there’s a crack in the city’s song, we’ll see it lacquered on this plate where even politicians can’t pretend it isn’t there."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        "Resonance Chart of the Whispering Ribs (improves safe navigation)",
+        "Bow-limb reinforcement from Bonewrights’ Collegium (+stability in wet)",
+        "+Favor with Bonewrights’ Collegium (Yhosa Kel)",
+        "Public credit recorded at Brinelaw (minor reputation)"
+    ]
+}

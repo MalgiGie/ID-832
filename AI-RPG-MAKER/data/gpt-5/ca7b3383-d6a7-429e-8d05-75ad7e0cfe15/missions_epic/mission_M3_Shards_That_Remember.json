@@ -1,0 +1,76 @@
+{
+  "id": "M3",
+  "title": "Shards That Remember",
+  "quest_giver": {
+    "name": "Tosk Glassbite",
+    "affiliation": "Basaltborn rope-saddle foreman of the Shatter Mines, with Chainwright access chits"
+  },
+  "description": "The Shatter Mines take light and return it in a thousand spiteful pieces, and even the bravest lantern seems to blink down here as if it doubts its own flame. Ropes creak like old throats clearing the grit of a lifetime, and glass dust glitters on lips so that every breath tastes like borrowed coin. Tosk Glassbite claps your shoulder with a hand like a stone bracket, grins around a strip of eel jerky that smells of river smoke, and names the gallery that has gone pale with shatterwight fog. In Skarnhold they say the wights are the first and last breaths of the dead caught in glass, turned into bad habits of the air that replay panic more easily than calm, but the Basaltborn know to keep moving and to keep their mouths shut when the mine starts to remember. You will thread ember-threads through the air itself to mark safe pockets of breath, listening to fault-whispers under the clink of your harness, and you will pry a clutch of facets from a wall that wants to cut you from every angle while chain pins above sing micro-harmonics like teeth on copper. Tosk swears the Crown of Nine Edges is just a story and then tells it with too many details to be only a story, the way people do when a legend has scraped them once and left a line that keeps aching in weather.",
+  "objectives": [
+    "Travel with Tosk Glassbite to the Shatter Mines and rig a rope-saddle over the target gallery.",
+    "Use the Ember-thread Spool to ward a path through shatterwight fog without dispersing it violently.",
+    "Harvest 3 star-crystal facets suitable for heat focusing and record fault-whisper patterns in ash-ink.",
+    "Avoid glassfall by reading micro-harmonics in the chain pins above the gallery entrance.",
+    "Return to the winch-train with facets intact and deliver a copy of the fault-whispers to Tosk."
+  ],
+  "dialogue": [
+    {
+      "speaker": "Tosk Glassbite",
+      "lines": "You breathe, the mine remembers, you breathe again, and sometimes the mine brings that first breath back with teeth, so keep your teeth together and your breath in your belly. Wights aren’t ghosts much as they’re bad habits of the air, and down here the air has learned some vicious little lessons from men who died frightened and from rock that cracked too quick. We will keep our own habits better, steady as a hoist drum, moving when the mine tells us to move and freezing when the pins sing a warning. You mark and I pull, you listen and I keep the glass above from remembering how to fall, and between those two crafts we’ll walk a needle through a storm of razors. Rope-saddle stays taut, eyes stay soft, and if you feel a memory that isn’t yours trying to climb into your lungs, you spit, curse, and look to me. I’ve lost friends to fog that wanted to be a person again, and I won’t let it practice on you today."
+    },
+    {
+      "speaker": "Neris Coilglass",
+      "lines": "I have stood in fog that wanted to be a person again, and it spoke in the voices of people I loved until I answered and it cut me for listening. If I sing the Loom’s threads low enough and true, they calm to a stillness that is almost peace, like a kettle that refuses to boil when a child watches it. Almost is as much promise as the Loom will give me, but almost is enough if we move with it and not against it. I’ll map the warm eddies where breath returns kinder and stitch them into a path that looks like luck from the outside. And if the fog pulls on me with the taste of my first fear, I’ll remember that fear too is a habit and I can practice something else."
+    },
+    {
+      "speaker": "Tosk Glassbite",
+      "lines": "There, you see that seam sparkling like a river trying to remember sunlight, those facets will take heat like river stone takes a thrown coin and they will give it back along lines you choose. Keep two for your cradle, Coilglass, tuck them like heartstones into whatever contraption you’re making that will keep our city’s bargain, and slide me one for the crew bonus pool so I can buy men and women another week with their families. You mark your charts clean and true and I’ll swing the pick with a kiss and a prayer, and we’ll both come out with our faces still ours. I tell you plain, someday you will need a miner more than a mirror, because glass can show you the future but it can’t catch you when the floor forgets how to be floor. When that day comes and the lift is screaming and the pins are singing two notes too high, I will answer when you call, and I’ll bring a crew with me that listens better than fear does."
+    },
+    {
+      "speaker": "Shatterwight Whisper",
+      "lines": "We were breath in the dark and then the lamp went out, and the air learned to remember the last thing it touched, which was our running and our want. Do not teach the stone to hold its breath again, little singer, for when stone forgets to breathe the ceiling comes down like a closing hand. Move, move, move, it is safer to be a verb than a noun in a place that steals names, and the mine likes motion the way a heart likes blood. We are not angry but we are sharp, and every edge is a story that ended too fast, so step like you are finishing a sentence you want to keep. If you must mark us, mark gently, and if you must ask, ask without saying our names, because names are hooks and we are tired of hanging."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Sing the Low Thread and Soothe the Fog",
+      "text": "You spin the Ember-thread Spool until it hums like a sleeping gyre and let your voice slip under it, a Loom-learned lullaby that gathers heat into gentle pockets. Every note you choose is a promise that nothing sudden will happen, that breath can arrive and depart without getting caught on a shard’s memory. You ask Tosk to match his swings to your rhythm, to let the pick fall on the upbreath and rest on the down, turning labor into ritual. The fog’s edges soften where the ember-thread passes, losing their itch to become a person again and relaxing into air that remembers shelter instead of panic. You trace a path like a stitched seam through a torn coat, pocket to pocket, and the mine’s habit of harm seems to forget itself for a handful of precious minutes.",
+      "outcome": "The wight-fog dims to a pearly veil, patient as tired water, and star-crystal faces you feared would chatter under stress hold true as if they too were listening. Tosk pries the first facet free with a soft grunt, then the second with a planter’s care, and you slide the third loose only after you have mapped the warm eddy that will keep your breath yours. Your ash-ink stylus scratches a living line of fault-whispers across obsidian vellum, a phrase repeated in three places that could mean the ceiling will wait if you do not. The chain pins above answer your song with a steady two-note murmur, and the glassfall you dreaded remains a possibility deferred rather than a promise fulfilled. When you return to the winch-train, the crew nods like people who have seen a trick become a craft, Tosk presses a miner’s filter insert into your palm with a smirk, and your name runs through Basaltborn lips as one of the few surfacefolk who knows how to move when the mine says move."
+    },
+    {
+      "id": "C2",
+      "title": "Force a Cut with Controlled Glassfall",
+      "text": "You signal for a calculated cascade, asking Tosk to tap-set charges in the brittle overhang and hang back with the line taut, ready to ride the swing if the mine tries to throw you. You tune your Feather-Gyre Calibrator to the pins and listen for the moment when the overburden admits it wants to fall, a confession you can time your count against. Your plan is to drop the teeth you choose so the fog can settle in a heavier shape with less bite, clearing a lane to the seam like a river after ice breaks. The ember-thread marks become warning sigils rather than lullabies, sharp-edged boundaries that say here and not there, now and not later. The mine does not always like being told what it will do, but respect can also sound like firmness if it is matched with care.",
+      "outcome": "The cut goes off like rain on copper, shattering in a controlled sheet that breaks where you drew it, and the air leaves you a lane just wide enough for courage. Shards skate and whisper and still a few kiss your cloak, but your Half-Brass Mask’s new filter turns the sting into a taste you can spit past, and you move with Tosk in a choreography of practiced risk. The star-crystal seam shivers, threatens to crack along a wrong memory, and then settles under your glove as you lay a steady palm and pour a thread of warmth to convince it that it is safer to stay whole. You harvest three facets that are not as flawless as a gentle lullaby might have given, but their hearts are sound and they will focus heat like disciplined soldiers. Back at the winch-train, the crew claps you with a rough pride reserved for those who make their own weather, Tosk’s promise of future aid carries the weight of a man who saw you keep a schedule in a storm, and the Basaltborn tally your name as someone who does not blink when the pins sing high."
+    },
+    {
+      "id": "C3",
+      "title": "Trade Breath to the Wights for Guidance",
+      "text": "You thumb a Vent-Pearl Pair between your fingers, weighing the value of stored breath against the price of safe passage, and decide to bargain with the habit in the air. You uncork one pearl and exhale a memory of fear you can afford to lose, letting it drift into the fog as an offering instead of a fight. In return, you ask for a map in sensations, for the air to shape itself as a path that knows your lungs and avoids the panic that would turn every inhale into a blade. Your ember-thread becomes a contract line rather than a ward, a thin treaty glinting in the low light, and your ash-ink records the exact cadence of the fog’s reply as a song no mortal tongue would claim. Tosk watches and frowns because miners prefer deals made with stone rather than with the stories stone is telling, but he trusts you enough to follow where you point.",
+      "outcome": "The fog folds back like a hand that recognizes the pattern of your palm, and for a while the air’s bad habit is replaced by a polite one that keeps to its side of the line. It whispers of a hollow under the seam where echoes breed fractures, and you adjust your picks and pries to slide past it as if you always knew it was there. Three facets come away like teeth you ask a child to surrender, reluctant and then relieved, and each hums faintly with the trace of the bargain you made. Your notes capture fault-whispers that do not just say when to move but why, a kindness the mine rarely shows, and your Feather-Gyre balances the chain pins into a steady lull that averts glassfall. When you return, the crew measures you with wary respect for one who can speak to habits and not be devoured by them, Tosk gives you the filter insert and his future aid like a man honoring a strange but solid craft, and Basaltborn rumors begin to stitch your name to the word that matters most in the Mines: listener."
+    }
+  ],
+  "connections": {
+    "previous": ["M2"],
+    "next": ["M4"]
+  },
+  "rewards": [
+    {
+      "type": "Item",
+      "description": "2 Star-crystal facets for heat focusing"
+    },
+    {
+      "type": "Equipment",
+      "description": "Miner’s filter insert for Half-Brass Mask"
+    },
+    {
+      "type": "Reputation",
+      "description": "+ with Basaltborn crews"
+    },
+    {
+      "type": "Ally",
+      "description": "Promise of aid from Tosk Glassbite in future mines work"
+    }
+  ]
+}

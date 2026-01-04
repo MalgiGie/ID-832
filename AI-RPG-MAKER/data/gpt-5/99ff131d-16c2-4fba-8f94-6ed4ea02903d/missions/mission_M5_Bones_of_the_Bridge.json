@@ -1,0 +1,41 @@
+{
+    "id": "M5",
+    "title": "Bones of the Bridge",
+    "quest_giver": "Maela Vint",
+    "description": "The Skybridge Ossuary is a ribcage of stone suspending a story too large to bury. Chimes roost where keepers once walked, and vertebrae shift with the self-importance of old bones. Maela Vint’s kite glides thread the crosswinds, and she points to a vertebra you once loosened in a risky test. There, memory-stone pockets hold acoustic ghosts—impressions of the last chord sung before Ilys unmoored. To salvage a safe fragment of that unsanctioned song is to court the same forces that pried a city loose. If you can record a piece without waking the whole spine, you will bring back a note the Heliolith might accept as kin.",
+    "objectives": [
+        "Reach the marked vertebra across a cross-shear window with Maela’s guidance.",
+        "Harvest a shard of memory-stone that holds the ‘unsanctioned chord’ without causing a collapse.",
+        "Drive off a chime-flock attracted to gleam and vibration.",
+        "Consult bridge-keeper Osk Talin on stabilizing the extracted shard for transport."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Maela’s voice is clipped mid-laugh, the way it gets when she’s afraid on your behalf. \"I know what you did here, and I know why you didn’t tell me. You were chasing a note and you forgot that bones are for holding lives, not just songs. We’ll go back, careful this time. I’ll ride the cross-shears with you, and when the chimes mob you, I’ll be the loudest thing in the sky so they come at me instead. You get the shard that remembers the last good moment before the bad miracle. Bring me home after, and I’ll forgive you for not asking me last time.\"",
+        "hero_reply": "Tallea straps down the Fog-Silk Ribbon Kite. \"I was a fool and a thief of safety. This time I won’t sing anything the bridge doesn’t offer me. I’ll cut no deeper than the seam that gives itself, and I’ll leave a ribbon to take the strain. If the old chord wants to be heard, it will come willingly. If it wants to stay a secret, I will leave it with the dead.\"",
+        "npc_interjections": [
+            {
+                "name": "Osk Talin",
+                "line": "Osk, hair full of stone dust, squints at your shard. \"Memory-stone’s like a stubborn elder. Hit it wrong and it tells you a different story just to spite you. I’ll resin the pores with boneglue and wrap it in a listening cloth. Don’t you go tapping it on the way home unless you want to hear the last keepmaster die of pride.\""
+            },
+            {
+                "name": "Nyra Kest",
+                "line": "A Syndic outrider on a training glide salutes you. \"The harps have been mean this season. If you can teach the Spire to sing kinder, we’ll stop losing sails on songs that cut. Don’t die for a chord, lull-reader. We can write new ones.\""
+            }
+        ],
+        "ambient": "The bones of the bridge sigh when the wind steps through them. In one pause, you hear a chord that could have been a blessing if it had not been sung with such certainty."
+    },
+    "connections": {
+        "previous": "M4",
+        "next": "M6",
+        "related": [
+            "M11",
+            "M12"
+        ]
+    },
+    "rewards": [
+        "Experience: 550",
+        "Memory-Stone Shard (Unsanctioned Chord, fragile)",
+        "Reputation (Mistral Syndic): +10",
+        "Safety Net Voucher from the Compact (reduces fall risk once)"
+    ]
+}

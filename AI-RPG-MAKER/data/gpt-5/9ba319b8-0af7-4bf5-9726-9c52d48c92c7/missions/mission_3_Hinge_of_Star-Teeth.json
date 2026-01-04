@@ -1,0 +1,57 @@
+{
+    "id": 3,
+    "title": "Hinge of Star-Teeth",
+    "quest_giver": "Sel Corvane",
+    "description": "Arch-Wright Sel Corvane of the Guild of Tidewrights summons Raithe to the Tide-Gate Crown. Brass teeth and sky-silk curtains glimmer as crews hum chain-songs and salt mist settles on every tool. Rumors of sabotage and illegal gear-teeth circulate; the young masters whisper about a humming cog whose tooth bears a shard brighter than lantern flame. Sel wants certainty: the lever-room must hold against strikes and storm, and no myth must loosen his monopoly. The bypass tunnel beneath the crown runs cold and narrow, flanked by eelglass slick as winter. Raithe recognizes a smell he has tried to forget—the smell of the crate he once carried in that dark.",
+    "objectives": [
+        "Enter the bypass tunnel under the Tide-Gate Crown using an old Mnemos map.",
+        "Locate the heart-cog assembly and determine whether a starshard is set into one tooth.",
+        "Mark, but do not remove, any illicit gear and record its resonance using the Mnemos Leaf.",
+        "Evade or confront a Ratchet Syndicate scout crew attempting to plant chain-snares near the lever-room."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sel Corvane",
+            "line": "We hold the hinge, Calder, and a hinge is nothing if it does not answer true to pressure. I hear songs in my gears I did not write, and that is an intimacy I will not abide. Find out what has been married to my Crown and who performed the rite, and I will pay you in more than coin. I will pay you in protection."
+        },
+        {
+            "speaker": "Yarik Nine-Fingers",
+            "line": "Funny to see you minding the Guild’s treasure, Raithe. Last I saw you, you were hauling a ‘medicine’ crate through the bowels of this old throat. We turn what turns us, and if a new tooth sings sweeter, why shouldn’t the docks have its hymn? Don’t get in the way of a better future because you’re scared of a little tune."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "line": "I’ve learned to hear when the city breathes and when someone’s holding its nose. If there’s a star set into a cog, it’s not the docks who decided it. I’ll see what the heart looks like and I’ll write down its song, but I won’t let anyone tear at the gate while the tide is running."
+        },
+        {
+            "speaker": "Sel Corvane",
+            "line": "Good. Bring me a mark and a measure, and keep your hands off the tooth. There are laws older than Parliament in these floods and backwash. We must not wake what sleeps beneath the mud by humming in the wrong key."
+        }
+    ],
+    "connections": {
+        "previous": [
+            2
+        ],
+        "next": [
+            4,
+            6
+        ],
+        "related": [
+            9,
+            10
+        ]
+    },
+    "rewards": {
+        "items": [
+            "Guild chalk that reveals stress lines in metal",
+            "Gatewright’s pass for ring-two ramparts"
+        ],
+        "coin": 60,
+        "faction": {
+            "name": "Guild of Tidewrights",
+            "favor": "Temporary deputation as Gate Crown auxiliary during emergencies."
+        },
+        "unlock": [
+            "Access to certain control rooms under Saltwarden escort."
+        ]
+    }
+}

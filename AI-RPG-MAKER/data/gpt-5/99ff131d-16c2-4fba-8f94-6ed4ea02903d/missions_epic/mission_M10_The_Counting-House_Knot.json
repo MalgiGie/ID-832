@@ -1,0 +1,83 @@
+{
+    "id": "M10",
+    "title": "The Counting-House Knot",
+    "quest_giver": {
+        "name": "Dorel Glassant",
+        "affiliation": "Ledger of Fine Weights"
+    },
+    "description": "The Granite Counting-House breathes like a cool vault where numbers dream of ruling days yet to arrive, its halls ribbed with arching ledgers and brass abaci that purr the way a sleeping serpent does. Dorel Glassant meets you beneath a frost-paned skylight, a lens in his hand reflecting only his own troubled face, and he confesses that the Ledger has taught its machines to sip the Heliolith’s midnight codes and price tomorrow before tomorrow knows its name. A clandestine reader has been charting a star-code that the Spire’s prism whispers when the city sleeps, and Avar Jen, First Teller and smiling knife, means to declare the prism a financial instrument by proving it answers to contracts instead of to the common breath. To unmake the knot they have tied, you must pass after hours upon a borrowed lampwright’s pass, thread the silent stair that eats sound, and reach the private archive where the ligature cipher lies wrapped in quiet ink. Copy that skein of sigils without waking the abacus alarms that itch at liars’ skin, bring it to the Accord’s hands to open the sealed prism chamber in lawful daylight, and stall Avar’s injunction with a reading timed between the Syrinx harps so the city hears the trick before it hardens into law. Before the moon peaks, Meret Hal must hold that cipher, or the Ledger will claim the very pulse that keeps Aurelia and her condensers from thirsting themselves to death.",
+    "objectives": [
+        "Enter the Granite Counting-House after hours using a lampwright’s pass provided by Ayo Solace.",
+        "Decode the star-code ledger and copy the ligature pattern without triggering the abacus alarms.",
+        "Confront Avar Jen with a public reading of the predictive underwriting clause to stall his injunction.",
+        "Deliver the ligature cipher to Meret Hal before moonpeak."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Dorel Glassant",
+            "lines": "I polish this lens because it gives my hands something honest to do while my head counts the harm I helped measure. Patterns save caravans from shatter-lines and pilots from cross-shears, and for years I told myself that made all pattern-making holy. Then I saw a ledger that drank the Heliolith’s midnight and spat out prices for thirsts we have not yet felt, and I knew we had made a scale to weigh breath before it is taken. I helped string the ligature pattern that teaches the prism to hum back at our questions; I thought it was a key to maintenance, not a bridle for a city. Take what I know, and if you must, take my shame with it, because I would rather be named a traitor to a counting-house than a faithful book-keeper to a theft. Use the pass the lampwrights owe me and step where the harps inside these walls fall silent; there is a stair that swallows sound for a minute, and for one minute I can live with myself if it helps you move unseen. Put the cipher in a hand that will open a door, not lock one, and when you need a voice in the Courts, I will stand where the wind can strip me of excuses and tell the whole of it."
+        },
+        {
+            "speaker": "Tallea Miranth",
+            "lines": "You know I have a pattern of my own, Dorel, a thread I took when I was young and angry and thought I could bend truths without breaking them, and I have carried it like a shard under the tongue ever since. I will splice your confession to that pattern and make a chord that opens the sealed chamber, not to bind the Spire but to let the city hear what has been caged. If Avar wants to wrap tomorrow in bonds, he will have to hold that breath against a song sung by a thousand throats, timed between the harps where even the Wind Courts must listen. I will read his clause in public, not in a whisper-cellar, and I will ask you to stand beside me so the numbers cannot pretend they were written by no one. When the moon climbs to its white bell, Meret will have the cipher, or I will break myself on the stairs trying; I will not leave the Vale’s memory to be foreclosed by tidy hands. Keep your courage warm, Dorel; the city is colder in here than out on the rim, and we will need both kinds of heat."
+        },
+        {
+            "speaker": "Avar Jen",
+            "lines": "You stride into my house with the righteous gait of someone who believes the wind will always lean to meet them, and I find it charming in the way a child’s defiance can be charming before it breaks. Predictive underwriting is a net cast from wisdom, not greed; it allows us to gird caravans before the glass hums and to brace moorings before the shears bite, and still you call it theft. Perhaps you do not grasp how much of Aurelia’s safety rests on those of us who read ahead and lay coin where bridges will sway and chains will sing. Return what was taken, return what was copied, return the ligature you think is a talisman, and I will forget the names that touched it and erase the weights poised to fall. If you parade your reading in the Wind Courts, I will parade my bonds and my grateful petitioners, and we will see whose music the harps favor. Consider the mercy of a ledger: it does not hate you, it only balances, and it will balance you no matter how fiercely you breathe."
+        },
+        {
+            "speaker": "Tamsin Rook",
+            "lines": "Clerks fight with ink and pilots fight with wind, but smugglers fight with stairs, and I have a stair that eats sound like a snake eats eggs. You didn’t break my thumb when the Compact had me pinned by the Cascadrome valves, and I keep my accounts in favors, not coins, so listen: the third arch on the left hides a self-swallowing descent that snaps shut behind your heel. For sixty heartbeats your cough won’t carry, your sandals won’t whisper, and even the abacus strings will forget to itch, but after that it all comes rushing back, so time your steps like you time the Courts. Use Solace oil on the lock pins and the wick-brush on the hinge tongues, and if the lanterns shift to amber, you stop breathing and count to nine because that’s when the tally-kites listen. Use it, or don’t, and I call us even another way, but I’d prefer to be even on a night when the ledgers are deaf."
+        },
+        {
+            "speaker": "Ambient",
+            "lines": "Dust falls in the Counting-House like patient seconds, drifting through bars of ledger-light that slice the air into columns of shadowed sums. The abacus strings hum at a pitch that makes lies itch and truths ache, and somewhere below, a bell that remembers debt vibrates without ringing. Clerk-cages roll on tracks like slow thoughts, and every step seems to add a digit to a total you cannot see. In the high gallery a mosaic star yawns into midnight, its tesserae aligned with the prism’s far code, and the glass-vein veins in the floor quiver faintly when you pass. Between one breath and the next the whole place feels like it leans, ever so slightly, toward the Spire."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Silent Scribe’s Path",
+            "text": "You take Ayo Solace’s lampwright pass and let its stamped purity seal wink like a coin to the doorkeeper’s doubt, then slip into hallways that smell of cooled brass and stale ink. With Solace oil on your wick-brush you anoint each hinge tongue and quiet the complaint that would otherwise carry along the ribs of the archive. You follow Tamsin’s map of breaths, counting sixty heartbeats down the self-swallowing stair until silence itself seems to rest in your palm like a tame moth and flutter at your command. The abacus frames glow faintly with stored heat as you pass, and in the hush you can hear the ligatures themselves, taut as bowstrings, waiting to be plucked. You kneel beneath a skylight of bottle glass, unfold your wind-scribe ribbons, and trace the cipher with a calcite-fork’s hum until each sigil settles onto bark like frost falling into its pattern.",
+            "outcome": "Your copy lies on the ribbon like a sleeping snake, perfect and dangerous, and for a breath you think you have slipped entirely between the teeth. Then a memory-bell deep in the counting-stacks wakes and pulses once as if a dream had turned over in its sleep, and you know the house sensed a subtraction without a coin missing. Tamsin’s stair chews your last footstep as you retreat, and your shadow is already at the Wind Courts by the time the tally-kites lift their heads; you have time to make your public reading and to sting Avar’s filing with delay. The Ledger knows something changed, and the weight of its suspicion tips visibly toward you, drawing whispers in the Under-Arcum and a stiffer look from mooring clerks at Selen Gate. Yet the cipher reaches Meret Hal before moonpeak, the Accord’s hands close on it like surgeons on a scalpel, and Dorel sends word that he will stand beside you when the harps are listening."
+        },
+        {
+            "id": "C2",
+            "title": "Speak Between the Harps",
+            "text": "You stride into the Syrinx Wind Courts at the lull between the harps, counting the beats the way a rope-runner counts grips, and raise the ribbon whose knots carry the clause like a coiled storm. Your voice threads the notes with a weaver’s care, laying each word in the gap so the wind-scribes’ kites can catch them and the city must accept their weight. You name the practice for what it is, a price laid upon breaths untaken, and you name the key that makes it possible, a ligature that should serve repair and rite, not foreclosure. Dorel Glassant steps from the shade like a man walking out of a cell and confesses without ornament, and the murmurs ripple up the stone seats as if a low wave had struck. You conclude with a timing that makes the last syllable slip beneath a harp-stroke like a seed under a furrow, leaving the law to grow from it if it dares.",
+            "outcome": "The Courts cannot decide a soul in one breath, but they can halt a hand, and the arbiters freeze Avar’s injunction with a chain of questions that will take nights to uncoil. Avar’s smile turns from courtesy to calculation, his clerks scatter like chime-flocks, and his petitioners in their neat cloaks find their feet sticking to the floor of public feeling. Dorel’s promise hardens into an offered oath, and he gives you a testimony marker that will seat him at your side for one full session under the open sky. The Ledger’s regard dips like a net sagging under a load of unintended catch, and rumors make your name a taste in the market’s mouths, sometimes sharp, sometimes sweet. Even as the Courts adjourn, you pass the cipher to Meret Hal under a lantern’s honest light, and the Accord’s quiet messengers spirit it toward the Heliolith’s galleries before the moon crowns the rim."
+        },
+        {
+            "id": "C3",
+            "title": "Bind the Dragon With Its Own Chain",
+            "text": "You agree to meet Avar Jen in a pocket under the Under-Arcum where sound refuses to stand up, and in that hollow you show him a decoy, a ribbon dressed in true-looking sigils that promise answers and deliver only echoes. You speak as one who knows the ledgers’ engines, naming the pressures they fear and the accidents they abhor, and you offer a barter: a pause in alarms for a pause in war. You let him taste the relief of a night without bells and the compliment of a rival who understands balance, even while your fingers rest on the true cipher tucked against your heart. Around you the lanterns burn in neutral gold, and above you the seventh-hour chime ticks toward shift, a quiet metronome toward decision. Avar’s eyes weigh you, his fingers press the ribbon, and he nods as if to an equal, which is the nod you needed and the nod that makes enemies sharper.",
+            "outcome": "The alarm cadence inside the Granite Counting-House loosens for one hour as promised, not silent but softened, and that breath of slack lets you glide through the archive with fewer eyes turned your way. Avar takes the bait ribbon to his private reader, whose instruments purr with satisfaction at a diet of refined emptiness, and for a while the Ledger chases a shape that will never quite fit its locks. When the trick is known, and it will be before long, the weight of the Ledger’s anger will tilt toward you like a storm leaning toward a kite, but by then Meret Hal will already have the true ligature tied safe in the Accord’s keeping. Avar’s courtesies frost over, which is a kind of honesty, and in the Courts he will come at you with cleaner blades and fewer smiles, which you can at least count on. The city hears of a bargain and whispers of a betrayal, but the moon still finds you on the Cascadrome steps with a message in your hand and the Spire’s dim heart a heartbeat closer to answer."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Experience",
+            "description": "650"
+        },
+        {
+            "type": "Item",
+            "description": "Ligature Cipher (key to sealed prism chamber)"
+        },
+        {
+            "type": "Reputation",
+            "description": "Ledger of Fine Weights: -10"
+        },
+        {
+            "type": "Favor",
+            "description": "Dorel Glassant will testify once in open Court"
+        }
+    ]
+}

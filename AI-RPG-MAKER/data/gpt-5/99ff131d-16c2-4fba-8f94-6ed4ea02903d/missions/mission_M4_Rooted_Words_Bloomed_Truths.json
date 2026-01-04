@@ -1,0 +1,40 @@
+{
+    "id": "M4",
+    "title": "Rooted Words, Bloomed Truths",
+    "quest_giver": "Seru Chime",
+    "description": "Seru Chime, a dusk-singer whose voice makes fog beads shiver, brings a request from the Veil Covenant that sounds like a test disguised as trust. The Tangle-Root Archive can grow a night-flower that teaches by dream, but only if fed a secret freely given. Your stolen breath is a secret that bites, and the grove is a patient judge. The Archive’s wardens thread bark-ribbons that glow with sap-letters, and the roots cradle jars of memory like sleeping infants. To walk among them is to feel pages turning underfoot. If the city’s missing note is to be restored, you must learn how to splice wind, water, and heat into one braid and not draw blood in the weave.",
+    "objectives": [
+        "Escort Seru Chime through the Luminant Vale to the Tangle-Root Archive while resisting fog-lure echoes.",
+        "Confess a true secret to the grove to avoid root-sink entanglement.",
+        "Obtain a night-flower seed that teaches the splicing of chords in dream.",
+        "Negotiate copy-rights with warden Lune Arikara to carry a bark-ribbon wind-map back to Aurelia."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Seru’s words are soft, thick with dusk. \"When we sing to the Vale, sometimes it sings back. Not as doctrine. As memory. The Archive listens differently than you or I; it drinks what hurts and gives back an answer that tastes like medicine. Bring it a truth you do not want weaponized and it will teach you how to braid. This is not a ritual to prove the Covenant right. It is a ritual to keep you alive when you climb into the Spire’s throat.\"",
+        "hero_reply": "Tallea touches the night-flower pod she already carries, still uncracked. \"I have a secret that taught me how to cheat the Courts for a heartbeat. I hated the theft even as I did it, and I have hated it in others since. If the grove will have that bitterness, I will pour it out. And if it answers me with a lesson, I will bring you a braid no faction can cut.\"",
+        "npc_interjections": [
+            {
+                "name": "Lune Arikara",
+                "line": "The warden’s hands are inked with sap-runes. \"Everyone comes to the grove wanting a shortcut to meaning. The grove has no shortcuts. Only roots, and roots go the long way around. You want a map to the hum inside the Heliolith? Pay with a map of your own guilt, tied in a knot you cannot untie later.\""
+            },
+            {
+                "name": "Maela Vint",
+                "line": "Maela adjusts a line on your glide harness. \"I’ll get you down and back. If the fog sings, don’t answer if it uses my voice. If you have to answer, say something I’ll forgive when I hear the story later.\""
+            }
+        ],
+        "ambient": "Leaves whisper words you don’t know yet, and the roots flex like the hands of storytellers shaping invisible clay."
+    },
+    "connections": {
+        "previous": "M3",
+        "next": "M5",
+        "related": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        "Experience: 500",
+        "Night-Flower Lesson: Chord Splicing (ability unlock)",
+        "Reputation (Veil Covenant): +12",
+        "Bark-Ribbon Wind-Map (special narrative item)"
+    ]
+}

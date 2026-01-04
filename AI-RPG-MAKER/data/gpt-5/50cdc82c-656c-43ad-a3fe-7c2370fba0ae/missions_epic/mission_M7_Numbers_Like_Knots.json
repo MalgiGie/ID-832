@@ -1,0 +1,79 @@
+{
+    "id": "M7",
+    "title": "Numbers Like Knots",
+    "quest_giver": {
+        "name": "Sava Inkweft",
+        "affiliation": "Silent Archive scribe"
+    },
+    "description": "Under Mirrorclose, the stair down to the Silent Archive breathes a chill that smells of lime and wetted clay, and every step hollowly returns your tread as if the corridor keeps a ghost copy of your feet. Shard-fed lamps hang like captured moons behind gauze, their light softened so ink will not bruise or run, and thin cords of prayer-twine keep roll-shelves steady against tremors from traffic far above. Sava Inkweft, fingers nicked from years of tube-stoppers and reed brushes, meets you where the galleries open into a pale nave whose ceiling is ribbed with clay tubes like organ flutes. The seep at the bottom level whispers with tiny voices, as if children rehearse names in a language they almost remember, and the sound threads under everything like an underwater bell. Sava speaks of a palimpsest scraped and overwritten across generations, the under-letters rising in the damp to name the first gardeners of rumor and the bead-keepers who hold a ledger you cannot shelve, and her voice is steady even while her eyes track shadow at the gallery mouths. House Kelvar has already sent feelers like eel whiskers asking after old pages that smell of scandal and schedules; the Order has sniffed a doctrinal blasphemy at the mention of a council ladder hidden in a Shard collar cavity; the Night Orchard rustles like a hedge in wind that might be warning or welcome. Sava does not want theft, nor burial, nor a knife tucked inside a story; she wants a copy true enough to sing in a hall without torches, a page that can stand in the House of Reconciliation and make debt-clocks falter by shame rather than sabre. The Archive is a sanctuary by charter, but charters are paper skins against sharp interests, and some scribes have learned to blink when a bead-string clicks behind a curtain. You came with dusk still in your prism-lamp and the river’s code in your knuckles, and the copper ward-tile at your chest feels heavier, as if the Shard’s hum has found it and is asking whether you keep oaths as tightly as you keep your blade.",
+    "objectives": [
+        "Enter the Silent Archive with Sava’s scribe pass.",
+        "Locate the palimpsest listing Night Orchard founders and collar cavity schedules.",
+        "Make an accurate copy without removing the original.",
+        "Avoid detection by compromised scribes and House Kelvar agents."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sava Inkweft",
+            "lines": "Records are oaths that learned to sit still, Jaryn, and the Archive is where we set out bread and water for them until they speak clearly. If we burn them, we burn our own road home, because no one remembers the way without a lantern held up to the old markers. This palimpsest is not a sword to cut throats with; it’s a mirror to make proud faces blink and notice the blood already on their collars and the threads tying their hands. Copy it clean, fold it into your belt, and bring it to a hall where words are weighed and not merely shouted, because shouting is a wind that forgets its own direction. I ask you because you have carried both secrets and soup, and I have seen you choose to feed first and boast later, and that is the temper a page like this demands. House Kelvar wants it salted down to a silence; the Order wants it sealed and sung over until the ink forgets it was ever wet; the Orchard wants it named but not shouted. I want it remembered in daylight by people who keep ledgers of grain and grief, not just debt, and I want it done without tearing the Archive’s skin."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "I won’t steal from the city’s memory, Sava, not for coin, not for favor, not for any hand that thinks a ledger is a leash. I will copy and leave the bones where they lie, and I will keep my breath smooth so the paper does not feel my haste and twitch into error. If someone tries to take a bite out of the page while it’s in my hands, they’ll crack their teeth on glass and spit their own blood into the lime dust, because I carry more than ink when the river asks for backbone. The last time I hid a thing under the Chainbridge it grew teeth and keys, and the rumor of it still nips my sleep; I have no taste to repeat a mistake that taught me how deep the Shard’s collars can swallow a promise. I’ll use my prism-lamp shuttered to a scribe’s rhythm, I’ll count heartbeats between the seep’s whispers, and I’ll keep the copper ward-tile warm with skin so it remembers what we swore. If we walk out with nothing but a faithful twin and our names unblotted, that will be a better victory than any purse of beads."
+        },
+        {
+            "speaker": "Iven Shadequinch",
+            "lines": "You have a gardener’s hands when you choose, riverborn, and gardeners know how to cut without killing the tree that shades the street. Trim the truth, don’t hack it, because hacked wood scars ugly and draws beetles, and beetles call birds with bigger hungers. The Gardener will not weep if old roots are named, but he will prune any branch that breaks the canopy to boast, because sunlight is a ration we share and reputation is a crop we tend together. Do your work and step lightly out, and if you must speak, speak in rooms that have windows on the river so the current can carry away what heat gathers. There are eyes in the ink and ears in the clay tubes, and some of them are ours and some of them are rented, and you will not always know the difference by the shine. Take care with ladders, especially the kind that hide in collars, for those rungs lead to councils where people forget gravity and fall upward into arrogance."
+        },
+        {
+            "speaker": "Rook Salter",
+            "lines": "Funny to see you down here, Chainwake; the last time I saw your back it was braced under a chain that wanted you drowned, and I wondered which ledger had written your name in the margin. The Archive is soft if you know which shelves have learned to look away, and I can make a misfile look like a miracle if a man is generous with his gratitude. Men with bead-knots on their wrists pay well for the absence of pages, and sometimes that is mercy, not malice, because a city also breathes by what it chooses to forget. You don’t have to stain your hands with ink tonight; you could let me carry this one to a quiet canal and lay it down like an old oar. Think about debts, Jaryn: not the kind written in eel-skin, but the kind you owe to friends who prefer you alive and unafflicted by powerful curiosity."
+        },
+        {
+            "speaker": "Thane Kelvar",
+            "lines": "The tide-clock in Mirrorclose taps more hearts than any temple bell, and mine keeps time with it by habit and by duty, so believe me when I say timing matters more than truth. A salted page solves storms before they form, because a city cannot afford waves made of ink when its bridges depend on quiet bolts and steady hands. You are a riverborn man, and you know how a ferry capsizes when too many rush to one side to stare; this palimpsest is a curse that makes crowds lean. Make your copy if you must, because I know the way some men need to feel honest to feel strong, but let the original sleep, and let our city sleep with it, and you will find House Kelvar less exacting in its collections. We do not fear truth, we fear the uses men make of it, and I would rather pay a craftsman to fix a leak in a hull than pay wailers to sing for the drowned when an avoidable wave has done its stupid work."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Copy by Seep-Whisper in the Bottom Stack",
+            "text": "You choose the lowest gallery where the seep whispers like a child practicing names, because its murmuring will cover the scratch of your reed and the click of your lamp shutter. You set Sava to the mouth of the aisle with a dust broom and a benign smile, so any passerby sees only a fussy scribe tending to her tiny kingdom. You work by a rhythm that matches the slow drip, counting quietly, matching each line you trace to a bead of water that drops from stone to pan, so your hand becomes another habit of the room. When the under-letters ghost through the overwriting, you breathe shallow and roll the page to a precise tension, easing old fibers to speak without tearing, as if coaxing a river rope free of a snag. At the edges of your noticing, you feel a presence watching from the clay tubes, and you resist the urge to look up, because looking is the noise that calls hunters. You finish the last schedule stroke just as the seep’s voice lifts into a faint harmony that sounds like your copper tile vibrating, and you feel the Shard far above acknowledge the patience of your work.",
+            "outcome": "Your copy is perfect enough to carry into a hall of oaths without its letters wincing, and Sava seals the edges with a rice paste that smells like clean ledgers. The Night Orchard, hearing of your patience through whisper-roots, decides you are not a vandal and marks you for watchfulness rather than wrath, which feels like a shadow that follows at a respectful distance. House Kelvar’s agents murmur that the page ‘did not travel,’ and their suspicion turns from theft to leak, which is an argument that keeps them indoors with their own people rather than hunting you in the open. A compromised scribe notes that your lamp never flared and cannot decide whether that means you were blessed or simply well-trained, and their report to Thane is more shrug than dagger. When you leave, the seep whispers a name you almost recognize, and for a breath the city seems to stand still as if listening; then the Shard exhales dusk-light and the world moves again with you already two steps ahead."
+        },
+        {
+            "id": "C2",
+            "title": "Mirror-Lens Relay under a Scribe’s Cloak",
+            "text": "You place your prism-lamp behind a veil of gauze and angle your mirrorfish-scale bracer so the lamp’s breath skims the palimpsest and lays its ghost out on a blank sheet two shelves over. While your hand remains far from the original, your eyes run a tight loop between source and twin, and your reed copies what the light reveals with a dancer’s memory, trusting the angle more than your pride. Sava walks the aisle with a tally of candle oil and hums a ledger hymn any scribe learns before they grow finger-calluses, which makes your presence feel like part of a ritual rather than a breach. Twice a patrol of wardens passes, the copper in their belts chittering against buckles, and you pause your breath without pausing your hand, a trick Mara once beat into your ribs during flood drills. The relay catches the faintest of under-letters—bead-notations that look like knots drawn flat—and you realize the third ledger lives in hair and wrist, not paper, and you copy the knots as little nubs above letters so a future reader can feel them even in poor light.",
+            "outcome": "Your copy bears both ink and texture, a true mirror that remembers that some truths are stored in touch, and this subtlety earns a soft nod from Sava that feels like a promotion you did not ask for. House Kelvar’s floor-walkers search for missing folios and find none, which agitates them into looking for mirrors and not for you, and the Counting Hall’s rumor-mills grind fine without finding your grain. The Order’s younger wardens hear that a mirror was used and argue in quiet corners about whether that violates any vow, and in their debate a splinter among them shows itself as curious rather than cruel. The Night Orchard catches the tale of knots drawn as bumps and sends a small black-sap note to an unmarked door that reads simply, ‘He sees in more than light,’ which is both a compliment and a leash length tested. You exit under a scholar’s cloak that Sava drapes over your shoulders, and two compromised scribes salute her ledger and not your face, and your heartbeat stays in step with the lamp’s steady glow until street noises fold over you like river foam."
+        },
+        {
+            "id": "C3",
+            "title": "Knot-Decoy and Candle-Ward Diversion",
+            "text": "You prepare a decoy not to replace the original but to give hungry eyes something loud to chew: a bead-knot cord strung in the same count as the palimpsest’s secret schedule, hung casually on a peg as if forgotten. Sava lights three extra candles down a side corridor and places a ward-tile that sings just enough to draw the curious, inventing a small crisis about ‘heat-levy wax’ that will keep petty minds busy. You copy the real under-script in the brief quiet, your reed moving in small tides while the Archive’s air turns warm with false importance elsewhere, and you time your strokes to the ward’s soft keen. When footsteps near, you perform a small, honest act of clumsiness and drop a stack of empty clay tubes; the clatter collapses neatly into your diversion and encourages people to scold you for what you did not break. Rook Salter sidles up, smells the bait cord, and decides he has found the prize he came for, and in that decision he stops looking at your hands and your lamp entirely.",
+            "outcome": "Your copy slides into your belt-sheath without a fingerprint while the decoy cord slips out of the Archive under a lesser man’s cloak, and for two days the wrong rumor runs hot in Mirrorclose: that the secret was never ink at all but knots you could cut. House Kelvar spends coin on cutters skilled in hair-bead arithmetic and wastes a week unraveling a thread that leads nowhere, which costs you nothing and costs them patience. The Order declares that candle-wards must be signed out by number henceforth, which inconveniences the Archive but pleases chair-sitters who like new forms; Sava sighs and shrugs because the price of truth is sometimes a small annoyance. The Night Orchard notes that you threw a bright scrap to the gulls and kept the fish for supper, and their respect tilts toward wary approval, tempered by a reminder that decoys are dangerous if overused. When you pass the House of Reconciliation later, a mural of clasped hands seems brighter by a brushstroke, and you take that as a private omen that your copy belongs on a bench where arguments polish wood rather than knives."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Copy of the Palimpsest — a faithful duplicate naming early Night Orchard oath-takers and tying a Kelvar inner circle and an Order splinter to secret collar-cavity councils, with tide-clock call patterns annotated."
+        },
+        {
+            "type": "Access/Status",
+            "description": "Silent Archive seal-ring — a modest bronze band impressed with a quiet sigil that grants limited access, better reading lamps, and a presumption of good faith among neutral scribes when you present matters in civic halls."
+        },
+        {
+            "type": "Story Consequence",
+            "description": "Night Orchard caution — word moves along black-sap lines that you handled a live root without chopping; you will be watched for how and where you let this page speak, and help or pruning may follow based on your choices."
+        }
+    ]
+}

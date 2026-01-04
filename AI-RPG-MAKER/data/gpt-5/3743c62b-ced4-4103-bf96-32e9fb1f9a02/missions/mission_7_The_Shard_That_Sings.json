@@ -1,0 +1,45 @@
+{
+    "id": 7,
+    "title": "The Shard That Sings",
+    "quest_giver": "Nalia Pree",
+    "description": "A certain vein of obsidian in the Shattersea has begun to sing. Lenses ground from its plates show things at the edge of knowing; kites flown above it feel winds that have not yet arrived. Nalia Pree arranges a cautious meeting at dawn on a ledge that smells of salt and rain, asking Lyris to bring the Cirrus Splitter Lens. The Mirror Queen is said to rise where reflections are most honest, and today truth feels sharp enough to shave a conscience. Erynn Sythar comes hooded and silent, carrying equations like contraband prayers. Lyris must align lens and kite, capture a ten-knot curve as it hums through glass and cord, and decide what pieces of it each faction should hold.",
+    "objectives": [
+        "Meet Nalia Pree and Erynn Sythar at the singing shelf of the Shattersea before sunrise.",
+        "Set the Cirrus Splitter Lens on its tripod and align with Nalia’s kite angle markers.",
+        "Hold position while the obsidian’s hum peaks and the lens reveals a ten-knot predictive curve.",
+        "Record the curve on oiled vellum and split copies between Nalia and Erynn without triggering Mirror Guild censure.",
+        "Depart through a quarry workers’ hoist as tensions spike between Skyscribes and lenswrights."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Nalia Pree",
+            "lines": "When the air sings like this, it is either prophecy or madness, and sometimes both in a single breath. Do not think that because my guild lives in towers we are strangers to risk. We bleed when we misread a cloud the same as a mason bleeds when a stone falls wrong."
+        },
+        {
+            "speaker": "Erynn Sythar",
+            "lines": "Prediction is a chain if you let it be, and a sail if you decide to tie it differently. We need enough of the curve to time a release without giving away every gust to those who would monetize the weather. Give me the first and eighth positions; give Nalia the third and sixth. The rest we stitch only when the wind itself demands."
+        },
+        {
+            "speaker": "Istel Shardwright",
+            "lines": "I should be jealous of a stone that sings better than I do. But listen, Lyris—hear the harmony with your own pulse? That’s fear making room for awe. Don’t hand the whole of your heart to any guild that claims it can silence that song on command."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "I will not be the city’s handmaiden or its knife. I will be its hand on a line, knuckles white, breath measured, eyes hard. Take your pieces. Keep them safe. The rest, I’ll carry in my bones until the Crown of Cirrus crowns us all."
+        }
+    ],
+    "connections": {
+        "previous": [
+            6
+        ],
+        "next": [
+            8
+        ]
+    },
+    "rewards": [
+        "Ten-knot curve fragment (positions 1, 3, 6, 8 shared across allies)",
+        "Calming cord charm from Nalia Pree (reduces panic during high-wind checks)",
+        "Mirror Guild neutrality pact for one expedition (reduced interference at Shattersea)",
+        "Erynn’s encrypted cipher for future equation drops"
+    ]
+}

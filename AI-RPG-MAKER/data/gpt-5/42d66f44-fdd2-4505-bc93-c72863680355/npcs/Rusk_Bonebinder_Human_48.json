@@ -1,0 +1,64 @@
+{
+    "name": "Rusk",
+    "surname": "Bonebinder",
+    "race": "Human",
+    "age": 48,
+    "appearance": "Square-jawed, salt-grimed, with a scar across the bridge of his nose; wears a tool bandolier and bone-splint armguard.",
+    "character": "Stoic foreman who loves machines more than meetings; loyal to crews, wary of priests and patrons both.",
+    "traits": [
+        "practical",
+        "secretive",
+        "dry-humored",
+        "risk-calculating"
+    ],
+    "skills": [
+        "bone-join repair",
+        "sluice timing",
+        "crew wrangling",
+        "glyph etching",
+        "emergency rigging"
+    ],
+    "talents": [
+        "fixes anything with rope and bone",
+        "maps gearworks in his head",
+        "catnaps to the tick of gears"
+    ],
+    "flaws": [
+        "corners-cutting when pressured",
+        "bribe-prone",
+        "disdains ceremony",
+        "short temper with novices"
+    ],
+    "dreams": [
+        "Win an autonomy charter for his crew",
+        "Build an arch that sings true in high wind",
+        "Retire before the Long Note ever sounds"
+    ],
+    "secrets": [
+        "Sells maintenance windows to Verrin Nasse for coin",
+        "Hid a copy of the bypass map in a lantern cistern",
+        "Kicked out a temple survey stake to stall the Shellspire terrace"
+    ],
+    "relations": [
+        {
+            "npc_name": "Oaric Bent",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Ysger Thorn",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Verrin Nasse",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sirae Glowhand",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Asha Heliope",
+            "relation_type": "Different goals"
+        }
+    ]
+}

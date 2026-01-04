@@ -1,0 +1,62 @@
+{
+    "name": "Cor",
+    "surname": "Yune",
+    "race": "Human",
+    "age": 26,
+    "appearance": "Light-footed courier with a half-mask and a bandolier of mirror slates; eyes quick and reflective.",
+    "character": "Playful and curious, fiercely loyal to their mentor and to the message.",
+    "traits": [
+        "clever",
+        "daring",
+        "empathetic",
+        "secretive"
+    ],
+    "skills": [
+        "code-making",
+        "surveillance",
+        "rooftop movement",
+        "lamp-shutter operation"
+    ],
+    "talents": [
+        "reads lips across a street",
+        "voice mimicry",
+        "deciphers reflections"
+    ],
+    "flaws": [
+        "overconfident",
+        "impulsive",
+        "resentful of authority"
+    ],
+    "dreams": [
+        "compose an unbreakable cipher",
+        "map the underways end-to-end",
+        "earn a recognized name-strand free of Loom oversight"
+    ],
+    "secrets": [
+        "Stole a ledger page during the Kiln Riots",
+        "Anonymous letters passed to Lysa Truin to unlock archives",
+        "Parents' debt cord was frozen by the Loom—resentment fuels their work"
+    ],
+    "relations": [
+        {
+            "npc_name": "Tamsin Veil",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Leth Morrow",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Lysa Truin",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sereth Vex",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Nalai Thread",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

@@ -1,0 +1,601 @@
+{
+    "city": "Ribcrown is a cliff-suspended metropolis strung through the arched ribs of the slain sky-serpent Vaelor, spanning the thunder of the Anther River where it carves the deep Mothravine. The first lashings were rope-bridges and tarred rafts slung between pale bone ninety cubits above the flood; over three centuries, those lashings gave way to ironwood struts, bone-ceramic plates, and wind-braced chains until markets, homes, temples, and ropeways wove a city among the ribs.\n\nHistory and founding: Ribcrown rose 312 years ago when refugees of the Moonfall Deluge followed storm-omens into the canyon and found Vaelor’s exposed skeleton ringing like chimes in the wind. Legend says the serpent died to pin the river in place, sacrificing itself so the waters would never again devour the highlands. The earliest families—river pilots, salt-gardeners, and ridge-rope makers—bound themselves by a ‘Hollow Oath’ to never cut Vaelor’s bones, only to carve grooves and plug fittings where marrow had long since petrified. The oath remains binding law.\n\nDistricts: Crownward (uppermost ribs with the old guildhalls and roosted manses); Midspans (broadest decks where the Crown-Market Arcade hangs like a bright net of banners); Undershadows (lower galleries and ropewalks, where lanterns stay lit even at noon); Spinegate (civic chambers and archives carved into the central vertebrae); Riverfoot (the stacked docks and floodgates at canyon floor); Galecliffs (windmill terraces and the chainhouses pinned into the cliff’s dark basalt).\n\nEconomy: Bone-ceramic craft from the Bonewright Foundry-Kilns; wind-pressed oils and milled grains from cliff-farms; river trade brokered at Riverfoot Locks and the seasonal Mistmarket; fungal silk and medicinal spores from the Ossuary Gardens; luminescent crystal from the Moonshard Heath; basalt and obsidian from the western Reach. Ribcrown imports timber, tin rivets, and pitch, and exports bone-inlaid instruments, chainwork, wind-harps, and lantern-glass.\n\nGovernment: The city is governed by the Triune Charter—three signatories who must concur for new law: the Bonewrights’ Conclave (craft and infrastructure), the River Lords’ Compact (trade and tollage), and the Breathkeepers of the Unbroken Breath (ritual and safety in gale season). A ritual empty chair, the Seat of the Hollow, stands between them in Spinegate Hall. Any edict can be stilled for one lunar month if all three invoke Vaelor’s Silence, a veto in the serpent’s name; doing so twice in a year requires public atonement on the ribs.\n\nLaws and taboos: No severing of Vaelor’s bones; no fire on the ribs without guard-pans; no tolling the wind-horns in clear weather; spore masks required in the Undershadows during Sporefall; river pilots hold right-of-way at floodrise. Violations are reviewed by Vigil of the Hollow magistrates.\n\nFestivals: Gale Tuning (when the wind-organs at the Gale Organ Cliffs are tuned and the city sings); The Lanterning (the first night the Mistmarket appears, when the riverfolk drift by and trade under floating lights); Spine Remembering (names of the lost are threaded in wind-chimes along a rib and cut free at dawn).\n\nDependencies and vulnerabilities: The Foundry-Kilns depend on salt-ash from the Saltlick Terraces; the Chainhouse Triad rides on basalt from the Obsidian Reach; the Marrow Archive requires moonshards for their cold lamps; Riverfoot’s trade depends on sandbar stability at the Mistmarket Flats. A drought upriver starves the docks; a gale-season landslide can isolate Crownward; and some whisper that when the ribs hum in a three-note pattern before a storm, the serpent stirs.\n\nLegends and omens: The Breathkeepers say Vaelor is not wholly dead; its heart was ferried to the Elderbarrow Marsh and buried beneath a mound that grows warm before floods. River-born children who bear a crescent birthmark behind the ear—the Scale-born—can allegedly hear the bones sing. The Moth Lanterns retell an older tale still: that Vaelor hunted the moon and swallowed a shard of it, and that the Moonshard Heath is its shed glimmer.\n\nPresent tensions: A tariff war brews between Bonewrights and River Lords over weight-fees in the Crown-Market Arcade; the Rafter Guild blames the Moth Lanterns for sabotage that stalled the Chainhouse Triad and killed three riggers; the Breathkeepers are accused of withholding a storm-omen after Gale Tuning, and the Vigil of the Hollow must choose between keeping the peace and keeping the Triune from cracking.",
+    "surroundings": [
+        {
+            "name": "Elderbarrow Marsh",
+            "type": "marsh and burial islets",
+            "distance": "two days south along the floodplain by barge",
+            "description": "A tangle of reed-choked channels and silt islets crowned with ancient stone mounds. Warm vapors rise at dusk, and willow roots clutch broken marker-stones inscribed in languages no one now speaks.",
+            "legend": "Breathkeeper doctrine holds that Vaelor’s still-beating heart lies beneath the tallest barrow, the Drum of Reeds. On nights of red moonlight, the Drum is said to thrum loudly enough to shake lanterns in Ribcrown.",
+            "resources": [
+                "reeds and thatch",
+                "marsh herbs for fever draughts",
+                "peat blocks",
+                "fish and eel"
+            ],
+            "hazards": [
+                "will-o’-wisps that mimic watch-lanterns",
+                "sinkholes hidden in duckweed",
+                "biting midges that carry ‘river-sleep’ fevers"
+            ],
+            "connected_factions": [
+                "Breathkeepers of the Unbroken Breath",
+                "Vigil of the Hollow"
+            ],
+            "connected_buildings": [
+                "Temple of the Unbroken Breath"
+            ]
+        },
+        {
+            "name": "Saltlick Terraces",
+            "type": "stepped saline orchards and evaporation pans",
+            "distance": "half a day east along cliff-top paths",
+            "description": "Stone-cut terraces fed by brine aqueducts cultivate halophyte orchards—thick-leaved saltbush and glasswort. Windmill pumps creak over shallow pans where sun and wind draw salt to a crisp bloom.",
+            "legend": "Neral Saltfather, first of the gardeners, is said to have coaxed the brine to climb like a ladder during the Deluge, raising three dozen children out of the flood. His walking stick—crusted in white—is rumored to appear when the terraces run dry.",
+            "resources": [
+                "salt-ash for kiln-glazing",
+                "edible saltbush",
+                "glasswort lye for soapmakers"
+            ],
+            "hazards": [
+                "salt squalls that blind and flay skin",
+                "brine slicks on cliff edge",
+                "brackish snakes"
+            ],
+            "connected_factions": [
+                "Bonewrights’ Conclave",
+                "Rafter Guild"
+            ],
+            "connected_buildings": [
+                "Bonewright Foundry-Kilns",
+                "Chainhouse Triad"
+            ]
+        },
+        {
+            "name": "Gale Organ Cliffs",
+            "type": "wind-carved cliff organs",
+            "distance": "one hour west by ribwalk and stair",
+            "description": "A honeycomb of natural pipes and vents drilled through the cliff by millennia of wind. Cords of bone and cloth are stretched across some mouths, and their drones guide pilots and warn of gale shifts.",
+            "legend": "When Vaelor died, its last breath bored the first pipes in the cliff. If the organ sings a five-note descent under a clear sky, a storm rides the river ahead of any cloud.",
+            "resources": [
+                "calibrated wind tones for navigation and ritual",
+                "safe training ledges for riggers",
+                "rare cliffbirds’ feathers"
+            ],
+            "hazards": [
+                "sheer drops with treacherous eddies",
+                "windblast ‘slaps’ that throw climbers",
+                "nesting razorkites"
+            ],
+            "connected_factions": [
+                "Breathkeepers of the Unbroken Breath",
+                "Rafter Guild"
+            ],
+            "connected_buildings": [
+                "Temple of the Unbroken Breath",
+                "Chainhouse Triad"
+            ]
+        },
+        {
+            "name": "Moonshard Heath",
+            "type": "stony heath with luminescent crystal",
+            "distance": "a day and a half north across scrub highland",
+            "description": "Low heather and thornbrush sprawl around shallow craters glittering with pale, cold shards that shed a soft light. At night the heath glows like frost.",
+            "legend": "Lumen’s tears fell here when the Moon was scarred. The Archive claims moonshards ‘remember’ the last light they saw, and can be coaxed to replay starfields in the dark.",
+            "resources": [
+                "cold-lamps for archives",
+                "crystal lenses for navigators’ scopes",
+                "trace metals in shard-veins"
+            ],
+            "hazards": [
+                "lunar moth swarms that dull the senses",
+                "static storms that raise hair and spark ropes",
+                "shard-poachers and their snares"
+            ],
+            "connected_factions": [
+                "Marrow Archive Curators",
+                "Vigil of the Hollow"
+            ],
+            "connected_buildings": [
+                "The Marrow Archive"
+            ]
+        },
+        {
+            "name": "Obsidian Reach",
+            "type": "basalt and obsidian ridge",
+            "distance": "one day west by mule-train along the rim",
+            "description": "A black tooth of cooled lava thrusts from scrubland, laced with glassy veins. Quarry scars form terraces where sledges load blocks for the chainhouses.",
+            "legend": "When Vaelor’s blood spilled on fire, the river boiled and the Reach rose to keep the bones from sinking. Quarriers still find ‘blood pearls’—red glass nodules that bring luck or curses depending on the finder’s oath.",
+            "resources": [
+                "basalt blocks",
+                "obsidian plates and blades",
+                "blood pearls for amulets"
+            ],
+            "hazards": [
+                "shatterglass showers in heat waves",
+                "unstable overhangs",
+                "quarry bandits"
+            ],
+            "connected_factions": [
+                "Rafter Guild",
+                "Bonewrights’ Conclave"
+            ],
+            "connected_buildings": [
+                "Chainhouse Triad",
+                "Bonewright Foundry-Kilns"
+            ]
+        },
+        {
+            "name": "Mistmarket Flats",
+            "type": "seasonal sandbars and river fair",
+            "distance": "downriver drift within half a day when bars rise",
+            "description": "When the river subsides, pale sandbars bloom from the current and riverfolk raft them together into a floating bazaar of stakes, awnings, and bells that ring in fog.",
+            "legend": "Ghost-barges drift through in thick mists trading old coin for new, and anyone who takes their silver will forget one promise by morning.",
+            "resources": [
+                "rare upriver goods",
+                "freshwater pearls",
+                "rivercraft repairs and pilots"
+            ],
+            "hazards": [
+                "flashfloods that swallow stalls",
+                "sandbar collapses",
+                "cutpurses and contract-duels"
+            ],
+            "connected_factions": [
+                "River Lords’ Compact",
+                "Moth Lanterns"
+            ],
+            "connected_buildings": [
+                "Crown-Market Arcade",
+                "Riverfoot Locks"
+            ]
+        },
+        {
+            "name": "Ossuary Gardens",
+            "type": "fungal terraces in canyon shade",
+            "distance": "beneath the lowest ribs, rope-access only",
+            "description": "Tiered beds of bone meal, compost, and river silt glow softly with sporelight. Pale caps and lace-like shelf fungi creep along bone and stone alike, watered by drip-lines.",
+            "legend": "The mycelium remembers footsteps; the oldest keeper claims you can hear the passing of a century if you press your ear to the rootbed and listen to the slow crackle.",
+            "resources": [
+                "fungal silk thread",
+                "antibiotic shelf fungus",
+                "spore-paste for poultices"
+            ],
+            "hazards": [
+                "toxic spore blooms during Sporefall",
+                "slimy rungs on descent ropes",
+                "white eels in the drip basins"
+            ],
+            "connected_factions": [
+                "Moth Lanterns",
+                "Vigil of the Hollow"
+            ],
+            "connected_buildings": [
+                "Crown-Market Arcade"
+            ]
+        }
+    ],
+    "buildings": [
+        {
+            "name": "The Marrow Archive",
+            "type": "library and memory-crypt carved into the central vertebrae",
+            "description": "A honeycomb of reading cells and galleries drilled through Vaelor’s spine, lit by cold moonshard lamps. Bone-etched scrolls and memory-shells line niches sealed with beeswax.",
+            "history": "Founded a century after Ribcrown’s birth by scholars who recorded oaths and floodmarks. Expanded after the Second Gale when wind-maps and storm-tones became lawfully recorded.",
+            "notable_features": [
+                "The Echo Hall, where whispered names repeat hours later",
+                "Moonshard observatory slit cut toward the northern sky",
+                "The Oath Vault containing the Hollow Oath stones"
+            ],
+            "controlled_by": "Marrow Archive Curators",
+            "dependencies": [
+                "Moonshard Heath",
+                "Temple of the Unbroken Breath"
+            ],
+            "secrets": [
+                "A sealed aisle of vertebral marrow where memory-grafts can temporarily embed skills",
+                "A lost codex describing the original position of Vaelor’s heart before it was moved"
+            ],
+            "current_conflicts": "The River Lords demand access to toll records; Curators claim ritual privacy under the Oath Vault."
+        },
+        {
+            "name": "Crown-Market Arcade",
+            "type": "suspended market deck",
+            "description": "A broad plankway hung between three of the widest ribs, alive with awnings, spice-smoke, wind-chimes, and scale-balanced weighing rings where taxes are measured.",
+            "history": "Began as braided ropes with nets between ribs; formalized under the First Charter when merchants financed bone-ceramic plating for safer trade.",
+            "notable_features": [
+                "Weight Rings calibrated to the Breathkeepers’ bells",
+                "Lantern-lattice ceiling to catch falling goods and people",
+                "Pitch-stained dueling circles for merchants’ disputes"
+            ],
+            "controlled_by": "River Lords’ Compact",
+            "dependencies": [
+                "Mistmarket Flats",
+                "Riverfoot Locks",
+                "Vigil of the Hollow"
+            ],
+            "secrets": [
+                "A hidden smugglers’ crawl beneath the western rail used by the Moth Lanterns",
+                "Counterweights in the lattice can be shifted to tilt the entire arcade during riots"
+            ],
+            "current_conflicts": "Bonewrights seek to levy a structural upkeep fee on all sales; River Lords refuse, claiming exclusive market privilege."
+        },
+        {
+            "name": "Temple of the Unbroken Breath",
+            "type": "wind temple and storm-watch",
+            "description": "A ring of bone arches built into the Galecliffs, hung with horn and cloth that sings with the wind. Altars face pipe-mouths that moan omens during squalls.",
+            "history": "Raised in the second generation after a gale ripped three decks free; after the temple’s founding, no deck has been lost without warning tones.",
+            "notable_features": [
+                "The Breath Gong struck only during true gale-warning",
+                "The Pilots’ Shrine where river charts are blessed",
+                "Aeric Aerie, a hidden shelf for the Breathkeepers’ private rites"
+            ],
+            "controlled_by": "Breathkeepers of the Unbroken Breath",
+            "dependencies": [
+                "Gale Organ Cliffs",
+                "The Marrow Archive"
+            ],
+            "secrets": [
+                "A locked tube that channels bone-song directly from Vaelor’s spine into the Aeric Aerie",
+                "A prophecy inscribed behind a plaster panel naming a day when the Seat of the Hollow will be filled"
+            ],
+            "current_conflicts": "Accusations that the Breathkeepers withheld a storm-omen to favor a River Lords’ convoy; the Vigil has demanded audit of horn-logs."
+        },
+        {
+            "name": "Chainhouse Triad",
+            "type": "three linked winch-towers and sky-ferry anchors",
+            "description": "Massive basalt towers cabled together across the ravine, operating counterweighted platforms that raise cargo and people between Riverfoot and the ribs.",
+            "history": "Built in stages across five decades after a mudslide buried the old switchback stairs. The third tower was added when the city expanded to the far cliff.",
+            "notable_features": [
+                "Obsidian-lined brake drums cool with mist-spray",
+                "Signal flags that mirror the wind organ’s notes",
+                "Emergency drop-net slung between towers"
+            ],
+            "controlled_by": "Rafter Guild",
+            "dependencies": [
+                "Obsidian Reach",
+                "Saltlick Terraces"
+            ],
+            "secrets": [
+                "Saboteur marks shaped like moth-wings etched under a catwalk",
+                "A hidden emergency clutch that can drop a platform to save the system at cost of whatever rides it"
+            ],
+            "current_conflicts": "Recent cable scoring killed three riggers; the Guild blames the Moth Lanterns and threatens to close the platforms to all trade from the Mistmarket."
+        },
+        {
+            "name": "Spinegate Hall",
+            "type": "civic seat within the central vertebra",
+            "description": "Broad chambers carved within Vaelor’s spine host hearings, guild councils, and the Triune Charter’s deliberations. The Seat of the Hollow stands empty between the three chairs.",
+            "history": "Carved by the Bonewrights in the city’s second century to replace outdoor rope-courts; the Breathkeepers consecrated the seats under high wind and oath smoke.",
+            "notable_features": [
+                "Acoustic ribs that carry whispers to a central stone",
+                "The Oathwater Basin filled with run-off gathered only during Gale Tuning",
+                "The Seat of the Hollow—untouched, undecorated bone"
+            ],
+            "controlled_by": "Triune Charter",
+            "dependencies": [
+                "The Marrow Archive",
+                "Vigil of the Hollow"
+            ],
+            "secrets": [
+                "A narrow passage into Vaelor’s marrow that allows listeners to ‘feel’ the bone-song and judge false oaths",
+                "A concealed ledger listing fines paid to hush riots on the Arcade"
+            ],
+            "current_conflicts": "The Charter is split over invoking Vaelor’s Silence to halt new tolls; each fears appearing weak before their rivals."
+        },
+        {
+            "name": "Riverfoot Locks",
+            "type": "dockworks and floodgates",
+            "description": "Tiered docks descend to the Anther; floodgates plated in obsidian manage spates, while cranes and chain-trolleys feed the Chainhouse platforms.",
+            "history": "Raised after the First Floodrise when unregulated currents tore half the rafts from their moorings. The River Lords financed the obsidian plating, earning permanent toll rights at the lower gates.",
+            "notable_features": [
+                "Wharfside shrine to the River’s Spine",
+                "Depth-mark poles painted in storm colors",
+                "Smugglers’ graffiti etched in upside-down runes for reading from the water"
+            ],
+            "controlled_by": "River Lords’ Compact",
+            "dependencies": [
+                "Mistmarket Flats",
+                "Chainhouse Triad"
+            ],
+            "secrets": [
+                "A hidden sluice that can lower water a handspan—a costly trick used to beach rival barges",
+                "A ledger of ghost-barge trades bound in eel-skin"
+            ],
+            "current_conflicts": "Silt drift from upriver logging clogs the locks; the River Lords seek labor levies from Crownward, which the Bonewrights resist."
+        },
+        {
+            "name": "Bonewright Foundry-Kilns",
+            "type": "industrial kilns and bone-ceramic works",
+            "description": "A cluster of squat kilns ventilated by wind-shafts, where bone meal, clay, and salt-ash are fused into pale, strong ceramic used across Ribcrown.",
+            "history": "Originally simple pit kilns burning driftwood; expanded with wind-drafted chimneys after the Third Gale. Techniques for bone-ceramic once considered taboo were sanctified by the Breathkeepers after debate.",
+            "notable_features": [
+                "Salt-glaze channels that sheath ceramic in smooth gloss",
+                "Test-walls where new plates are hammered to song",
+                "A memorial wheel for workers lost to kiln-bursts"
+            ],
+            "controlled_by": "Bonewrights’ Conclave",
+            "dependencies": [
+                "Saltlick Terraces",
+                "Obsidian Reach for kiln linings"
+            ],
+            "secrets": [
+                "Experimental resonant tiles that amplify bone-song",
+                "A hidden chamber storing contraband timber for emergency firings"
+            ],
+            "current_conflicts": "Shortages of salt-ash have slowed production; the Conclave wants rationing, the River Lords want imports at steep mark-up."
+        }
+    ],
+    "politics": [
+        {
+            "name": "Bonewrights’ Conclave",
+            "type": "craft guild and civic engineers",
+            "motto": "“We brace the hollow that holds us.”",
+            "leadership": {
+                "leader": "Master Archivolt Sera Dake",
+                "style": "pragmatic, oath-bound, favors slow consensus"
+            },
+            "membership": "hundreds of artisans, riggers, carvers, and kilnmasters",
+            "goals": [
+                "Maintain and expand Ribcrown’s structure",
+                "Secure stable supplies of salt-ash and stone",
+                "Keep sacred limits on bone-cutting"
+            ],
+            "methods": [
+                "levying structural fees",
+                "oath-craft ceremonies",
+                "pressure through inspectors and safety seals"
+            ],
+            "resources": [
+                "skilled labor crews",
+                "bone-ceramic stockpiles",
+                "inspection writs honored by the Vigil"
+            ],
+            "base_of_operations": "Bonewright Foundry-Kilns",
+            "rivals": [
+                "River Lords’ Compact",
+                "Rafter Guild"
+            ],
+            "allies": [
+                "Marrow Archive Curators",
+                "Breathkeepers of the Unbroken Breath"
+            ],
+            "current_conflicts": "Tariff dispute over Crown-Market fees; accusations that they slow Chainhouse maintenance to force concessions.",
+            "hooks": [
+                "A Conclave inspector disappears after flagging a forged safety seal",
+                "Experimental resonant tiles could stabilize or shatter a rib depending on use"
+            ]
+        },
+        {
+            "name": "River Lords’ Compact",
+            "type": "merchant syndicate and dock authority",
+            "motto": "“Nothing stands where water flows, save our word.”",
+            "leadership": {
+                "leader": "High Bargewarden Ulo Hen",
+                "style": "bold, transactional, built on oaths of convenience"
+            },
+            "membership": "scores of barge families, tally-scribes, and hireblades",
+            "goals": [
+                "Control tariffs at Riverfoot and the Arcade",
+                "Expand Mistmarket influence upriver",
+                "Break Bonewright fee claims"
+            ],
+            "methods": [
+                "toll exemptions for allies",
+                "funding repairs in exchange for rights",
+                "hiring toughs to ‘redirect’ traffic"
+            ],
+            "resources": [
+                "fleet of barges and tow-beasts",
+                "dock crews",
+                "a war chest in eel-skin ledgers"
+            ],
+            "base_of_operations": "Riverfoot Locks",
+            "rivals": [
+                "Bonewrights’ Conclave",
+                "Moth Lanterns"
+            ],
+            "allies": [
+                "Rafter Guild (uneasy)",
+                "select Breathkeepers hungry for influence"
+            ],
+            "current_conflicts": "Blamed for bribing Breathkeepers to delay a gale warning; facing a public audit of horn-logs.",
+            "hooks": [
+                "A ghost-barge offers to settle a debt if someone returns stolen silver before dawn",
+                "A new sandbar threatens to divert traffic past Riverfoot"
+            ]
+        },
+        {
+            "name": "Breathkeepers of the Unbroken Breath",
+            "type": "religious order and storm-watch",
+            "motto": "“Hear the hollow, heed the wind.”",
+            "leadership": {
+                "leader": "High Cantor Ysil Aer",
+                "style": "austere, serene, secretive with omens"
+            },
+            "membership": "dozens of cantors, horn-tenders, pilots, and lay wards",
+            "goals": [
+                "Protect lives during gale and flood",
+                "Preserve the rites that bind Vaelor’s bones",
+                "Keep the Seat of the Hollow inviolate"
+            ],
+            "methods": [
+                "horn rites and wind readings",
+                "public admonitions at festivals",
+                "withholding endorsements until safety met"
+            ],
+            "resources": [
+                "horn arrays and wind maps",
+                "sanction to halt traffic in storms",
+                "devotional labor"
+            ],
+            "base_of_operations": "Temple of the Unbroken Breath",
+            "rivals": [
+                "Moth Lanterns",
+                "River Lords’ Compact"
+            ],
+            "allies": [
+                "Vigil of the Hollow",
+                "Marrow Archive Curators"
+            ],
+            "current_conflicts": "Under inquiry for alleged omen suppression; fractures within over whether to reveal a prophecy about the Seat of the Hollow.",
+            "hooks": [
+                "A set of wind-tones goes missing, and the next gale sings wrong",
+                "A Scale-born child hears a new note under the organ’s song"
+            ]
+        },
+        {
+            "name": "Rafter Guild",
+            "type": "riggers, builders, and chainmasters",
+            "motto": "“What we tie holds.”",
+            "leadership": {
+                "leader": "Chainmaster Gor Relk",
+                "style": "taciturn, protective of crews, quick to retaliate"
+            },
+            "membership": "hundreds of riggers, climbers, ferrymen, and winch-keepers",
+            "goals": [
+                "Keep the Chainhouse Triad unassailable",
+                "Win jurisdiction over all ropeways",
+                "Drive saboteurs from the ribs"
+            ],
+            "methods": [
+                "strike threats",
+                "rapid repair teams",
+                "quiet sabotage of rivals’ projects"
+            ],
+            "resources": [
+                "spare cable, counterweights, and winch parts",
+                "trained crews",
+                "control of safety certifications on lifts"
+            ],
+            "base_of_operations": "Chainhouse Triad",
+            "rivals": [
+                "Moth Lanterns",
+                "Bonewrights’ Conclave"
+            ],
+            "allies": [
+                "River Lords’ Compact (conditional)"
+            ],
+            "current_conflicts": "Three riggers dead after cable scoring; the Guild rallies for vengeance and has begun night patrols on the ribs.",
+            "hooks": [
+                "A rigger’s diary hints the scoring came from within the Guild",
+                "A new counterweight alloy could halve accidents but requires taboo metal"
+            ]
+        },
+        {
+            "name": "Marrow Archive Curators",
+            "type": "scholars and oathkeepers",
+            "motto": "“What is written in bone endures.”",
+            "leadership": {
+                "leader": "Archivist Lerrin Vale",
+                "style": "measured, meticulous, wields secrets like scalpels"
+            },
+            "membership": "scores of scribes, bone-etchers, and memory-tenders",
+            "goals": [
+                "Record every oath and floodmark",
+                "Unlock safe practices for bone-song use",
+                "Resist politicization of the Archive"
+            ],
+            "methods": [
+                "restricted access to records",
+                "quiet favors for honest petitioners",
+                "controlled leaks of inconvenient truths"
+            ],
+            "resources": [
+                "oath ledgers",
+                "moonshard lamps",
+                "memory-shells"
+            ],
+            "base_of_operations": "The Marrow Archive",
+            "rivals": [
+                "River Lords’ Compact"
+            ],
+            "allies": [
+                "Bonewrights’ Conclave",
+                "Breathkeepers of the Unbroken Breath"
+            ],
+            "current_conflicts": "Pressed to release toll ledgers; rumors swirl that they hold a map to Vaelor’s heart-burial.",
+            "hooks": [
+                "A memory-graft offers a vital skill—but will erase a cherished song unless counter-rited",
+                "A lost shelf in the Archive hums at night with a new note"
+            ]
+        },
+        {
+            "name": "Vigil of the Hollow",
+            "type": "city watch and oath-magistrates",
+            "motto": "“We keep the ribs from cracking.”",
+            "leadership": {
+                "leader": "Captain-Magistrate Sorn Ilt",
+                "style": "plain-spoken, fair-handed, stretched thin"
+            },
+            "membership": "a few hundred wardens, court clerks, and lamplighters",
+            "goals": [
+                "Prevent faction war",
+                "Enforce wind and fire codes",
+                "Guard the sacred bones and public peace"
+            ],
+            "methods": [
+                "oath citations and fines",
+                "mediations at Spinegate Hall",
+                "lamplight patrols in the Undershadows"
+            ],
+            "resources": [
+                "jurisdiction in all districts",
+                "emergency authority to halt markets",
+                "trusted lamplighter network"
+            ],
+            "base_of_operations": "Spinegate Hall",
+            "rivals": [
+                "Moth Lanterns"
+            ],
+            "allies": [
+                "Breathkeepers of the Unbroken Breath",
+                "Marrow Archive Curators"
+            ],
+            "current_conflicts": "Caught between Triune Charter factions; asked to investigate both omen-withholding and Chainhouse sabotage while understaffed.",
+            "hooks": [
+                "A lamplighter route goes dark two nights running in the Undershadows",
+                "An oathstone used by the Vigil begins to give false readings"
+            ]
+        },
+        {
+            "name": "Moth Lanterns",
+            "type": "smugglers’ circle and mutual-aid thieves",
+            "motto": "“We carry light where others hide shadow.”",
+            "leadership": {
+                "leader": "Lantern-Queen Thia ‘Softstep’ Mol",
+                "style": "charismatic, protective of the poor, wreathed in rumor"
+            },
+            "membership": "loose network of dozens, from fungus-pickers to rope-cats and market runners",
+            "goals": [
+                "Skim life from the currents that drown the desperate",
+                "Embarrass and humble the proud guilds",
+                "Protect the scale-born and the gutterborn"
+            ],
+            "methods": [
+                "smuggling through lattice and garden",
+                "blackmail by lantern-signal",
+                "public stunts during festivals"
+            ],
+            "resources": [
+                "hidden crawls under the Crown-Market",
+                "safe holes in the Ossuary Gardens",
+                "ghost-barge contacts"
+            ],
+            "base_of_operations": "Crown-Market Arcade (unofficial) and Ossuary Gardens",
+            "rivals": [
+                "Vigil of the Hollow",
+                "Rafter Guild",
+                "River Lords’ Compact"
+            ],
+            "allies": [
+                "select Breathkeepers (quietly)",
+                "dock poor and fungus-keepers"
+            ],
+            "current_conflicts": "Blamed for Chainhouse sabotage; internal debate whether to escalate against the Rafter Guild or expose a deeper plot.",
+            "hooks": [
+                "A ghost-barge debt forces the Lanterns to seek a moonshard stolen by the River Lords",
+                "A new lantern-signal appears that no one claims to have sent"
+            ]
+        }
+    ]
+}

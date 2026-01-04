@@ -1,0 +1,45 @@
+{
+    "id": 4,
+    "title": "Below the Quota, Above the Wind",
+    "quest_giver": "Ovelle Kite",
+    "description": "The Sky Orchard drifts in a lazy gyre, and Ovelle Kite moves along vines like a bell clapper through the city’s throat. Silver leaves flash, cloudfruit pods sway, and Aerarium quotas hang like stormweight on every farmer’s shoulder. Ovelle knows where the Gardeners of the Air might accept a ribbon and where they will snatch a fool into the mist. You must harvest pods tuned to buoy heavy lines and retrieve aerolith-bearing root nodules before masked Aerarium assessors count you short. Mira Pellan, an Aerarium auditor with a keen ear for false chits, watches the vine-bridges with a ledger tucked under her arm and a promise to Prefect Lalei Vitt to stop leaks before they become rivers. Lyris’s glide harness and forged papers will be tested against honest wind.",
+    "objectives": [
+        "Meet Ovelle Kite at the Orchard’s leeward tether and learn the day’s windroads.",
+        "Harvest three mature cloudfruit pods without cutting living vines on a fog day and offer a ribbon at the Gardeners’ shrine.",
+        "Unearth two aerolith-bearing root nodules and hide them among legitimate baskets bound for the Aerarium.",
+        "Outmaneuver Mira Pellan’s inspection by presenting forged chits and a plausible harvest route, or negotiate a reduced levy.",
+        "Deliver the pods and nodules to an Unmoored cache netted beneath a vine-bridge without provoking Aerarium seizure."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ovelle Kite",
+            "lines": "Hold your breath when you cut the stem, else the pod remembers your lungs and floats you where you don’t mean to go. The Gardeners like bright ribbon and honest hands; they hate haste most of all. Follow my feet and let the harness be an afterthought, not a plan."
+        },
+        {
+            "speaker": "Mira Pellan",
+            "lines": "Your chits are saffron, yes, but the watermark wavers. I can’t decide if you insult me or test me. I would rather you do neither. The Aerarium is not a villain in a market play; we are the difference between drift and fall. So tell me why you think you deserve a lighter levy."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "Because the levy will strangle the hands that keep the vines knotted and the tethers sound. Because a pod in the right place saves ten with ropes and rakes. Because if we turn the Orchard into a vault, the wind will make thieves of us all."
+        },
+        {
+            "speaker": "Kesh Storm-Runner",
+            "lines": "I’ve seen what happens when quotas don’t bend. People break, then lines break, and then somebody shouts that the wind was at fault. You can put that in a ledger, if ledgers can count tears."
+        }
+    ],
+    "connections": {
+        "previous": [
+            3
+        ],
+        "next": [
+            5
+        ]
+    },
+    "rewards": [
+        "3 tuned cloudfruit pods (temporary lift for lines and kits)",
+        "Aerolith root nodules (small liftstone cache; risky to keep)",
+        "Sky Orchard cooperatives favor (access to kite-harness repairs)",
+        "Aerarium scrutiny flag: Mira Pellan remembers your face and your argument"
+    ]
+}

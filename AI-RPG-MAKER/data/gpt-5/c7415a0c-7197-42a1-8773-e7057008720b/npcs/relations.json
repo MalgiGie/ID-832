@@ -1,0 +1,437 @@
+[
+    {
+        "from": "Selka Vire",
+        "to": "Pera Ilem",
+        "type": "Alliance"
+    },
+    {
+        "from": "Selka Vire",
+        "to": "Osric Greyfen",
+        "type": "Alliance"
+    },
+    {
+        "from": "Selka Vire",
+        "to": "Garrik Shale",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Selka Vire",
+        "to": "Neth Cowl",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Selka Vire",
+        "to": "Yhosa Kel",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Selka Vire",
+        "to": "Vesk Marran",
+        "type": "Conflict"
+    },
+    {
+        "from": "Selka Vire",
+        "to": "Ketta Brineshaw",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Selka Vire",
+        "to": "Siala Nerm",
+        "type": "Different goals"
+    },
+    {
+        "from": "Selka Vire",
+        "to": "Irio Mossvane",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Selka Vire",
+        "to": "Talon Orase",
+        "type": "Different goals"
+    },
+    {
+        "from": "Garrik Shale",
+        "to": "Yhosa Kel",
+        "type": "Alliance"
+    },
+    {
+        "from": "Garrik Shale",
+        "to": "Selka Vire",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Garrik Shale",
+        "to": "Osric Greyfen",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Garrik Shale",
+        "to": "Neth Cowl",
+        "type": "Alliance"
+    },
+    {
+        "from": "Garrik Shale",
+        "to": "Talon Orase",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Garrik Shale",
+        "to": "Irio Mossvane",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Garrik Shale",
+        "to": "Ketta Brineshaw",
+        "type": "Different goals"
+    },
+    {
+        "from": "Garrik Shale",
+        "to": "Pera Ilem",
+        "type": "Different goals"
+    },
+    {
+        "from": "Garrik Shale",
+        "to": "Siala Nerm",
+        "type": "neutral"
+    },
+    {
+        "from": "Pera Ilem",
+        "to": "Selka Vire",
+        "type": "Alliance"
+    },
+    {
+        "from": "Pera Ilem",
+        "to": "Osric Greyfen",
+        "type": "Alliance"
+    },
+    {
+        "from": "Pera Ilem",
+        "to": "Yhosa Kel",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Pera Ilem",
+        "to": "Siala Nerm",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Pera Ilem",
+        "to": "Talon Orase",
+        "type": "Different goals"
+    },
+    {
+        "from": "Pera Ilem",
+        "to": "Ketta Brineshaw",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Pera Ilem",
+        "to": "Irio Mossvane",
+        "type": "Different goals"
+    },
+    {
+        "from": "Osric Greyfen",
+        "to": "Selka Vire",
+        "type": "Alliance"
+    },
+    {
+        "from": "Osric Greyfen",
+        "to": "Pera Ilem",
+        "type": "Alliance"
+    },
+    {
+        "from": "Osric Greyfen",
+        "to": "Neth Cowl",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Osric Greyfen",
+        "to": "Garrik Shale",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Osric Greyfen",
+        "to": "Ketta Brineshaw",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Osric Greyfen",
+        "to": "Siala Nerm",
+        "type": "Different goals"
+    },
+    {
+        "from": "Osric Greyfen",
+        "to": "Vesk Marran",
+        "type": "Hostility"
+    },
+    {
+        "from": "Osric Greyfen",
+        "to": "Yhosa Kel",
+        "type": "neutral"
+    },
+    {
+        "from": "Yhosa Kel",
+        "to": "Garrik Shale",
+        "type": "Alliance"
+    },
+    {
+        "from": "Yhosa Kel",
+        "to": "Pera Ilem",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Yhosa Kel",
+        "to": "Selka Vire",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Yhosa Kel",
+        "to": "Siala Nerm",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Yhosa Kel",
+        "to": "Talon Orase",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Yhosa Kel",
+        "to": "Osric Greyfen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Yhosa Kel",
+        "to": "Neth Cowl",
+        "type": "neutral"
+    },
+    {
+        "from": "Neth Cowl",
+        "to": "Garrik Shale",
+        "type": "Alliance"
+    },
+    {
+        "from": "Neth Cowl",
+        "to": "Osric Greyfen",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Neth Cowl",
+        "to": "Selka Vire",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Neth Cowl",
+        "to": "Vesk Marran",
+        "type": "Alliance"
+    },
+    {
+        "from": "Neth Cowl",
+        "to": "Irio Mossvane",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Neth Cowl",
+        "to": "Lira Thole",
+        "type": "Friendship"
+    },
+    {
+        "from": "Neth Cowl",
+        "to": "Ketta Brineshaw",
+        "type": "Different goals"
+    },
+    {
+        "from": "Siala Nerm",
+        "to": "Selka Vire",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Siala Nerm",
+        "to": "Pera Ilem",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Siala Nerm",
+        "to": "Garrik Shale",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Siala Nerm",
+        "to": "Yhosa Kel",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Siala Nerm",
+        "to": "Lira Thole",
+        "type": "Friendship"
+    },
+    {
+        "from": "Siala Nerm",
+        "to": "Osric Greyfen",
+        "type": "Different goals"
+    },
+    {
+        "from": "Siala Nerm",
+        "to": "Ketta Brineshaw",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Siala Nerm",
+        "to": "Irio Mossvane",
+        "type": "neutral"
+    },
+    {
+        "from": "Irio Mossvane",
+        "to": "Selka Vire",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Irio Mossvane",
+        "to": "Garrik Shale",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Irio Mossvane",
+        "to": "Ketta Brineshaw",
+        "type": "Friendship"
+    },
+    {
+        "from": "Irio Mossvane",
+        "to": "Neth Cowl",
+        "type": "Different goals"
+    },
+    {
+        "from": "Irio Mossvane",
+        "to": "Vesk Marran",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Irio Mossvane",
+        "to": "Lira Thole",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lira Thole",
+        "to": "Siala Nerm",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lira Thole",
+        "to": "Irio Mossvane",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lira Thole",
+        "to": "Pera Ilem",
+        "type": "Different goals"
+    },
+    {
+        "from": "Lira Thole",
+        "to": "Osric Greyfen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lira Thole",
+        "to": "Neth Cowl",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lira Thole",
+        "to": "Talon Orase",
+        "type": "Friendship"
+    },
+    {
+        "from": "Vesk Marran",
+        "to": "Neth Cowl",
+        "type": "Alliance"
+    },
+    {
+        "from": "Vesk Marran",
+        "to": "Selka Vire",
+        "type": "Conflict"
+    },
+    {
+        "from": "Vesk Marran",
+        "to": "Osric Greyfen",
+        "type": "Hostility"
+    },
+    {
+        "from": "Vesk Marran",
+        "to": "Garrik Shale",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Vesk Marran",
+        "to": "Irio Mossvane",
+        "type": "Different goals"
+    },
+    {
+        "from": "Vesk Marran",
+        "to": "Pera Ilem",
+        "type": "neutral"
+    },
+    {
+        "from": "Ketta Brineshaw",
+        "to": "Osric Greyfen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ketta Brineshaw",
+        "to": "Selka Vire",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ketta Brineshaw",
+        "to": "Neth Cowl",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ketta Brineshaw",
+        "to": "Irio Mossvane",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ketta Brineshaw",
+        "to": "Pera Ilem",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ketta Brineshaw",
+        "to": "Garrik Shale",
+        "type": "Different goals"
+    },
+    {
+        "from": "Ketta Brineshaw",
+        "to": "Siala Nerm",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Talon Orase",
+        "to": "Yhosa Kel",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Talon Orase",
+        "to": "Pera Ilem",
+        "type": "Different goals"
+    },
+    {
+        "from": "Talon Orase",
+        "to": "Garrik Shale",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Talon Orase",
+        "to": "Selka Vire",
+        "type": "Different goals"
+    },
+    {
+        "from": "Talon Orase",
+        "to": "Lira Thole",
+        "type": "Friendship"
+    },
+    {
+        "from": "Talon Orase",
+        "to": "Osric Greyfen",
+        "type": "neutral"
+    }
+]

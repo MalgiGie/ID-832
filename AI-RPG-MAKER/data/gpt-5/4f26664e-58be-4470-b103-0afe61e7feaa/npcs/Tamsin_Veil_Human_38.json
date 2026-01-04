@@ -1,0 +1,67 @@
+{
+    "name": "Tamsin",
+    "surname": "Veil",
+    "race": "Human",
+    "age": 38,
+    "appearance": "Wiry frame beneath a charcoal cloak stitched with shutter-lamp symbols; carries a satchel of green-tinted lenses and a half-mask.",
+    "character": "Quick-witted, secretive, and idealistic about the right to know—and the right to forget.",
+    "traits": [
+        "cunning",
+        "loyal",
+        "wry",
+        "paranoid"
+    ],
+    "skills": [
+        "cryptography",
+        "stealth",
+        "urban navigation",
+        "signal craft",
+        "disguise"
+    ],
+    "talents": [
+        "perfect route recall",
+        "hears lies in cadence",
+        "sets and reads green flame shutters flawlessly"
+    ],
+    "flaws": [
+        "manipulative",
+        "keeps grudges",
+        "avoids formal accountability"
+    ],
+    "dreams": [
+        "anonymize vital couriers from ledger scrutiny",
+        "build a rumor commons that outpaces the Loom",
+        "retire the Grey Lanterns from reactive to custodial guardians of truth"
+    ],
+    "secrets": [
+        "Maintains a private archive of shutter logs despite warrants",
+        "Holds a dusk-pact with a silent current in the Mire of Quiet Dust",
+        "Hid her true name embedded in a shard of star-glass"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sereth Vex",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Leth Morrow",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Jull Nerr",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Cor Yune",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Lysa Truin",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Nalai Thread",
+            "relation_type": "Different goals"
+        }
+    ]
+}

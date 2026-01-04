@@ -1,0 +1,64 @@
+{
+    "name": "Varo",
+    "surname": "Pell",
+    "race": "Human",
+    "age": 39,
+    "appearance": "Soot-streaked with red-rimmed eyes; braided beard capped with copper; charred leather apron.",
+    "character": "Gruff but fair; laughs like a bellows.",
+    "traits": [
+        "Hardworking",
+        "Protective",
+        "Proud",
+        "Superstitious"
+    ],
+    "skills": [
+        "Convoy command",
+        "Furnace operation",
+        "Route scouting",
+        "Way-station bargaining"
+    ],
+    "talents": [
+        "Smells weather on ash",
+        "Hears hairline cracks in glass",
+        "Makes friends in taverns"
+    ],
+    "flaws": [
+        "Gambles on risky shortcuts",
+        "Drinks too strong",
+        "Dismissive of bookkeepers"
+    ],
+    "dreams": [
+        "Establish a city-funded ash reserve",
+        "Buy his cohort better masks"
+    ],
+    "secrets": [
+        "Paid hush money after a fatal convoy crash",
+        "Stores fuel in an unlicensed pocket near the Crucible"
+    ],
+    "relations": [
+        {
+            "npc_name": "Avar Jen",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Thren Basso",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Dorel Glassant",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Osk Talin",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Maela Vint",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Rhyss Quell",
+            "relation_type": "Conflict"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Ossa",
+    "surname": "Wreath",
+    "race": "Human",
+    "age": 36,
+    "appearance": "Stilt-walker’s lean grace, reed-ink tattoos on forearms, gauze veil smelling of mint and peat, hands gentle with moths.",
+    "character": "Earthy and pragmatic, gives trust slowly and keeps it like fire.",
+    "traits": [
+        "herbal wisdom",
+        "community-first",
+        "sly humor"
+    ],
+    "skills": [
+        "moth tending",
+        "herbalism",
+        "pole-boat navigation",
+        "hard bargaining"
+    ],
+    "talents": [
+        "senses moth-blight early",
+        "reed-song mimicry that lures moths"
+    ],
+    "flaws": [
+        "mistrusts city contracts",
+        "low scribe-literacy",
+        "quick to violence when kin are threatened"
+    ],
+    "dreams": [
+        "win fair terms for Willowwives",
+        "build a stilted school above sinkholes"
+    ],
+    "secrets": [
+        "smuggled night-thistle strains to the Loom Cathedral",
+        "claims to know a name the drowned queen will heed"
+    ],
+    "relations": [
+        {
+            "npc_name": "Brynna Coil",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Finn Bracken",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Ansel Thornward",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Dhorik Basaltbane",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sera Verrin",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Sula Reedmantle",
+            "relation_type": "Friendship"
+        }
+    ]
+}

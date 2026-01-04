@@ -1,0 +1,62 @@
+{
+    "name": "Finn",
+    "surname": "Bracken",
+    "race": "Human",
+    "age": 29,
+    "appearance": "Lean and quick, teeth stained by reed-juice, hair in a wet twist, always a coil of line over one shoulder.",
+    "character": "Affable and slippery, prefers open canals to closed questions.",
+    "traits": [
+        "gregarious",
+        "curious",
+        "opportunist"
+    ],
+    "skills": [
+        "dockside rumor weaving",
+        "canal navigation",
+        "sleight and lift",
+        "fast swimming"
+    ],
+    "talents": [
+        "holds breath beyond reason",
+        "mimics voices nearly perfectly at night"
+    ],
+    "flaws": [
+        "unreliable under oath",
+        "reed-juice habit",
+        "cowardly in open fights"
+    ],
+    "dreams": [
+        "buy a barge and set his own routes",
+        "be accepted by the Pilots without giving up his edges"
+    ],
+    "secrets": [
+        "carries messages for both the Watch and the Night Cartographers",
+        "hid a body in an under-dock sluice for a ‘friend’ and won’t say who"
+    ],
+    "relations": [
+        {
+            "npc_name": "Olan Vetch",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ossa Wreath",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Tholl Ironspan",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Lysa Quill",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sera Verrin",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Cal Tesser",
+            "relation_type": "Conflict"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "id": "M01",
+    "title": "The Knot and the Charter Flame",
+    "quest_giver": {
+        "name": "Jana Fell",
+        "affiliation": "Inkroot Archivists"
+    },
+    "description": "Inkroot millwheels sighed as if nervous beasts while Avarinth’s dusk pooled in the canals like polished slate, each ripple holding a bruised lantern-star. Archivist-Mother Jana Fell summoned Neris to the lamp-well where the city’s breath smelled of inkroot, saffron wax, and river metal, and where the original hinge-charter lay swaddled in ambered lacquer and prayer-cord that hummed like a tide-harp in a storm. The procession route from Reedbank to Cordmarket threaded arcades etched in wave glyphs, climbed floodwise stairs glassed with mist, and crossed bridges groaning under market weight and the heavier cargo of rumor. Above, the Rookery’s mirror-kites drifted like quiet hawks with silver eyes, and the Hinges’ counterweights stood like ribs against a sky the color of iron filings. Parliament’s watchers lit polite lamps while keeping knives of color hidden in their sleeves, and zealot mutterings crawled along the canals as if the water itself rehearsed a denunciation.\n\nNeris felt old rope-burn scars tingle where the oath-cord’s song brushed skin, and a shard of mirrorglass in the left iris caught a ghost of the charter’s reflection and set it trembling like a fish. The Archivists feared seizure by edict or scandal by spectacle before the consecrated re-knotting, and the Fifth Knot’s purists were said to be asking their questions out of tide-order on the Pilgrim’s Stair. Tonight, the city would read its own history aloud by lamp, and someone meant to mispronounce it with a voice amplified by brass and mirrors. The Sel ran under everything like a long memory, remembering the Night of the Unmoored and the drowned law of Thren, and it was not inclined to forgive fresh arrogance. The work would be clean if done early and quiet if done right, and the only safe applause would be the soft click of knots holding true.\n\nThe charter’s amber skin glowed like bottled dusk as handlers polished the lacquer with salt-cakes and checked the cord’s tooth-prayers for cracks. The Basilica’s bells tested their throats and found them sound, carrying pearl-white notes across the ward that pulled moths into slow swirls around moon-flames. Above the Hall of Many Lamps, colored beams probed the mist, and somewhere in Brightreach a truth-lens blinked and decided to behave for now. Neris counted roofs, measured leaps in the mind, tasted the wind that would carry mirror-codes, and tested knot-hook arrowheads against a hemp scrap until the bite felt inevitable. Duty crouched nearby like a watchful cat, and every lamp in Avarinth seemed to lean closer to see whether a single archer could keep a city’s promise from slipping on wet stone.",
+    "objectives": [
+        "Scout the procession route from Inkroot Archives in Reedbank to the Basilica of Knotted Light in Cordmarket using rooftops and canal gantries.",
+        "Plant discreet mirror-codes along three vantage points to signal diversions if crowds turn or zealots block the way.",
+        "Guard the charter during the lamp-well departure and the crossing of the Ward of Highlight.",
+        "Identify and quietly disperse any zealots attempting to denounce the charter as impure or altered.",
+        "Deliver the charter to Rector Mera’s hands without the oath-cord unsealing or its amber skin cracking."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jana Fell",
+            "lines": "Neris Quay, you have carried words through worse weather than law, and I would trust your cord-hand before any hired spear. The charter must travel beneath open lamps, as it has always done, and that makes it prey to spectacle as much as to knives, so we must outthink the theater before it dresses. If Parliament means to test us, they will do it with optics and timing, not with simple theft, and we will meet them with patience and a ledger of truth that does not smudge. Walk ahead of our truth and make the street remember its manners, because sometimes streets forget and try to be rivers again. If the cord hums sharply in your bracer, something near has the wrong name, and I expect you to teach it gently and quickly the right one."
+        },
+        {
+            "speaker": "Thay Nerr",
+            "lines": "A lovely night to weigh paper by the ounce of rumor, isn’t it, feather-ear, with every balcony a scale and every glance a coin? I am not here to trouble your vows, merely to note that unseen hands have rehearsed this parade in reflections all afternoon, and mirrors remember practice too well. Should a mirror-kite drift lower than decency allows, a certain archer of my acquaintance might clip a wing without breaking the show, and the sky would applaud by pretending it saw nothing. Consider this a courtesy, not a leash, because courtesies taste better going down than leashes, and I prefer my friends to chew with their mouths closed. The sky watches everything and forgets nothing, except for coin, and tonight’s coin is minted in silence and spent in timing."
+        },
+        {
+            "speaker": "Rector Mera",
+            "lines": "We will receive what is ours to keep only if we are faithful to the first tying, for a vow is a road you walk again each time you speak it. I feel tremors in the knotwork as if old promises are clearing their throats, and such clearing can become a cough if the air is fouled by performance. Walk with us on the outside curve and hold the crowd to a river’s patience, because a river’s patience is strong, and strong patience is a kind of mercy. I will not see the charter stumble under a theater of lamps, nor will I allow mouths to shape the old names out of order to win a moment’s heat. Let the city see dignity and hear no false names, and if false names come, untie them with your craft before they can bind."
+        },
+        {
+            "speaker": "Neris Quay",
+            "lines": "I’ll set mirrors where eyes pretend not to look and keep the route’s edges taut, because slack edges invite hands. If trouble comes, it will be loud in small ways, like a poorly tuned hinge before the flood, and I have learned to hear those notes before the water rises. The charter’s cord and I have old business between us, and I will keep its teeth from finding new blood tonight. You will not need to run, not across these stones, not under these lamps, not while my lines hold. And if a hand reaches for the cord, it will find mine first, gloved in patience and willing to tighten."
+        },
+        {
+            "speaker": "Ista Brine",
+            "lines": "As Clerk-Marshal of the Hall, I am obliged to say Parliament respects the Archive’s duties and expects the same in return, and I say it with all lamps lit. But I am also a woman who has seen processions like this become tinder in a wind, and winds in Avarinth have a habit of learning new directions at dusk. Keep your watchers from provoking ours, Neris, because provocation is a fast current and even good swimmers drown in it. When politics kiss in public, someone always bites, and I would prefer that bite not draw blood we must explain to three committees at dawn. Walk your rooftops, throw your lines, but do not make me write a report that turns into a fire."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Clip the mirror-kite and bury the glare",
+            "text": "You decide that the sky will not conduct tonight’s drama and choose to take Thay Nerr’s courtesy without asking what price the courtesy will claim tomorrow. You ascend a gantry above Highlight and let the Sel-Reed bow speak once, a whisper-shot that kisses cord and feather without wounding the bird, sending the mirror-kite into a soft spiral toward a net you arranged in shadow. On three rooftops you plant muted mirror-codes, each angled to catch only your palm-sized signal mirror and no others, prearranged with flashes that mean turn, split, and slow. When the crowd swells near a dye-vendor’s brazier, you flick a code that draws the Archivists around a chimneyed bottleneck, and the zealots find themselves stern-chased by their own echoes. In the wake of the clipped glare, the lanterns seem warmer and less sharp, and even the rumor-lines slacken as if their knots remembered mercy.",
+            "outcome": "The procession crosses Highlight with fewer eyes hungry for mischief, and the charter’s amber skin drinks the lamps without flinching, which pleases Rector Mera visibly and makes her voice steadier at the next prayer-stop. Thay Nerr’s rook-handlers retrieve the grounded kite and send up a replacement with blank eyes, and a quiet token of gratitude finds its way into your palm later disguised as a rook-feather ring-thread that tightens when lies approach. The Mirrorglass Conservatory notes the interference and files a polite complaint that never quite finds a clerk’s desk, but a young student with a late-arriving shadow memorizes your silhouette with professional interest. Parliament watchers see only a professional escort at work and mark you in their ledgers as a tolerable nuisance rather than a partisan, lowering the temperature by a degree you can feel in your bones. However, the Rookery now has a ledger line that reads Neris Quay clips sky when asked, and such a line is a string that can be tugged in nights to come."
+        },
+        {
+            "id": "C2",
+            "title": "Parley with the Clerk-Marshal and braid authority",
+            "text": "You decide that open cords bind strongest and step into Ista Brine’s lamp-circle before the departure, offering a simple plan in complex politeness. You propose shared hand-signs at every turn, redrawn lanes where your rooftop signals answer the Hall’s ground beats, and a vow to keep all gestures slow enough for dignity and fast enough for safety. The Clerk-Marshal listens, tests your pulse with a question about jurisdiction, and then nods as if a hinge has found its groove. Together you walk the route with a handful of her warders and three of your mirror-angles, agreeing on what to do if zealots sing out of tide-order or if a vote-lamp brigade tries to crowd the amber. When the first swell of onlookers presses in, your palm mirrors bloom a gentle blue that her warders answer with measured lantern-dips, and the crowd learns a better way to move without quite knowing who taught them.",
+            "outcome": "The procession wears a skin of calm discipline that even the Rookery’s lenses find dull, which is a form of victory the Archives prefer and Parliament cannot easily resent. Ista Brine, pleased to file a report that reads as competence rather than scandal, grants a verbal assurance that her warders will look the other way when you cross certain gallery roofs in future, and such assurances sometimes grow into quiet permissions. Rector Mera thanks you with a knot laid over your bracer that hums faintly when commands are given in bad faith within earshot, a small practical blessing of the Ninth Knot. Yet a pair of River-Marrows dockmen watching from a barge mutter that you looked too comfortable in Parliament’s shadow, and word seeps into Lowwater that you might be warming to the Hall. Jana Fell’s eyes narrow once, then soften, as if she adds this night to a ledger equaling risks taken to independence kept, and for now the sum favors you."
+        },
+        {
+            "id": "C3",
+            "title": "Walk the shadow-path and unname the zeal",
+            "text": "You choose to ignore both Parliament’s choreographers and the Rookery’s leash-sellers and take the rooftops alone, trusting in moon-resin knots and balance bought by years of wet stone. You slip mirror-codes into gutter lips and behind weather-vanes cut as fish and knives, all tuned to a cipher only your scratch-etched mirror can truly answer. When zealots pulse out of a prayer-niche chanting that the charter’s cord has been dyed backward, you meet their song with a low, patient counter-hum learned at the Stair, matching the tide-order to hush their breath without shaming their faces. A pair of youths try to push to the amber with hands full of salt-cakes turned to bricks, and you fold them away with a cord trick that looks like a greeting and feels like a wall. The crowd never quite finds the note it needs to riot, and the procession slides along as a fish slides under lilies, seen and not snagged.",
+            "outcome": "The zealots disperse in twos and threes, arguing among themselves about whether the order of questions was truly wrong, and Rector Mera’s glance catches you once and lays a silent thank-you across the distance. The Rookery notes your refusal to parley and prices your silence as if it were a commodity someone else might buy, which is a kind of compliment with teeth in it. A basilica acolyte leaves a folded salt cake on a sill where you must pass, its shape knotted with a pattern that means well-done without witness, and simple acknowledgment warms better than coin in cold mist. Later, Thay Nerr will sigh theatrically and sell the story of a zeal quenched by a song to three buyers at three different prices, none of which match, and you will find that useful and irritating in equal measure. Your neutrality remains intact like a banner that has learned not to flap, but you add a new weight to the ledger of grudges you keep in neat script, and the next time a mirror-lens blinks late you will remember this night’s choice."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M02"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "access",
+            "description": "Archivist floor-rights during flood-law readings (limited sessions), granting the right to stand within the cool ring of lamps while statutes are breathed back into shape and to speak when called without a ticket of flame."
+        },
+        {
+            "type": "permit",
+            "description": "Amber-sealed permit to carry a sanctified lamp between wards, its seal smelling faintly of Fen resin and moon-resin, recognized by warders and zealots alike as safe fire in unsafe hours."
+        },
+        {
+            "type": "map",
+            "description": "Parchment map of discreet rooftop crossings from Reedbank to Cordmarket, inked in waterproof browns with margin-notes on wind eddies, weak rails, and kindly chimneys that welcome a quiet boot."
+        },
+        {
+            "type": "reputation",
+            "description": "Reputation: Inkroot Archivists (trusted courier), a lamp-shade of respect that turns glances warmer in Reedbank and opens doors in the Archives without the thump of a staff."
+        }
+    ]
+}

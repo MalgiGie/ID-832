@@ -1,0 +1,100 @@
+{
+    "id": "M3",
+    "title": "The Off-Pulse Coral",
+    "quest_giver": {
+        "name": "Tern Quietwake",
+        "affiliation": "Fathom Tongues"
+    },
+    "description": "Moonlock Reef opens like a torc and closes like a fist, a living gate that answers the moon more faithfully than any clock of brass or bone. Beneath its mirror-smooth lagoons, a bell-tone hums too low for ears yet loud in marrow, and within that choir a single beat falters like a heart refusing the conductor. Tern Quietwake of the Fathom Tongues believes that errant rhythm marks the groove of legend, the cradle where the Moonkey pearl was set not to dazzle the wealthy but to unlock an old and patient vault of air. Kael Rimestrand, archer of the wind-cut bone isles and listener by necessity, is asked to descend with childhood friend Ilya Salt-Kite, a laughter-bright smuggler whose gray sails are both confession and dare. Rival divers shrouded in black kelp haunt the safe cuts with glass knives, measuring breath and greed in the same hard glances, and the reef itself shuffles its paths when the moon thins. The task is not to pluck treasure, but to witness a measure: to find the off-pulse coral bed, read the hidden groove, and leave the reef as untouched as a kept promise. If the wrong pearl is stolen, breath itself becomes treachery; if the right one returns and the true chord is sung, the sea will remember a titan’s voice and the city may learn what it has begged to forget.",
+    "objectives": [
+        "Meet Tern Quietwake at the Thalassarium to receive a tuned echo-stone and a map of safe cuts.",
+        "Dive with Ilya Salt-Kite at Moonlock Reef and locate the off-pulse coral bed.",
+        "Identify and mark the carved groove that matches the Moonkey legend without removing any pearls.",
+        "Evade or disarm rival divers attempting to cut your lines.",
+        "Return a sample of off-pulse coral and the location sketch to Tern."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tern Quietwake",
+            "lines": "The reef keeps time better than the Council’s bone-gong, and its measure was set before we learned to name the tides. There is a flaw in its music now, not a wound but a deliberate syncopation, a single polestar beat that refuses the moon, and I have dreamt its count against my own ribs. Take this tuned echo-stone and this map of safe cuts, both written in patience, and let your hands be quiet as you pass the lantern kelp and the coral that remembers knives. Touch nothing that your bones do not ask for twice, for flesh lies and pride brags, but marrow knows the price of a broken covenant. If you find the groove as the legend speaks, draw it faithfully and leave the pearls to their listening, for they are keys and not coins. Return with a fragment of the off-pulse coral and the mark you make upon slate, and I will read from its grain whether the sea has forgiven our curiosity or filed it away to be repaid with interest."
+        },
+        {
+            "speaker": "Ilya Salt-Kite",
+            "lines": "We used to race mirror-crabs along the rib arches, remember, and dare the crosswinds to pluck us off like gulls tugging at nets, and now we’re courting a song that could drown a city to teach it manners. I’ll braid our lines twice and keep my knife where you can see it, and when the current turns sideways like a sulking dog I’ll tug your wrist and we’ll slip into the pocket where the water goes quiet. Trust my hand if sight goes to haze, and trust that I’ll count our breaths like I count debts, because I still owe you one from the night you cut me free below the Spine. The kelp-shrouds at the safe cuts will show their glass, but if we move like shadows inside the reef’s ribs they’ll be stabbing at moonlight. Hold your breath like you hold an oath, Kael, and if a hunger comes up from your boots to your teeth, swallow it, because the wrong pearl makes liars of lungs."
+        },
+        {
+            "speaker": "Kael",
+            "lines": "I have walked the Spine with glow on my brow and salt in my mouth, and I have listened to cutters groan and whales sigh, so I will listen now to stone and coral and keep my hands out of the till. The Spindrift Recurve stays on deck, and I go down with slate, rope, and the echo-stone, trusting the map like a prayer that was earned and not bought. If a blade flashes, I’ll blind it with silt and pull the knuckles that grab for our ankles, and if the tide shoves, I’ll read the brine glyphs in the floor the way I read the faces of ward captains who are about to lie. The reef and I have a pact between us that neither of us bothers to like, and it still holds when the moon is thin and nerves are thinner. We move on the still parts and leave only a ripple to argue that we were ever there, and if the reef argues louder, we’ll answer in the old tongue that says we came to hear, not to take."
+        },
+        {
+            "speaker": "Rival Diver",
+            "lines": "You swim with your chins high, market boy and gray-sail whelp, as if breath were a tax you could pay late and argue down in council; drop your slate and your coral and let the reef keep what you’ve stolen from its hush. Our knives are glass and our patience is sand, both plentiful and sharp, and the Pearl factors whose writ we carry will bless us for denying you any cleverness. You think the reef cares for your maps and your little stone that hums like a frightened cricket, but it only cares that your air is warm and it can drink it. We can cut your lines and feed your bubbles to the coral to make it grow quick, and the moon won’t even blink while you learn how greedy the water is. Or you can give us what we came for and breathe all the way back to your skiff, and we’ll pretend for a while that your names were never whispered in the Gray Threads."
+        },
+        {
+            "speaker": "Ilya Salt-Kite",
+            "lines": "Greed drowns faster than fear, kelp-face, and your lines are crossed with your friend’s so tight that a single angry tug from me will turn both of you into reef decorations. We came to measure a heartbeat, not to steal it, and there’s a difference even if the Pearl Compact forgot one when it started buying divers’ lungs by the mouthful. Look at the silt I’m stirring with my heel; that’s what happens to sight and fortune when you think a knife is a compass, and you’re about to find the point in your own palm. Take your hunger and go circle the outer pipe where the reef sings false, because in a handful of counts the cut will close and you’ll be arguing with rocks about who gets to breathe. Or learn to share the silence with us for a dozen slow heartbeats and keep all your fingers, because the moon is thin, the tide is fickle, and I can promise you the only treasure you’ll keep if you lunge is a scar you’ll lie about later."
+        },
+        {
+            "speaker": "Tern Quietwake",
+            "lines": "You returned walking and that means you listened, and the water, which is most days a poor listener, gave you back to me because your hands were careful and your slate true. The sketch holds the curvature I have traced in half-sleep, and the off-pulse coral sings in my palms with a timbre I have argued with for a month, so know that you have brought me proof and not rumor. We are closer to the gate, closer to the memory that waited patient as tides, and closer to the quarrels that such knowledge invites, because trouble always marches ahead of revelation with a banner and a drum. Keep the echo-stone fragment I tuned for you, because the reef will hear that you heard it, and sometimes hearing is the only passport left when doors vanish. I will set our pledge in brine ink: you will have quiet escort for a future dive and leave to use the breathing bell when the moon is wrong for lungs, and in return you will continue to bring back marks of music, not theft. Be warned that a wrong chord in a right place is worse than silence, and be gentler with your lives than the city will be with its gratitude."
+        },
+        {
+            "speaker": "Kael",
+            "lines": "The groove is there and it holds the water the way a throat holds a word, ready to speak if we fit the syllable that belongs to it, and my bones answered when I traced it as if they remembered a promise I never made. We touched nothing that did not ask twice, and even then we left it to keep asking until the sea itself gives consent, because I have learned that oaths breathed wrong drown their keepers. Ilya and I moved in the stillness between beats like smokes through net, and where knives wanted to write their signatures on our calves we signed back with silt. I have never trusted a map, a captain, or a tide entirely, but I trusted your stone and it paid our breaths back with interest, and that is a currency I intend to spend sparingly. When we return, I will go with a steadier rope and a lighter heart, or perhaps the other way round, but either way I will go with the knowledge that the reef’s misstep is a dance step, and we have learned the count."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Scatter sight and slip the circle",
+            "text": "You angle upward and loose a blue signal shaft into the dim surface just beyond the safe cut, a flare of color that ripples down like a false moon and draws every eye toward the wrong opening. At the same time you rake your palm through the floor and kick your fins in a tight arc, blooming a cloud of silt that turns knives into guesses and hands into ghosts. You touch Ilya’s wrist twice and point into the darker seam where the off-pulse hum feels like a cat purring against your ribs, then drag yourself hand over hand along the bone lip with your body flat to the reef. Your jaw aches with held breath and your ears tick with your old tinnitus as the hum and the rival’s shouts smear together, but you keep the rhythm of the echo-stone and count heartbeats instead of seconds. When a glove gropes at your ankle you twist, jam the jawbone grapnel into a gap, and let the reef hold you while you slip free, trusting that a clean escape is worth more than a clean shot.",
+            "outcome": "The rivals lunge for the faux-light and waste their air shouting in a churned haze, and by the time the silt settles you and Ilya have folded yourselves into the seam where the off-pulse guides you like a metronome. One diver clips your calf with a glass edge as he guesses at a shadow, drawing a thread of blood that the water dilutes into a rumor, and the sting keeps you honest about how narrow the margin was. You find the carved groove and mark it, your chalk line clinging as if magnetized by intent, and you leave the pearls untouched as agreed. Later, a Brinewarden cutter will swear someone fired a blue flare near the reef, and a rumor will run through the Gray Threads that Kael Rimestrand knows the cuts better than any map, but for now the sea keeps your secret like a damp envelope. Tern receives your sample and your slate with approval, and nothing in your reward changes except the way your lungs love the first free breath you take on the skiff."
+        },
+        {
+            "id": "C2",
+            "title": "Parley with palms and deception",
+            "text": "You flatten your hands and speak in the reef-bell signs that divers use when metal tongues would bring hungry things, offering a clean split of nothing and a promise that they may walk away with all their air. You let your slate drift into their reach, but it is a decoy you sketched in the boat, a convincing lie that buys time and keeps the true groove tucked behind your forearm like a swallowed word. With your other hand you free a tiny spool of lumen-thread and loop it along your line, making it seem as if you are leaving the reef like a good guest even as you angle deeper toward the correct seam. You hold the rivals’ gaze as long as eyes can hold underwater and then break it cleanly, letting your shadow vanish into the darker fold as the silt-cloud of their greed swells around the false map. Your chest is hot and sore with the paused breath that honesty wanted to take, but you save it for work: the careful tracing of a groove that remembers songs and punishes thieves.",
+            "outcome": "They accept the decoy with scorn enough to convince themselves and peel away, their kicks carving careless crescents that send a little storm across the wrong cut. You and Ilya slip into the off-pulse pocket and find the groove, your slate receiving a faithful mark while your hands stay off every pearl like a vow held between teeth. On your way back you hear a muffled curse when a flash tide closes a corridor behind the rivals, and you know they will curse you by name when they finally read the lie you sold them. Trouble adds you to its dance card for a later night, but today you leave with breath in credit and the reef unoffended. Tern studies the decoy and the true slate both, praises the restraint over the ruse, and your formal reward remains exactly what was promised even as your reputation gains a sly edge."
+        },
+        {
+            "id": "C3",
+            "title": "Cut loose and trust the off-pulse",
+            "text": "You slide your knife under your own line and nick it free, feeling the tug of habit snap as you decide to belong to the current for as long as lungs will allow. You tilt your head and press the echo-stone to your jaw, letting its tuned vibration turn the reef’s murmur into a map that you can read with bones and teeth. Ilya curses a string of bubbles that look like pearls racing upward, then follows your signal—a three-tap rhythm you once used to call her to the safe edge of a winter storm—and together you glide into a narrow keyhole where only trust and the right exhale can fit. The world narrows to breath, pressure, and the texture of coral close enough to kiss, and in that tightness you feel the off-pulse cradle you along a short, perfect path. When you spill out into a little hollow of calm water the groove is waiting like a patient mouth, and your chalk answers it with a gentle line that completes a word neither of you know how to say.",
+            "outcome": "You leave skin on a rough lip and your side blooms with a weal that will complain when you laugh, but you are through and your pursuers are not, their lines still tangled to the outer ribs. Ilya knots the cut end of your rope to her own and the two of you make a single creature for the careful return, taking turns being lungs and hands while the reef watches with its old, unsmiling kindness. The rivals burn their breath on anger and have none left for cunning, so they fade like bad omens into the green, and you rise slow enough that your head fills with gratitude instead of pain. The sample of off-pulse coral sits in your pouch like a heartbeat you borrowed, and when you hand it to Tern the Listener’s face goes still in the way that means joy and worry arrived together. Your promised rewards do not change, but you carry away an extra quiet, a private familiarity with the reef’s miscount that will make you a surer listener the next time the city begs a tide for mercy."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "XP",
+            "description": "550 experience for charting the off-pulse bed, refusing temptation, and returning with proof instead of plunder."
+        },
+        {
+            "type": "Item",
+            "description": "Reef-Breath Charm that extends breath holds briefly, woven of lumenkelp thread lacquered in resin-salt."
+        },
+        {
+            "type": "Item",
+            "description": "Tuned Echo-Stone Fragment that enhances listening to underwater pulses and the reef’s hidden measures."
+        },
+        {
+            "type": "Favor",
+            "description": "Fathom Tongues pledge a quiet escort for one future dive, free from tolls and meddling oars."
+        },
+        {
+            "type": "Access",
+            "description": "Use of a Thalassarium breathing bell during off-hours with Tern Quietwake’s leave."
+        },
+        {
+            "type": "Coin",
+            "description": "25 credit-shells in waxed cordage stamped with the Council’s tide glyph."
+        }
+    ]
+}

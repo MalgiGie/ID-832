@@ -1,0 +1,61 @@
+{
+    "name": "Nemra",
+    "surname": "Coil",
+    "race": "Cinderline tiefling",
+    "age": 26,
+    "appearance": "Ash-black curling horns, ember-marked crimson veining across cheeks, ritual scars across the palms, and a charcoal mantle studded with iron feathers.",
+    "character": "Fervent but tender to common folk; relentless toward any who would break the Pact.",
+    "traits": [
+        "zealous",
+        "fearless",
+        "poetic",
+        "ritualistic",
+        "compassionate"
+    ],
+    "skills": [
+        "chant-leading",
+        "symbol carving and ward painting",
+        "secret pathfinding in slag fields",
+        "field medicine",
+        "sabotage of heat siphons"
+    ],
+    "talents": [
+        "senses changes in vent-breath",
+        "synchronizes marchers with her voice"
+    ],
+    "flaws": [
+        "absolutist thinking",
+        "provokes authority",
+        "naive to manipulation"
+    ],
+    "dreams": [
+        "to find and keep the egg warm until it hatches",
+        "to see a dragon’s shadow guard Skarnhold again"
+    ],
+    "secrets": [
+        "carries an emberstone shard that hums near Chainheart’s sealed sub-level",
+        "once sparked a sabotage drill that injured a friend and lied about it"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ilara Embervein",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Rukha Mossbank",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Vara Keshlin",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Riven Hask",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Pelyn Orinfae",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

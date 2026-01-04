@@ -1,0 +1,63 @@
+{
+    "name": "Ildra",
+    "surname": "Shale",
+    "race": "human",
+    "age": 73,
+    "appearance": "Lean as a reef crow, sea-scarred skin, kelp-woven cloak, wrists ringed with barnacle bracelets.",
+    "character": "Wry and mercenary with a stubborn soft spot for lost sailors.",
+    "traits": [
+        "reclusive",
+        "shrewd",
+        "superstitious",
+        "patient"
+    ],
+    "skills": [
+        "inscribing tidemaps on bone",
+        "reef and sinkhole navigation",
+        "smuggler liaison",
+        "kelp resin curing"
+    ],
+    "talents": [
+        "hearing the bell no hand rings",
+        "breath-holding beyond reason",
+        "reading kelp ropes for hidden paths"
+    ],
+    "flaws": [
+        "hoarder",
+        "paranoid of city folk",
+        "bad knee that locks in cold",
+        "holds grudges against beacon dues"
+    ],
+    "dreams": [
+        "retire with a private beacon fueled by kelp resin",
+        "see the petrified titan’s face beneath the Spires",
+        "outsmart the Cartel one last time"
+    ],
+    "secrets": [
+        "hid a Lantern Cartel light-crystal in a coral chimney after a storm",
+        "maps a kelp ladder that bypasses the worst false bells",
+        "sold two different syndicates the same ‘safe’ channel on purpose"
+    ],
+    "relations": [
+        {
+            "npc_name": "Yarik Nine-Fingers",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Luma Keel",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Keth Borrowed-Tongue",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Alion Mareth",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Brask Ilyne",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

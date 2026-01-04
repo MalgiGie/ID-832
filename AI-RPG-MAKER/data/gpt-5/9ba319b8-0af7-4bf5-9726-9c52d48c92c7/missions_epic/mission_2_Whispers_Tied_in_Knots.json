@@ -1,0 +1,83 @@
+{
+    "id": "2",
+    "title": "Whispers Tied in Knots",
+    "quest_giver": {
+        "name": "Serene Khel",
+        "affiliation": "Order of Mnemos"
+    },
+    "description": "The Whisperfen upriver lies like a listening page, its blackwater channels inked between reeds that lean close to hear the living and replay the dead. There, sound is a tithe and memory is a currency, and the marsh pays its debts with borrowed voices that do not always belong to the mouths that speak them. Serene Khel sets Raithe Calder to escort Tallen Quill, a vow-scribe whose ember-ink warms whenever a lie comes near, to the fen’s outlanding where the ferryman Keth Borrowed-Tongue holds to his strange oath of speaking only words he has earned from others. Rumor coils around House Veyron like rope around a drum, saying their marriage oath was altered in the wet dark, a single clause slipped like a knife to cut a city’s future. If the true words still float within the fen’s keeping, they can be coaxed into shape and bound to a knot that remembers, so long as the price does not drown the one who asks. Bog-lights in that place blink like false pilots, mimicking the Lantern Cartel’s codes to lure skiffs into pools that drink not only bodies but recollections of who those bodies were. White egrets stitch pale thread across the sky and sometimes land to listen, as if they too were clerks of the Order counting whispers by the wingful. The reeds know the crackle of wedding torches and the low speaking of pactmakers, and they will answer if asked with the proper knot and a price the marsh respects. Raithe’s ring-right ambitions, his old scar shaped like the city’s rings, and the bone-chime that hums in fog will be tested when the fen reaches up with slick hands to take its due. He must choose what to offer, what to bind, and what to leave behind on those slow waters. Only then can the marsh replay the night that matters, and only then can a single reed-knot carry the unaltered clause back to Vyraleth’s shining glass laws at ebb.",
+    "objectives": [
+        "Find Keth Borrowed-Tongue at the Whisperfen’s outlanding and secure passage through the blackwater channels.",
+        "Use consecrated knot-charms to bind a precise question into the reeds: the night of House Veyron’s marriage contract.",
+        "Defend Tallen Quill from thought-leeches and from bog-lights that mimic beacon codes while the fen replays the memory.",
+        "Retrieve a memory-knot charm that preserves the unaltered clause of the oath without letting the fen devour your own past."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Keth Borrowed-Tongue",
+            "lines": "Greetings, honored travelers; mind your hands, they will be bitten by the past if they hang over the gunwales. That is what the last ferryman said before me, and I keep his words because they were well paid for in fog and coin. You are searching for a night that changed a house and a city, and the fen drank it gladly because it loves sharp words wrapped in silk. But this water will not give back what it is not persuaded to remember, and it will ask for something that does not echo inside your own skull when you are alone. Promise it a weight it cannot spit back to you, or it will reach for your very first lullaby and hum it until you forget why you fear the dark."
+        },
+        {
+            "speaker": "Tallen Quill",
+            "lines": "My ink warms when a falsehood passes near, and if we can coax the fen to unspool the vow in the right order, I can set its true teeth upon unburnable parchment for Parliament to read at ebb. I have studied the Order’s knots and the Conclave’s braid-prayers, but I am no fighter, Raithe, and I have no taste for the bite of leeches that sip thoughts like wine. Keep the bog-lights out of my eyes, for their blink-codes are cunning and wear familiar lantern habits to beguile a scribe’s diligence. Guard my throat from anything that drinks not blood but recollection, because one mouthful from such a creature and I could forget the letters in my own name. If you buy me a tight crescent of time, I will keep my scratch straight, set down the clause as it was spoken, and we will carry it home inside a knot that even storm and scandal cannot undo."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "lines": "I have bled on cobbles and on chain for masters who counted tides in coin, scribe, and I will bleed on peat if I must for a truth that keeps the city breathing. Keth, I will not feed the marsh my name or my mother’s river-song, because those are the last shelters a man keeps against noisy nights. Bind our question to my knot-ring instead and let the fen taste brass and vow-fiber if it wants payment, and I will hold the ring steady even if the reeds speak with voices I miss. If the water uses my father’s drowned words to lean at me, I will hold fast as if bracing a quayline in a storm. We will draw the truth up like a netted eel, slick and thrashing, and I will not let it slip back into the black."
+        },
+        {
+            "speaker": "Serene Khel",
+            "lines": "Do not wrestle the past as if it were an enemy, Raithe, because the past is a tide that can be guided but never strangled. Invite it with courtesy and with a promise tied in a manner the marsh respects, and it will show you a mirror that does not lie even when you wish it would. The fen may echo a night when a prince said one thing and meant another, and my Order will need that echo to be set before the Glass Parliament where the law is only legible when the silt settles. Tie your courage as you tie your knots, firm but with enough give that the line does not part when it takes a sudden load in the dark. Bring back the unaltered clause and not the rumor of it, and I will honor our bargain so that one day you may pose a sealed question with no tithe of days at all."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Offer a small, sealed memory of your own as payment to the fen",
+            "text": "You draw out the Mnemos Leaf and whisper a pleasant, harmless memory into it, a memory of a storm-apple split with Iria beside the Bone Bridge when you were young and hungry and laughing. You feel the shape of it loosen under your tongue, and you press the leaf to the knot-ring, letting the leaf’s warmth bleed away like ebbing tide. The reeds lean as if sniffing, and the white egrets on the mud turn their heads as if clerks counting witnesses. It costs you something dear enough to be real but not vital enough to empty your bones, and the marsh seems satisfied by the flavor of honest sweetness rather than the meat of your name. Tallen watches with worry, but his ink brightens as if encouraged by your willingness to pay your own due and to leave the unspooling to craft and courage rather than trickery.",
+            "outcome": "The fen accepts the tithe with a whisper like the rustle of wedding silk and begins to replay the night: lanterns moving, witnesses murmuring, and a clause spoken low that cuts like a hidden hook. Keth poles the skiff with grave patience and repeats another ferryman’s steady assurances as the water opens its memory without stretching grasping hands toward your deeper past. A thought-leech strikes, but you are ready, your buckler ringing like a bell as you pop it free before it drinks more than a moment’s fright from Tallen’s eyes. The unaltered clause knots cleanly into the charm, the ink shines a clear, unwavering red, and the bog-lights drift back as if scolded. You row away a little lighter in the head and a little heavier in the hand, the price paid in a small lost sweetness that leaves a soft ache, and no new chains bind you beyond the work you chose."
+        },
+        {
+            "id": "C2",
+            "title": "Bind a hard promise into the Knot-Ring and pledge a future deed to the Order",
+            "text": "You wet the braid of brass and fiber with fen water and speak a vow that the Order of Mnemos can weigh and measure, promising to carry the recovered clause into Parliament yourself and to stand before rival benches if called. The ring tightens like a living thing as the Conclave’s blessing etched into it hums, and you feel the tug of obligation settle on your wrist like a second pulse. Keth nods with borrowed words of approval once spoken by a prior, telling you that marshes respect those who stake tomorrow on today’s courage. The reeds thrum as if a plucked harp string and the bog-lights blink once, twice, then hold steady like honest beacons yielding the right of way. Tallen carefully anchors the vow to the question-knot, and together you cast it into the water where it hovers like a coin over a well that wants but will wait because a promise has teeth it can trust.",
+            "outcome": "The fen opens as if you had presented a lawful writ, the night unrolling with crisp edges and distinct voices even when the wind tries to blur them. You see where a scribe’s hand trembled, where a Veyron retainer coughed to cover a substitution, and you hear the true clause spoken with the certainty of cold metal. A thought-leech grazes your knuckles and tastes the salt of your vow, recoiling as if the brass burned its mouth, and you crush it against the gunwale with a practiced twist. The knot closes around the unaltered words, Tallen’s script flowering without blot, and the marsh sighs as if a ledger balanced at last. When the ring slackens, it does not release you entirely; you owe the Order a public bearing of this truth, and the weight of that coming day sits on your bones like armor you cannot take off until the task is done."
+        },
+        {
+            "id": "C3",
+            "title": "Use Iria’s fog codes to steady the lights and barter with a borrowed song",
+            "text": "You remember the Lantern Cartel’s cleaner patterns and whistle a low, careful sequence that tells false lights to stand down and true pilots to pass, a courtesy taught to you by Iria when fog once tried to make fools of you both. The bog-lights hesitate, blink, and then hold a steady line that frames a safe channel, and even the egrets seem to approve with delicate shakes of their thin crowns. To sweeten the bargain, you hum an old dock-song not your own, one you learned from a dead Saltwarden whose patrol once shared a loaf with you on a cold watch, and you offer it to the fen with clear credit. Keth’s eyes narrow at the ethics of sharing borrowed voice for passage, but he accepts your judgment and adds a measured stanza from some long-gone bride who paid him in tears and a good word. Tallen glances at you with something between gratitude and warning, then braces his parchment while the reeds listen to the tune and decide they like this exchange of honest debt and careful signal more than the taste of a stolen lullaby.",
+            "outcome": "The marsh respects the etiquette and the fairness, and the memory you seek rises like a skiff out of mist with moorings intact and witnesses present, the words audible even over the creak of wedding arbors. The lights hold their discipline, letting you patrol the perimeter with your buckler while Tallen writes, and three leeches arrive late and hungry only to be flicked aside by your hook-harness with practiced, contemptuous snaps. The clause gleams in ink as if lit from beneath, and the knot draws it in with a satisfied twist of reed and fiber. Yet across the water, a shadowed listener notes your deft use of Cartel code and drifts away to tell a Veyron clerk that someone with a pilot’s ear has been meddling where nobles would rather the mud remain opaque. You leave with the prize intact and with quiet ripples behind you that may become waves later, the fen content with the fairness of the bargain and your conscience alive to the name you borrowed and honored."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "1"
+        ],
+        "next": [
+            "3"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Memory-knot charm bearing the true clause of House Veyron’s marriage oath, preserved in reed-fiber for lawful recall."
+        },
+        {
+            "type": "item",
+            "description": "Reed-paper writ authorizing testimony at the Glass Parliament, sealed by the Order of Mnemos and proofed against tampering."
+        },
+        {
+            "type": "coin",
+            "description": "35 coins in mixed brine-chits and salt-scrip for escort, defense, and successful retrieval."
+        },
+        {
+            "type": "faction",
+            "description": "Order of Mnemos favor: one sealed question may be posed in a future rite without a tithe of days."
+        },
+        {
+            "type": "unlock",
+            "description": "Access to Keth Borrowed-Tongue’s private channels through the Whisperfen for future travel and discreet passages."
+        }
+    ]
+}

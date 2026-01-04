@@ -1,0 +1,62 @@
+{
+    "name": "Neris",
+    "surname": "Aline",
+    "race": "Human",
+    "age": 42,
+    "appearance": "A willow-framed scholar with coppery hair pinned by brass quills, ink-stained fingers, and a long coat lined with lens pockets. A silver tuning ring rests on her thumb.",
+    "character": "Curious, meticulous, and soft-spoken, she prefers dialogue to edicts and notebooks to boasts.",
+    "traits": [
+        "Inquisitive",
+        "Patient",
+        "Ethical",
+        "Soft-spoken"
+    ],
+    "skills": [
+        "Aetheric harmonics",
+        "Cartography and river-charting",
+        "Pedagogy",
+        "Field instrumentation"
+    ],
+    "talents": [
+        "Perfect pitch for harmonic mapping",
+        "Lucid dreaming with controlled recall",
+        "Can sight-read star-scripts"
+    ],
+    "flaws": [
+        "Absent-minded about meals and coin",
+        "Frail constitution",
+        "Overtrusting of ‘good data’"
+    ],
+    "dreams": [
+        "Calibrate a storm-dampening chord that harms none",
+        "Win a research pier on the Shard",
+        "Adopt a river orphan and teach them charts"
+    ],
+    "secrets": [
+        "Tested a harmonizer sweep that caused sleepwalking in Lanternstep",
+        "Keeps illegal night-fruit seeds for dream studies",
+        "Sends anonymous donations to the House of Reconciliation"
+    ],
+    "relations": [
+        {
+            "npc_name": "Lysa Shardhands",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Ina Peppercoal",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thane Kelvar",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Rook Salter",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sava Inkweft",
+            "relation_type": "Alliance"
+        }
+    ]
+}

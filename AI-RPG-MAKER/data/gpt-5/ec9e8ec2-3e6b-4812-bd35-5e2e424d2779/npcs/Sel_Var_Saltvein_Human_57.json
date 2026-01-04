@@ -1,0 +1,61 @@
+{
+    "name": "Sel Var",
+    "surname": "Saltvein",
+    "race": "Human",
+    "age": 57,
+    "appearance": "Matriarch in salt-white silks edged with amber seals, cool green eyes, rings carved from brine-crystal on every finger.",
+    "character": "Gracious until crossed, calculating, treats debts like tides—inevitable and shaping.",
+    "traits": [
+        "urbane",
+        "patient",
+        "ruthlessly practical",
+        "magnanimous in victory"
+    ],
+    "skills": [
+        "tariff engineering",
+        "debt leverage",
+        "caravan logistics",
+        "private guard management",
+        "banquet diplomacy"
+    ],
+    "talents": [
+        "smells profit in a rumor",
+        "never forgets a favor owed",
+        "calm under scandal"
+    ],
+    "flaws": [
+        "contempt for populists",
+        "risk of overreach",
+        "believes ends sanctify means"
+    ],
+    "dreams": [
+        "Seat a Saltvein on the Trium",
+        "Secure sole control of brine canals from Sere Flats to the Amber Vaults"
+    ],
+    "secrets": [
+        "Maintains covert access to the Veiled Current through bribed pilots",
+        "Hides a hereditary brine-blight that shortens lives in her line"
+    ],
+    "relations": [
+        {
+            "npc_name": "Nerey Alis",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Sorev Katch",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Isha Brinehand",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Liora Fen",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Caldra Imin",
+            "relation_type": "Hostility"
+        }
+    ]
+}

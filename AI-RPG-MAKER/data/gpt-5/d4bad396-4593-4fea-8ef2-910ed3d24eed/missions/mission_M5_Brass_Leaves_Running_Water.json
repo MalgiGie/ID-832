@@ -1,0 +1,63 @@
+{
+    "id": "M5",
+    "title": "Brass Leaves, Running Water",
+    "quest_giver": "Iven Kall",
+    "description": "Preceptor Iven Kall of the Archivists of Vow receives you in a hall that smells of salt and brass. He sets out thin leaves ready to carry words that will be weighed against witnesses and time. You propose the bones of a new Oath of Flow—keys shared on festival days, right-of-way along the aqueduct arches, fuel rationing guided by need not coin, and the Loom’s tempo eased on ritual slow-flow days. The Archivists will docket the hearing if you bring more than ideas; you must bring concessions signed by those who clutch the river like a hoarded blanket.\nYou walk Miravale like a scribe and a thief at once, taking promises not with steal and blade, but with language and the threat of shame. Each faction eyes your brass leaves as if they were mirrors that will show their worst angles, and you sell them a better reflection with careful clauses.",
+    "objectives": [
+        "Draft the skeleton of the Oath of Flow with Preceptor Iven Kall",
+        "Secure Captain Maera Lockfen’s written pledge to share festival-day Loom keys with an Archivist witness",
+        "Obtain Mistress Pellar Nine-Poles’ promise to suspend any lock-sit during drought emergencies",
+        "Win Orin Thalen’s concession for public right-of-way along the Old Aurion Aqueduct",
+        "Gain Sere Aven’s agreement to fuel rationing overseen by a mixed guild panel",
+        "Return all signed brass leaves to the Scriptorium for docketing"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Iven Kall",
+            "text": "Words are scaffolds. Build them wrong and the whole city climbs up only to fall on its own head. Build them right and the first soul to sign finds themselves standing higher than they imagined, and grateful for the view. Bring me signatures and I will bring you witnesses who remember. Bring me only good intentions and I will bring you a polite refusal carved deep enough to sting."
+        },
+        {
+            "speaker": "Maera Lockfen",
+            "text": "Sharing keys feels like stripping to the waist in winter, but I will do it if the river learns to breathe quieter. My crews deserve sleep without the Loom barking orders into their dreams. You tell Iven I will hand over ceremonial control on festival days to a board of three—one Warden, one Archivist, one monk from the Arch—and I will live with the paperwork."
+        },
+        {
+            "speaker": "Pellar Nine-Poles",
+            "text": "Lock-sits are blunt oars, and I prefer a clever pole. If the Wardens open passage for grain when bell-markers say bread will turn to riots, I will tie my boats to patience. Put that clause in, and you can nail my name to it. But if they close for the sake of swagger, I will undo your words with song and rope until the city remembers who keeps it fed."
+        },
+        {
+            "speaker": "Orin Thalen",
+            "text": "Public right-of-way over my arches sounds like poetry until a boy falls and the city sends me the bill. Still, the aqueduct was meant for more than a family’s vanity. I will sign if the Collegium insures the spans against mishap and the Wardens post ward-poles where the gargoyles brood. Write it, and I will put my name where my pride can read it later without choking."
+        },
+        {
+            "speaker": "Sere Aven",
+            "text": "Fuel rationing is a knife at my throat dressed up as a necklace. But my kilns can run cooler on certain nights if the city agrees to eat more barley and less sugar. Put me on a panel where I can see who is skimming, and I will give what I can without breaking the glass that keeps us paid."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ],
+        "related_locations": [
+            "Scriptorium of Oaths",
+            "River Crown Citadel",
+            "The Starspan (Basalt Arch) Shrine",
+            "Old Aurion Aqueduct"
+        ],
+        "factions_involved": [
+            "Archivists of Vow",
+            "Wardens of the Confluence",
+            "Rafter's League",
+            "House Thalen",
+            "Glasswrights' Syndicate",
+            "Order of the Basalt Arch"
+        ]
+    },
+    "rewards": [
+        "Oath of Flow hearing docketed for the next equinox",
+        "Archivist witness-escort for future negotiations",
+        "Reputation (significant) with Archivists of Vow"
+    ]
+}

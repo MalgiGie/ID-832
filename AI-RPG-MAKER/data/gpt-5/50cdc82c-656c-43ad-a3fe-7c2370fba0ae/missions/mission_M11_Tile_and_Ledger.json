@@ -1,0 +1,39 @@
+{
+    "id": "M11",
+    "title": "Tile and Ledger",
+    "quest_giver": "Lysa Shardhands (Order of the Shard warden)",
+    "description": "The Shard Bastion throws blue breath over Chainward as Lysa Shardhands invites you into a warded chamber where words are meant to line up like soldiers. She has heard enough to doubt her own command, and your palimpsest copy pricks her like a thorn under her nail. She proposes a bargain: present the evidence before Preceptor Vara Lume and secure a sanction to sound the sealed stair if needed. In return, the Order will shelter your crew against Kelvar reprisal. But to steel the case you must pull a knot from the House Kelvar Counting Hall: a ledger bead-string that tallies private glow contracts to toll-clan cousins. Sava Inkweft can map a tunnel hatch beneath the court dais to get you out if the tide turns. You will walk into numbers that have teeth and try to come out with a string that tames them.",
+    "objectives": [
+        "Meet Lysa Shardhands at the Shard Bastion and agree to present your evidence.",
+        "Infiltrate House Kelvar Counting Hall and retrieve a specific ledger bead-string from the matron’s stand.",
+        "Present palimpsest, tide-clock cipher, and bead-string to Preceptor Vara Lume.",
+        "Secure formal sanction to descend the sealed stair with your assembled components."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lysa Shardhands",
+            "lines": "Faith without scrutiny curdles into tyranny. I swore to the Shard, not to any ledger. Bring me the bead-string, and the Preceptor will have to look past friendships and see law. If she does not, I will carry that shame with her until it breaks, but I will not pretend I do not see the crack forming."
+        },
+        {
+            "speaker": "Sava Inkweft",
+            "lines": "Under the House of Reconciliation is a hatch that remembers old escapes. If the Counting Hall turns unfriendly, it will turn you out into a stair that smells of damp ink. Do not be brave when you should be quick. Take only what you must, and do not let the tide-clock mark you with its shadow."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "I’ve pulled chains in flood and learned which links crack first. I’ll pull this one and hand you the broken piece if that’s what it takes to make the city look at itself. But if I walk that sealed stair for you, I walk it for the river too. We settle the hum so children sleep and barges pass, not to make anyone’s sigil shine brighter."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        "Order of the Shard sanction tile granting access to the sealed stair.",
+        "Protection writ for your named crew against Kelvar detainment.",
+        "Increased standing with the Twelve Seals delegates who favor transparency."
+    ]
+}

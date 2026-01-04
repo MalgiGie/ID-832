@@ -1,0 +1,68 @@
+{
+    "name": "Aren",
+    "surname": "Siltwarden",
+    "age": 29,
+    "race": "Human (Reedbound)",
+    "appearance": {
+        "description": "Broad-shouldered and river-lean, bronze skin weathered by marsh sun, black hair braided with reed-cords and copper charms. Wears lacquered tide-mail over marsh leathers, with a cloak cut for movement aboard skiffs.",
+        "distinctive_signs": "An eelbone earring from a Reedbound coming-of-age catch; pale rip-scar along the jaw from a weir chain; faint silver ink of tide-marks tattooed on forearms to track safe depths."
+    },
+    "class": "WARRIOR",
+    "history": "Born on a drift-isle in the Gilded Reed Marsh, Aren Siltwarden learned to read current and sky before he could read script. As a teen pilot he ferried hospice boats through fog corridors, then signed on with the Guild of Silver Ferrymen as convoy guard during tax protests. A riot at the Luminous Weir left him cut by a slackening chain; he dragged two chanters from a failing song-gate and earned a cool nod of thanks from the Order—along with a lifelong distrust of any machine that demands hymns to behave. When Indigosatchel factors pushed to fence off a stretch of river wall, Aren refused a job to break the Brass Menders’ picket and walked away from guild pay rather than swing a pole at healers. The Night Ledger’s Veilhouse noticed a principled brawler; Maskwright Sorev Dusk offered a mask and a ledger-cleaning in exchange for one collection in the Hollowwind Barrows. Aren took the mask, went to the Barrows, and instead of extracting a widow’s oath-tooth he burned the debt-thread and walked her home under his cloak. That choice put him on quiet notice with the Ledger and cost him his guild berth. Seeking cover, he pledged a river-oath before High Acolyte Mereth Tydel to keep violence from drowning trade, and for a season worked Temple escort on processional barges. During a fever surge from the Saffron Bank, he carried a delirious child across a thirteenth-moon span—paying the Moonbridge’s toll with his own true name so the bridge would take them where the Brass Menders could save her. For a year and a day, friends forgot him; Mereth kept memory by ritual thread and spoke him a new river-name back into the city. Since then Aren has made a living as a neutral blade in Vyratha’s disputes—bodyguard for marsh delegates, escort for archive processions, and the rare fist at a negotiation table. Prime Factor Calra Orun has tried to hire him twice to lean on Starfall Orchard keepers; both times he declined. Whispers now tie Aren to stolen prism-ware, to Weir spillway maps he refuses to sell, and to a single glowing tile pried from the Sunken Charterstone that he returned at night without asking leave. He claims no banner, but the Reedbound call him when canals clog with politics, and even the Ledger has learned that when Aren says a fight ends at the water’s edge, it ends.",
+    "equipment": [
+        {
+            "name": "Sedge-Cutter Glaive",
+            "description": "A river glaive with a crescent blade etched in silver against mire-wraiths; the ash haft is sealed against rot and balanced for work on skiff or street."
+        },
+        {
+            "name": "Tide-Mail Hauberk",
+            "description": "Lacquered ring-mail in overlapping scales that shed spray and dye, forged at the Emberlight Forge-Cloister with Seven-Kettle steel."
+        },
+        {
+            "name": "Ferryman’s Pole (retired)",
+            "description": "A scarred, silver-capped pole once marking guild authority, now carried plain; its tip hides a hollow for smuggling a note or ampoule."
+        },
+        {
+            "name": "Marsh-Walker Greaves",
+            "description": "Reed-lashed, wide-footed greaves that keep footing on slick planks and silted banks, fitted with quiet toe-spurs for climbing pilings."
+        },
+        {
+            "name": "Moonshard Charm",
+            "description": "A thumb-sized piece of Aurelian cryst-stone wrapped in river-thread; warms near spectral spans and steadies the mind against memory eddies."
+        },
+        {
+            "name": "Clarity Sap Ampoule",
+            "description": "A brass-capped vial from Starfall Orchard, worn on a cord; one measured sip clears fever-dream fogs and Archive-well echoes."
+        }
+    ],
+    "main_attributes": {
+        "strength": 15,
+        "agility": 14,
+        "constitution": 13,
+        "intelligence": 12,
+        "wisdom": 14,
+        "charisma": 11,
+        "dexterity": 15,
+        "endurance": 14,
+        "perception": 16,
+        "luck": 9
+    },
+    "soft_skills": [
+        "Floor-level diplomacy between rival crews",
+        "Crisis calm and crowd de-escalation",
+        "Reading currents, contracts, and subtext"
+    ],
+    "relationships": {
+        "Sorev Dusk": "The Maskwright who once offered him a debt-cleaning for a collection job; Aren burned the debt instead. Sorev covered his retreat with a false mask and a warning—an uneasy favor that binds them.",
+        "Mereth Tydel": "High Acolyte who witnessed his oath to keep violence from drowning trade and held a ritual thread of memory when the Moonbridge took his name; mentor in restraint and rite.",
+        "Calra Orun": "Prime Factor who tried to hire Aren to strong-arm Starfall Orchard; he refused twice. Calra respects his reliability but keeps auditors sniffing around his contracts.",
+        "Ollo Fen": "Mist-Warden of the Reedbound and Aren’s clan-ally; Ollo calls on him to front canal blockades without bloodshed.",
+        "Sava Deren": "Matriarch of the Silver Ferrymen and former employer; mutual respect soured by his refusal to break a Menders’ line.",
+        "Quill Vess": "Archhydromancer who owes Aren a life-debt for a rescue at the Weir; the Order’s cool gratitude clashes with Aren’s suspicion of their ambitions.",
+        "Jilai Sunquiet": "Hospitaller who treated his night fevers and taught him the brass-bell codes; he protects Menders’ boats when tempers rise."
+    },
+    "ambitions": "To win formal recognition of Reedbound shrines and pilot-rights in the Conclave ledgers, to keep the Weir honest without breaking it, and to recover the true name he cast to the Moonbridge without owing a king to the river.",
+    "flaws": "Stubborn to a fault once he draws a boundary; slow to forgive those who prey on the sick; bristles at written contracts after seeing how ledgers can strangle lives.",
+    "dreams": "Recurring visions of walking a dry riverbed beneath the city, where memories flow like minnows; in the dream he plants reed-stands that grow into bridges people can cross without paying in secrets.",
+    "secrets": "Aren hides a sliver of the illegal ‘sea-night’ prism inside his glaive’s haft—taken to ransom a cousin from a predatory loan—which can nullify simple wards for a breath. He also paid the Moonbridge toll with his true name to save a fevered child; for a year no one remembered him but Mereth Tydel, and though his life was spoken back into the city, the river still holds his first name and whispers it when he sleeps."
+}

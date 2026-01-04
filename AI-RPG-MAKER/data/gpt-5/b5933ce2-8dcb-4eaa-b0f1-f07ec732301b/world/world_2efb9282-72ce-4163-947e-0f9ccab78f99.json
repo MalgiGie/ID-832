@@ -1,0 +1,867 @@
+{
+    "city": "Vyratha, the River Crown, rises on a stone island where the twin rivers Tess and Vail clasp together like silver hands. Terraced districts coil around a central basalt knoll crowned by copper-green spires, and a stepped embankment of pale limestone holds back the tidal moods of the joined waters. Bridges as old as history knit the island to four riverbanks, each bank a different province in temperament and trade: the Saffron Bank with its dyehouses and hospices; the Iron Bank with foundries and ship-keels; the Reed Bank with boathouses on stilts and floating gardens; and the Lantern Bank whose night markets burn until dawn.\n\nFounded three and a half centuries ago by refugees of the Emberfallow War, Vyratha began as a fortified ferry-town controlling the only safe ford for a hundred miles. The first Charterstone—now sunken downstream—bound river spirits to gentle the current around the island, a pact that made Vyratha both possible and perilous: prosperity flowed with the rivers, but so did rivals and hungry gods. Through the era of Flood-Princes and the later Quiet Regency, Vyratha grew into a city-state whose coin is trusted, whose archives are coveted, and whose weirs tame a capricious waterway with artifice and prayer.\n\nPower is shared uneasily. The River Crown Citadel hosts a Rotating Conclave of guildmasters, clergy of the Nine Tides, and civic stewards chosen by lottery from landed households. The Order of the Luminous Weir commands water-magic and engineering that keep the city from drowning; the Indigosatchel Consortium moves grain, dye, and letters; the Guild of Silver Ferrymen holds the docks and pilots the shoals; the Brass Menders salve the poor and the wounded; and within the alleys, the Night Ledger tallies debts no sun has seen. Alliances shift with the river’s depth. Festivals—like the Lantern Unmooring, when thousands of wick-boats drift to mark the river spirits’ pact—momentarily still the knives.\n\nLegends braid through the streets: that the basalt knoll is the brow of a drowned titan; that the Moonbridge reappears on nights of thirteenth moonlight; that a third river runs beneath Vyratha, a current of memory accessible through the Concordant Archives. Skeptics scoff, then hire guides.\n\nVyratha’s lifeblood is trade. Grain ships from the upland terraces, iron blooms from hill forges, saffron-dyed cloth from the delta farms, and star-fruit from the Starfall Orchard all pass through Prism Market. In return, Vyratha exports precision locks, river-keels, sealed ledgers, and skilled hands. The city depends on the Luminous Weir to hold spring floods in check and on treaties with the Reedbound marsh clans for safe passage through the Gilded Marsh. It also depends—quietly—on the Night Ledger to keep criminal feuds short and survivable.\n\nConflicts simmer. The Indigosatchel Consortium seeks to privatize sections of the river wall, alarming the Temple of the Nine Tides. The Ferrymen and Weir Order feud over canal tolls and sluice schedules. The Reedbound resent new taxes on barge-gardens. Farther out, dwarven syndic from the Seven-Kettle Springs threaten to embargo coal unless the city ceases its star-metal prospecting in the Obsidian Fault. And always there is the river’s own temper: twice in living memory, the pact wavered and the lower terraces drowned.\n\nRecent whispers tell of pitted, glassy stones dredged near the Sunken Charterstone that sing when wet. The Brass Menders report night fevers in the Saffron Bank. And at low tide, some claim to hear choral notes rising from the gaps in the weir—like a choir buried in the riverbed seeking breath.",
+    "surroundings": [
+        {
+            "name": "Gilded Reed Marsh",
+            "type": "wetland",
+            "description": "A sprawling amber marsh downstream of Vyratha where reeds gleam with a natural sheen and floating gardens rise and fall with the tide. Narrow channels wind between mud islets driven with poles and prayer-flags.",
+            "history": "For generations the Reedbound marsh clans have piloted barges and cultivated raft-farms here, paying tribute to Vyratha in saffron, fish, and eel-oil in exchange for protection from raiders. The marsh has swallowed whole hamlets during freak surges, later birthing them back as barnacled ruins.",
+            "legends": [
+                "The Reed-Queen, a spirit bride of the river, guides lost travelers by humming through reeds—if paid with copper and milk.",
+                "The Gossamer Ferryman offers a one-way crossing to those with unpayable debts; his pole leaves ripples that never fade."
+            ],
+            "resources": [
+                "Saffron",
+                "Eel-oil",
+                "Reed fiber",
+                "Medicinal muds",
+                "Marsh herbs"
+            ],
+            "dangers": [
+                "Suction-bogs",
+                "Mire-wraiths at dusk",
+                "Waterborne fevers",
+                "Pirate skiffs"
+            ],
+            "dependencies": [
+                "Vyratha depends on Reedbound pilots for safe passage through sedge-choked cuts.",
+                "Reedbound rely on the Luminous Weir’s controlled release to prevent catastrophic floods."
+            ],
+            "conflicts": [
+                "New barge-garden taxes imposed by the Conclave have sparked canal blockades by the Reedbound.",
+                "The Temple of the Nine Tides condemns reed-cutting near nesting shrines, clashing with Indigosatchel harvest contracts."
+            ],
+            "hooks": [
+                "Recover a vanished census-boat last seen near humming reeds.",
+                "Negotiate a ceasefire between reed-cutters and shrine-keepers before the Lantern Unmooring."
+            ]
+        },
+        {
+            "name": "Obsidian Fault",
+            "type": "geologic rift",
+            "description": "A shadowed basalt chasm two days upriver where the earth splits into a staircase of glassy plates. At noon the walls shimmer with trapped stars.",
+            "history": "Once mined by the Emberlight Artificers for volcanic glass and star-metal skerries, the Fault was sealed after a collapse exposed a pulsing lattice beneath the stone. Dwarven syndics from Seven-Kettle have long contested Vyrathan claims.",
+            "legends": [
+                "A sleeping basalt colossus stirs here; every century the Fault deepens by a finger-width as it dreams.",
+                "Fragments of the First Meteor lie wedged in the rift; those who forge with it hear the world think."
+            ],
+            "resources": [
+                "Obsidian",
+                "Star-metal veins",
+                "Void-moss that cools forges"
+            ],
+            "dangers": [
+                "Glassfalls",
+                "Echo-maddened bats",
+                "Residual heat vents",
+                "Star-sired wraiths that dislike sunlight"
+            ],
+            "dependencies": [
+                "Artificers’ high-grade tools and the Weir’s sluice-gates use obsidian bearings quarried here.",
+                "The city’s prestige relies on star-metal lockworks produced in small, storied batches."
+            ],
+            "conflicts": [
+                "Seven-Kettle Syndic threatens embargo after Night Ledger proxies attempt a covert extraction.",
+                "Temple augurs warn the lattice is a sealed hymn; breaking it will unmake local tides."
+            ],
+            "hooks": [
+                "Escort a neutral survey to map the lattice without angering either dwarves or spirits.",
+                "Retrieve a lost ledger pin said to contain a map carved in star-metal."
+            ]
+        },
+        {
+            "name": "Starfall Orchard",
+            "type": "enchanted grove",
+            "description": "A terrace of pearlescent trees grown around shallow impact bowls; their fruits shine with speckled constellations and drip starlight sap at dusk.",
+            "history": "Planted on ground where a meteor shower struck two centuries ago, the orchard took root under the care of the Brass Menders, who discovered the fruit eases fever-dreams.",
+            "legends": [
+                "Those who sleep beneath the boughs dream of past and future braided; sometimes they do not wake until the prophecy is fulfilled.",
+                "An orchard-keeper once traded her shadow to keep frost away for seven winters; her shadow now wanders the city collecting debts of warmth."
+            ],
+            "resources": [
+                "Star-fruit",
+                "Clarity sap",
+                "Pollinating dusk-moths"
+            ],
+            "dangers": [
+                "Prophetic stupors",
+                "Sap-addiction among scribes",
+                "Night foxes that speak in riddles"
+            ],
+            "dependencies": [
+                "Vyratha’s scholars rely on clarity sap for safe memory-diving in the Concordant Archives.",
+                "Hospices use star-fruit infusions to temper fever during flood-seasons."
+            ],
+            "conflicts": [
+                "Indigosatchel factors bid to monopolize fruit exports, clashing with Menders’ vow of access.",
+                "Ferrymen accuse the orchard of luring pilots into vision-trances before dangerous runs."
+            ],
+            "hooks": [
+                "Break a gentle curse binding a dreamer whose prophecy halts a critical vote in the Conclave.",
+                "Find the orchard-keeper’s shadow and bargain for a winter without frostbite in the Saffron Bank."
+            ]
+        },
+        {
+            "name": "Moonbridge Ruins",
+            "type": "ancient span",
+            "description": "The broken stubs of a translucent bridge jut from fog above a narrow gorge; on thirteenth-moon nights a spectral arc completes the span.",
+            "history": "Remnant of the Aurelian Compact’s high road, the bridge once linked river cities that no longer exist. Vyrathan masons quarried its fallen chips to line the Citadel’s throne stair.",
+            "legends": [
+                "Crossing the spectral bridge leads travelers to where they need to go, not where they intend.",
+                "A moon-toll is exacted in secrets whispered to the wind; those unpaid find their names forgotten by friends for a year and a day."
+            ],
+            "resources": [
+                "Aurelian cryst-stone fragments",
+                "Moonmoss used in scrying",
+                "Echo-resonators prized by bards"
+            ],
+            "dangers": [
+                "Falling illusions that feel real on impact",
+                "Tithe-collecting shades",
+                "Memory-loss eddies along the gorge"
+            ],
+            "dependencies": [
+                "The Concordant Archives depend on cryst-stone chips to stabilize their memory wells.",
+                "Ferrymen time risky night runs to when the Moonbridge shortens a treacherous bend."
+            ],
+            "conflicts": [
+                "Temple clergy argue the bridge’s toll blasphemes the Nine Tides’ covenant, while the Night Ledger exploits the toll to erase targeted debts.",
+                "Artificers want exclusive quarry rights to fallen shards; masons’ guild protests."
+            ],
+            "hooks": [
+                "Escort a procession across the spectral span carrying offerings to a drowned shrine.",
+                "Recover a name stolen by the wind for a Conclave scribe who wrote the city’s water charters."
+            ]
+        },
+        {
+            "name": "Seven-Kettle Springs",
+            "type": "geothermal terraces",
+            "description": "Seven stepped pools of mineral water steam in a high valley, rimmed by iron-red stone and ringed with hammer-song from dwarven forges built into the cliffs.",
+            "history": "A dwarven syndic-city predates Vyratha here. Trade pacts with the Emberlight Artificers stocked Vyratha’s forges; in return the city guaranteed safe passage to coastal markets.",
+            "legends": [
+                "Each kettle sings a different note; together they form a chord that keeps an ancient forge-titan asleep beneath the valley.",
+                "On midwinter nights, steam condenses into metal sprites who sharpen dull blades for tales of bravery."
+            ],
+            "resources": [
+                "Hot springs",
+                "High-carbon iron",
+                "Coal",
+                "Forge-salt used for tempering"
+            ],
+            "dangers": [
+                "Sudden geysers",
+                "Forge-spirits offended by lies",
+                "Syndic law is harsh to trespassers"
+            ],
+            "dependencies": [
+                "Vyratha’s river-keels and lockworks require Seven-Kettle steel.",
+                "Dwarves rely on Vyrathan grain and dyes to supply their closed valley."
+            ],
+            "conflicts": [
+                "Embargo threats over star-metal claims at the Obsidian Fault.",
+                "Smuggling of forge-salt by Night Ledger cut-outs undermines syndic tariffs."
+            ],
+            "hooks": [
+                "Mediate a blades-for-grain exchange before winter caravans stall.",
+                "Calm a kettle whose note has soured, causing tools citywide to warp."
+            ]
+        },
+        {
+            "name": "Hollowwind Barrows",
+            "type": "burial mounds",
+            "description": "Low grassy tumuli dot a windswept plateau; fluted vents built into the mounds sing when the river rises, turning the air into an organ of mourning.",
+            "history": "Resting place of pre-Vyrathan riverfolk and later the graveyard of Flood-Princes. The Night Ledger maintains hidden ossuaries where inconvenient bones are kept very quiet.",
+            "legends": [
+                "Wights called Hollow Choir rise to complain if their flutes are blocked.",
+                "On the first flood of spring, ghosts rehearse the year’s disasters in unsingable harmonies; those who decode them can avert one tragedy."
+            ],
+            "resources": [
+                "Carved bone flutes",
+                "Whisper-grass used in divinations",
+                "Ancient grave-gold"
+            ],
+            "dangers": [
+                "Barrow-wights",
+                "Grave-robbers",
+                "Sudden sinkholes into ossuaries"
+            ],
+            "dependencies": [
+                "Temple rituals use whisper-grass from the barrows to tune the city’s tide-rites.",
+                "The Night Ledger buries certain feuds here with literal contracts bound to bones."
+            ],
+            "conflicts": [
+                "Brass Menders demand respectful burials for plague victims; Night Ledger resists transparency.",
+                "Ferrymen accuse the Temple of storing flood corpses too near river intakes."
+            ],
+            "hooks": [
+                "Stop a fluteless night by repairing vandalized vents before the flood rises.",
+                "Find the missing tooth-bone of a Flood-Prince whose legal claim challenges the Conclave."
+            ]
+        },
+        {
+            "name": "Sunken Charterstone",
+            "type": "submerged monolith",
+            "description": "A rune-carved monolith lies tilted in a deep eddy below Vyratha, visible only at extreme low tide. Lines of silver script glow under water like fish-bones of light.",
+            "history": "The original pact-stone that bound the river spirits cracked during the Deluge of Blue Silt. Replacement oaths were sworn at the Citadel, but the old stone still hums.",
+            "legends": [
+                "If re-raised, the Charterstone will grant the city a century of calm waters—but demand a king in return.",
+                "Divers hear songs in dead languages that grant them gills for a night or debts for a lifetime."
+            ],
+            "resources": [
+                "Oath-lodestones",
+                "River-salt crystals that anchor wards"
+            ],
+            "dangers": [
+                "Undertow that flips boats",
+                "Oath-leeches attracted to broken promises",
+                "Hostile river spirits"
+            ],
+            "dependencies": [
+                "The Luminous Weir tunes sluice-hymns to the Charterstone’s pulse to keep flood rhythms predictable.",
+                "The Temple’s covenant rites require annual offerings cast at the eddy."
+            ],
+            "conflicts": [
+                "Weir Order proposes dredging the stone; Temple calls it sacrilege.",
+                "Night Ledger divers draw ire after prying glowing tiles loose for sale."
+            ],
+            "hooks": [
+                "Assist a ritual to soothe the stone after thieves stole a tile, before the spring swell arrives.",
+                "Choose a champion to descend and consult the stone about a looming drought."
+            ]
+        }
+    ],
+    "buildings": [
+        {
+            "name": "River Crown Citadel",
+            "type": "civic stronghold",
+            "location": "Basalt knoll at the island’s heart",
+            "description": "A ring-walled complex of copper-roofed towers and a throne hall paved in Aurelian cryst-stone chips. Water clocks tick in alcoves; a tide-window in the floor shows the river’s pulse.",
+            "history": "Raised during the Quiet Regency to consolidate rule after the Flood-Princes fell. Expanded twice to house the Rotating Conclave and the city’s neutral arbitration chambers.",
+            "functions": [
+                "Conclave assemblies",
+                "Treaty signing",
+                "Tide and tax records",
+                "Neutral dueling courts"
+            ],
+            "controlled_by": "Rotating Conclave (influenced by Indigosatchel, Weir Order, and Ferrymen)",
+            "dependencies": [
+                "Relies on the Luminous Weir to prevent undermining of the foundation.",
+                "Requires Concordant Archives’ clerks to maintain the labyrinthine tide ledgers."
+            ],
+            "secrets": [
+                "A narrow stair beneath the throne leads to a forgotten moon-landing of the old high road.",
+                "The tide-window is not glass but a stilled skin of river held by an oath older than the city."
+            ],
+            "conflicts": [
+                "Debate over emergency powers in flood season pits Weir Order against Temple of the Nine Tides.",
+                "Night Ledger bribes threaten the neutrality of arbitration chambers."
+            ],
+            "notable_people": [
+                "Steward-Moderator Iren Vask",
+                "Archivist-Bell Meral Thene"
+            ]
+        },
+        {
+            "name": "Luminous Weir",
+            "type": "arcane-engineered dam and sluice",
+            "location": "Upstream ring where the Tess meets the Vail",
+            "description": "A crescent of white stone threaded with prism channels and bronze song-gates that open and close by chanted sequence. At night it glows faintly, pulsing with the river’s breath.",
+            "history": "Completed after three failed attempts, each marked by floods. The fourth succeeded when the Weir Order bound song to stone using cryst-stone from the Moonbridge ruins.",
+            "functions": [
+                "Flood control",
+                "Powering water-hammers",
+                "Sluice navigation",
+                "Ritual coupling with river spirits"
+            ],
+            "controlled_by": "Order of the Luminous Weir",
+            "dependencies": [
+                "Requires obsidian bearings from the Obsidian Fault to stabilize song-gates.",
+                "Needs Temple rites at solstices to keep spirits appeased."
+            ],
+            "secrets": [
+                "A hidden overflow culvert leads into the city’s undercurrent—the rumored memory-river.",
+                "One song-gate responds to an unknown note that no living cantor can sing."
+            ],
+            "conflicts": [
+                "Ferrymen accuse the Order of manipulating gate timings to extort canal tolls.",
+                "Temple disputes over propriety of engineering over devotion strain alliances."
+            ],
+            "notable_people": [
+                "Archhydromancer Quill Vess",
+                "Gate-Choirmistress Rana Olt"
+            ]
+        },
+        {
+            "name": "Prism Market",
+            "type": "grand bazaar",
+            "location": "Lantern Bank, beneath woven awnings of dyed silk",
+            "description": "A riot of color and sound, with mirrored stalls that bounce sunlight into shaded lanes. Colored glass prisms hang on wires, throwing sharp rainbows as wind passes.",
+            "history": "Grew from a seasonal fair into a permanent quarter as Vyratha became a river hub. The Indigosatchel Consortium formalized stall leases, angering old barter circles.",
+            "functions": [
+                "Trade of grain, dyes, and star-fruit",
+                "Auction of keels and locks",
+                "Information brokerage"
+            ],
+            "controlled_by": "Indigosatchel Consortium (with Ferrymen muscle and Night Ledger shadows)",
+            "dependencies": [
+                "Stable coinage managed by the Ledgerhall of Tithes.",
+                "Safe night-lighting maintained by Brass Menders to reduce fever spread."
+            ],
+            "secrets": [
+                "A mirrored stall doubles as a whisper-node for the Night Ledger.",
+                "An illegal prism color—sea-night—can nullify simple wards; only three exist."
+            ],
+            "conflicts": [
+                "Price-fixing allegations between Indigosatchel and Ferrymen spark boycotts.",
+                "Artificers protest counterfeit lockwork sold to outlanders."
+            ],
+            "notable_people": [
+                "Prime Factor Calra Orun",
+                "Stallwarden Nemek Fil"
+            ]
+        },
+        {
+            "name": "Concordant Archives",
+            "type": "library and memory-well",
+            "location": "Saffron Bank, near the Saffron Hospice",
+            "description": "A many-galleried hall with shelves spiraling around deep wells filled with slow water. Readers lower memories braided in copper wire to retrieve related recollections.",
+            "history": "Founded by scribes fleeing the Emberfallow War, built on the site of a natural seep of ‘still water’. The Temple granted neutral status in exchange for public rituals of remembrance.",
+            "functions": [
+                "Legal research",
+                "Memory retrieval",
+                "Historical arbitration",
+                "Scribe training"
+            ],
+            "controlled_by": "Neutral collegium (funded by Indigosatchel and tithed by the Temple)",
+            "dependencies": [
+                "Clarity sap from Starfall Orchard to avoid memory contamination.",
+                "Moonbridge cryst-stone chips to stabilize well resonance."
+            ],
+            "secrets": [
+                "A forbidden well contains the city’s first flood in liquid memory; drinking it shows all drownings ever.",
+                "An archivist has been siphoning memories to sell to Night Ledger debt-curators."
+            ],
+            "conflicts": [
+                "Temple demands tighter controls after a blasphemous play was ‘remembered’ into existence.",
+                "Ferrymen seek to erase records of a massacre at a dock strike thirty years ago."
+            ],
+            "notable_people": [
+                "Bookmaster Yerin Pale",
+                "Water-Reader Sila Jor"
+            ]
+        },
+        {
+            "name": "Ledgerhall of Tithes",
+            "type": "treasury and court",
+            "location": "Iron Bank, facing the river wall",
+            "description": "A severe façade of ironwood and slate. Inside, stone tables are carved with permanent ledgers; new entries glow until ratified by three seals.",
+            "history": "Raised after a coin-famine to standardize debt and tithe law. Its charter forbids personal wealth within its walls: even rings are checked at the door.",
+            "functions": [
+                "Tax assessment",
+                "Debt arbitration",
+                "Coin minting",
+                "Public auctions of forfeitures"
+            ],
+            "controlled_by": "Civic stewards, heavily influenced by Indigosatchel auditors",
+            "dependencies": [
+                "Night Ledger’s shadow-accounting to keep underworld debts from detonating.",
+                "Prism Market’s flow for predictable tithe cycles."
+            ],
+            "secrets": [
+                "A secret schedule outputs a ‘soft flood’ of coin every summer to manipulate grain prices.",
+                "A hidden conduit runs from the mint into the undercurrent, used once to dump cursed coin."
+            ],
+            "conflicts": [
+                "Brass Menders lobby for debt forgiveness during plague seasons.",
+                "Weir Order seeks emergency funds for sluice repairs, resisted by lean-season factions."
+            ],
+            "notable_people": [
+                "Coin-Seal Marro Thest",
+                "Auctioneer Vel Ikin"
+            ]
+        },
+        {
+            "name": "Saffron Hospice",
+            "type": "hospital and refuge",
+            "location": "Saffron Bank, by saffron-dye canals",
+            "description": "A complex of sunlit courtyards heavy with saffron scent. Yellow pennants mark quarantine wings; a bell-tree chimes prescriptions in coded rhythms.",
+            "history": "Founded by the Brass Menders after the Deluge of Blue Silt to care for flood-fever victims. Expanded with a ward for dream-sick readers of the Archives.",
+            "functions": [
+                "Healing",
+                "Plague management",
+                "Midwifery",
+                "Public kitchens during floods"
+            ],
+            "controlled_by": "Brass Menders",
+            "dependencies": [
+                "Star-fruit and herbs from the Gilded Marsh.",
+                "Temple-lent ritualists for soul-tethering in near-drownings."
+            ],
+            "secrets": [
+                "A fever ward experiments with a gentle parasite that eats only diseased humors.",
+                "The hospice morgue doubles as a safehouse for witnesses hidden from the Night Ledger."
+            ],
+            "conflicts": [
+                "Budget battles with the Ledgerhall during quiet years.",
+                "Ferrymen protests after quarantine halts dockside shifts."
+            ],
+            "notable_people": [
+                "Hospitaller Jilai Sunquiet",
+                "Chirurgeon Rekk Alon"
+            ]
+        },
+        {
+            "name": "Emberlight Forge-Cloister",
+            "type": "artificer manufactory and monastery",
+            "location": "Iron Bank, uphill from the keel-yards",
+            "description": "A cloister of red-brick vaults where forges burn a steady blue. Artisans chant work-canticles while shaping locks, sluice-plates, and whisper-keys.",
+            "history": "Founded by survivors of the Emberfallow War who vowed to bind fire with craft. Their vow forbids forging devices meant solely to kill.",
+            "functions": [
+                "Precision lockwork",
+                "Sluice components",
+                "Artificer training",
+                "Relic repair"
+            ],
+            "controlled_by": "Emberlight Artificers",
+            "dependencies": [
+                "Obsidian bearings from the Fault and Seven-Kettle steel for durable gear.",
+                "Temple blessings to keep forge-spirits tractable."
+            ],
+            "secrets": [
+                "A prototype memory-lock can only be opened by recalling a specific day perfectly.",
+                "They maintain a hidden side-foundry for star-metal, skirting syndic embargoes."
+            ],
+            "conflicts": [
+                "Night Ledger pressures the cloister to produce unpickable vaults for questionable clients.",
+                "Weir Order insists on priority for replacement song-gates, straining artisan capacity."
+            ],
+            "notable_people": [
+                "Artisan-Mother Brina Coil",
+                "Journeyman Rusk Tallen"
+            ]
+        },
+        {
+            "name": "Veilhouse of Whispers",
+            "type": "intelligence guildhouse",
+            "location": "Reed Bank, behind a facade of a tea-house",
+            "description": "Silken screens and trick acoustics make every murmur sound like rain. In the cellar, debt-threads hang with weighted seals, each a promise or threat.",
+            "history": "Once a simple tea-house owned by poets, it became the Night Ledger’s counting-room when poems proved more valuable as secrets.",
+            "functions": [
+                "Information brokerage",
+                "Debt enforcement",
+                "Shadow arbitration",
+                "Mask-crafting"
+            ],
+            "controlled_by": "The Night Ledger",
+            "dependencies": [
+                "Access to Prism Market whisper-nodes.",
+                "Covert passageways into the Concordant Archives’ public halls."
+            ],
+            "secrets": [
+                "The Ledger keeps a ‘white book’ of pardons it can grant by destroying a single, very old page.",
+                "A masked child, never aging, balances a scale each dawn; when it tips, a feud must end in blood."
+            ],
+            "conflicts": [
+                "Brass Menders shelter Ledger targets, creating a cold war of kindness versus control.",
+                "Ferrymen feud over a dockmaster’s murder thought to be Ledger-ordered."
+            ],
+            "notable_people": [
+                "Bookmaster Yerin Pale (secret patron)",
+                "Maskwright Sorev Dusk"
+            ]
+        }
+    ],
+    "politics": [
+        {
+            "name": "Guild of Silver Ferrymen",
+            "type": "trade guild",
+            "motto": "We bear what the river dares.",
+            "description": "Pilots, dockmasters, and keelwrights who run Vyratha’s boats and control access to the city’s wharves. Their silvered poles mark guild authority.",
+            "leadership": "Matriarch Sava Deren, river-scarred and unsmiling, elected by tide-vote every nine flood cycles.",
+            "goals": [
+                "Control canal tolls",
+                "Secure priority at the Luminous Weir",
+                "End barge-garden taxes"
+            ],
+            "methods": [
+                "Strike threats",
+                "Convoy escorts",
+                "Sabotage of rival docks",
+                "Political marriages with marsh clans"
+            ],
+            "resources": [
+                "Keel-fleet",
+                "Pole-armored crews",
+                "Dockside warehouses",
+                "Piloting charts"
+            ],
+            "holdings": [
+                "East and South wharves",
+                "Customs houses on Lantern Bank"
+            ],
+            "allies": [
+                "Indigosatchel Consortium (conditional)",
+                "Reedbound marsh clans"
+            ],
+            "rivals": [
+                "Order of the Luminous Weir",
+                "Temple of the Nine Tides",
+                "Night Ledger (uneasy)"
+            ],
+            "obligations": [
+                "Maintain safe passage during festivals",
+                "Rescue duty during floods"
+            ],
+            "conflicts": [
+                "Weir Order scheduling disputes risk boat pileups and spoiled cargo.",
+                "Temple insists on closing wharves on sacred days, costing profit."
+            ],
+            "secrets": [
+                "Sava Deren’s first-born vanished on the Moonbridge; she bankrolls anyone who can map its returns.",
+                "Smuggling routes run beneath quarantine flags with hospice complicity at low levels."
+            ],
+            "public_image": "Gruff, indispensable, occasionally bullying but quick to throw lines to the drowning."
+        },
+        {
+            "name": "Order of the Luminous Weir",
+            "type": "arcane-engineering order",
+            "motto": "Hold the flood; hear the song.",
+            "description": "A disciplined brotherhood and sisterhood of hydromancers, engineers, and choir-chanters who bind water with math and music.",
+            "leadership": "Archhydromancer Quill Vess, a brilliant, frost-polite pragmatist whose left hand is a water-prosthetic.",
+            "goals": [
+                "Stabilize flood cycles",
+                "Expand weir capacity",
+                "Dredge and restore the Sunken Charterstone"
+            ],
+            "methods": [
+                "Chantwork and sluicecraft",
+                "Political blackmail via flood forecasts",
+                "Patronage of apprentices"
+            ],
+            "resources": [
+                "Song-gates",
+                "Hydrographs",
+                "Ritual barge",
+                "Work-crews"
+            ],
+            "holdings": [
+                "The Luminous Weir",
+                "Gatehouses",
+                "Training cloister near River Crown"
+            ],
+            "allies": [
+                "Temple of the Nine Tides (strained)",
+                "Emberlight Artificers"
+            ],
+            "rivals": [
+                "Guild of Silver Ferrymen",
+                "Reedbound marsh clans"
+            ],
+            "obligations": [
+                "Keep city from drowning",
+                "Maintain navigability for essential trade"
+            ],
+            "conflicts": [
+                "Temple protests engineering overreach into sacred flows.",
+                "Reedbound accuse them of starving marsh channels."
+            ],
+            "secrets": [
+                "Quill Vess made a private vow with a river spirit that costs him a memory each flood season.",
+                "A hidden culvert could drain the island in hours if opened fully."
+            ],
+            "public_image": "Austere guardians whose competence borders on arrogance."
+        },
+        {
+            "name": "Indigosatchel Consortium",
+            "type": "merchant league",
+            "motto": "Trust the seal; the seal keeps trust.",
+            "description": "A web of factors, notaries, and couriers who underwrite trade, lease market stalls, and standardize contracts.",
+            "leadership": "Prime Factor Calra Orun, affable in public, ruthless in audit chambers, wears an indigo satchel with seven seals.",
+            "goals": [
+                "Monopolize star-fruit exports",
+                "Privatize portions of the river wall",
+                "Bind Seven-Kettle in a long-term iron-for-grain future"
+            ],
+            "methods": [
+                "Soft loans with sharp penalties",
+                "Political donations",
+                "Control of stall leases",
+                "Caravan insurance",
+                "Planting rumors"
+            ],
+            "resources": [
+                "Seal presses",
+                "Couriers’ guild",
+                "Credit ledgers",
+                "Warehouse fleets"
+            ],
+            "holdings": [
+                "Prism Market leases",
+                "Ledgerhall influence seats",
+                "Counting-houses"
+            ],
+            "allies": [
+                "Guild of Silver Ferrymen",
+                "Night Ledger (transactional)"
+            ],
+            "rivals": [
+                "Brass Menders",
+                "Temple of the Nine Tides",
+                "Reedbound marsh clans"
+            ],
+            "obligations": [
+                "Maintain fair weights",
+                "Fund public works during surplus years"
+            ],
+            "conflicts": [
+                "Temple pushes back on privatization of river walls.",
+                "Menders block attempts to price-gouge during plague seasons."
+            ],
+            "secrets": [
+                "Calra keeps a white-book pardon from the Veilhouse and uses it to erase a cousin’s debt-murder.",
+                "A sealed deal with a dwarven syndic includes an illegal star-metal clause."
+            ],
+            "public_image": "Efficient, cosmopolitan, the necessary grease on the city’s wheels."
+        },
+        {
+            "name": "Temple of the Nine Tides",
+            "type": "religious authority",
+            "motto": "We keep covenant with waters seen and unseen.",
+            "description": "Priests, tide-singers, and shrine-keepers who honor nine personifications of the river’s moods, from Lull to Riptide.",
+            "leadership": "High Acolyte Mereth Tydel, patient as a stone in current, famed for orations that calm crowds.",
+            "goals": [
+                "Protect sacred flows",
+                "Preserve public ritual access",
+                "Oppose dredging the Sunken Charterstone without omen"
+            ],
+            "methods": [
+                "Public rites",
+                "Sanctuary laws",
+                "Oaths and taboos woven into civil contracts"
+            ],
+            "resources": [
+                "Shrines at every bank",
+                "Tide-bells",
+                "Processional barges",
+                "Laws of sanctuary"
+            ],
+            "holdings": [
+                "High Tide-Temple at Lantern Bank",
+                "Flood-shrine at the Weir"
+            ],
+            "allies": [
+                "Brass Menders",
+                "Some Conclave stewards"
+            ],
+            "rivals": [
+                "Order of the Luminous Weir (jurisdictional)",
+                "Indigosatchel Consortium"
+            ],
+            "obligations": [
+                "Blessings at solstices",
+                "Drowned rites for the unclaimed"
+            ],
+            "conflicts": [
+                "Clashes over wharf closures during holy days anger Ferrymen.",
+                "Internal schism between Riptide and Lull sects about activism versus patience."
+            ],
+            "secrets": [
+                "Mereth owns a drowned bell whose note can end any storm once—at the cost of an unnamed life.",
+                "A hidden chapel keeps the river’s anger in jars; three have cracked."
+            ],
+            "public_image": "Pious and publicly compassionate, sometimes maddeningly slow."
+        },
+        {
+            "name": "Emberlight Artificers",
+            "type": "craft cloister",
+            "motto": "Bind fire with purpose.",
+            "description": "Craftsfolk sworn to make devices that preserve life and order rather than destroy. They produce the city’s finest mechanisms.",
+            "leadership": "Artisan-Mother Brina Coil, ink-scarred hands and a voice like a bellows, beloved by apprentices.",
+            "goals": [
+                "Secure steady star-metal flow",
+                "Protect artisan neutrality",
+                "Innovate safer sluice components"
+            ],
+            "methods": [
+                "Seals of quality",
+                "Closed-shop vows",
+                "Night-forge experiments"
+            ],
+            "resources": [
+                "Masterwork forges",
+                "Secret schematics",
+                "Journeyman network"
+            ],
+            "holdings": [
+                "Emberlight Forge-Cloister",
+                "Test sluice at River Crown"
+            ],
+            "allies": [
+                "Order of the Luminous Weir",
+                "Brass Menders"
+            ],
+            "rivals": [
+                "Seven-Kettle Syndic (external)",
+                "Night Ledger (ethics clashes)"
+            ],
+            "obligations": [
+                "Emergency repair duty at Weir",
+                "Free locks for hospice wards"
+            ],
+            "conflicts": [
+                "Caught between dwarves and city over the Obsidian Fault.",
+                "Pressured to build lethal devices for shadow clients."
+            ],
+            "secrets": [
+                "A heretical subgroup wants to forge a ‘calm engine’ that can still a riot by resonant note.",
+                "Brina’s oath tattoo hides a map to a safe star-metal vein."
+            ],
+            "public_image": "Stubborn idealists with steady hands."
+        },
+        {
+            "name": "The Reedbound",
+            "type": "marsh clans",
+            "motto": "We float and do not drown.",
+            "description": "A confederation of raft-keepers, eel-fishers, and reed-cutters who dwell in the Gilded Marsh on stilted villages and drifting islands.",
+            "leadership": "Mist-Warden Ollo Fen, a broad-shouldered pilot whose laugh carries over mist; leadership is by consensus of clan-rafts.",
+            "goals": [
+                "End barge taxes",
+                "Secure ritual recognition of marsh shrines",
+                "Protect floating farms from dredge-waves"
+            ],
+            "methods": [
+                "Canal blockades",
+                "Escort strikes",
+                "Oath-feasts and public testimony"
+            ],
+            "resources": [
+                "Pilot knowledge",
+                "Floating gardens",
+                "Marsh herbs",
+                "Hidden smuggler channels"
+            ],
+            "holdings": [
+                "Raft-villages",
+                "Shrines on high stumps",
+                "Sedge-armored watchtowers"
+            ],
+            "allies": [
+                "Guild of Silver Ferrymen",
+                "Temple of the Nine Tides (select clergy)"
+            ],
+            "rivals": [
+                "Order of the Luminous Weir",
+                "Indigosatchel Consortium"
+            ],
+            "obligations": [
+                "Keep emergency routes open during floods",
+                "Guide hospice boats for free"
+            ],
+            "conflicts": [
+                "Toll-standoffs with Weir over sluice priorities.",
+                "Market disputes over herb pricing and export caps."
+            ],
+            "secrets": [
+                "Ollo Fen shelters a child who breathes water and sings in reed-speech; both city and temple want her.",
+                "A submerged stone ring in the marsh can raise a fog that lasts for days."
+            ],
+            "public_image": "Proud, stubborn folk who know the river’s moods better than cityfolk ever will."
+        },
+        {
+            "name": "The Night Ledger",
+            "type": "criminal syndicate and arbitration shadow-court",
+            "motto": "Every debt finds its evening.",
+            "description": "A discreet but omnipresent network of debt-keepers, spies, and enforcers who make disputes end—profitably.",
+            "leadership": "Bookmaster Yerin Pale, a pale-eyed bibliomancer who reads people the way others read ledgers.",
+            "goals": [
+                "Control information flow",
+                "Keep street feuds short",
+                "Expand into Seven-Kettle contracts"
+            ],
+            "methods": [
+                "Blackmail",
+                "Secret pardons",
+                "Mask-mediated negotiations",
+                "Silencing songs"
+            ],
+            "resources": [
+                "Veilhouse of Whispers",
+                "Black books of favors",
+                "Knife-guild ties"
+            ],
+            "holdings": [
+                "Hidden ossuaries in Hollowwind Barrows",
+                "Listening posts in Prism Market"
+            ],
+            "allies": [
+                "Indigosatchel Consortium (mutual convenience)"
+            ],
+            "rivals": [
+                "Brass Menders",
+                "Temple of the Nine Tides",
+                "Ferrymen (periodically)"
+            ],
+            "obligations": [
+                "Unspoken: keep violence from damaging trade",
+                "Deliver three names each solstice to a barrow-guardian"
+            ],
+            "conflicts": [
+                "Brass Menders’ sanctuaries deny Ledger collections.",
+                "Conclave scrutiny after a dockmaster’s quieting went loud."
+            ],
+            "secrets": [
+                "Yerin Pale is a secret patron of the Archives; he hides a memory there he refuses to reread.",
+                "The Ledger can ‘erase’ a person for a year via the Moonbridge toll—but the erased see everything."
+            ],
+            "public_image": "Feared accountants of sin: elegant, necessary, and despised."
+        },
+        {
+            "name": "Brass Menders",
+            "type": "charitable healers’ order",
+            "motto": "Hands steady, hearts bright.",
+            "description": "A lay order of healers, midwives, and plague-workers sworn to brass tokens that grant right-of-way during crises.",
+            "leadership": "Hospitaller Jilai Sunquiet, a gentle, iron-willed organizer whose presence calms riots.",
+            "goals": [
+                "Universal clinics in all banks",
+                "Debt relief for the sick",
+                "Sanitation canals in the Reed Bank"
+            ],
+            "methods": [
+                "Public kitchens",
+                "Quarantine bells",
+                "Open ledgers of aid"
+            ],
+            "resources": [
+                "Hospice network",
+                "Volunteer threshold-keepers",
+                "Brass token system"
+            ],
+            "holdings": [
+                "Saffron Hospice",
+                "Clinic boats",
+                "Herb gardens"
+            ],
+            "allies": [
+                "Temple of the Nine Tides",
+                "Emberlight Artificers"
+            ],
+            "rivals": [
+                "Indigosatchel Consortium (when profiteering)",
+                "Night Ledger"
+            ],
+            "obligations": [
+                "Free care during floods",
+                "Annual audit by Conclave"
+            ],
+            "conflicts": [
+                "Debt relief efforts collide with Ledger enforcement.",
+                "Ferrymen resent quarantines that close docks."
+            ],
+            "secrets": [
+                "Jilai carries a river-fever that never breaks; it lets her sense outbreaks a day early.",
+                "The Menders’ bell-tree can transmit coded messages across the city when rung in sequence."
+            ],
+            "public_image": "Kind and stubborn, city’s conscience during hard water."
+        }
+    ]
+}

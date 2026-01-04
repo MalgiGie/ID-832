@@ -1,0 +1,76 @@
+{
+    "name": "Lisi",
+    "surname": "Jhak",
+    "race": "Human",
+    "age": 39,
+    "appearance": "Tall, perfumed with saffron and inkroot, rings that change hue with heat. Always framed by a scarf dyed in a gradient no one else can name.",
+    "character": "Charming, knife-bright, and relentlessly pragmatic about margins.",
+    "traits": [
+        "calculating",
+        "affable on the surface",
+        "fashion-forward",
+        "risk-tolerant",
+        "curious about people’s prices"
+    ],
+    "skills": [
+        "futures arbitrage",
+        "bourse ritual sealing",
+        "supply chain wrangling",
+        "market rumor cultivation",
+        "contract booby-trapping"
+    ],
+    "talents": [
+        "smells profit in a color blend",
+        "reads micro-flashes in lantern debates",
+        "keeps three ledgers in her head without a slip"
+    ],
+    "flaws": [
+        "will trade trust for advantage",
+        "underestimates faith and vows",
+        "impatient with slow craft"
+    ],
+    "dreams": [
+        "monopolize night-dye refining from Moonfallen Orchard",
+        "seat a color-marshal in Parliament beholden to her",
+        "launch an export of gloam dye beyond the delta"
+    ],
+    "secrets": [
+        "Funds a small cadre to tamper with vote-lamp tints on critical nights",
+        "Owns a hidden stake in an independent dyer she publicly denounces",
+        "Her signature scarf hides a burn from testing backward-burning moon-resin"
+    ],
+    "relations": [
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Pel Korr",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sav Orlai",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Ysra Dokk",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Kael Ibrin",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

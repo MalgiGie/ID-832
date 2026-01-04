@@ -1,0 +1,76 @@
+{
+    "name": "Osric",
+    "surname": "Greyfen",
+    "race": "Human",
+    "age": 63,
+    "appearance": "Tall and spare with an iron-gray beard, tide-clock brooch, and a cane-sword he swears he never draws; his cloak smells of kelp and cold iron.",
+    "character": "Austere and even-handed, carrying weariness like a duty; he believes rules save lives.",
+    "traits": [
+        "judicious",
+        "stoic",
+        "disciplined",
+        "observant"
+    ],
+    "skills": [
+        "Brinelaw statute lore",
+        "interrogation by Oathwell ritual",
+        "forensic accounting",
+        "coordination of patrols",
+        "diplomatic arbitration"
+    ],
+    "talents": [
+        "recalls clauses and case names verbatim",
+        "reads tics of guilt and fear",
+        "predicts tides by scent and sound"
+    ],
+    "flaws": [
+        "rigid adherence to process",
+        "lonely to the point of detachment",
+        "gout limits field work",
+        "too trusting of Compact neutrality claims"
+    ],
+    "dreams": [
+        "Protect Brinelaw from factional capture",
+        "Unmask the forged-pass ring at the Flats",
+        "Retire to the Salt Widow’s Lighthouse and write a treatise on oathcraft"
+    ],
+    "secrets": [
+        "Keeps a salt-stiff journal from the Lighthouse that he never entered into the record",
+        "Has an illegitimate son rumored to run with wreckers",
+        "Once staged ‘found’ evidence to prevent a riot he feared would kill dozens"
+    ],
+    "relations": [
+        {
+            "npc_name": "Selka Vire",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Pera Ilem",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Neth Cowl",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Garrik Shale",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ketta Brineshaw",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Siala Nerm",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Vesk Marran",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Yhosa Kel",
+            "relation_type": "neutral"
+        }
+    ]
+}

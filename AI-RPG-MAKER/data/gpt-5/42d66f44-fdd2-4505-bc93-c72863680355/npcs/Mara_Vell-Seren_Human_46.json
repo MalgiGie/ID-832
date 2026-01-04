@@ -1,0 +1,73 @@
+{
+    "name": "Mara",
+    "surname": "Vell-Seren",
+    "race": "Human",
+    "age": 46,
+    "appearance": "Pearl-gray eyes behind brine-inked spectacles, sable hair bound with a moonpearl pin, cuffs trimmed in siltglass beads; salt-weathered yet impeccably groomed.",
+    "character": "Measured, relentless broker who counts favors as carefully as pearls; motherly to loyal divers, glacial to rivals; times every decision to the tide.",
+    "traits": [
+        "calculating",
+        "patient",
+        "superstitious about omens",
+        "protective of her crews"
+    ],
+    "skills": [
+        "negotiation",
+        "ledgercraft",
+        "reef-right law",
+        "currents timing",
+        "knife etiquette",
+        "risk assessment"
+    ],
+    "talents": [
+        "uncanny memory for debts and favors",
+        "reads microexpressions",
+        "unflappable under pressure"
+    ],
+    "flaws": [
+        "prideful",
+        "vindictive",
+        "hoards information",
+        "underestimates faith-driven opponents"
+    ],
+    "dreams": [
+        "Secure an unassailable moonpearl monopoly",
+        "Add the lighthouse contract to the Compact",
+        "Seat a permanent voting majority in the Council"
+    ],
+    "secrets": [
+        "Keeps an off-ledger brine fund to sway ward reeves",
+        "Hid a promising moonpearl vein’s charts to starve rivals a season",
+        "Employs a private auditor to map the Gray Threads under the Spine Market"
+    ],
+    "relations": [
+        {
+            "npc_name": "Arno Kest",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Asha Heliope",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Oaric Bent",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ysger Thorn",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Neris Bonehook",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Tern Quietwake",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Verrin Nasse",
+            "relation_type": "Hostility"
+        }
+    ]
+}

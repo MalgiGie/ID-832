@@ -1,0 +1,79 @@
+{
+    "id": "M2",
+    "title": "Names in the Veins",
+    "quest_giver": "Professor Nyra Vale",
+    "description": "The Hall of the Unentombed smells of clean stone and whisper-oils, a place where grief is handled with measured hands. Professor Nyra Vale calls Rogan to a curtained alcove and produces a bone sliver that ticks faintly in time with the Gate’s second note. She speaks in the careful cadence of one taught to bind emotion in ethics, yet a tremor betrays a scholar staring over a boundary she swore never to cross. A shelf of erased names in the Archive of Veins has begun to murmur in sleep to its shelving clerks, and the living indexer remembers footprints of the last man who touched the Night-Glass stacks—footprints that end at a page no longer there. The city keeps its memory in marrow-ink; if someone is rewriting the song of what happened, every oath and tax and love swears to a lie. Rogan’s mirror-cut palm tightens around his shard. Tonight the Archive is closed, but doors do not stop a city’s defenders when the dead are beginning to hum.",
+    "objectives": [
+        "Meet Nyra Vale at the Hall of the Unentombed and examine the ticking bone sliver.",
+        "Infiltrate the Archive of Veins after dusk through a maintenance grate using old Watch tokens.",
+        "Consult the living indexer to trace access patterns to the Night-Glass black file stacks.",
+        "Recover or copy the missing ledger page, avoiding or confronting Sila Vane of the Night-Glass.",
+        "Exit without alerting the Watch cordon, or persuade Serge Kobb to look the other way."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Professor Nyra Vale",
+                "line": "This bone fragment thrums in concert with the Gate’s wrong note, as if the city has a second heartbeat, one that learned to lie politely. We keep our contracts and our consolations in marrow-ink because bones do not forget lightly. If someone has taught bone to forget, then memory itself is under the knife."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I carried a Night-Glass page once, and it almost unmade me. The letters moved when I wasn’t looking and settled into a shape that still wakes me at night. Tell me which aisle to find and which name not to speak, and I’ll bring you back what’s missing, or a bruise shaped like the man who took it."
+            },
+            {
+                "speaker": "Professor Nyra Vale",
+                "line": "Ask the living indexer for its shadows and steps, but pay it with water and patience. And be careful with Sila Vane. She has a way of making a lie feel like the first real truth you’ve ever heard."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Living Indexer",
+                "line": "Your boots have sung along the ribs of the city, and I remember those songs. The last feet that entered the black stacks walked on silence and carried a mirror in the palm. I can tell you the shelf, and the time the air cooled where it should have warmed, but I will ask for water, because I am thirsty for what the city owes."
+            },
+            {
+                "speaker": "Sila Vane",
+                "line": "You come to pluck a page as if it were a splinter from your thumb, but words lodged in the city’s hand have roots. The Nameskeeper would rather you bleed quietly than ruin the ledger that keeps the Triarchs obedient. Help me bury a worse truth by exposing a lesser one, and you might live long enough to regret it properly."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I’ve sanded splinters out of bone where the flesh still wept and the patient begged me to stop. You can sell me a painless lie, Sila, but I’ve paid for honest pain before and gotten change in respect. Step aside, or stand beside me when we carry this into light."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Serge Kobb",
+                "line": "You were never good at pretending you belonged where you weren’t, Kettlebone. But I see a sanctuary seal and a priest’s handwriting, and I hear whispers from the pipes that tell me there are worse things than letting you pass. I didn’t see you, and neither did my lads."
+            },
+            {
+                "speaker": "Professor Nyra Vale",
+                "line": "This copy is enough to prove that someone with the initials O.V. paid to tune the Gate with fulgurite harmonics. The ink hums like a toothache in the skull of the city. We are not yet at the heartseed, but we are on a path that leads to it."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "Then I’ll keep walking, and I’ll carry this ache like a guide rope in a storm. If the Syndicate has put glass fingers on our bones, we’ll make them let go one joint at a time."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "A partial rubbing of a Night-Glass ledger page implicating 'O.V.' in Gate tuning payments."
+        },
+        {
+            "type": "access",
+            "description": "After-hours passphrase for the Archive of Veins (limited, two uses)."
+        },
+        {
+            "type": "reputation",
+            "description": "Standing with The Unentombed (minor)."
+        }
+    ]
+}

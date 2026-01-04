@@ -1,0 +1,61 @@
+{
+    "name": "Lysa",
+    "surname": "Shardhands",
+    "race": "Human (Shard-touched)",
+    "age": 34,
+    "appearance": "A lean woman with slate-blue eyes that catch dusklight, cropped black hair, and a warden’s prismed pauldron worn over a river-stained coat. Pale luminescent freckles dust her forearms.",
+    "character": "Quietly fervent and exacting, she measures words like weights. Compassionate to the vulnerable, implacable toward oath-breakers.",
+    "traits": [
+        "Pious",
+        "Observant",
+        "Resolute",
+        "Protective"
+    ],
+    "skills": [
+        "Lumin-ritual enforcement",
+        "City law and Shard-law",
+        "Interrogation",
+        "Sword and lantern-shield"
+    ],
+    "talents": [
+        "Can distinguish subtle shifts in the Shard’s hum",
+        "Reads lies by breathing cadence",
+        "Steady footing on translucent catwalks"
+    ],
+    "flaws": [
+        "Stubborn once sworn",
+        "Sleeplessness during new moons",
+        "Discomfort in tight, unlit tunnels"
+    ],
+    "dreams": [
+        "Hear the Shard’s ‘true name’ sung openly at Riverwake",
+        "Reconcile civic law and Shard-law without blood",
+        "End the black-market trade in luminous fish"
+    ],
+    "secrets": [
+        "She witnessed the Shard’s hum falter and signed a silence vow",
+        "Once traded a favor to the Night Orchard to stop a riot that would have killed dock children"
+    ],
+    "relations": [
+        {
+            "npc_name": "Neris Aline",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Iven Shadequinch",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Garrin Chainwatch",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sava Inkweft",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Thane Kelvar",
+            "relation_type": "Different goals"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "M7",
+    "title": "The Kiln That Would Not Sing",
+    "quest_giver": "Kelen Prism",
+    "description": "Emberfield Kilns breathe heat like sleeping beasts, their chimneys haloed by fluttering pennants that tell glasswrights how the wind is feeling. Today the choruses have fallen silent in a way that should be impossible, and workers refuse to descend until a blessing is performed and a cause named. Kelen Prism contends that someone has smothered the vents with captured silence, perhaps stolen from the Blue Maw. You know, with a guilt that sticks under your nails, that such silence exists. If the kilns fail, lenses will not ship, docks will empty, and the Court will buy noise at any price.",
+    "objectives": [
+        "Meet Kelen Prism at the Emberfield staging yard.",
+        "Inspect the chimneys and vents for signs of hush-ink residues or bound-silence panes.",
+        "Use the Vent-Wind Flute (if found) to test draw and restore draft rhythm.",
+        "Protect workers while relighting the kiln bells in the correct sequence.",
+        "Gather testimony from a Ledger auditor and a Night Bazaar mule about recent shipments.",
+        "Report the cause to Kelen and decide whether to share proof with Dorn."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Kelen Prism",
+            "line": "The city thinks of our lenses as frozen light, but they are frozen song, too. Someone has put a hand over the kilns' mouths, and it feels like a hand that knows the Maw's weight. I will not let the Ledger take this as an excuse to own every patent we have left. Find me the silence-cork and pull it."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "Silence can bless and silence can kill. If someone carried a sliver of the Maw in a pane, the kilns would choke like a singer in debt. I'll search the vents and listen for where the draft stops being breath and starts being fear. We'll light them again, but we must not burn the city to keep them warm."
+        },
+        {
+            "speaker": "Ledger Auditor (on behalf of Orven Caldris)",
+            "line": "We tally cords of fuel and count bells for ignition, nothing more. If a prototype went missing, our contracts would hum a different tune. Any talk of bound silence sounds like a temple fable crafted to excuse bad maintenance. You will find negligence, not sabotage, and I will find the fines."
+        },
+        {
+            "speaker": "Night Bazaar Mule",
+            "line": "I carried a pane wrapped in river-reed that tasted like winter and quiet. Paid triple, no questions, to deliver it to a side vent at dusk. The lamp above my head didn't cast a shadow while I did it, which is not my kind of miracle. I don't ask names, but the coin smelled like Ledger salt and Artificer oil at once."
+        },
+        {
+            "speaker": "Dorn Rigger",
+            "line": "If you find proof of bound silence, bring it to me before Kelen spins a ring out of it. We can learn without leaping. The kilns must sing, yes, but not if the chorus will set our city's bones humming themselves to dust."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8",
+            "M10"
+        ]
+    },
+    "rewards": [
+        "Vent-Wind Flute (tool; once per day stabilizes a draft or current)",
+        "+1 standing with Hall of Subtle Artifice",
+        "Bundle of Azure Glass offcuts (tradable crafting material)",
+        "Artificer Gate Pass (access to Hall workshops off-hours)"
+    ]
+}

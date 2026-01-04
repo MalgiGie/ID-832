@@ -1,0 +1,68 @@
+{
+    "name": "Asha",
+    "surname": "Heliope",
+    "race": "Kelp-kin",
+    "age": 39,
+    "appearance": "Deep-brown skin freckled with faint bioluminescent specks, sea-green locs bound in kelp ribbon; woven mantle glows softly like tide light.",
+    "character": "Warm and stubborn lightwright-matron; fiercely protective of the mangroves and apprentices; believes light is a form of oath.",
+    "traits": [
+        "compassionate",
+        "stubborn",
+        "devout to craft",
+        "community-focused"
+    ],
+    "skills": [
+        "lumenkelp cultivation",
+        "weaving living lanterns",
+        "ritual procession craft",
+        "sound-damp warding",
+        "herbal poultices"
+    ],
+    "talents": [
+        "coaxes bioluminescence with touch",
+        "navigates night water by scent and sound",
+        "turns crowds with a few glowing gestures"
+    ],
+    "flaws": [
+        "self-righteous",
+        "slow to forgive poachers",
+        "stretches guild stores for charity",
+        "dislikes counting coin"
+    ],
+    "dreams": [
+        "Sanctify lumenworks as tax-immune sacred craft",
+        "Secure the mangrove sanctuaries forever",
+        "Replace crude lamps with living light in every ward"
+    ],
+    "secrets": [
+        "Ordered a controlled ‘dim-out’ to sway a Council vote on reef protections",
+        "Cultivates a hidden kelp strain rumored to cure night-blindness",
+        "Fed a false delivery time to smugglers to protect a novice crew"
+    ],
+    "relations": [
+        {
+            "npc_name": "Tullis Nacrethane",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Tern Quietwake",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mara Vell-Seren",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Oaric Bent",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Sirae Glowhand",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Arno Kest",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

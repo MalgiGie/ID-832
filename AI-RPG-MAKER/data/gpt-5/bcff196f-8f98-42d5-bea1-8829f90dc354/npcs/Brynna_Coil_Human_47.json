@@ -1,0 +1,62 @@
+{
+    "name": "Brynna",
+    "surname": "Coil",
+    "race": "Human",
+    "age": 47,
+    "appearance": "Strong hands stained with indigo and saffron, hair bound in a silk scarf, a lifeband bracelet never removed.",
+    "character": "Protective and patient, speaks softly but threads steel through her words.",
+    "traits": [
+        "meticulous",
+        "maternal",
+        "stubborn"
+    ],
+    "skills": [
+        "weaving and loomcraft",
+        "guild politics",
+        "night-thistle agronomy",
+        "negotiation with Willowwives"
+    ],
+    "talents": [
+        "dreams patterns that later prove useful",
+        "unerring tension sense in threads"
+    ],
+    "flaws": [
+        "secretive about seed stores",
+        "mildly paranoid",
+        "slow to admit mistakes"
+    ],
+    "dreams": [
+        "breed a moth line proof against blight",
+        "lift small looms out of debt webs"
+    ],
+    "secrets": [
+        "maintains a hidden seed-vault under the Cathedral",
+        "signed hush-contracts that strain Willowwife trust"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ossa Wreath",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Arelon Vale",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sera Verrin",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Selde Karst",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Yael Emberkeel",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Irevan Glassmere",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

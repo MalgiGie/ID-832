@@ -1,0 +1,58 @@
+{
+    "name": "Tira",
+    "surname": "Selenitna",
+    "race": "półelfka",
+    "age": 19,
+    "appearance": "Smukła, włosy o mlecznym połysku selenitu; uszy delikatnie spiczaste; skórzany fartuch w przypaleniach, oczy błyszczą ciekawością.",
+    "character": "Ciekawska i nieśmiała wobec tłumów, odważna przy piecu; wierzy, że szkło potrafi śpiewać.",
+    "traits": [
+        "wrażliwa",
+        "pracowita",
+        "marzycielska",
+        "posłuszna mistrzom, lecz z pytaniami"
+    ],
+    "skills": [
+        "szklarstwo piecowe",
+        "słuchanie kamienia",
+        "rysunek techniczny",
+        "bieg przez tarasy z wiadomościami"
+    ],
+    "talents": [
+        "słyszy rezonans selenitu",
+        "czuje oddech pieców jak metronom"
+    ],
+    "flaws": [
+        "naiwna",
+        "zapomina o jedzeniu przy pracy"
+    ],
+    "dreams": [
+        "stworzyć szkło, które śpiewa i leczy",
+        "uwolnić się od patronów ekonomicznych"
+    ],
+    "secrets": [
+        "Konfederacja próbowała ją kupić za stypendium i mieszkanie",
+        "podsłuchała rozmowę o tajnym skarbcu w Wieży Grot"
+    ],
+    "relations": [
+        {
+            "npc_name": "Delerion Ognikowy",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Lima Fal",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Vasko Danter",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Aiona Pustodębna",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Orla Krawężna",
+            "relation_type": "neutral"
+        }
+    ]
+}

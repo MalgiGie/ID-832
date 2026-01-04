@@ -1,0 +1,52 @@
+{
+    "id": "M8",
+    "title": "Bones in the Sand",
+    "quest_giver": "Safra Ninebridges",
+    "description": "The stabilized gates will not hold unless their bearing-bones are reinforced with denser ossature than Marrowgate has on hand. Waymother Safra Ninebridges of the Nadiri Caravan Court agrees to guide Iriel into the Ossuary Dunes where pre-wyrm fragments sometimes rise after storms. The dunes sing like an empty cathedral, and bone squalls strip patience as easily as skin. Safra’s bridge-feast hospitality disarms and discloses: the Riverwardens’ austerity has starved Nadiri contracts and tightened the Salt-Tithe to a choking thread. To secure a fragment, Iriel must choose between convincing the Nadiri to trust the city’s writs or offering a new guarantee backed by the Loom’s reluctant writ and Iriel’s own name. The Hollow Pilgrims prowl the lee of femur-spires, whispering they want the wyrm awake to make all debts moot.",
+    "objectives": [
+        "Negotiate with Safra Ninebridges for passage and aid in retrieving a pre-wyrm ossature fragment.",
+        "Survive a bone squall and navigate subducting sinkfields to a vent where denser bone protrudes.",
+        "Drive off or evade the Hollow Pilgrims without breaking bearing-bones or violating taboos.",
+        "Secure the ossature fragment and agree terms for Nadiri compensation."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Safra Ninebridges",
+            "line": "You come with the city’s need on your tongue and the city’s writ in your satchel, and I like neither taste in a drought. We guided your grandparents through these bones when the Ash Rains were a fresh story, and now your Riverwardens lecture us on tolls as if tides were theirs to appoint. Share my salt and we will talk. Promise me a fair weight and a fair hearing, and I will show you where the old giants still shrug in their sleep."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "The gate that takes your keels takes our food, and the bearing that fails will drown the market where we both barter. I cannot undo a tithe with a sentence, but I can carry your grievance back wrapped in the Council’s seal and my own promise to speak until someone more powerful hears. Help me bring a bone that does not break, and I will help you bend a custom that has grown cruel."
+        },
+        {
+            "speaker": "Hollow Pilgrim Zealot",
+            "line": "Wake the wyrm and let the city tumble into its real shape. Debts are a lie; names are a leash; gates are a wound held shut by cowards and tithes. Lay down your cords and we will show you where the skull sings like a bell when you hit it with a hammer."
+        },
+        {
+            "speaker": "Safra Ninebridges",
+            "line": "Step back, little priest of holes. We build bridges where there is nothing; your faith digs. This traveler walks under my salt, and under my salt none are taken by wind or words. Iriel, take the shard with both hands and do not look at its shadows. The dunes sing to the slow listener and bury the fast one."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": {
+        "experience": 650,
+        "items": [
+            "Pre-Wyrm Bearing Fragment",
+            "Nadiri Tide-Name Token"
+        ],
+        "currency": {
+            "chits": 22
+        },
+        "reputation": {
+            "Nadiri Caravan Court": 3,
+            "Riverwardens of the No Echo": 1
+        }
+    }
+}

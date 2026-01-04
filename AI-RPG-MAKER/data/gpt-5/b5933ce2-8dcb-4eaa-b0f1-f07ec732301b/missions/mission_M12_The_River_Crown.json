@@ -1,0 +1,51 @@
+{
+    "id": "M12",
+    "title": "The River Crown",
+    "quest_giver": "Mereth Tydel",
+    "description": "Dawn opens like a wound over copper spires as the Luminous Weir, the Temple barges, and the marsh skiffs converge where Tess and Vail clasp hands. The resonance ring hums; the Charterstone tile warms; clarity sap glows like morning in a vial; and the reliquary holds a city’s remembered mercy. The unknown note now has a place to rest, carried by dwarven craft and tempered by restraint, and the river waits to see if Vyratha will pay a king-price or offer a different sovereignty. Quill Vess and Mereth Tydel stand together, ready to bind engineering to piety. Aren must choose how the city will remember this day: as a coronation, a covenant, or a quiet refusal that stills catastrophe at the cost of himself.",
+    "objectives": [
+        "Assemble the ritual circle at the Luminous Weir using the resonance ring, Charterstone tile, clarity sap, and the recovered legal name as a spoken mercy.",
+        "Lead a call-and-response that includes Weir choirs, Temple singers, Reedbound pilots, and dwarven throats, harmonizing the unknown note.",
+        "Offer an alternative to the king-price by pledging the Rotating Conclave’s charter and the city’s name as the civic sovereign subject to renewal each flood-cycle.",
+        "If the river demands more, choose whether to lay your true name into the rite as a bridge for the memory-river without enthroning a king."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Mereth Tydel",
+            "lines": "A city is a crown if it remembers what it owes itself. We can bind this day to a promise that renews like tides rather than rests like a stone on a throat. I will speak the mercy, and you, Aren, will speak the boundary. Do not offer more than the river needs, and do not hoard what it asks for out of fear. Fear drowns faster than pride."
+        },
+        {
+            "speaker": "Quill Vess",
+            "lines": "I will sing math until it listens like prayer, and for once I think even the numbers want to be kind. If the river asks for a king, we will give it a city that elects its own, again and again, by flood and by famine. If it asks for a name, I cannot ask you to lay yours down, not after what the Moonbridge has already taken. Yet I will not stop you if that is the only honest bridge left."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "I have carried children, laws, and stones through water that wanted all three. Today I will carry a note. We will call our city by its oldest name and bind it to its best selves, not to a crown that can be stolen. If the river still wants a name, it can borrow mine for as long as it needs to remember we keep each other alive."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": {
+        "currency": 50,
+        "items": [
+            "Sedge-Cutter Glaive, Resonant (attuned to calm crowds and currents when planted)",
+            "Conclave Charter Seal (formal authority to witness and mediate river rites)"
+        ],
+        "reputation": {
+            "Temple of the Nine Tides": 4,
+            "Order of the Luminous Weir": 4,
+            "The Reedbound": 4,
+            "Seven-Kettle Syndic": 2,
+            "Rotating Conclave": 3
+        },
+        "access": [
+            "Recognized Pilot-Rights for Reedbound shrines in Conclave ledgers",
+            "Standing invitation to the Weir’s gatehouse councils",
+            "A private shelf in the Concordant Archives for personal memories"
+        ]
+    }
+}

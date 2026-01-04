@@ -1,0 +1,67 @@
+{
+    "name": "Thorek",
+    "surname": "Brimvauld",
+    "race": "Dwarf",
+    "age": 98,
+    "appearance": "Iron-red beard braided with forge-salt crystals, burn-scarred forearms, ringmail apron, and eyes like banked coals.",
+    "character": "Proud and legalistic; he negotiates like a smith tempers steel—heat, quench, hammer, repeat.",
+    "traits": [
+        "Blunt",
+        "Tradition-bound",
+        "Relentless",
+        "Shrewd"
+    ],
+    "skills": [
+        "Contract negotiation",
+        "Metallurgy assessment",
+        "Caravan command",
+        "Threat appraisal"
+    ],
+    "talents": [
+        "Hears false temper in steel",
+        "Recites Seven-Kettle law from memory",
+        "Drinks boiling tea without a flinch"
+    ],
+    "flaws": [
+        "Inflexible",
+        "Holds grudges",
+        "Disdains shadow deals",
+        "Humorless in public"
+    ],
+    "dreams": [
+        "Stop star-metal thefts through enforceable pacts",
+        "Bind Vyratha in a fair iron-for-grain charter",
+        "Leave a legacy treaty sung by the kettles themselves"
+    ],
+    "secrets": [
+        "Once smuggled forge-salt via the Night Ledger to frame a rival",
+        "Keeps a moonmoss shard to remember a dead daughter’s laugh",
+        "Privately admires Brina Coil’s ethics"
+    ],
+    "relations": [
+        {
+            "npc_name": "Brina Coil",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Calra Orun",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Iren Vask",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Yerin Pale",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Mereth Tydel",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Quill Vess",
+            "relation_type": "Different goals"
+        }
+    ]
+}

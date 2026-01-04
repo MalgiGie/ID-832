@@ -1,0 +1,71 @@
+{
+    "name": "Pika",
+    "surname": "Jinn",
+    "race": "Gnome",
+    "age": 34,
+    "appearance": "Compact frame, cobalt-tinted fingertips, and a satchel of chime-plates that jingle off-tempo.",
+    "character": "Bright-eyed and endlessly curious, with a manic focus when an idea bites.",
+    "traits": [
+        "Inventive",
+        "Empathetic in bursts",
+        "Absent-minded",
+        "Thrill-seeker",
+        "Idealistic"
+    ],
+    "skills": [
+        "Acoustics",
+        "Field experimentation",
+        "Small automata",
+        "Note transcription",
+        "Workshop improvisation"
+    ],
+    "talents": [
+        "Entrains machines with humming alone",
+        "Maps echo-sickness patterns across districts"
+    ],
+    "flaws": [
+        "Reckless tests",
+        "Poor sleep habits",
+        "Bridles under authority"
+    ],
+    "dreams": [
+        "Tune the Loom to heal instead of harm",
+        "Prove resonance therapies can lift oath-lashings safely",
+        "Publish a grand harmony of river, stone, and sky"
+    ],
+    "secrets": [
+        "Tested siren choirs beneath the Drowned Theater to loosen vow lashings temporarily",
+        "Quietly funded by Orin Thalen for risky prototypes",
+        "Keeps notes on Embersleeve victims to build protections"
+    ],
+    "relations": [
+        {
+            "npc_name": "Magister Vell",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Orin Thalen",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sere Aven",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Asha Greyling",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Bellkeeper Dorn",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Tavi Mireline",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

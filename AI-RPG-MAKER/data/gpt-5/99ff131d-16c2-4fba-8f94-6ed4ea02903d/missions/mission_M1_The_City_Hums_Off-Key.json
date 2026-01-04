@@ -1,0 +1,38 @@
+{
+    "id": "M1",
+    "title": "The City Hums Off-Key",
+    "quest_giver": "Meret Hal",
+    "description": "At noon, the Heliolith’s hum falters like a singer swallowing grief mid-phrase. Bronze scaffolds tremble with a vibration only the worry-worn notice, and the glass-veins in the streets glow a heartbeat late. Arch-Condensor Meret Hal summons Tallea to the Sun-Ring galleries, where the Spire’s pale light needles through motes of condenser dust. Meret’s face is the face of a steward who counts breaths as currency, tired and unblinking. The Aquifer Collegium whispers of salt creep, the Veil Covenant chants of a missing note, and the Ledger counts the minutes like coin. Tallea feels it as a pressure at the edges of her scarred ear: the city is out of tune, and the faultline runs through engineering and rite both. To begin, the hum must be heard—truly heard—without the clamor of arguments crowding it.",
+    "objectives": [
+        "Use the Resonant Calcite Fork to map the Heliolith’s noon hum from three gallery tiers.",
+        "Inspect two Cascadrome condenser frames for harmonic fatigue and salt creep.",
+        "Record wind-lull patterns on the Fog-Silk Ribbon Kite from the Sun-Ring parapet.",
+        "Deliver a timed report to Meret Hal at the Cascadrome mid-tier pavilion."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Meret Hal folds her hands around a cup of lukewarm condenser tea. \"You hear it, don’t you, Tallea? Not just the dimming, but the stagger in the breath. The Heliolith used to land at noon like a fisher to the knot, and now it misses. I can throw crews at frames until our palms blister and we will not catch a note that wandered out of reach. Go listen for me, but not as a clerk and not as a priestess. Go as the only kind of listener the city still trusts: one who has disappointed both sides and is still asked back.\"",
+        "hero_reply": "Tallea rubs the blue ink-stain at her thumb. \"I hear it, and it hurts in a way I cannot show a ledger. If it’s harmonic fatigue, the Fork will sing in the fractures. If it’s a missing note, the kite will net the lull. Either way, I’ll bring you something I can stand behind in the Courts. I won’t sell a comfort to you or to the Covenant just to make the noise stop.\"",
+        "npc_interjections": [
+            {
+                "name": "Thren Basso",
+                "line": "\"If the hum falters, chains fail,\" the Marshal rumbles from the doorway. \"I can justify closing three lifts on safety grounds tonight, but that buys us angry markets, not time. Bring us a reason not to pull the bells.\""
+            },
+            {
+                "name": "Ayo Solace",
+                "line": "Ayo’s voice is cool and fragrant as her oils. \"If you find salt creep at the Cascadrome frames, I’ll mix you a treatment that won’t slick the routes. Tell me the pitch of the squeal and I can tune the wick. But I won’t be your scapegoat for runoff this season.\""
+            }
+        ],
+        "ambient": "The Heliolith’s light bleeds across the gallery tiles with a slow pulse, and somewhere deep in the bronze, a faint ticking like cooled glass settling keeps time with Tallea’s breath."
+    },
+    "connections": {
+        "previous": null,
+        "next": "M2",
+        "related": []
+    },
+    "rewards": [
+        "Experience: 300",
+        "Reputation (Aquifer Collegium): +10",
+        "Solace Enzyme Kit refills (x2)",
+        "Access pass to Cascadrome mid-tier after hours"
+    ]
+}

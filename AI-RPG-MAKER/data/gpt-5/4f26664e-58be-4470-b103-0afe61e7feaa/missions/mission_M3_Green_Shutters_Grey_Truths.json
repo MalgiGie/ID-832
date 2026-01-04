@@ -1,0 +1,52 @@
+{
+    "id": "M3",
+    "title": "Green Shutters, Grey Truths",
+    "quest_giver": "Tamsin Veil",
+    "description": "Phosphor House breathes in lamp-shutter whispers. First Wick Tamsin Veil studies the copied etchings and grows very still, the green lamplight painting thoughtful shadows in the creases of her mask. The pattern is authentic, an old evacuation cadence from the Star-Wasp Summer that should not be active—and never aimed at the gates. Cor Yune threads in from the whisper-tubes with a bundle of illicit shutter logs that speak of a ghost operator piggybacking on sanctioned signals. The path winds toward the Scribehouse of the Loom of Names, whose cords move everything the city is willing to remember and forget. Tamsin asks Iriel to carry a truce-light to Archivist Leth Morrow and petition access to signal audit ledgers, a civil risk bordering on sacrilege.",
+    "objectives": [
+        "Deliver the green-shutter truce signal to the Scribehouse of the Loom of Names.",
+        "Negotiate with Archivist Leth Morrow for access to historical shutter codes and audit logs.",
+        "Assist Cor Yune in retrieving a sealed bundle of shutter logs from a restricted annex without triggering alarms.",
+        "Return to Phosphor House with either Morrow’s writ or clandestine copies."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tamsin Veil",
+            "line": "The pattern is ours, but the hand that played it is not. This cadence moved people to safety once when the sky hummed with wasps and glass, and I swore we would never sound it again without need. If someone threaded this into a gate bearing, they wanted silence to break in a way no ear could claim. Carry my green and ask Leth Morrow to open his ledgers to me. He will refuse, and then you will ask again with the patience of stone and the tact of a whisper."
+        },
+        {
+            "speaker": "Cor Yune",
+            "line": "We follow reflections, not voices, and the Scribehouse is all voice and cord. There’s a side chute in the annex that the Loom pretends does not exist; it’s lined in ink-stone, and you’ll smell old rain down there even in drought. If we must borrow the truth to keep the city honest, I’ll put my mask on backward and call it a dance."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "Leth Morrow keeps a lien on my name; he can tug and I must bend. I’ll carry your truce-light and wear honesty like armor, but know that every question I ask him pulls on a thread wrapped around my own throat. If there is a way to ask that leaves my breath my own, I will take it. If not, I’ll trade some comfort for clarity."
+        },
+        {
+            "speaker": "Tamsin Veil",
+            "line": "You will go by the front door with the green shutter high, and you will walk out by whatever door truth opens. If Morrow tries to bind your tongue with a cord you did not consent to, speak my name in the reflection of his inkstone bowl. The lamp will hear you, and if the lamp hears you, so will I."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": {
+        "experience": 380,
+        "items": [
+            "Grey Lantern Cipher Pin",
+            "Truce-Light Shutter Plate"
+        ],
+        "currency": {
+            "chits": 20
+        },
+        "reputation": {
+            "Grey Lanterns": 2,
+            "Loom of Names": 1
+        }
+    }
+}

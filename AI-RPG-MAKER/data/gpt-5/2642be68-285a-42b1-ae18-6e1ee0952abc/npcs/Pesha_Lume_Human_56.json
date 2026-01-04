@@ -1,0 +1,56 @@
+{
+    "name": "Pesha",
+    "surname": "Lume",
+    "race": "Human",
+    "age": 56,
+    "appearance": "Crown of white hair, eyes like smoke, faint moth-bites on her wrists and sleeves perfumed with wax and herbs.",
+    "character": "Warm with sly humor; keeps other people's memories safer than her own.",
+    "traits": [
+        "nurturing",
+        "patient",
+        "discreet"
+    ],
+    "skills": [
+        "moth-breeding",
+        "waxworks and seal-candles",
+        "herbalism",
+        "oral history"
+    ],
+    "talents": [
+        "deciphers a person's scent-trail of mood",
+        "calms angry rooms with ritual cadence"
+    ],
+    "flaws": [
+        "refuses to forgive arsonists",
+        "aching knees limit travel",
+        "hoards secrets too long"
+    ],
+    "dreams": [
+        "train three successors before winter's end",
+        "weave a citywide grief rite worthy of the Red Flood",
+        "broker a one-season truce between Wardens and Compact"
+    ],
+    "secrets": [
+        "guards a living star-chart that redraws itself when unobserved",
+        "once opened a hidden door in the House of Quiet Wings and will not say how",
+        "trades a dream each month with Abbess Rinna Sel"
+    ],
+    "relations": [
+        {
+            "npc_name": "Nelai Pruen",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Aren Mir",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Mira Cael",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orel Vaska",
+            "relation_type": "Friendship"
+        }
+    ]
+}

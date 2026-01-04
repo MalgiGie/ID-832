@@ -1,0 +1,73 @@
+{
+    "name": "Jilai",
+    "surname": "Sunquiet",
+    "race": "Human",
+    "age": 38,
+    "appearance": "Warm brown skin, saffron scarves, brass token at the throat, and a bell-charm bracelet that chimes soft prescriptions.",
+    "character": "Compassion wedded to logistics; she counts lives saved the way others count coin, and her ledgers are open to any who ask.",
+    "traits": [
+        "Kind",
+        "Organized",
+        "Brave",
+        "Incorruptible"
+    ],
+    "skills": [
+        "Medicine",
+        "Crisis management",
+        "Public speaking",
+        "Supply coordination",
+        "Diagnostics"
+    ],
+    "talents": [
+        "Senses outbreaks a day early",
+        "Calming presence that lowers tempers",
+        "Composes bell-code messages on the fly"
+    ],
+    "flaws": [
+        "Self-sacrificing to a fault",
+        "Poor personal finances",
+        "Naive about some conspiracies",
+        "Chronically exhausted"
+    ],
+    "dreams": [
+        "Universal clinics on all banks",
+        "Debt relief for the sick",
+        "A winter without frostbite deaths",
+        "A truce with the Night Ledger that spares the poor"
+    ],
+    "secrets": [
+        "Carries a river-fever that never breaks",
+        "Shelters witnesses in the morgue safehouse",
+        "Forged a tithe chit once to save a mother and child"
+    ],
+    "relations": [
+        {
+            "npc_name": "Mereth Tydel",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Calra Orun",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Yerin Pale",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Brina Coil",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sava Deren",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sila Jor",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Ollo Fen",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

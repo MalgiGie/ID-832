@@ -1,0 +1,90 @@
+{
+    "id": "M02",
+    "title": "The Ghost-Flood of Chainreach",
+    "quest_giver": {
+        "name": "Gantrix Pell",
+        "affiliation": "Tidewrights’ Syndicate"
+    },
+    "description": "At Tide-Hinge Bastion, the iron-boned towers hummed like a throat clearing in a storm, and green-blue lanterns flickered along the gantries in signal songs Neris could feel through boot-soles. The humming was not merely sound but a pressure that pressed against the teeth of the hinge, a half-remembered refrain that made the basalt vibrate as if it were a harp strung with old tides. Spray rose in fine veils that caught lantern fire and turned it into color-lace, and somewhere below the spillway the river spoke in a language of suction and release that only pilots and engineers truly believed in. Signal-Mistress Gantrix Pell had summoned the archer to a rehearsal that was no rehearsal: a ghost-flood replaying the Night of the Unmoored in shivering echoes that struck the walkways in time with a heartbeat not quite their own. One hinge-tooth refused its choreography and murmured as if a moon-flame should answer, a trick of resonance that made glass sweat and the counterweights whisper of slack and pull. Men and women in ash-veils from the Wardens watched warily, their masks dark as shut eyes, while Tidewrights argued timing with clipped syllables and measured hands, and the River-Marrows scowled from the spillway edge as if counting every coin that drift lost in the ritual delay. The Bastion itself felt awake, old as bones and expecting a hand that knew cords as much as bowstrings, its gantries like ribs and its signal lanterns like a field of patient stars waiting for a single right note. Neris’s fingers itched for line and hook, and the memory of saving a barge at Chainreach skittered along the skin like a ghost-wake, promising that the right cord, pulled at the right moment, could stitch a city back together. Above, a Conservatory test lens glimmered within its brass cradle like a captive drop of day, hungry to measure the hum as light bent around it; below, the river leaned in as if listening for an apology. Tonight, cause and craft, oath and echo, would learn which of them ruled the hinges when memory came to rehearse disaster.",
+    "objectives": [
+        "Climb the Bastion’s gantries and inspect the silent hinge-tooth that hums off-schedule.",
+        "Use a moon-resin tincture on a test lamp to answer the tooth’s hum without causing a full closure.",
+        "Assist the signal crew in triangulating an echo that is feeding false timing into the ghost-flood simulation.",
+        "Secure a Conservatory test lens against stray spray and return it intact after readings.",
+        "Report whether the hum is mechanical fault, sabotage, or old song."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Gantrix Pell",
+            "lines": "The Bastion remembers better than most of us, and tonight it is remembering hard enough to bruise. That tooth will not rise on cue, and every time it sulks, the ghost-flood slaps our ankles like a warning from a long night we swore we would never see again. I have crews who can hit marks blindfolded, and engineers who can count tide-beats in their sleep, but none who can climb the Bastion’s ribs with a listener’s patience and a bow-hand’s nerve. You run lines where ladders balk and take orders from weather the way others take orders from law, so I want your ears on that humming tooth and your eyes on the lens. If the hinge seeks a moon’s answer, we will answer it with a test lamp and tincture and keep the Bastion from mistaking ritual for command; if it seeks mischief, we will string that saboteur like a bad chord across the gallery for all to hear. Do this quickly and cleanly, Neris Quay, and I will owe you more than a mark on a token; I will owe you time, and time is the only currency that spends in a flood."
+        },
+        {
+            "speaker": "Orren Halv",
+            "lines": "We are engineers, not priests of phantoms, and I despise wasting a crew’s nerve on superstitions packaged as drills, but tonight the math rings like a cracked bell. The counterweights echo a phrase I do not like, one that does not exist in our diagrams yet insists on being counted all the same. If the tooth seeks moon-flame, it seeks ritual, and the moment we let ritual into gears we invite every cord-knotter in the city to call our work a sermon. Prove me wrong with a cause I can bolt, or prove me right with a fault I can weld, but do not bring me poetry and call it a solution. If there is sabotage, I will have the saboteur itemized, costed, and made part of our maintenance budget in the form of their labor until the river forgives us. And if this is an old song bleeding through from the Night of the Unmoored, we will learn how to damp it without breaking the choir that keeps the city above water."
+        },
+        {
+            "speaker": "Rull Fen",
+            "lines": "What bites us isn’t your gears but the law that lets you shut our boats out while you listen to ghosts wearing lantern skins. A rehearsal that drowns trade is still a drowning, and tonight the grain waits in hulls that sweat and sour while your counterweights dance. You want cooperation, you keep the spillway breathing and you give me timings that a pilot can stake a life on, not a whispered maybe in green-blue. Poke your tooth and get it over with, archer, because every moment you stretch is a rope going taut around someone’s throat downstream. I’ve seen what happens when your schedules slip and the river pretends it remembers the old gates; it eats small crews first and then eats larger ones to finish the meal. Bring me an answer with the Dawn Bell, or I’ll drag an answer out of the river myself and it won’t be polite to your Bastion."
+        },
+        {
+            "speaker": "Pel Korr",
+            "lines": "We lent a lens to measure the hum as it breaks the light in the mist, not to let spray turn it into dull gravel that reflects nothing true. Handle it like a promise you cannot quite keep, because glass can smell hesitation and will punish it with spider-cracks you won’t see until they turn a reading to lies. Return it without a scratch and I might admit the Bastion can sing, though I reserve the right to call it an orchestra of pipes and not a choir of saints. Crack it and I will teach your shadow to arrive late and your reflection to argue, and then every signal you flash for the rest of your life will wander half a sentence behind your intention. Strap the lens cradle tight, use the veil-shields on the downwind bends, and remember that light, like water, can drown when force-fed through a narrow gate. If you do this well, I will owe your eyes a favor, and favors are the only lenses that will see for you when the city turns out its lamps."
+        },
+        {
+            "speaker": "Kael Ibrin",
+            "lines": "The ash-veils aren’t for show; the river throws off breath that remembers ruin, and you do not want that memory nesting in your lungs. Basalt teeth humming means the old heat is awake, the kind that makes lava remember it once could run, and we prefer our stones forgetful. Keep your crews masked on the lower gantries and keep your arguments short above the spillway, because wind turns here and carries curses the way it carries spray. The Wardens are not here to bless your hinge, Syndic Halv; we are here to bring everyone home with pulses steady and eyes clear, and that means ending this ghost’s song before it finds a chorus. Give the archer the room they need, and if the tooth asks for moon, let it sip, not swallow; we’ve seen what happens when a mouth learns it likes flame."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Sing the Hinge with Moon-Answer",
+            "text": "Neris climbs to the balking tooth with the moon-resin tincture cradled like a spark in a shell, the Bastion’s breath thrumming through boots and bones. At the proper tide-beat Neris uncaps the vial, paints the lip of a test lamp, and cups it to the humming metal so the flame can answer without commanding a closure. The bow-hand keeps time by tapping the corded bracer, and the archer hums a low counter-note learned in Pilgrim’s Stair arcades where water taught patience to stone. Lantern mist turns pearl-white for a heartbeat and the tooth’s murmur changes from petulance to recognition, as a child recognizing a lullaby. Signal crews hold nerves taut as line, and Pel Korr’s lens records the way light itself flinches when an old song is named. The Wardens murmur behind their veils, and even Orren Halv’s shoulders loosen by a finger-width as math and ritual nod to each other without shaking hands.",
+            "outcome": "The tooth rises to rehearsal mark and returns on cue three cycles in a row, and the ghost-flood’s slaps soften to a tired wash that no longer trips the crews. Pel Korr’s lens captures a repeatable signature that proves the hum is an old hinge-song echo, not present sabotage, and the data lets the Syndicate write a damper schedule that does not require ritual beyond the test lamp. Gantrix Pell grants Neris an on-the-spot Bastion token and promises a standing place on her signal lines when storms stack, while Kael Ibrin notes the restraint and extends Wardens’ escort privileges on ash days if Neris calls. Rull Fen grudgingly admits the rehearsal can end before the grain sours and signals his pilots that the river is theirs again at the next bell, though he spits a curse for every coin lost to memory. The Order of Knotted Light hears of the moon-answer and sends a polite, pointed inquiry about who is singing to hinges without cord-witness, and the rumor seeds future politics even as the Bastion sleeps easier tonight."
+        },
+        {
+            "id": "C2",
+            "title": "Wrench, Measure, and Unmask a Mechanical Fault",
+            "text": "Neris waves off the ritual and demands a silence the size of a tide between beats, then crouches where the counterweight’s path narrows and listens the way a pilot listens for rock beneath dark water. Chalk marks bloom on black iron, caliper-bites measure the lie in a tooth’s travel, and a line-arrow with a felted head becomes a test probe that can taste vibration without cutting skin. The archer signals a half-hold, then a reverse, and the crews walk the weights backward until a hidden wear-groove reveals a tiny burr whose chatter mimics a moon-hum when the load is at a particular temperature. A secondary resonance answers from a hollow pylon—one of the Bastion’s basalt bones that the Syndicate swore was solid—and the echo feeds the false timing like a boy whistling down a well. Pel Korr winces as the lens catches grit-spark, but Neris’s veil and careful angle keep the glass from drinking trouble, and the readings turn from poetry to problem. Orren Halv’s face changes the way a lock changes when the right key turns: not softer, but certain.",
+            "outcome": "The tooth’s burr is filed, the groove is shimmed, and the hollow pylon is vented with a quick-drilled relief hole that bleeds the captive echo into harmless wind, proving the hum a mechanical fault magnified by geometry and heat. The ghost-flood rehearsal concludes with clean marks and no need for moon-answers, and Gantrix Pell marks the fault into the maintenance catechism so no hinge-tooth will sing that lie again. Orren Halv publicly thanks the crew and privately thanks Neris with a notation that will become a technical favor when a vote runs close, and he pointedly remarks that sermons are for stair-cliffs, not for sluices. Rull Fen is not delighted but he is satisfied, because the river returns to trade on a schedule that can be printed and hung on a dock-post, and his pilots do not have to explain to their wives why a hymn ate their wages. The Order glowers vaguely at nobody in particular, and a few Basilica partisans whisper that the Syndicate will use this to argue against cord-vetoes on flood-law, but for now the hinges rest as machines, and the city’s sleep is earned metal-fatigue instead of haunted memory."
+        },
+        {
+            "id": "C3",
+            "title": "Mirror-Hunt the Echo and Expose a Hidden Panel",
+            "text": "Neris partners with Pel Korr to turn the Conservatory lens into a hunter’s eye, mapping the hum’s scatter through mist like tracking an invisible quarry by broken light. Mirror-codes flash between gantries, and the archer’s palm-sized signal mirror completes the triangle with a Rookery quickhand on a roofline across Chainreach, stitching beams into a net that can catch an echo. The pattern resolves not in the hinge-tooth at all but in a slant panel tucked deep in a maintenance throat—a polished shard fixed where only a rat or a rumor would fit, reflecting timing back into the counterweight drum. The shard wears a smear of dye-proof resin that smells like the Dyers’ Spiral and a binding knot scored into its backing that looks like a Rookery registry number cut one thread short. Gantrix Pell snarls like rope under load, and Orren Halv’s pen is in his hand before he knows he’s drawn it, writing names in air none of them can afford to speak aloud. The Wardens fan out to keep hands honest while Pel Korr’s pupils pinch down to pinpricks of satisfaction at the purity of the caught reflection.",
+            "outcome": "The shard is lifted with a cloth-claw and sealed in a lens-case, the echo dies, and the tooth’s timing returns as if a stone were lifted from its chest. The signature smear of dye and the nearly-right registry knot point to a faction war spilling into steel: either a Rookery freelancer hired through the Saffron Compact, or a dock-route blackmail gone feral, and the evidence will buy leverage for someone when lamps are lit in the Hall. Gantrix Pell owes Neris an unspoken debt for not blurting the accusation in front of crews, and she pays it by quietly clearing the archer for gantry access even when the Bastion shutters its ribs. Thay Nerr learns within the hour that a mirror-panel was taken from a throat he thought private and sends Neris a rook-feather with no message, which is as close as the Rookery comes to a warning; the next time a bench auction runs hot, a seat will not be saved. Rull Fen revels in the proof that delays were politics, not river, and for a week the Marrows’ pilots spit over their left shoulders every time they pass a mirrored surface, but the schedule returns and the grain breathes, and the city files another secret in a drawer that will not stay closed."
+        },
+        {
+            "id": "C4",
+            "title": "Lay a Trap with False Signals to Snare a Saboteur",
+            "text": "Neris whispers with Gantrix Pell and orders a quiet reshuffle, setting a rehearsal in motion one bell off the printed plan while the visible signals say otherwise. A decoy test lamp burns moon-pale on a low catwalk while the real lens rides high and dry, and a pair of rook-kites circle like idle birds too bored to matter. The archer knots a rumor into the Rookery bench by letting a handler overhear a complaint about how easy the Bastion’s throat locks are, then plants a soft-footed crew where a hand might reach for a panel or a cord. The ghost-flood’s hum climbs a half-step, holds, and then someone’s patience breaks: a figure in dye-proof gray and dockman boots slips under the rail with a mirror-shard in hand just as the false Red Gale flickers—a signal that should freeze the bones of any honest crew. The trap closes with a hiss of veil-cloth and a click of climbing claws, and when the stranger is hauled into light their mask is a Parliament guard’s discard fitted to a Marrow’s jawline, a mismatched uniform as carefully chosen as a lie.",
+            "outcome": "The saboteur sings a practiced song about training and drills and miscommunication, but the shard and the lamp-scorch on their gloves tell a truer story, and the Wardens bind them with soot-cords while their heart slows from panic. Under questioning, they cough up a chain of middlemen that smells of the Saffron Ledger Exchange’s back galleries and a debt bought and sold too many times to leave a clean signature, confirming sabotage commissioned to create profitable chaos on flood-insurance bets. The Bastion’s name is cleared for the night, the hinge-tooth’s timing returns when the planted reflector is retrieved, and Orren Halv writes a calm, devastating memo to the Parliament benches about the cost of speculation at the river’s throat. Rull Fen’s temper snaps and then returns like a thrown rope when he sees the boots on the saboteur and recognizes how easily his guild could be framed by purchased leather; he leaves with a warning but no grudge for the archer. The trap buys Neris credibility with the Syndicate at the cost of drawing the Compact’s attention, and somewhere in Dyers’ Spiral a ledger is adjusted to account for a name that now has to be paid in favors rather than coins."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M01"
+        ],
+        "next": [
+            "M03"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Document",
+            "description": "Signal-lantern codebook excerpt: Red Gale clarifications, annotated with Gantrix Pell’s cadence marks and safe-override footnotes."
+        },
+        {
+            "type": "Access",
+            "description": "Bastion access token stamped with Gantrix Pell’s mark, granting restricted gantry passage during drills and storm watches."
+        },
+        {
+            "type": "Equipment",
+            "description": "Oiled grip gloves for wet basalt work, palm-scribed with micro-grooves that shed spray and keep the bow-hand sure."
+        },
+        {
+            "type": "Reputation",
+            "description": "Tidewrights’ Syndicate favor: a technical debt recorded by Gantrix Pell, redeemable for assistance or testimony on hinge matters."
+        }
+    ]
+}

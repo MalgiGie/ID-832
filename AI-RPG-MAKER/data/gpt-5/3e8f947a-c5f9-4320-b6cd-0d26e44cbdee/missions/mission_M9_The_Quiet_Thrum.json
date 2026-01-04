@@ -1,0 +1,79 @@
+{
+    "id": "M9",
+    "title": "The Quiet Thrum",
+    "quest_giver": "Isha Velroon",
+    "description": "On the day of the Quiet Thrum, Marrowhold holds its breath, even the hawkers in the Cage Market mouthing prices without sound. The Resonant Gate’s low note stretches like a shadow across noon. In the Temple, Isha Velroon prepares a rite seldom performed, designed to cool a city’s temper while storms pass by a hair’s width from panic. Yet an Under-Sun hymn has spread in secret, and mirrors refuse to reflect those who sing it. Talekan Yss appears with a warning, and a splinter of the Under-Sun cult tries to thread their heresy into the rite, aiming to dim the Gate’s truth and amplify the false key. Beneath the floorboards lies a subsonic passage that opens to a chord only the careful and the faithful can play. Rogan must keep the rite intact, unmask the hymn, and retrieve a bone sliver that hums with the heartseed’s own slow turn.",
+    "objectives": [
+        "Guard the Quiet Thrum rite in the Temple of the Hollow Sun.",
+        "Identify and isolate Under-Sun singers before they pollute the rites.",
+        "Descend the subsonic passage and locate the humming bone sliver linked to the heartseed.",
+        "Choose to share the sliver with the Order, the Unentombed, or keep it as leverage.",
+        "Return to the Gate and assist in sounding the true calming chord citywide."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Isha Velroon",
+                "line": "We will ask the city for silence, not as punishment, but as a gift we give one another. While we hold that gift, the Gate will sound a chord that reminds men they are not alone in their fear. Guard us from those who would turn that fear into a lever."
+            },
+            {
+                "speaker": "Talekan Yss",
+                "line": "A song that erases faces is not a prayer. It is a theft pretending to be a revelation. I can help you hear the wrong notes, but you must be the one to still the hands that play them."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I’ve seen a city quiet itself to hear the last breath of a dying man and to time the pass of a convoy under fire. We can be gentle when we remember how. I’ll keep this space honest while you keep its sound clean."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Under-Sun Cantor",
+                "line": "Why look up at a light that hides itself, when there is a sun beneath the world that does not lie? Let the mirrors fall dark. Let the bones forget their script. Let us be made new."
+            },
+            {
+                "speaker": "Isha Velroon",
+                "line": "New is a word thieves use for broken when they sell back the pieces to the poor. We will be made steady, and then we will be made kinder. Rogan, the passage—do you feel it in your hand? It is opening."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "There’s a tone in my palm where the shard sits, like a door breathing before it opens. I’m going down. Keep singing the truth; I’ll bring back the part that refuses to lie."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Isha Velroon",
+                "line": "You came back with the bone of a secret and the dust of a very old room on your boots. The Gate sounds clean today because you kept faith with its purpose. If you give me that sliver, I’ll use it to protect the city. If you keep it, I will still bless you, but I will watch you with a friend’s worry."
+            },
+            {
+                "speaker": "Talekan Yss",
+                "line": "What you hold is not a weapon; it is a promise that the world has more patience than we do. Don’t spend it like coin. Spend it like water."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "For now, it sits with me, and I’ll listen to it until I understand what it needs to say. If the day comes when I must place it in another’s hand, it will be the right one."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Heartseed Bone Sliver: subtly steadies nearby resonance; key to final tuning."
+        },
+        {
+            "type": "reputation",
+            "description": "Standing with the Order of the Hollow Sun (moderate) or cautious respect if kept."
+        },
+        {
+            "type": "status",
+            "description": "Under-Sun cult splinter weakened; fewer mirrorless hymns in the streets."
+        }
+    ]
+}

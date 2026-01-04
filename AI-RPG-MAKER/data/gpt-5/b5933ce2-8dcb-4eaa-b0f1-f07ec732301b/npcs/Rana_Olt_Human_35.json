@@ -1,0 +1,64 @@
+{
+    "name": "Rana",
+    "surname": "Olt",
+    "race": "Human",
+    "age": 35,
+    "appearance": "Shaved head, copper throat-chimes, and inked staves of music along her wrists; a singer’s lungs and a steepled posture.",
+    "character": "Disciplined and proud of her choir; reverent toward the river’s music and ruthless toward anything off-tempo.",
+    "traits": [
+        "Exacting",
+        "Loyal",
+        "Proud",
+        "Superstitious"
+    ],
+    "skills": [
+        "Chant-leading",
+        "Gate sequencing",
+        "Crew coordination",
+        "Sight-singing",
+        "Harmonic engineering"
+    ],
+    "talents": [
+        "Perfect pitch",
+        "Matches the river’s buried choir at low tide",
+        "Projects speech through pipes across the weir"
+    ],
+    "flaws": [
+        "Rivalry-prone",
+        "Disdainful of Ferrymen braggadocio",
+        "Brittle pride",
+        "Sleepless before spring floods"
+    ],
+    "dreams": [
+        "Discover the unknown note haunting a song-gate",
+        "Compose a hymn that heals cracked sluice-stone",
+        "Lead a flood-hymn before the Conclave"
+    ],
+    "secrets": [
+        "Heard the unknown note in a dream and lost her lover’s name to it",
+        "Hides a riverbell shard inside her chime collar",
+        "Sometimes opens a gate half a note early to test echoes"
+    ],
+    "relations": [
+        {
+            "npc_name": "Quill Vess",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sava Deren",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Brina Coil",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Iren Vask",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mereth Tydel",
+            "relation_type": "neutral"
+        }
+    ]
+}

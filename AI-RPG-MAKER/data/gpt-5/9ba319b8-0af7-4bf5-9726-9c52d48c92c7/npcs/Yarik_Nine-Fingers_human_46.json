@@ -1,0 +1,73 @@
+{
+    "name": "Yarik",
+    "surname": "Nine-Fingers",
+    "race": "human",
+    "age": 46,
+    "appearance": "Broad with a mechanic’s stoop; missing left ring finger; chain tattoos run up his forearms; always smells of tar and brine.",
+    "character": "Sardonic pragmatist who keeps his word to crews and no one else.",
+    "traits": [
+        "cunning",
+        "loyal to his",
+        "grudgingly honorable",
+        "risk-tolerant"
+    ],
+    "skills": [
+        "emergency repairs",
+        "sabotage and de-sabotage",
+        "hidden chute design",
+        "dock strike planning",
+        "shadow pilotage"
+    ],
+    "talents": [
+        "jury-rigging engines with scrap",
+        "inspiring picket lines",
+        "vanishing a cargo under watch",
+        "spotting counterfeit chits"
+    ],
+    "flaws": [
+        "gambler’s streak",
+        "short fuse when disrespected",
+        "scorns protocol",
+        "overpromises in public"
+    ],
+    "dreams": [
+        "drag the Syndicate into legitimacy with a Parliament seat",
+        "own Dry Dock Three outright beyond emergency claims",
+        "break Tidewright monopoly on floodworks repairs"
+    ],
+    "secrets": [
+        "keeps a hush-money ledger implicating a Saltwarden captain in sabotage",
+        "uses the bypass tunnel beneath the Gate Crown for smuggling maintenance crews",
+        "pays a clerk in the Winter Ledgers to delay strike fines"
+    ],
+    "relations": [
+        {
+            "npc_name": "Nella Shuck",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sel Corvane",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Luma Keel",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Brask Ilyne",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Ildra Shale",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Tallen Quill",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Maris Veyron",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

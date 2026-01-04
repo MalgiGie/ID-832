@@ -1,0 +1,61 @@
+{
+    "name": "Lysa",
+    "surname": "Truin",
+    "race": "Human",
+    "age": 33,
+    "appearance": "Owlish scholar with glass-lensed spectacles, ink-dusted fingertips, and a bone-scroll satchel slung across a pale Collegium robe.",
+    "character": "Curious and gentle, stubborn in pursuit of knowledge.",
+    "traits": [
+        "studious",
+        "ethical",
+        "socially awkward",
+        "meticulous"
+    ],
+    "skills": [
+        "osteomancy theory",
+        "archival research",
+        "teaching",
+        "field survey"
+    ],
+    "talents": [
+        "harmonizes with rib-bells",
+        "detects forged relics by touch"
+    ],
+    "flaws": [
+        "naive in politics",
+        "anxious under scrutiny",
+        "absentminded with meals"
+    ],
+    "dreams": [
+        "unlock the restricted archives",
+        "document the language of ribs",
+        "prove the city listens and answers"
+    ],
+    "secrets": [
+        "Opened a sealed Needle manuscript without sanction",
+        "Owns a bone flute tuned to the Fourth Rib pitch",
+        "Granted Grey Lanterns after-hours access in exchange for field reports"
+    ],
+    "relations": [
+        {
+            "npc_name": "Tamsin Veil",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Brunna Coil",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Suri Yal",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Avar Ir",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Cor Yune",
+            "relation_type": "Friendship"
+        }
+    ]
+}

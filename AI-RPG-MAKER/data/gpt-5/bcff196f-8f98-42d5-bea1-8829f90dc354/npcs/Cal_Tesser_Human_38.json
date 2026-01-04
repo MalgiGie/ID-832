@@ -1,0 +1,62 @@
+{
+    "name": "Cal",
+    "surname": "Tesser",
+    "race": "Human",
+    "age": 38,
+    "appearance": "Close-shaved head, thorn tattoos on his tongue and along his forearms, jaw set like a door-bar, spear kept immaculate.",
+    "character": "Loyal and terse, prefers action guided by vows over words twisted by debt.",
+    "traits": [
+        "disciplined",
+        "brave",
+        "self-sacrificing"
+    ],
+    "skills": [
+        "spearwork",
+        "bodyguard detail",
+        "street knowledge",
+        "oath rites and penance"
+    ],
+    "talents": [
+        "endures pain without complaint",
+        "senses danger rising in crowds"
+    ],
+    "flaws": [
+        "violent temper at perceived injustice",
+        "guilt-ridden nightmares",
+        "distrusts merchants on sight"
+    ],
+    "dreams": [
+        "redeem his part in a past massacre",
+        "teach Floodwalk youths to stand for vows not coin"
+    ],
+    "secrets": [
+        "killed the wrong man during a canal murder panic and took silent penance",
+        "keeps a hidden list of people to protect even if it breaks orders"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ansel Thornward",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Tholl Ironspan",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Arelon Vale",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sera Verrin",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Finn Bracken",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Yael Emberkeel",
+            "relation_type": "Friendship"
+        }
+    ]
+}

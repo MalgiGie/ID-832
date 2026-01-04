@@ -1,0 +1,44 @@
+{
+    "id": "M11",
+    "title": "Descent to Fathomfall",
+    "quest_giver": "Irio Mossvane",
+    "description": "The Fathomfall Trench lies like a blue bruise offshore, its rim visible when the water turns cobalt and the city stops to stare. The resonance note from the Vault, the shard from the Array, and the Heart-Opening Verse all point here. Irio assembles a slim crew: a Chainmaster diver with lungs like bellows, a Pilgrim singer with a voice that can hold a note against the sea, and Mara to guide by feel and chart what instruments cannot. Lantern-fish mimic rime-lantern glow and pull at the eyes like sleep. Squeeze currents grab at bones and try to make them forget their names. Somewhere below, something slow as winter answers to a hymn.",
+    "objectives": [
+        "Assemble a small crew: Irio Mossvane (navigator), a Chainmaster diver (Vesk Marran), and a Pilgrim singer (designated by Siala).",
+        "Anchor at the Trench rim and descend in stages, planting three song-nodes tuned to the Heart-Opening Verse.",
+        "Evade predatory lantern-fish by using damped lanterns and moon-iron to cut emergency lines if snagged.",
+        "Listen for and record the deep pulse; retrieve a scale or message if the heart answers without provoking a violent upwelling."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Irio Mossvane",
+            "lines": "We’ll go down like a story told to a child—slow, with repetition, and no surprises. I’ll keep the lines true if you keep the song steady. If you feel your bones forget you, tug twice and I’ll haul you up whether you like it or not."
+        },
+        {
+            "speaker": "Vesk Marran",
+            "lines": "I’ve worked the Array with a chain around my waist and winter in my teeth. The Trench doesn’t scare me. What scares me is a city that thinks it can bargain with the sea like it’s buying rope. We respect what we meet, or we become a story told as a warning."
+        },
+        {
+            "speaker": "Pilgrim Singer",
+            "lines": "Breathe on the measure I give you. If you hear a second note under mine, do not try to match it—let it pass through you. That is how a heart speaks when it is too old to waste words on those who will not listen."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "If the deep answers, we will be polite. We will ask our question once, and we will listen to all the silence around the answer as if it were as important as the word. And if the sea reaches for us with curiosity or hunger, we will leave it only our bubbles and our respect."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        "A living Heart-Scale the size of a palm, warm and slow-beating, or a recorded pulse if the Scale does not rise (based on choices)",
+        "Completed deep-resonance entry for the Whispering Ribs Chart (high-value navigation)",
+        "+Major favor with Pilgrims and respect from Chainmasters",
+        "Personal insight: Mara’s bowstring now hums in time with the deep on certain nights (narrative effect)"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "M7",
+  "title": "Szyb Siódmy",
+  "quest_giver": {
+    "name": "Tira Selenitna",
+    "affiliation": "Szyby Selenitowe pod Wiatrzecami (kontrakt Konfederacji Siódemułów)"
+  },
+  "description": "Z tarasu dźwigowego widać było, jak Wiatrzeca zaciągają się mgłą, a wąwozy pod nimi rozjarzają mleczną poświatą, która nie powinna świecić tak jasno o tej porze. Szyb Siódmy, najgłębszy z chłodnych korytarzy, runął w sobie jak oddech wstrzymany w panice, i od tej chwili każdy szept skały brzmiał jak zaklęte imię. Tira Selenitna czekała przy wejściu z pyłem na rzęsach i szkicem korytarzy w dłoniach, powtarzając, że kamień śpiewa albo ze strachu, albo z narodzin, a dziś brzmią w nim oba te głosy naraz. W głębi, pod ścianami iskrzącymi jak tafle szkła żywego, pulsowało serce lewiatana, rytmiczne jak kołkowe zegary na szczytowych tarasach, lecz bardziej stare i bardziej uparte niż wszystkie prawa Rady Segmentów razem wzięte. Plotki o bracie Eliana, który zniknął w dzień innego zawału, wracały jak przypływ niesłabnący, i nawet legioniści obsydianowi, zwykle twardzi na przesądy, milczeli, gdy skała zaczynała nucić własne słowa. Zanim latarnie algowe lampników zdążyły zgasnąć w porannej mgle, trzeba było już znać ścieżkę przez rumowisko, umieć narysować liny w powietrzu strzałami i nauczyć kamień, by jeszcze raz przyjął ciężar ludzi, a nie tylko wspomnienia. Na dole czekało światło, które nie odbijało się w źrenicach, i ciemność, która miała własny blask, a wszystkie decyzje podejmowane tam, z dala od zegarów i dźwigów, wracały do Kaledry jako plotki, pieśni albo rachunki.",
+  "objectives": [
+    "Spotkaj się z Tirą Selenitną przy wejściu do Szybu Siódmego i odbierz szkic korytarzy.",
+    "Przedrzyj się przez zawał, wykorzystując linkowe strzały i haki groty do stabilizacji stropu.",
+    "Odnajdź uwięzionych górników i ewakuuj ich przez boczny szyb, zanim śpiew selenitu uśpi straże.",
+    "Dotrzyj do komory lewiatana i zbadaj pulsujące serce, szukając śladów brata.",
+    "Zabezpiecz fragment krystalicznej łuski, która może posłużyć do strojenia pryzmatów."
+  ],
+  "dialogue": [
+    {
+      "speaker": "Tira Selenitna",
+      "lines": "Skała śpiewa, kiedy się boi, i śpiewa, kiedy się rodzi, ale dzisiaj jej pieśń jest rozdarta jak pęknięty pryzmat latarni na Przylądku Łez. Ktoś kazał jej pracować poza rytmem przypływów, poza spokojem, który Zakon nazywa oddychaniem kamienia, i teraz wszystko dudni jak źle nastrojony dźwig. Potrzebuję twoich strzał i twojej ciszy, tej ciszy, która jest decyzją, a nie ucieczką, bo linka puszczona we właściwej chwili potrafi unieść więcej niż setka łopat. Popatrz na ten szkic, rysowany w pośpiechu i pyle, jest niedokładny jak wspomnienie po złym śnie, ale pokazuje główne żebra korytarzy i boczny szyb, którym możemy wywieść ludzi. Pomóż mi sprawić, by kamień znowu zrozumiał, że człowiek nie jest jego wrogiem, tylko oddechem, który przechodzi i wraca, i że dziś od jego zgody zależy to, czy w Kaledrze zabrzmią dzwony żałobne, czy pieśń na powrót do pracy."
+    },
+    {
+      "speaker": "Elian Kotwiczny",
+      "lines": "Wejdę tam, gdzie łańcuchy brzmią jak struny, a stropy trzeszczą jak stare maszty, i wyprowadzę twoich ludzi krok po kroku, jakbym prowadził łódź przez mgłę na sygnał latarni. Jeśli mój brat zostawił w skale ślad, poczuję go pod palcami jak rowek po linie na dłoni, i nie zawrócę, póki nie usłyszę prawdy. Serce lewiatana bije w mojej zawieszce jak echo burzy, i albo nas poprowadzi, albo spróbuje uśpić, ale znam modlitwę oddechu i nie oddam mu czujności. Nie ufam tym, którzy nakazali pracę ponad rytm, bo widziałem, jak prywatyzowane dźwigi zatrzymują miasto, gdy garstka liczy zysk, ale zaufam kamieniowi, jeśli pokaże mi swoje nerwy. Będę strzelał w stropy i słupy nie jak zabójca, ale jak cieśla, który rysuje podporę, i będę stawiał kroki tak, jak stawiam strzałę w wichrze na Niebomoście: bez pośpiechu, bez zawahania i bez chęci popisu."
+    },
+    {
+      "speaker": "Rikel Stalnik",
+      "lines": "Nie przyszedłem tu, żeby rozstawiać was po kątach, bo nawet komendant wie, że w takich dniach paragrafy są krótsze niż liny ewakuacyjne. Jeden z moich też został pod rumowiskiem, i żaden nagan ani nowy hełm nie odda go z powrotem, jeśli skała naprawdę obraziła się na nasze rozkazy. Jeżeli znajdziesz dowód, że ktoś przyspieszył wydobycie mimo zastrzeżeń, że przekroczono cykle pływów albo podmieniono kliny, pokażesz mi to, a ja nie będę milczał, choćbym miał pisać raport w ciemnościach. Moje patrolowe rozkazy mają białe plamy w mapach, i wiem, że nie wszystkie są winą Chóru Cieni, więc nie będę strzelał do cieni, kiedy trzeba podtrzymać belkę. Daj mi znak pryzmatem, kiedy będziesz gotów do wyprowadzki uwięzionych, a cofnę straż tak, by ich śpiew nie usnął od selenitu i żeby nikt nie wpadł na pomysł pobierania opłat w mroku."
+    },
+    {
+      "speaker": "Lima Fal",
+      "lines": "Niech twoja dłoń będzie chłodna jak woda na kamieniu, a twój oddech niech liczy kroki tak, jak morze liczy fale, bo w Szybie Siódmym czułość jest bezpieczniejsza niż siła. Serce, które pulsuje w tamtej komorze, pamięta rzeczy starsze niż nasze kłótnie i nasze targi, i odpowiada tylko na głosy, które nie chcą go posiąść. Kiedy poczujesz, że powieki robią się ciężkie od pieśni selenitu, połóż palec na amulecie Wiru i pozwól, żeby przypływ przeszedł przez ciebie bez oporu. Nie walcz z pieśnią, bo wtedy będzie silniejsza, tylko słuchaj jej jak latarnik, który czeka na przerwę w mgle, a kiedy przyjdzie cisza, ruszaj jak cień. Jeśli znajdziesz okruch łuski, nie chwytaj go pazernie, ale poproś kamień, by go wypuścił, bo inaczej szkło w twojej dłoni będzie pamiętać gniew i odda go komuś, kogo kochasz."
+    },
+    {
+      "speaker": "Orla Krawężna",
+      "lines": "Gdy spojrzysz na sklepienie po zawałach, nie szukaj idealnych linii, bo ich tam nie ma, szukaj rytmu nacisków, które rozmawiają ze sobą jak ludzie w kłótni. Wbijaj strzały linkowe w punkty, które słuchają, nie w te, które krzyczą, bo wtedy lina nie będzie walczyć, tylko usiądzie jak kotwica w dobrej glebie. Jeśli trafisz na żebro, które pękło, obejdź je z dwóch stron i stwórz trójkąt, bo trójkąty, Elianie, to jest muzyka kamienia, która nie fałszuje nawet w sztormie. Nie żałuj haków grotów, ale też nie kochaj ich bardziej niż ludzi, bo żelazo błyszczy ładniej niż pot i łzy, a jednak to pot i łzy dźwigają mosty. Kiedy już przeprowadzisz górników do bocznego szybu, zatrzymaj ich na trzy oddechy i policz, czy ciemność ma w ich oczach własne światło, bo jeśli tak, musisz ich prowadzić w ciszy, która nie budzi pieśni selenitu."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Zestroić kroki z pieśnią Wiru",
+      "text": "Zanim wejdziesz w rumowisko, wyciągasz amulet Wiru i przypominasz sobie szept Przeoryszy, który uczył dłonie chłodu, a stopy cierpliwego słuchania. Wchodzisz jak latarnik do komory pryzmatycznej, nie dotykając niczego, co jeszcze śpiewa bólem, i pozwalasz, by selenit usłyszał twoje intencje. Strzały linkowe wbijasz nie gwałtownie, tylko w rytmie oddechów, i za każdym razem czekasz na cichą odpowiedź kamienia, która mówi, że ciężar może popłynąć inną drogą. Kiedy górnicy zaczynają drżeć pod naporem ciszy, opowiadasz im o Niebomoście, który też potrafi zawisnąć między niebem a ziemią i nie spaść, jeśli tylko ludzie przestaną na chwilę pędzić. W komorze lewiatana klękasz nie jak zdobywca, tylko jak posłaniec, i prosisz o jeden odłamek w zamian za przyrzeczenie, że nikt nie będzie tu wracał bez pieśni zgody.",
+      "outcome": "Zawał ustępuje powoli jak zaciśnięty węzeł, który nagle spotkał znający go palec, a każdy kolejny metr stropu staje się lżejszy bez jednego uderzenia kilofa. Górnicy odzyskują oddech bez krzyku i łez, a ich oczy nie napełniają się sennym blaskiem, bo pieśń nie bierze ich w posiadanie, tylko przestaje o nich pamiętać. Rikel Stalnik patrzy na ciebie długo i mówi, że nie widział, by ktoś tak pracował z kataklizmami, a potem prosi o spisanie obserwacji dla raportu, który może nigdy nie trafić na stół komendanta, ale zmieni coś w jego własnych decyzjach. Tira Selenitna ściska ci dłoń, a potem prosi, żebyś zajrzał do bocznego chodnika, gdzie ktoś wyrył twoje inicjały obok znaków runicznych, i znajduje się tam maleńki ślad brata w postaci ześlizgniętego w pyle węzła lampniczej liny. Z komory lewiatana odchodzi z tobą krystaliczna łuska, która nie parzy, bo została podniesiona po prośbie, i potem w Hali Szklistej mistrzowie mówią, że ten odłamek brzmi harmonijniej niż większość trofeów wyciąganych przemocą."
+    },
+    {
+      "id": "C2",
+      "title": "Wezwać osłonę Legii i pchnąć roboty naprawcze",
+      "text": "Wysyłasz z pryzmatu sygnał do Wieży Grot, prosząc o dyskretny kordon i dwie brygady z balami podporowymi, bo wiesz, że czas jest przeciwnikiem tak samo jak selenitowy śpiew. Gdy legioniści ustawiają zapory, ty rysujesz w powietrzu mapę dla cieśli i rozdzielasz haki, nie czekając na ceremonie ani pozwolenia, bo zawał nie rozumie protokołu. Wbijasz strzały linkowe odważnie, a tam, gdzie strop zgrzyta, wkładasz kliny z dębu drzewnego szkła, by kamień nie miał wyboru poza współpracą. Górnikom mówisz krótko i rzeczowo, żeby patrzyli tylko na twoje dłonie i na światło algowe, bo w tym pośpiechu nie ma miejsca na sny ani wspomnienia. W komorze lewiatana działasz szybko, bliżej brzegu niż serca, i sięgasz po łuskę w momencie, gdy puls przygasa na ułamek sekundy, bo wolisz, żeby gniew zdążył minąć, zanim wróci pieśń.",
+      "outcome": "Przejście otwiera się z trzaskiem i parą pyłu jak portowa brama podczas sztormu, i choć dwa głazy spadają za późnym uderzeniem, nikt nie zostaje z tyłu. Górnicy wylatują korytarzem jak nurki w górę, a Rikel z ludźmi skutecznie tłumi panikę bez razów, tylko komendami, które pachną ćwiczeniami, nie przemocą. Tira notuje węzły i podpory z twojego prowadzenia, a potem mówi, że choć było ostro, to kamień przyjął siłę bez chęci zemsty, a to bywa rzadkie. W raporcie Legii pojawiasz się jako specjalista od ratownictwa z ryzykiem kontrolowanym, a Komendant Serad Głaz podobno pyta po cichu, czy nie zechcesz w przyszłości konsultować zabezpieczeń w Wieży Grot, co budzi lekką podejrzliwość wśród Chóru Cieni. Łuska, którą zabierasz, jest bardziej szorstka i cięższa od oczekiwań, ale w warsztacie pryzmatów pokazuje precyzyjny rezonans, który może być idealny do strojenia sygnałów nawet w najgęstszej mgle."
+    },
+    {
+      "id": "C3",
+      "title": "Przepuścić ewakuację kanałami i ścieżkami Cienia",
+      "text": "Rozkładasz mapę ukrytych kanałów od Jodana Piżmowego i dopasowujesz ją do szkicu Tiry, szukając styku, w którym cicha woda dotyka szeptu kamienia. Dajesz Matce Korali znak na pryzmacie i w odpowiedzi przychodzą dwie pary rąk, które znają zapach solnych ścieków lepiej niż zapach portowego wina. Zamiast walczyć z głównym zawałem, nakłaniasz strop do przysiądnięcia w innym miejscu, by odciążyć kolano korytarza, i otwierasz krótszy korytarz do płytkiego szybu, o którym nie mówi żaden plan Legii. Górników prowadzisz w pojedynczym szeregu, w milczeniu, w którym każde westchnienie jest jak nuta w partyturze, i oświetlasz im drogę algowym światłem, które nie przyciąga niczyjej uwagi poza twoją. W komorze lewiatana zostawiasz drobny dar z Hali Szklistej, szklaną kroplę z oddechem mistrza, i dopiero wtedy, kiedy echo brzmi zgodą, sięgasz po krystaliczną łuskę.",
+      "outcome": "Ewakuacja toczy się pod miastem jak cichy nurt, i nikt poza wtajemniczonymi nie zauważa, że tarasy znów oddychają równiej, choć zegary w Domu Segmentów nie zmieniły rytmu. Legia, zaskoczona pustymi korytarzami ratunkowymi, rejestruje w raportach białe plamy, a Rikel Stalnik tylko kiwa głową i prosi, byś kiedyś narysował mu prawdziwą mapę świata pod murem. Tira Selenitna wychodzi jako ostatnia i przysięga, że bez twojego milczącego prowadzenia śpiew selenitu zjadłby odwagę nawet najtwardszego górnika. W Chórze Cieni rośnie twoja reputacja przewodnika przez miejsca, które nie lubią cudzych butów, a Matka Korala składa obietnicę, że w razie kłopotów z Konfederacją twoje sygnały pryzmatyczne nie znikną z map. Łuska, którą unosisz, błyszczy delikatnie i zdaje się rozumieć szlaki, co sprawia, że Arcymistrz Delerion Ognikowy, zobaczywszy ją później, mówi o niej jak o instrumencie, a nie trofeum."
+    }
+  ],
+  "connections": {
+    "previous": [
+      "M6"
+    ],
+    "next": [
+      "M8"
+    ]
+  },
+  "rewards": [
+    {
+      "type": "item",
+      "description": "Krystaliczna łuska z komory lewiatana – komponent do strojenia pryzmatów."
+    },
+    {
+      "type": "reputation",
+      "description": "Wdzięczność górników i większe bezpieczeństwo w Szybach Selenitowych."
+    },
+    {
+      "type": "access",
+      "description": "Przepustka do strefy głębokich szybów wydana przez Tirę Selenitną."
+    }
+  ]
+}

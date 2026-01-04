@@ -1,0 +1,61 @@
+{
+    "name": "Maela",
+    "surname": "Scor",
+    "race": "Basaltborn dwarf",
+    "age": 94,
+    "appearance": "Stocky scholar with obsidian-chipped beard rings, a copper-stained thumb, and reading slits cut into her leather gloves.",
+    "character": "Pedantic but kind; believes records are breath for the city and takes every whisper of law seriously.",
+    "traits": [
+        "patient",
+        "meticulous",
+        "wry",
+        "principled",
+        "unflappable"
+    ],
+    "skills": [
+        "obsidian tablet etching",
+        "quakegram interpretation",
+        "legal memory of the Pact",
+        "cataloging and indexing",
+        "heat-seal notarization"
+    ],
+    "talents": [
+        "eidetic recall of inscriptions",
+        "feels faint fault murmurs through fingertips"
+    ],
+    "flaws": [
+        "inflexible about procedure",
+        "holds long grudges",
+        "dismissive of shortcuts"
+    ],
+    "dreams": [
+        "to compile a true map-song to the Singing Gate",
+        "to author a concord between Chainwright timetables and Loom edicts"
+    ],
+    "secrets": [
+        "keeps a forbidden copy of a map-song hidden behind a loose glass shelf",
+        "quietly altered a judgment knot to spare a miner from punitive fees"
+    ],
+    "relations": [
+        {
+            "npc_name": "Riven Hask",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ilara Embervein",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Tosk Glassbite",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sere Vell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Jask Lumenwright",
+            "relation_type": "Friendship"
+        }
+    ]
+}

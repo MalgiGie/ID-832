@@ -1,0 +1,87 @@
+{
+    "id": "M10",
+    "title": "Seven Kettles, One Note",
+    "quest_giver": {
+        "name": "Thorek Brimvauld",
+        "affiliation": "Seven-Kettle Syndic"
+    },
+    "description": "Steam rose from the terraces of the Seven-Kettle Springs like pale banners, each pool lifting its own hard-won note into the mountain air until the valley thrummed like a forge-choir at prayer. At the fourth kettle the harmony broke, souring into a warble that bent steel, curled chisels, and bent tempers worse than blades, and the dwarves spoke of a sleeping forge-titan under the strata turning in its uneasy dream. Thorek Brimvauld, beard bound in iron-thread and eyes bright with the heat of problem and pride, met Aren Siltwarden at the rim of that troubled bowl and spoke hammer-law: truth here is a tool and a test, and any lie uttered in the steam would split the tongue and crack the pact. If the valley’s chord could be set right, if the unknown note that haunted Vyratha could be caught and carried in a ring that would not shatter, then the dwarven throats of Seven-Kettle would travel downriver and shore the city’s failing hymn with a sound no human larynx could hold. Yet there would be no trickery and no ink that turned invisible in cold water; the pact must read fair to the hungry and the fed alike, and the spirits that live inside heat and hammer must be appeased by a tale of restraint instead of a boast of victory. Aren descended through steam and echo with a prism register bright as a rainbow’s vertebrae and a Charterstone fragment that pulsed like a remembered promise, knowing that at the heart of hot metal and hard law, only a true story would temper the day.",
+    "objectives": [
+        "Diagnose and correct the sour note at the fourth kettle using the prism register and the Charterstone fragment’s consent-mark.",
+        "Appease offended forge-spirits by recounting a true tale of restraint at the Weir and offering forge-salt procured openly.",
+        "Draft a fair exchange between Seven-Kettle Syndic and Vyratha’s Conclave that protects both star-metal abstention and winter grain supply.",
+        "Secure a resonance ring forged to carry the unknown note safely for the final rite."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Thorek Brimvauld",
+            "lines": "If you lie in this valley, the steam will sharpen your tongue until it splits, and you will taste your own blood with every word you try to save. Better to chew truth and swallow pride than the other way around, because pride breaks teeth and truth tempers steel. Help us set the note, and I will bring dwarven throats to your river’s edge to sing a sound you humans cannot hold alone, and we will set your weir-songs back on their legs. Do not bring your Ledger’s tricks or your market’s shadows; this is hammer-law, and the only ink here is heat and sweat. Stand by the kettles, hear what they hear, and if you must speak, make sure the words can take a quench without screaming."
+        },
+        {
+            "speaker": "Brina Coil",
+            "lines": "We can forge a ring that will not break if the note wants to run wild, but it must be tempered in honesty the way a blade is tempered in oil. Tempering lies into a tool makes that tool turn in the user’s hand, and I will not stamp Emberlight’s seal on a piece meant to fail a city. The pact you carry back to Vyratha must hold with clean clauses; no line should fine a mother for standing too long near a public spout and no rider should hide a tariff that bites when winter comes lean. I have seen the way words can shear through good work, and I would rather let my oath-tattoos burn away than give blessing to a bargain that shames the forge. Bring me consent openly given, bring me salt bought without a wink, and the ring I draw from the blue fire will sing true when the unknown note leans its weight."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "I do not sing well, but I know when a story rings true, because the river claws at lies until they float apart like rotten reeds. I will tell your spirits about the day I held a crowd against a failing gate with only my hands and my breath, and how I spoke no threat when fear wanted a cudgel more than a word. I will lay out a pact in plain speech that feeds both valley and city, with no hooks tucked under generous phrases to snag the hungry. Make me the ring that can carry a hunted tone without breaking, and I will walk it down to the Crown like a bell that won’t crack in winter. I give you this promise with steam in my lungs and scars on my jaw, and if I fail it is not for lack of trying but because a larger river took me."
+        },
+        {
+            "speaker": "Quill Vess",
+            "lines": "There is a note that does not belong to any throat we know, and it has brushed the Weir’s gates like a cold finger tracing a seam no mason laid. My hydrographs quiver where they should remain calm, and a night ago a song-gate answered a pitch no living cantor can sing, as if an old bell were struck under the city. If Seven-Kettle can catch that note and teach us how to hold it without tearing the sluice-songs, I will owe a debt measurable in more than water. Do not let pride or fear rush your hand, Aren; unknown notes crack stone where hammers only dent it, and what you carry back must be safe enough for frightened priests and angry pilots to stand near. Go with truth, take Brina’s ring if she finds it worthy, and remember I owe you my left hand and a memory I no longer own."
+        },
+        {
+            "speaker": "Mereth Tydel",
+            "lines": "In hot places, truth sweats out faster than deceit, but both can scald if you press your palm down without care. Speak of restraint as a form of strength, for the river respects the hand that does not swing just because it can, and the Nine Tides favor those who hold the line instead of drowning it. When you write the pact, let sanctuary rest in its clauses like a clear stone in a channel, easy to see and hard to uproot, and let no clause charge the poor for their breath. I will witness what can be witnessed from afar and keep a prayer over your work, though prayer alone will not lift a pen or still a kettle. Return with a ring that steadies what sways, and I will tie our rites to it gently, as a boat is tied to a cleat without scarring the wood."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Walk the Hammer-Law Path",
+            "text": "You agree to the valley’s terms and leave every trick at the trailhead, entering the steam terraces with only the prism register, the Charterstone shard, open-bought forge-salt, and a story you are ready to own. At the fourth kettle, you kneel until the breath burns your eyes, turn the prism plates until color meets color without quarreling, and wait for the consent-mark to thrum like a heartbeat under your fingers. You call the forge-spirits not with demands but with recollection, and you speak of the Weir’s panic-night when you held back a crowd instead of striking, counting each breath like a bead until the gate found its song. The steam answers first with a hiss of skepticism, then with a softening that feels like a smile pressed against hot glass, and the sour warble thins as if embarrassed. With Brina’s guidance and Thorek’s steady nod, you temper the resonance ring in a bath of truth and salt, and you seal it not with oath-ink but with clean intention and witnessed consent.",
+            "outcome": "The valley’s chord mends, and the fourth kettle settles into its rightful note, the whole terrace humming like a well-tuned anvil choir. The forge-spirits accept your tale as proof of strength held and not flaunted, and a curl of steam brushes your jaw where the weir chain once kissed you, as if acknowledging an old scar made useful. Brina lifts the ring from blue fire and it does not scream but sings, carrying the unknown note as gently as a child ferried at night, and Thorek stamps a Syndic sigil on your pact with a hammer that has never struck a back. Your draft bears clear lines: dwarven iron for Vyrathan grain through winter, mutual abstention from star-metal theft at the Fault, and protections for marsh pilots and hospice boats that read like ballast rather than bait. When you descend the terraces, dwarven messengers are already stringing a travel-choir together, and promises move toward the River Crown not as threats but as music that work can trust."
+        },
+        {
+            "id": "C2",
+            "title": "Gamble the Gray Shortcut",
+            "text": "You consider the river of consequences and, against the valley’s warning, you reach for the breath’s length of shadow you hide in your glaive’s haft, thinking a single heartbeat of wardless sound might let you map the note faster. The sea-night sliver drinks color from the prism and, for a moment, the faulty kettle goes quiet as if a blanket were laid over a crying mouth, and you glimpse the unknown pitch traveling like a fish under ice. Thorek’s eyes narrow, and the steam’s taste grows metallic and bitter, as though the whole valley were clenching its jaw against what you have done. The spirits arrive not soothed but bristled, and the air takes on that feeling a river surface gets before it breaks into chop, a warning that pushing further will turn a mistake into a wound. You close your fist, confess the trick before anyone else names it, and lay the sea-night truth on the stones like a blade surrendered in a temple rather than hidden in a sleeve.",
+            "outcome": "The kettles spit once in anger, but confession lays a cooling cloth over the moment and the forge-spirits listen as you tell the Weir tale without ornament, measuring your restraint against your error. Brina refuses to temper the ring until you fetch forge-salt in open market and read aloud the plain-language clauses you intend, and Thorek makes you repeat the hammer-law back to him until even your heartbeat keeps time with it. When the ring finally meets the blue fire, it takes the unknown note without shivering, and though a faint melancholy lingers in its timbre like regret in a singer’s throat, its strength is sound and its purpose clear. Some dwarves grumble about human shortcuts for the rest of the day, but the Syndic seals your fair pact after you scratch out a clause that would have let a future auditor squeeze the marsh clans, and the valley’s chord settles into its honest place. You leave with what you came for and a lesson stamped into your palm like a burn, and while trust needs tending, the promised choir will still come to the River Crown when called."
+        },
+        {
+            "id": "C3",
+            "title": "Bind Witness, Forge Trust",
+            "text": "You send word up-valley and downriver both, asking Brina Coil to stand inside the heat and Mereth Tydel to witness from the cool edge, and you make a space where work and rite can see each other without either flinching. In that triangle of craft, covenant, and hammer-law, you lay the prism register on bare stone and turn plates only when a dwarf nods and a priest’s bell breath answers, weaving consent until it looks like patience instead of delay. The forge-spirits arrive humming like a kettle’s rim stroked with a wet finger, and when you speak your Weir story they lean on the words as if checking their joinery, testing whether your restraint bears weight. You draft the blades-for-grain pact aloud so no one can hide behind ink, and you call for a clause securing emergency ferry for hospice boats and ritual barges even when tolls bite, putting kindness and covenant where commerce usually sits alone. Brina tempers the resonance ring as Mereth murmurs a tide-prayer that is mostly breath and memory, and the ring’s first clear tone braids with the valley’s chord until each makes the other stronger rather than louder.",
+            "outcome": "Trust sets like quenched steel and cools without a crack, and the dwarves speak of you not as a negotiator but as a hinge that did not squeal when weight came to bear. The fair pact reads clean in three tongues and two scripts, promising Seven-Kettle iron for Vyrathan grain without star-metal’s poison clause and setting out protections for pilots, healers, and shrines that even a cynical auditor would struggle to wriggle past. The unknown note finds a home inside the resonance ring that does not bruise it, and when you lift it, it seems lighter than metal and heavier than promise, the way a newborn feels to a tired midwife. Thorek claps you on the shoulder with a hand like an anvil and says he will bring a choir that can wake a weir but not a titan, and Mereth ties a thread around your wrist to remember this exact sound when the river demands memory. When you start the road home, messenger-dwarves stride beside you with a pace like drumbeats, and every step is matched by a bell-breath from the temple, a cadence of river and mountain agreeing without needing to raise their voices."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "currency",
+            "description": "28 coins stamped with Seven-Kettle seals, payment for service rendered under hammer-law and steam."
+        },
+        {
+            "type": "item",
+            "description": "Resonance Ring (focus for the unknown note), forged in blue fire to carry the city’s missing tone without shattering."
+        },
+        {
+            "type": "item",
+            "description": "Forge-Salt Pouch (ritual component for final rite), purchased openly and blessed by honest heat."
+        },
+        {
+            "type": "reputation",
+            "description": "Reputation increases: Seven-Kettle Syndic +3 for mending the valley’s chord; Emberlight Artificers +1 for upholding honest craft."
+        },
+        {
+            "type": "access",
+            "description": "Dwarven courier assistance for one urgent message, carried at forge-pace from the Springs to the River Crown."
+        }
+    ]
+}

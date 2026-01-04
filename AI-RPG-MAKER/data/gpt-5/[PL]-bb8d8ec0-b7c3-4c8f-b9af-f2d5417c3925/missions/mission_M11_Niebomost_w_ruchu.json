@@ -1,0 +1,53 @@
+{
+    "id": "M11",
+    "title": "Niebomost w ruchu",
+    "quest_giver": "Orla Krawężna",
+    "description": "Rozpoczyna się odbudowa. Brygady cieśli wchodzą na arkady od zawietrznej, a Elian prowadzi je jak kiedyś łodzie lampników po kanale. Legia planuje 'pokaz siły', by dowieść, że przęsła są niebezpieczne. Trzeba aktywować ankoryckie runy odciążające kamień, utrzymać rytm dźwigów i zaśpiewać znak lampnikom, by w porę zgasili lub zapalili. Na wietrze wiszą nie tylko liny – wisi los korytarza, który znów ma połączyć miasto.",
+    "objectives": [
+        "Zabezpiecz trzy kluczowe arkady: zamocuj linki, aktywuj runy Ankorytów i sprawdź przęsła na obciążenie.",
+        "Skieruj lampników Jodana do zsynchronizowanego sygnału dla brygad.",
+        "Powstrzymaj lub przechwyć oddział Legii szykujący ładunki pod arkadami; użyj dowodów od Rikela, by przekonać Serada do odwrotu.",
+        "Zespól tymczasowo trzy snopy latarni nad Niebomostem, by utrzymać widoczność podczas testu obciążeniowego.",
+        "Doprowadź brygady Orli do bezpiecznego zakończenia pierwszego etapu odbudowy."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Orla Krawężna",
+            "line": "Każda belka dziś jest argumentem. Każdy hak – petycją. Jak ten most stanie, to nie dzięki papierom, tylko dzięki waszym rękom i twoim sygnałom, Elianie. Daj znaki lampnikom, a ja dam znak cieślom. Zrobimy z nieba znów drogę, nie przepaść."
+        },
+        {
+            "speaker": "Serad Głaz",
+            "line": "Mam rozkaz, który nie lubi słuchać. Ale mam też oczy. Jeśli to, co mówisz o zleceniach z góry i białych plamach, jest prawdą, nie dam dziś rozkazu, który pogrzebie ludzi pod kamieniem. Pokaż mi jedną iskrę sabotażu, a schowam lont."
+        },
+        {
+            "speaker": "Jodan Piżmowy",
+            "line": "Łodzie gotowe. Łuniki czekają na twój kamerton. Jednym kolorem damy cieślom oddech, innym przegnanym sztorm. Tylko powiedz – światło ma tańczyć czy stać jak strażnik?"
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Niech światło tańczy, ale w rytmie, który zna kamień. Seradzie – tu jest iskra i dłonie, które ją trzymały. Odwołaj ludzi. Jodanie – daj zielony nad pierwszą arkadą, potem biały nad trzecią. Orlo – wchodzimy ciszej niż strach."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "access",
+            "description": "Stały korytarz przez Niebomost dla kurierów i pieszych – bez opłat."
+        },
+        {
+            "type": "reputation",
+            "description": "Wdzięczność Bractwa Bazaltowych Cieśli; zniżki u warsztatów na trzech tarasach."
+        },
+        {
+            "type": "item",
+            "description": "Wzmocniona strzała linkowa z runą odciążenia – trwałe ulepszenie ekwipunku."
+        }
+    ]
+}

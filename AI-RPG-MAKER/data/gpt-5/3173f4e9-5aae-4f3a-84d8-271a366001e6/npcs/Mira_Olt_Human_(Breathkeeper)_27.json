@@ -1,0 +1,74 @@
+{
+    "name": "Mira",
+    "surname": "Olt",
+    "race": "Human (Breathkeeper)",
+    "age": 27,
+    "appearance": "Bright-eyed horn-tender with wind-chapped cheeks and a braid threaded with cliffbird feathers.",
+    "character": "Gentle, dutiful, quietly brave.",
+    "traits": [
+        "observant",
+        "compassionate",
+        "devout",
+        "cautious"
+    ],
+    "skills": [
+        "horn tuning",
+        "wind map reading",
+        "first aid",
+        "spore-mask maintenance"
+    ],
+    "talents": [
+        "perfect pitch",
+        "soothes panicked crowds",
+        "walks narrow ledges unshaken"
+    ],
+    "flaws": [
+        "conflicted loyalties",
+        "avoids confrontation",
+        "self-doubting"
+    ],
+    "dreams": [
+        "compose a new safe gale-tone",
+        "bridge trust between temple and street",
+        "protect the Scale-born"
+    ],
+    "secrets": [
+        "passes quiet warnings to the Moth Lanterns",
+        "heard a new note under the organ last gale",
+        "hid a ghost-barge silver to break its promise"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ysil Aer",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sorn Ilt",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Thia Mol",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Roa Mestri",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Kessa Tharn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Sera Dake",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Iven Rill",
+            "relation_type": "Friendship"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "M2",
+    "title": "Receptura przeciwitrowa",
+    "quest_giver": "Delerion Ognikowy",
+    "description": "Arcymistrz Gildii Szklarek Smoczego Piasku prosi Eliana o odzyskanie receptury zielonego szkła przeciwitrowego, zuchwale skradzionej na Płaczących Schodach. Bez tej receptury pryzmaty nie wytrzymają sztormowych porywów i plan zestrojenia latarni znów utknie w polityce. Na schodach czeka patrol Legii Obsydianu i Serad Głaz, który chętnie uprzejmie przeszkodzi, a wiatr niesie szepty o monety wrzucanej do niszy, która zjada wspomnienia.",
+    "objectives": [
+        "Spotkaj się z Delerionem Ognikowym w Hali Szklistej i odbierz szkic pieczęci pryzmatycznej do identyfikacji receptury.",
+        "Udaj się na Płaczące Schody i zbadaj miejsce kradzieży, rozmawiając z karawaniarzami.",
+        "Negocjuj przejście z Seradem Głazem lub obejdź posterunek Legii przez boczne koryto.",
+        "Odzyskaj recepturę zielonego szkła przeciwitrowego z rąk pasera i zabezpiecz ją w szkatułce Deleriona.",
+        "Dostarcz recepturę do Hali Szklistnej i uzyskaj zaszyfrowany pryzmat do Latarni."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Delerion Ognikowy",
+            "line": "Szkło przeciwitrowe to nie kaprys rzemieślnika, tylko nerw, który pozwoli latarni utrzymać ton w gniewie burzy. Ktoś ukradł recepturę i sprzeda ją tym, którzy wolą mgłę od prawa. Przynieś mi ją, a dam ci pryzmat, który otworzy usta kamieniom pod latarnią. I słowo czci: nie wykorzystam go bez błogosławieństwa świątyni."
+        },
+        {
+            "speaker": "Serad Głaz",
+            "line": "Płaczące Schody nie są już miejscem dla sekretnych układów, chłopcze z łukiem. Teraz należą do opłat i pieczęci. Przejdziesz, jeśli dasz mi powód, bym uwierzył, że wyjdzie z tego coś więcej niż szkło świecące w kieszeni Chóru Cieni. A może wolisz posłuchać, jak sól zżera ci cięciwę?"
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Wolałbym, żeby sól jadła tylko ryby. Potrzebuję przejścia, by przynieść miastu coś, co mu doda oddechu, nie obciąży go kolejnym łańcuchem. Jeśli muszę zapłacić, zrobię to uczciwie. Jeśli muszę obejść – pójdę kanałem, który Legia po prostu zapomniała wpisać w rejestr."
+        },
+        {
+            "speaker": "Karawaniarz Neris Winnafala",
+            "line": "Recepturę widziałam w rękach chudzielca z ustami jak noże. Powiedział, że nikt nie ma prawa do wiatru, a potem zniknął w bocznym żlebie. Schody pamiętają przysięgi, Elianie. Jeśli coś wrzucisz do niszy, nie proś o przyszłość, jeśli nie chcesz zgubić wczoraj."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Pryzmat Deleriona – klucz świetlny do komory pod Latarnią Rozszczepioną."
+        },
+        {
+            "type": "reputation",
+            "description": "Wzrost reputacji u Gildii Szklarek Smoczego Piasku."
+        },
+        {
+            "type": "currency",
+            "description": "80 srebrnych za odzyskaną recepturę."
+        }
+    ]
+}

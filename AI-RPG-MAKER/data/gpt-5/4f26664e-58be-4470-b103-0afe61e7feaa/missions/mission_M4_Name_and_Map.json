@@ -1,0 +1,52 @@
+{
+    "id": "M4",
+    "title": "Name and Map",
+    "quest_giver": "Leth Morrow",
+    "description": "Archivist Leth Morrow receives Iriel in the cool hush of the Scribehouse, where cords hang like the city’s own lungs. The Archivist’s eyes measure debts and destinies with equal care. He agrees to open a sliver of the signal-audit annex if Iriel will recover a missing frost-script whisper from Sternum Plaza—one that named the Loom as guarantor of a clandestine descent at the Wyrmwell. He wants the whisper’s exact words and the name of the one who breathed it, ostensibly to correct a ledger. As a counterweight, he signs a temporary writ granting sanctioned access to the Cartographer’s Needle and names his junior, Nalai Thread, as escort and witness. The bargain hums with risk: Iriel must bring a secret to a scribe who sells nothing without a cord.",
+    "objectives": [
+        "Read the dawn frost-script at Sternum Plaza and transcribe the exact whisper that mentions the Loom and the Wyrmwell.",
+        "Identify the whisperer without speaking their name aloud in public.",
+        "Accept or refuse Leth Morrow’s temporary writ for sanctioned access to the Cartographer’s Needle.",
+        "Escort Nalai Thread to the Needle and keep them safe from hazards on the basalt flats."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Leth Morrow",
+            "line": "We bind not for love of binding, but because the city falls apart when names float like ash. You ask to see shutter ledgers and signal cords, and I am minded to say no because it is my duty to be ungenerous in dangerous times. Yet the city hums an anxiety I cannot audit away. Bring me the Plaza’s whisper you followed, whole and unbroken, and I will open a door you desire. I will also place one of my own to watch you, so that when questions come, they have more than your word to eat."
+        },
+        {
+            "speaker": "Nalai Thread",
+            "line": "I am to be your thread and needle, not your noose. I keep lists, and I keep my own counsel when lists become weapons. The Needle hums at dawn and dusk, and I have never stood where maps breathe and lie at the same time. If you trust the writ, I’ll trust your lantern. If you do not trust the writ, I will trust your feet."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "I’ll read the frost and speak the whisper into ink with care. If a name hangs in it, I’ll carry it as weight, not as leverage. The writ will open doors the flute can only shiver, and the Needle will answer a question it already asked me once in a shardstorm. I’ll keep you safe, Nalai, and if the maps try to write us, we’ll rewrite the margins."
+        },
+        {
+            "speaker": "Leth Morrow",
+            "line": "Do not mistake permission for protection. The writ makes you visible, and visibility is the tax we levy for order. Bring me the words as they fell cold from the breath that made them, and no cleverness. I will decide if the city is owed more truth than comfort."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": {
+        "experience": 420,
+        "items": [
+            "Writ of Sanctioned Access (Cartographer’s Needle)",
+            "Ledger-Safe Satchel"
+        ],
+        "currency": {
+            "chits": 28
+        },
+        "reputation": {
+            "Loom of Names": 2,
+            "Pale Collegium": 1
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Dorel",
+    "surname": "Glassant",
+    "race": "Human",
+    "age": 36,
+    "appearance": "Tall, forearms mapped by pale burn scars; glass-shard earrings; bottle-green eyes.",
+    "character": "Wry and patient with craft, impatient with politics.",
+    "traits": [
+        "Meticulous",
+        "Resourceful",
+        "Quiet",
+        "Loyal"
+    ],
+    "skills": [
+        "Hush-casting",
+        "Toolmaking",
+        "Kiln tuning",
+        "Memory key fabrication"
+    ],
+    "talents": [
+        "Hears kiln harmonics",
+        "Etches steady lines without guides",
+        "Recalls mechanisms at a glance"
+    ],
+    "flaws": [
+        "Secretive",
+        "Holds grudges",
+        "Avoids crowds"
+    ],
+    "dreams": [
+        "Open an independent forge free of Ledger bonds",
+        "Teach a safer casting method"
+    ],
+    "secrets": [
+        "Runs the Crucible's hidden fourth hearth at night",
+        "Keeps a private ledger of hush orders for leverage"
+    ],
+    "relations": [
+        {
+            "npc_name": "Avar Jen",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Varo Pell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Maela Vint",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Meret Hal",
+            "relation_type": "Different goals"
+        }
+    ]
+}

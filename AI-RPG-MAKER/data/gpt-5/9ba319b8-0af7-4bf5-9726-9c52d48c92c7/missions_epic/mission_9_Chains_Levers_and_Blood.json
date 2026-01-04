@@ -1,0 +1,91 @@
+{
+    "id": "9",
+    "title": "Chains, Levers, and Blood",
+    "quest_giver": {
+        "name": "Sel Corvane",
+        "affiliation": "Guild of Tidewrights"
+    },
+    "description": "The Glass Parliament’s floor-script dimmed as silt swirled, and through the doors spilled a roar like a storm under a bridge: ropes slapping, chant-lines surging, and the metallic stutter of chain-harps on crane arms as Dry Dock Three boiled with bodies. Lanterns bobbed like wrecked stars along the ring-streets, and each toll from the Tide-Gate Crown stepped the city’s breath faster, as if the whole of Vyraleth could be frightened into drowning itself. Sel Corvane met Raithe in a corridor of brass-ribbed shadow, palms smelling of eel-oil and ink, and pressed a lever-rod into his hand the way a priest might press a relic into a pilgrim’s. Outside, Ratchet Syndicate crews swarmed the dock-gates and slithered through a smuggler’s chute toward the bypass tunnel beneath the Tide-Gate Crown, bent on proving who truly held the hinge that turned the city’s fate. Yarik Nine-Fingers did not come with whispers or masks but with an upraised voice and a promise edged in threat: turn the gate, just a fraction, just enough for the inner rings to taste humility, and the outer rings would remember Raithe’s name as a man who gave breath to the drowned. Wind-banners snapped in quarrelsome gusts as pilots stacked hulls in a trembling column outside the mouth, and the Saltwardens’ formation lines broke and reformed like tide-foam, their loyalties dragged between purse and oath. In the lever-room, the great teeth kissed one another with a music that was not music, a humming like a struck bowl that set the marrow wishing, and Raithe felt the starward bite in the gearing as surely as he felt the bone-chime in his ear shiver. Tonight would not be clean: to keep the city breathing until the tide turned, he would have to seal a throat, break a chain, and decide whether truth was a lantern to raise or a fire to cup close until the wind calmed.",
+    "objectives": [
+        "Secure Dry Dock Three’s control house and seal the smuggler’s chute to the bypass tunnel before the Syndicate can pour through.",
+        "Confront Yarik Nine-Fingers at the lever approaches and prevent any forced lever-pull during high tide’s most dangerous breath.",
+        "Decide in the heat of crisis whether to reveal the existence of the starshard tooth to steady the crews’ fear or maintain secrecy to avert panic.",
+        "Keep the Gate Crown’s cadence stable and unbroken until the tide turns and the city’s breath eases."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sel Corvane",
+            "lines": "I do not often share my levers, Raithe Calder, and when I do, it is never to spare my hands but to save the city’s ribs from cracking. Take this rod and be my hinge for one turning of the tide, for there are hours when a borrowed hand steadies the Crown better than one known to every grudge along the rings. If they pull at the wrong breath, ring seven will drown in its own alleys and ring two will riot on marble, and then the water will be asked to judge what law failed. There is a music in the gearing tonight that should not sing, and I think you have heard it before in dreams you gave away to stay free, so listen and do not be seduced by its clarity. If you must choose between truth and safety, choose the choice that leaves Vyraleth alive to hear truth tomorrow, because a dead city remembers nothing and a living one can be taught the names of its mistakes."
+        },
+        {
+            "speaker": "Yarik Nine-Fingers",
+            "lines": "You smell that hum in the iron, Calder, the way old bone hums when the tide is wrong and the rich insist the moon belongs to them? That is the Guild’s hymn and they make us mouth it while we drown by inches, counting our breaths on their schedule, paying tolls for the right to inhale. Turn the gate and let the inner rings find out that stone floats only on other people’s backs; I won’t tell you it won’t hurt, but hurt is what they sell us by the sack. You can stand there with borrowed brass on your fist and pretend you aren’t carrying their chain, but every link between your knuckles says otherwise and every face outside knows it. I offer you not a bribe but a place in the story told in dockside light: Raithe Calder, who put his shoulder to the hinge and made the city kneel so it might someday stand straight."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "lines": "I’ve slept on flooded steps with eel-oil in my lungs and I’ve stood on dry stone where the law pretends to be taller than the tide, and I know which place teaches and which place only kills. A flood meant to teach a lesson always drowns the wrong students, Yarik, and I have already delivered one body to the leviathan’s ribs; it had my father’s face and a bell no hand should have rung sent him. I won’t purchase a hearing with corpses, not of ring seven children and not of ring two grandmothers who keep the names of saints in song because they have nothing else that will keep. Back your crews off from the teeth, hold your lines at Dry Dock Three, and I’ll see you get a voice that reaches the Glass Parliament when its floor-text clears and the truth can be read without the smear of panic. Tie to me for this tide, and I swear by my knot-ring and the breath we both share that you will not be forgotten inside the machine’s turning."
+        },
+        {
+            "speaker": "Iria Venn",
+            "lines": "Raithe, I am stacked three pilots deep at the mouth and the beacons are blinking the Cartel’s worry-code until my eyes ache, so listen to me as if we were still ring-brats playing at lanterns and you trusted my calls. I’ve got thirty hulls, some with grain and some with prayer candles and two with children asleep under tarps, and if the gate hiccups I cannot turn them because there is no room, only black teeth and the rumor of a bell that is not ours. Keep the breath steady, love, keep the cadence even, because a stutter here is a crack in a skull there and I will have to carry that in my log until I die. I don’t care who holds the lever in the end, not tonight; I care that the river does not learn our blood as its newest flavor. If you need a light-cordon or a code shouted to calm the men below the cranes, say it, and I will burn the Cartel’s favors like driftwood to keep you a lane."
+        },
+        {
+            "speaker": "Brask Ilyne",
+            "lines": "Calder, hear me over the clatter: the Saltwardens are supposed to be the flat wall the wave meets, but tonight the wall has seams, and some of those seams are held together with coin and some with memory of who fed whose children. My board tells me to keep the docks open and the prices steady, and the city tells me to keep the peace even if I must break a few knuckles to do it, and the law tells me three different things depending on which bell is ringing. Hold your line at the Crown and I will hold mine at the dock mouth, and if my men falter I will remember your face when I write the ledger of who stood and who drifted. If you have to choose which truth to speak, speak the one that keeps my patrol skiffs from fishing families out of stairwells in the morning, and leave the rest for the Parliament when the sediment settles. I don’t like owing the Tidewrights and I don’t like kneeling to Syndicate chants, but I will owe you if you keep that hum in the teeth from turning into a scream."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Unmask the Tooth: Reveal the Starshard to All",
+            "text": "Raithe raises his voice above the clamor and speaks of the humming tooth set within the heart-cogs, naming it not as myth but as mechanism and showing the Windglass glint that dances when the music peaks. He calls Iria to cast a steady lantern code and invites Sel to nod in public, forcing the Guild to admit that the Crown’s bite is bright as the Basilica’s reliquary. He explains that the shard steadies storms and magnifies mistakes, and that any forced pull tonight could turn the river spiteful, making all houses equal beneath one black wave. He speaks slowly, like tying a knot in wet rope, and watches faces turn from fury to wary calculation as the world grows larger than faction. He stakes his name on the truth, promising that the revelation is for tonight’s safety, not tomorrow’s leverage, and he asks for one tide of trust while the city inhales and exhales without a hand at its throat.",
+            "outcome": "The crews flinch from the idea of sacred machinery being broken by mortal rashness, and even Yarik’s hardest men take half a step back as if a church bell had tolled in their chests. Sel Corvane’s jaw tightens, but he bows his head once, and the Guild’s foremen work with Raithe openly to smooth the cadence while Iria paints the river in calm light. Parliament couriers sprint barefoot to the Basilica and the Hall of Winter Ledgers, and by dawn the city hums with rumor but not with sirens, for the gate held true. The Guild’s secrecy is cracked and the Tidewrights will never again have a fully silent chamber, but the favor Sel owes Raithe becomes sharper and more sincere, for a truth that saves lives is a debt no ledger can hide. Yarik retreats with a promise that the next story will be bloodier for the Guild’s pride, yet he cannot deny that Calder held the hinge without breaking the city’s ribs, and the outer rings speak Raithe’s name with a new, grudging respect."
+        },
+        {
+            "id": "C2",
+            "title": "Keep the Secret, Keep the Beat",
+            "text": "Raithe clamps the secret between his teeth and works the lever-rod by feel and training, trusting the old lessons learned on the Gate Crown’s basalt. He orders the Dry Dock lines cut from the control house doors and slams the smuggler’s chute shut with a wedged capstan wheel, sealing the throat without ceremony or sermon. He uses the Knot-Ring to bind a promise from Sel and Brask on the spot: no punitive sweeps tonight, no arrests made while the breath is held steady, and no reprisals for those who back away from the teeth. He meets Yarik head-on in the spray of shouting and tells him he will get the hearing at Parliament if he pulls his men back, but not a finger nearer the Crown while the high tide has its tallest shoulder on the city. He gestures for Iria to hold the convoy in a slow drift and to sing the pilots’ lull, and in the hum’s quiet pockets he bleeds his knuckles against Syndicate cudgels rather than let the gear teeth taste reckless hands.",
+            "outcome": "The tide passes without a stutter and the ring-streets do not fill with ruin, and by morning the hawkers shout about failed uprisings rather than family names lost. The secret remains where it has slept and the Guild of Tidewrights pretends that only their mastery kept the breath true, though in private Sel’s thanks is as heavy as the lever-rod he gave. Yarik’s Chain Circle writes Raithe on the board of men to be tested, not killed, for there is respect in a clean stop that does not court glory, but the docks hiss about borrowed brass and the Wharfers’ printers ink his name in a sharp light. Brask Ilyne keeps his men on a short leash for one tide and grimaces at his own relief, quietly sending a runner with a pouch of coin that Raithe will never spend all at once. The city breathes out, and if some corners call it a gasp of fear, others call it discipline, and the Crown’s teeth are washed clean of blood for another night."
+        },
+        {
+            "id": "C3",
+            "title": "Lantern Cordon: Borrow Light to Buy Time",
+            "text": "Raithe signals Iria with an old wharf-child code, asking for a light-cordon to paint the river in a corridor of calm that even rage would hesitate to cross. He consults Sel and Brask in a breathless triangle, trading temporary surrender of beacon scheduling to the Lantern Cartel in exchange for their disciplined pilots forming a living barrier between the Syndicate push and the bypass mouth. He climbs the crane-ladders and shouts from hooks and bones as Iria’s convoy flares and settles, making a jeweled windless lane that looks like law even if it is only borrowed order. He tells Yarik that to cross the light is to declare war not simply on the Guild but on the pilots who bring bread and rescue to every ring, and that there is no dignity in smashing the lantern that guides your own sisters home. He promises a place at the Glass Parliament when the tide recedes and offers his Mnemos Leaf to fix this moment as covenant, knowing that to owe the Cartel is to kiss a ring he would rather not, but preferring debt to drowning.",
+            "outcome": "The cordon holds and the hum in the gearing softens as if soothed by a lullaby, because no hands reach greedily for the teeth while the river glows with pilot code. The Syndicate curses but does not take the light, for even hard men have mothers who have watched for beacons in fog, and Iria’s voice carries authority wrapped in affection that cuts through cudgel-thick air. Sel accepts the affront to Guild pride in silence and quietly notes that order was purchased with outside coin, which he will remember when favors are tallied, yet he cannot argue with the survival of rings seven through two. Brask’s patrols stand down from the brink and spend their strength escorting the convoy, and the night bleeds into dawn with more hoarse throats than split skulls. The Cartel’s smile is bright and edged; Raithe earns a favor that tastes of salt and politics, and though the Tidewrights bristle, the city’s breath keeps time to lantern light rather than to a lever jerk."
+        },
+        {
+            "id": "C4",
+            "title": "The Controlled Surge: Stage a False Pull",
+            "text": "Raithe proposes a razor’s-edge compromise to Yarik and Sel in the shadow of the wheel, a sleight of tide that lets the city feel a tremor without tasting true flood. He explains a maneuver from his Saltwarden days—slackening a secondary sluice in step with a counterweight—so that foam dresses the stones of an empty stair and rumor finds water where only spray kissed. He binds both men with the Knot-Ring: Yarik to claim the spectacle as proof of pressure and withdraw, Sel to accept the theater and publicly promise a hearing at low tide under the Glass Parliament’s cleared script. He times the breath by the bone-chime in his ear and Iria’s lantern blink, and when the hum reaches a tempered peak he nods and the sluice sighs without the Crown’s teeth ever fully biting. He walks the line after with his visor off so all can read his eyes, telling the crews that the hinge moved just enough to prove itself mortal, and that men, not ghosts, would now decide how it is tended.",
+            "outcome": "The city gasps at slick steps and whispers that the gate shifted, and the inner rings feel a prickling humility while the outer rings taste a mouthful of vindication, but no child wakes with water in their bed. Yarik gains his story and pulls his people back with pride intact, and for once pride does not leave footprints shaped like graves along the quay. Sel swallows humiliation seasoned with relief and puts his hand on Raithe’s shoulder in public, promising the scheduled hearing while already calculating how to seal his secrets tighter. The Gate Crown remains stable and the starshard’s song never climbs into a scream, though it thrums in Raithe’s bones as if displeased by the lie so near its truth. By dawn, Parliament benches fill with wet-hemmed petitioners instead of widows, and though some call the night a trick, most call it wisdom, and the hinge turns toward talk rather than blood."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "8",
+            "3"
+        ],
+        "next": [
+            "10",
+            "11"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Lever-rod stamped with a temporary Gate Crown glyph that grants auxiliary authority until the next new moon."
+        },
+        {
+            "type": "Coin",
+            "description": "75 coins in brine-chits or their counted equivalent, hazard pay for a tide held steady."
+        },
+        {
+            "type": "Faction",
+            "description": "Guild of Tidewrights favor: one-time emergency requisition privilege for tools and labor when the city’s breath runs short."
+        },
+        {
+            "type": "Unlock",
+            "description": "Dry Dock Three overseers will begrudgingly answer your questions and grant you ten minutes in their ledger-room without escort."
+        }
+    ]
+}

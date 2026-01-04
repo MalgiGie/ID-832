@@ -1,0 +1,58 @@
+{
+    "id": "M7",
+    "title": "Debate Under the Mud",
+    "quest_giver": "Irevan Glassmere",
+    "description": "Archivist Irevan’s hands shake as he lays out maps that have faded not with age but with drought. The inks used by the first surveyors respond to verse-keys cut into the statues along the Sunken Road. The river has swallowed half the causeway and spat up stone leeches, but the debate under the mud can still be heard at new moon if you put your ear to the right slab. Kezra must travel with Gate-Captain Tholl’s cautious escort, make rubbings of inscriptions that appear only when the water drops, and pry a shard of oath-stone from beneath a toppled sage whose hands cup a bird’s nest. The Night Cartographers haunt the periphery, polite as midwives and twice as ready with a cloth to cover inconvenient cries.",
+    "objectives": [
+        "Secure Tholl’s escort and march to the Sunken Road with supplies for a tide cycle.",
+        "At low water, make ink rubbings of three debate stanzas and take a tracing of the oath-keys hidden in moss.",
+        "Retrieve the oath-stone shard lodged under a toppled statue without disturbing the nesting birds.",
+        "Return the verse-keys to the Lantern Archive and reactivate a set of fading charts."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Irevan Glassmere",
+            "lines": "There are maps that darken when the river drinks too deeply. You can call it magic or chemistry; I call it a memory that refuses to live in only one medium. Bring me the verses, Kezra. I need to remind the ink who it is."
+        },
+        {
+            "speaker": "Gate-Captain Tholl",
+            "lines": "My job is to keep people from dying in stupid ways. The Sunken Road breeds clever stupidity. Mind your footing, respect the birds, and if the statues seem to listen, don’t tell me about it until we’re back under honest brick."
+        },
+        {
+            "speaker": "A Night Cartographer (Lysa Quill)",
+            "lines": "We sketch what others pretend is beneath their notice. If you share your rubbings, I’ll share a way around the reed-thing that doesn’t cost you a prayer. This is not a threat; it’s an arithmetic of risk. Your city loves arithmetic when it wears a robe."
+        },
+        {
+            "speaker": "Sula Reedmantle",
+            "lines": "Bring the rubbings straight to me. We’ll wake the inks with oil that smells like storms on old stone. And if the Night Cartographers left a thumbprint on your work, I’ll show you how to lift it without tearing the page."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I’ll listen to the debate under the mud and take only what the river can spare. The rest stays on the Road, arguing eternity into a set of sentences. We’ll borrow the cadence and give it back in ink."
+        }
+    ],
+    "connections": {
+        "previous": "M6",
+        "next": "M8",
+        "locations": [
+            "Sunken Road",
+            "Lantern Archive"
+        ],
+        "npcs_involved": [
+            "Irevan Glassmere",
+            "Gate-Captain Tholl",
+            "Lysa Quill",
+            "Sula Reedmantle"
+        ],
+        "themes": [
+            "memory inks",
+            "ancient vows",
+            "bargains at the edge"
+        ]
+    },
+    "rewards": [
+        "Reactivated survey charts that reveal drought-safe shallows (navigation advantage)",
+        "A vial of ‘storm-stone’ memory oil (enhances durability of recorded patterns)",
+        "Respect of Tholl’s watch (reduced scrutiny at Ember Gate)"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Jaya",
+    "surname": "Basaltrip",
+    "race": "Human",
+    "age": 41,
+    "appearance": "Compact and muscled, sun-browned with basalt dust in her braids. Wears a leather harness hung with pitons and a bronze ring shard on a thong.",
+    "character": "Stoic and fair, she balances risk and bread with a quarry-boss’s steady hand.",
+    "traits": [
+        "Stoic",
+        "Fair",
+        "Steadfast",
+        "Plainspoken"
+    ],
+    "skills": [
+        "Stonecutting and fracture reading",
+        "Rigging on cliff faces",
+        "Crew mediation",
+        "Windcatcher tuning"
+    ],
+    "talents": [
+        "Reads grain lines like ledger lines",
+        "Whistle loud enough to cut through waterfalls",
+        "Measures wind by skin-prickle"
+    ],
+    "flaws": [
+        "Bad knee",
+        "Grudges that fossilize",
+        "Dislikes heights despite her work"
+    ],
+    "dreams": [
+        "Worker-owned quarry at the Fallen Stair",
+        "Windcatchers that spare lungs in Emberbank",
+        "Force House Kelvar to abandon debt-mining schemes"
+    ],
+    "secrets": [
+        "Keeps a warm shard from a giant ring that sings at night",
+        "Tipped the Collegium to ring-warmth on a hush visit",
+        "Hides union meeting rosters in a hollow piton"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ina Peppercoal",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Borgo Emberdell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mara Tidecall",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thane Kelvar",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Lysa Shardhands",
+            "relation_type": "neutral"
+        }
+    ]
+}

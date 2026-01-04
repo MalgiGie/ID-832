@@ -1,0 +1,57 @@
+{
+    "id": 6,
+    "title": "Night of Knots on Leviathan’s Splay",
+    "quest_giver": "Alion Mareth",
+    "description": "At the lowest ebb the city’s mudflats open like the ribs of a sleeping god. Star-Prior Alion Mareth petitions Raithe to escort the Tidebound Conclave during the rare Night of Knots, when vows are tied on exposed bone to renew the city’s covenant. Choirs hum countercurrents while white crabs gather, attracted to song. Lady Maris Veyron’s retainers come with incense and old claims, seeking to bind hereditary rights to the ribs. The bone bridge’s omens flicker, and a bell that should be silent answers the hymn. The hum in Raithe’s earring meets the Gate Crown’s hidden tooth across mud and distance, and for a dreadful moment, the city’s inhale and exhale fall out of step.",
+    "objectives": [
+        "Escort the Conclave procession safely to the exposed ribs at Leviathan’s Splay.",
+        "Defend the rite from disruption by opportunistic House Veyron retainers and Ratchet hardliners.",
+        "Assist Alion in tying a corrective counterknot to stabilize the shard resonance.",
+        "Interpret omens in the rib shadows to learn a fragment of the drowned saint’s song-key."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Alion Mareth",
+            "line": "Bind the flood, unbind the heart; that is our work and our risk. Tonight we tie our city to mercy with knots that remember songs. But something hums beneath us that is not ours to command, and I smell brass on the tide. Stand at our side, Raithe, and if old claims try to ride our rite, cut their reins."
+        },
+        {
+            "speaker": "Maris Veyron",
+            "line": "Do not dress theft in liturgy, Prior. My ancestors staked ribs in this mud when your order was still counting beads in cellars. The sea remembers its princes, and it will remember this night as the one when we reclaimed stewardship from cowls and kites."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "line": "If the sea remembers anything, my father’s bones are part of the recollection. You try to harness a hum you do not understand, Lady Veyron, and you will drown the quiet that keeps this city steady. Prior, tell me where to tie, and I’ll keep their hands off the knot."
+        },
+        {
+            "speaker": "Alion Mareth",
+            "line": "Here, between spine and splay, where the ribs breathe. Tie as I sing and listen for the second voice under mine—the drowned saint’s key. We will need it soon, when stone and star must answer the same note."
+        }
+    ],
+    "connections": {
+        "previous": [
+            3,
+            5
+        ],
+        "next": [
+            7,
+            10
+        ],
+        "related": [
+            1,
+            11
+        ]
+    },
+    "rewards": {
+        "items": [
+            "Consecrated knot-fiber upgraded for the Knot-Ring (binds a single promise against magical tampering)"
+        ],
+        "coin": 40,
+        "faction": {
+            "name": "Tidebound Conclave",
+            "favor": "Sanctuary writ in case of political persecution."
+        },
+        "unlock": [
+            "Access to rib-bridge shrines for private rites."
+        ]
+    }
+}

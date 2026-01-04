@@ -1,0 +1,44 @@
+{
+    "id": "M6",
+    "title": "The Mangrove’s Memory",
+    "quest_giver": "Garrik Shale",
+    "description": "The Sighing Mangrove draws a single note from wind and root, a breath that never ends. Chainmaster crews need resin and timber to keep the Array honest, and quotas have Pilgrims snarling over sacred groves. Garrik Shale sends Mara upriver to escort a logging party under Brinelaw quotas, to negotiate with the marsh-goddess if the old shrines balk, and to keep the vigil-keepers from cutting ropes instead of trees. The marsh-goddess trades safe passage for memories you no longer use; rumors say she is fond of songs. Between sinkholes, midges, and glass eels, the journey is as much a test of patience as of blade. Somewhere in the reed-knots is a hint of the Heart-Scale the Pilgrims cherish like a secret sunrise.",
+    "objectives": [
+        "Escort Chainmaster loggers to designated groves and collect resin without violating Pilgrim-marked shrines.",
+        "Parley at a driftwood shrine with the marsh-goddess; offer a memory you can spare in exchange for safe passage and a sign.",
+        "Mark safe channels through sinkholes and return a mapped route to Brinelaw for public posting.",
+        "Deliver resin to the Tidemill Array stores and report on Pilgrim tensions to Garrik Shale."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Garrik Shale",
+            "lines": "I don’t ask you to make the Pilgrims love the sound of a saw. I ask you to make sure my crews come back with all their fingers and enough resin to keep the wheels from biting. If a goddess wants a memory, give her one that lets you sleep. I’ve got a handful I could spare, but they’re not mine to trade for this crew."
+        },
+        {
+            "speaker": "Siala Nerm",
+            "lines": "We tie names to reeds here so the drowned can be found by the wind. Your boots are heavy with purpose. Walk softer. If you must take, sing first. If you must cut, pour brine. The goddess is vain as any of us; she wants to be remembered, and she takes memory in trade."
+        },
+        {
+            "speaker": "The Marsh-Goddess (through a hollow root)",
+            "lines": "Little archer, what song do you keep that you do not sing? Give me the taste of it, and I will blow this breath a little wider for your boats. Keep your axes from my oldest knees, and I will teach you where the mud is shallow and the eels are sleeping."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "I have a tune my mother used to hum when the lanterns were warm and the wind was kind. I will give you the shape of it and keep the words. And I will write your channels on a chart so even fools read them like a prayer."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        "Chainmaster hazard pay (25 silver)",
+        "Marked channel map through the Sighing Mangrove (safer future travel)",
+        "A gentle, persistent absence: you forget a trivial lullaby but gain the goddess’s whispered hint about a ‘Heart-Scale’ kept under veils",
+        "+Favor with Chainmaster’s Union (Garrik Shale) and eased tensions with Pilgrims (Siala Nerm)"
+    ]
+}

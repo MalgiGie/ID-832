@@ -1,0 +1,68 @@
+{
+    "name": "Sava",
+    "surname": "Deren",
+    "race": "Human",
+    "age": 56,
+    "appearance": "River-scarred matriarch with weathered hands, a silvered pole strapped across her back, cropped grey hair, and old rope burns at her wrists.",
+    "character": "Gruff and protective; the river took much from her, and everything she does now is to keep it from taking more from her crews.",
+    "traits": [
+        "Loyal",
+        "Blunt",
+        "Brave",
+        "Stubborn"
+    ],
+    "skills": [
+        "Piloting treacherous channels",
+        "Crew command",
+        "Navigation by scent and sound",
+        "Strike organizing",
+        "Polearm fighting"
+    ],
+    "talents": [
+        "Feels hidden currents through a pole",
+        "Reads weather on the wind",
+        "Can still a dockside riot with a barked order"
+    ],
+    "flaws": [
+        "Bullying streak",
+        "Distrusts scholars and priests",
+        "Grudge-bearing",
+        "Moonbridge nightmares"
+    ],
+    "dreams": [
+        "Find her first-born lost on the Moonbridge",
+        "End barge-garden taxes",
+        "Secure Ferrymen priority at the Weir forever"
+    ],
+    "secrets": [
+        "Brokered smuggling under a quarantine pennant once",
+        "Keeps a shard of moonmoss to remember a face she fears to forget",
+        "Funded a failed charting of the Moonbridge’s returns"
+    ],
+    "relations": [
+        {
+            "npc_name": "Quill Vess",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ollo Fen",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Calra Orun",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mereth Tydel",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Jilai Sunquiet",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Rana Olt",
+            "relation_type": "Rivalry"
+        }
+    ]
+}

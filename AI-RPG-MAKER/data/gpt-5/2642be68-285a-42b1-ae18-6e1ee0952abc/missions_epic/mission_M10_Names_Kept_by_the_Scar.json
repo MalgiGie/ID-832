@@ -1,0 +1,76 @@
+{
+    "id": "M10",
+    "title": "Names Kept by the Scar",
+    "quest_giver": {
+        "name": "Mira Cael",
+        "affiliation": "Wardens of the Windward"
+    },
+    "description": "Night rides the river like a black pane as Mira Cael coaxes a lean skiff through the mirrored alleys and out toward the broken teeth of the northwest hills. The Prism Citadel glows behind you in muted mothlight, its bells held on a breath while the Mothfast starves the lightwell beneath the Spire, and each stroke of Mira's oar counts like a heartbeat toward a truth you can no longer leave unspoken. Pesha Lume sits quiet in the bow, a candle-keeper's shawl drawn around her shoulders, both hands clasped around a small jar the color of old smoke; the jar's wax remembers every hush sworn in the House of Quiet Wings, and its silence weighs heavier than iron. When the Skarred vale opens, the wind loses its edge and the world feels made of glass and withheld names; shards jut like frozen waves and the bowl in the center hums softly, a reversed lullaby that crooks a finger at those who have ever lied to themselves. Your own voice, that iron-sweet reversal, waits below like an old injury that never healed, and the path down is scored with footprints that all point inward and none climb out the same way. \nMira ties the skiff to a starlit rib, knots neat and twice-checked, and her eyes slide once to the memorial cord on your wrist before she looks away like a friend who won't touch a wound unless asked. She hands you a river-worn rope and a night-burnished hook and tells you she will count to one hundred twice, and you know she means it in her bones. Pesha unseals the jar for a breath, and all the field-chatter and heart-noise of your body stops as if someone drew a curtain over the world; she closes it again, and sound returns with the soft panic of surfacing too fast. The Scar gleams with memory, the fused bowl holding starfire that never cools, and the echoes there pile in corners like dead leaves you cannot sweep away. If you would strike the note needed to wake the runecap and make the Engine bones sing true, you must go down and fetch your own name from the mouth that remembers it, refuse every gilded lie it offers, and bring back a syllable that belongs to no one but you.",
+    "objectives": [
+        "Travel with Mira Cael to the Starfall Scar and descend to the central bowl.",
+        "Use the jar of silence to bait your held name-echo.",
+        "Refuse any false bargains and reclaim your name in full.",
+        "Imprint the reclaimed name into the runecap’s tone.",
+        "Return safely to Thyssara with the coordinates for the hidden bypass handle."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Mira Cael",
+            "lines": "Names anchor ropes better than rings do, and I have seen a good knot slip when a person forgets what they are tied to. If the Scar holds yours, it can pluck you off a deck when the wind chooses, and there won't be a rope in Thyssara long enough to pull you back. I will hold the line until my palms break, and I'll count to one hundred twice because I measure fear by breaths and not by bells. If you are not back by the second hundred, I come down with a knife and an apology, and that apology will stick between my ribs until my last day. Do not make me choose between your lungs and your pride, Kade; I've dragged too many friends out of places that wanted to keep them, and I don't aim to let this vale add your boots to its tally."
+        },
+        {
+            "speaker": "Pesha Lume",
+            "lines": "Echoes are generous in the way dreams are generous, which is to say they spend what isn't theirs and price it later. They will offer you a life without error because they do not understand cost, and they cannot carry a burden past dawn without eating the person who asked them to hold it. When you hear yourself say what you most want to hear, close your eyes and breathe out until your ribs ache, because truth rides out on the air we are willing to lose. Your true name will be the one that sounds tired and still keeps walking, not the one that promises to run forever and never sweat. Take this jar: open it a finger-width when the echo leans closest, and let the silence drink the glitter from its words until only the dull metal of your name remains."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "lines": "I gave the Scar a piece of me because a child needed a name more than I did, and if I had to pay that price again I would lay it down without counting. But I won't apprentice the rest of me to a hole in the world that eats what it remembers; if it wants the other half, it can come wrestle me for it in the open air. I will take back what I loaned and I will carry it out like a pilot hauls a storm-drowned line, and when I sing I will sing a note that fits the tenth gate's bones. Then we will go home and make mistakes that are ours and not a shadow's, and the bells can mark us for people who stood and not echoes that begged to be carried. Tie me fast, Mira, and listen close, Pesha; if I don't come back on your count, pull until the rope hums like a skiff mast in a high wind."
+        },
+        {
+            "speaker": "The Echo of Kade",
+            "lines": "I have held your name in my mouth like a coin on the tongue, cool and bright, and I have warmed it on nights when you could not sleep because the water remembered another boy. I can be the tide that never turns and the rope that never frays, the hand that never slips, the breath that never ends, if only you let me walk ahead and choose the stones for you. Lay down your weight and I will carry it until the bells forget you and you forget them, and we will move through the city like light through colored glass without ever breaking. Take my hand and you will not have to wake up in any more storms or write apology letters with damp ink to mothers you have disappointed, because I will eat the part of you that shakes. Refuse me and I will wait by your last dawn and take what is mine when your jaw is soft, and your friends will hear a note in the wind that says they were fools to trust a man who could have been perfect and chose instead to be merely himself."
+        }
+    ],
+    "choices": [
+        {
+            "id": "CH1",
+            "title": "Stand in the bowl and speak your true name without bargain",
+            "text": "You step into the fused sand where echoes fall inward like rain into a well, and you open the jar a finger-width to let silence pool around your ankles. You breathe out until your ribs ache and then beyond ache into the cold place where fear has to choose a door, and you feel the echo's honeyed syllables slough away like old pitch from a hull. You speak the name that was given and the one you made, you speak the knots and the scars and the nights you did not sleep, and your voice comes back not as sugar but as iron that holds an edge. The bowl flashes once like a bell hammered by a careful hand, and the memory of a boy's face you saved with your gamble in the Scar opens its fist and lets go. You take that letting-go and wear it like a ring you did earn with blisters, and you feel the runecap in your satchel warm as if a distant machine had just decided to trust you.",
+            "outcome": "The echo recoils as the silence sips the shine off its promises and leaves only the dull weight of your name, which is heavier and kinder than you remembered. You reclaim the syllable it hoarded, and it leaves a slight ache in your jaw where you once clenched against grief, but the ache is clean and finite. When you touch the runecap and hum the reclaimed cadence, the tone aligns and the cap's etchings flare with a steady, lawful light that answers the Engine's hidden rhythm. Coordinates roll through your mind like tide-marks on a pilot's board, and you see the bypass handle's resting place in the geometry of rivets beneath the tenth gate. You climb on Mira's count with legs that tremble from more than descent, and Pesha seals the jar with a nod that reads like a benediction even as the vale's reversed lullaby dims to a harmless memory."
+        },
+        {
+            "id": "CH2",
+            "title": "Accept the echo's bargain for easy power and a perfect note",
+            "text": "You stand at the edge of the bowl and let the echo's warm breath fog the inside of your teeth, and you imagine how light it would feel to never again weigh a choice against a friend's hunger. You imagine gates that never jam and ropes that never fray and a city that never needs an apology, and you think of all the nights you would give back to your mother like flowers. The echo offers a flawless note that will force the runecap to heel like a trained dog, and it asks only that you let it choose when to sing instead of you. It whispers that the child you saved will never weep again if you will let yourself be carried like cargo and not walk like a man, and it promises that no dawn will ever ring harsh on your eyes. You feel your shoulders loosen, your tongue go slack, and the jar in your hand grows oddly heavy as if the hush inside it knows your spine is bending.",
+            "outcome": "The perfect note is a mirror, and when you try to press it into the runecap it slides away and leaves your fingers wet with nothing; the cap rejects the unearned resonance with a spit of green light that tastes like old copper. You come away with a counterfeit calm that looks fine from a distance but buzzes wrong against the Engine's math, and Mira's eyes go hard because she hears the false sweetness. Pesha sets her jaw and tells you quietly that the House of Quiet Wings can scour the borrowed tone if you will fast lamps for three nights and carry water without speaking, and that discipline will bruise your pride but save your work. You still wrench a partial coordinate from the echo's grip, a blurry hint that points you beneath the tenth gate, but it swims like heat-haze and will mislead you under stress until cleansed. The path to the next bell remains open, but you carry a weight that makes future checks against doubt harsher and forces you to earn back trust in the eyes of those who live by honest sound."
+        },
+        {
+            "id": "CH3",
+            "title": "Trap the echo in Pesha's jar of silence and interrogate it",
+            "text": "You kneel in the bowl and tilt the jar until its lip kisses the echo's mouth, and you feel the world flicker like a moth caught between lamps as the hush slides out and eats the shine off the voice. The echo tries to back away but the glass ribs of the vale bend its retreat and it falls like a word into a blank page, and in the new stillness you hear only the grind of your own teeth. You ask questions in a steady rhythm as a pilot might drum a signal across fog, and you keep your palms flat so the bones of your hands do not tell on your fear. Each answer comes back stripped of perfume, an ugly little truth that looks like a pebble and weighs like a river stone, and among them is your full name, bruised but yours. You catch that name with both hands and you do not thank the thing that tried to steal it, and you promise the remaining echoes that there will be no second harvest here tonight.",
+            "outcome": "The jar darkens like a storm taking a breath, and a hairline crack runs its side from lip to belly as if the silence inside had to stretch to hold what you forced upon it. Pesha bows her head for a long count because a good tool died a little today, but when she looks up there is pride in the lines at the corners of her eyes and she says that some losses are paid forward. Your reclaimed name sits steady in your chest, and the runecap accepts its imprint with a clean click that feels like a lock admitting the right key. The coordinates settle in your mind with crisp edges, and you also pull from the trapped echo a small, bitter secret: a warning that someone in the Engine House already listens for unauthorized notes at the tenth gate. You climb out to Mira's steady counting and she signs a Warden's quiet commendation with her fingers, and the vale grows sullen and still as if it understands you have taken from it something it cannot replace."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Status",
+            "description": "Your name reclaimed (resolves lingering echo affliction; improves resistance to manipulation)"
+        },
+        {
+            "type": "Item Upgrade",
+            "description": "Runecap harmonized with your true name (enables emergency bell-tone usage)"
+        },
+        {
+            "type": "Faction Favor",
+            "description": "Wardens favor: Mira Cael’s personal recommendation to Captain Aramus Dene"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 1,
+    "title": "Hums Before the Season",
+    "quest_giver": "Sela Tidecount",
+    "description": "Fog rolled in three weeks too early, and with it came a faint music from the Skyhook Chain that should not be singing until the monsoon. Pilots began waking with the taste of copper on their tongues, and Sere felt her old red-pulse tremor flutter in her ribs when the stormglass whistle at her belt thrummed on its own. Sela Tidecount, the Fog Mistress, calls Sere up to the Pilots Lantern where the sea opens like a pupil and the stormglass lens glows pale-green against the dawn. A wreck has been seen drifting upriver without oars, and a half-rusted scroll tube was spotted tangled in a link of the broken chain. Old rumors say seven chords can calm the heartstone, and the chain seems to be plucking them in warning.",
+    "objectives": [
+        "Meet Sela Tidecount at the Pilots Lantern and receive the fog-waymarks.",
+        "Climb the lower links of the Skyhook Chain during a pressure dip and retrieve the rusted scroll tube.",
+        "Investigate the upriver drifting wreck and secure any stormglass nodules within.",
+        "Report findings to Sela and decide whether to inform the Wardens or keep the discovery within the Pilots."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Sela Tidecount",
+            "text": "Taste the wind, Sere, and tell me it is honest. It is not. The chain hums like a wet wire, and the fog is wearing a season it did not earn. I have sent three apprentices to read the links and all came back with eyes like boiled fish. We need hands that remember the right knots and a heart stubborn enough to fight the sky itself. Go up there and bring me what the chain is hoarding before the Parliament decides to light every lantern green and blind us all."
+        },
+        {
+            "speaker": "Sere Kallin",
+            "text": "If the chain is humming out of season, it is not just wind playing tricks. The Engine hum ran different last night and my whistle sang like a kettle. If something is lodged up there, it wants us to hear it, or it wants us to bleed for it. I will climb when the pressure eases. Keep the lantern pulsing in the fog rhythm, and if I shout, count three beats before you answer so I know it is you and not the chain."
+        },
+        {
+            "speaker": "Jaxin Brail",
+            "text": "If you bring down a scroll tube, do not crack it until I get a look. Stormglass can remember lightning like a spider remembers flies, and a wrong touch can singe your bones from the inside. I owe you more than I can pay, but let me pay in knowledge at least. If there is a notation for those seven chords, the Collegium might be able to turn sound into shape and give you more than luck on a rope."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            2
+        ],
+        "related": []
+    },
+    "rewards": [
+        "A stormglass shard that resonates softly near pressure drops",
+        "Pilot waymarks allowing safe passage under the Skyhook in low fog",
+        "Goodwill with the River Pilots Conclave"
+    ]
+}

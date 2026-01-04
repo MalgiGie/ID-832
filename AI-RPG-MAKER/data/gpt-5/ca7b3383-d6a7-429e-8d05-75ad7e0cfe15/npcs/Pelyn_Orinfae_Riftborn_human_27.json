@@ -1,0 +1,65 @@
+{
+    "name": "Pelyn",
+    "surname": "Orinfae",
+    "race": "Riftborn human",
+    "age": 27,
+    "appearance": "Rope-burned hands, feather-iron charms braided into hair, skyvine-wrapped boots, and a grin that welcomes bad ideas.",
+    "character": "Audacious scavenger who masks care for friends behind irreverence.",
+    "traits": [
+        "daring",
+        "clever",
+        "flippant",
+        "loyal",
+        "improvisational"
+    ],
+    "skills": [
+        "pylon climbing",
+        "relic salvage and appraisal",
+        "counterweight tinkering",
+        "trap spotting",
+        "urban free-running"
+    ],
+    "talents": [
+        "uncanny balance on swaying beams",
+        "feels gyre hum changes through soles"
+    ],
+    "flaws": [
+        "risk-junkie",
+        "lies by omission",
+        "disdains permits and safety briefings"
+    ],
+    "dreams": [
+        "to recover a working Feathered Gyre",
+        "to prove Orin tech can free Skarnhold from toll chokepoints"
+    ],
+    "secrets": [
+        "sold relics to the Veil through Sere Vell",
+        "swapped a pylon safety pin with a counterfeit to access a sealed chamber"
+    ],
+    "relations": [
+        {
+            "npc_name": "Riven Hask",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Vara Keshlin",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sere Vell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jask Lumenwright",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Nemra Coil",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Tosk Glassbite",
+            "relation_type": "Hostility"
+        }
+    ]
+}

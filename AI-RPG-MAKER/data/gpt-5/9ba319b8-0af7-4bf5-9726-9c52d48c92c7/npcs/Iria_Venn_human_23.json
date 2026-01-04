@@ -1,0 +1,64 @@
+{
+    "name": "Iria",
+    "surname": "Venn",
+    "race": "human",
+    "age": 23,
+    "appearance": "Hookling-lean with rope burns and a sky-silk patch jacket; hair bound in a wind-knot, grin too quick for her own safety.",
+    "character": "Daring and loyal; trouble finds her because she flies toward it.",
+    "traits": [
+        "fearless",
+        "streetwise",
+        "generous",
+        "impulsive"
+    ],
+    "skills": [
+        "glider piloting",
+        "cliff running",
+        "line throwing",
+        "lantern code reading",
+        "aerial courier work"
+    ],
+    "talents": [
+        "riding cliff slipstreams",
+        "feeling wind shifts on skin",
+        "vanishing into cliff markets"
+    ],
+    "flaws": [
+        "show-off",
+        "trusts the wrong legends",
+        "owes dues to the Cartel",
+        "keeps souvenirs from jobs"
+    ],
+    "dreams": [
+        "own a glider gantry free of tariffs",
+        "write her own wind-runes",
+        "free pilots from tithe bondage"
+    ],
+    "secrets": [
+        "stole a small wind-rune plate from the Aerie workshop",
+        "hid a Ratchet courier during curfew in a beacon loft",
+        "flies forbidden arcs over the Basilica when the choir sleeps"
+    ],
+    "relations": [
+        {
+            "npc_name": "Luma Keel",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Orrix Vant",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Nella Shuck",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Brask Ilyne",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Yarik Nine-Fingers",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

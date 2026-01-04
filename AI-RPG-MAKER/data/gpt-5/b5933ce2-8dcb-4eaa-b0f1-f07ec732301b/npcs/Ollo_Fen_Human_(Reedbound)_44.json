@@ -1,0 +1,64 @@
+{
+    "name": "Ollo",
+    "surname": "Fen",
+    "race": "Human (Reedbound)",
+    "age": 44,
+    "appearance": "Broad-shouldered pilot with reed-tattooed arms, river-burnished skin, a marsh-scented cloak, and laugh lines deep as tide cuts.",
+    "character": "Jovial in peace, implacable in defense of the marsh; he trusts currents more than city laws.",
+    "traits": [
+        "Proud",
+        "Community-minded",
+        "Stubborn",
+        "Generous"
+    ],
+    "skills": [
+        "Piloting in fog",
+        "Blockade tactics",
+        "Marsh herb lore",
+        "Oath-feasts",
+        "Pole-fighting"
+    ],
+    "talents": [
+        "Hums the Reed-Queen’s guiding tune",
+        "Sees safe channels by starlight",
+        "Navigates uncanny fogs without compass"
+    ],
+    "flaws": [
+        "Mistrusts city courts",
+        "Quick to escalate",
+        "Refuses certain tolls",
+        "Indulgent with kin"
+    ],
+    "dreams": [
+        "End barge taxes",
+        "Secure recognition of marsh shrines",
+        "Keep the water-breathing child safe to adulthood"
+    ],
+    "secrets": [
+        "Shelters a child who breathes water and sings reed-speech",
+        "Runs a smuggler cut for medicine to the poor",
+        "Once loosened a song-gate anchor line to save a raft-village from a surge"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sava Deren",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Quill Vess",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Calra Orun",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Jilai Sunquiet",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mereth Tydel",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

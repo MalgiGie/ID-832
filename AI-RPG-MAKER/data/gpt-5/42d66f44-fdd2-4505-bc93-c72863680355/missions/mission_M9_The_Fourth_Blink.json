@@ -1,0 +1,79 @@
+{
+    "id": "M9",
+    "title": "The Fourth Blink",
+    "quest_giver": "Sirae Glowhand, Lighthouse Lamplighter (with Arno Kest observing)",
+    "description": "Moonlock Lighthouse’s pearl-lens turns light into a pulse that beats with the moon. Between the third and fourth blinks there is a shadow that means a smuggler cove to those who know the code. Sirae Glowhand has been fighting a false chorus at sea luring whales and small boats alike toward rocks, and she needs Kael to help retune the lens to swallow the shadow and answer the chorus with a harmless hum. Arno Kest arrives to defend the Syndicate’s claim on the lens’ purity, while a Brinewarden signal-master mutters about protocols. If Kael admits he once altered a pulse to draw cutters away from a procession, old arguments will rush the stairs like a squall. The lamp room smells of oil, salt, and stubbornness.",
+    "objectives": [
+        "Climb the Moonlock Lighthouse and assist Sirae Glowhand in polishing the pearl-lens.",
+        "Identify and map the current pulse sequence including the shadow between the third and fourth blinks.",
+        "Decide whether to expose or erase the smuggler cove shadow code.",
+        "Retune the lens to counter the false chorus without blinding incoming patrols.",
+        "Report your actions to Captain Ysger Thorn and justify your choice."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Sirae Glowhand",
+                "line": "The lens is a choir of little moons; if one sings off, the whole song goes crooked. I can mend the scratches. I can oil the gears. I cannot fight a chorus I cannot hear alone. Your ears know the water even with that ring in them. Help me make the light sing truth."
+            },
+            {
+                "speaker": "Arno Kest",
+                "line": "Every pearl in that lens has a pedigree longer than most bloodlines and a temper worse than mine. Touch with respect. If I see you smudge that resin with dirty cloth, I’ll make you polish until the moon comes down and asks for a dance."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Kael",
+                "line": "There it is—the shadow between three and four. It’s a wink only a guilty man would notice. We cut it out and smugglers crash, or we keep it as a place for desperate boats to hide from worse wolves. Sirae, what kind of city do we want the night to think we are?"
+            },
+            {
+                "speaker": "Sirae Glowhand",
+                "line": "A city that doesn’t lie with light, even when the lie is soft. Swallow the shadow, but show me a pulse the orphans can follow home in fog. We don’t kill the desperate with clean blinks; we save them with better ones."
+            },
+            {
+                "speaker": "Ysger Thorn",
+                "line": "You changed a pulse once. You tell me now, with your chin up, that you’ll change it back for the city, not for your friends. If your answer is good, I’ll hold my temper. If it’s bad, I’ll chain it."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Kael",
+                "line": "The fourth blink sings true now. The shadow is gone, but I left a soft trail in the low fog—three slow breaths anyone can count. It leads away from the rocks and not toward any cove. The false chorus will find no echo here tonight."
+            },
+            {
+                "speaker": "Sirae Glowhand",
+                "line": "The lens thanks you in the only language it knows—clean light. Keep your shoulders easy, archer. You did not betray the night; you taught it a better song."
+            },
+            {
+                "speaker": "Arno Kest",
+                "line": "Fine work. If anyone accuses my glass of lying again, I’ll send them to you and your clean hands. That will shut them faster than any stamp."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ],
+        "related_to": [
+            "M2",
+            "M11"
+        ]
+    },
+    "rewards": {
+        "xp": 700,
+        "items": [
+            "Shaved Lens Shard (can signal with a tight beam in fog)",
+            "Signalmaster’s Code Slip (authorization to adjust pulses in emergencies)"
+        ],
+        "favors": [
+            "Sirae Glowhand will vouch for Kael with the lamplighters"
+        ],
+        "access": [
+            "After-hours access to the lighthouse catwalk"
+        ],
+        "coin": "30 credit-shells"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 6,
+    "title": "The Tenth Mouth",
+    "quest_giver": "Holl Riverborn",
+    "description": "A storm carved a new channel at the edge of the Nine Mouths, and its stones sing at night when the fog lays like wool. The Ferryman Without Wake is said to travel there, answering questions for the price of a name. Holl Riverborn asks Sere to carry the eel-chant and her Ferryman Token into the new channel, to ask where the seven chords must be played. The skiff will pass markers no pilot set, and the water will show routes seen only from the other side of the mirror. The price will not be coin; the price is always closer to bone.",
+    "objectives": [
+        "Meet Holl Riverborn at a hidden mooring and accept the charge to seek the Ferryman.",
+        "Pole a skiff down the uncharted tenth mouth using the eel-chant to calm eddies.",
+        "Offer the Ferryman a name and ask where the seven chords must be plucked to lull the heartstone.",
+        "Return with the answer and choose whether to reveal the name you paid to any living soul."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Holl Riverborn",
+            "text": "There are routes you cannot see until you stop leaving wakes behind you. The Ferryman teaches that lesson to those who come to him with too many ripples in their past. I will not tell you what name to pay. A fair price is your own choosing. Ask where to play the chords, and ask what happens if we play them wrong. Truth tastes different when you learn it from a mouth that does not stir the water."
+        },
+        {
+            "speaker": "Sere Kallin",
+            "text": "I have given a name to the river before and it followed me like a cold hand on my spine. If I must pay again, I will choose a name already heavy with its own guilt. The token in my palm is colder than ever, and the fog does not show my breath. I will ask plainly and listen carefully, and if the answer is a knife I will carry it edge outward so I cut only what needs cutting."
+        },
+        {
+            "speaker": "Sela Tidecount",
+            "text": "You will not be alone out there even if you think you are. Fog has a way of showing you your own back if you keep looking forward. Tie two knots into the rope at your wrist and taste the wind between them. If it tastes like rain before the scent of fish, turn left at the next singing stone. If you smell fish first, turn right. If you taste nothing at all, you have already met him."
+        }
+    ],
+    "connections": {
+        "previous": [
+            5
+        ],
+        "next": [
+            7,
+            8
+        ],
+        "related": [
+            1,
+            11
+        ]
+    },
+    "rewards": [
+        "An answer: that the seven chords must be plucked at the Skyhook Chain while the Heartward Engine’s water gate is open to the heart chamber",
+        "The Ferryman’s faint mark on your token, allowing one more question at a later moonless night",
+        "A current chart that only appears when lantern light is hooded twice"
+    ]
+}

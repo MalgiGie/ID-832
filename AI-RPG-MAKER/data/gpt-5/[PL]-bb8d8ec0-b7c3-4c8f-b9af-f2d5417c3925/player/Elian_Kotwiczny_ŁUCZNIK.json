@@ -1,0 +1,68 @@
+{
+    "name": "Elian",
+    "surname": "Kotwiczny",
+    "age": 27,
+    "race": "człowiek",
+    "appearance": {
+        "description": "Szczupły, sprężysty łucznik o skórze przyciemnionej słońcem i solą, ciemne włosy splatane w praktyczny warkocz pod kaptur lampników. Porusza się cicho jak lampniczy kurier, ma bystre, stalowozielone oczy i dłonie przyzwyczajone do pracy na wysokości.",
+        "distinctive_signs": "Blizna pod lewą brwią po uderzeniu hakiem grotem; na szyi pryzmatyczna zawieszka z selenitu, która delikatnie fosforyzuje w mgle; na prawym nadgarstku tatuaż liny kotwicznej z wplecionym symbolem Wiru."
+    },
+    "class": "ŁUCZNIK",
+    "history": "Urodził się na Tarasie Nabrzeżnym w domu lampników, a pierwsze strzały wypuszczał z łuku zrobionego z żeber zepsutej kotwicy i wygiętej gałęzi. Zna rytm dźwigów i jęk łańcuchów tak samo dobrze jak morskie prądy, bo jako nastolatek służył jako kurier świetlny na łodziach z algowymi lampami. W Pod Osiemdziesięcioma Kotwicami Maera Buławka dała mu pierwszy stały przydział – przenosił wiadomości Chóru Cieni i cechu cieśli po galeriach Niebomostu, gdy jeszcze śmiałkowie biegali tam po zbutwiałych deskach. Orla Krawężna poprosiła go o zwiad arkad od strony zawietrznych nisz, a Elian odkrył runy Ankorytów wiatru, które łagodziły ciężar kamienia podczas burzy; od tamtej pory bywa nieformalnym przewodnikiem dla brygad cieśli i mediatorem przy rozmowach z lampnikami. Gdy Zakon Wiru i Przypływu zaczął badać śpiew selenitu, Przeorysza Lima Fal zleciła Elianowi cichy przewóz relikwii laski Ankoryty do Skryptorium Przypływów oraz obserwację znikającej wody pod bazyliką – w zamian nauczyła go modlitwy, która uspokaja dłoń i oddech w sztormie. Brat Eliana zaginął podczas zawału w Szybach Selenitowych pod Wiatrzecami, a jedyny plan korytarzy widział w skryptorium; odtąd Elian nie ufa ludziom Konfederacji Siódemułów, która przegłosowała prywatyzację części nabrzeży i ograniczenia na Niebomoście. Przeprawiał się przez Bagna Szeptów, niosąc listy dla Matki Korali, nasłuchując echa dawnego powstania i ucząc się, które kępy są naprawdę suche. W Latarni Rozszczepionej przetestował strzały z pryzmatycznymi grotami, które dają sygnały nieprzyciągające strażników, i omal nie stracił pamięci na tydzień, gdy eksperymentował ze śpiewem selenitowych żył. Dziś Elian jest łucznikiem-kurierem i zwiadowcą wysokich konstrukcji, rozpiętym między Bractwem Bazaltowych Cieśli a Zakonem, z długiem wdzięczności wobec Maery. Stara się utrzymać otwarte ścieżki przez arkady i kanały, bo wierzy, że Kaledra musi oddychać – i jednocześnie wie, że jedno źle zagrane światło może znów zwabić widmową flotę.",
+    "equipment": [
+        {
+            "name": "Łuk kompozytowy z drzewa szklanego",
+            "description": "Ramię z żyłkowanego szkła drzewnego z Gaju Pustych Dębów, cięciwa impregnowana algami lampników; cichy strzał i wysoka odporność na sól."
+        },
+        {
+            "name": "Kołczan trzech rodzajów",
+            "description": "Strzały stalowe do polowania i walki, strzały pryzmatyczne do sygnalizacji oraz strzały linkowe z mikroliną do zaczepiania o arkady Niebomostu."
+        },
+        {
+            "name": "Kaptur lampniczy z latarnią algową",
+            "description": "Płócienny kaptur z mocowaniem na latarnię z łunikami; światło, które nie przyciąga komarów ani strażników."
+        },
+        {
+            "name": "Hak grotu z liną kotwiczną",
+            "description": "Składany hak ratowniczy z Wieży Grot, przydatny do wspinaczki po mostach i dźwigach."
+        },
+        {
+            "name": "Pryzmatyczny sygnalista",
+            "description": "Niewielki kryształ selenitowy osadzony w ramce ze szkła żywego; po ustawieniu pod właściwym kątem wysyła kolorowe sygnały."
+        },
+        {
+            "name": "Amulet Wiru",
+            "description": "Dar Przeoryszy Limy Fal; chłodzi dłoń i pomaga utrzymać spokojny oddech w czasie stresu."
+        },
+        {
+            "name": "Mapa ukrytych kanałów",
+            "description": "Ręcznie poprawiany plan od Jodana Piżmowego z Domu Lampników, naniesione ścieżki odpływowe pod Halą Szlistą i karczmą Maery."
+        }
+    ],
+    "main_attributes": {
+        "strength": 12,
+        "agility": 16,
+        "constitution": 13,
+        "intelligence": 12,
+        "wisdom": 14,
+        "charisma": 10,
+        "dexterity": 17,
+        "endurance": 14,
+        "perception": 16,
+        "luck": 11
+    },
+    "soft_skills": [
+        "czytanie sygnałów pryzmatycznych i tablic pływów",
+        "mediacje między cechami a półświatkiem",
+        "poruszanie się po arkadach i dźwigach na wysokości"
+    ],
+    "relationships": {
+        "Lima Fal": "Przeorysza powierzyła mu poufne zadania i nauczyła technik oddechu; Elian odwdzięcza się wiarygodnymi obserwacjami i unika mieszania jej w brudne interesy.",
+        "Maera Buławka": "Długoletnia dobrodziejka i zleceniodawczyni; daje mu schronienie, zleca przerzuty i oczekuje, że Elian utrzyma równowagę między Chórem Cieni a Bractwem.",
+        "Orla Krawężna": "Mistrzyni cieśli ufa jego oczom i łukowi przy rekonesansie arkad Niebomostu; Elian wspiera plan odbudowy bez ceł Konfederacji."
+    },
+    "ambitions": "Uwolnić Niebomost dla pieszych i kurierów bez opłat, połączyć sygnały latarni z pryzmatami szklarek i stworzyć bezpieczny szlak przez mgły, aby handel nie dławił miasta.",
+    "flaws": "Skłonność do ryzyka i improwizacji, która wciąga sojuszników w kłopoty; upór wobec Legii Obsydianu; okazjonalnie ulega hazardowi w bocznej sali u Maery.",
+    "dreams": "Zobaczyć Latarnię Rozszczepioną znów świecącą jednym promieniem, odnaleźć brata zaginionego w Szybach Selenitowych i wyruszyć z mapą prądów na mglistą wyspę barwników.",
+    "secrets": "Podczas rytuału przy Płaczących Schodach wrzucił do zdrójku monetę z zielonego szkła przeciwitrowego i w zamian stracił wspomnienia z tygodnia, w którym przerzucał czarne księgi dłużników z Gaju Pustych Dębów; wie, że te księgi mogą pogrążyć kilku seniorów Konfederacji, ale ich kopie ukrył w niszy Niebomostu, zabezpieczonej strzałą linkową i pryzmatycznym hasłem."
+}

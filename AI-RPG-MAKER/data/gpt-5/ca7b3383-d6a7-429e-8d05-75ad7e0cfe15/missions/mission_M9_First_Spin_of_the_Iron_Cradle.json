@@ -1,0 +1,45 @@
+{
+    "id": "M9",
+    "title": "First Spin of the Iron Cradle",
+    "quest_giver": "Ilara Embervein",
+    "description": "A borrowed testing bay in the Chainquarter smells of hot oil and hope. Ilara Embervein rolls up their Loom-woven sleeves to reveal cinder marks that pulse gently when the engine breathes. Star-crystal facets slot into sockets around the Feathered Gyre like teeth into a careful mouth. You lace ember-threads and map-song harmonics through the frame until the whole device wants to move even at rest. Outside, footsteps hesitate. Sere Vell leans in the doorway with concern that is either real or well-practiced, warning that someone less subtle than them means to ruin your first spin for reasons that add up in a ledger you will never see. Nemra Coil arrives with a clutch of Orphans who lay iron feathers at the door and hum a child’s Coilnight rhyme to bless the bearings. When you thrum the gyre, the cradle turns and the air shivers as if a distant heart kept time.",
+    "objectives": [
+        "Assemble the Iron Cradle prototype with Ilara Embervein using the Feathered Gyre and star-crystal facets.",
+        "Calibrate the cradle with the Loom’s First Harmonic Coil and the Singing Gate intervals at low power.",
+        "Prevent sabotage by identifying and disarming a sand-sugar dump aimed at fouling the bearings.",
+        "Invite Nemra Coil to perform a Pact blessing and decide whether to credit the Orphans publicly.",
+        "Record full spin data in a neutral ledger for cross-guild review."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ilara Embervein",
+            "text": "Every city is a nest of spinning debts. Today we spin something kinder. Feel how it wants to move even when it pretends to rest. That hunger is what we will feed when the day comes to carry more than our own pride."
+        },
+        {
+            "speaker": "Sere Vell",
+            "text": "I will not insult you by pretending I have no interest here. But this warning is free. Someone in a cleaner coat than mine wants your bearings to grind themselves to powder, preferably in front of a dozen witnesses. Check the grease for grit and check the grit for sweet. Sand-sugar tastes like victory until it eats your machine."
+        },
+        {
+            "speaker": "Nemra Coil",
+            "text": "We lay iron feathers to remind heavy things of their better nature. We sing not to make you ours, but to make you remember who you already are. If your cradle is meant for an egg, we will stand by, not in front, and we will warm it with a breath that is not only ours."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "Let the record show the cradle spun true at low power, that attempted fouling was spotted and cleared, and that the Pact’s rhyme ran along its rim without raising a blister. Let the record show we are not children playing with a story. We are caretakers keeping a promise in motion."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        "Iron Cradle prototype operational",
+        "Neutral testing ledger signed by Loom, Chainwright, and Orphan witnesses",
+        "Reputation: + with Orphans of Aelmyr",
+        "Sere Vell quiet protection from petty sabotage for one test window"
+    ]
+}

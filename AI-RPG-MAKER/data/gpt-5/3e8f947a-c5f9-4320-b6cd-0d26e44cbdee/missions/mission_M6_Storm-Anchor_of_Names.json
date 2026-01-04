@@ -1,0 +1,79 @@
+{
+    "id": "M6",
+    "title": "Storm-Anchor of Names",
+    "quest_giver": "Veyla Prism",
+    "description": "The Saltglass Expanse hisses underfoot, a sea frozen mid-storm where dunes flash green-blue like scales on a sleeping wyrm. Veyla Prism ties her scarf against the glare and leads Rogan by the shadow of fulgurite spires that hum when a name is spoken too sharply. The storm-anchor—an old monolith forged by lightning and strange hands—shivers when the cullet thread is held near it, a tuning fork answered by a cathedral bell. Syndicate escorts skulk on mirrored ridges, and Pera Thass—notorious fixer with a smile like a polished shard—calls wind with practiced words. The anchor will bring a storm to the mouth of the Resonant Gate if the name ‘Marrowhold’ is spoken into it thrice in the right key, and the city will be tested by a fire dressed as rain. Rogan must sever the link, seize evidence, and leave before a glass wyrm remembers the last dream of a titan and surfaces to eat the instruments of men.",
+    "objectives": [
+        "Reach the fulgurite monolith with Veyla Prism and map the hum using the cullet thread.",
+        "Eavesdrop on Pera Thass and Syndicate technicians to learn the trigger rite.",
+        "Prevent the speaking of Marrowhold’s name in the correct key or sabotage the anchor’s resonance.",
+        "Survive a glass wyrm’s breach long enough to complete the sabotage.",
+        "Collect a fulgurite shard that carries the Gate’s false note as physical proof."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Veyla Prism",
+                "line": "Keep your steps light and your voice lighter. The dunes love a man who thinks he is alone, and they’ll open for him like a friend. The anchor is just ahead, humming to itself like a throat clearing before a lie."
+            },
+            {
+                "speaker": "Pera Thass",
+                "line": "We speak the city’s name gently, as if waking a child, and the sky will answer as if it loves us. It’s only weather, boys, and weather always belongs to the men who can afford to be wrong."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I’ve seen weather rip roofs off homes and leave the baby’s cradle untouched. It doesn’t love anyone; it only listens when you tempt it. Step away from that monolith, Pera, before it gives you what you asked for and more than you can hold."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Pera Thass",
+                "line": "Rogan Kettlebone, the stray watchdog who thinks a growl makes him free. I don’t need to finish the rite to ruin you. But I could, and then I’d be the only one with a dry shirt when the city begs for towels."
+            },
+            {
+                "speaker": "Veyla Prism",
+                "line": "She’s off-key by a breath. If you can keep her talking, I can set a mirror at the wrong angle and break the chord. Or you can cut the filament and pray the wyrm prefers music to meat today."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I’ll take my chances with teeth that don’t sue in court. Keep your mirror brave, Veyla. I’ll make a noise ugly enough to make the sky blush."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Glass Wyrm (the breach)",
+                "line": "The dune puckers and opens like an eye waking, then closes again on a smell of ozone and old rain. The song breaks. The wyrm decides hunger is a problem for a different day."
+            },
+            {
+                "speaker": "Veyla Prism",
+                "line": "It’s done. The anchor is deaf where it should be eager. Take this shard; it hums with the false note the way a guilty man hums in a quiet room. Keep it tight against your oaths."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "Tell Zexi to watch the kites for a storm looking for its name and finding none. I’ll bring this to someone who can scrape the last of the lie off the Gate’s strings."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Fulgurite Shard tuned to the false note (admits resonance evidence)."
+        },
+        {
+            "type": "reputation",
+            "description": "Soured relations with the Saltglass Syndicate (they take notice)."
+        },
+        {
+            "type": "ally",
+            "description": "Veyla Prism’s ongoing assistance in glass terrains."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "Rook",
+    "surname": "Salter",
+    "race": "Riverfolk Human",
+    "age": 38,
+    "appearance": "Sun-browned skin, a jaunty river hat pinned with eel-bones, and a smile that hides chipped teeth. Wears a knife at the boot and a reed-whistle at the neck.",
+    "character": "Charming daredevil who believes luck arrives in the shape of risk and lantern-light.",
+    "traits": [
+        "Charming",
+        "Daring",
+        "Sentimental",
+        "Reckless"
+    ],
+    "skills": [
+        "Piloting barge-rafts",
+        "Smuggler routes through reed margins",
+        "Knife fighting",
+        "Finger-tap code for market contraband"
+    ],
+    "talents": [
+        "Uncanny night vision on the river",
+        "Whistle-codes with reedcutters",
+        "Reads current by taste"
+    ],
+    "flaws": [
+        "Reckless gambles",
+        "Soft heart for sob stories",
+        "Kelvar debts haunt his wake"
+    ],
+    "dreams": [
+        "Own a legitimate convoy under his name",
+        "See the black swan of Keth and remember his lost first memory",
+        "Wipe his ledger clean without kneeling to Kelvar"
+    ],
+    "secrets": [
+        "Runs luminous fish under a finger-tap ring",
+        "Ferried disassembled harmonizer parts after curfew",
+        "Hides an unsigned Pilots’ Covenant charter to keep options open"
+    ],
+    "relations": [
+        {
+            "npc_name": "Thane Kelvar",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Iven Shadequinch",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Garrin Chainwatch",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Borgo Emberdell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mara Tidecall",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Tala Fenmint",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

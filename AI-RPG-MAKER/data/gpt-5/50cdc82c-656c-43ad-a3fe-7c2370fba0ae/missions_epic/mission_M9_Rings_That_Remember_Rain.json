@@ -1,0 +1,75 @@
+{
+    "id": "M9",
+    "title": "Rings That Remember Rain",
+    "quest_giver": {
+        "name": "Jaya Basaltrip",
+        "affiliation": "Asterion Collegium (field engineer)"
+    },
+    "description": "Northeast of Cyrasha, the Fallen Stair of Marn climbs the basalt face like a frozen hymn, each step taller than a cart and slicked by wind-polished grit that tastes of iron and old storms. Bronze rings the size of millwheels stud the rises, their hollows warm at night as if the cliff keeps a memory of a moon’s fingers hooked there, and they breathe a faint perfume of rain even under blue, pitiless sky. When dusk leans, the rings seem to murmur to each other over the stair’s roar, and Jaya Basaltrip insists their hidden notes can be teased into a counter-chord stout enough to pin the Shard’s song against any scheme that would quiet it. Her plan is part windcraft and part mathematics: resonant kites to harvest the gusts, tension lines to translate gale into tone, and a harmonograph to drink the ring-voice and carry it back to the Collegium. Wasps the color of tarnished coins swarm in ring hollows like priests in bronze chapels, and House Kelvar’s debt-miners, promised bonuses and a ledger’s favor, prowl the steps with stones in their fists and old bruises in their pride. You have climbed crane-masts in flood fog, felt chains bite your palms and obey, but the Stair will demand river patience on a cliff that pretends to be a staircase, and it will ask your arms to burn and your harness to groan like winter ice. If the counter-chord is captured true, the Asterion harmonizer can echo it through the city, bracing the Shard’s dusk-breath the way a well-set anchor steadies a barge in a sly current.",
+    "objectives": [
+        "Ascend the Fallen Stair of Marn using your riverwork harness and lines.",
+        "Attach resonant kites and tension lines to three selected bronze rings despite high winds and wasp nests.",
+        "Defend Jaya and her instruments from hired debt-miners without lethal force if possible.",
+        "Record the ring-chord for later use by the Collegium harmonizer."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jaya Basaltrip",
+            "lines": "Hold me steady and the numbers will do the rest, because wind is only a ledger that prefers songs to ink. The rings remember a moon’s patience, a long memory kept in metal, and we have to coax them to hum the part the city needs to hear. When the line sings, do not flinch, even when the note climbs through your teeth and makes your jaw feel like a tuning fork. The sound will move through your bones like cold river water in floodtime, but that is only the world remembering you exist and have weight enough to stand where storms step. Breathe when the gusts hit and let the harness talk to your back, because if you fight the gale you will lose the argument and the ring will sulk. I have mapped the three rings that still warm at true dusk, and I have kites stitched with emberglass veins to drink turbulence without tearing. If we get this right, the harmonograph will carry home a promise stitched in wind and brass, and the Shard will have a friend in a time when too many hands want to teach it silence."
+        },
+        {
+            "speaker": "Debt-Miner Foreman",
+            "lines": "Orders say to frighten scholars and their hired shields, not to leave bodies on stones, but silver is weather on the skin and it turns some men colder and harder than they mean to be. Stand back from the rings and call it wisdom, and maybe our books get a kinder column next season, because House Kelvar counts mercy if it costs them nothing. You start lacing kites to bronze and you make our bosses nervous, and nervous bosses wake hungry ledgers, and hungry ledgers chew folk like us first. We have families who watch the tide-clock and pray the minute does not come when a debt calls like a winter bell, and I have no love for smashing instruments that look expensive enough to buy a week of bread. But I will throw stones and shoulders all the same if you push, because the stair has only one edge and we cannot afford to look weak where the wind can see."
+        },
+        {
+            "speaker": "Mara Tidecall",
+            "lines": "The river taught you the first rule of crossings, Jaryn, and it was not muscle, it was timing, so take the wind like you would a surge and let it spend itself before you set your hook. I hear Kelvar is paying danger coin for this nuisance, and danger coin has a way of flying men up a cliff faster than a kind word pulls them down, so mind your back and mind the shadow of a fist. If you can bring them to parley without blood, do it, because bruises heal and grudges linger like mud in rope fibers, making the next climb heavier. I cannot put a barge under that stair, but if you flash the prism-lamp with the flood-bell cut I taught you, I will blow a whistle at the council and make certain someone writes down who threw the first stone. Come home with the chord in your pocket and the kites in one piece, and I will buy you water strong enough to polish the dust from your teeth."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "You have hands, Foreman, and hands learn the shape of knots that build a city stronger than any threat you could haul up these steps, so tie to that shape and not to the count of someone’s ledger. The cliff does not care who pays, and the wind pays no one, and if we fight the air and each other we all go down the same old way. Walk away with your bones and your pride and I will speak your restraint at the House of Reconciliation, and maybe a kinder minute finds your tide-clock for that mercy. If you come on again, I will put you in the shade without letting the stone bite you, because I have hauled men back from flood chains and I know how to drop a brute without leaving him broken. Jaya’s work keeps the Shard singing, and the city breathes that song at dusk, and if it falters one day, both our families will feel the cold in our lamps. I did not climb this stair to sharpen a blade; I climbed to set a promise against the gale, and I will keep that promise with rope, with voice, and with the flat of my hook."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Parley on the Wind",
+            "text": "You raise both hands, palm out, and let the harness creak so they see you anchored to more than pride, and you speak in the steady cadence used on towpaths where tempers run hot. You tell the foreman you know the taste of debt and the rasp of a ledger calling at dusk, and you offer a trade that buys everyone a tomorrow: ten breaths of calm for ten breaths of work. You promise to name their restraint at the House of Reconciliation and to sign the copper ward-tile so the oath is not only words tossed into the wind. You use the flood-bell cuts in your voice, the ones Mara drilled into your bones, to count out the beats of a truce until even the wasps seem to hover to the rhythm. You remind them that bruises turn into stories their children hear, and you offer bread from your pouch to make the stones in their fists feel heavier than the loaves in their hands.",
+            "outcome": "The foreman curses in a way that sounds like gratitude trying not to show its face, and he gestures his crew back three steps as if the wind itself pushed them. The miners pocket their stones, and one of them, younger and thin as a pole, takes your bread with a nod that weighs more than coin, buying Jaya the time she needs to lash the first kite to bronze. Wasps drift and flicker, enticed by smoke-paste you smear from your kit, and the ring takes its first breath in a note that rumbles through your boots like distant thunder. Jaya’s harmonograph scratches a curl of ink that looks like a river curling past a boulder, and the foreman, hearing the sound, shivers as if rain found him on a dry day and says he will remember that note when his clock turns to mercy. When you descend, the miners leave in a tangle of mutters, and though House Kelvar will hear of their pause, the men carry your name down the steps like a small shield, making new space for truce where ledgers usually trample."
+        },
+        {
+            "id": "C2",
+            "title": "Ropework Reproof",
+            "text": "You let talk pass like a weak eddy and switch to the language of lines and leverage, because some lessons only stick when a body feels the ground tilt under them. You flip your throw-line so it sings past the foreman’s ankles and snugs tight, then sweep the barge-hook in a bright arc to pop stones from fingers without slicing skin. You pivot on the basalt like a pilot on a wet deck, using hip and shoulder to turn their rushes into awkward embraces with the stair, putting men where gravity argues in your favor. You bark river counts so Jaya knows when to pull and when to wait, and you keep your strikes flat and low, turning harm into humiliation that cools hot blood. You do not fight the wind but let it stumble them, and every breath you buy is a breath Jaya feeds into a knot, a kite, and a note etched into her machine.",
+            "outcome": "Men sprawl and swear, and the foreman finds himself on his knees with rope on his ankles and the taste of stone in his teeth, but no blood decorates the steps beyond a proud lip. The wasps rouse at the scuffle, but you cast smoke loops and send a wet cloth to Jaya to swaddle the nearest hollow, and the swarm calms to a glitter of wings that looks like heat on iron. The first ring takes a line, the second sings a lower note that makes the cliff feel older than it looks, and by the time the foreman shakes free, your stance and breath have drawn a border he would rather not cross again. He calls his crew back with a growl that saves his face, and the miners retreat to the shade under a broken ring and loudly pretend they always meant to take a rest. Jaya’s harmonograph captures the chord without smear, and when your feet find flat ground again, your shoulders ache with the right kind of pain and your name circles Emberbank as the one who beat a debt gang with knots instead of blades."
+        },
+        {
+            "id": "C3",
+            "title": "Sing the Brass First",
+            "text": "You tell Jaya to prime the smallest ring with the kite that has the most emberglass threading, the one that hums when you touch it like a throat clearing before a song. You plan to let the ring speak before fists can, to let the note find the marrow of angry men and the nerve of nervous wasps and turn the cliff into a choir that refuses violence. You plant your boots, brace your harness to a drilled pit, and feed the line into the bronze eye as the gusts kick like mules on a ferry ramp. You count in the Collegium’s measure that Neris once taught you on a fogged night, and you nod when Jaya drops the vane at the crown of a gust and the kite shudders with pleasure. You swallow the first note like a good river does a bad log, and you watch the air become a rope for the ring to pull until the whole stair seems to lean toward that sound.",
+            "outcome": "The ring blooms with a tone soft as wet linen and deep as flood, and the miners hesitate as if the edge of the step has crept closer while they were not looking, their anger taking on the shape of uncertainty. Wasps drift from their hollows and settle back, soothed by a vibration that flattens sting into listening, and Jaya’s eyes gleam with tears caught between wind and triumph. The foreman rubs his arms as if a chill passed through him, and he mutters that this smells like rain on stone and childhood, and for a long breath his crew forgets their orders because memory is heavier than coin. The second and third rings answer in turn, and the chord knots itself around the stair like a mooring line that no hand can see, long enough for you to work and sure enough for Jaya to trace a clean pattern. When the last scratch on the harmonograph is made, your palms burn from holding the world steady for that span of heartbeats, but the hurt feels like a tithe paid to a temple you chose to believe in, and the miners leave with heads down and a story that refuses to be told as a victory."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Ring-Tuned Clasp, a small brass device set with a sliver of resonant bronze that can replay the stabilized ring-chord on command, useful for harmonizer calibration and calming wind-stressed wards."
+        },
+        {
+            "type": "Equipment Upgrade",
+            "description": "Improved climbing rigging from Jaya, including emberglass-veined kite line, better snap-hooks, and a back-plate that redistributes harness strain for longer, safer ascents."
+        },
+        {
+            "type": "Reputation",
+            "description": "Respect from Asterion field crews for holding the line under cliff wind and for capturing a clean chord without needless blood, opening doors at the Collegium and on research caravans."
+        }
+    ]
+}

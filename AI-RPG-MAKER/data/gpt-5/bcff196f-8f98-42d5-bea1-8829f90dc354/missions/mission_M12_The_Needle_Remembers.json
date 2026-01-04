@@ -1,0 +1,66 @@
+{
+    "id": "M12",
+    "title": "The Needle Remembers",
+    "quest_giver": "Council of Oath and River (Arelon Vale, Prior Ansel, Brynna Coil, Olan Vetch)",
+    "description": "Stormless noon. The Needle Keep glimmers as if it remembers rain. The iron-thistle chain is winched into the sluice-veins, the relic-needle rests beside the Oathstone like a thorn beside a wound, and the reflection-cutting lens hangs in its frame above a basin of still water—Glasslake calm stolen for a civic purpose. The tri-fold compact lies open in the Lantern Archive’s traveling case, its ink not quite dry. Below, the river braids and unbraids like hands worrying a prayer. The reed-thing comes at last into full sight: not a monster from elsewhere, but a man-shape woven of broken oath-threads, its mouth a slit of moving reeds, its eyes wet with borrowed promises. Kezra must read the rain-chains’ song aloud as a map, set the iron to humming in the right key, stitch the Oathstone’s missing corner with the relic-needle, and use the lens to cut the demon’s reflected path in water—severing it from the city’s shadow. The drowned queen’s memory waits at the edge of hearing, hungry and merciful both. What is bound here will haunt or shelter Thornspire for generations.",
+    "objectives": [
+        "Position the iron-thistle chain through the sluice-veins and tune it to the rain-chain cadence with dwarven chant-marks.",
+        "Suture the Oathstone with the relic-needle while the Order intones the founding vows; feed the drowned queen’s memory the promised name at the precise verse.",
+        "Use the reflection-cutting lens over a basin to draw out the demon’s mirrored path and cut it, anchoring the cut by pouring dark salt and signing the public oath-chart.",
+        "Survive the reed-thing’s attempt to devour the city’s new vow; hold the compact steady and bind the final words to light in the Lantern Archive’s traveling lamp."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Prior Ansel of the Black Thistle",
+            "lines": "We stand where our first vows were cut and recut. If we tremble now, let it be from the weight of honesty, not fear. Kezra, we will follow your cadence. Speak the map the chains sing. When the thing of broken words comes for us, we will answer it with sentences that hold."
+        },
+        {
+            "speaker": "Brynna Coil",
+            "lines": "If my hands shake, it is from the ache of work, not cowardice. The moth-silk on your lens frame was woven for quiet, and tonight it will quiet a scream that has lived in our walls too long. I will sing the pedal hymn under your words until the chain chooses to hum along."
+        },
+        {
+            "speaker": "Olan Vetch",
+            "lines": "I’ve piloted in fog and in the sort of night that eats names. This is another kind. If the reed-thing comes up the stair, it comes through me first. If the water rises, I’ll call the whistles I swore I’d never use in a hall. You give me a line to hold; I’ll hold it."
+        },
+        {
+            "speaker": "Arelon Vale",
+            "lines": "When this is done, I will owe debts I can never pay, and I will forgive debts I should never have carried. If we fail, we do it together. If we succeed, no one will sell the story by the ell. Kezra, push the needle. I will speak behind you until my voice fails."
+        },
+        {
+            "speaker": "The Drowned Queen’s Memory",
+            "lines": "Salt, and a name. Feed me, little oath. I will dull my hunger for a generation and watch the children go home by slow, safe ways. But do not forget me when the river forgets itself; memory must be fed or it starves into cruelty."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "Rain-chains, sing. Iron, remember. Stone, hold. River, take what is yours and leave the rest. In this light I cut the reflection that would drown us and lay it down in salt. In this needle I bind the corner to the vow. In this chart we write what cannot be hoarded. Thornspire, tell the truth of yourself and live."
+        }
+    ],
+    "connections": {
+        "previous": "M11",
+        "next": null,
+        "locations": [
+            "Needle Keep",
+            "Lantern Archive (oath-chamber)"
+        ],
+        "npcs_involved": [
+            "Arelon Vale",
+            "Prior Ansel of the Black Thistle",
+            "Brynna Coil",
+            "Olan Vetch",
+            "Yael Emberkeel",
+            "Dhorik Basaltbane",
+            "Sula Reedmantle"
+        ],
+        "themes": [
+            "culmination",
+            "binding oath",
+            "public memory"
+        ]
+    },
+    "rewards": [
+        "Establishment of the Lantern Oath-Chart as a public trust (access to safe routes and civic authority)",
+        "Title: River Oath-Reader of Thornspire (standing across guilds)",
+        "Boon markers from Pilots, Spindlewrights, and the Order (callable favors)",
+        "Quieting of the reed-thing; safer canals and stabilized trade for a season"
+    ]
+}

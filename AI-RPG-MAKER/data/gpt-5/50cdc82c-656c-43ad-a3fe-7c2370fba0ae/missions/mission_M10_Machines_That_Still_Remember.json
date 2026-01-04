@@ -1,0 +1,39 @@
+{
+    "id": "M10",
+    "title": "Machines That Still Remember",
+    "quest_giver": "Borgo Emberdell (Emberglass Foundry foreman)",
+    "description": "South, the Clockwork Ruins of Virdane grind gently when the wind sighs, as if the ground chews old cogs like cud. Borgo Emberdell wears furnace heat like a cloak and these ruins like a childhood. He needs a mnemonic spring—an old memory-coil—that can hold the ring-chord steady inside a harmonizer so it doesn’t wander and draw sleepers like a tide. The corridors here listen for command-words and obey in their own time; the wrong word wakes guardians that look like crabs sculpted from astrolabes. Fungal spores curl time around your eyes so a minute feels like a winter and a winter feels like a breath. Rook Salter volunteers to keep the rope taut at your waist so the ruin doesn’t forget your outline.",
+    "objectives": [
+        "Travel to the Clockwork Ruins of Virdane with Borgo Emberdell and Rook Salter.",
+        "Identify and retrieve a mnemonic spring from a functioning mechanism without collapsing the gear pit.",
+        "Use discovered command-words to pacify at least one guardian automaton.",
+        "Return the spring intact to the Emberglass Foundry."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Borgo Emberdell",
+            "lines": "Glass remembers heat the way old hands remember rope. These machines remember work, and if you treat them like fools they’ll throw you down a shaft and call it teaching. I need a spring that still knows what it was made for. Bring me that, and I’ll build you a heart that won’t skip when the city needs it steady."
+        },
+        {
+            "speaker": "Rook Salter",
+            "lines": "I’ll keep a line on you, chief. If the floor starts moving you like a lazy raft, I’ll shout and you jump when I say. Don’t look at the gears when they smile, and don’t answer when a hallway whispers your name like it knew you as a kid. The place is clever but it ain’t kind."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "I’ve worked cranes that would throw you for touching them wrong. I’ll talk soft to the cogs and mean it. If a guardian wakes, I’ll ask it to remember patience before I ask it to remember pain. We get the spring, we keep our feet, and we go home with all our names in the right order."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        "Mnemonic Spring (component needed to stabilize the harmonizer).",
+        "Emberglass Foundry favor and a set of tempered emberglass rivets for your harness.",
+        "A pouch of hazard pay from Foundry coffers."
+    ]
+}

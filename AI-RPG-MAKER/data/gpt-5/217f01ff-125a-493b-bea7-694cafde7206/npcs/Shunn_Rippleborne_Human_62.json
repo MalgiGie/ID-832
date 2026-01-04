@@ -1,0 +1,63 @@
+{
+    "name": "Shunn",
+    "surname": "Rippleborne",
+    "race": "Human",
+    "age": 62,
+    "appearance": "Tall, soft-faced priest with salt-white hair and robes stitched with faint waterlines. Wears a conch at his waist that carries whispers at slack water.",
+    "character": "Gentle and firm; a patient arbiter who believes fear is the city’s true adversary.",
+    "traits": [
+        "compassionate",
+        "disciplined",
+        "diplomatic",
+        "humble"
+    ],
+    "skills": [
+        "arbitration",
+        "ritual leadership",
+        "crowd calming",
+        "pastoral counseling",
+        "liturgical chant"
+    ],
+    "talents": [
+        "senses lies by the rhythm of breath",
+        "turns rival speeches into shared vows",
+        "heals panic with cadence"
+    ],
+    "flaws": [
+        "overextends himself",
+        "keeps guilt he should share",
+        "too trusting of repentant rogues"
+    ],
+    "dreams": [
+        "a formal accord between river and sea cults",
+        "expand the Infirmary’s charity without Ledger strings",
+        "keep the hush of the Surge from haunting children"
+    ],
+    "secrets": [
+        "bound a secret pact with terrace bell-ringers to force a day of stillness if violence looms",
+        "shelters emergency grain in temple crypts",
+        "dreams of a cracking lens that spiders blue fractures beneath Veylcrest"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ys Hul",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Nhal Vessin",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Orven Caldris",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Rae Fen",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Jath Pell",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

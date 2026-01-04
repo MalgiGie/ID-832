@@ -1,0 +1,102 @@
+{
+    "id": "M12",
+    "title": "The Name Beneath the Light",
+    "quest_giver": {
+        "name": "Preceptor Vara Lume",
+        "affiliation": "Order of the Shard"
+    },
+    "description": "The sealed stair within the Shard opens like a throat swallowing dawn, plates of cold-blue crystal fitted so precisely the edges look like frozen breath. Each step shines as if riverlight rises from below, ripples trapped in glass singing a tone you feel more in bone than ear. Rain-scent gathers in the narrow, a promise of cleansing or the memory of a storm about to choose you, and the air is cool enough to make words bead and fall before they fully leave the tongue. In your harness hang the tokens the journey pressed upon your palms: a fen bell’s orphaned tongue that rang back at a myth under peat, a ring-chord from the Fallen Stair that still remembers the footfall of a moon, a mnemonic spring coaxed from a manufactory that keeps working in its sleep, and resin-lacquer from the Moonless Orchard’s shadowed trees that teaches light to stay where it is set. Lysa Shardhands descends at your shoulder, jaw set like an oath etched with a cutter’s patience; above, Mara Tidecall and Tala Fenmint hold the line true, their call-and-answer the music of trust in narrow places; Neris Aline and Jaya Basaltrip cradle the harmonizer, whispering calibrations like lullabies to a sleeping giant. As the stair corkscrews deeper, shadows slide along the walls like delayed reflections of your own steps, and sometimes your breath returns to you a heartbeat late as if time is a stubborn rope refusing to coil. At the landing halfway down, a figure waits with a mask sewn from orchard-black sapcloth, a splinter cut from the Gardener’s quiet tree, and beside the mask stands Thane Kelvar draped in ledger-gray, his poise the practiced rest of someone who moves weight with numbers more than with hands. Their gambit is clear: hush the Shard for seven breaths, let the city feel the hollowness, and sell them a dawn that will never again be free of a price. They speak to the part of you worn thin by flood seasons and heat-levy winters, to the part that wishes for storms to end by any means and calls the cost prudence. The lower chamber hums below like a throat clearing before a name that could steady an army or unmake a city’s memory, and you understand that the Shard is not only light but language, and that names have always been bridges the living dare to cross.",
+    "objectives": [
+        "Descend the sealed stair within the Shard Bastion with your assembled team.",
+        "Install the mnemonic spring into the harmonizer and tune it using the ring-chord clasp.",
+        "Seat the fen bell’s tongue as a ground for the chord and apply resin-lacquer to the ward panes.",
+        "Confront the Gardener’s splinter and Thane Kelvar and prevent the seven-breath quieting.",
+        "Stabilize the Shard’s hum and return safely to the surface."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Preceptor Vara Lume",
+            "lines": "If we are wrong, the city will stumble in darkness and curse us by name, and I accept that weight because it is lighter than letting fear write our laws. If we are right, Cyrasha will never know how close its heart came to forgetting its own rhythm, and that ignorance will be a mercy purchased by your courage. Walk with a steady heart, Jaryn Chainwake, for a warden’s oath without a citizen’s grit is only ceremony gilded with dust. Remember that law exists to protect the fragile melody that lets us live together, not to drown it beneath the drumbeat of profit or the tin rattle of panic. I will hold the rites above and keep the factions from tearing the towlines while you work below, and should the hum falter, my voice will not be the first to break."
+        },
+        {
+            "speaker": "Lysa Shardhands",
+            "lines": "I have read fractures like fortunes and I have held plates that sang of storms, and I tell you the Shard wants to live as much as any river wants to run. My hands have cut only what it willingly shed, and each slough tells a story a good cutter learns to hear with her wrists. When the harmonizer bites, the crystal will flex like a patient breath, and I will stand the strain with you until my fingers go numb. If Thane thinks a ledger can price that breath, he has never hauled a load in fog with the river mumbling other names under your keel. I will not let a paid dawn blind the honest glow we have kept with work and careful vows."
+        },
+        {
+            "speaker": "Neris Aline",
+            "lines": "The harmonizer will take the mnemonic spring like a heart learns a rhythm after a fever, slow at first, then sure enough to dance without falling. The ring-chord clasp is fickle, but it prefers honesty, so keep your thoughts straight and your pulse steady when I ask it to sing. We will anchor the pattern on the fen bell’s tongue, because old water remembers how to hold a note even when wind hurls lies through reeds. There is a risk, as there always is when we touch a sleeping giant’s dream, that nearby wards will coax people into a moon-walk, but I’ve damped the resonance to a whisper’s edge. Trust me to shape the tone, and I will trust you to keep anyone with knives and contracts from cutting the wire while I listen for the name below."
+        },
+        {
+            "speaker": "Jaya Basaltrip",
+            "lines": "I have trued the gyres and kissed my knuckles on every gear tooth that mattered, and this spring will sit like a prayer in a good seat if no one jars my elbows. The lacquer will hold where I paint it, but it needs patience to cure, the kind of patience that doesn’t flinch when the air gets loud with opinions. I have seen machines remember work they were never taught, and I have seen people forget kindness they were born with, and between those two forgettings is where sabotage creeps in. If the splinter wants quiet, it is because silence is an accomplice that never testifies, so we will drown it in honest sound and clean light. Keep the floor from shaking with blades, and I will keep the harmonizer from biting us back."
+        },
+        {
+            "speaker": "Mara Tidecall",
+            "lines": "Lines are tight and tied in love, not fear, and my crew will hold them until palms bleed before we let a friend fall alone. I have ridden floods that tried to write my name on slate teeth, and I have learned that the voice you carry into a roar is the only lantern that will not blow out. Thane Kelvar talks of stewardship like a man who has never held a tow rope in a winter rain, counting costs a bead at a time while the river takes whole lives in a breath. If he thinks we will bow to a ledger when the song goes quiet, he forgets that riverfolk light lanterns for the drowned and for the unborn both, and we will not sell either ceremony to a counting hall. Take your steps, Jaryn, and know that if the stair shakes, I will make it still by sheer stubbornness and a pilot’s oath."
+        },
+        {
+            "speaker": "Tala Fenmint",
+            "lines": "I learned fog from Fenwives who never needed faces, and I can smell when a fever wind is coming long before the gnats grow bright, so trust me if I say the air down here is true. The bell’s tongue you carry once argued with a dream under peat, and it came away with manners, which is more than I can say for most men with boats. When you set it, do it like you’re laying a promise in a cradle, not like you’re pegging a tent in bad ground; gentleness holds longer than force when water is listening. The splinter wants you tired, because tired folk make deals that look like bridges and turn out to be nets, so breathe with me when the hum rises and we will not go lightheaded. I will guard your back with a knife and a lullaby both, because sometimes a song keeps better time than a blade."
+        },
+        {
+            "speaker": "Erynn Mirrorfall",
+            "lines": "I have a pane waiting for you, tuned to the chord we measured under the oculus and cooled in breath paced to the Shard’s dusk exhale, and it will not pull at sleepers the way the crude plates do. It will sit in your camp like an obedient moon, bright enough to read truth by and dull enough not to wake the parts of the mind that wander in borrowed dreams. I offer it not as a prize but as a promise that we can make light that serves, not light that commands. If you bring back the name as a tone and not as a secret sold, I will etch it shallow, so it sings only to those who ask with gentleness. Let me do this one small care for the city while you do the hard saving none will understand in time to thank you."
+        },
+        {
+            "speaker": "Masked Voice (the splinter)",
+            "lines": "You will thank me in another life when your bones are not tired from holding up so many others, because I will have taught your descendants the mercy of a scheduled dawn. Quiet is a mercy, and you know this in your joints, for it is the only thing that stills trembling hands when storms have taken the last of the candles. Order is a kindness, the kind that keeps bread lines straight and fires burning in their proper pits, and it requires someone to name a price so the fire never goes out. Let the city sleep and wake to a paid light where blame can be tallied and therefore answered, where no one cries because the glow failed for free and without account. Mercy often looks like steel when it is done correctly, and I have been honing this blade for a long, quiet season while you were busy being brave."
+        },
+        {
+            "speaker": "Thane Kelvar",
+            "lines": "This is not villainy; it is stewardship with a price that matches the cost of vigilance, the only currency that never depreciates. What you call greed I call the courage to charge what a thing costs, and to keep charging it when sentiment runs dry and festivals empty coffers. If you stop me, you inherit the burden of guaranteeing a city’s light with promises made of rain and rope, and sentiment cannot pay that bill when drought leans in. If you let me work, I give you stability fashioned into a ledger with no surprises, a flood of predictability that will let every guild plan three winters ahead. We can be partners in this, you and I, the muscle and the mind, but if not, know that chaos will invoice you in blood and in dark."
+        },
+        {
+            "speaker": "Jaryn Chainwake",
+            "lines": "I have paid for light with skin and rope and the winter ache that nests in old bruises, and I will not pay with a city’s breath because a noble is afraid of weather. Hear this bell tongue bite the chord you wanted to cut, and remember that some notes are keels that keep a people upright when numbers try to sweep them sideways. Hear the rings sing rain over your figures, and let the sound wash the ink thin until you see the faces behind your sums. Hear the machines remember their promise to work for hands that sweat more than pens, and watch them turn because they want to, not because they were bought. Help us hold the note, or get out of the stair and live with the sound of a name that is not yours being saved while your own is whispered like a caution in market alleys."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Hold the Note With Open Hands",
+            "text": "Guide Neris and Jaya to seat the mnemonic spring while Lysa reads the fracture song, and let your own breathing become the metronome that keeps their courage. Refuse the splinter’s bargain aloud so there is no doubt or shadow-contract and set the fen bell’s tongue with a tenderness that tells the Shard it is among friends. When Thane presses his numbers into the hush between tones, answer with the call of flood-bells and chainbridge codes, reminding him there is a ledger older than coin. Paint the resin-lacquer in slow arcs while Mara and Tala steady the floor, making each stroke a sentence the crystal can trust. Keep your blade sheathed until the last possible heartbeat so that the first cut, if needed, is the one that ends the argument and not the song.",
+            "outcome": "The harmonizer accepts the spring and the ring-chord with a shiver that feels like a deep chest finding breath, and the chamber’s hum climbs from fretful to firm. The splinter recoils as the tone fills every quiet crevice, its mercy rhetoric unraveling when there is no silence left to nest in, and it melts back into shadow with a promise that withered on its own tongue. Thane’s poise breaks when he realizes no one is listening to the cost anymore, and his guards stand down as Mara’s convoy whistles answer from above like distant gulls. The Shard holds steady without inducing sleepwalking, because the resin took your patience and returned it as balance, and a new overtone threads the city’s lamps with calm. You return to the surface ringed by blue dusk, carrying a name you cannot speak but can keep, and the city breathes without counting the breath in coin."
+        },
+        {
+            "id": "C2",
+            "title": "Expose and Rally in the Deep",
+            "text": "Turn your prism-lamp toward the collar vents and snap the Pilots’ code for danger-in-ritual, then flash the Hearth Union’s finger-tap seen-sign so that workers above know which side of the rail to stand on. Name the splinter and Thane in the clear and force them into the light of their own intentions while their words are still wet with certainty. Bid Neris stall the harmonizer on a safe harmonic while Lysa and Jaya brace the housing, buying moments with craft instead of panic. Speak to the ward panes as if they were crowded benches in the House of Reconciliation, asking them to witness rather than to judge, and let the resin-lacquer be your oath. When the answering whistles and bell-taps come down the stair like summer rain, step between your people and the plotters and declare that no seven breaths will be stolen from a city already short on them.",
+            "outcome": "Mara’s and Tala’s signals lock the stair in a net of attention, and the splinter’s mask loses its power when it can no longer claim to be the only adult in the room. Thane, seeing that his stewardship has an audience unwilling to be billed for fear, miscalculates and reaches for the harmonizer only to find Jaya’s safeties cold and certain, and his hand comes away with nothing but lacquer shine. Neris rides the safe tone like a patient pilot through a rough ford, preventing the sleepwalking tug and holding the hum in the range that keeps lamps kind. The Order’s wardens at the top, hearing your codes wrapped in working-class rhythm, descend with enough ritual presence to make arrest look like grace, and the conspirators are led away under open eyes. The Shard steadies on a chord the Collegium will later call the Common Oath, and you emerge to a deck crowded not by riot but by relief, the kind of crowd that hands you bread before questions."
+        },
+        {
+            "id": "C3",
+            "title": "Feign the Quiet to Unmask the Cut",
+            "text": "Let your shoulders sag as if weariness has finally won and tell the splinter you will grant one breath of hush to test the premise, buying a sliver of theater. Signal your crew with a pilot’s blink and an old Murkwall finger-tap that says play-along, then cradle the bell’s tongue near but not on its seat. Ask Neris to tune a phantom trough, a shaped absence that draws no power from the Shard yet sounds like surrender to impatient ears. Bid Jaya lay resin in decoy arcs that look like commitment while Lysa maps the true fracture path behind the act. When Thane leans in, ledger open for the first invoice of a darkened epoch, spring the truth: the chord you hold is not quiet but a mirror, and it shows the cut he came to make before he makes it.",
+            "outcome": "The splinter steps forward to bless the false silence and overreaches, revealing the exact glyph of their hush-ward as it scrapes across your mirror tone, and Lysa snaps the pattern into the harmonizer’s memory like a moth pinned under glass. Thane finds his numbers turned to confession when the phantom trough reflects his own marginal notes in the lacquer’s wet gleam, and the witnesses you planted in the angles of the stair see that the price was always meant to rise each year like a toll tower in slow motion. With the schema caught, Neris pulls the tone up under you like a tide lifting a stuck barge, and the chamber’s hum rounds into a durable steadiness that closes every pathway the glyph would have used. The sleepwalking tug never reaches the surface wards because your false arcs drank the mischief before it could climb, and the only ones who drift are the plotters as their certainty fails. You return to the river’s breath with proof in hand, the hush-ward rendered into a cautionary diagram in the Silent Archive within days, and the city learns to distrust the kind of mercy that bills by the breath."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        {
+            "type": "Charter and Goodwill",
+            "description": "Citywide goodwill and a formal charter to establish a neutral river-guard under the House of Reconciliation, recognized in oath and ink as a shield for crossings beyond the reach of ledgers."
+        },
+        {
+            "type": "Access Sanction",
+            "description": "A prismed ward-tile upgraded with a personal sanction granting you lawful access to the Chainbridge collar cavities for maintenance and emergency work without delay."
+        },
+        {
+            "type": "Item",
+            "description": "A harmonized lantern pane crafted by Erynn Mirrorfall that steadies camp-light and keeps those who rest near it free from sleepwalking tugs or stray dream-chords."
+        },
+        {
+            "type": "Story Consequence",
+            "description": "House Kelvar loses leverage on the city’s light, Thane Kelvar faces public censure and inquiry, and the Night Orchard’s splinter slips into deeper shadow while the Gardener watches, measuring your next move."
+        }
+    ]
+}

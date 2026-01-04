@@ -1,0 +1,66 @@
+{
+    "name": "Pellar",
+    "surname": "Nine-Poles",
+    "race": "Human (Riverfolk)",
+    "age": 38,
+    "appearance": "Wiry and sun-browned, wearing a sash of nine ferrule-marked poles and a grin like a thrown hook.",
+    "character": "Charismatic organizer who loves a fight she can win.",
+    "traits": [
+        "Bold",
+        "Loyal",
+        "Clever",
+        "Stubborn",
+        "Streetwise"
+    ],
+    "skills": [
+        "Raft logistics",
+        "Back-channel mapping",
+        "Strike organization",
+        "Public speaking",
+        "Toll negotiation"
+    ],
+    "talents": [
+        "Reads current patterns at a glance",
+        "Builds improvised flotillas from wreck and rope"
+    ],
+    "flaws": [
+        "Short temper with officials",
+        "Gambler’s streak",
+        "Keeps grudges too long"
+    ],
+    "dreams": [
+        "Enshrine citizens’ water rights",
+        "Open public right-of-way along the Aqueduct",
+        "Crack the Wardens’ monopoly on emergencies"
+    ],
+    "secrets": [
+        "Pays quiet night-money to keep the Vaults from targeting League families",
+        "Holds a blackmail plate naming a corrupt lock clerk"
+    ],
+    "relations": [
+        {
+            "npc_name": "Maera Lockfen",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Knife-Whisper Pell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sere Aven",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orin Thalen",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Ressa Quay",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Tavi Mireline",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

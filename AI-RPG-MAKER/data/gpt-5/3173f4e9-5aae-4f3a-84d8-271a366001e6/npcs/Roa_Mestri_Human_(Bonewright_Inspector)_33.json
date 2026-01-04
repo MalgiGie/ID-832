@@ -1,0 +1,70 @@
+{
+    "name": "Roa",
+    "surname": "Mestri",
+    "race": "Human (Bonewright Inspector)",
+    "age": 33,
+    "appearance": "Short, keen-eyed inspector with chipped ceramic calipers, a brass whistle, and a belt of stamped safety seals.",
+    "character": "Earnest, meticulous, easily offended by shoddy work.",
+    "traits": [
+        "conscientious",
+        "curious",
+        "blunt",
+        "stickler for codes"
+    ],
+    "skills": [
+        "structural inspection",
+        "forgery detection",
+        "field sketching",
+        "incident reporting"
+    ],
+    "talents": [
+        "finds hairline fractures by touch",
+        "uncanny sense for rehearsed lies",
+        "balances on narrow rails"
+    ],
+    "flaws": [
+        "self-righteous",
+        "reckless when chasing leads",
+        "poor politician"
+    ],
+    "dreams": [
+        "clean the ribs of forged seals",
+        "earn a Master stamp",
+        "expose the true saboteur"
+    ],
+    "secrets": [
+        "found a saboteur moth-mark under the Chainhouse",
+        "keeps a vial of contraband rope acid",
+        "faked a seal once to save a family's home"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sera Dake",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lerrin Vale",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Gor Relk",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Mira Olt",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sorn Ilt",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Kessa Tharn",
+            "relation_type": "Different goals"
+        }
+    ]
+}

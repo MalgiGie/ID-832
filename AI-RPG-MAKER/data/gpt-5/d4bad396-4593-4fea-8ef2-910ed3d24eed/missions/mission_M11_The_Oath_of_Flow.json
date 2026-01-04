@@ -1,0 +1,70 @@
+{
+    "id": "M11",
+    "title": "The Oath of Flow",
+    "quest_giver": "Iven Kall",
+    "description": "The Scriptorium of Oaths fills with witnesses and the smell of brine. Brass plates gleam like captured sunlight. The Tide-Pledge bowl sits cracked and pious on its dais, and your salt-bowl waits beside it, ready to sting new names into permanence. Leaders arrive with posture and paranoia: Maera with her jaw set, Sere Aven with her hands clean of soot but not of decisions, Pellar Nine-Poles with laughter like a weapon, Orin Thalen with pride nailed to patience, Asha with bells in her eyes, and Magister Vell with calculations stacked behind their teeth. You will speak clauses like ropes thrown across a divide and hope no one uses them to tie a noose.\nYou feel your echo in the quietest moments like a second self judging the first. The mirror-plate hums under your palm. You remember the Mirror-Queen’s admonition: change the rhythm, and the binding bends without breaking. Today, the city either learns a new rhythm or pretends it never needed one.",
+    "objectives": [
+        "Present the Oath of Flow clauses to the assembled factions with an Archivist witness",
+        "Answer objections from Sere Aven (fuel), Orin Thalen (liability), and Maera Lockfen (keys) with negotiated concessions",
+        "Offer the Order’s ritual slow-flow days and the Collegium’s insurance schemes as balancing measures",
+        "Lead the salt-bowl ritual, bleeding and binding signatures to brass leaves",
+        "Secure final sanction from Iven Kall and ring the Starspan bells in celebration"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Iven Kall",
+            "text": "Speak plainly and without charm. Charm breaks first when strain comes. Tell them what they are giving up as clearly as what they gain. The Scriptorium remembers the taste of cowardice, and I do not let it feed twice on the same fear."
+        },
+        {
+            "speaker": "Sere Aven",
+            "text": "I will not sign a clause that lets my kilns go cold because a monk heard a bell dream of mercy. Put in writing that ration nights rotate, that they do not fall always when the Syndicate is on a big run, and that cheaters will carry glass shards in their shoes until they learn to walk honestly. Do that, and I will cut my greed to a manageable size."
+        },
+        {
+            "speaker": "Orin Thalen",
+            "text": "Liability. If a child falls from my arches, the city will not crucify my house for building what it asked me to build. Write the Collegium’s insurance into the oath and carve the Order’s ward-poles into the stonework itself. Put my name beside yours and we’ll both read it in twenty years and be proud rather than nauseated."
+        },
+        {
+            "speaker": "Maera Lockfen",
+            "text": "Keys shared on festival days? Fine. But I will have clear language that in immediate crisis the Wardens can override with an Archivist witness present. I won’t let my crews watch a flood roll in while a scribe looks for a stamp."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "Then hear the clauses as they stand now and as they will stand when the river tests them. Rotation of ration nights by public tally, liability insured from a Collegium pool, ward-poles mandated at arch turns, keys ceded to a triad on festival days with Warden override only in imminent threat and never without witness. There is mercy in the rhythm and steel in the frame. Sign, and we bend the city into a shape that can hold water without drowning itself."
+        },
+        {
+            "speaker": "Asha Greyling",
+            "text": "I hear the arch ease when you speak that last line. I will tie our bells to this oath and listen for strain so we can slacken before it screams. Put my mark where the slow-flow days live, and we will teach commerce to breathe like a person, not a pump."
+        },
+        {
+            "speaker": "Magister Vell",
+            "text": "And we will teach the machine to blush when it rushes. The Collegium signs, with the understanding that if experiment touches oath again, we are the first to confess it. The Loom is a servant with a loud voice, not a master with a soft one."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ],
+        "related_locations": [
+            "Scriptorium of Oaths",
+            "The Starspan (Basalt Arch) Shrine"
+        ],
+        "factions_involved": [
+            "Archivists of Vow",
+            "Wardens of the Confluence",
+            "Glasswrights' Syndicate",
+            "Rafter's League",
+            "House Thalen",
+            "Order of the Basalt Arch",
+            "Cobalt Collegium"
+        ]
+    },
+    "rewards": [
+        "Oath of Flow sanctified and recorded on brass",
+        "Citywide toll exemptions (modest) for Lio on civic errands",
+        "Title of Oath-Broker (recognized by Archivists)",
+        "Public gratitude—bells rung in Lio’s name at dusk"
+    ]
+}

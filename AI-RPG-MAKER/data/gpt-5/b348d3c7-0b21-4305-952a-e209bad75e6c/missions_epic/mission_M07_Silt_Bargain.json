@@ -1,0 +1,84 @@
+{
+    "id": "M07",
+    "title": "Silt Bargain",
+    "quest_giver": {
+        "name": "Ysra Dokk",
+        "affiliation": "River-Marrows Guild"
+    },
+    "description": "The northern channels had gone sullen, humping their backs like a sulky throat and swallowing sound where coalboats once sang, and every dusk Lowwater’s lanterns guttered a shade dimmer as if hope were being taxed. The River-Marrows cursed the choking silt and counted each grounded hull like a prayer broken, while the Tidewrights’ Syndicate raised ink-stiff charts and said the river would settle if given time, as though time were not a luxury sold by the lamp. Over the canals, Red Gale flashes bloomed and faded in patterns that smelled of coin more than weather, and rumors rode the wind from the Saffron Ledger Exchange, where futures could tilt the color of a city’s night. Harbormother Ysra Dokk and Pilot-Captain Rull Fen sought Neris Quay, the archer who stitched barges to safety with a line-shot, to set a secret lane for living boats through treacherous bars and to stalk the hand that lied with red light. A neutral cord from the Order of Knotted Light would be waiting, a witness-lamp to catch whatever truth surfaced, and if steel, rope, and courage could hold, then a co-authority knot might yet be braided between boat and gate. The river does not recognize councils, only competence, and tonight an archer’s balance on gantry and roof would be the measure by which Avarinth remembered how to breathe.",
+    "objectives": [
+        "Place four discreet buoys that only River-Marrows can read, creating a safe lane through the shifting silt bars.",
+        "Decode a pattern of false Red Gale signals and trace them to their origin point without alerting the culprit.",
+        "Apprehend the saboteur and present them to a neutral witness from the Order of Knotted Light.",
+        "Draft a preliminary co-authority knot witnessed by the Order that grants River-Marrows input on trade-hour hinge openings.",
+        "Deliver lane charts to both Syndicate and Marrows to force a shared solution."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ysra Dokk",
+            "lines": "We keep this city fed and clothed and lit, child, and we do it with hands that blister and heal before the Parliament has finished clearing its throat, and I have grown raw watching lamps dim while men with clean cuffs argue about tide-theory. If a red lamp lies to us, it is not a safety law, it is theft sung to a hymn, and I will not let my crews kneel to a false chorus one night longer. I want your arrows to stitch a path that does not answer to any one guild bell, a lane braided from our knowing of water and your sense for where a current hides its teeth. I will put my name to this in the Basilica and let my wrists take the callus of a shared knot, because I would rather ache with honesty than glow with a borrowed lamp. Do this, and I will clear the worst of the stain on the Quay salvage record, as far as my tide will reach and a little farther if the river is feeling kind, and I will say your name aloud when I count those who kept Lowwater breathing."
+        },
+        {
+            "speaker": "Rull Fen",
+            "lines": "I remember the night you threw that hook for the Speaker’s barge, Neris, how the line sang and the city pretended not to see who sang backup, and I remember you kept still when the room wanted noise, which is rarer than strength. No hard feelings if you’ve been both rescue and rumor; a boatman knows that even a rope has two ends and both can burn if the wind has a mind. Today I need you to be neither and both, a shadow that leaves buoys where only riverborn eyes can read them and a bright streak that draws a liar out into the open where a clean lamp can see. I’ll mark you a path with dead-reed whistles and tide-scratch on pilings that only a Marrow would spot, and you’ll answer with mirror-flickers that mean go, slower, and drown if you must, but never stop. Put the buoys where my boats can live through morning, and when the channel holds, I will make sure the first hull down it bears your cord on the prow and your cut of the tide in its ledger."
+        },
+        {
+            "speaker": "Gantrix Pell",
+            "lines": "You think we crave closures because we like the power of gates, but I like them open when they should be and shut when death comes with its mouth full of silt, and I have buried fewer than I might because I listen to hinge-song before applause. Bring me a saboteur, and I will sign a knot in public that shares the bell in trade hours, and I will do it with a tongue that tastes of iron instead of pride, because there are days when authority means making room for another hand on the lever. Bring me hand-wringing, and I will simply ring louder, because fear is a signal too, and I will not let it run the channels if I can drown it in procedure. If your evidence points at a ledger as much as a lamp, I will follow the cord where it leads and let the Basilica’s knot bite my own wrist alongside Ysra’s, and we will see whose blood hums truth. Know this: I despise liars who borrow the color of safety, and if your arrow can pin one to a pier without killing them, I will personally see that they are unmasked under a clear flame and not a partisan shadow."
+        },
+        {
+            "speaker": "Order Witness (Acolyte Sera)",
+            "lines": "I will watch you tie this with clean hands and a clear lamp, and I will mark in the Basilica’s ledger that the river was invited to the table in the persons of those who know its moods. A co-authority knot is not a marriage, it is a braided promise, and braided promises rub wrists until callus becomes comfort, so we will bind loosely enough that breath can pass and tight enough that panic cannot pull it apart with one tug. Speak plainly, for the cord hums at falsehood and stills at fear, and if your words carry the river’s curve I will hear it in the twine like a low note beneath the choir. The Order does not take sides with factions; we take sides with vows, and a vow that feeds children is a warmer light than one that flatters a charter. Present your saboteur under an honest lamp, and I will witness their unmasking in the name of those who drowned the last time pride made a flood."
+        },
+        {
+            "speaker": "Neris Quay",
+            "lines": "I grew up counting rooftops like stepping-stones and reading lamp-colors the way pilots read clouds, and I have learned that the city’s arguments mean little when a hull groans and the water wants a life, so hear me clear. I will set a lane that treats hungry mouths as more urgent than proud ones, and I will lay my buoys where tide and silt agree to spare a keel, even if the charts do not yet know those places exist. I will stalk the red lie with mirror and patience until I see the hand that holds it, and I will bring that hand to an honest flame without breaking the wrist that might one day pull a drowning child from a sluice. When we knot the bell between you, it will be tight enough to pull against and generous enough to breathe, and I will offer my own cord as the first wrap so no one says I asked others to chafe while I stood smooth. The river likes deals that remember it is older than maps, and I intend to make one that keeps its temper and our boats afloat."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Run the shadows and stitch the lane by night",
+            "text": "You take to the roofs at dusk, moving with the chiming of ward-lamps, and use your knot-hook arrows to ferry reed-buoys across canals where watchboats cannot see the hemp tails snaking under sheen. You mirror-signal with thumb-sized flashes to Rull Fen’s pilots, aligning private marks with his dead-reed whistle codes until the secret lane reveals itself like a pale vein in the dark water. You time each placement between official patrol turns, counting hinge-song beats that Gantrix’s crews use, so that your path grows in the river’s blind spot without anyone tasting its new current. At the same time, you record the Red Gale pattern in your mirrorglass and feed it through Thay Nerr’s old cipher, tracing how the false flashes ripple from a fixed rooftop more than from passing hulls. When the pattern narrows to a ledge above the Dyers’ Spiral, you wait with your bow slack and your breath thin, ready to catch the liar’s hand the moment the night turns its face.",
+            "outcome": "The saboteur emerges wrapped in a dye-proof cloak, their lantern filters swapped for a red that burns slightly wrong, and you pin the cloak to iron with a hookshot that bites cloth without taking flesh. They try to swallow a signal-cord, but you snap it with a glass-thread cutter and drag them quietly along the roofline to Acolyte Sera’s waiting lamp in a shrine alcove overlooking the canal. Under the pearl flame, their dye-stained gloves betray Compact coin, and a slip of futures calls peeks from a waxed pocket, its timings matching your mirror-notes, which makes even Gantrix Pell’s jaw tighten. Ysra Dokk and Gantrix sign a preliminary co-authority knot on Sera’s cord, wrists touching briefly as the twine hums, and Rull Fen’s pilots slide the first test hull along your hidden buoys at dawn to a chorus of relieved creaks. The Syndicate accepts the charts with tight gratitude because evidence is a language they respect, the Marrows call you pilot-friend in open voice, and the Rookery expects a favor later for the cipher help but keeps quiet now because the river has been fed."
+        },
+        {
+            "id": "C2",
+            "title": "Raise the lamp and bait the saboteur with official signals",
+            "text": "You walk into Tide-Hinge Bastion at noon and ask Gantrix Pell for a joint patrol, proposing a clean trap: the Syndicate will alter their Red Gale cadence by one heartbeat, a lawful variance only crews would hear, and you will watch who flinches before the first flare. You place the Marrows’ buoys openly under escort, daring any saboteur to act while two rival flags share a single deck and the city stares, knowing that spectacle can be a net if woven thick. As the patrols loop, you station Acolyte Sera upon a gantry with a neutral lamp and a cord ready, ensuring that any accusation meets a witness before anger finds an outlet. You rig two decoy signal posts with mirrored bellies so that false flashes reflect back to their source, buying you a path of light to follow without leaving your perch. With every official eye on the water, you keep yours on the roofs, trusting that the guilty prefer height to depth when shame is at their heels.",
+            "outcome": "The trap snags a runner using a Syndicate apprentice badge, clearly borrowed, who panics at the off-beat and misfires the Red Gale, giving you your reflected path and a line of sight across Brightreach to a handler who flees. You choose not to chase the handler into the Exchange’s crowd, instead dropping the runner with a blunthead and hauling them to Sera’s lamp, where their story spills in anxious waves that wash up against the Saffron Ledger Exchange without quite drowning it. Gantrix Pell keeps his word and knots a trade-hour bell share beside Ysra, but he writes an interim clause that requires Syndicate countersign on any emergency variance, a legal burr that the Order notes for later untying. The buoys remain and the lane holds, and though the Compact’s higher hands slip away, the city sees two old rivals sharing a deck and a writ, which is itself a turning of current. River-Marrows trust in you deepens because you made room for their voices without sacrificing their teeth, the Syndicate offers you clipped courtesy because you honored their forms, and the handler’s shadow does not forget your gaze."
+        },
+        {
+            "id": "C3",
+            "title": "Strike the purse—set a counter-rumor at the Ledger Exchange",
+            "text": "You carry a rumor into the Saffron Ledger Exchange like a lit coal, telling only the right ears that a quiet audit of dye-futures timings will be posted by dawn, a notice the Rookery will deny and therefore confirm. While factors lean in to smell profit or smoke, you and Rull Fen raise buoys in the blind corners of the night, using the false comfort of market noise to hide the sound of rope kissing water. You prearrange with Acolyte Sera to bless a cord that will accept the first three signatures in reach, a ritual jar kept at the Exchange’s side chapel so that trade may meet oath without delay. As the rumor blooms, someone tries to force a Red Gale across Lowwater to justify a sudden closure that would tilt futures, and you stand in a bell-shadow where your mirror can catch the first treacherous flicker. You let the lie burn twice, long enough to bait the bigger fish, and then you answer with your own flash-code that means Not Weather, drawing the net tight as greed moves into the open with its hands full of light.",
+            "outcome": "A mid-level broker from the Compact’s back bench sprints to a hidden roof-ledge to repeat the false cadence, and you cut their route with a line-arrow that turns their flight into a clumsy perch, humiliating without breaking. The broker spits law-words and coin-threats until Sera’s lamp washes the rooftop in pearl, and under that color their ledger-ember seethes hot with timings that align to the Red Gale misfires, a small sun that damns with its own heat. Ysra and Gantrix arrive by separate ladders but leave by the same stair after setting their wrists to a firmer co-authority knot than either wanted to admit, because money’s shadow made the case to the city more loudly than any speech. The lane charts go to both factions locked in the Order’s seal-string, and your name becomes a whistle among pilots meaning Hold Fast and Look Up, for the river has more than one current tonight. The Compact learns your face and begins to price your silence, the Rookery smiles like a bird that has seen a bright coin and a brighter storm, and you feel the old vote-night ember in your past heat in warning because settlements made in markets tend to keep receipts."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M06"
+        ],
+        "next": [
+            "M08"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Legal Writ",
+            "description": "River-Marrows salvage chit clearing a portion of the Quay family’s Weir record."
+        },
+        {
+            "type": "Item",
+            "description": "Stamped guild rope with coin-notches granting pilotage on the new lane."
+        },
+        {
+            "type": "Reputation",
+            "description": "River-Marrows Guild (trusted pilot-friend)."
+        },
+        {
+            "type": "Knowledge",
+            "description": "The false Red Gales were timed with dye futures calls at the Saffron Ledger Exchange."
+        }
+    ]
+}

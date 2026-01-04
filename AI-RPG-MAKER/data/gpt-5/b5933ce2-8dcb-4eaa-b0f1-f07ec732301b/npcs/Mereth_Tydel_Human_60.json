@@ -1,0 +1,72 @@
+{
+    "name": "Mereth",
+    "surname": "Tydel",
+    "race": "Human",
+    "age": 60,
+    "appearance": "River-blue vestments edged with tide-bells; a calm, stone-quiet face and hands that smell faintly of river salt.",
+    "character": "Patient, persuasive, and publicly compassionate; he guides crowds like a careful ferry in fog.",
+    "traits": [
+        "Serene",
+        "Principled",
+        "Empathetic",
+        "Resilient"
+    ],
+    "skills": [
+        "Oratory",
+        "Ritual law",
+        "Mediation",
+        "Augury",
+        "Sanctuary management"
+    ],
+    "talents": [
+        "Ends riots with hymns",
+        "Reads oaths’ weak points from speech",
+        "Finds omens in water-bows and spill patterns"
+    ],
+    "flaws": [
+        "Slow to act",
+        "Overtrusts omens",
+        "Blind to internal schism until late",
+        "Refuses expediency"
+    ],
+    "dreams": [
+        "Preserve the covenant of the Nine Tides",
+        "Reopen public ritual access at contested sites",
+        "Humble the Weir’s arrogance without breaking it"
+    ],
+    "secrets": [
+        "Owns a drowned bell that can end any storm once for an unnamed life",
+        "Keeps jars of the river’s anger; three show hairline cracks",
+        "Privately believes dredging the Charterstone might be permissible with true omen"
+    ],
+    "relations": [
+        {
+            "npc_name": "Quill Vess",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Jilai Sunquiet",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Calra Orun",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Iren Vask",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sila Jor",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sava Deren",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Thorek Brimvauld",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

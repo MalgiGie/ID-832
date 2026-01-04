@@ -1,0 +1,68 @@
+{
+    "name": "Avar",
+    "surname": "Jen",
+    "race": "Human",
+    "age": 58,
+    "appearance": "Immaculate ash-gray robes and jade abacus rings; close-cropped beard; a cool, weighing gaze.",
+    "character": "Calculating, patient, and unflappable.",
+    "traits": [
+        "Strategic",
+        "Aloof",
+        "Punctilious",
+        "Risk-tolerant"
+    ],
+    "skills": [
+        "Arbitrage",
+        "Contract law",
+        "Forecasting",
+        "Debt negotiation"
+    ],
+    "talents": [
+        "Hears false notes in testimony",
+        "Counts coin by weight in palm",
+        "Sleeps anywhere for exactly an hour"
+    ],
+    "flaws": [
+        "Overconfident",
+        "Secretive",
+        "Dismissive of superstition"
+    ],
+    "dreams": [
+        "Legalize predictive underwriting",
+        "Bind the Stepwell of Oris to a trust he controls"
+    ],
+    "secrets": [
+        "Trades on Heliolith star-code forecasts",
+        "Keeps a forged Ministry seal hidden in the Granite Counting-House"
+    ],
+    "relations": [
+        {
+            "npc_name": "Meret Hal",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ayo Solace",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Varo Pell",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Rhyss Quell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Dorel Glassant",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Thren Basso",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Lune Arikara",
+            "relation_type": "Conflict"
+        }
+    ]
+}

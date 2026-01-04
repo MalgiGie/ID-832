@@ -1,0 +1,72 @@
+{
+    "id": "M1",
+    "title": "When the Beacon Keens on a Clear Sky",
+    "quest_giver": {
+        "name": "Isha Brinehand",
+        "affiliation": "Dockers' Syndicate"
+    },
+    "description": "At noon, when the harbor lay slick as hammered shell and gulls rode the hush, the Beacon of Myr Sal let loose a cry like a wounded thing that remembered thunder too well. The sound ran the length of Chainmouth, a keening that jittered through mooring ropes and made the meteoric iron slate in the House of Weights ring like a struck bell. A training lift seized mid-rise and three young riggers were left dangling over a chop gone suddenly black, their boot-heels skimming panic from the water while the ratchet clicked like a prayer stuck in the throat. Old ghosts woke in the city’s bones—the chainjam that took fathers and lovers, the hard cough of tideglass when lies pass for law, the brittle moment when a crowd decides whether to run or hold. Dock runners fanned out with oilskins flapping, and every rope, every barge, every chainhouse felt the Beacon’s cry in its fastenings as if the towers themselves had a pulse. To your scars it was a remembered burn, to your jaw a grit of glass, and to your heart the shape of a word being bitten off, not a storm’s honest step. In Marinth Vell, living glass only sings that way when weather changes its mind mid-stride or when someone lies big enough to tilt the city, and for an hour the Nine Mouths seemed to hold its breath like a diver hunting a safe current. You, Tairn Latch of the marsh and the chainhouse, are called to climb and cut and listen, to haul three bodies back from the mouth of an old fear and to follow the Beacon’s fading hum until it tells you where the first false note was struck.",
+    "objectives": [
+        "Stabilize the jammed chainlift at Chainmouth and rescue the three suspended workers.",
+        "Meet Captain-Major Sorev Katch at Windward Bastion to share what you heard in the Beacon's keening.",
+        "Climb the lower galleries of the Beacon of Myr Sal with a lens-tender to listen to its residual hums for clues."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Isha Brinehand",
+            "lines": "You hear that, Tairn? The Beacon shouldn’t sing when the sky is clean and the gulls are lazy; it only does that when a storm cheats the horizon or a lie big enough to tax the sea has been told where the city can hear it. I’ve got three kids swinging over black water on a chain that thinks it is the tongue of a bell, and I’ll not lose a hand today to a jam that reminds the city of my worst morning. Take your hook, take two steady souls, and make that lift remember it’s a ladder and not a gallows; wedge, counter, breathe with the tide, and don’t let panic write the last line. Bring them home with their fingers and names intact, then put your ears to what the glass left hanging in the air because I swear that keen ran through the House of Weights like a thin blade and tasted of oaths. Keep your eyes open up the stacks, too; when glass hums like this somebody’s tuning, and the Conclave has more forks than I have patience, and House Saltvein loves a quiet cord that moves a gate."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "lines": "I hear it all the way down my teeth, Foreman—like a word that didn’t want to be said and cracked on its way out. I’ll take the hook and a wedge-board, and I’ll count my breaths by the chain’s click until it listens, and I’ll come back up with three more souls cussing me for bruises instead of being etched on a salt stele under Lost. The Beacon’s cry rode my scars like it knew the path already; I’ll follow the echo down the catwalks and up into the glass if the gate-keepers at the Prismarium will let a docker’s boots touch their steps. I’ll speak clean to the Wardens at Windward Bastion with whatever I can hear in the hum, because if pirates smell fear across the Veiled Current we’ll all be counting breaths in the dark. And I’ll hold my fulgurite when I speak to the lens-tender so the shard warms if the truth’s in me, because I won’t let anyone say I carried a lie for someone else’s profit."
+        },
+        {
+            "speaker": "Sorev Katch",
+            "lines": "If what you tell me is true, then someone has their fingers deep in the city’s nerves, and that makes my skin crawl more than any storm cloud I can see. My crews will hold the Bastion steady and stagger the chain-lifts across the Nine Mouths until we’re sure this isn’t a signal to cut and run, and I’ll have my patrol boats drift the Veiled Current’s lip with their lamps hooded. You pulled bodies back from an old story that ends in drowning, and I don’t need the Court of Echoing Shells to tell me that counts, so hear this from me straight: I’ll remember it when the tariff brass get loud. But I do not command by superstition and I will not close this harbor on a rumor dressed in pretty words about keening glass, because that panic costs more lives than a clean gale. Bring me a name, a fault in the ratchet teeth, a shard singing in a register that the Conclave’s own instrument will confirm, and I will act like thunder on a ridge; until then, hold your crews steady and keep your lantern codes honest."
+        },
+        {
+            "speaker": "Liora Fen",
+            "lines": "Listen with your bones as much as your ears, Tairn Latch; the Beacon’s lower galleries keep a residue, a harmonics of what it has sung, like a tidepool remembers the shape of a wave after it pulls back. I am Liora Fen, a lens-tender of the Conclave, and my oath is to keep the light true even when the politics of it smear like oil on water, so take my word that I didn’t lay the fork that woke this city. There’s a bitten note in the hum, a black hinge where something should have swung wide and didn’t, and I taste salt in it that is not from the air, which means an oath was near when the strike laid in. If we hear a false chord in the residue and we swear within earshot of it, the Heartshard’s legend says a lie will cut the mouth that speaks it, so I ask you to hold your fulgurite and speak clean with me when we listen together. I want no name from you that you did not earn in truth, and I will note any instrument’s color drift in the Prismarium’s record, even if it offends my superiors, because glass that sings on a clear sky is a wound, and wounds fester when they are hidden."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Ride the chain’s breath and swing the riggers to safety",
+            "text": "You choose the rhythm of the harbor over brute force, and you signal the crew to breathe with the chain’s click instead of fighting it. You wedge a sprung board against the ratchet casing, take the strain on your chain-hook gauntlet, and count heartbeats until the tide’s lift eases the jam’s teeth a whisper. You call for one rigger to kick wide on the next hush and take the swing, and you promise you’ll carry the bruises yourself in the House of Weights if the arc goes hard. The second breath you use to reset the counterweight with a pry and a curse, and the third is for the youngest, whose boots drum terror into the steel until your voice turns the drum into a song counted in fours. You speak to fear like an old neighbor, and you bring the first body to the catwalk, then the second, then the third, each one cussing your orders but hugging the grating with a gratitude that tastes of salt and not tears.",
+            "outcome": "The lift stabilizes with a groan like a tired ox, and the ratchet teeth spit out their lie to admit the truth of your patience. The three riggers collapse on the catwalk swearing loudly that they never doubted you, which is a lie you forgive because the city is listening for worse. Wardens on the far platform nod despite themselves, and dockers murmur your name like a small oath that holds for a night, and the jam becomes a story about breath and timing instead of a dirge. You find a scored pawl with fresh resin grit in its bite, a strange sign that someone’s dirty thumb was near, and you pocket a sliver not to steal but to show a lens. The House of Weights slate rings off its last tremor as you step back onto solid planks, and for a moment the harbor feels like a chest that has remembered how to breathe."
+        },
+        {
+            "id": "C2",
+            "title": "Argue to keep the Nine Mouths open under lantern discipline",
+            "text": "At Windward Bastion you ask Sorev Katch to hear a docker’s calculus, and you speak like someone who has counted how quickly fear empties cupboards. You say that if the chains all lift at once without cause the city will read it as panic, and panic calls pirates like blood calls sharks, so better to hold the mouths at a stagger and make a map of steadiness in light. You propose coded lantern intervals that read calm to pilots and stern warning to smugglers, a pattern the League of Lanterns has used to keep storms from becoming stampedes. You promise to put dock crews on double checks and to have the House of Weights open its doors for night calibration, so nobody can say a shaved scale was the reason a man died today. You give him the shape of the Beacon’s bitten note, not as proof enough to shut a city, but as a reason to keep hands off the panic levers while you climb to listen for more.",
+            "outcome": "Sorev’s jaw works like a man chewing a nail, but he gives you the nod he saves for plans he will accept and later pretend were his, and your lantern pattern cuts through dusk like a firm hand on a frightened shoulder. The Wardens hold the chains in staggered lift and lower with crews at their posts instead of at the taverns, and smugglers who love a muddle find no muddle to love. The League’s silhouettes on the towers trade measured signals that make even the gulls settle, and at the House of Weights a queue forms for honest calibrations under oil that does not flicker. You do not win his promise never to close the harbor, but you win his promise not to do it on a rumor, and that distinction keeps fish on tables and hands on safe tasks through the night. When you leave the Bastion, you carry no writ, only a sense that your word sat in the right ear at the right time and tilted nothing but fear."
+        },
+        {
+            "id": "C3",
+            "title": "Swear an honest ear with Liora Fen in the Beacon’s galleries",
+            "text": "Under the Beacon’s singing skin, where galleries curve like a shell’s inner lip, you stand with Liora Fen and take out the fulgurite shard you wear by your heart. You tell her you will not swear to secrets that make the Dockers blind, and you will not take an oath that lets the Conclave paint over a crack with light, and she answers that a true oath is a lantern, not a curtain. You both touch the shard and feel it warm, not with heat, but with intention, and you speak aloud that what you hear together you will carry together to the Court of Echoing Shells if it proves to be a lie large enough to wake glass. You say the names of those who might be harmed if you tangle this wrong—the riggers you hauled, the pilots who trust the Reef, the marsh-wives who read knots—and you tie each name to the promise that you will not be used. The Beacon hums as if it is eavesdropping on your small brave sound, and you and Liora lean your heads as close to the glass as two conspirators and two servants of the city can.",
+            "outcome": "The residue is there like a bruise, and together you find its edge, a harmonic that should spiral clean but breaks as if a hand clapped over a mouth at the moment of vow. Liora’s lenses bloom a color-shift not natural to clear weather, a distorting mauve that the Prismarium’s charts name misharmonized oath-lens, and you feel the fulgurite pulse as if it agrees with the diagnosis. You do not have a culprit, but you have a place and a time in the music, and Liora drafts the record in clean script with her own name under it, which is a brave thing for a Conclave tender to do. The Faith’s doctrine whispers through your memory that oaths and storms share a spine, and you think of the Court’s shells keening for liars, and you know where this will have to be heard if the city is to heal without opening a new wound. You descend from the galleries with your jaw set and your shard warm, carrying nothing in your hands but a note in a song and the obligation to follow it to the next verse."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "currency",
+            "description": "10 silver in hazard pay from the Dockers' Syndicate, stamped and counted at the House of Weights for the rescue under a singing sky."
+        },
+        {
+            "type": "access",
+            "description": "River Wardens day-pass to restricted chainhouse catwalks, granting lawful passage on maintenance and rescue routes while the investigation continues."
+        },
+        {
+            "type": "reputation",
+            "description": "Reputation: +Small with Dockers' Syndicate and River Wardens, earned by steady hands on a jammed lift and a clear head at Windward Bastion."
+        }
+    ]
+}

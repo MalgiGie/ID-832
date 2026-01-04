@@ -1,0 +1,55 @@
+{
+    "name": "Riala",
+    "surname": "Hearthwake",
+    "race": "human",
+    "age": 37,
+    "appearance": "Sun-creased skin, mirror-threaded scarf, and sand-worn boots. Carries a carved bone tally of the Steps’ lies and truths.",
+    "character": "Warm storyteller with a negotiator’s patience. Shrewd eyes weigh pilgrims’ burdens and purses alike.",
+    "traits": [
+        "recites parables mid-climb",
+        "ties ancestor cords for strangers",
+        "hates to see children thirsty",
+        "keeps a brass bell that never rings"
+    ],
+    "skills": [
+        "Sighing Steps navigation",
+        "harmonium cave mapping",
+        "spotting deception",
+        "first aid and blister care"
+    ],
+    "talents": [
+        "recognizes the thousandth step’s lie when sung",
+        "knows a dozen safe wind windows by scent"
+    ],
+    "flaws": [
+        "in debt to the Caravan League",
+        "too willing to bend rules for sad stories",
+        "nags when scared"
+    ],
+    "dreams": [
+        "Open a sanctuary for drought refugees at the Steps’ base",
+        "Host a festival where rival factions climb side by side in silence"
+    ],
+    "secrets": [
+        "Leads select clients to a hidden step that speaks a truth they choose",
+        "Once guided an Under-Sun hymn-singer through after curfew for a bribe she regrets"
+    ],
+    "relations": [
+        {
+            "npc_name": "Mistress Pall Ludo",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Prelate Lys Amon",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Zexi Orr",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sila Vane",
+            "relation_type": "neutral"
+        }
+    ]
+}

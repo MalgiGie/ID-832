@@ -1,0 +1,64 @@
+{
+    "name": "Kezra",
+    "surname": "Thorneglass",
+    "age": 27,
+    "race": "Human",
+    "appearance": {
+        "description": "Lean and river-tanned with ink-stained fingers and a steady pilot's posture. Hair the color of wet basalt, worn in a tight knot. Grey-green eyes that catch lamplight like shallow water, and a voice kept soft out of habit from whispering in archives and on night canals.",
+        "distinctive_signs": "A faint thorn-prick scar under the tongue from an oath rite, a glass-fleck in the left iris from the Glasslake of Sere, and a reed-cut notch on the lower lip from the Floodwalk."
+    },
+    "class": "MAG",
+    "history": "Born on the Floodwalk to a boat-riveter and a loom tender, Kezra learned floodmarks before letters and whistle calls before prayers. A scholarship from the Scribes' Stair put them to work fetching memory oils and copying tide ledgers in the Lantern Archive, where Lantern-keeper Sula Reedmantle taught them the ethics of remembrance. Kezra's knack for drawing thought into light and water grew into a careful art: lantern mnemonics, oath-glyphs in ink that soured when read by liars, and reflections coaxed to reveal what they had seen. The Order of the Black Thistle called it practical sorcery and demanded vows; Kezra bent the tongue to a thorn and swore to bind their magic to the city's good. When the drought upriver bit the barges low, Master Pilot Olan Vetch hired Kezra to annotate route-books with lantern patterns and to stand as a neutral eye on moving sandbars. On one moonless tow, a submerged ridge the pilots call the demon's spine shifted; Kezra's quick reading of the current saved a barge and bought Olan's enduring respect. Rumor later spread that Kezra had cut a reflected map from a chart-lantern's face to learn a rival's route in a pinch. Sula Reedmantle warned that such cuts leave scars not only on water. Kezra's work since has straddled canal and archive: arbitrating between bargemen and stallholders after bellweights were discovered to be false, advising the Loom Cathedral on moth-lantern harmonics during Fogfast, and walking the Needle when the rain-chains sang without wind. In a low year, Kezra took a flatboat north to the Mourning Mire to negotiate with Willowwives over thistle beds. Lost among reed-banks and ghost lights, they whispered a true price to a presence in bone-white reeds and were shown out by a new waterway straight as a spear. Kezra did not speak the encounter aloud. Now, with moth blight, counterfeit salt, and a reed-thing haunting canals, Kezra seeks to bind oath, chart, and lantern into a public commonplace the guilds cannot hoard, even as the Night Cartographers circle with offers priced in favors measured by the ell.",
+    "equipment": [
+        {
+            "name": "Mnemonic chart-lantern",
+            "description": "A brass-and-glass river lantern whose oil is tinctured with rosemary and salt. When trimmed by trained hands, it holds a pattern of light that cues memorized routes and oath-phrases without speaking."
+        },
+        {
+            "name": "Fogfast reed-flute",
+            "description": "A waxed reed pipe tuned to the Pilots' dawn calls and the children's Fogfast lures. Useful for coded signals across water and to coax moor-moths from rooftop thistles."
+        },
+        {
+            "name": "Glasslake reflection-shard",
+            "description": "A thumb-sized mirror-glass fragment set in a copper ring. In a dark bowl of still water ringed by salt, it lets the bearer lift a single image from a reflection and study it apart for a short time."
+        },
+        {
+            "name": "Sound-damping silk scarf",
+            "description": "A thin veil woven in the Loom Cathedral from a hush-bred moth line. Muffles whispers and footfalls when wrapped around throat or boot, and steadies breath for spellcasting."
+        },
+        {
+            "name": "River sounding lead and knotted line",
+            "description": "A lead plummet etched with depth marks and a hemp line knotted by the pace. Carries a smear of tallow to taste the bed for silt, sand, or stone."
+        },
+        {
+            "name": "Oath-glyph kit",
+            "description": "Ink, thistle-needles, and wax seals in a waxed roll. Used to inscribe vow-bound characters that sour when read with deceit in the heart."
+        }
+    ],
+    "main_attributes": {
+        "strength": 8,
+        "agility": 12,
+        "constitution": 11,
+        "intelligence": 17,
+        "wisdom": 14,
+        "charisma": 13,
+        "dexterity": 12,
+        "endurance": 10,
+        "perception": 15,
+        "luck": 11
+    },
+    "soft_skills": [
+        "Mediation and oathcraft between rival guilds",
+        "Hydrography and canal-route mathematics",
+        "Codes in whistles, lantern patterns, and ciphered scripts"
+    ],
+    "relationships": {
+        "Finn Bracken": "River friend and under-dock guide. Finn taught Kezra the hidden sluices beneath the Weir Market and once hauled them out of a bad tide near Stall 47. In return, Kezra uses lantern codes to warn Finn when the watch walks the planks too quietly.",
+        "Sula Reedmantle": "Mentor at the Lantern Archive. Sula trained Kezra in memory oils and the burden of keeping a city's recollection honest. She suspects Kezra's reflection work skirts peril, and her approval must be earned anew each season.",
+        "Olan Vetch": "Sponsor among the Riverlight Pilots. Olan trusts Kezra's eyes on a shifting channel and has asked them to serve as neutral witness in disputes with independent pilots. Kezra owes Olan for backing their oath-bound magic when the Brotherhood bristled."
+    },
+    "ambitions": "To establish a lantern oath-chart in the Lantern Archive that encodes safe routes and flood-vows as a public trust beyond any guild's monopoly; to resolve the reed-thing murders by mapping the demon's shadow reputedly pinned under the Needle; and to braid Pilots, Spindlewrights, and the Order into a compact that survives drought years without famine scrip.",
+    "flaws": "Compulsively follows puzzles and rumors even when prudence counsels shore; bound by a tongue-thorn vow that snags the voice when tempted to shade a truth; sleeps poorly near mirrors and may drift toward water in starry weather.",
+    "dreams": "To read the midsummer map said to appear in the Needle's shadow and walk the mirror of Thornspire beneath black water; to quiet the rain-chains' unseen song; and to craft a form of magic the Order can bless without closing its eyes.",
+    "secrets": "Kezra bargained a true price and a breath-name to the drowned queen's memory in the Mourning Mire to gain passage, and she can likely call it in. In a crisis, Kezra once cut a reflected glance of a rival route-chart to steer a starving barge through, a theft done without touching the parchment. To pay a healer's bill after the Ember Riot, Kezra sold a harmless back-alley towpath route to a Night Cartographers broker and dreads that thread being tugged."
+}

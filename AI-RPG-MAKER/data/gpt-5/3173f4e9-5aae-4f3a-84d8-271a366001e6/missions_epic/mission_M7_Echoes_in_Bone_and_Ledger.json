@@ -1,0 +1,85 @@
+{
+    "id": "M7",
+    "title": "Echoes in Bone and Ledger",
+    "quest_giver": {
+        "name": "Archivist Lerrin Vale",
+        "affiliation": "Marrow Archive Curators"
+    },
+    "description": "Moonshard lamps burned cold and unwavering in the Marrow Archive, laying frost-pale constellations across carved bone shelves and beeswax seals that held the city’s memory together like sinew. The eel-skin ledger lay between steady hands as if it might sprout teeth and vanish back into the silt, its pages oiled to repel years and prying fingers, its ink sleeping until coaxed awake by the serpent’s stolen glimmer. With a careful turn of lens and light, letters climbed back up from forgetting, lines upon lines of neat, merciless script that mapped silver like currents: marks to Danka Suth, payments to a scribe for seals that wore honest faces, and a tight notation against the name R. Mestri: ‘Delay the breath one bell.’ In the Echo Hall beyond, whispers drifted like moths in a lantern cage, patient enough to repeat any name that dared pass between the ribs hours later, proof that words here were never truly alone. A sealed codex rested on a side stand as if shy, its margins pricked with a prophecy about a day when the vacant Seat of the Hollow would be filled to keep faction from devouring city, and its spine etched with the tale of how Vaelor’s heart was ferried south under a sky of red wind. Jarik arrived with the smell of stair-dust and rain, thrusting diary leaves from a dead rafter’s coat into the pool of light, their scored moth-wings aligning grimly with shift marks and ledger tides until the plot’s silhouette stood like a gallows against the Archive’s lamplight.",
+    "objectives": [
+        "Submit the eel-skin ledger to the Archive and assist in decoding its cipher with moonshard light.",
+        "Review the Rafter’s diary pages Jarik Rell recovered; correlate marks with Danka Suth’s shift times.",
+        "Decide whether to accept a temporary memory-graft to learn ledger-craft faster, knowing something personal will be erased.",
+        "Obtain a certified transcript for presentation to the Vigil and Triune."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lerrin Vale",
+            "lines": "We ask the bones to remember for us, and they do, humming the past in tones even the wind respects. We ask them to forget, and they rarely oblige, because forgetting is a kind of betrayal the ribs do not allow. This ledger does not wish to be known, its ink bound to sleep except beneath true moonshard light, but light is a patient interrogator and here it yields. See how the tide of silver curls toward names we have heard in grief and rumor: Danka Suth, a scribe who sold his hands, and this tight mark for R. Mestri bound to the instruction ‘Delay the breath one bell.’ A city could drown in that bell, and the ledger knows it, and the bones know it, and so must we if we are to keep faith with the Hollow Oath."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "lines": "The bones taught me that wind is a blade that spares no oathbreaker, and I have no wish to flinch from its edge. If a graft will give me the cipher’s tongue for a spell, I will pay the price, because there are children whose names the Echo should never have to learn. I have lost a song before in these halls when I begged a memory from marrow, and though it left an ache where a lullaby used to live, that ache was lighter than a deck-load of mourners. I would lose another small piece of myself rather than watch the Chainhouse lift a coffin because we were too proud to pay in memory. But I will not trade so much that I forget why I stand on these ribs, or who I swore to guard when I first lifted the rite-striker under a clean sky I was forbidden to sound."
+        },
+        {
+            "speaker": "Jarik Rell",
+            "lines": "You keep cutting strips from your own heart like it is spare rigging, sister, and I keep wondering when you will reach the part that cannot be knotted back. Yet look at these pages and hear me: the scoring in the diary matches the moth-wings carved beneath the catwalk, and those marks align with Danka’s shifts just as tight as a well-spliced line. This is an inside haul, tidy and rehearsed, and every bell we give them is a bell they use to grease another bolt or cut another sling. I will carry a certified transcript to Spinegate and swear before the Seat that this is no street-thief’s mischief but a braided scheme. But I need you to decide what you are willing to give tonight, because the Vigil can hold a storm, not a civil war between guilds if the truth arrives late and toothless."
+        },
+        {
+            "speaker": "Lerrin Vale",
+            "lines": "The Echo Hall is open for your names, and when you speak them they will come back to us long after our bones have chosen quiet, which is humbling and useful both. I can prepare a memory-graft that teaches you the ledger’s secret hand for a night and a morning, and I can lock it to fade before the next Lanterning, but every graft exacts its price, and marrow is a ledger more honest than this eel-skin ever was. The sealed codex waits as well, the one that tells how the heart was ferried south to the Drum of Reeds and why a seat must be filled when the city quarrels with itself, but codices will not stand up in court unless a living voice swears to them. Take this moonshard lens and this scribe’s grid, and we will let the Moon teach us how the coin ran where the wind could not. When it is done, I will stamp a transcript with the Archive’s cold seal and the Vigil will have words that do not blur under heat or fear."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "lines": "Let the Echo carry our names and hold them like lanterns in the dark long after we are ash and memory, and let me carry the weight until the Hall must lift it with me. I will walk this transcript across the ribs, past those who say they own the wind and those who pretend to own the river, and I will set it on the stone between the three chairs so none may claim not to have seen. If the Seat of the Hollow must be filled to keep the city from cutting itself open, then I will speak for that too, though I do not yet know whose shadow should fall upon that bone. Thia’s lanterns are in my thoughts, and Gor’s crew are at my back with knives of grief and pride, and somewhere in that grind a child is trying to sleep while the ribs sing wrong. Time is a blade tonight, Lerrin, and we must learn to parry without slicing what we swore to protect."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Accept the memory-graft and let the Moon write its brief lesson into your marrow.",
+            "text": "You lower your head and bare your neck to the cool touch of the moonshard lens, and Lerrin’s hands are steady as he binds the rite between lamp and bone. The cold drifts in like a winter river and ignites filaments in your mind, and suddenly the ledger’s strokes unfold like rigging diagrams you have known since childhood. You feel a thread pull loose inside you at the same time, a small warmth slipping away like a hummingbird from your cupped hands, and you know it is a cherished something even as you cannot yet name its shape. Jarik watches with a jaw like set stone, his worry in the way he keeps counting your breaths as if he could tally back what you spent. The Echo Hall answers your name with your name, layering promise over price until the sound is a chord you cannot unhear.",
+            "outcome": "The cipher unlocks in cascades, and you chart payments with a speed that makes the eel-skin shiver as if it resents being known so quickly, identifying Roa Mestri as a River Lords tally-scribe and linking the ‘delay the breath’ note to a specific horn log. You produce a clean, cross-checked transcript before the bell that would have been stolen, and Lerrin seals it while Jarik moves to brief the Vigil runners with orders too crisp to ignore. The price makes itself known in a quieter way when you try to hum during the stamping, and the tune you reach for will not come, leaving only the shape of absence and the bare certainty that it used to calm you before gale drills. The Vigil and the Archive both gain confidence in your testimony, and the Triune’s clerks cannot easily dismiss a grafted expert who admits the price of her knowledge in open record. In later inquiries, the pattern you learned lingers like a faint watermark, granting you swifter insight into ciphers and bribe paths even after the graft fades, while a rumor grows that the paladin who hears bones also taught them to speak in ink."
+        },
+        {
+            "id": "C2",
+            "title": "Refuse the memory-graft and trust your own ear, your brother’s grit, and the Archive’s method.",
+            "text": "You place your palm over the moonshard’s glow and slide it gently away, as if shading a lantern from a child’s eyes during a storm. Your vow is not to win with every tool, you remind yourself, but to win without breaking what you mean to save, and sometimes that means choosing patience over power. Jarik exhales, not in relief but in readiness, and leans in with the rafter’s diary as if the two of you were back in the Undershadows counting lamp routes by fingertip. Lerrin nods once, approval and worry married together, and unrolls clean grids and oils the ledger’s page corners so nothing smears under your hands. The Echo Hall listens while you work by the honest pace of breath and quill, turning fragments into a braided rope that can hold a city’s weight if thrown true.",
+            "outcome": "Decoding takes longer and your eyes burn with it, but the work yields patterns all the same: Roa Mestri’s role as a payer and messenger, Danka Suth’s shifts aligning with scored signals, and a horn log window that fits the ‘delay’ order like a hidden notch. The transcript is sealed closer to the contested bell than you would like, forcing Jarik to sprint for Spinegate while you carry the codex after him with Breathkeeper speed and a prayer you are not sure you believe in tonight. The Triune’s clerks raise brows at the absence of a graft but respect the clear corroboration, and Captain-Magistrate Sorn Ilt gives you a curt nod that says patience is a kind of courage he can still recognize under pressure. You keep every fragment of yourself, and when the day demands a song to steady frightened children you find it waiting in your throat like a friend who has kept the bench warm. The cost appears in a different ledger: some doors that would have swung on the mystique of grafted expertise now open only with effort, and you will have to argue harder in later sessions to be heard over the thunder of factions."
+        },
+        {
+            "id": "C3",
+            "title": "Break from the Archive to confront Danka Suth before the transcript is carried, risking a warning ripple through the plot.",
+            "text": "You catch the ledger’s most damning lines in your fist like a rope you refuse to drop, and you tell Jarik to hold the seal while you find the hand that tied these knots. The walk from the Archive to the Undershadows is a descent through lamps and whispers, and every deck you pass reminds you of how long a bell can be when spent in fear. Danka’s nook stinks of seal-pitch and old ink, and his eyes flicker like minnows when your shadow crosses the threshold. You speak the words ‘delay the breath’ and watch his lips bleach, and you lay your Oathplate Shield across the doorway so his courage will have to climb over it to run. Your voice stays calm but it fills the tiny room with gale and river both, and you promise him a fair hearing if he trades you truth for the chance to keep his name off the Echo’s lips tonight.",
+            "outcome": "Danka cracks like kiln glaze at a sour firing, blurting Roa Mestri’s name and panting that he thought buying a bell would only keep guild pride intact, not drown anyone, and he thrusts a token toward you that matches a Riverfoot runner’s pass. The confrontation shakes the street and draws ears, which means the warning runs upriver faster than you do, and by the time Jarik carries the transcript to Spinegate the River Lords have already moved to tidy their house. Some ledger scraps vanish from expected places and one scribe goes suddenly ‘on leave,’ but you gain a living confession on oathstone that can be carried like a burning brand into any chamber that pretends not to see. The Vigil looks at you with a mix of gratitude and irritation for moving without their badge, and Sorn Ilt grinds his teeth while he signs a protective custody writ that probably saves Danka’s life before dawn. The plot adapts, but so do you, and what you bring to the Triune is not just ink and inference but breath and fear and the cracked voice of a man who never meant to be a knife in the city’s ribs."
+        },
+        {
+            "id": "C4",
+            "title": "Invite the Moth Lanterns into the decoding quietly, seeking their signal-craft to distinguish mimic marks from true wings.",
+            "text": "You send a bone-chip message down the Archive’s delivery chute, and the answer is a lantern-flicker against the distant lattice that only Scale-born ears would swear had a sound. Thia Mol steps from a column of stacked scroll crates as if she has always belonged to the hush of libraries, her smile both apology and dare in equal measure. You show her the moth-etched marks and the diary’s rubbings, and you ask not for innocence but for knowledge, because you know pride kills as surely as knives when proof is thin. She tests you with a question about why you did not come sooner, and you tell her the truth, which is that you carry oaths like full pails and sometimes you spill when you hurry. She agrees to read the wings for you, on condition that her lantern-signal never be used to burn the poor, and the Echo Hall takes that promise into itself like a second light.",
+            "outcome": "The Lantern-Queen’s eyes pick the forgeries apart as neatly as a rigger unpicking a bad splice, and she shows you how the fake moth wings wobble on the diagonal where a true Lantern signal never would, giving you distinctions you could not have gleaned from ledgers alone. Your transcript grows richer with that craft, assigning certain marks to impostors rather than to Lantern hands, and a quiet note is added that these mimicries were placed to frame a people already standing in thin places. Jarik bristles at the sight of Thia in the Archive, but his duty has room for results, and he signs his name alongside yours with a sigh that says he will take the arguments later. The Vigil brands the document admissible but warns that Triune rivals will try to stain it by pointing at the Lanterns’ involvement, forcing you to stand before the chairs and vouch with your own reputation. In exchange, Thia slips you a ghost-barge whisper about a silver debt tied to Roa Mestri’s purse, a thread that may lead you through Mistmarket fogs when the next step of this storm demands it."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Document",
+            "description": "Certified transcript of ledger and diary correlations admissible before the Triune, sealed under moonshard light and the Archive’s cold stamp."
+        },
+        {
+            "type": "Access",
+            "description": "Conditional access to the Oath Vault for one consultation related to the Seat of the Hollow prophecy, to be invoked when the Hall’s debate turns from noise to necessity."
+        },
+        {
+            "type": "Optional Memory-Graft",
+            "description": "Optional memory-graft (temporary) that improves cipher analysis but erases a minor cherished memory; choosing it grants increased decoding efficacy in later inquiries."
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "M1",
+    "title": "The Wrong Note on the Wind",
+    "quest_giver": "High Cantor Ysil Aer of the Breathkeepers",
+    "description": "At the Gale Organ Cliffs, the wind runs wrong. To Scale-born ears it is a smear of tone, a three-note tremor beneath the usual drone that sets lanterns to quiver and sends riggers to make small protective signs. Aerin feels the serpent’s bones underfoot, tense as a bowstring. After the Chainhouse deaths and whispers of withheld omens, even a hesitant note could be the edge of catastrophe. Ysil Aer watches the mouth of a great pipe that exhales like a sleeping beast, robe-cords tugging in the gusts. He bids Aerin climb and listen, to gather the wind’s voice and match it against the temple’s horn-logs. Hearts in Ribcrown have grown quick with suspicion—if the Breathkeepers sound alarm without proof, they will be accused of stirring panic; if they wait, more will die. Aerin must risk the Galecliffs’ slaps and the razorkites’ shadows to find whether the wrong note comes from storm, sabotage, or something that stirs in the hollow.",
+    "objectives": [
+        "Calibrate three organ mouths on the Gale Organ Cliffs using the Rite-Striker to capture their tones.",
+        "Ascend to the Aeric Aerie and retrieve last week’s sealed horn-logs.",
+        "Consult Cantor Roa Mestri privately about a missing set of wind-tones.",
+        "Record the anomalous three-note pattern into the Moonshard Lantern."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ysil Aer",
+            "line": "The cliff sings what the city refuses to say. Do you hear it, child? Three notes beneath the breath, patient and insistent. We will be accused of withholding omens again if we act on a whisper, yet I cannot ignore a chord that shivers the ribs. Go. Take the striker, and listen with the humility we swore. Bring me the wind’s memory, not rumor."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "I hear it, High Cantor. It catches like grit in a rope. If there is a false note, I will find whether it is storm-born or set by human hand. I will bring back the tones and the truth they point to."
+        },
+        {
+            "speaker": "Roa Mestri",
+            "line": "We sealed the horn-logs after Gale Tuning, as law demands, but the copies… one copy is missing. It is not so grave, I tell myself, but my sleep is thin. If someone is playing the organs through the bone… forgive me, I speak folly. Be careful on the Aerie shelf—the wind slaps have been strange."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "Folly or warning, I will test it against the hollow. If a hand meddles with the city’s breath, I’ll feel it through the bones."
+        }
+    ],
+    "connections": {
+        "previous": null,
+        "next": "M2"
+    },
+    "rewards": [
+        "Breathkeeper Rite-sanction: legal use of the Rite-Striker outside formal rite for this inquiry.",
+        "Access token to the Aeric Aerie shelf during winds of safe strength.",
+        "Favorable standing with the Breathkeepers of the Unbroken Breath."
+    ]
+}

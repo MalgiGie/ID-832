@@ -1,0 +1,79 @@
+{
+    "id": "M11",
+    "title": "Steps That Breathe",
+    "quest_giver": "Talekan Yss",
+    "description": "The Sighing Steps climb the escarpment in a mile of carved breath, organ-pipes singing when the wind rises. Pilgrims carry bone-carved names and tired hope. The thousandth step lies to everyone, and the thousand-and-first tells a truth that hurts the mouth to speak. Talekan Yss asks Rogan to escort a procession and to listen close when the wind bends, because the Steps are breathing again and the lie they tell is the same: the Triarchy is already dead. Beneath a cracked tread, a harmonium cave shakes with a chord that fits the heartseed sliver like a key finding its lock. If Rogan can learn the Gate’s true name carved in the wind and marry it to the bone sliver’s patience, he can carry a verdict to the city that is not just rage but remedy.",
+    "objectives": [
+        "Escort pilgrims up the Sighing Steps and maintain order among bone-singers.",
+        "Enter the harmonium caves and map the wind chords with the heartseed sliver.",
+        "Interpret the thousand-and-first step’s hard truth with Talekan Yss’s help.",
+        "Carve the hidden chord onto a bone tablet without drawing the bone-singers’ tax.",
+        "Return to Marrowhold with the Gate’s true tuning phrase."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Talekan Yss",
+                "line": "The law of wind is older than the law of men. When a step lies, it is because someone taught it a song it wanted to believe. Help me keep these pilgrims safe, and help me hear the difference between a comforting cadence and a true chord."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I came here as a boy to carve a name I didn’t yet deserve, and the wind laughed and told me to grow into it. I’ll keep the bodies upright while you keep the spirits honest."
+            },
+            {
+                "speaker": "Bone-Singer",
+                "line": "Pay the tax of breath and bone, and the wind will carry your name to a gentler hour. Refuse, and you’ll hear your steps counted like debts. We don’t lie; we just sing what the stone already wanted to say."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Talekan Yss",
+                "line": "Hold the sliver against the cave mouth. Do you feel how it warms when the chord is right and cools when the wind plays a false friend? The thousand-and-first truth is brutal: the Triarchy lives in law but has died in trust."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "Then we bring a tuning that gives them back a place to stand or asks them to step down so the city can stand without them. I’ll carve the phrase where it can’t be bought or sold."
+            },
+            {
+                "speaker": "Talekan Yss",
+                "line": "The chord is an old name said without fear: Hollow Sun’s Mercy Over Hunger’s Lie. Don’t say it more than you must. The world hears."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Pilgrim Elder",
+                "line": "You kept our bones from rolling back down the Steps, and you kept our names from being taxed by men who hear coin in every note. We’ll carry your quiet in our pockets."
+            },
+            {
+                "speaker": "Talekan Yss",
+                "line": "Take the tablet and the truth it holds. If you use it to strike, it will break. If you use it to tune, it will hold. Choose your moment."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I’ll bring this to the ribs and ask the city to listen. And if the law must be re-carved, we’ll do it with as little blood as the truth allows."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Bone Tablet bearing the Gate’s true tuning phrase."
+        },
+        {
+            "type": "reputation",
+            "description": "Respect among pilgrims and bone-singers (situational aid on the Steps)."
+        },
+        {
+            "type": "insight",
+            "description": "Understanding: Trust is the missing load-bearing member in the Triarchy."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": "M3",
+    "title": "The Off-Pulse Coral",
+    "quest_giver": "Tern Quietwake, of the Fathom Tongues",
+    "description": "Moonlock Reef opens like a torc and closes like a fist. Inside its calm mirror, the phosphor coral pulses one beat wrong, as if a misplaced heart were trying to keep an entire reef alive. Tern Quietwake believes the off-pulse marks the groove of legend—the place where the Moonkey rests, a pearl not meant for jewelry but for song. Kael must dive with Ilya Salt-Kite, childhood friend with gray sails on their conscience and a laugh that makes danger feel like a dare. Rival divers in kelp-shrouds wait at the safe cuts with glass knives and lines, and the tides will change their minds mid-swim. If the wrong pearl is taken, breath itself becomes a liar; if the right one sits in the groove and the correct chord is sung, a vault of air will open and remember a titan’s voice. The reef hums with a bell-tone the ear cannot hear but the bones cannot ignore.",
+    "objectives": [
+        "Meet Tern Quietwake at the Thalassarium to receive a tuned echo-stone and a map of safe cuts.",
+        "Dive with Ilya Salt-Kite at Moonlock Reef and locate the off-pulse coral bed.",
+        "Identify and mark the carved groove that matches the Moonkey legend without removing any pearls.",
+        "Evade or disarm rival divers attempting to cut your lines.",
+        "Return a sample of off-pulse coral and the location sketch to Tern."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Tern Quietwake",
+                "line": "The reef keeps time better than any council bell, and its measure is older than law. There is a place in the coral where the pulse misbehaves like a stubborn child. Find it. Draw it. Touch nothing that your bones do not ask for twice. The sea has long memories and very little patience."
+            },
+            {
+                "speaker": "Ilya Salt-Kite",
+                "line": "We used to race crabs along rib arches and pretend we were sharks. Now we’re hunting a song in a coral’s heartbeat. Hold your breath the way you hold an oath, Kael, and when the current turns against us, follow my hand toward the shadow where the water goes quiet."
+            },
+            {
+                "speaker": "Kael",
+                "line": "We move on still water and we leave only a ripple to argue that we were ever there. If a blade flashes, I’ll blind it with sand. If a hand grabs your ankle, they’ll lose a knuckle. The reef and I have a pact. It doesn’t need to like me to keep it."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Rival Diver",
+                "line": "You swim bold for a market boy. Drop the slate and the coral and we’ll let you breathe all the way back to your boat. Keep them, and we’ll share your air with the reef, and the reef is greedy."
+            },
+            {
+                "speaker": "Ilya Salt-Kite",
+                "line": "Greed drowns faster than fear. Your lines are crossed with your friend’s. A tug from me and you’ll both be kissing shells you don’t deserve. Take your hunger somewhere else; the moon’s thin and the reef closes fast."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Tern Quietwake",
+                "line": "You did not take what was not yours, and the water did not take you. The sketch is faithful, and the coral will tell me if your hands were gentle. We are closer to the gate, closer to memory, and closer to trouble. The last one always arrives first."
+            },
+            {
+                "speaker": "Kael",
+                "line": "The groove is there, and the reef hums around it like a throat clearing. When we return, I’ll go with a steadier rope and a lighter heart. Or maybe the other way around."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ],
+        "related_to": [
+            "M10"
+        ]
+    },
+    "rewards": {
+        "xp": 550,
+        "items": [
+            "Reef-Breath Charm (extends breath holds briefly)",
+            "Tuned Echo-Stone Fragment (enhances listening to underwater pulses)"
+        ],
+        "favors": [
+            "Fathom Tongues pledge quiet escort for one future dive"
+        ],
+        "access": [
+            "Use of a Thalassarium breathing bell during off-hours"
+        ],
+        "coin": "25 credit-shells"
+    }
+}

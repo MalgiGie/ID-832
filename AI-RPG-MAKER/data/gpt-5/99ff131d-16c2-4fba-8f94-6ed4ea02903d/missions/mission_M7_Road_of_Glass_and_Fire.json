@@ -1,0 +1,41 @@
+{
+    "id": "M7",
+    "title": "Road of Glass and Fire",
+    "quest_giver": "Varo Pell",
+    "description": "The Sable Road hums at noon and cracks at night, a black ribbon stretched over old wounds. Captain of Ashes Varo Pell needs a convoy shepherded through mirage-haunted heat to keep the Ternary Crucible fed. More than fuel rides the wagons: copper ligatures essential to binding a prism await pickup at a way-station known only to Ledger couriers. Bandits ride haze like they were born from it, and the road itself seeks excuses to shatter under stress. If you can bring ash and ligature home together, the city gains both breath and a chance to touch the Spire’s hidden heart.",
+    "objectives": [
+        "Escort the Ember Ash Cohort convoy through two shatter-line zones.",
+        "Defend against a haze-bandit ambush and recover stolen copper ligature spools.",
+        "Negotiate a fair toll at Mile Stone Forty despite Ledger price gouging.",
+        "Deliver ash and ligatures to the Ternary Crucible foreman and log the shipment."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Varo’s handshake is all callus and unspoken brotherhood. \"We’re short on masks and long on risk. If the road cracks under moon-close, we push the wagons over the seams and pray the axle bolts remember their vows. Bandits have a buyer for copper this season, and I’d bet my last spark it’s a Counting-House with clean fingernails. Ride with us. When the noise gets stupid, make it smart with that little fork of yours.\"",
+        "hero_reply": "Tallea secures the Shard-Lenticle at her belt. \"I’ll tune the wagons to hum with the road instead of against it, and I’ll watch the mirage for more than heat. If the Ledger thinks it can tax a necessity into a luxury, I’ll bring back a song the Courts can hum while they cut their bill in half.\"",
+        "npc_interjections": [
+            {
+                "name": "Avar Jen",
+                "line": "Avar waits at the mile stone with shade and a smile that doesn’t sweat. \"Predictive underwriting is not cruelty, it’s clarity. The road will crack tonight. The fee reflects that. Pay, and your cargo lives to be sanctified by a forge that owes us interest.\""
+            },
+            {
+                "name": "Nyra Kest",
+                "line": "Nyra trots her kite-sled alongside the lead wagon. \"I’ve seen haze-bandits ride the shimmer like fish on a current. If you hear me laugh, it means dive. If you hear me sing, it means I’m afraid.\""
+            }
+        ],
+        "ambient": "Heat warps the horizon into a bowl that might tip, and the road hums like a sleeping beast that will wake offended if you call it by the wrong name."
+    },
+    "connections": {
+        "previous": "M6",
+        "next": "M8",
+        "related": [
+            "M10",
+            "M11"
+        ]
+    },
+    "rewards": [
+        "Experience: 550",
+        "Copper Ligature Spools (x3) for prism work",
+        "Reputation (Ember Ash Cohort): +10",
+        "Ash-Lung Mask (protective gear)"
+    ]
+}

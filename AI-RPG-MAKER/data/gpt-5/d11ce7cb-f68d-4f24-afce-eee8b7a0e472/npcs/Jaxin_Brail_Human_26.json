@@ -1,0 +1,63 @@
+{
+    "name": "Jaxin",
+    "surname": "Brail",
+    "race": "Human",
+    "age": 26,
+    "appearance": "Sun-browned pilot with a reed-tattoo around his left wrist and a chipped tooth grin. Keeps a horn slung on a bone strap.",
+    "character": "Bold to recklessness, charming until cornered; hates being told to slow down.",
+    "traits": [
+        "Daring",
+        "Restless",
+        "Loyal to crew",
+        "Proud",
+        "Quick to laugh"
+    ],
+    "skills": [
+        "Swift poling through silt cuts",
+        "Channel reading by bird flight and foam",
+        "Signal horn codes",
+        "Knotwork improvisation"
+    ],
+    "talents": [
+        "Leaping ribs and skiffs with fearless balance",
+        "Feeling when a barge will ground a breath before it does",
+        "Winning crowds in river taverns"
+    ],
+    "flaws": [
+        "Gambler's itch",
+        "Takes shortcuts through unsafe mouths",
+        "Holds grudges against Wardens"
+    ],
+    "dreams": [
+        "Become Master of Knots before thirty",
+        "Map the tenth mouth that sings",
+        "Own a skiff built with saint-glass ribs"
+    ],
+    "secrets": [
+        "Took Black Net coin to blink the Lantern once",
+        "Stashed a stormglass nodule in a knot hall post",
+        "Lied to cover a friend's botched run through a reed maze"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sela Tidecount",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Keth of the Nets",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Isera Bent-Pike",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Aro Pike-Second",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Pell Lenseson",
+            "relation_type": "Different goals"
+        }
+    ]
+}

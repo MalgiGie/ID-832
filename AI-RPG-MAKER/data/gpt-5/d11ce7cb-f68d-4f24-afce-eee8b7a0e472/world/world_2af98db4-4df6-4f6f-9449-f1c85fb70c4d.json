@@ -1,0 +1,744 @@
+{
+    "city": "Marrowgate, called the Ribs of the Tide, is a river-delta metropolis built within the exposed skeleton of a sea-leviathan that rose from the flats six centuries ago. The city clings to ribs like terraces of bone and amberglass, with sailcloth roofs strung between vertebrae to catch monsoon winds. Its skull is a gate-citadel facing the Inner Shard Sea, and its tail vertebrae anchor docks that spider out into brine channels lit by ghostfire lanterns. Marrowgate survives on salt, bonecraft, glassmaking, river trade, and a deft balance of guild power. The Salt Parliament, a council of basin-families, convenes around evaporative pools to cast votes with colored brine, while the River Pilots guide all freight through the Nine Mouths of the delta. Bonewrights carve living bone into tools and constructs, and the Ember Collegium fires glass in desert kilns, turning dune-sand into saint-bright panes and lenses. The Tidemothers keep rites for the great water and teach that the leviathan is not dead but sleeping, its heartstone a red engine that must be soothed to keep the city from sinking. History here is written in cracked rib and patched sail. Founders were salt-panners and eel-spears who claimed the bones after the Stormfall Night, when a star broke and the sea retreated, exposing the leviathan. Three centuries ago, Scythe Sultans from the dunes laid siege until river storms broke their siege ladders with thunder pulled from the Skyhook chain. The Chordquake of 179 years past split the third rib and birthed the Ribsward Bazaar in the gap. Thirteen years ago, the heartstone flared and turned the water red; the Bonewright Covenant and Tidemothers bargained an uneasy accord to damp the pulse. Marrowgate depends on upstream grain terraces, resin and timber from mangrove and crag forests, sand from singing dunes, and the pilots who read shifting channels. Its conflicts are as tidal as its fortunes: smugglers of the Black Net bleed tariffs, the Collegium and Covenant contest the use of heart-power, and the Wardens keep a brittle peace with pikes and dull armor. Legends persist that the Ferryman Without Wake passes the channels on moonless nights, that thunder still sleeps in the broken Skyhook, and that when the leviathan truly stirs, every bone-stair in Marrowgate will sing.",
+    "surroundings": [
+        {
+            "name": "Salt Prism Flats",
+            "type": "salt flats",
+            "description": "Miles of mirror-bright salt pans east of the city, stepped by old guild lines and freckled with half-submerged obelisks from a civilization that worshipped light. Noon turns the flats into blinding sheets; dusk paints them in violet bands.",
+            "legend": "Travelers say a creature called the Mirror-Snipe walks the flats at noon, wearing the face of the last person to see you as a friend. It offers directions that are always slightly wrong, luring caravans to old sinkholes.",
+            "resources": [
+                "Prismatic salt crystals used in color-voting at the Salt Parliament",
+                "Shards of light-etched glass from buried lenses",
+                "Brine shrimp vats prized by alchemists"
+            ],
+            "hazards": [
+                "Heat mirage and disorientation at midday",
+                "Camouflaged brine-sinks that crust over like glass",
+                "Salt storms raised by distant thunder squalls"
+            ],
+            "dependencies": [
+                "Salt Parliament oversees extraction quotas and taxes caravans bound for Marrowgate",
+                "Ember Collegium purchases prism salts for lens-grinding and kiln-coloring",
+                "Black Net Syndicate smuggles unweighed sacks across night-markers"
+            ],
+            "hooks": [
+                "A prism lens unearthed by a pan family projects a map when moonlight strikes it",
+                "Guild markers have begun to move overnight, as if the flats themselves are sliding"
+            ]
+        },
+        {
+            "name": "The Nine Mouths",
+            "type": "river delta",
+            "description": "A maze of shifting channels where the Motherflow River divides into nine silt-heavy streams before meeting the sea. Reed villages on stilts drift with moorings, and channel markers are bone poles carved with pilot knots.",
+            "legend": "The Ferryman Without Wake is said to pole a skiff that never ripples the water. He answers questions for the price of a name and is feared by smugglers and saints alike.",
+            "resources": [
+                "Freshwater reeds and thatch",
+                "Silts that feed upriver terraces",
+                "Catfish and night eels"
+            ],
+            "hazards": [
+                "Sudden channel cuts that strand barges on silt bars",
+                "Mangrove snakes in breeding season",
+                "River spirits offended by iron dumping"
+            ],
+            "dependencies": [
+                "River Pilots Conclave maintains channel charts and escorts",
+                "Tidemothers bless the posts and set weirs on equinoxes",
+                "Wardens levy transit tariffs at bone-lashed checkpoints"
+            ],
+            "hooks": [
+                "A tenth mouth has opened after a storm, uncharted and full of singing stones",
+                "Pilots report a drowned barge sailing upstream at night without crew"
+            ]
+        },
+        {
+            "name": "Gloomroot Mangroves",
+            "type": "mangrove and fungal wetland",
+            "description": "A labyrinth of black-barked mangroves whose roots host bioluminescent fungus. Bone eels weave nests that hang like ivory chandeliers, and the air smells of resin, peat, and salt.",
+            "legend": "The Mother of Eels takes the form of a woman with lamp-bright eyes; she bargains favors for offerings of bone and promises to adopt lost children as eels if they drown among her roots.",
+            "resources": [
+                "Resins for sealants and shipwright pitch",
+                "Glow fungus used by archivists and divers",
+                "Bone eel teeth for charms and tools"
+            ],
+            "hazards": [
+                "Tide-surge that floods the inner groves without warning",
+                "Quickmire under leaf litter",
+                "Packs of brackish boars that guard their wallows"
+            ],
+            "dependencies": [
+                "Ossuary Archive buys glow fungus for night reading in the ribs",
+                "Pilots harvest root poles to set new markers in the Nine Mouths",
+                "Bonewrights trade bone carvings to mangrove clans for resin rights"
+            ],
+            "hooks": [
+                "Children in a reed village begin speaking a language no adult knows after a red tide",
+                "A resin pool traps a perfect reflection that does not match the viewer"
+            ]
+        },
+        {
+            "name": "Monastery of the Glass Saints",
+            "type": "desert monastery",
+            "description": "Where the dunes rise westward, monks build idols from glass fused by sun-mirrors and prayer. Their cloister is a cathedral of translucent saints casting colored light onto the sand.",
+            "legend": "One saint, the Saint of Cuts, is said to walk at dusk. She can slice truth from lies with a glass palm and demands that pilgrims pay in honest tears.",
+            "resources": [
+                "High purity desert sand for glassmaking",
+                "Sun mirrors polished with prism salt",
+                "Pilgrim offerings and manuscripts etched into molten panes"
+            ],
+            "hazards": [
+                "Glass dust storms that flay skin and dull metal",
+                "Sand-sink devils that spiral travelers into the deep",
+                "Heat thieves that drink shadow"
+            ],
+            "dependencies": [
+                "Ember Collegium contracts with the monastery for sand quotas and lens prototypes",
+                "Salt Parliament mediates disputes over dune boundaries",
+                "Tidemothers trade water in exchange for pilgrimage rights"
+            ],
+            "hooks": [
+                "A saint-statue has begun to weep blood and rust glass nails",
+                "A sun mirror focused on the horizon reveals a moving city of heat"
+            ]
+        },
+        {
+            "name": "Skyhook Chain",
+            "type": "storm-forged ruin",
+            "description": "A broken arc of meteoric iron links rising from a basalt promontory north of the city, once part of a sky bridge used to shepherd storms. Lightning still finds the chain during monsoon, singing it like a harp.",
+            "legend": "During the siege, a red-cloaked stormcaller walked the chain and plucked thunder like strings, breaking the raiders. Her cloak, said to be woven of cloud, is hidden in a link somewhere above the surf.",
+            "resources": [
+                "Meteoric iron for rare forges",
+                "Stormglass nodules formed by earth-struck lightning",
+                "Bird nests of sky swifts prized for delicacies"
+            ],
+            "hazards": [
+                "Lightning strikes that leap chain to chain",
+                "Magnetic eddies that erase compass memory",
+                "Barnacle ogres under the lowest links"
+            ],
+            "dependencies": [
+                "Wardens depend on the chain as a watch perch for sea raiders",
+                "Collegium harvests stormglass for arcane lenses",
+                "Pilots read wind from the chain hum before setting sail"
+            ],
+            "hooks": [
+                "The chain hums out of season, and long-dead links begin to glow",
+                "A scroll found in a rusted link names seven chords that can calm the heartstone"
+            ]
+        },
+        {
+            "name": "Cairn of the Hollow King",
+            "type": "barrow and wind-harp field",
+            "description": "A ringed barrow of stacked slate on a chalk rise inland. Bone flutes set in the walls make the cairn sing when the south wind blows.",
+            "legend": "The Hollow King was a tyrant who hollowed himself to be a vessel for a storm. He promised his people rain forever; they drowned in two days. His voice still rides the wind at dusk, asking for a crown.",
+            "resources": [
+                "Slate and chalk for builders",
+                "Wind-harps tuned for prophecy",
+                "Old coins stamped with spiral eyes"
+            ],
+            "hazards": [
+                "Sinkholes under the barrow chambers",
+                "Spite-haunts that ride the wind and whisper bargains",
+                "Lightning attraction during pressure dips"
+            ],
+            "dependencies": [
+                "Ossuary Archive collects barrow music for bone-script notation",
+                "Salt Parliament funds dig permits to sell coins at market",
+                "Black Net loots graves under moonless nights"
+            ],
+            "hooks": [
+                "A crown-shaped chalk ring appears in Marrowgate overnight, matching cairn patterns",
+                "Wind-harp notes begin to spell names of living councilors"
+            ]
+        },
+        {
+            "name": "Red Terraces of Khen",
+            "type": "upstream agriculture",
+            "description": "Tiered fields of rust-red clay rising along the Motherflow, fed by wooden weirs and hand-dug channels. Grain, river squash, and dye plants grow under prayer flags.",
+            "legend": "Farmers speak of a clay giant beneath the terraces whose back they farm. Each drought it shifts and new fields rise; each flood it turns and old ones sink.",
+            "resources": [
+                "Grain shipments feeding Marrowgate",
+                "Red dye used by guild banners",
+                "Terrace carp dried for winter"
+            ],
+            "hazards": [
+                "Weir-breaks that send walls of water downstream",
+                "Terrace leeches that drink through boots",
+                "Bandits paid by rival river lords"
+            ],
+            "dependencies": [
+                "River Pilots negotiate passage tolls with weir lords",
+                "Salt Parliament guarantees grain prices to keep city bread stable",
+                "Wardens send levy patrols to keep raiders off the road"
+            ],
+            "hooks": [
+                "Grain barges arrive mildewed, but fields upstream are green as ever",
+                "A terrace collapses to reveal a rib of something not quite animal, not quite stone"
+            ]
+        }
+    ],
+    "buildings": [
+        {
+            "name": "Crown Gate Citadel",
+            "type": "fortified gate and seat of order",
+            "location": "Leviathan skull facing the sea",
+            "description": "A bastion carved within the leviathan skull. Teeth become murder-holes, the jaw a drawbridge over brine canals. Banner racks hang from the zygomatic arch, and the eye socket overlooks the Pilots' Lantern.",
+            "history": "Raised from makeshift palisades by river clans into a bone citadel after the Stormfall Night. Rebuilt with basalt and stormglass after the Scythe Sultan siege.",
+            "factions": [
+                "Wardens of the Crown Gate",
+                "Salt Parliament",
+                "River Pilots Conclave"
+            ],
+            "secrets": [
+                "A hollow root under the palate leads to smugglers caves used by the Black Net",
+                "A tooth engraved with storm runes hums when the heartstone flares",
+                "A ledger in a hidden suture lists unpaid debts owed by every councilor"
+            ],
+            "notablePeople": [
+                {
+                    "name": "Marshal Isera Bent-Pike",
+                    "role": "Commander of the Wardens",
+                    "notes": "Pragmatic, scarred, keeps a private shrine to the Ferryman"
+                },
+                {
+                    "name": "Archivist Vell",
+                    "role": "Gate Chronicler",
+                    "notes": "Writes in bone-dust ink; knows which tooth opens the vault"
+                }
+            ]
+        },
+        {
+            "name": "Ribsward Bazaar",
+            "type": "market district",
+            "location": "Gap split by the third rib overlooking side canals",
+            "description": "A labyrinth of stalls, awnings, and bone ladders hung from a cracked rib. Goods are slung on net-ropes and traded with arm-length clasps across open drops. Night markets glow with eel-jars.",
+            "history": "Founded after the Chordquake tore a passage between inner bones. Smugglers, pilgrims, and guilders meet where the Wardens cannot see every coin.",
+            "factions": [
+                "Black Net Syndicate",
+                "Salt Parliament families",
+                "Bonewright Covenant journeymen"
+            ],
+            "secrets": [
+                "An old rib tunnel sealed by wax leads straight to the Heartward Engine",
+                "Bazaar singers use coded melodies to signal tax collectors",
+                "A saint mask made of glass whispers prices from a future market"
+            ],
+            "notablePeople": [
+                {
+                    "name": "Keth of the Nets",
+                    "role": "Smuggler broker",
+                    "notes": "Smiles like a cut; knows every ladder with a loose rung"
+                },
+                {
+                    "name": "Grandmother Brine",
+                    "role": "Salt Parliament matron",
+                    "notes": "Weights coins in her palm; counts favors more carefully than silver"
+                }
+            ]
+        },
+        {
+            "name": "Ossuary Archive",
+            "type": "library and scriptorium",
+            "location": "Sixth and seventh vertebrae, inner spine",
+            "description": "Shelf-ribs hold bone tablets, glass panes etched with sunlight, and scrolls bound in eel-skin. Monks copy songs into bone-script and record wind from the cairn as notation.",
+            "history": "Begun by a tide-priest who carved laws into whale bone so they would float through floods. Expanded under the watch of Bonewrights to protect city memory.",
+            "factions": [
+                "Bonewright Covenant",
+                "Temple of the Tidemothers",
+                "Ember Collegium scholars"
+            ],
+            "secrets": [
+                "A codex of wind-harp notes describes a ritual to lull the heartstone",
+                "A shelf is grown rather than built; it bends away from names written upon it",
+                "A hidden reading room lit by glow fungus contains drowned books that whisper"
+            ],
+            "notablePeople": [
+                {
+                    "name": "Scribe Nalea",
+                    "role": "Keeper of the Bone Index",
+                    "notes": "Never speaks above a whisper; fingers stained with chalk"
+                },
+                {
+                    "name": "Brother Holl",
+                    "role": "Tidemother envoy",
+                    "notes": "Gentle with fish, stern with vows; trades prophecies for ink"
+                }
+            ]
+        },
+        {
+            "name": "Heartward Engine",
+            "type": "arcane pump and civic stabilizer",
+            "location": "Within the rib cage near the sternum",
+            "description": "An array of bone pistons and red crystal veins that pulse in time with the leviathan. It draws brine and fresh water through sluices to keep foundations steady and tides tempered.",
+            "history": "Awakened in fragments over centuries as bones settled. Fully tuned thirteen years ago during the red tide crisis by a pact between Bonewrights and Tidemothers.",
+            "factions": [
+                "Bonewright Covenant",
+                "Temple of the Tidemothers",
+                "Ember Collegium technicians"
+            ],
+            "secrets": [
+                "A cracked conduit leads directly to a heart chamber that still speaks in dream",
+                "Engine beats accelerate when glass saints are moved toward the city",
+                "If three ribs are struck in the right order, the engine opens a water gate"
+            ],
+            "notablePeople": [
+                {
+                    "name": "Master Caur",
+                    "role": "Bonewright engineer",
+                    "notes": "Talks to machines as if to stubborn children; owes the Black Net a favor"
+                },
+                {
+                    "name": "Mother Rhy",
+                    "role": "Tidemother adept",
+                    "notes": "Hears the pulse as hymns; refuses to let iron near the engine"
+                }
+            ]
+        },
+        {
+            "name": "Salt Parliament Basins",
+            "type": "council chambers",
+            "location": "Terraced evaporative pools on the citys southern flank",
+            "description": "Circular basins tiled in prismatic salt. Delegates pour colored brine to vote, the resulting hue determining outcome by long custom. Windbreaks made of old nets keep dust off the pools.",
+            "history": "The first basin was a flood-control pool turned forum when a drought made it symbolic to gather around remaining water. More basins were added as families bought seats.",
+            "factions": [
+                "Salt Parliament",
+                "Wardens as enforcers",
+                "Ember Collegium lobbyists"
+            ],
+            "secrets": [
+                "Drain grates connect to a hidden room used to mix false hues",
+                "A banner closet conceals a tunnel to a smugglers rung",
+                "A forgotten law etched under a basin grants pilots veto during storm season"
+            ],
+            "notablePeople": [
+                {
+                    "name": "Speaker Thren",
+                    "role": "Rotating mouth of the Parliament",
+                    "notes": "Brine-burn scars on both hands; hates to be photographed by lenses"
+                },
+                {
+                    "name": "Page Linn",
+                    "role": "Runner of tallies",
+                    "notes": "Memorizes hues better than names; rides a bone-scooter"
+                }
+            ]
+        },
+        {
+            "name": "Pilots Lantern",
+            "type": "lighthouse and guild hall",
+            "location": "Right eye socket of the skull, above the sea gate",
+            "description": "A tower of bone and stormglass with a lens of saint-glass that burns pale green when fog rolls. Pilot knots line the walls like prayer beads.",
+            "history": "Built after three barges broke on the teeth; the Conclave vowed no ship would split on bone again.",
+            "factions": [
+                "River Pilots Conclave",
+                "Wardens liaison",
+                "Black Net informants"
+            ],
+            "secrets": [
+                "A dark setting reveals ghost routes used by the Ferryman",
+                "A lantern keeper hides maps in the hollow of a knot-rope",
+                "Light rhythm can signal safe harbors to smugglers"
+            ],
+            "notablePeople": [
+                {
+                    "name": "Old Marr",
+                    "role": "Master of Knots",
+                    "notes": "Blind in one eye, sees currents with the other"
+                },
+                {
+                    "name": "Sela Tidecount",
+                    "role": "Fog mistress",
+                    "notes": "Predicts fog by the taste of wind; loathes the Ember Collegium"
+                }
+            ]
+        },
+        {
+            "name": "Seam-Menders Hall",
+            "type": "clinic and bonecraft workshop",
+            "location": "Lower ribs near the reed quays",
+            "description": "A crescent hall lined with bone braces, splints like ivory feathers, and vats where brine and herbal teas cure grafts. Fishers and guards alike queue for mended limbs.",
+            "history": "Founded by a Bonewright who lost both hands and built new ones. Adopted by the Covenant as a public face after riots against bonecrafting.",
+            "factions": [
+                "Bonewright Covenant",
+                "Wardens triage",
+                "Tidemother midwives"
+            ],
+            "secrets": [
+                "A locked ward grows living bone lattice that responds to music",
+                "Medical records hide coded transfers to a smuggler fund",
+                "A physician replaces memories along with bones for select clients"
+            ],
+            "notablePeople": [
+                {
+                    "name": "Doctor Harl Quay",
+                    "role": "Chief Mender",
+                    "notes": "Laughs often, never during surgery; rumored to be grown from a rib"
+                },
+                {
+                    "name": "Aunt Pike",
+                    "role": "Ward matron",
+                    "notes": "Knows every Warden by blood type and favorite drink"
+                }
+            ]
+        }
+    ],
+    "politics": [
+        {
+            "name": "Salt Parliament",
+            "type": "civic council of basin families",
+            "motto": "Weigh, measure, and mix",
+            "leaders": [
+                {
+                    "name": "Speaker Thren",
+                    "title": "Rotating Speaker",
+                    "traits": "Calculating, ritual-bound, superstitious about color omens"
+                },
+                {
+                    "name": "Grandmother Brine",
+                    "title": "Elder of the Third Basin",
+                    "traits": "Sharp-tongued, remembers every debt"
+                }
+            ],
+            "holdings": [
+                "Salt Parliament Basins",
+                "Basin granaries along the lower ribs",
+                "Customs house at the reed quays"
+            ],
+            "resources": [
+                "Salt taxes and market tariffs",
+                "Voting customs and law codices",
+                "Militia levies during flood or fire"
+            ],
+            "goals": [
+                "Keep bread and salt stable to prevent riots",
+                "Control appointments to the Wardens",
+                "Limit the Bonewrights reach into engine matters"
+            ],
+            "rivals": [
+                "Black Net Syndicate",
+                "Bonewright Covenant",
+                "River Pilots Conclave during storm season"
+            ],
+            "allies": [
+                "Wardens of the Crown Gate",
+                "Ember Collegium, when glass prices favor the city"
+            ],
+            "dependencies": [
+                "Relies on Pilots to move taxed goods",
+                "Requires Collegium lenses for accurate hue voting",
+                "Depends on Tidemother rites to sanctify legal oaths"
+            ],
+            "hooks": [
+                "A faction proposes replacing colored brine with glass counters made by the Collegium",
+                "A missing basin key threatens to invalidate a session"
+            ],
+            "history": "Evolved from river clan moot to a formal council after famine riots. Authority flows from custom as much as writ."
+        },
+        {
+            "name": "River Pilots Conclave",
+            "type": "guild of navigators and barge masters",
+            "motto": "Where water goes, we go first",
+            "leaders": [
+                {
+                    "name": "Old Marr",
+                    "title": "Master of Knots",
+                    "traits": "Cautious, stubborn, protective of apprentices"
+                },
+                {
+                    "name": "Sela Tidecount",
+                    "title": "Fog Mistress",
+                    "traits": "Brash, superstitious about left-handed fish"
+                }
+            ],
+            "holdings": [
+                "Pilots Lantern",
+                "Knot halls along the docks",
+                "A leased basin for guild feasts"
+            ],
+            "resources": [
+                "Channel charts and depth songs",
+                "Fleet of pilot skiffs and signal flags",
+                "Informants upriver and down-coast"
+            ],
+            "goals": [
+                "Maintain control of river guidance and toll-sharing",
+                "Win veto power during storm season as per forgotten law",
+                "Break the Upper Weir Lords embargo on barge widths"
+            ],
+            "rivals": [
+                "Salt Parliament over tariffs",
+                "Black Net Syndicate for illicit routes",
+                "Upper Weir Lords outside the city"
+            ],
+            "allies": [
+                "Wardens for harbor security",
+                "Temple of the Tidemothers during equinox rites"
+            ],
+            "dependencies": [
+                "Needs Ember Collegium lenses to read fog signals at range",
+                "Relies on Bonewright-braced docks",
+                "Depends on Parliament charters for legal protection"
+            ],
+            "hooks": [
+                "A new channel opens that only the Ferryman can traverse",
+                "A pilot is found with river silt in lungs despite drowning on dry land"
+            ],
+            "history": "Born of necessity when channels split and merged yearly. The Conclave shifted from kinship circles to a merit ring after a deadly fog year."
+        },
+        {
+            "name": "Bonewright Covenant",
+            "type": "artisan order of bone shapers and engineers",
+            "motto": "Grow, mend, endure",
+            "leaders": [
+                {
+                    "name": "Master Caur",
+                    "title": "Speaker of Spines",
+                    "traits": "Patient, secretive, practical"
+                },
+                {
+                    "name": "Doctor Harl Quay",
+                    "title": "Seam-Mender",
+                    "traits": "Gregarious, experimental, suspected of forbidden grafts"
+                }
+            ],
+            "holdings": [
+                "Seam-Menders Hall",
+                "Workshops in three lower ribs",
+                "A sealed vault beneath the Heartward Engine"
+            ],
+            "resources": [
+                "Bone-grown tools, braces, and constructs",
+                "Engine schematics and pulse measurements",
+                "Apprentice labor bound by oath"
+            ],
+            "goals": [
+                "Keep stewardship of the Heartward Engine",
+                "Expand acceptance of living bonecraft in civic life",
+                "Discover the true nature of the heartstone without ceding control"
+            ],
+            "rivals": [
+                "Ember Collegium over engine access",
+                "Salt Parliament when regulation tightens",
+                "Temple of the Tidemothers on ritual authority"
+            ],
+            "allies": [
+                "Wardens for medical triage",
+                "Select Black Net brokers for rare reagents"
+            ],
+            "dependencies": [
+                "Needs resin and fungus from Gloomroot",
+                "Requires river tax exemptions to import materials",
+                "Depends on Tidemother cooperation during pulse ceremonies"
+            ],
+            "hooks": [
+                "A living brace grows teeth in the night",
+                "Engine pulses mimic wind-harp songs from the Cairn of the Hollow King"
+            ],
+            "history": "Formed by healers and builders who first stabilized houses on the bones. Distrusted after a series of graft scandals, they rebuilt reputation through public charity."
+        },
+        {
+            "name": "Ember Collegium",
+            "type": "alchemists and glassmakers guild",
+            "motto": "Clarity through fire",
+            "leaders": [
+                {
+                    "name": "Mistress Ashka",
+                    "title": "Kiln-Mother",
+                    "traits": "Brilliant, proud, scarred by glass"
+                },
+                {
+                    "name": "Journeyman Pell",
+                    "title": "Lenswright",
+                    "traits": "Cautious, debt-ridden, curious about stormglass"
+                }
+            ],
+            "holdings": [
+                "Kiln row near the windward ribs",
+                "Contracts with the Monastery of the Glass Saints",
+                "A private stormglass lab under the Skyhook escarpment"
+            ],
+            "resources": [
+                "Saint-glass lenses and prism filters",
+                "Sun mirrors and heat-focusing arrays",
+                "Glass-coated armors and bottles"
+            ],
+            "goals": [
+                "Monopolize prism salt usage in hue voting",
+                "Prove stormglass can dampen the heartstone without Bonewright rites",
+                "Open overland trade to dune cities through glass signal towers"
+            ],
+            "rivals": [
+                "Bonewright Covenant for engine influence",
+                "River Pilots who resist glass signals",
+                "Temple of the Tidemothers for theological reasons"
+            ],
+            "allies": [
+                "Salt Parliament technocrats",
+                "Certain Wardens who want better armor"
+            ],
+            "dependencies": [
+                "Needs desert sand and monastery goodwill",
+                "Requires stable salt quotas",
+                "Depends on Pilots to ship fragile goods"
+            ],
+            "hooks": [
+                "A lens reveals an invisible script layering the citys laws",
+                "A kiln explodes, scattering shards that sing when gathered"
+            ],
+            "history": "Took root when dune monks traded mirrors for salt. Gained power after inventing fog-cutting lenses; nearly lost it after a kiln-plague blackened lungs."
+        },
+        {
+            "name": "Temple of the Tidemothers",
+            "type": "religious order and waterwardens",
+            "motto": "Bend with the deep, do not break",
+            "leaders": [
+                {
+                    "name": "Mother Rhy",
+                    "title": "Tide-Mother",
+                    "traits": "Solemn, careful, hears the pulse as hymn"
+                },
+                {
+                    "name": "Brother Holl",
+                    "title": "Liturgist of Channels",
+                    "traits": "Patient, meticulous, fond of fish"
+                }
+            ],
+            "holdings": [
+                "Shrines at channel posts",
+                "Inner sanctum near the Heartward Engine",
+                "Pilgrim steps cut into the tail bones"
+            ],
+            "resources": [
+                "Rituals to soothe tides and sanctify oaths",
+                "Midwives and river morticians",
+                "A network of faithful from reed villages to dune monasteries"
+            ],
+            "goals": [
+                "Keep the leviathan sleeping and the city afloat",
+                "Resist technological dominance over sacred waters",
+                "Convert the Black Net to tithe and atone"
+            ],
+            "rivals": [
+                "Ember Collegium for encroaching on rites",
+                "Black Net Syndicate for sacrilege",
+                "Salt Parliament when laws ignore seasonal taboos"
+            ],
+            "allies": [
+                "Bonewright Covenant for the Heartward Engine accord",
+                "River Pilots during equinox blessings"
+            ],
+            "dependencies": [
+                "Needs offerings to maintain rites",
+                "Relies on Parliament protection against iconoclasts",
+                "Depends on Pilots to ferry priests to far shrines"
+            ],
+            "hooks": [
+                "A prophecy declares the Ferryman must be seated at the next basin vote",
+                "Sacred fish are found with glass in their bellies that reflects a stranger"
+            ],
+            "history": "An old river faith made new by the bones. Their rites bound flood and drought to a liturgical calendar; their power rises with the tide."
+        },
+        {
+            "name": "Black Net Syndicate",
+            "type": "smugglers, informants, and shadow merchants",
+            "motto": "We catch what slips through",
+            "leaders": [
+                {
+                    "name": "Keth of the Nets",
+                    "title": "Broker of Rungs",
+                    "traits": "Silver-tongued, careful with knives"
+                },
+                {
+                    "name": "The Seamstress",
+                    "title": "Mistress of Masks",
+                    "traits": "Faceless, rumored to be three people, speaks in market cant"
+                }
+            ],
+            "holdings": [
+                "Hidden rung ladders in the Ribsward Bazaar",
+                "Caves under the Crown Gate palate",
+                "Secret moorings in a reed labyrinth"
+            ],
+            "resources": [
+                "Invisible routes and bribe ledgers",
+                "Stolen lenses and forged basin seals",
+                "Muscle hired from out-of-work sailors"
+            ],
+            "goals": [
+                "Control contraband through the Nine Mouths",
+                "Place a proxy within the Salt Parliament",
+                "Acquire a key to the Heartward Engine for leverage"
+            ],
+            "rivals": [
+                "Wardens of the Crown Gate",
+                "Salt Parliament enforcers",
+                "Temple of the Tidemothers"
+            ],
+            "allies": [
+                "Certain Pilots who prefer quiet coin",
+                "Bonewrights who need rare reagents"
+            ],
+            "dependencies": [
+                "Needs fog and festival crowds for cover",
+                "Relies on bribed Warden sergeants",
+                "Depends on Monastery sand trains for false crates"
+            ],
+            "hooks": [
+                "A ledger goes missing, and names of half the city could fall out",
+                "The Seamstress offers to smuggle a prayer into the heart chamber"
+            ],
+            "history": "Coalesced from dock gangs and night market thieves. Grew sophisticated by laundering coin through respectable stalls."
+        },
+        {
+            "name": "Wardens of the Crown Gate",
+            "type": "city guard and harbor watchers",
+            "motto": "Teeth bared, eyes open",
+            "leaders": [
+                {
+                    "name": "Marshal Isera Bent-Pike",
+                    "title": "Commander",
+                    "traits": "Hard, fair, protects her patrols"
+                },
+                {
+                    "name": "Sergeant Blue",
+                    "title": "Harbor-Chew",
+                    "traits": "Old, smells of eel smoke, knows every dock rope"
+                }
+            ],
+            "holdings": [
+                "Crown Gate Citadel",
+                "Watch nests on the Skyhook Chain",
+                "Armory carved into a molar vault"
+            ],
+            "resources": [
+                "Pikemen, skiff patrols, and crossbow squads",
+                "Confiscated contraband coffers",
+                "Street informants paid in bread and safety"
+            ],
+            "goals": [
+                "Keep trade moving and blood off the ribs",
+                "Break the Black Net without breaking the Bazaar",
+                "Wrest autonomy from Parliament meddling"
+            ],
+            "rivals": [
+                "Black Net Syndicate",
+                "Certain Salt Parliament factions",
+                "Ember Collegium when detaining their couriers"
+            ],
+            "allies": [
+                "River Pilots for harbor security",
+                "Bonewright Covenant for triage and braces"
+            ],
+            "dependencies": [
+                "Needs Parliament stipends for wages",
+                "Relies on Pilots for storm warnings",
+                "Depends on Tidemother rites to consecrate oaths and dead"
+            ],
+            "hooks": [
+                "A Warden patrol vanishes near the mangroves, leaving only pike points and eel slime",
+                "A molar vault tooth cracks, and an old siege horn sounds from within"
+            ],
+            "history": "From river militia to professional force after the siege. Their teeth badges are cut from worn leviathan chips, each sworn upon with brine."
+        }
+    ]
+}

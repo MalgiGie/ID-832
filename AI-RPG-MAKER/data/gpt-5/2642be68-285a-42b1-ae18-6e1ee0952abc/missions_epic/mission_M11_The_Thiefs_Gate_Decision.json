@@ -1,0 +1,86 @@
+{
+    "id": "M11",
+    "title": "The Thief’s Gate Decision",
+    "quest_giver": {
+        "name": "Aren Mir",
+        "affiliation": "Wardens of the Windward"
+    },
+    "description": "Storm drums throb from the Windward Bastion like a second heart for Thyssara, rolling across roofs of prismstone and ringing down through the reed-choked sluices where the River Aur fattens and presses its will against bronze. Lanterns sway on the quays, throwing saffron veils over faces that have learned too many kinds of waiting, and the city’s bells hold their tongues between strokes as if afraid their next note will break the night. Beneath the Tide-Engine House, where steam and oil breathe like a beast and gear-teeth glitter with condensed sweat, a narrow underworld opens into a cathedral of chains and valves and measured thunder. The plan is a wire strung over a gorge: find the hidden bypass that should never have been built, sing a star-bone tone into its nerves so the linkage seizes for the span of a prayer, and then open the thief’s gate only long enough for pressure to ease without bleeding the city’s lifeblood into the dark. Above, Wardens knot their skiffs to storm rings, the Salted Compact beats the quays with a rope-drum count older than charters, and the Smoulder Veil’s shadows shiver at the edges of lawful light, deciding whether tonight is a night to drown. Kade Orrel moves through it all with the surety of a rope in a palm, the glass shard in his ear catching stray mothlight, the memory of a Scar-echo tasting his name like iron; his choices will decide whether dawn arrives in Thyssara on water or on fire. Tomas Helwin waits in the underworks with a crowbar and a bad feeling he wears like a badge; Mavek Dross polishes denials in a mirror of clean brass and practices the shape his mouth makes when he takes credit. If you fail, the canals will lie on their backs like stunned snakes, the strike flags will become torches, and the Prism Citadel’s light-chambers will flash orders the city refuses to obey.",
+    "objectives": [
+        "Enter the Tide-Engine underworks via the mapped catwalk beneath Gate Three.",
+        "Locate the hidden bypass handle using the Scar’s coordinate rhythm.",
+        "Strike the runecap’s harmonized tone to stun the bypass linkage.",
+        "Signal Gate-Mistress Ruli Saan to flood the thief’s gate for a controlled count.",
+        "Confront Mavek Dross with the mirrorglass ledger evidence and force a shutdown order."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Aren Mir",
+            "lines": "Duty is a dull blade most days, Kade, but tonight it has teeth and it wants our hands. I’ll be above you with the drumline and a speaking horn, counting heartbeats until they sound like years, and if you call for water I will carry it down rung by rung like it belongs to your lungs. I remember you as a boy in a rope harness, grinning like you could tow the river itself, and I’ve buried enough boys who smelled like rope and rain to know the river does not care. What it cares for is timing, and for friends who keep the count when fear tries to steal it. Don’t die where I can’t see you, because I will go in after you, and if I go in after you we will both leave our names on the underworks and let the Scar keep them forever."
+        },
+        {
+            "speaker": "Tomas Helwin",
+            "lines": "I did the numbers three times and then I did the superstitions twice, and they agree on one thing: the runecap tone will either sweeten the metal like a choir or make it scream like a pot left on too long. If it screams, we put the crowbar in its teeth and wrench until the thief’s gate drinks longer than anyone wants, and we accept the taste of brass in our mouths as the cost of not waking up to dry basins. I should have brought this to the Court months ago, and I didn’t, and I will take whatever paper punishment the Lanterns can write if we live to read it. My grandfather used to say a good engineer is a coward who doesn’t want to be surprised, and I have never been so brave in my life as I am right now being a coward with you. Keep your rope ready, keep your count steady, and if I tell you to run then run, because I have seen what happens when the tenth gate sings the wrong song and I am not eager to hear it again."
+        },
+        {
+            "speaker": "Mavek Dross",
+            "lines": "You stride into my engine house in a storm carrying a note struck from a scavenged runecap and a ledger reflected in mirrorglass, and you expect me to applaud your theater while the Aur claws at my doors. The river does not care for your union votes, your moth-charts, or your heroic sighs; it answers to gears, to gates, and to those who hold wrenches without letting their hands shake. I deny the existence of any bypass that risks the basins, and if such a thing existed, which it does not, only a fool would stun it with a tone stolen from star-wreck. Yet I will tell you this plainly because I would rather be accused of arrogance than of timidity: bleed your thief’s gate if you must, polish your tale how you like, and I will write reforms before dawn that will save more lives in a year than your bravado will save in a night. Or keep your secrets, let fear decide the count, and teach Thyssara what thirst feels like when a city that thought itself clever forgets that water and law have to flow together."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "lines": "I learned knots before letters, Mavek, and knots tell the truth your ledgers try to hide because there is no bargaining with a line that breaks. You don’t get to sell us back our mornings with paper reforms signed in the ink of other people’s nights, and you don’t get to deny a valve that should never have had a hand laid on it. We will strike the tone and we will make your hidden lever clench for the span of a prayer, and we will open the thief’s gate only long enough to let the city breathe without drowning in debt. I’ve walked fog thick as a wall and held a drowning friend by the collar until the world learned what his name was worth; I will hold this city just as hard and I will not let you make a price out of it. Ruli, on my count—hear the rope, hear the drum, hear the river in your ribs—three, two, one, and let the Aur forgive our arithmetic."
+        },
+        {
+            "speaker": "Ruli Saan",
+            "lines": "I have my hand on the chain and my teeth on the count, and I have made worse choices faster with less to guide me than a rope beat and a promise from a stubborn man. Flooding thief’s gate on controlled count, and may the river remember we have fed families from its edge and bled for it at its whim. Hold fast to the catwalk rail, hold fast to your courage, and hold fast to the sound of the chain because when it stops singing, you must breathe like you are surfacing from a long dive. I know what it is to defy a manual and write a life with seconds, and I will take the censure that follows like a coat I don’t need, because the only approval that matters is that of a city still afloat at dawn. If the tone fails and the metal screams, I will give you more count than anyone advises, and I will live with the ghosts of what that costs me, but I will not live with a city that dries to dust under my watch."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Summon the Lantern Court to witness and strike the tone by the book",
+            "text": "You signal Aren to light the white salt brazier at Windward Bastion, calling the Lantern Court to the catwalk in full sight of clerks and Wickwards. With magistrates watching from the dry-bridge windows, you lay the mirrorglass ledger on a valve housing and speak each accusation clearly, forcing the law to inhale the steam and oil of its own jurisdiction. Tomas measures the Scar’s coordinate rhythm aloud while you align the runecap, and together you swear to count no longer than the plan allows, not a breath more. The Wardens knot a safety line around your waist for public record, and you let the rope bite because the bite will be remembered. You raise your hand, look Mavek in the eye so his reflection cannot deny you later, and you strike the harmonized tone into the metal like a bell tolling a verdict.",
+            "outcome": "The bypass linkage spasms and clenches, and the thief’s gate drinks for a measured, merciful span while the Court scribes record both the hum and the silence it makes. Ruli matches your count perfectly, and when the chain stops singing the basins still shine, their surfaces scarcely lowered, their reflections unbroken but for your own sweat. Magistrate Vela Orun steps forward to place an official seal on the mirrorglass ledger, and the assembled Lanterns accept the existence of the bypass without public panic, promising an inquiry with sworn teeth. Mavek Dross cannot claim sole credit without perjuring himself in a hall full of lanterns, and though his smile remains ironed, his eyes admit a loss he will repay only on paper. Word runs through Thyssara that law and rope stood together, and your name moves through quays, monasteries, and skiff aeries as the name of someone who can make enemies share a count."
+        },
+        {
+            "id": "C2",
+            "title": "Cut the lights, trust the Compact’s rhythm, and bleed the gate longer to guarantee safety",
+            "text": "You signal for the moth-screens to be drawn and the enginehouse lamps to be shuttered, plunging the underworks into a working night that belongs to pilots and rope-hands. In the hum-shadow, you tell Tomas to aim for certainty rather than elegance, and he nods with the fierce relief of a coward who has decided to live. You strike the tone, feel the linkage buck like a hooked river-beast, and shout for Ruli to extend the count beyond the plan while the Wardens shout back about manuals and margins. The Compact’s rope-drum carries through the dark exactly as it should, steady as a mother’s hand, and you keep your palm against the metal until you can feel the city breathing with it. When the chain’s song drops an octave you call the lift, counting past fear and past pride because dry canals are forever but public censure is a passing wind.",
+            "outcome": "The basins fall a finger’s breadth lower than anyone will admit in daylight, but the pressure rolls off the Aur like heat leaving a fever, and the enginehouse stops shuddering by degrees. Ruli takes a formal reprimand that reads like a love letter to survival, and the manuals receive new ink written in the margin of this night’s choices. The Salted Compact claims you as one of theirs in their quiet way, adding your knot to a memorial rope not for death but for a time you refused to gamble lives on decorum. Mavek Dross appears in the aftermath with a draft of reforms that tries to fold your decision into his authority, but the quayside already knows who made the count and will not let the story be stolen. Rumors whisper that a few fountains ran low before dawn, but the dawn came, and with it a tempered respect for those who know the difference between a schedule and a life."
+        },
+        {
+            "id": "C3",
+            "title": "Bargain with Mavek Dross: let him take credit in exchange for a written shutdown order",
+            "text": "You meet Mavek’s iron smile with a bargainer’s stillness and tell him the city can have its reforms tonight if he gives you a signature that bites. In the roar and the steam, you demand a shutdown order with his seal that acknowledges the bypass and commands its closure under penalty of treason, and you put the mirrorglass ledger beneath his hand like an altar. You do not soften your voice or your eyes, but you promise him credit with the Court and the Wardens if he signs, because survival breeds a politics of its own. Tomas waits with the runecap set and the tone ready, poised between contempt and gratitude while your words scratch at Mavek’s pride. The count hangs above you all like a bell about to fall, and you prepare to strike the tone the instant ink dries, letting him own the tale if it buys the city an order that cannot be unwritten.",
+            "outcome": "Mavek signs with a flourish meant for history and seals a shutdown order that names the bypass, the thief’s gate, and the conditions for emergency bleed with unambiguous commands. You strike the tone, the linkage seizes, and Ruli opens and closes the thief’s gate with textbook grace while Mavek watches himself become the hero of his own paperwork. The city wakes to stories that the Tidewrights saved Thyssara by bold governance, and in taverns where engineers drink, toasts are raised to a master who bent law and river into alignment. But the copy of the shutdown order you demanded finds its way into Lantern hands and Quiet Wings archives, and its clauses become shackles the next time someone tries to hide a valve in shadow. Your renown is the kind that does not shout but is spoken by people who read between lines, and the door to the enginehouse opens for you during audits because sometimes the city prefers someone who knows how to spend pride like coin."
+        },
+        {
+            "id": "C4",
+            "title": "Call in a Veil distraction to keep smuggler hands off the quays while you work",
+            "text": "You send a runner downriver with a whistle-code Jalen Sarq taught you, a signal the Lanterns do not hear and the Compact pretends not to understand. In the minutes that follow, underquay fires bloom in a place where they can be seen and contained, pulling loose Wardens and gossip away from the enginehouse doors without taking a life or a ledger. You admit to yourself that you are buying silence with smoke, and you do it anyway, because this night needs fewer witnesses and fewer heroes. Tomas sets the runecap with a hand that trembles less now that the world has narrowed to metal and tone, and you steady him by speaking the Scar’s rhythm like a prayer learned backward. When the chain answers, you shape your mouth around the count and let the Veil’s spark burn up in useless air, buying you the space to make a clean decision where it matters.",
+            "outcome": "The thief’s gate opens and closes to your measure, the bypass seizes and releases without tearing itself or the city, and the basins survive with only ripples to show for it. The Wardens who stayed curse and then nod, because work done right is work they respect even when smoke stings their eyes. Jalen’s people vanish before dawn, leaving only a basket of sootglass pebbles by a storm drain as a reminder of who answered your whistle. The Court frowns at the record of an unnecessary disturbance and asks pointed questions, but the answers fall away when they see the steady gauges and the unbroken reflections. Your name gathers both favor and suspicion in equal measure, and you walk the narrow rope between them with the tired grace of someone who knows he cannot afford to fall to either side."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Reputation",
+            "description": "Citywide renown: favor increases among the Wardens of the Windward, the Order of Moths, and the Salted Compact for steady hands and a counted courage."
+        },
+        {
+            "type": "Writ",
+            "description": "A sealed authorization from the Lantern Court empowering you to investigate Tidewright abuses and associated records without hindrance."
+        },
+        {
+            "type": "Access",
+            "description": "Privilege to traverse restricted walkways and audit galleries within the Tide-Engine House during official inspections and emergencies."
+        }
+    ]
+}

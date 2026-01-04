@@ -1,0 +1,58 @@
+{
+    "name": "Kesh",
+    "surname": "Storm-Runner",
+    "race": "Human (Thunderherd rider)",
+    "age": 27,
+    "appearance": "Braided lightning scars crossing sun-browned skin; ox-bone torque and a storm-lichen lined cloak.",
+    "character": "Bold and loyal, quick to laugh and quicker to defend clan honor.",
+    "traits": [
+        "Daring",
+        "Honor-bound",
+        "Generous",
+        "Straight-talking"
+    ],
+    "skills": [
+        "Thunderbeast herding",
+        "Spear and lasso",
+        "Windroad reading",
+        "Lightning handling"
+    ],
+    "talents": [
+        "Outrides storms safely",
+        "Animals trust him",
+        "Reads whisperstones by touch"
+    ],
+    "flaws": [
+        "Impulsive",
+        "Disdainful of bureaucracy",
+        "Gambling habit"
+    ],
+    "dreams": [
+        "Broker fair trade for clans",
+        "End press-ganging by delta factors",
+        "Teach city crews stormcraft"
+    ],
+    "secrets": [
+        "Stole a condenser coil to protect a clan caravan",
+        "Killed a press-gang captain in self-defense",
+        "Hides a wind-mapped route used by Unmoored couriers"
+    ],
+    "relations": [
+        {
+            "npc_name": "Seresya Thorn",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ovelle Kite",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Mira Pellan",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Greydin Korr",
+            "relation_type": "Conflict"
+        }
+    ]
+}

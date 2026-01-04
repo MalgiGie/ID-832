@@ -1,0 +1,54 @@
+{
+    "id": 4,
+    "title": "False Bell at the Salt Spires",
+    "quest_giver": "Luma Keel (through Iria Venn)",
+    "description": "A convoy waits in open water near the chalk-white crowns of the Salt Spires, where waves boom like drumskin and kelp ropes show smuggler paths. Lantern Cartel Matriarch Luma Keel reaches Raithe through Iria Venn: a stolen light-crystal has been taken into the reef, and false bell-tolls are luring ships onto the titan’s teeth. The fog called the Pale coils like a living thing. There, Mother Ildra Shale, a hermit with tidemaps scratched on bones, sells directions at a price of secrets. Between real beacons and malicious bells, you must find the crystal and silence the tone that no hand should command.",
+    "objectives": [
+        "Meet Iria Venn at a Cartel pilot skiff and reach the Salt Spires in rising fog.",
+        "Parley with Ildra Shale to obtain a tidemap bone without revealing Iria’s convoy schedule.",
+        "Locate the stolen light-crystal and disable the false bell assembly without capsizing.",
+        "Escort the convoy through the safe channel back toward Vyraleth."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Iria Venn",
+            "line": "The Cartel will send you coin and a polite thank-you, but I’m asking as Iria. My pilots hear a bell that answers us when no hand moves, and my convoy captain is holding station by courage alone. If the Spires bite her hull, that’s families ruined and children who won’t forgive the sea. Come with me and give the fog a reason to back down."
+        },
+        {
+            "speaker": "Ildra Shale",
+            "line": "Bone keeps better charts than paper. The reef remembers where it cut; I’ve inscribed its hunger so you might step between its teeth. But bone wants bone. I will take your earring’s hum for one night, dock fighter, and you will walk the Spires deaf to bells no hand rings. In trade, I’ll show you where the Syndicate lashed their false clapper."
+        },
+        {
+            "speaker": "Luma Keel",
+            "line": "Only the true light holds course in a world of thieves and saints. Bring me back the crystal unsullied, and I will let the Parliament know the Cartel owes a debt. Fail, and I’ll tell them a different story—that you guided my convoy into a graveyard."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "line": "Keep your threats for those who steer by them, Matriarch. I’ll take the bone-map and the risk. Iria, on my nod, you push your boats through and don’t look back. I’ll make the bell choke on its own echo."
+        }
+    ],
+    "connections": {
+        "previous": [
+            3
+        ],
+        "next": [
+            5
+        ],
+        "related": [
+            11
+        ]
+    },
+    "rewards": {
+        "items": [
+            "Recovered light-crystal (returned to the Cartel); in return, a lantern-token that grants safe docking at Cartel piers"
+        ],
+        "coin": 55,
+        "faction": {
+            "name": "Lantern Cartel",
+            "favor": "Pilotage fee waived once for a large convoy under your escort."
+        },
+        "unlock": [
+            "Nonmember access to certain beacon charts under supervision."
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Vara",
+    "surname": "Rootlight",
+    "race": "Human (Mangrove Clan)",
+    "age": 41,
+    "appearance": "Black-barked bracelets from mangrove resin circle her wrists; hair braided with glow fungus beads. Smells of peat, salt, and tea.",
+    "character": "Protective witch of her groves, wary of city games; honest in trade, sharp in defense.",
+    "traits": [
+        "Earthy",
+        "Fiercely maternal",
+        "Wary",
+        "Honest dealer",
+        "Patient"
+    ],
+    "skills": [
+        "Resin distillation",
+        "Glow fungus cultivation",
+        "Charmcraft with eelbone and root",
+        "Bargaining across clan lines"
+    ],
+    "talents": [
+        "Sensing tide-surges by root tension",
+        "Brewing healing teas that take to bone",
+        "Hearing truth through a child's voice"
+    ],
+    "flaws": [
+        "Poor city etiquette",
+        "Quick to take offense at grove insults",
+        "Disdain for smugglers' shortcuts"
+    ],
+    "dreams": [
+        "Secure resin rights without Black Net tolls",
+        "Adopt and raise a red-tide orphan safely",
+        "Teach the city to honor mangrove taboos"
+    ],
+    "secrets": [
+        "Bargained with the Mother of Eels in a flood year",
+        "Keeps a bone eel egg hidden in peat",
+        "Once guided a Ferryman path through roots and regrets it"
+    ],
+    "relations": [
+        {
+            "npc_name": "Rhy Tidesong",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Holl Riverborn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Yasma Brine",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Caur Spinekeeper",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lur Oghrim",
+            "relation_type": "Friendship"
+        }
+    ]
+}

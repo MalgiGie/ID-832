@@ -1,0 +1,90 @@
+{
+    "id": "M11",
+    "title": "The Weir’s Heart",
+    "quest_giver": {
+        "name": "Rull Fen",
+        "affiliation": "River-Marrows Guild"
+    },
+    "description": "Upstream, the Shattered Weir of Sel rose like the jawbones of a river-titan, its cyclopean blocks slick with moss and memory, its iron rings big as wagon-wheels bitten into stone that still tasted of storms. Between those teeth snarled eddies that turned boats inside out and undertows that remembered the weight of drowned tools, while chain-ghouls hunted by vibration the way a harp finds a note in a crowded hall. Lantern-light could not settle here; it jittered in the spray and broke into cold shards along the spillways, as if the Weir chuckled at attempts to measure it. Word moved through Avarinth that a newly opened weir-throat gaped where no throat should be, revealing a drowned vault that might hold a hinge-song etched into slate, a waking chord said to stir sleeping gates anywhere along the Sel. In that same dark lay a pearl-crusted reliquary rumored to shelter a Parliament amnesty writ, a paper that could let old debts drown or surface depending on the hand that unsealed it. Rull Fen and Orren Halv, rivals who spoke to each other mostly in policies and river-curses, agreed long enough to hire Neris Quay to thread the throat, map a salvage lane with knot-hook arrows and buoy lines, and sing rope into rhythm enough to confuse the chain-ghouls. The air at the Weir smelled of stormlight and iron breath, and it carried the Quay family name the way an eddy carries leaves, circling and circling until the syllables bruised and softened into regret. Neris checked the Sel-Reed Riverbow, waxed the moon-resin cord, tested line-arrows as if plucking a zither strung with tides, and listened for the city’s pulse in the splash of distance and the crawl of mist along stone. If a heart still beat in the Weir, it kept time in a language of pressure and mercy, and it was a language Neris intended to learn without drowning in its grammar.",
+    "objectives": [
+        "Map a safe salvage route through the newly opened weir-throat using knot-hook arrows, buoy lines, and tide-sense, marking each snag-tooth and slack eddy with disciplined precision.",
+        "Distract or repel chain-ghouls using rhythmic vibrations and rope-song learned from Tide-Hinge Bastion crews, shaping the current into a lull that starves their hunger for pulsing cords.",
+        "Retrieve a slate etched with a hinge-song waking chord from the drowned vault, handling it with gloved care so the etched notes are not scraped or smeared by grit.",
+        "Search for and recover a Parliament amnesty writ sealed in a pearl-crusted reliquary on the lowest floor, keeping the reliquary dark, dry, and unbroken as you convey it home.",
+        "Survive a sudden drawdown by anchoring to pre-fall iron rings, timing the release with the river’s pulse so the current lifts rather than tears your lines and lungs."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Rull Fen",
+            "lines": "Your father taught you to hear a current turning in its sleep, Neris, and I remember the way he lifted a tiller as if he were coaxing an old friend to stand. That was before papers made his hands dirtier than silt, before writs and wrong tides snared your family name in knots nobody could bear to untie. Help me pull a clean song out of this toothy throat and I will stamp a charter that lets you pilot with your name unbent, straight as a rope stretched warm in sun. The river remembers fairness when you shout it in the right key, and I have heard you hit the notes that turn panic into passage. Bring back the slate and a route that my pilots can trust, and I will carry that trust into Parliament halls until even their lamps listen."
+        },
+        {
+            "speaker": "Orren Halv",
+            "lines": "Do not romanticize this ruin; it chewed its builders and will chew you if you speak to it in poetry or pride. We need that waking chord, not for power but for safety that does not rely on fear, because fear is a poor engineer and an even poorer law. Bring me the slate, and I will write the co-authority you want into a schedule that reads like math, not like mercy, because math holds under pressure where mercy sometimes slips. Bring me excuses, and I will bring you edicts, and edicts are steel until they are broken and then they are anchors around the wrong necks. Mark your route, tie your knots, and count your breaths as if each were a measure in a hinge-song, because one false beat is the difference between a saved crew and a memorial cord."
+        },
+        {
+            "speaker": "Chain-Ghoul Echo",
+            "lines": "Vibrate with us and we will dance you down, because your lines hum and your bones do too and the song inside your wrists calls to our teeth. Still yourself and we will forget you for an hour, but an hour is long enough for the river to change its mind and yours with it. Sing and we will eat the music until there is no rope for you to hold, and we will wear your rhythm like a bracelet and shake it when the moon pulls. Your heart is a drum we like, and we tap to it even when we sleep in the cold places between the stones. Leave the slate, leave the shell with the bright grit inside, and we will let your breath be yours for a little while longer."
+        },
+        {
+            "speaker": "Neris Quay",
+            "lines": "I have loosed lines across hungrier mouths than yours and watched them tighten into bridges when panic tried to cut them. I will set buoys where your teeth cannot find them and take back a chord that makes hinges listen, because a city cannot be safe if its river roars without reason. I have learned rope-songs from signal-mistresses who can hear a storm in a whisper and from pilots who taste silt to judge its mood, and I will braid those lessons into every arrow I throw. If the river has a heart, I will keep pace with it until it lets me pass, and I will not ask for mercy I have not earned. The slate and the sealed writ will ride my shoulders like water, and I will set them down only where law and craft can hold them."
+        },
+        {
+            "speaker": "Jana Fell",
+            "lines": "If you find the amnesty writ, do not read it under this sky, because some inks spoil when they smell fear and the Weir breathes fear from every crack. Bring it to the city where law is watched and weighed, not to a ruin that makes liars of promises, for even honest words warp in cold water. Some papers break their seal when they sniff daylight, and there are days when the sun counts as daylight even behind ash-veil and cloud. Keep it dark and keep it dry, for pearls remember hands and will tell me if yours shook. When you come, come by the Reedbank door, and I will have a knot and a witness ready so that whatever that writ holds is held properly and not by rumor or roar."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Thread the Throat at Slack and Sing the Ropes Low",
+            "text": "You choose to enter the weir-throat at the precise slack between flood and ebb, when the river inhales and forgets to exhale for a handful of careful breaths. You lay buoy-lines with knot-hook arrows, each shot a quiet punctuation mark in the long sentence of stone, and you keep your rope-song to a whisper that rides the skin of the water. The chain-ghouls stalk the deeper thrum, so you tune your steps to silence and your heart to a slow drummer in a distant room. You press chalk marks where vortices unroll and smear them with river grease so they gleam only to your slate-reading eyes. You move like a scribe in a hostile library, shelving fear one page at a time and never letting the book slam shut.",
+            "outcome": "Your map is clean, your buoys hold, and the throat learns the language of your restraint, which is to say it does not bother to argue with you. The chain-ghouls drift past like sleepwalkers unconvinced by a lullaby that does not invite them to bite, and you keep enough rhythm in your fingers to steer but not enough to feed. In the drowned vault you lift the slate without waking the silt, and the etched notes look back at you with the grave patience of math. You find the pearl-crusted reliquary nested in a crack where pressure kisses it shut, and you free it with a wedge of patience and a pry of faith. When the drawdown growls awake, you are already threaded through iron rings, counting down to the river’s pulse, and you rise on the swing like a lantern promoted to higher air."
+        },
+        {
+            "id": "C2",
+            "title": "Beat the Current into Obedience with a Bold Rope-Song",
+            "text": "You choose to turn the Weir into an instrument and play it loud enough to drown its old grudges. You set anchor-lines on the largest rings and hammer a rhythm with your heel and palm, a workshop cadence you learned on Bastion gantries where steel sings and people obey. Your arrow-lines knit the span like harp-strings, and you pluck them one by one until the undertows rephrase their anger into predictable, useful sway. You call to the chain-ghouls with a warning melody that says there is meat elsewhere, and you lace the warning with discord that tastes like cold iron to their hunger. You trust that confidence, not apology, keeps boats upright in hard water, and you wear your confidence like a dye-proof cloak cut to shed panic.",
+            "outcome": "The Weir answers you, grudging but impressed, and the snarls of current arrange themselves into a parade that lets you set buoys with swift hands and sure angles. Chain-ghouls surge and hesitate, confused by the iron-tang in your rope-song, and when one lunges you paste it with a reverberation that snaps three links from its chain and sends it fumbling into quiet. You reach the vault through a corridor of obedient water, and the slate comes free as if it is tired of listening to bad conductors. The reliquary complains in a hiss of bubbles when you claim it, but your rhythm holds and the hiss runs out of breath. When the drawdown rips the throat, you are already lashed to the true rings and you ride the fall like a practiced bow, releasing at the counted beat and swinging to safety without losing a single note."
+        },
+        {
+            "id": "C3",
+            "title": "Divert to Rescue a Stranded Salvage Crew at the Second Tooth",
+            "text": "You spot flare-ash and a shredded pennant snagged on the second tooth, and you recognize the knot pattern as River-Marrows practice cord, the kind used by apprentices who have not yet learned when to turn back. You decide that no slate is worth a fresh ghost and swing your lines toward the cries, even though the current there has a habit of turning hands into anchors. You announce yourself with mirror flashes, then with a line-arrow that lands close enough to hiss a warning against panic, and you keep talking with your voice and your rope until the crew hears a plan in your tone. You teach them the two-beat hold and the three-beat release Neris learned as a child in Lowwater, and you make their captain nod to the count until nodding becomes doing. You know the delay will invite the Weir’s spite, but you have lived long enough to know which debts are worth paying interest on.",
+            "outcome": "You pull three apprentices and their captain off the tooth with a ladder of lines and a prayer you do not name out loud, and the relief in their eyes writes a paragraph you will carry far beyond this day. The rescue costs you the easy route; your mapped buoys must be re-knotted in haste, and the chain-ghouls sniff the bright fear you cannot quite buff away. Even so, the river is not made of cruelty alone, and a brief slack like a blink appears where you need it most, as if the Weir remembers a time it spared instead of swallowed. You still find the vault, though the slate is guarded by a silt-murmur you soothe with the same count you taught the apprentices, and your hands leave only patience on the stone. The reliquary weighs heavier for the time lost, yet it rides in your tube in dignified silence, and when the drawdown hits you are bruised but braced, and no one new needs a cord on the Basilica wall."
+        },
+        {
+            "id": "C4",
+            "title": "Choose Who Holds the Writ: Archivists, Parliament, or the River",
+            "text": "With the reliquary secured and the slate wrapped, you pause in a pocket of quiet water and consider what a paper can do to people. Jana Fell asked for darkness and due knot, Orren Halv promised schedules stronger than mercy, and Rull Fen offered a clean name if the river could be taught to read fairness. You could carry the writ straight to the Inkroot Archives, trusting cords and witnesses more than lamps and voices, and let the law be made of paper that does not smudge. You could take a risk and present it first to the Hall of Many Lamps, forcing flame and faction to reckon with its words in the open where color cannot hide from mirrors. Or, if the words on the page would break more backs than they straighten, you could reseal it and return it to the river’s keeping, on the gamble that not every truth must surface to save lives.",
+            "outcome": "If you deliver the writ to Jana Fell, the Archivists bind it with a knot that hums like a moth-safe moon-flame, and your name earns a margin of trust that can buy time in any court where flood-law is spoken; the River-Marrows nod approval at your discipline, and the Syndicate respects your adherence to process even as they note your independence. If you stride into Parliament and hand the writ to Talo Ren under the lamps, the chamber jolts like a boat hitting an unseen wake, and though Orren Halv’s jaw tightens, he cannot deny you the credit for bringing light, while Rull Fen holds your eye across the hall with a promise he intends to keep; the debate is noisy, but your reputation for courage rises like a green flare in clear night. If you bury the writ in dark water after resealing it, you save names that would have burned and debts that would have bent, and the river carries your secret like a pebble polished smooth; Rull Fen calls you wise in private, Jana Fell calls you reckless in public, and Orren Halv files the feeling away like an engineer files a burr. In every case you keep the slate safe, and in every case the drawdown you survived becomes a story told on gantries about an archer who heard timing better than fear. The choice lays roads ahead, and whichever you walk, the Weir watches with the blank patience of stone that once moved and might again."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Document",
+            "description": "Lawful pilotage charter for Neris Quay, signed by the River-Marrows Guild and countersigned by the Tidewrights’ Syndicate, granting co-authority to pilot during trade hours without challenge."
+        },
+        {
+            "type": "Artifact",
+            "description": "A pre-fall iron link worked into a talisman against undertow, warm to the touch when currents turn treacherous and steadying the bearer’s breath-count under pressure."
+        },
+        {
+            "type": "Document",
+            "description": "Parliament amnesty writ pertaining to past dock strike actions, to be invoked or sealed at your discretion under proper knot and witness."
+        },
+        {
+            "type": "Reputation",
+            "description": "Joint favor from the Syndicate and the River-Marrows, a rare concurrence that opens doors on gantries and docks where rivalry usually closes them."
+        }
+    ]
+}

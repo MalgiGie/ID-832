@@ -1,0 +1,45 @@
+{
+    "id": 3,
+    "title": "Three Grits to Clarity",
+    "quest_giver": "Istel Shardwright",
+    "description": "Shattersea mornings are knives and mirrors. The quarry ledges ring with careful taps, and skyglass facets sip the sun and return it in questions. Istel Shardwright has a crate of grits—coarse for hunger, medium for patience, fine for truth—and a superstition about polishing only when the wind comes from the east. Together you will grind a lens to look beneath ink, beneath time, to the pressure-marks of a scribe’s doubt. But the Skyscribes do not love the Mirror Guild’s auguries, and Nalia Pree has come with a handful of wind-readings and a plea for restraint. Between song and reflection, between prediction and proof, Lyris must craft a tool that will make the ten-knot calculus legible without handing it to those who would chain it or set it aflame.",
+    "objectives": [
+        "Escort Istel Shardwright along the quarry shelves of the Shattersea and collect a pouch of volcanic salts for lens tempering.",
+        "Guard the polishing bench from jealous apprentices while Istel grinds the Cirrus Splitter Lens using three grits.",
+        "Discuss findings with Nalia Pree, a Skyscribe adept, and compare wind vectors to mirror-read micro-scratches.",
+        "Use the finished lens to examine the ledger scrap and map hidden alignment marks pointing toward the Sunken Atelier.",
+        "Smuggle the lens back to Ankharion through a mirror-portal stall in the Sky Market without alerting Guild rivals."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Istel Shardwright",
+            "lines": "Hold the bench when the wind wakes. There—feel that tremor? That’s the glass telling us the truth wants out and it will cut us if we rush. Three grits, Lyris: never polish in anger, never blink at the reflection that frightens you, and never forget that the mirror looks back."
+        },
+        {
+            "speaker": "Nalia Pree",
+            "lines": "You think your lens sees what the wind refuses to say, but our kites have tasted these currents for years. There are patterns we do not publish because the city is not ready for what they lead to. Ten-knot vectors are a door with no hinges; if you open it, the air will not close behind you."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "I grew up counting bolts while the Old Song kept time. I don’t care if the truth comes on wind or glass if it keeps Ankharion from snapping. If your kites and our mirrors sing the same note, we’ll move to it, and if not, we’ll sit with the dissonance until we can hear the line that saves lives."
+        },
+        {
+            "speaker": "Istel Shardwright",
+            "lines": "There, love. Do you see it? The ledger hand pressed harder here and here—doubt, perhaps, or fear of a watcher. And in those hesitations is a map, thin as breath, pointing to a place where brass remembers and water sings. The Atelier calls, and I am afraid of what answers."
+        }
+    ],
+    "connections": {
+        "previous": [
+            2
+        ],
+        "next": [
+            4
+        ]
+    },
+    "rewards": [
+        "Cirrus Splitter Lens (reveals micro-scratches and latent alignment marks)",
+        "Mirror Guild reputation increase (access to lens quarter backrooms)",
+        "Map fragment indicating an entrance route to the Sunken Atelier",
+        "A note from Nalia Pree promising cautious cooperation"
+    ]
+}

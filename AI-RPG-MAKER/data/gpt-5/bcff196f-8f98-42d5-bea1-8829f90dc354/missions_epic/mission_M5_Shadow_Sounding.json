@@ -1,0 +1,85 @@
+{
+    "id": "M5",
+    "title": "Shadow Sounding",
+    "quest_giver": {
+        "name": "Olan Vetch",
+        "affiliation": "Riverlight Pilots Brotherhood"
+    },
+    "description": "Night drapes the Low Veyne until the river looks like a pupil staring back without lids, and every lantern on the Floodwalk huddles into its own trembling island of amber. Master Pilot Olan Vetch knots a mnemonic lantern to the prow, its light patterned with the Brotherhood’s quiet codes, and points where the demon’s spine has shifted again like a lie rolling under a tongue. A body gleams pale beneath a snag where reeds bow as if listening, and the Brotherhood will not leave a pilot there to teach the river how to herd fear like cattle. Kezra must heave the sounding lead and read the silt on its tallow, must listen for the river’s grammar in the tug of hemp and the thrum on the hull, must mark the wandering bar in lantern lines before the current cranes its neck and moves it again. Ghost lights court the crew with cool flirtations and imitation, and the reed-thing’s wake moves like a blade laid flat in the water, colder than the night and careful as a scribe. In the drowned pilot’s vest is a shard of black stone that hums faint as a throat prayer when lifted near the tongue, kin to the Oathstone or to the habit that chips at vows until they seem like weathered steps. Above, in windless air, a memory of rain-chains taps in Kezra’s knuckles as if the city itself is counting the beats between breath and truth.",
+    "objectives": [
+        "Join a Brotherhood crew to night-sound the moving sandbar, read the bed from silt and tug, and record the bar’s living shift in lantern code the pilots can trust by dawn.",
+        "Recover the drowned pilot with care for rite and kin, gather any objects on his person without pilfering, and bear his oar back to the Brotherhood so it may be broken with honor and set to rest.",
+        "Carry the humming black shard to Sister Meret at the Black Thistle House, submit to her oath-reading, and determine whether the fragment is of the Oathstone or a cousin born of the same vow-breaking seam.",
+        "Mark and post a clear warning to independent pilots who refuse Brotherhood whistles, phrasing it to prevent insult and stave off a dockside brawl while still arresting their pride long enough to save their lives."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Olan Vetch",
+            "lines": "You saved a barge once when the river got clever, and I have not forgotten the way your lantern bent the dark into a sentence we could read. Do it again, but this time listen for what the water wants you to say back, because a channel can be as stubborn as any guild and as vain as a lord with a new seal. The bar is not a mistake tonight; it is a message tapped in silt and hush, and the river has chosen a cruel ink for it. I do not like what it says about the city’s tongue, how our vows scrape when the purse is light and how the reeds learn to whisper those scrapes back to us. We will not leave our dead under it to make a proverb of his bones, because we earn our ghosts the right way, with names spoken and oars broken and wake-lines straight. Take my crew, take the codes, and remember that every lantern is a promise not to look away. When the humming starts in your jaw, do not panic; that is the shard telling you it knows the alphabet of oaths better than we do."
+        },
+        {
+            "speaker": "Finn Bracken",
+            "lines": "I will keep the under-dock boys from cutting your lines while you fish for truth, and I will clap their ears if they so much as think of swapping your lantern oil for swamp garlic. If the ghost lights come, do not whistle back unless you mean to marry them, because they court with patience and go sour at the altar. And if something cold slips past the hull, do not name it, not even in jest, because names are keys and our city already has too many doors left on the latch. The river listens harder at night than any clerk in the Scribes’ Stair, and it writes better marginalia too, so watch for footnotes in the way the eddies curl. If the reed-thing shows, keep breath small and let me speak first, because it hates my voice and has learned to leave when I begin a story about taxes. When we bring the pilot home, I will walk the banks with his name until the dawn forgets to be cruel."
+        },
+        {
+            "speaker": "Sister Meret",
+            "lines": "This shard tastes of iron and vows even when I hold it at an arm’s length, and that is not a taste one should grow fond of. If you tuck it under your tongue and speak a promise, the words will scratch your mouth going out like thistles dragged backward, and the taste will seep into your sleep. It is kin to the Oathstone, yes, and also kin to what chips away at our patience when the Hall of Shares calls hunger a lesson, so do not treat it like a curiosity. Bring it to the House, where the reliquary can sing to it and learn the note it hums in secret, and we will see whether it is a corner that strayed or a splinter that learned to pretend. Return it quickly, and the reliquary will stop humming for a night, and perhaps the rain-chains will stop their ghostly counting in your bones. If you feel tempted to use it to sharpen your speech, come to me instead, and I will show you how to blunt a dangerous word without breaking it."
+        },
+        {
+            "speaker": "Arelon Vale",
+            "lines": "Bring me the pilot’s name, all of it, with the nicknames he earned and the mistakes he apologized for, and I will read it where the Hall may hear without pretending that coin is louder than grief. We do not lose people to sand and then price the sand by the cart, not while I hold the Needle Keep and the vows do not crack under my step. If there is a thing under the water that knows our oaths from the inside, then we will face it with our eyes open and our mouths clean, and we will not hide behind tariffs like children behind curtains. You will mark the bar in a language every pilot can read even if they hate my face, because hate is cheaper than a funeral but costs us more in the end. If independent pilots bristle, send them to me, and I will have the Hall of Shares listen to the sound a widow makes when she signs a famine scrip. Do your work in the dark so that I may do mine in the light, and between us we will cover the hours."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I will sound the bar and mark its wandering as if I were taking dictation from the river’s old teacher, because tonight the water is writing in a hand I recognize. We will take our pilot home with ropes that do not hurry and with hands that remember which knots belong to grief and which belong to pride. The shard, whatever it is, we will treat like a hot truth and carry it on tongs and set it where oaths are meant to cool, and I will not let its humming choose my words for me. If ghost lights try to barter smiles for steps, I will keep my breath behind silk and let the reed-flute speak in patterns that mean no without saying it. When the warnings go up for those who refuse whistles, I will write them as if my own name were on the line, with edges soft enough to be read without bleeding and sharp enough to stop a fool. And if the river asks a price beyond the coin we carry, I will pay with patience rather than promises I cannot keep."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Sound by Lantern Oath and Patient Measure",
+            "text": "Kezra orders the crew to douse all but the mnemonic lantern and sets its wick to a pattern the Brotherhood uses when pride runs hotter than judgment. The sounding lead goes over again and again in a ritual cadence, and each lift smears the tallow with a new syllable of silt until a paragraph of bed-talk forms under the fingertips. The bar is mapped like a sleepwalker’s path, slow turn by slow turn, and Kezra translates each tug into lantern code that glides across the waves without a sound. The drowned pilot is raised with cloth-wrapped hands and rope that does not bite, and the oar is laid at the prow as if it were a spine that must be carried home intact. When the warning boards are posted at the Floodwalk, the words are measured as if they were debt and mercy in one cup, and even the most stubborn independent pilots find themselves pausing to read to the end.",
+            "outcome": "The lantern code spreads through the night like a respectful rumor, and by dawn the Brotherhood notes the bar’s motion with uncommon agreement, strengthening their trust in Kezra’s charts. The body is returned without new marks, and the breaking rite draws a clean cry from the oar, which is a sign the river will keep quiet while the widow sleeps her first unshared night. Sister Meret receives the shard without flinching, reads its kinship to the Oathstone with calm, and praises the restraint shown in not testing it on the tongue, which quiets the reliquary for a night. The posted warnings avoid insult yet bite deep enough to slow the rash, so no brawl starts, and only a handful grumble that caution is a tax; even they steer wider and live. Olan Vetch marks Kezra’s name into a pilot’s ledger in a column reserved for those who make the river listen, and Arelon’s public reading of the pilot’s name carries through the Hall like a bell that shakes coin loose from tight hands."
+        },
+        {
+            "id": "C2",
+            "title": "Whisper the Drowned Queen’s Price",
+            "text": "Kezra cups a bowl of still water in the shadow of the prow and breathes a memory of the Mire into it, letting the Glasslake shard rest nearby without drawing its edge. The crew hears only the river, but in the bowl the reflection trembles with reeds white as bone, and a hush falls that tastes like old rain and the sweetness of rot. Kezra offers a true name the drowned queen’s memory once asked to hear, not as surrender but as tribute, and asks safe passage and the release of what the river grips. The ghost lights slip back as if drawn by a parent’s glance, and the snag eases its hold, and the body rises as if remembering how to float. When the warning is posted, it carries a turn of phrase that old pilots recognize as a folktale’s caution, and superstition does the work that argument cannot finish.",
+            "outcome": "The river grants passage with a chill that nicks the gums, and the recovery is swift and gentle, though Kezra feels the echo of the bargain coil like a ring around the tongue. Sister Meret takes the shard and names the taste in the room as borrowed sovereignty, warns that such favors tally themselves, and still agrees the fragment is of the same family as the Oathstone. Independent pilots spread the warning faster than the Brotherhood could have, because fear is a loud herald, and there is no brawl—only a few hard stares that soften when the widow passes. Olan thanks Kezra in a way that says he understands the weight of private prices, and he assigns a quiet escort for future Mire work without making a ceremony of it. In private, the rain-chains in Kezra’s bones skip a beat that sounds like a promise knocking, and a debt older than coin adds a line to its ledger that will someday ask to be read aloud."
+        },
+        {
+            "id": "C3",
+            "title": "Set an Oath-Glyph Snare for the Reed-Thing",
+            "text": "Kezra knots silk around the throat to hush breath, pricks a thorn to ink, and paints vow-characters on driftwood that sour when liars look upon them. The crew holds position while the snare floats near the cold wake, and Kezra whistles a pattern that asks any listening thing to speak its true course. The reed-thing brushes the hull with a chill that could grind glass smooth, and the glyphs twitch like gnats before settling into a circle that makes the river hesitate. In that held moment, the body is freed and laid aboard, and the humming shard seems to tremble in sympathy as if a pulse under stone were counting with Kezra’s. The warning boards are written in a stern hand that names the channel’s treachery as if it were a thief seen at noon, daring anyone to call the risk a rumor.",
+            "outcome": "The snare takes nothing the eye can show, but the water grows wary of the hull, and the reed-thing’s wake withdraws with a hiss like sand on iron, which the crew takes as victory. Sister Meret examines the shard as it hums harder when held near the snare’s driftwood, concludes the fragment responds to oathwork, and advises lockbox storage under chapel words until a fuller reading is possible. The independent pilots balk at the tone of the warning, and tempers flare like struck flint, but Kezra’s calm recounting of the cold that kissed the planks cools the air before fists can speak. The Brotherhood respects the boldness, though Olan quietly reminds Kezra that hunting a rumor can make it learn to hunt back, and he posts two riverwatchers on night rounds. Arelon hears of the near-brawl and sends a measured letter to the Hall that frames prudence as civic duty, keeping pride from boiling over while the bar continues to shift under watchful charts."
+        },
+        {
+            "id": "C4",
+            "title": "Cut a Reflection to Foresee the Channel",
+            "text": "Kezra settles the glass shard in a ring of salt beside a basin of river-water stilled by palm and patience, and breath slows until the lantern flame forgets to tremble. The reflection is coaxed up like silk pulled from a cocoon, and an image of the sandbar’s next hour lifts into the air with the quiet of a held breath. It shows the bar sliding like a patient beast, turning where a hidden root directs it, and the ghost lights mimicking the crew’s faces with too-bright eyes. Kezra memorizes the future’s grammar and folds the image back into the basin without tearing it, though the act draws a star-cold ache into the bones around the eyes. The crew moves the boat as if obeying a script, retrieves the body at the minute between two cruel possibilities, and posts a warning written with authority borrowed from knowing what almost happened.",
+            "outcome": "The chart Kezra writes feels pre-read by dawn, and the Brotherhood marvels at how the bar’s slide is caught like a fish and thrown back as guidance, strengthening their willingness to grant temporary access to treasured route-books. Sister Meret takes the shard and nods at the circled salt, warns that cutting reflections taxes memory in ways the Archive fears, and marks Kezra with a blessing that soothes the ache but not the lesson. Independent pilots accept the warning with a grudging respect because prediction spoken plainly tastes like truth, and no brawl sparks where certainty is shared. That night, sleep comes late and full of mirrored stairs, and Sula’s remembered voice asks whether the price of foresight is worth the quiet it steals, a question that lingers like lantern smoke. The Night Cartographers catch a whiff of method on the air, and though they say nothing aloud, a new rumor begins to walk on soft feet toward Kezra’s next crossing."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M4"
+        ],
+        "next": [
+            "M6"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Brotherhood Oar-Charm, a knotted token recognized by pilots that signals earned trust and smooths cooperation on canals and at weirs."
+        },
+        {
+            "type": "Knowledge",
+            "description": "Access to pilot route-books for a limited time, granting a research advantage when plotting channels, reading sandbar habits, and decoding lantern codes."
+        },
+        {
+            "type": "Favor",
+            "description": "Quiet protection in the Floodwalk from Finn Bracken’s under-dock network, providing discreet warnings and safe passage when shadows gather."
+        }
+    ]
+}

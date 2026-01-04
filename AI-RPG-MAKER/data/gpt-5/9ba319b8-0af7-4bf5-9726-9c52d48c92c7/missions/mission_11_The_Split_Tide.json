@@ -1,0 +1,57 @@
+{
+    "id": 11,
+    "title": "The Split Tide",
+    "quest_giver": "Iria Venn",
+    "description": "All factions surge like a spring storm. The Lantern Cartel’s convoys stack at the mouth; the Brass Aerie threatens a stillness over the harbor to force negotiations; House Veyron drums up a festival of gratitude that smells like a coup; Ratchet hardliners itch to test a lever; the Saltwardens tally where to put their skiffs. Iria Venn doesn’t speak for a guild when she finds Raithe on a parapet of the Tide-Gate Crown; she speaks for hulls and crews and friends who cannot wait out a political opera. The shard in the Crown must breathe in time with the shard in the Basilica, or the city will cough itself into flood and famine. The bells must ring a new code, the wind must bow but not kneel, and the tide-gates must learn a song they were never designed to hear. Tonight, the city inhales and exhales by your hand and the trust you weave between enemies.",
+    "objectives": [
+        "Broker a truce on the Gate Crown between Guild of Tidewrights, Tidebound Conclave, and Lantern Cartel using the joint writ.",
+        "Coordinate with Orrix Vant to allow a controlled gust, not a stillness, over the harbor.",
+        "Ring a new bell-code so Cartel pilots can time their entry with the shard’s safe window.",
+        "Expose the bribed Saltwarden captain tied to sabotage at Dry Dock Three and remove his skiffs from the chain of command without sparking mutiny."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Iria Venn",
+            "line": "I’ve flown blind with you in worse storms, Raithe, but this one smells like politics and that’s the deadliest weather. Give me a bell I can trust and a breath I can lean into, and I’ll thread thirty hulls through the city’s teeth without scraping enamel."
+        },
+        {
+            "speaker": "Orrix Vant",
+            "line": "You ask me to bend the wind, not break it. Good. I would rather guide a river of air than dam it. Give me your timings, and I will write a gentle verb upon the gusts—enough to help pilots without stealing the harbor’s grammar."
+        },
+        {
+            "speaker": "Sel Corvane",
+            "line": "I do not like improvisation at my gates, but I like drowning less. Show me this new code and I’ll give your Cartel a narrow throat to pass through. If your truce breaks, I will shut the mouth and damn the consequences."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "line": "We are not choosing who wins tonight; we are choosing that the city wakes tomorrow. Iria, on the second long bell, you bring them in. Orrix, give her a breath of mercy. Sel, you hold the hinge steady when the shards hum together. Anyone tries to pull a stunt, they answer to my blade and to thirty thousand people’s patience snapping at once."
+        }
+    ],
+    "connections": {
+        "previous": [
+            10,
+            9,
+            4
+        ],
+        "next": [
+            12
+        ],
+        "related": [
+            5,
+            8
+        ]
+    },
+    "rewards": {
+        "items": [
+            "Gate Crown bell-key ring with the new convoy code engraved"
+        ],
+        "coin": 100,
+        "faction": {
+            "name": "Lantern Cartel & Brass Aerie Collegium",
+            "favor": "Joint commendation: priority beaconing for one future evacuation or relief mission."
+        },
+        "unlock": [
+            "Public reputation boon: ‘Broker of the Breath’. Discounts with neutral merchants at the Brine Exchange."
+        ]
+    }
+}

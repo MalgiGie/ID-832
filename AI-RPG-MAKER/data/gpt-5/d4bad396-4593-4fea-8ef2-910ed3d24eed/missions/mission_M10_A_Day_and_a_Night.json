@@ -1,0 +1,59 @@
+{
+    "id": "M10",
+    "title": "A Day and a Night",
+    "quest_giver": "Asha Greyling",
+    "description": "Equinox arrives with bells and unease. The Order’s prophecy calls for a day and a night without stutter. The Loom of Tides thrums with fresh resonance and fear. Someone means to make it cough. The Embersleeve’s decoy chime has bought you a map of fingerprints, and Captain Maera has crews ready to crank by hand if you can keep saboteurs from cutting the belts that sing like river-serpents. The Starspan listens, counting cracks with patient malice older than politics.\nThe engine-house steams and whispers. You can smell the night market on one saboteur’s sleeves and the glassworks on another’s palms. Between the Wardens’ keys and the Collegium’s numbers lies a trust that could shatter or set. If you can hold rhythm steady until dawn kisses dusk again, the city will have bought itself more time than money can buy.",
+    "objectives": [
+        "Enter the Loom of Tides through a hidden culvert wheel you learned in the Vaults",
+        "Identify saboteurs by triggering the decoy plate’s telltale flutter and isolate them",
+        "Coordinate with Maera’s crews to maintain manual flow while belts are retensioned",
+        "Seat the Skytooth resonance core and play the mirror-plate’s counter-tone to smooth the hum",
+        "Confront Knife-Whisper Pell and force an end to the masking attempt without a street war"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Asha Greyling",
+            "text": "If the Loom stutters, the arch remembers how to break. I have rung warnings until my hands blistered and still the city asked for proof. Give them proof of steadiness instead. Give them a day and a night that feels like a held breath released slowly, and I will write your name on a bell-clapper myself."
+        },
+        {
+            "speaker": "Maera Lockfen",
+            "text": "My crews will crank until their arms scream. Keep knives off their backs and clever boys out of my gearings. If you see a hand reach where it shouldn’t, break the habit not the fingers. We’ll need those hands when the flood comes again, and it will."
+        },
+        {
+            "speaker": "Magister Vell",
+            "text": "Listen—do you hear it? The ghost-harmonic is settling like a cat finding exactly the right place to sleep. Play the mirror-plate now, just a hair under E5, and then—good—ease it down. The belts won’t like it, but they don’t get a vote. Neither do the men who thought they could bully physics with a smuggled scale."
+        },
+        {
+            "speaker": "Knife-Whisper Pell",
+            "text": "You think yourself a moral locksmith, and maybe you are. You turned a key I didn’t see and now you look at me like a door you can close forever. I never wanted the arch to break, Lio. I wanted a city that didn’t demand permission to breathe. Call your Wardens off my shadows and I will call my shadows off your daylight."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "We can unlearn the habit of choking each other by the throat. Walk with me into a hearing and say out loud that you’ll trade secrecy for a seat. I will write it on brass and hold your name steady while you say it. Keep playing at masks in the engine-room and you’ll force me to make an example you won’t like."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ],
+        "related_locations": [
+            "The Loom of Tides",
+            "Night Market Vaults",
+            "The Starspan (Basalt Arch) Shrine"
+        ],
+        "factions_involved": [
+            "Order of the Basalt Arch",
+            "Wardens of the Confluence",
+            "Cobalt Collegium",
+            "Embersleeve"
+        ]
+    },
+    "rewards": [
+        "Crisis averted: the Loom runs a full day and night without stutter",
+        "Order’s formal blessing for the Oath hearing",
+        "Warden security writ for future infrastructure sites"
+    ]
+}

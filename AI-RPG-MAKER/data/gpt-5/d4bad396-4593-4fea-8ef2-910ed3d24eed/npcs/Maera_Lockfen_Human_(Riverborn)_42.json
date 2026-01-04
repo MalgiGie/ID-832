@@ -1,0 +1,71 @@
+{
+    "name": "Maera",
+    "surname": "Lockfen",
+    "race": "Human (Riverborn)",
+    "age": 42,
+    "appearance": "Broad-shouldered and river-weathered, with tide-mark scars across her forearms and a captain’s braid woven with tiny iron keys.",
+    "character": "Disciplined, pragmatic, and protective of the city’s flow above all politics.",
+    "traits": [
+        "Disciplined",
+        "Protective",
+        "Blunt",
+        "Superstitious about bells",
+        "Early riser"
+    ],
+    "skills": [
+        "Lock engineering",
+        "Command and logistics",
+        "River navigation",
+        "Chain-boom tactics",
+        "Oath-law procedures"
+    ],
+    "talents": [
+        "Hears subtle pressure changes in gates",
+        "Reads bridge-stress from hums",
+        "Two-knife rowing in tight channels"
+    ],
+    "flaws": [
+        "Stubborn under pressure",
+        "Distrustful of performers and propaganda",
+        "Workaholic"
+    ],
+    "dreams": [
+        "Restore public trust in the Wardens",
+        "Keep Miravale alive through the drought",
+        "See the Starspan whole and uncracked"
+    ],
+    "secrets": [
+        "Once opened the Citadel’s hidden by-pass to evacuate a trapped neighborhood without authorization",
+        "Keeps a duplicate chime-key sequence in a waterproof prayer box beneath the Starspan"
+    ],
+    "relations": [
+        {
+            "npc_name": "Asha Greyling",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Iven Kall",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Pellar Nine-Poles",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Knife-Whisper Pell",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Orin Thalen",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Sere Aven",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Magister Vell",
+            "relation_type": "Different goals"
+        }
+    ]
+}

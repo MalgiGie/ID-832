@@ -1,0 +1,52 @@
+{
+    "id": "M7",
+    "title": "Accords in the Mire",
+    "quest_giver": "Marek Sol",
+    "description": "The self-writing ink scrawls a corollary: bind the newly unsettled or they will be gathered by something that is not death. The path leads east into the Mire of Quiet Dust to consult Chirothegn Marek Sol and the Grave-Binders. There, sootwater breathes cold and cords hang heavy with old plague prayers. Marek receives Iriel with ash on his brow and patient gravity. He teaches the ancient sigils for pacifying the recently dead and the recently frightened, which are not so different, and warns that the Dustmother’s sleep will be offered if Iriel lingers. To carry the binding safely, Iriel must walk the fen with memory sharp and breath measured, and cut a set of fresh ash-cords at an altar that still remembers mercy.",
+    "objectives": [
+        "Meet Marek Sol in the Mire of Quiet Dust and request the pacification sigils.",
+        "Survive the miasma and leech-cords while memorizing the Grave-Binders’ rite without writing it.",
+        "Cut and consecrate a new set of ash-cords at a working plague altar.",
+        "Resist or accept the Dustmother’s offered sleep and return with the cords intact."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Marek Sol",
+            "line": "The living are louder than the dead, and the frightened are loudest of all. What stirs your river will stir your people, and then they will stir their own dead. The sigils I give are not chains; they are hands held until shaking passes. You will not ink them on paper. You will learn them in your marrow and in the pulse you feel in your wrist when you put two fingers there and the world agrees you are alive."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "I have walked here once and taken the first sleep the Dustmother offers. I will not pretend otherwise. If she comes to me in soot and gentleness again, I will bow, but I will not lie down. Teach me to quiet what is roused without stilling it forever, and I will carry that quiet back to a city that has forgotten how to rest."
+        },
+        {
+            "speaker": "Dustmother (felt, not heard)",
+            "line": "Two rests and you will not wake, little map-reader. One was mercy and silence, the second would be love and erasure. Turn your face to the wet bark and I will give you a dream with no edges. Turn away and I will give you back your obligations, and they will scratch."
+        },
+        {
+            "speaker": "Marek Sol",
+            "line": "You are honest about your weakness. That will keep you from becoming cruel with your strength. Bind the recently unsettled, not the unruly wind, and remember our taboo: do not summon voices that do not consent. If your city must choose to listen, teach it to ask."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": {
+        "experience": 600,
+        "items": [
+            "Consecrated Ash-Cords (Pacification Set)",
+            "Grave-Binder’s Ash Mark"
+        ],
+        "currency": {
+            "chits": 10
+        },
+        "reputation": {
+            "Grave-Binders": 3,
+            "Order of the Third Rib": 1
+        }
+    }
+}

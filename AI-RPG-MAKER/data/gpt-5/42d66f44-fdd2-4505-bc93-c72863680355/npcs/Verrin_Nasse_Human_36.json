@@ -1,0 +1,72 @@
+{
+    "name": "Verrin",
+    "surname": "Nasse",
+    "race": "Human",
+    "age": 36,
+    "appearance": "Laugh-lined face, scar along jaw, gray-streaked braid; wears a tide-gray coat with hidden pockets and a shark-tooth charm.",
+    "character": "Cocksure smuggler-chief who breaks monopolies for sport and profit; charming until cornered; holds grudges like anchors.",
+    "traits": [
+        "wily",
+        "reckless",
+        "charismatic",
+        "paranoid"
+    ],
+    "skills": [
+        "coastal smuggling",
+        "counterfeiting guild marks",
+        "free-diving",
+        "knife fighting",
+        "blink-code reading"
+    ],
+    "talents": [
+        "vanishes in crowded markets",
+        "remembers tide tables by feel",
+        "improvises exits flawlessly"
+    ],
+    "flaws": [
+        "impulsive bets",
+        "needles authority with insults",
+        "trusts few",
+        "pockets ‘just one more’ crate"
+    ],
+    "dreams": [
+        "Shatter Syndicate and Compact price walls",
+        "Build a quiet life among Bonebridge smokehouses",
+        "Write his own set of ‘honest smuggler’ laws"
+    ],
+    "secrets": [
+        "Holds a copied page of the lighthouse shadow-code",
+        "Pays a Tidemason foreman for low-water maintenance windows",
+        "Stashed a crate of glass-bell grenades in an under-rib cache"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ysger Thorn",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Mara Vell-Seren",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Arno Kest",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Rusk Bonebinder",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Neris Bonehook",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sirae Glowhand",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Ilya Salt-Kite",
+            "relation_type": "Hostility"
+        }
+    ]
+}

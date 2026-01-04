@@ -1,0 +1,84 @@
+{
+    "id": "M4",
+    "title": "Breath Owed, Breath Stolen",
+    "quest_giver": {
+        "name": "Nyssar Fenquill",
+        "affiliation": "Whisper Fen elders and Caravan League liaison"
+    },
+    "description": "Across the Saltglass Expanse the oasis of Whisper Fen gleams like an emerald spilled upon a brass plate, its low mist catching the sunlight in threads that seem to breathe. Frogs sing like tired flutes and the channels speak in reed-rattled syllables that almost form your name; somewhere deeper, a hymn hums the way a wound hums when the weather changes. Nyssar Fenquill waits at the reed edge with hands stained the kind green of saving work, eyes bright with gratitude and warning, and the scent of fenfruit medicine rising from her satchel like memory warmed. The story she signs into the damp air is simple and cruel: a reed hymn crossed the desert, lured by the thirst of cities and the ache of exiles, and it has taken voices as toll, including that of a Triarch’s envoy whose silence now tightens trade like a cinched belt. The Fen Queen, who bargains in breath and keeps sunset like a blade tucked in a sleeve, remembers that Rogan once bent the wording of a promise to spare heat-stricken children; the Fen remembers every bent thing and knows the angle by heart. The channels will need walking where lanterns pretend to be friends, where bog lights wear the steps of people you miss, and where parasites learn your lullabies and feed on the quiet between words. To make the world steady again, and to square a debtor’s account with dignity, you must track the reed hymn to its source, gather three fenfruits for an offering that tastes of honest sweetness, and face the breath-thief that hoards language the way misers hoard coin. The Queen will demand a song sung without fear and a promise kept as carved, not as cleverly curved, and she will weigh each sound you make against still water yet to come. The Under-Ribs’ murmur, the Gate’s far hum, and the Aerie’s high kites will feel far away in that wet labyrinth where frogs toll and reeds whisper, but the city lives or coughs on what is decided there. You came to repay a breath debt and to return a voice swallowed by cunning water; you may leave owing a price you can carry, or owing a silence you cannot bear. In the Fen, the wind does not lie, but it asks hard truths for the right to pass.",
+    "objectives": [
+        "Escort Nyssar Fenquill through the reed labyrinth to the Fen Queen’s court.",
+        "Track the reed hymn to its source and gather three fenfruits for the offering.",
+        "Confront the breath-thief parasite and recover the envoy’s voice in a glass ampule.",
+        "Bargain with the Fen Queen for release of the envoy’s breath without triggering the full price of Rogan’s broken wording.",
+        "Return the voice to the envoy and secure renewed trade with Whisper Fen healers."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Nyssar Fenquill",
+            "lines": "Rogan, I remember the day you traded your breath for a moment and stretched a promise until it covered children like shadecloth, and I have never faulted a man for making shade in a killing heat. The Fen, however, counts differently than you and I, and it keeps its ledger in every ripple and reed-bruise and frog note that calls at dusk. A hymn has slipped its leash, taken to the channels like a smuggler, and now it sings in voices the hearer trusts until the throat opens and the words are stolen clean. Three fenfruits will begin the apology, ripe and heavy with the sweet medicine that tastes like a childhood summer cooled under a dripping eave, and then we will walk where lanterns lie and tie knots that do not slip. Stay close to me when the mist thickens, lift your sabre only when the water shivers wrong, and when the Queen asks for a song, give her the whole crack in your voice instead of a pretty shard."
+        },
+        {
+            "speaker": "Fen Queen",
+            "lines": "I know your name, Rogan Kettlebone, as I know the low path of water along a root and the high path of wind through reed teeth, for your syllables are heavy and honest and already tied to me by a thread you frayed. You once broke a rule as gently as a man can break a bone, and it mended children enough that I did not set your shadow adrift that night, but such gentleness still leaves a seam that aches with weather. I ask now for three offerings that are not coin: first the fenfruit you will gather with care, second a song sung without fear even if your breath shakes, and third a promise worded true as a blade’s edge and kept as if your mother were listening under the water. Bring me the stolen speech sealed in glass and bring it without cleverness that cheats the shape of things, and I will loosen my hand from the envoy’s breath until another sunset calls us to count again. Bargain with me straight, or else bargain not at all, for I have no patience for parched men who pretend to be rivers."
+        },
+        {
+            "speaker": "Triarch’s Envoy",
+            "lines": "I write this with a hand that remembers speaking even as my throat stands empty like a punished market stall at noon, and the chalk tastes like dust left after prayer. The hymn found me in the reeds sounding exactly like my mother calling me to supper, though she sleeps forever in a wall of bone and I know this better than the shape of my own signature. It promised nothing, it asked nothing, it merely placed cool shade inside my chest and then drank it, and when I tried to shout for my boatmen I could only show them teeth and tears. I have seen bargains in this city and I have seen thefts dressed as rituals, but I do not know which this was, and I am afraid that fear will make me unworthy of breath even if you return it. Please, if there is a jar that holds my voice like dew, bring it back to me, even if the first word it gives me is a rough apology."
+        },
+        {
+            "speaker": "Breath-Thief of the Channels",
+            "lines": "I am a hunger with a lullaby and a mouth of lantern-light, and I do not steal so much as collect what spills, for men are always spilling their names in the reeds. I wear the footsteps of loved ones because you leave those prints like coins in the mud, and I am nothing if not an accountant for the wet places of the world. Do not point your bright glass at me and pretend virtue, warrior, for the city drinks the Fen as surely as I drink your carelessness, and the balance wobbles whichever way you turn your head. Bring me fear to taste and I will give you syllables in a skin of glass, or bring me iron and I will cut my tongue on it and scream and scream in voices you wish you had not heard. Choose quick, for the sun slides down the reed blades and sunset is a blade I respect."
+        },
+        {
+            "speaker": "Fen Queen",
+            "lines": "I have watched you move through my green halls with the weight of a man who knows that debts are not a chain so much as a cord that can pull you out of a pit or strangle you in your sleep, and I have considered whether you understand the difference. You found the hymn and did not burn it; you found the parasite and did not pretend it was a monster made for you to become a hero upon; you remembered the offering, and you sang with a voice that betrayed you and yet did not. The envoy’s breath rests again where it belongs, and the glass you carry holds a single truth like a seed you will one day need rain for; I release you from the price for this sunset and not the next. Hold fast to your promise about still water, for when the day comes without a wind and the lake lies mirrored, I will call your name, and you shall not pretend not to hear. Until then, spend the reed I give you wisely, for it remembers whispers and it forgets lies and it breaks clean when a man lies to himself."
+        },
+        {
+            "speaker": "Nyssar Fenquill",
+            "lines": "The dew of a voice glimmers in that ampule like a held breath just before a laugh, and it wants a throat again the way a seed wants a palm to press it into soil; I can feel the impatience in it as I can feel my own heart steadying. Trade will move again along the barge lines, and the clinics under the ribs will smell of cool fen tonics instead of scorched dust and scared sweat, and children who have done nothing wrong will sleep through noon. Thank you for carrying the straight weight when a crooked weight would have seemed lighter, and for letting me believe that a debt can be paid with hands and courage rather than stolen from another life. When the Queen calls at still water you will go, and I will walk the first stretch with you bearing a lantern that tells only the truth even when it hurts my ears. Until that day, keep the reed by your heart, feed it one true whisper, and do not waste it on a clever line when a necessary one will save a life."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Sing the Straight Song and Offer Your Own Breath",
+            "text": "Rogan stands knee-deep in the chill channel and inhales until the cold touches the fulgurite lattice on his shoulder, then exhales his true name forward and backward until the sound stops being a trick and becomes a truth. He refuses the easy beauty of a Watch cadence and lets every crack and rasp into the air so the Fen can hear exactly who has come to bargain. He tells the water the reason he bent a promise once and names each child as if setting a bone, paying a little pain with each one and not pretending it is heroism. Nyssar knots reed-silk at his wrist to keep him from drifting when the hymn pulls, and he stares level at the lantern that pretends to be his father’s laugh until the light falters. When the parasite asks for fear he gives it a measured cup from the place in his gut where the Quiet Thrum lives, no more and no less, and he keeps his hands off the blade so the song can carry the weight rather than steel.",
+            "outcome": "The water takes a single thread of his breath, enough to leave his voice hoarse and honest for a day, and in return a slick glass ampule bumps his palm like a fish seeking a fisherman’s basket. The Breath-Thief retreats to the dark where silt remembers older bargains, muttering a promise to taste him again on a day without wind, and the reed hymn unknots itself with a sound like a mother's sigh after a fever breaks. The Fen Queen’s gaze softens to something like weathered mercy, and she names this sunset paid while reminding him that still water keeps perfect time. Nyssar smiles without relief turning to arrogance, and together they carry the ampule back through channels that no longer lie with friendly steps. The envoy drinks his voice back in three hard swallows, trade resumes as elders unlock their medicine stores, and Rogan leaves with a reed that can store one truth and with a debt measured now in sunsets rather than nooses."
+        },
+        {
+            "id": "C2",
+            "title": "Bind the Hymn with Reed-Silk and Marrow Resonance",
+            "text": "Rogan asks Nyssar to teach him the fen-knot that holds a tune without strangling it, and he mirrors her hands until the reed-silk hums a note his marrow-ink vambrace answers. He stakes three fresh fenfruits on a shallow tray, cuts each with the sabre’s flat so the scent rises sweet instead of sharp, and uses the Mirror-Oculus shard to bend a sliver of lantern-light back into honest shadow. He taps a Watch whistle only once to set a rhythm, then lets the echo-pipe cadence die so the Fen’s music can speak; this is not a city street to march but a green hall to listen. When the parasite mimics his mother, he lays a finger to the knot and quietly names the lie, letting the knot tighten around the false syllables until the hymn itself is tethered. He promises nothing beyond the Fen Queen’s terms and speaks slowly, leaving spaces between words large enough that truth can settle without being scared off.",
+            "outcome": "The reed-silk drinks the stolen notes and wrings them into the glass ampule with the tidy inevitability of a ledger balanced by a careful hand, and the channel calms as if a fever has broken. The Breath-Thief hisses and hangs back from the binding, tasting no fear to glut itself upon, and it leaves a slick trail of lantern oil that gutters in honest wind. The Fen Queen nods once like a judge whose verdict matches her private hope, and she declares the apology properly made with offerings fitting the deed, neither more nor less. Rogan keeps his lungs strong and his throat clear, but the Queen marks his promise with a knotted reed-loop around his wrist that will tighten at the next still water as a reminder that debts do not evaporate, they condense. The envoy’s voice returns steadier than a market bell, the elders of Whisper Fen reopen their medicine baskets without haggling, and word reaches Marrowhold that shipments will move again as long as the city keeps its own words straight."
+        },
+        {
+            "id": "C3",
+            "title": "Cut the Lantern and Strike the Parasite Hard",
+            "text": "Rogan takes one look at the glimmering mimic light and decides that lies pampered become law, and he will not let that happen to a city already on a dry edge. He steps forward with the Storm-Skim sabre held low and snaps the wind-kelp rope around his waist so Nyssar can drag him back if the water tries to teach him humility. The fulgurite blade bites the lantern’s skin with a blue-white lick, and where the light spills the hymn screams in three stolen voices at once, a mother’s call, a lover’s tease, a commander’s bark, each prettier than truth. He does not stop, because he knows stopping breeds regret, and he carves a path through mimicry while shouting the names of the children he once saved to keep himself oriented toward what matters. When the parasite tries to take his breath by force, he gives it the sabre’s static taste instead and lets the blade sing the last word.",
+            "outcome": "The parasite splits and flees into deeper channels, leaving the glass ampule bobbing amid a ribbon of guttered lantern oil, and silence returns like a held breath finally let go. The hymn weakens and collapses into harmless reed susurrus, but the Fen shivers from the cut and remembers the insult the way stone remembers a chisel mark. The Fen Queen’s eyes go flat as a mirror before a storm, and though she admits the deed is done and the envoy’s voice may be restored, she lays a tithe upon Rogan’s future: when still water comes he will pay a sharper price than a song. Nyssar binds his hand where the sabre’s bite ran too close, and she thanks him with a steadiness that does not excuse him but does not abandon him either, because she knows children will live because of speed and not only because of grace. The envoy takes his voice back, the trade barges push off with medicine and caution both, and Marrowhold receives relief bought with a bruise on the Fen’s pride and a knotted promise that will tug hard when the lake lies like glass."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Whisper-reed of Memory: a slim, living reed that will hold one whispered truth and replay it perfectly once, then split like honest bamboo and fall silent."
+        },
+        {
+            "type": "reputation",
+            "description": "Partial release of Fen debt; measured favor with Whisper Fen elders who now speak your name with water-cool respect and a watchful eye toward still-water reckoning."
+        },
+        {
+            "type": "trade",
+            "description": "Renewed Fen medicine shipments to Marrowhold, calming fever lines and shoring city stability as clinics fill with the scent of reed tonics and lives are counted forward instead of back."
+        }
+    ]
+}

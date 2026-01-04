@@ -1,0 +1,66 @@
+{
+    "name": "Sera",
+    "surname": "Verrin",
+    "race": "Human",
+    "age": 32,
+    "appearance": "Olive silk coats lined in thistle-blue, hair pinned with a green-copper comb, a smile that promises and measures.",
+    "character": "Charming and calculating, collects favors like jewelry and remembers the weight of each.",
+    "traits": [
+        "charismatic",
+        "daring",
+        "urbane"
+    ],
+    "skills": [
+        "contract law",
+        "rapier play",
+        "river etiquette",
+        "discreet bribery",
+        "hosting negotiations"
+    ],
+    "talents": [
+        "reads a room in heartbeats",
+        "flawless calligraphy that disarms skeptics",
+        "memorizes debt webs"
+    ],
+    "flaws": [
+        "overconfident",
+        "private contempt for old vows",
+        "tangled romantic liaisons"
+    ],
+    "dreams": [
+        "secure exclusive thorn-silk exports",
+        "seat a Verrin as Keeper of Measures",
+        "outmaneuver the Protector without scandal"
+    ],
+    "secrets": [
+        "holds a draft charter for city outfitter needing one signature",
+        "bribed a pilot to break a lockout",
+        "keeps a blackmail folio on a guildmaster"
+    ],
+    "relations": [
+        {
+            "npc_name": "Selde Karst",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Arelon Vale",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Lysa Quill",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Brynna Coil",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Olan Vetch",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Irevan Glassmere",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

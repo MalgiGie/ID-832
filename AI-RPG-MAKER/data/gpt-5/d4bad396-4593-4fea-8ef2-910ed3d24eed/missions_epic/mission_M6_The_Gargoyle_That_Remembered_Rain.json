@@ -1,0 +1,86 @@
+{
+    "id": "M6",
+    "title": "The Gargoyle That Remembered Rain",
+    "quest_giver": {
+        "name": "Orin Thalen",
+        "affiliation": "House Thalen"
+    },
+    "description": "A gargoyle on the Old Aurion Aqueduct woke when a Collegium experiment sang too near its stone, and the song rattled dry channels no human had touched in a generation. Now it waits with a throat like a cracked cistern and eyes like weathered lenses, shedding powdery grit as if every breath filed it down to a memory. House Thalen needs it soothed and the siphon valves replaced before any public trial of flow makes them look like dreamers with broken toys, because the city will forgive ambition only if it runs wet. The wind on the arches tastes of snow and old risk, and every span hums with a rumor that the Blue Heart still beats beneath the Skytooth. Harn Slate, a miner from the ridge, meets you at Harn’s Step with ropes, iron-spiked shoes, and a prayer that sounds like a curse parceled into nine syllables so the mountain will hear it true.\nBandits nest in hollow piers and watch like crows, rifles slung and blades tucked, waiting to sell your bones to whoever writes the truest elegy and pays in salt. The gargoyle’s eyes are dry and hateful until you pour a skin of water down its stone gullet and it shudders like a creature hearing its name after too long, the carved tongue flexing, the gargled cough of a fountain finding its first trickle. Beneath your boots, old siphon valves whisper of pressure and promise as if they remember apprentices and shouted counts. Above, the sky splits into ragged banners that flutter against the saw-teeth of Skytooth Ridge, and somewhere far below the river waits, patient and merciless, to see which oath will hold.",
+    "objectives": [
+        "Meet Harn Slate at Harn’s Step and climb to the gargoyle’s perch",
+        "Soothe the awakened gargoyle by feeding it flowing water",
+        "Replace a cracked siphon valve with a salvaged unit from a nearby span",
+        "Hold off bandits while the mechanism re-primes",
+        "Signal House Thalen by heliograph that the span is safe"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Orin Thalen",
+            "lines": "My family’s name is carved into those arches, and into the debts that keep them from being rubble, and I will not let either be ground to sand by drought or doubt. Help me make them sing again and I will pay with more than coin, because coin buys a day while gratitude buys a road, and I intend to lay stone for years. I will argue your clauses to the bitterest cousin until their tongues go dry and their ledgers admit that courage is a form of equity, and I will sign with witnesses enough to shame the Scriptorium’s dust. Bring me a gargoyle that does not look at my crews as if they were tinder, and a siphon that turns with the grace of remembered rain, and I will make sure your name is spoken at the Drowned Theater without mockery. The city needs a show of competence, not a spectacle of collapse, and I would rather hire a rogue who listens to water than a chorus of flatterers who only hear their own applause."
+        },
+        {
+            "speaker": "Harn Slate",
+            "lines": "The wind up here peels skin if you let it, and the stone bites back if you pretend you’re its master, so bow to both until you’re past. Keep low, keep light, and don’t look down longer than it takes to know where not to land, because the aqueduct remembers every slip and taxes fools in bone. The garg soyaks—gargoyles—wake hungry and angry both, their mouths dry as sermons and their tempers like dropped hammers, so don’t wave your hands unless you mean to bleed. Give it water and a name, and it might pretend you’re worth not crushing for the length of a task, because even stone respects manners answered with flow. I’ll drive the pitons and count the beats, you mind the tongue and the teeth, and between us we’ll make an old spine remember it was cut to carry storms."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "lines": "Easy, old watchman, the drought burned your throat but not your duty, and I can hear the oath-scratch still humming in your ribs. You were made to drink storms, not choke on dust, so here’s a skin of clean flow and a promise that we’ll feed the channel you guarded when the city was young. Here’s flow to wet your teeth, and here’s a hand that won’t flinch if you flex, and if you remember names then remember mine as one that pays debts in water. Harn, wedge that valve like you’re convincing a door it meant to open all along, and count like you’re teaching a child to breathe. If the bandits want the view, they can have it after we’re done, because the wind will still be here when our signal cuts sunlight into Thalen’s waiting eyes."
+        },
+        {
+            "speaker": "Bandit Lookout",
+            "lines": "Pretty work for a legend no one will pay for when it cracks again, and we’ve seen more legends than lunches on these arches. Leave the brass and the tools, and no one goes over, because we’re fair to the careful even if the city is not fair to us. Or climb down with your pride and see if the city buys that instead of grain, because bread listens to coin and coin listens to fear. We don’t care about your house’s carved names, only the metal you carry and the story we can sell when the arch drops a hero into a dry river. Make it quick, sing your little tune to the stone, and remember that rope cuts faster than a knife when a hand with nothing to lose is on the line."
+        },
+        {
+            "speaker": "Harn Slate",
+            "lines": "Come and take it then, if you’ve a taste for gargoyle breath and a liking for falling, because that’s what waits for anyone leaning past my beat. Lio, now—turn the valve on my count, and don’t argue with the numbers because numbers are the only gods that answer on mountaintops. One, two, three—hold—four, five—wait for the cough—now let it seat, smooth as a truth you can live with, not a boast you choke on. There, hear that whisper, that groan turning into a hum, that’s an old spine remembering it can stand and a throat remembering it can drink. If the crows want a fight, they’ll get one on the far side of a living machine, and I’d wager the stone will favor the hands that fed it."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Name the Stone and Pour the River",
+            "text": "You step close enough to smell the mineral cold of the gargoyle’s breath and speak to it as if it were a sentinel with a post rather than a relic with a grudge. You choose a name that tastes of first rain and old oaths, a name that admits you are borrowing its patience and promising it purpose. You pour water in slow circles, letting the stream trickle over carved fangs and down the dry throat until the sound changes from rasp to swallow. You lay your palm, salt-scar and all, against its jaw and tell it what you mean to do, counting the tools as if each were a rung on a ladder out of drought. You promise not glory, not worship, but work—valve turned, channel bled, pressure seated—and you ask it to hold still because steadiness is the only prayer it ever learned to answer.",
+            "outcome": "The gargoyle shudders once like a horse offered a bridle by a gentle hand, then slackens with a grinding exhale that powders your boots. Its eyes lose their hateful sand-glare and focus on the water skin, on your scar, and on Harn’s measured posture, and some old recognition settles like dust after a fall. You hear a hollow gulp travel the span, a resonance that kisses the salvaged valve and primes it with promise rather than threat. The bandits hesitate at the sight, because even scavengers know not to anger a waking monument, and their knives twitch without leaping. When the mechanism re-primes the gargoyle flexes its wings just enough to shed grit like rain, and the heliograph signal you flash carries not only light but the rumor that stone listened, which buys House Thalen a breath of goodwill before the next fight."
+        },
+        {
+            "id": "C2",
+            "title": "Sing the Quiet Note",
+            "text": "You unclip the Collegium’s chime-plate E5 and dust the rim with starshard grit until the cobalt stains your fingertips and dulls the world’s echo to a manageable hush. You strike the plate not with bravado but with the restraint of a lockkeeper easing a flood into a thirsty field, and the note threads the wind without fraying. You move the tone across the gargoyle’s throat and the cracked siphon housing, painting sound where mortar has forgotten its glue. You guide Harn with nods and numbered breaths, translating resonance into timing, timing into torque, and torque into a seated seal that wants to cooperate. You whisper a small apology to the Order of the Basalt Arch for meddling with the arch’s sleep, and a small plea to the Loom of Tides to match this rhythm and not betray you at a bad moment.",
+            "outcome": "The note finds the fracture and persuades it to unclench, and the salvaged valve slides into place with the smug click of a thing that always believed it belonged. A lash of echo-sickness nips at your inner ear, but the grit tames it into a tolerable sway instead of a fall, and Harn uses the moment to torque the bolts through with an artisan’s curse. The gargoyle’s jaw closes and opens as the sound caresses its hinges, and a thin runnel of water becomes a thread, then a cord, then a promise of flow. The bandits blink as if a bright cloud crossed the sun, because their advantage depended on you flinching or failing, and neither occurs. When you heliograph the all-clear, you add a brief coded flourish that only Magister Vell will catch, and somewhere in the Collegium a ledger shifts a line in your favor even as a bellkeeper frowns at the memory of a forbidden chord."
+        },
+        {
+            "id": "C3",
+            "title": "Parley with the Crows",
+            "text": "You raise both empty hands and let the rope bite your hips, showing you trust the drop more than their mercy, and you speak to the lookout in the language of rations and ratios. You offer stories and small salvage that won’t cripple the span, a share of the broken valve and the right to pick any bolts you replace, because even crows respect a fair carcass. You mention Mistress Pellar Nine-Poles and the tow token at your belt, implying that today’s courtesy could become tomorrow’s shortcut through a bureaucrat’s choke. You point out that if the span runs, the traffic will fatten their tolls more than your gear would fatten their pockets, and a working gargoyle scares rival vultures away. You swear no names, but you promise no dogs at their heels from House Thalen if they keep blades sheathed until the mechanism hums and the signal flies, and you mean it long enough for the work to be done.",
+            "outcome": "The lookout spits and laughs, but the edge of hunger in the sound softens, and a muttered vote among the pier-shadows tips toward patience instead of blood. Two bandits take station with crossbows pointed outward, not inward, and the rest lower their knives to the rope instead of your wrists, which in this place is mercy. Harn works with the quiet industry of someone who knows reputation is a tool like any other, and you keep talking to fill the wind so it doesn’t carry a rash thought into a foolish hand. The gargoyle drinks and steadies, and when the valve seats, even the bandits nod at the rightness of the hum, because a living machine is worth more to scavengers than a corpse with pockets. Your heliograph’s flash is clean and quick, and when House Thalen’s crews come later they come with bread and rumor instead of guards and chains, which buys you a softer shadow the next time you cross the arches."
+        },
+        {
+            "id": "C4",
+            "title": "Cut the Ropes and Dare the Wind",
+            "text": "You let the bandits see your shard-knife only after you’ve counted their ropes and mapped their anchors, because a threat is useful only when it can be made true by the terrain. You snap the chime-plate softly to fuzz their shouted signals and then move like a water rat through reeds, quick and low, splitting lines where a fall will scare but not kill. You bark a warning that the first blade aimed at Harn earns a cut that turns a perch into a chute, and the wind gobbles your words and spits them back twice as loud. You pour water into the gargoyle’s mouth as if feeding a guard dog while snarling at thieves, and the old thing seems to enjoy the theater. You tell Harn to work by your count and you count like the river, relentless and without apology, because indecision kills more crews than knives ever have.",
+            "outcome": "One rope snaps and a bandit yelps as he sits down hard on a ledge he thought was a step, and suddenly every knife is busy with self-preservation instead of sabotage. The gargoyle accepts its draught and steadies, and the valve takes its seat under your cadence, turning the groan of old stone into a steady, useful song. Harn swears once, then laughs, then swears again as the pressure tests the seal, and it holds, which means your gamble paid in function rather than in blood. Your heliograph burns crisp angles into the bright, and House Thalen’s reply glints approval like a coin seen from the bottom of a bucket. News runs faster than water: some call you reckless, some call you necessary, but all agree the span is safe, and the next time you tread these arches the crows will watch you with wariness that tastes like respect."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Passage Writ",
+            "description": "Thalen writ of passage along the aqueduct arches, granting safe traversal on maintenance routes and recognition by House crews during works."
+        },
+        {
+            "type": "Craft Token",
+            "description": "Siphon-maker’s token that secures a discount and priority on future repairs or valve parts from aqueduct artisans."
+        },
+        {
+            "type": "Reputation",
+            "description": "Reputation (modest) with House Thalen and workers along the spans, marking you as the one who coaxed an old gargoyle back to its duty without shattering it."
+        }
+    ]
+}

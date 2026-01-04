@@ -1,0 +1,79 @@
+{
+    "name": "Garrik",
+    "surname": "Shale",
+    "race": "Human",
+    "age": 48,
+    "appearance": "Broad-shouldered with chain-scored forearms, beard braided with copper washers, oilskin apron spattered with resin and salt.",
+    "character": "Stubborn, protective of his crews, and plain-spoken; he treats every chain like family and every shortcut like a knife.",
+    "traits": [
+        "steadfast",
+        "protective",
+        "plain-spoken",
+        "community-minded"
+    ],
+    "skills": [
+        "harbor engineering",
+        "rigging and splicing",
+        "crew leadership",
+        "strike organization",
+        "public speaking on the Span"
+    ],
+    "talents": [
+        "hears bad pitch in chains before they fail",
+        "calculates loads in his head",
+        "ties knots blindfolded"
+    ],
+    "flaws": [
+        "quick temper",
+        "distrusts clerks and ledgers",
+        "pride clouds compromise"
+    ],
+    "dreams": [
+        "Win veto power over dangerous harbor expansions",
+        "Establish a worker-owned tug fleet",
+        "See his daughter apprentice without Compact strings attached"
+    ],
+    "secrets": [
+        "Owes Neth Cowl a life-debt from a fog-salvage gone wrong",
+        "Hid a cache of substandard rivets to expose a Compact subcontractor later",
+        "Was closer to the sabotaged Array than he admits"
+    ],
+    "relations": [
+        {
+            "npc_name": "Yhosa Kel",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Selka Vire",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Osric Greyfen",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Neth Cowl",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Talon Orase",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Irio Mossvane",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ketta Brineshaw",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Pera Ilem",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Siala Nerm",
+            "relation_type": "neutral"
+        }
+    ]
+}

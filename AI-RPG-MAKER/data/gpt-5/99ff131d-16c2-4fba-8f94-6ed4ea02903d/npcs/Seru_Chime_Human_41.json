@@ -1,0 +1,68 @@
+{
+    "name": "Seru",
+    "surname": "Chime",
+    "race": "Human",
+    "age": 41,
+    "appearance": "Lean scribe with ribboned kites at their belt; hair in copper coils; ink-flecked cheeks.",
+    "character": "Patient, exacting, and quietly idealistic.",
+    "traits": [
+        "Attentive",
+        "Principled",
+        "Soft-spoken",
+        "Perceptive"
+    ],
+    "skills": [
+        "Wind-scribing",
+        "Court timing",
+        "Archival indexing",
+        "Mediation"
+    ],
+    "talents": [
+        "Reads intent in breath cadence",
+        "Kite control with fingertip nudges",
+        "Perfect recall of testimony"
+    ],
+    "flaws": [
+        "Risk-averse",
+        "Self-effacing",
+        "Sleeps poorly after hard cases"
+    ],
+    "dreams": [
+        "Make the Courts accessible to common petitioners",
+        "Publish a fairer sky-lane code"
+    ],
+    "secrets": [
+        "Knows the subchamber of stored breath exists and has sampled it",
+        "Secretly tutors Lune Arikara in court speech timing"
+    ],
+    "relations": [
+        {
+            "npc_name": "Meret Hal",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lune Arikara",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Rhyss Quell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Thren Basso",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Nyra Kest",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Kael Orisborn",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Osk Talin",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

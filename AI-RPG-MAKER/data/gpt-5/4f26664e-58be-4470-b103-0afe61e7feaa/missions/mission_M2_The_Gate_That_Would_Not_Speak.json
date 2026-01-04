@@ -1,0 +1,52 @@
+{
+    "id": "M2",
+    "title": "The Gate That Would Not Speak",
+    "quest_giver": "Suri Yal",
+    "description": "At dusk, Gate Three stutters like a heart that will not answer its own beat. Suri Yal meets Iriel atop the bone-crowned wheel as the River of No Echo moves without sound beneath. The fork’s tone reveals a foreign overtone lodged in the bearing—thin, cold, and bright as a shardstorm memory. Eased out with bone chalk and careful pressure, the culprit proves to be star-glass splinters etched with a shutter code, their edges singing an alien rhythm that trips the gate into hesitation. Harbormaster Jull Nerr tramps up the stair with lock-militia boots, suspicion heavy as the humid silence. He orders the evidence secured, but Suri’s weary glance carries an unspoken plea to take this to those who understand signals in the dark: the Grey Lanterns at Phosphor House.",
+    "objectives": [
+        "Stabilize Gate Three’s bearing with Suri Yal by identifying and extracting the discordant star-glass splinters.",
+        "Examine the etchings on the splinters and copy the shutter code into your pocket ledger.",
+        "Decide whether to hand the splinters to Harbormaster Jull Nerr or smuggle a rubbing to Phosphor House.",
+        "Consult First Wick Tamsin Veil at Phosphor House about the shutter code’s origin."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Suri Yal",
+            "line": "There—feel that stall in the wheel? It’s like someone taught the bearing to hold its breath. Ease the fork there, no, there, and hum the low pitch. I told Jull we needed a clean run to second lantern, and now the river sits like an insult. If that’s star-glass in my gate, I’ll make the Kiln Syndicate drink their slag."
+        },
+        {
+            "speaker": "Jull Nerr",
+            "line": "I don’t care what the Collegium says it hears—what I care about is that my gate hesitated and a Nadiri keel near drowned in the pressure rebound. I want those shards sealed, logged, and put under Harbor House lock. And you, Vask—your passes are as thin as your excuses. One unsanctioned whisper to your lamp-friends and I’ll have you counting gulls from the outer booms."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "The splinters hum in patterns I’ve only heard where signals live. The river stayed its voice long enough for someone to thread this in, and it isn’t a dockside prank. If I carry a copy to the Grey Lanterns, I can bring back the truth of the code and the hand that etched it. The gate will hold because you held it; let me hold the rumor it’s choking on."
+        },
+        {
+            "speaker": "Suri Yal",
+            "line": "Go. If Nerr asks, I’ll tell him I needed your ears in the underways counting echoes. Bring me something I can bolt to this wheel—a name, a place, a nail to hang blame on. And if the Lanterns fed my gate a lie, I’ll hear them beg forgiveness in green light."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3"
+        ]
+    },
+    "rewards": {
+        "experience": 300,
+        "items": [
+            "Star-Glass Splinter (Encoded)",
+            "Harbor House Day-Pass"
+        ],
+        "currency": {
+            "chits": 18
+        },
+        "reputation": {
+            "Riverwardens of the No Echo": 1,
+            "Grey Lanterns": 1
+        }
+    }
+}

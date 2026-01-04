@@ -1,0 +1,61 @@
+{
+    "name": "Vara",
+    "surname": "Keshlin",
+    "race": "Riftborn human",
+    "age": 37,
+    "appearance": "Brass-chevrons officer with a heat-glint in her eyes, ash-scarred cheek, and a neatly braided emberbrand cord at her hip.",
+    "character": "Disciplined and stern but fair; believes order is mercy when fires loom.",
+    "traits": [
+        "decisive",
+        "dutiful",
+        "protective",
+        "meticulous",
+        "sleep-deprived"
+    ],
+    "skills": [
+        "crowd control",
+        "fire brigade coordination",
+        "hook-and-sabre fighting",
+        "supply logistics",
+        "interrogation and de-escalation"
+    ],
+    "talents": [
+        "reads smoke drift in enclosed spaces",
+        "calms a crowd with cadence and stance"
+    ],
+    "flaws": [
+        "rigid about permits",
+        "distrustful of night markets",
+        "perfectionism leads to burnout"
+    ],
+    "dreams": [
+        "to rewrite Citadel patrol patterns that outpace the Veil’s games",
+        "to stand down the Citadel during Coilnight without incident"
+    ],
+    "secrets": [
+        "keeps leverage pages on a Veil cell to protect her sibling from arrest",
+        "once hid an Orphans marcher from a harsher commander"
+    ],
+    "relations": [
+        {
+            "npc_name": "Riven Hask",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sere Vell",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Rukha Mossbank",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Pelyn Orinfae",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Neris Undersong",
+            "relation_type": "Conflict"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "M8",
+    "title": "Salt for the Bowl",
+    "quest_giver": "Ressa Quay",
+    "description": "The Scriptorium requires sacred salt for the final binding, and the Giant’s Stair Salt Flats hold it like a choir of mirrors under the sun. Ressa Quay, now out of custody and working contrition into coin, leads a salt run to fetch enough purity to sting signatures into permanence. The flats glitter with heat mirages and the edges of old promises. Salt-wasps hunt sweat; drownholes hide beneath crust that looks solid until it remembers it is not. The Grain Compact whispers of withholding shipments to squeeze the city one more notch. The Wardens will open passage for the return if you bring the salt and keep the caravan from burning alive.\nThe flats step down like a broken staircase into a blue horizon. Each pan has its own song—wind over brine, the crack of new crust, the whisper of names the Dead Tide remembers. You will carry more than mineral back; you will carry the right to make pain meaningful.",
+    "objectives": [
+        "Meet Ressa Quay at the edge of the Giant’s Stair Salt Flats",
+        "Escort the salt crew across terraces while avoiding heat mirages and salt-wasps",
+        "Harvest fine ritual salt and fill the binding bowl to Archivist specification",
+        "Navigate around a brine drownhole and salvage a stuck cart without losing the load",
+        "Return to Miravale and deliver the salt-bowl to the Scriptorium of Oaths"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ressa Quay",
+            "text": "I owe you more than words for speaking on my behalf in the Citadel. Let me pay it in sweat and sunburn. The flats taught me patience; every step lies a little, and every lie looks like solid ground until it swallows you. Keep your eyes on the wind, not the white, and we’ll bring back enough sting to make men tell the truth when it matters."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "We’ll walk like we’re counting oaths—slowly, stubbornly, and with witnesses. If a mirage tries to sell me a shortcut, I’ll charge it interest. Ressa, if a cart sinks, we throw off weight before we throw off people. The city can live without one more crate. It can’t live without one more name to sign."
+        },
+        {
+            "speaker": "Maera Lockfen",
+            "text": "You bring that bowl back brimming and I’ll hold the gates open even if my superiors grind their teeth down to brass. Bread riots look prettier on paper than on streets. I’d rather owe you a favor than explain to a mother why her child learned to bite because there was nothing else to do."
+        },
+        {
+            "speaker": "Ressa Quay",
+            "text": "I thought I was done with hauling for the city after the Vaults, but this feels different. This feels like paying a tithe to something that might deserve it. Come on then. The wasps wake when the heat does, and I’d rather be gone before they remember we’re sweet."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "We’ll be shadows on salt before the sun grows teeth. And when we come back, we’ll make a bowl of pain that makes people careful, not cruel."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ],
+        "related_locations": [
+            "Giant's Stair Salt Flats",
+            "Scriptorium of Oaths"
+        ],
+        "factions_involved": [
+            "Archivists of Vow",
+            "Wardens of the Confluence",
+            "Grain Compact"
+        ]
+    },
+    "rewards": [
+        "Ritual salt-bowl for binding the Oath of Flow",
+        "Standing promise from Wardens for emergency grain passage",
+        "Reputation (modest) with common folk for safeguarding the caravan"
+    ]
+}

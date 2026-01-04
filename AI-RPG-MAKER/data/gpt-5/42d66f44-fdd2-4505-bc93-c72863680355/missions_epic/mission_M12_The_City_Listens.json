@@ -1,0 +1,100 @@
+{
+  "missions": [
+    {
+      "id": "M12",
+      "title": "The City Listens",
+      "quest_giver": {
+        "name": "Asha Heliope and Tern Quietwake",
+        "affiliation": "Lumin Weavers and Fathom Tongues"
+      },
+      "description": "Night lowers over Thassyl like a careful hand, and the bones of Veloros hold the city’s breath as if balancing a secret on the tongue. Lantern-kelp wakes in blue-gold braids, weaving a patient glow along the Spine and down the marrow streets where brine glyphs drink any wayward drip of fear. The Tide Looms murmur and knock like old hearts finding a steady rhythm, and from the open mouth of the Thalassarium a hush gathers, listening for the chord that will tell iron, rope, and bone to be wise. Factions drift in on their different currents—the Lumin Weavers with light pinned to wrists and brows, the Fathom Tongues bearing coils of echo-stone and a tooth lectern polished by vows, the Tidemasons with keys on cords and pride pressed tight behind their jaws, the Brinewardens with steam-scored pikes held low at the hip like oaths you keep but do not flaunt. Kael Rimestrand steps into the seam where city and sea exchange courtesies, clutching a Moonkey sketch that hums in the pocket like a swallowed promise and an Echo-Baffle Coil that drinks stray sound like tide draws back foam. Tonight the city will not be commanded and it will not be tempted to sleep; tonight it will be taught to hear itself, and if the teaching takes, the Shellspire debate, the flow quotas, and the quiet war over pearls will be argued on stone that does not lurch. Mara Vell-Seren watches beneath a hood of pearl-luster, Oaric Bent counts heartbeat-intervals against gear clicks, and Tullis Nacrethane knots brine-wet cords, ready to bind any mouth that would swear lightly. Between them all is a thin road of calm, and Kael must walk it, arrow-sure, lantern-steady, voice measured like a tide that never forgets its shore.",
+      "objectives": [
+        "Coordinate a joint rite between Lumin Weavers, Fathom Tongues, Brinewardens, and Tidemasons.",
+        "Place the Moonkey Setting Sketch and the Echo-Baffle Coil at designated resonance points around the Tide Looms.",
+        "Lead a calm procession around the Spine Market while maintaining order and light density.",
+        "Support Tern Quietwake at the Thalassarium lectern to produce a stabilizing chord without invoking the Long Note.",
+        "Negotiate a written accord for a neutral 'safe-cut' network and limits on unilateral flow changes."
+      ],
+      "dialogue": [
+        {
+          "speaker": "Asha Heliope",
+          "lines": "Kael, we ask the light to be a language tonight, not a weapon, and I trust your hand to keep its grammar true. The Loom halls will look like sleeping whales under our braids, and the glow will move as if a current were taught to walk; do not let any one strand surge or fade without the others heeding it..."
+        },
+        {
+          "speaker": "Tern Quietwake",
+          "lines": "I have listened to stones cough truth and to waves swallow whole lies, and I tell you this chord we carry will not bow to panic if we do not teach it the taste of panic first..."
+        },
+        {
+          "speaker": "Oaric Bent",
+          "lines": "I have seen water carry castles and I have seen ropes argue with their own fibers, and I will not yield my codes to a song or a pageant..."
+        },
+        {
+          "speaker": "Mara Vell-Seren",
+          "lines": "You know me as coin and contract, Kael, and I will not pretend otherwise, because truth told well keeps better than lies lacquered with piety..."
+        },
+        {
+          "speaker": "Ysger Thorn",
+          "lines": "We will ring the Spine with cutters at idle steam and boots at easy stance, and anyone who comes running with a spark in their mouth will find the rain..."
+        },
+        {
+          "speaker": "Tullis Nacrethane",
+          "lines": "Some say the sea is a mother whose patience has been bribed with shells, but I say she is a judge who loves mercy..."
+        }
+      ],
+      "choices": [
+        {
+          "id": "C1",
+          "title": "Walk the Circle of Light as a Promise, not a Protest.",
+          "text": "Kael sets the pace as a librarian of light would catalogue calm...",
+          "outcome": "The city sighs as if a cramp has eased, and the chord Tern hums lands on the Looms like a gull settling on a safe post..."
+        },
+        {
+          "id": "C2",
+          "title": "Bind the Oath on the Bone and let sanctity be the guardrail.",
+          "text": "Kael pauses at each bone-arch to let Tullis loop a ribbon of brine-twine around wrists...",
+          "outcome": "The accord bears signatures that are not only legal but legible to the conscience..."
+        },
+        {
+          "id": "C3",
+          "title": "Temper the Gears with Iron Calm, and let discipline be the lantern’s spine.",
+          "text": "Kael confers with Ysger Thorn and sets a cadence that is more muster than march...",
+          "outcome": "The night ends with no arrests and no martyrs, which is the kind of victory that never makes a ballad..."
+        }
+      ],
+      "connections": {
+        "previous": ["M11"],
+        "next": []
+      },
+      "rewards": [
+        {
+          "type": "xp",
+          "description": "1200 experience for guiding Thassyl through a night of listening, restraint, and resonance."
+        },
+        {
+          "type": "item",
+          "description": "Founders’ Token of Safe-Cut Stewardship (recognizes Kael as neutral guide; reduces tolls and grants right-of-way)."
+        },
+        {
+          "type": "item",
+          "description": "Lumenbraid Bowstring (quiet draw; steadies aim in wind)."
+        },
+        {
+          "type": "favor",
+          "description": "Signed multi-guild accord guaranteeing Kael’s neutral routes and whistle-rights in emergencies."
+        },
+        {
+          "type": "access",
+          "description": "Standing access to the Thalassarium lectern during closed rites."
+        },
+        {
+          "type": "access",
+          "description": "Registered safe-cut network paths mapped under Kael’s seal."
+        },
+        {
+          "type": "coin",
+          "description": "80 credit-shells stamped for Spine Market trade."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "M4",
+    "title": "Flags at Molden Quays",
+    "quest_giver": {
+        "name": "Jalen Sarq",
+        "affiliation": "Smoulder Veil"
+    },
+    "description": "Strike flags bloom like wounds across Molden Quays, dyed saffron and ash, and their ragged edges whisper in the wind like the ends of old oaths. The River Aur presses its shoulder to the quays while pilots lean on bollards and count hearts instead of bells, and the memorial rope for the Red Flood grows heavier with every quiet hour. The Salted Compact demands a safety steward in every Engine shift-room and refuses to move night cargo without one, and their carved buoy-stones pile on the union table like small, stubborn moons. Jalen Sarq, the Smoulder Veil broker who once paid you to guard a sootglass run, wants a ceasefire of convenience, three bells of calm so food can move and families can eat, in exchange for the Wardens easing off underquay ferries, and he trusts you because you hate famine more than fines. Aren Mir, your old sergeant, will answer the Bastion’s bell if you ask, and though he hates being used he loves a city that sleeps, and he knows your knots from the days when sky-skiffs skimmed storm and you learned to tie courage with cord. You must carry hard words between men who measure worth by grip strength and by who blinks first, threading the city’s competing loyalties like a pilot threading floodgates at dusk. The Prism Spire hums in heat and the moth-lamps tremble as if remembering winter’s cocoon, and the quays wait for one voice to set a drum pattern that means mercy instead of muster. In three bells the city can starve or soften, and in three bells a single relief barge can pass like a blessing if the ropes hold and the watchers look with their eyes instead of their anger.",
+    "objectives": [
+        "Meet Jalen Sarq under the Ropes and Knots Hall eaves and hear his terms.",
+        "Speak with Aren Mir at Windward Bastion to negotiate Warden tolerance for three bells.",
+        "Convince a Salted Compact circle to accept a narrow ceasefire without losing face.",
+        "Post the agreed drum pattern for the ceasefire on the quay notice wall.",
+        "Ensure one relief barge passes safely during the ceasefire window."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jalen Sarq",
+            "lines": "You smell like mothwax and court brass today, and yet here you are where the ropes bite and the canal listens for truth in footsteps. I am not asking you to love me or to forgive sootglass; I am asking you to remember the way a child looks when the shops shutter for a week and the bread turns to rumor. Three bells of quiet, that is all I am buying and all I am selling, and in those bells the Veil will sheath its teeth and keep its warm hands in its pockets. The Compact will move grain on agreed routes and no black ledgers will slide across the Exchange tables while the moon stares. The Wardens can glare from their towers and polish their harness as if mercy were a regulation, and afterward we can all go back to pretending we do not live off each other’s breath. I trust you because you hate famine more than fines, and because when the water takes a man you do not ask which guild signed his last wage before you lean out with the hook. So come, Kade Orrel, take these terms in your fist like a line in wind, and we will see if this city prefers bread to bravado."
+        },
+        {
+            "speaker": "Aren Mir",
+            "lines": "I taught you to tie a boarding line in a gale and I still see your hands in the knot, steady as a drum-beat and twice as true. You come asking me to look away while masks run ferries in fog, and you know I have pulled too many bodies from water that claimed to be honest. My duty is a dull blade, Kade, but it cuts every day and it cuts me too when I have to choose between law and a mother’s pantry. Give me something to trust, and not a wish or a whisper, but a pattern I can point to when the Captain asks why my men did not jump. I want a whistle code, a drumline drawn clean, and a face at the bow who can stand a lantern without flinching, and then I will tell the wind to use its inside voice for three bells. If you cross me, I will not hang you, but I will make you carry the rope back to the memorial and add your own knot for the trust you broke."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "lines": "I did not come to polish anyone’s conscience, and I did not bring lace for the law or perfume for the Veil. I came because the quays feed the city before the bells do, and because a hungry city makes its own monsters faster than any syndicate or court. Here is the pattern, stamped in my head and written in chalk for those who need eyes more than ears, and here are the names of the pilots on the relief barge with the marks they carry on their wrists. If a masked hand touches a tiller during those three bells I will break that hand myself and tie it to the notice wall with the rope it tried to steal, and I will write that lesson in ash big enough for the moon to read. I will walk the quay while the drums speak, and I will stand on the bow when the barge noses out, and if the river tries to tell a different story I will argue it down with steel and cord. We do this clean, and afterward we can go back to arguing about which pocket pays for the next dawn."
+        },
+        {
+            "speaker": "Cord-Master Tavin Greel",
+            "lines": "We measure worth in Molden by who holds the rope when the knot turns, and by how many fingers a man keeps after the gates finish their sermon. My pilots will not run blind again and they will not carry blame for deaths minted by other people’s schedules, not while I can still smell a storm half a day ahead. A safety steward in every Engine shift-room remains our demand, even during a truce, and a narrow ceasefire cannot be a muzzle that makes us eat our own pride. But if the pattern you bring is honest, and if the Wardens keep their hands on their own hilts and not on our collars, we will move grain under the flags of saffron and ash as if those colors were a promise and not a wound. We will need a drum call that lets every quay rat know this is relief, not retreat, and I want it posted where even the river cannot pretend it did not see. Give us that, and we will knot a space in our anger for three bells so children can count loaves instead of boats."
+        },
+        {
+            "speaker": "Lysa Curren",
+            "lines": "Glass sings sweeter when bellies are not hollow, and I have learned that even the best pane cracks when a furnace burns on hunger and pride. My people can run a night furnace slow if there is bread in the morning, because a careful flame is still a flame and it remembers mercy better than ash. I will put my weight behind this ceasefire because any other tune will warp the windows and bend the light so it lies, and I am trying to keep a city’s sight true. But if the Veil slips a sootglass ingot into the Exchange during those bells, I will cut Jalen’s purse in court with a song that names every illegal sparkle and every debt dressed as charity. Bring back a clean drum pattern and I will echo it on the guild looms until even the moths know which hours mean peace and which hours mean payment."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Open-Quay Mediation",
+            "text": "You call a circle in plain sight beneath the Ropes and Knots Hall eaves, invite Tavin Greel and two senior pilots to stand opposite three Warden sergeants, and you plant the drum pattern between you like a shared oar. You speak until your voice roughens, not about laws or ledgers, but about boats that do not return and the way a city’s patience snaps when hunger is given a schedule. You insist the Wardens can keep their dignity by policing the edges while letting the center breathe, and the Compact can keep its pride by posting its own lookouts to swear the truce is honored. You make them repeat the whistle code after you, and you make them look at the names of the relief barge pilots as if names were knots that hold. You end by placing a buoy-stone on the pattern to bear witness, and you refuse to move until someone else adds weight. When the wind shifts, it feels like a gate opening somewhere in the city’s throat.",
+            "outcome": "The Wardens agree to stand at a respectful distance, and Aren Mir signs the moment with a nod that will count at Windward Bastion even if no paper does. The Salted Compact accepts the narrow ceasefire without losing face, because it was won aloud and in front of their dead rope, and the pilots tap the buoy-stone like a pledge. The relief barge passes under a watch of eyes instead of blades, and the river pretends it always intended to be gentle, and for once the Aur is believed. Jalen Sarq keeps the Veil quiet because the crowd would have noticed any slip, and his gratitude comes in the form of silence that stays bought. You gain the goodwill promised by the Compact, a leniency marker from Aren Mir, and a truce token from the Veil without hidden stains, and word spreads that you can braid rivals into a single rope long enough to cross a hard span."
+        },
+        {
+            "id": "C2",
+            "title": "Quiet Knots with the Veil",
+            "text": "You take Jalen aside into the underquay’s peeled shadow where the stone sweats and the river speaks in secret syllables, and you bargain like a pilot counting fathoms by touch. You promise him a clean window if he swears on the Ashmask Warrens that not a single ingot or black ledger will cross during the three bells, and you tell him you will break any hand that tries. You convince him to place two of his own to watch the watchers, not to threaten but to shame, because a man watched by his kin handles a tiller more carefully. You then carry the promise to Aren, asking for tolerance phrased as a drill exercise, and you let him believe that making allowance is itself an act of discipline. You keep the Compact in the center by telling them their boats will be the only motion that matters, and you do not let them see how the Veil’s breath is held in your fist. You end by writing the drum pattern in chalk where the tide will not take it, and you leave your own writ-token beside it like a bond pinned to the wood.",
+            "outcome": "The ceasefire holds, and the barge glides like a prayer under lips that refuse to move, and you can feel the city unclench for three measured bells. The Wardens grumble but obey Aren’s tolerance order, and though you see suspicion in their buckles you also see respect, the hard kind that keeps doors from slamming later. The Veil honors the truce because you knit their pride into it, and Jalen pockets his satisfaction the way a man pockets a warm stone against a cold morning. The Compact notes that you kept them central and unashamed, and two pilots mark your name into a knot as a favor owed, one they will tie when the river decides to be cruel again. Yet a rumor blooms that you dealt in shadows to keep the peace, and some day a lantern may swing your way and ask what you sold for silence; for now, the food moves, and the hunger recedes like a bad tide."
+        },
+        {
+            "id": "C3",
+            "title": "Bell-Writ Intervention",
+            "text": "You march up the Windward Steps and through Candlecourt’s measured air, and you ask Magistrate Vela Orun for a temporary writ that names mercy as a civic order for three bells. You speak the Red Flood like a password that grants sorrow and authority at once, and you lay the drum pattern on the Oath-well’s rim so the water can see it. You promise that the Wardens will not be humiliated because the writ will describe their stillness as a maneuver, and you promise the Compact that law is a shield this time and not a blade. You return to the quays with a wax-sealed order pinned to your cloak and a face set like a gatewheel, and even the river seems to count differently when a bell’s ink is carried by a man with rope scars. You call the circle and you let the writ speak first, and you hold your tongue until the murmurs tire themselves out against the iron of legal tone. When all is quiet, you tap the notice wall and tell the city that mercy can be commanded just this once so long as everyone remembers who asked for it and why.",
+            "outcome": "The ceasefire holds because it must, and the relief barge moves under the weight of law as much as under the power of arms, and the city eats because the bells said to. The Wardens stand easy behind the armor of the writ and keep their dignity like a polished lantern, and Aren gives you a look that says he will pay for this leniency in reports but he is glad to write them. The Compact’s pride bristles but cannot argue with food in children’s hands, and Tavin Greel turns the moment into a story that says Kade Orrel made the bells remember the quays for once. The Veil honors the truce because breaking a writ would burn more than their masks, but a thin line of resentment is drawn under your name in a ledger that prefers debts paid in darkness. Your rewards come as promised, but they sit differently in your pockets, and you feel how heavy a city’s peace can be when it has the court’s seal pressed into it like a thumb on a bruise."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Faction Goodwill - Salted Compact",
+            "description": "Assistance from two pilots in a future canal maneuver, earned as goodwill from the Salted Compact for keeping food moving without betraying their pride."
+        },
+        {
+            "type": "Wardens Leniency Marker",
+            "description": "A personal marker from Aren Mir that allows one checkpoint to be waved through, the sort of quiet mercy that is remembered in the Windward ledgers even if never spoken in parade."
+        },
+        {
+            "type": "Smoulder Veil Truce Token",
+            "description": "A limited promise of non-interference during one mission from the Smoulder Veil, honored so long as you do not turn their own knives against them or shame them before their masks."
+        }
+    ]
+}

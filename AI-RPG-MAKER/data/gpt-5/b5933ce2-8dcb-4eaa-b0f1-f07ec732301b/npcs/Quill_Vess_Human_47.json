@@ -1,0 +1,72 @@
+{
+    "name": "Quill",
+    "surname": "Vess",
+    "race": "Human",
+    "age": 47,
+    "appearance": "Angular features, ink-blue robes stitched with sluice-math; his left hand is a translucent prosthetic of water held in braided charms that ripple when he gestures.",
+    "character": "Precise, stoic, and pragmatic; compassion expressed as infrastructure and schedules rather than embraces.",
+    "traits": [
+        "Austere",
+        "Analytical",
+        "Relentless",
+        "Duty-bound"
+    ],
+    "skills": [
+        "Hydromancy",
+        "Engineering design",
+        "Chant-leading",
+        "Flood forecasting",
+        "Political calculus"
+    ],
+    "talents": [
+        "Listens to sluice-song as others hear music",
+        "One-handed water-shaping sigils",
+        "Eidetic recall of river levels by season"
+    ],
+    "flaws": [
+        "Emotionally distant",
+        "Manipulates timetables to win leverage",
+        "Loses memories to a private vow each flood season",
+        "Impatient with ceremony"
+    ],
+    "dreams": [
+        "Perfect flood control",
+        "Dredge and stabilize the Sunken Charterstone",
+        "Discover the unknown note one gate still answers to"
+    ],
+    "secrets": [
+        "Gave up memories of his first mentor to seal a pact with a river spirit",
+        "Keeps a hidden culvert map that could drain the island in hours",
+        "Uses clarity sap to patch his fading recollections"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sava Deren",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Mereth Tydel",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Brina Coil",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Iren Vask",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ollo Fen",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Rana Olt",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Thorek Brimvauld",
+            "relation_type": "Different goals"
+        }
+    ]
+}

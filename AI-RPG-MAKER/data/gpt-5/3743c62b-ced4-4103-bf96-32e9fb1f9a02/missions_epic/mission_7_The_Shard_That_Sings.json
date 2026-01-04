@@ -1,0 +1,76 @@
+{
+  "id": "7",
+  "title": "The Shard That Sings",
+  "quest_giver": {
+    "name": "Nalia Pree",
+    "affiliation": "Mirror Guild"
+  },
+  "description": "The Shattersea’s eastern shelf has begun to sing in a register that turns breath to frost and makes lantern flames lean toward the water as if listening. Lenses ground from the vein’s plates show slivered futures and fogged regrets, and kites flown above the meltpool tug toward winds whose footsteps are still a valley away. At dawn, on a ledge slick with salt dew and flecked obsidian dust, Nalia Pree has arranged a covert parley where the cliff face reflects your face in a hundred ripples, each with a different weather behind your eyes. She asks you, Lyris Kael, to bring the Cirrus Splitter Lens and the tripod with the softwood pads, because the stone hum cracks hard feet and warps unblessed metal. Erynn Sythar arrives hooded like a contraband prayer, equations stitched into the hem of their cloak, and the air around them smells of rain on copper. The Mirror Queen is rumored to rise where reflections are most honest, and the shelf today feels like a courtroom of water where truth is not negotiated but weighed. You must align lens and kite to the angle markers Nalia has chalked, hold position as the hum peaks and the glass draws a ten-knot predictive curve like a silver thread through a black loom, and then decide how to split what you catch so no single faction sails the city by the throat. The quarry hoists creak as crews change shifts above, Skyscribes argue auguries with lenswrights at the rim, and somewhere in the obsidian a note sustains so pure it could slice a lie into ribbons.",
+  "objectives": [
+    "Meet Nalia Pree and Erynn Sythar at the singing shelf of the Shattersea before sunrise.",
+    "Set the Cirrus Splitter Lens on its tripod and align with Nalia’s kite angle markers.",
+    "Hold position while the obsidian’s hum peaks and the lens reveals a ten-knot predictive curve.",
+    "Record the curve on oiled vellum and split copies between Nalia and Erynn without triggering Mirror Guild censure.",
+    "Depart through a quarry workers’ hoist as tensions spike between Skyscribes and lenswrights."
+  ],
+  "dialogue": [
+    {
+      "speaker": "Nalia Pree",
+      "lines": "When the air sings like this, it is either prophecy or madness, and sometimes both in a single breath that tastes of glass..."
+    },
+    {
+      "speaker": "Erynn Sythar",
+      "lines": "Prediction is a chain if you let it bind your ankles, and a sail if you tie it to the right wind with a knot you can release..."
+    },
+    {
+      "speaker": "Istel Shardwright",
+      "lines": "I should be jealous of a stone that sings better than I do, but envy is a grit that ruins polish..."
+    },
+    {
+      "speaker": "Lyris Kael",
+      "lines": "I will not be the city’s handmaiden or its knife, because both are used until they dull and then sold for scrap..."
+    }
+  ],
+  "choices": [
+    {
+      "id": "C1",
+      "title": "Stitch the sail, share the load",
+      "text": "You follow Erynn’s proposed apportionment with a precision that would make the Torsion Archives hum in agreement...",
+      "outcome": "Nalia accepts the third and sixth with the solemnity of a craft oath and thanks you with a cord charm whose bells ring courage rather than noise..."
+    },
+    {
+      "id": "C2",
+      "title": "Let the mirror lead, mask the wind",
+      "text": "You privilege the Mirror Guild’s handling without granting them command, presenting the third and sixth as polished gems...",
+      "outcome": "The Mirror Guild files a favorable note about your cooperation and extends an informal neutrality for future Shattersea work..."
+    },
+    {
+      "id": "C3",
+      "title": "Hide the heart, braid the edges",
+      "text": "You choose to hold the composite key in your own keeping, splitting the four positions as promised while braiding their contexts into a knot only you can unpick...",
+      "outcome": "Both factions hold the positions they sought, but neither can operationalize them without your final correction..."
+    }
+  ],
+  "connections": {
+    "previous": ["6"],
+    "next": ["8"]
+  },
+  "rewards": [
+    {
+      "type": "Key Item",
+      "description": "Ten-knot curve fragment containing positions 1, 3, 6, and 8, apportioned across allies to prevent unilateral control."
+    },
+    {
+      "type": "Charm",
+      "description": "Calming cord charm from Nalia Pree that steadies breath and resolve, reducing panic during high-wind checks."
+    },
+    {
+      "type": "Faction Pact",
+      "description": "Mirror Guild neutrality pact for one expedition at the Shattersea, reducing interference and inspections during fieldwork."
+    },
+    {
+      "type": "Cipher",
+      "description": "Erynn Sythar’s encrypted notation scheme for future equation drops, enabling secure transmission of predictive data."
+    }
+  ]
+}

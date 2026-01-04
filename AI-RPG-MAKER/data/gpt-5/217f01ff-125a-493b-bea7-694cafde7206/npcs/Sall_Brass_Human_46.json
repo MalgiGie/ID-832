@@ -1,0 +1,63 @@
+{
+    "name": "Sall",
+    "surname": "Brass",
+    "race": "Human",
+    "age": 46,
+    "appearance": "Lean woman with lantern-light freckles, a whisper-scar across her throat, and brass earrings shaped like shuttered lamps. Moves like fog slipping over railings.",
+    "character": "Soft-spoken and steel-nerved; prefers the knot cut clean to the throat cut messy.",
+    "traits": [
+        "patient",
+        "cunning",
+        "maternal toward crews",
+        "pragmatic"
+    ],
+    "skills": [
+        "smuggling logistics",
+        "covert signaling with brass lamps",
+        "blind auctions",
+        "rumor brokerage",
+        "escape route planning"
+    ],
+    "talents": [
+        "vanishes into crowds with a change of shadow",
+        "tunes lanterns by ear to signal codes",
+        "turns enemies into buyers with two sentences"
+    ],
+    "flaws": [
+        "superstitious about bells",
+        "avoids open fights even when needed",
+        "paranoid about betrayal"
+    ],
+    "dreams": [
+        "acquire an oath-lantern shard to compel clean promises in the dark",
+        "stabilize cavern routes beneath Moonhook for a generation",
+        "retire to a coast with no glass and no bells"
+    ],
+    "secrets": [
+        "keeps hush-debts on two Ledger masks that could split their cabal",
+        "once saved a Tidewarden child from a rip current and never told the mother",
+        "sits on the hidden court that arbitrates Syndicate disputes"
+    ],
+    "relations": [
+        {
+            "npc_name": "Kema Hookhand",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jath Pell",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Orven Caldris",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Miren Nine-Ropes",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Nhal Vessin",
+            "relation_type": "Different goals"
+        }
+    ]
+}

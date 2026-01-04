@@ -1,0 +1,40 @@
+{
+    "id": "M6",
+    "title": "The Quarries Remember",
+    "quest_giver": "Osk Talin",
+    "description": "Where the Echo Quarries open their throats, the city’s founders still argue about price in voices trapped by stone. Osk Talin, a keeper of resonant seams, asks you to descend into a blue-lit cistern where calcite grew around the first bargain struck with the fallen star. The legend says the Heliolith agreed to share its light if the city shared its water, a parity that ration law later interpreted and hardened. Harmonics here spiral, and one wrong shout collapses a decade of safety into a minute of dust. Pull the founders’ promise from the stone without letting the chamber answer with its own kind of law: cave-in.",
+    "objectives": [
+        "Use the Resonant Calcite Fork to locate the seam storing the founders’ bargain.",
+        "Cut a shaped block without triggering harmonic collapse.",
+        "Calm a swarm of blind salamanders drawn to vibration.",
+        "Debate Kael Orisborn over interpretation of the recovered bargain at the cistern rim."
+    ],
+    "dialogue": {
+        "quest_giver_to_hero": "Osk pats the quarry wall like a mule that’s worked for him longer than his knees. \"This pit knows how to store a promise. It also knows how to punish anyone who tries to edit one. You take too much, it takes back the ceiling. You sing too loud, it sings your epitaph. Fetch me a block that remembers the words before they were turned into edicts, and I’ll teach you how to make the Fork tell the truth even when you don’t want to hear it.\"",
+        "hero_reply": "Tallea wets her lips against quarry dust. \"I’ll cut soft and listen hard. If the founders bartered light for shared water, then every bypass valve is an offense, and every zealot who seals a spout to teach a lesson is, too. I don’t want a weapon. I want proof strong enough to make both thieves and martyrs blush.\"",
+        "npc_interjections": [
+            {
+                "name": "Kael Orisborn",
+                "line": "Kael stands with his hands behind his back like a steward’s statue. \"If the stone says share, it does not say ‘share foolishly.’ It does not say ‘drown in generosity.’ I will read any bargain you bring me, Tallea, but do not ask me to bow to a forest’s dream over a city’s thirst.\""
+            },
+            {
+                "name": "Meret Hal",
+                "line": "Meret’s voice carries down the shaft with the caution of someone who has buried friends. \"Bring it up whole or leave it. I will not spend miners for a metaphor. If the block teaches us anything that moves the needle, I will carry it into the Courts myself.\""
+            }
+        ],
+        "ambient": "The calcite wall sings when struck, a thin silver note. Beneath it, deeper, older, a bass resonance swells like a vow kept longer than anyone remembers why."
+    },
+    "connections": {
+        "previous": "M5",
+        "next": "M7",
+        "related": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        "Experience: 500",
+        "Founders’ Bargain Block (evidence item)",
+        "Reputation (Aquifer Collegium): +6",
+        "Upgraded Resonant Calcite Fork (precision +1)"
+    ]
+}

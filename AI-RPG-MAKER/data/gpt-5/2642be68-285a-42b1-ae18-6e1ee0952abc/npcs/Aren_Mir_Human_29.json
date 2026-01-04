@@ -1,0 +1,57 @@
+{
+    "name": "Aren",
+    "surname": "Mir",
+    "race": "Human",
+    "age": 29,
+    "appearance": "Hair dusted with glass slivers, thin callused hands, a humming reed-glass pendant at the throat.",
+    "character": "Shy but passionate about sound; words come easier when glass is singing.",
+    "traits": [
+        "meticulous",
+        "perfectionist",
+        "self-effacing"
+    ],
+    "skills": [
+        "kiln tuning",
+        "acoustic testing",
+        "glass thread weaving",
+        "singing-instrument craft"
+    ],
+    "talents": [
+        "perfect pitch",
+        "teaches glass to remember a tune",
+        "hears dissonance when someone lies near his work"
+    ],
+    "flaws": [
+        "careless with money",
+        "skips meals while working",
+        "avoids crowds and politics"
+    ],
+    "dreams": [
+        "present an aria-window in the Prism Citadel",
+        "craft armor that sings arrows wide",
+        "earn Matron Selya Thorn's approval with a masterwork"
+    ],
+    "secrets": [
+        "burns mothwax illegally in demos for sacred resonance",
+        "keeps sootglass shards to study forbidden tones",
+        "sheltered a Veil courier after a raid"
+    ],
+    "relations": [
+        {
+            "npc_name": "Lysa Curren",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Pesha Lume",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Mavek Dross",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Nelai Pruen",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

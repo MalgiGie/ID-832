@@ -1,0 +1,68 @@
+{
+    "name": "Tern",
+    "surname": "Quietwake",
+    "race": "Brineborn",
+    "age": 33,
+    "appearance": "Lean and long-limbed, hair braided with tiny shells; eyes distant as the trench; throat marked with listening sigils.",
+    "character": "Serene oracle who speaks in verses edged with warning; empathic yet guarded; believes truth is a tide, not a verdict.",
+    "traits": [
+        "cryptic",
+        "patient listener",
+        "austere",
+        "compassionate beneath reserve"
+    ],
+    "skills": [
+        "whalesong interpretation",
+        "diplomacy",
+        "free-diving",
+        "echo-stone tuning",
+        "ritual silence keeping"
+    ],
+    "talents": [
+        "perfect pitch underwater",
+        "hears lies as sour notes",
+        "remembers long sequences of tones flawlessly"
+    ],
+    "flaws": [
+        "aloof",
+        "communicates obliquely",
+        "willing to withhold clarity for safety",
+        "prone to migraines near metal bells"
+    ],
+    "dreams": [
+        "Decode the Tide Canticle safely",
+        "End the false chorus luring juveniles to nets",
+        "Keep the Thalassarium free from crude politics"
+    ],
+    "secrets": [
+        "Keeps a ledger of confessions caught in the Council’s tuning passage",
+        "Once canceled a harbor alarm tone to test a captain’s honesty",
+        "Knows a drowned passage to a breathing bell below the reef"
+    ],
+    "relations": [
+        {
+            "npc_name": "Asha Heliope",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ysger Thorn",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Tullis Nacrethane",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Mara Vell-Seren",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Neris Bonehook",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sirae Glowhand",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

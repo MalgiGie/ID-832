@@ -1,0 +1,43 @@
+{
+    "id": 3,
+    "title": "Rung Debts",
+    "quest_giver": "Keth of the Nets",
+    "description": "Keth of the Nets chooses a moonless night to remind Sere that debts climb faster than bone ladders. He meets her in the Ribsward Bazaar where eel-jars glow like captive stars and coded songs curl through the stalls ahead of tax collectors. Keth wants a small thing, a whisper packaged as a prayer, smuggled through a maintenance rung toward the Heartward Engine and tucked into a cracked conduit. In exchange he offers to loosen the knots binding her name to certain ledgers. But the prayer is no poem; it is a pulse pattern etched into glass designed to wake a gate that should stay sleeping.",
+    "objectives": [
+        "Meet Keth of the Nets at the Ribsward Bazaar and receive the sealed prayer-packet.",
+        "Trace the wax-sealed rib tunnel toward the Heartward Engine without attracting the Wardens.",
+        "Decide whether to plant the packet in the cracked conduit, destroy it, or alter the pattern with your stormglass shard.",
+        "Confront a Black Net lookout if discovered and leave no trail that leads back to your old Warden patrol."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Keth of the Nets",
+            "text": "Weigh your choices like salt, Sere, grain by grain, and then tell me you can afford to turn this one down. It is a nothing, a breath, a hush that needs to be carried where the city keeps its heartbeat. You do not even have to understand what you are carrying, and in truth it is safer for both of us if you do not. You owe coin and favors and memories, and I am offering you an eraser. Walk the rung, drop the whisper, and your mother never needs to feel the ache in her brace when it rains again."
+        },
+        {
+            "speaker": "Sere Kallin",
+            "text": "I have carried worse for better people and better for worse. Do not try to dress this as charity, Keth. You call it a whisper, but I have heard the Engine answer to the slightest song, and some melodies do not end with applause. If I carry this down there, it is because I would rather know where the knife is than feel it in my back, and because you would find a hungrier courier if I refused."
+        },
+        {
+            "speaker": "Isera Bent-Pike",
+            "text": "If I see you near the Engine on a night like this without a writ, I will not ask you friendly questions. I taught you that the first rule of the ribs is do not make them sing without orders. Whatever old debts you carry, bring them to me in daytime, not in eel-light and breath held thin. I am tired of pulling good names out of bad ledgers."
+        }
+    ],
+    "connections": {
+        "previous": [
+            2
+        ],
+        "next": [
+            4,
+            9
+        ],
+        "related": [
+            12
+        ]
+    },
+    "rewards": [
+        "A promise from Keth that removes your name from one smuggler ledger",
+        "Knowledge of a hidden rung path that bypasses a Warden checkpoint",
+        "If the packet is altered: a revised pulse pattern that can open a lesser water gate once"
+    ]
+}

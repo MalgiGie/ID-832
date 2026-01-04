@@ -1,0 +1,68 @@
+{
+    "name": "Oaric",
+    "surname": "Bent",
+    "race": "Human",
+    "age": 61,
+    "appearance": "Tall, rope-muscled, with silvered hair braided in tide-knots; coat stitched with brass fish-scale plates; hands stained with brine glyph ink.",
+    "character": "Grave engineer-priest who treats water like a liturgy; protective of crews and codes; speaks in measured, tidal metaphors.",
+    "traits": [
+        "methodical",
+        "severe",
+        "protective",
+        "ritualistic about maintenance"
+    ],
+    "skills": [
+        "hydromechanics",
+        "bonecraft joinery",
+        "brine glyph matrices",
+        "crew leadership",
+        "disaster modeling"
+    ],
+    "talents": [
+        "hears the ‘mood’ of water through stone",
+        "remembers geartrains by touch",
+        "works without sleep in tight cycles"
+    ],
+    "flaws": [
+        "controlling",
+        "secretive",
+        "inflexible when challenged publicly",
+        "politically blunt"
+    ],
+    "dreams": [
+        "Codify Tidemason autonomy in law",
+        "Extend causeways and secure new siphon rights at Saltfang Geysers",
+        "Engineer a safe way to ‘walk’ the city a pace someday"
+    ],
+    "secrets": [
+        "Knows the harmonics to prime a hidden bypass beneath Spine Market",
+        "Once throttled flow to a warehouse row to win a vote, then restored it before dawn",
+        "Keeps a private copy of old designs the Tongues asked to burn"
+    ],
+    "relations": [
+        {
+            "npc_name": "Arno Kest",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Asha Heliope",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Tullis Nacrethane",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Ysger Thorn",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Rusk Bonebinder",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Mara Vell-Seren",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

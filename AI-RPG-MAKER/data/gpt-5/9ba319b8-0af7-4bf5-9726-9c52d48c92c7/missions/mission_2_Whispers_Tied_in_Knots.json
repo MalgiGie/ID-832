@@ -1,0 +1,55 @@
+{
+    "id": 2,
+    "title": "Whispers Tied in Knots",
+    "quest_giver": "Serene Khel",
+    "description": "The Whisperfen upriver drinks sound and memory. Serene tasks Raithe to accompany Tallen Quill, a vow-scribe with ink that glows when truth is near, to meet the ferryman Keth Borrowed-Tongue. House Veyron’s marriage oath is whispered to be altered—its true clause might still float in the marsh’s borrowed voices. The river narrows and the reeds begin to listen; bog-lights mimic lantern codes, trying to lure skiffs into drinking pools. Keth poles a narrow boat through blackwater, speaking only in other people’s words, while white egrets stitch pale threads across the sky. The marsh remembers many nights; Raithe must persuade it to replay the right one without it swallowing his own past in payment.",
+    "objectives": [
+        "Find Keth Borrowed-Tongue at the Whisperfen’s outlanding and secure passage.",
+        "Use knot-charms to bind a question into the reeds: the night of House Veyron’s marriage contract.",
+        "Defend Tallen Quill from thought-leeches and false lantern codes while the fen replays the memory.",
+        "Retrieve a memory-knot charm that preserves the unaltered clause."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Keth Borrowed-Tongue",
+            "line": "‘Greetings, honored travelers. Mind your hands, they will be bitten by the past if they hang over the gunwales.’ That is what the last ferryman said, and I keep his words. ‘You are searching for a night that changed a house and a city; the fen drank it gladly.’ But you must promise it something it cannot spit back to you, or it will ask for your very first lullaby."
+        },
+        {
+            "speaker": "Tallen Quill",
+            "line": "My ink warms when a falsehood passes near; if we can coax the fen to unspool the vow, I can write its true teeth onto unburnable parchment. But I am no fighter, Raithe. Keep the bog-lights out of my eyes and the leeches off my throat, and I will keep my scratch straight."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "line": "I’ve bled on cobbles and on chain, scribe, and I’ll bleed on peat if I must. Keth, I will not feed the marsh my name or my mother’s song. Bind this question to my knot-ring instead and let the fen taste brass if it wants payment. If it speaks with my father’s voice, I’ll hold fast."
+        },
+        {
+            "speaker": "Serene Khel",
+            "line": "Do not wrestle the past, only invite it. The fen may echo a night when a prince said one thing and meant another, and my Order will need that echo to be set before the Parliament. Tie your courage as you tie your knots: firm, but not strangling."
+        }
+    ],
+    "connections": {
+        "previous": [
+            1
+        ],
+        "next": [
+            3
+        ],
+        "related": [
+            8
+        ]
+    },
+    "rewards": {
+        "items": [
+            "Memory-knot charm bearing the true clause",
+            "Reed-paper writ authorizing testimony at the Glass Parliament"
+        ],
+        "coin": 35,
+        "faction": {
+            "name": "Order of Mnemos",
+            "favor": "One sealed question may be posed in a future rite without tithe of days."
+        },
+        "unlock": [
+            "Keth’s private channels through the Whisperfen for future travel."
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": "M1",
+    "title": "Harmonics Under the Ribs",
+    "quest_giver": "Lysa Truin",
+    "description": "Archivist Lysa Truin summons Iriel Vask to the Pale Collegium’s shadowed reading theater, where ribs carved into the lecture ceiling hum with the bell’s distant overtones. Anxious notes detail a growing disharmony between the Cathedral of the Third Rib’s funerary wards and the First Rib Sluiceworks’ pressure cadence, as if oath and water have fallen out of step. Lysa believes the city is carrying a hidden strain, a stress line running from prayer to gate, and only someone who can hear both bone and promise might map it. She bids Iriel to take the fourth-rib bone flute and the resonant star-glass forks into the city’s breath, listening at dawn and dusk where the hum is honest, and to mark any frost-script that appears on the Sternum Plaza tiles. As the Collegium bells calm the courtyards, the archivist’s gaze lingers on the bone beads in Iriel’s hair; beneath the mentor’s steady professionalism is real fear that the city’s old song is slipping.",
+    "objectives": [
+        "Sound the Fourth-Rib Bone Flute at dawn beneath the Cathedral of the Third Rib and record harmonic deviations.",
+        "Use the Resonant Star-Glass Forks to test gate cadence at the First Rib Sluiceworks with Suri Yal’s supervision.",
+        "Visit Sternum Plaza at dusk and check the central inlay for frost-script whispers related to flow or oaths.",
+        "Report findings to Lysa Truin at the Pale Collegium."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lysa Truin",
+            "line": "The city is an instrument, Iriel, and of late it will not hold tune. The reliquary wards sustain a low C of consolation, yet the sluice gates throb in a fretful F that grates the teeth and rattles the ledger cords in their frames. I want your ears on both bones and bearings. Go where oaths and water meet, listen with care at dawn and dusk, and bring me not just measurements but the truth your marrow hears between them. If the ribs begin to creak against each other, the Seven Ribs will not hold us long."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "I’ll follow the hum from altar to gate and mark any seam where it slips. The flute still answers the ribs if I breathe slow, and the forks sing true when glass is honest. If there is a fracture line between prayer and pressure, I’ll trace it to its edges. And if I hear anything with teeth, I’ll step carefully and send word."
+        },
+        {
+            "speaker": "Suri Yal",
+            "line": "You can have my watch at the crown of Gate Three at dusk, but touch the bearings only when I say and don’t make a sermon of my sluice charts. The river’s silence hears our names when the water runs fast, and it mislikes scholars more than I do. Hum your notes, tap your forks, and if the song goes wrong, we close the gates and blame the wind."
+        },
+        {
+            "speaker": "Brother Halin",
+            "line": "Sternum Plaza is neutral ground so long as the oaths hold. If frost takes your whisper, know that it bites truth as easily as gossip, and it marks those named whether they wish it or not. Kneel at the central tile when the lanterns gutter and speak softly, or you’ll have every debt-singer in the Fifth Rib reading your breath at dawn."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": {
+        "experience": 200,
+        "items": [
+            "Collegium Letter of Field Study",
+            "Bottle of Bone Ink"
+        ],
+        "currency": {
+            "chits": 12
+        },
+        "reputation": {
+            "Pale Collegium": 2,
+            "Order of the Third Rib": 1
+        }
+    }
+}

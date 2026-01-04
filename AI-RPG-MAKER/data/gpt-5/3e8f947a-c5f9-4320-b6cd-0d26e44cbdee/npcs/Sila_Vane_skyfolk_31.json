@@ -1,0 +1,59 @@
+{
+    "name": "Sila",
+    "surname": "Vane",
+    "race": "skyfolk",
+    "age": 31,
+    "appearance": "Sun-browned with wind-curled hair and ropes of rook feathers on one wrist. Jacket sewn with lightning scorch kisses. A steady gaze like the horizon.",
+    "character": "Daring and dry-witted, loyal to crew before guild. Prefers open air to closed rooms and action to argument.",
+    "traits": [
+        "restless feet",
+        "chews wind-kelp strands",
+        "keeps a pocket rook-charm",
+        "sings under breath when banking"
+    ],
+    "skills": [
+        "kite-sailing and docking",
+        "thermal reading",
+        "signal kites and code",
+        "rescue rigging under gust shear"
+    ],
+    "talents": [
+        "preternatural balance on rib-edges",
+        "feels wind shifts a heartbeat early"
+    ],
+    "flaws": [
+        "disdainful of ground politics",
+        "impatient with delays",
+        "takes risks to prove a point"
+    ],
+    "dreams": [
+        "Lead a lightning-rider expedition rumored hidden at the Aerie",
+        "Secure pilots’ independence from Syndicate tariffs"
+    ],
+    "secrets": [
+        "Once ferried a Night-Glass package past a Watch checkpoint for coin and a favor",
+        "Keeps a rook with a mirrored eye hidden in her locker"
+    ],
+    "relations": [
+        {
+            "npc_name": "First Rook Jey Olt",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Factor Orun Ves",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Isha Velroon",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Murne Glass-Eater",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Talekan Yss",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

@@ -1,0 +1,357 @@
+[
+    {
+        "from": "Kema Hookhand",
+        "to": "Sera Flintline",
+        "type": "Alliance"
+    },
+    {
+        "from": "Kema Hookhand",
+        "to": "Sall Brass",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Kema Hookhand",
+        "to": "Jath Pell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Kema Hookhand",
+        "to": "Orven Caldris",
+        "type": "Conflict"
+    },
+    {
+        "from": "Kema Hookhand",
+        "to": "Nhal Vessin",
+        "type": "Different goals"
+    },
+    {
+        "from": "Kema Hookhand",
+        "to": "Rae Fen",
+        "type": "Friendship"
+    },
+    {
+        "from": "Jath Pell",
+        "to": "Miren Nine-Ropes",
+        "type": "Friendship"
+    },
+    {
+        "from": "Jath Pell",
+        "to": "Kema Hookhand",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Jath Pell",
+        "to": "Orven Caldris",
+        "type": "Alliance"
+    },
+    {
+        "from": "Jath Pell",
+        "to": "Sall Brass",
+        "type": "Hostility"
+    },
+    {
+        "from": "Jath Pell",
+        "to": "Nhal Vessin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jath Pell",
+        "to": "Arla Third-Tone",
+        "type": "Alliance"
+    },
+    {
+        "from": "Jath Pell",
+        "to": "Shunn Rippleborne",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Kelen Prism",
+        "to": "Dorn Rigger",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Kelen Prism",
+        "to": "Orven Caldris",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Kelen Prism",
+        "to": "Nhal Vessin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Kelen Prism",
+        "to": "Miren Nine-Ropes",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Kelen Prism",
+        "to": "Sera Flintline",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sera Flintline",
+        "to": "Kema Hookhand",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sera Flintline",
+        "to": "Ys Hul",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sera Flintline",
+        "to": "Orven Caldris",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sera Flintline",
+        "to": "Kelen Prism",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sera Flintline",
+        "to": "Dorn Rigger",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ys Hul",
+        "to": "Shunn Rippleborne",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ys Hul",
+        "to": "Sera Flintline",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ys Hul",
+        "to": "Orven Caldris",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ys Hul",
+        "to": "Rae Fen",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ys Hul",
+        "to": "Nhal Vessin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Orven Caldris",
+        "to": "Jath Pell",
+        "type": "Alliance"
+    },
+    {
+        "from": "Orven Caldris",
+        "to": "Kema Hookhand",
+        "type": "Conflict"
+    },
+    {
+        "from": "Orven Caldris",
+        "to": "Sera Flintline",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Orven Caldris",
+        "to": "Sall Brass",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Orven Caldris",
+        "to": "Nhal Vessin",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Orven Caldris",
+        "to": "Kelen Prism",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Orven Caldris",
+        "to": "Rae Fen",
+        "type": "Hostility"
+    },
+    {
+        "from": "Orven Caldris",
+        "to": "Dorn Rigger",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sall Brass",
+        "to": "Kema Hookhand",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sall Brass",
+        "to": "Jath Pell",
+        "type": "Hostility"
+    },
+    {
+        "from": "Sall Brass",
+        "to": "Orven Caldris",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sall Brass",
+        "to": "Miren Nine-Ropes",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sall Brass",
+        "to": "Nhal Vessin",
+        "type": "Different goals"
+    },
+    {
+        "from": "Nhal Vessin",
+        "to": "Arla Third-Tone",
+        "type": "Friendship"
+    },
+    {
+        "from": "Nhal Vessin",
+        "to": "Jath Pell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nhal Vessin",
+        "to": "Orven Caldris",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Nhal Vessin",
+        "to": "Ys Hul",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nhal Vessin",
+        "to": "Kelen Prism",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nhal Vessin",
+        "to": "Kema Hookhand",
+        "type": "Different goals"
+    },
+    {
+        "from": "Arla Third-Tone",
+        "to": "Nhal Vessin",
+        "type": "Friendship"
+    },
+    {
+        "from": "Arla Third-Tone",
+        "to": "Miren Nine-Ropes",
+        "type": "Friendship"
+    },
+    {
+        "from": "Arla Third-Tone",
+        "to": "Jath Pell",
+        "type": "Alliance"
+    },
+    {
+        "from": "Arla Third-Tone",
+        "to": "Orven Caldris",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Arla Third-Tone",
+        "to": "Sall Brass",
+        "type": "Conflict"
+    },
+    {
+        "from": "Shunn Rippleborne",
+        "to": "Ys Hul",
+        "type": "Alliance"
+    },
+    {
+        "from": "Shunn Rippleborne",
+        "to": "Nhal Vessin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Shunn Rippleborne",
+        "to": "Orven Caldris",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Shunn Rippleborne",
+        "to": "Rae Fen",
+        "type": "Friendship"
+    },
+    {
+        "from": "Shunn Rippleborne",
+        "to": "Jath Pell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rae Fen",
+        "to": "Ys Hul",
+        "type": "Friendship"
+    },
+    {
+        "from": "Rae Fen",
+        "to": "Shunn Rippleborne",
+        "type": "Friendship"
+    },
+    {
+        "from": "Rae Fen",
+        "to": "Miren Nine-Ropes",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rae Fen",
+        "to": "Kema Hookhand",
+        "type": "Friendship"
+    },
+    {
+        "from": "Rae Fen",
+        "to": "Orven Caldris",
+        "type": "Hostility"
+    },
+    {
+        "from": "Miren Nine-Ropes",
+        "to": "Jath Pell",
+        "type": "Friendship"
+    },
+    {
+        "from": "Miren Nine-Ropes",
+        "to": "Arla Third-Tone",
+        "type": "Friendship"
+    },
+    {
+        "from": "Miren Nine-Ropes",
+        "to": "Sall Brass",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Miren Nine-Ropes",
+        "to": "Rae Fen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Miren Nine-Ropes",
+        "to": "Kelen Prism",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Dorn Rigger",
+        "to": "Kelen Prism",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Dorn Rigger",
+        "to": "Orven Caldris",
+        "type": "Different goals"
+    },
+    {
+        "from": "Dorn Rigger",
+        "to": "Nhal Vessin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Dorn Rigger",
+        "to": "Sera Flintline",
+        "type": "Cooperation"
+    }
+]

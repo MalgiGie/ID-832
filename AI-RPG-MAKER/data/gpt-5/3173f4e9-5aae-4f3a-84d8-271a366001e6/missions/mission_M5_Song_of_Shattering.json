@@ -1,0 +1,43 @@
+{
+    "id": "M5",
+    "title": "Song of Shattering",
+    "quest_giver": "Inspector Kessa Tharn (convalescent, speaking through Sera Dake)",
+    "description": "The Foundry-Kilns glow like banked suns, breathing salt-ash and promise. On the test-wall where Bonewrights hammer new plates ‘to song,’ Aerin arranges a sanctioned demonstration with Sera Dake and Gor Relk. The resonant tiles, pale and subtly grooved, hum sweet when struck—and then too sweet, overtone climbing until plates squeal and microfractures creep like frost. Gor Relk’s jaw hardens; it is his crews who ride the chains, his dead who swung off cables cut by scored sheaths. He hates the Lanterns for the moth-marks and Aerin for the emergency drop that cost him face, but he hates bad craft worse. The demonstration makes clear how a few tiles, placed just so along a curve, could turn the ribs against themselves under gale pressure. The quiet conclusion: Danka Suth did not act alone. Someone wealthy enough to buy eel-skin silver, bold enough to manipulate foundry requisitions, cunning enough to mark moth-wings under a chainwalk.",
+    "objectives": [
+        "Acquire a sample of the experimental resonant tiles under Conclave supervision.",
+        "Set up and conduct the test-wall demonstration with Sera Dake and Gor Relk present.",
+        "Document how overtone climbs when tiles are aligned along a curve; secure fragments as evidence.",
+        "Win begrudging permission from Gor Relk to inspect Chainhouse catwalks for similar placement."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Gor Relk",
+            "line": "If you’re about to ask me to care what a plate sings, remember that three of mine went down screaming when a cable gave like wet rope. Show me something I can hold, Rell, not another prayer."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "You’ll hear it first, then see it crack. These tiles hum pretty until you set them along a curve. Then the song climbs like a blade and the wall answers with spider-veins. It’s not a prayer, Gor. It’s a trap set to spring when the wind rises."
+        },
+        {
+            "speaker": "Sera Dake",
+            "line": "We dreamed of resonance that would steady the bones, and we woke to a weapon. That is on me. This is what happens when work outruns wisdom. We will not hide this."
+        },
+        {
+            "speaker": "Gor Relk",
+            "line": "Fine. You have my grudging, gods-cursed permission to crawl my catwalks and sniff my bolts. If I find a single moth mark you dismiss, I’ll wrap it round your striker hand and make you listen to it break."
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "I’ll crawl, and I’ll listen, and I’ll bring back what I find. And if it points to your house, I’ll not flinch. If it points elsewhere, neither will you."
+        }
+    ],
+    "connections": {
+        "previous": "M4",
+        "next": "M6"
+    },
+    "rewards": [
+        "Rafter Guild catwalk access chit and a chainmaster’s whistle for emergency crew summons.",
+        "Resonant tile fragments logged as evidence with Vigil stamps.",
+        "Improved standing with Bonewrights for transparent exposure of a failed experiment."
+    ]
+}

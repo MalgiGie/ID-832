@@ -1,0 +1,60 @@
+{
+    "name": "Edris",
+    "surname": "Thale",
+    "race": "Human",
+    "age": 61,
+    "appearance": "Gaunt with ash-grey beard, white reliquary cords at the waist, carries a ring of bone keys and a travel-worn prayerbook.",
+    "character": "Compassionate but unyielding where the dead are concerned.",
+    "traits": [
+        "pious",
+        "meticulous",
+        "empathetic",
+        "unyielding"
+    ],
+    "skills": [
+        "funerary law",
+        "rhetoric",
+        "warding sigils",
+        "diplomacy"
+    ],
+    "talents": [
+        "calms crowds with measured tone",
+        "senses sacrilege in a room"
+    ],
+    "flaws": [
+        "self-righteous",
+        "suspicious of industry",
+        "sleepless when the bones hum"
+    ],
+    "dreams": [
+        "reconcile craft guilds with funerary ethics",
+        "strengthen the Accords of Quiet Dust",
+        "silence the Hollow Pilgrims without bloodshed"
+    ],
+    "secrets": [
+        "Illicitly used a pacifying sigil during a riot to avert bloodshed",
+        "Records whispers from the River of No Echo despite taboo and hides them under the altar"
+    ],
+    "relations": [
+        {
+            "npc_name": "Jull Nerr",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Marek Sol",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Avar Ir",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Brunna Coil",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sereth Vex",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

@@ -1,0 +1,758 @@
+{
+    "city": "Thyssara, the City of Glass Reeds, rises in tiered shelves of prismstone where the River Aur breaks into canals and shines into the Shardmere. The city is latticed with footbridges, wind-stilled alleys, and reed-choked sluices; its quays ring with the soft song of tempered glass and the creak of rope as pilots edge barges between floodgates. Architecture favors stilted foundations with glassbrick facing that glows when the moth-lamps are lit; light is colored, pooled, and traded like spice. Districts braid around water and height: Molden Quays for hard labor and pilots; Gilded Sluice for mechanics and money; Windward Steps for militia and sky-skiffs; Candlecourt for law and scribes; Quiet Walks for monasteries and archives; Reedgate for harvesters and furnace-clans. \nThyssara was founded 317 years ago by river refugees following the Starfall War, anchored around an ancient Prism Spire that bends daylight for leagues. The city thrived on two miracles: the glassreeds of the Shardmere, whose silica-laced stalks smelt into singing glass, and the Tide-Engine that mastered the Aur's floods. The Tide-Engine was raised 142 years ago by the Tidewrights Consortium, bringing prosperity and a rigid schedule to river life. Sixty-three years ago the Red Flood tore through Molden Quays when an unvetted gearline jammed; the resulting riot burned half of Gilded Sluice. Last winter a bloom of white moths cocooned the Prism Spire, a phenomenon locals call the Moth Ascension; the Order of Moths says it was a warning from the night. \nLegends are cobbled into law and commerce. It is said the city's founders bargained with the Reedmother, a spirit of the lake, trading moonlight for safe harvests. The third bell at dawn is never rung on Flood-Binding Day, lest the drowned crown rise from the Shardmere to claim its tax. Some claim the Prism Spire is not a tower but the splinter of a fallen skybridge, with a mind of its own; when it hums in the heat, pilots lash their boats to stone and pray. \nThyssara depends on the Shardmere beds for glass, the upland Gallowhill mills for flour and gear grinding, saffron caravans across the Ember Dunes to perfume its trade and preserve its food, and the Salted Compact's pilots to thread storm and silt. The city's defense, water, and winter firewood all pivot on the Tide-Engine schedule. Its libraries and night faith hinge on the Order of Moths, who tend the silent gardens where memory-moths are bred. \nConflicts bite like cold reeds. The Guild of Glassreed Weavers resents the Tidewrights' fees for gate passage and seeks a new compact with the Reedmother to break dependence on floodworks. The Lantern Court, keepers of civic law, tries to rein in both without losing face to the Wardens of the Windward, whose skiffs and aeries hold the sky. The Smoulder Veil smuggles raw reed and illegal sootglass through the Obsidian Fen, undermining taxes and burning secrets in their ashmasks. The Salted Compact, pilots and dockfolk, flex their strength with strikes at the quays when squeezed by any of the above. Beyond the walls, star-born ruins tug at minds; within, the city's bells mark not only time but who holds it.",
+    "surroundings": [
+        {
+            "name": "Shardmere Glassreed Beds",
+            "type": "lake and reedbeds",
+            "distance": "1-3 leagues",
+            "direction": "east and southeast",
+            "description": "A shallow, glittering expanse where silica-rich reeds grow in wavering green-blue rows. Channels are cut and re-cut as the beds shift; floating hearths anchor smelter-barges at night. The water is fresh but sharp with mineral dust, and the wind carries a constant chime as stalks brush.",
+            "legend": "The Reedmother dwells beneath an island that appears only under a sliver moon. Fisher-pilots whisper that she braided the first glassreed from a sigh of the Prism Spire and a tear of the drowned crown. If angered, she knots the channels so boats circle until dawn.",
+            "hooks": [
+                "A harvest barge vanished on a moonless night, its lanterns found burned out, glass-melt still warm.",
+                "A rare black-glass reed has emerged in a forbidden cove; its song cracks lesser glass."
+            ],
+            "connected_factions": [
+                "Guild of Glassreed Weavers",
+                "Salted Compact",
+                "Wardens of the Windward"
+            ],
+            "related_buildings": [
+                "Glass Hall of Weavers",
+                "Ropes and Knots Hall",
+                "Windward Bastion"
+            ]
+        },
+        {
+            "name": "Starfall Scar",
+            "type": "crater valley",
+            "distance": "6 leagues",
+            "direction": "northwest",
+            "description": "A splintered vale where a fragment of a sky-city tore the earth and fused stone to glass. Shards jut like frozen waves. The center holds a silent bowl of fused sand that glows faintly at night, and echoes there repeat in reverse.",
+            "legend": "Old accounts say a city sailed the night and fell here when its bridge was cut. The Scar is a mouth that remembers names; speak your own and, it is said, the Scar keeps it until your last day is done.",
+            "hooks": [
+                "The Order of Moths requests protection while sealing a lightwell that opens every new moon.",
+                "Lantern Court surveyors vanished after finding a staircase of fused light under a shard-shelf."
+            ],
+            "connected_factions": [
+                "Order of Moths",
+                "Lantern Court",
+                "Wardens of the Windward"
+            ],
+            "related_buildings": [
+                "House of Quiet Wings",
+                "Archive of Unnamed Days",
+                "Hall of Lanterns"
+            ]
+        },
+        {
+            "name": "Obsidian Fen",
+            "type": "bog and peatland",
+            "distance": "4 leagues",
+            "direction": "south",
+            "description": "A blackwater fen studded with glassy pumice hummocks and rust-eaten furnaces abandoned after tax crackdowns. Moor-lights bob over tar-still pools, and the peat cuts like slate.",
+            "legend": "A witch-mirror lies beneath the fen that shows not faces but debts unpaid. Those who gaze into the water owe a night to the Veil, willingly or not.",
+            "hooks": [
+                "Masked burners plan to rekindle a forbidden sootglass kiln in a drowned bell-tower.",
+                "A peatcutter claims to have found lily-pads made of mirrorglass that whisper their finders' lies."
+            ],
+            "connected_factions": [
+                "Smoulder Veil",
+                "Lantern Court"
+            ],
+            "related_buildings": [
+                "Ashmask Warrens",
+                "Hall of Lanterns"
+            ]
+        },
+        {
+            "name": "Gallowhill Windmills",
+            "type": "upland mills",
+            "distance": "5 leagues",
+            "direction": "west",
+            "description": "A ridge of constant winds where tall mills grind grain and gear-teeth. Creaking arms turn day and night, and the hill's undercroft hides transmission shafts that once powered remote workshops.",
+            "legend": "The Headless Miller walks in fog, straightening bent vanes and untying ropes that have hanged innocents. Those who see him never fall from a height in Thyssara; those who mock him break a limb within a fortnight.",
+            "hooks": [
+                "The Tidewrights want to reconnect a buried shaft to the Tide-Engine; locals fear it will wake the hill.",
+                "Grain has gone missing in transit; footprints end at the edge of a turning shadow."
+            ],
+            "connected_factions": [
+                "Tidewrights Consortium",
+                "Wardens of the Windward"
+            ],
+            "related_buildings": [
+                "Tide-Engine House",
+                "Windward Bastion"
+            ]
+        },
+        {
+            "name": "Farsong Monastery Ruins",
+            "type": "cliffside ruin",
+            "distance": "7 leagues",
+            "direction": "northeast",
+            "description": "A half-fallen cloister perched on a limestone cliff. Wind pipes carved by ascetics turn storm into music; the lower cells hold frescoes of moths and bells. The sea can be seen on the clearest days as a line of iron-blue.",
+            "legend": "Keeper Thalen, last abbot, is said to have caught the song of a falling star in a clay jar. When the jar is opened, time in Thyssara skips a heartbeat.",
+            "hooks": [
+                "The Archive seeks the monastery's bell-chart to decode a palimpsest in the city.",
+                "A cave behind an organ pipe exhales warm air and carries whispers of a market with no dawn."
+            ],
+            "connected_factions": [
+                "Order of Moths",
+                "Lantern Court"
+            ],
+            "related_buildings": [
+                "Archive of Unnamed Days",
+                "House of Quiet Wings",
+                "Hall of Lanterns"
+            ]
+        },
+        {
+            "name": "Ember Dunes",
+            "type": "glass-sand desert",
+            "distance": "10-14 leagues",
+            "direction": "southwest",
+            "description": "Rolling dunes of red-gold sand where noon heat sings and nights cut like knives. Caravan paths shift; travelers navigate by the resonant hum of buried glass veins. Saffron farms cling to oases inside glass-walled gardens.",
+            "legend": "A Singing Titan wanders beneath the sand, its bones pure crystal. When it turns, the dunes ripple like water and the air smells of cinnamon. The Titan hates iron and will not rise for thieves.",
+            "hooks": [
+                "A saffron syndicate has lost three wagons to mirage-bandits who vanish into a dune that was not there yesterday.",
+                "Wardens report a storm that spits green lightning toward the city; Tidewrights want samples."
+            ],
+            "connected_factions": [
+                "Wardens of the Windward",
+                "Guild of Glassreed Weavers",
+                "Tidewrights Consortium"
+            ],
+            "related_buildings": [
+                "Saffron Exchange",
+                "Windward Bastion",
+                "Tide-Engine House"
+            ]
+        },
+        {
+            "name": "Skybridge Ruins",
+            "type": "ancient arch remains",
+            "distance": "3 leagues",
+            "direction": "north",
+            "description": "Ribbed fragments of an arch that once spanned the valley, now jutting from the ground like the bones of a giant. Lines etched into the stone catch starlight and bleed it away at dawn.",
+            "legend": "Star-Sailors moored their city to this bridge and taught moth-keepers to read the dark. When the tether was cut, the bridge wept dust for a year and the first Lantern was lit.",
+            "hooks": [
+                "A caravan guide claims to have found a still-bright runecap; the Lantern Court wants it declared public treasure.",
+                "The Order of Moths seeks to map the bridge's star-etchings before vandals chip souvenirs."
+            ],
+            "connected_factions": [
+                "Wardens of the Windward",
+                "Tidewrights Consortium",
+                "Order of Moths"
+            ],
+            "related_buildings": [
+                "Windward Bastion",
+                "Tide-Engine House",
+                "House of Quiet Wings"
+            ]
+        }
+    ],
+    "buildings": [
+        {
+            "name": "Prism Citadel",
+            "type": "civic fortress",
+            "district": "Windward Steps",
+            "description": "A wedge of gleaming prismstone fused to the ancient Spire, its terraces bristling with signal-banners and law-bells. The Citadel catches dawn and throws it down the canals, waking the city with ribbons of light.",
+            "history": "Raised around the Prism Spire in the first century of Thyssara, rebuilt after the Red Flood riots to withstand siege and water. Its lower vaults predate the city and hum in dry heat during eclipses.",
+            "features": [
+                "Light-chambers that bend sun for coded signals",
+                "A bell-frieze tuned to five legal tones",
+                "A dry-bridge that seals to isolate Candlecourt in emergencies"
+            ],
+            "controlled_by": [
+                "Lantern Court"
+            ],
+            "notable_people": [
+                {
+                    "name": "Magistrate Vela Orun",
+                    "role": "Chief of the Lantern Court",
+                    "notes": "Balances guild bribes against civic needs; rumored to keep a moth in a lamp with no flame."
+                },
+                {
+                    "name": "Banner-Keeper Jir Hel",
+                    "role": "Signal master",
+                    "notes": "Can read twenty flag-codes at once; missing the smallest finger on each hand by tradition."
+                }
+            ],
+            "secrets": [
+                "A sealed lightwell beneath the Spire opens on new moons; Order of Moths tends it in guarded rites.",
+                "An old treaty vault contains the original Reedmother pact, written on reed-pith that never decays."
+            ],
+            "related_to": [
+                "Hall of Lanterns",
+                "House of Quiet Wings",
+                "Lantern Court"
+            ]
+        },
+        {
+            "name": "Tide-Engine House",
+            "type": "hydraulic engineworks",
+            "district": "Gilded Sluice",
+            "description": "A cathedral of gear and chain where the Aur's push is caged. Bronze gate-flowers open and close with precision; floor dials tick; steam whispers in winter; oil and incense mingle in the air.",
+            "history": "Completed 142 years ago using salvaged sky-bridge alloys and upland gearwork. The first master drowned christening the ninth gate. Red Flood reforms added a redundant lock the Tidewrights still resent.",
+            "features": [
+                "Nine primary floodgates and a tenth 'thief's gate' for emergency bleed-off",
+                "Gauge-board that reads the river a day ahead by listening to groundwater",
+                "Underfloor shaft that once linked to Gallowhill, currently bricked"
+            ],
+            "controlled_by": [
+                "Tidewrights Consortium"
+            ],
+            "notable_people": [
+                {
+                    "name": "Master Helvar Kint",
+                    "role": "Guild engineer",
+                    "notes": "Keeps a model of the river that drips on its own schedule; distrusts mothlight."
+                },
+                {
+                    "name": "Gate-Mistress Ruli Saan",
+                    "role": "Shift captain",
+                    "notes": "Saved a barge crew by flooding the thief's gate; under quiet censure."
+                }
+            ],
+            "secrets": [
+                "A shadow account of bribes paid to speed quarry carts during pre-flood surges.",
+                "A hidden bypass valve that could drain the city basins overnight if opened."
+            ],
+            "related_to": [
+                "Gallowhill Windmills",
+                "Wardens of the Windward",
+                "Lantern Court"
+            ]
+        },
+        {
+            "name": "Saffron Exchange",
+            "type": "merchant bourse",
+            "district": "Golden Quay",
+            "description": "A vault-raftered hall draped in suncloth, smelling of spice, wax, and old coin. Colored sand hourglasses mark contract timings; the trading porch faces the canal for quick collateral.",
+            "history": "Founded by caravaneers who survived the first Embers' March; codified during the Third Flood Pact to ensure food and fuel subsidies.",
+            "features": [
+                "Bid-floor with mirrored ceiling used to detect hand-sign cheats",
+                "Spice-shrines dedicated to winds that spared caravans",
+                "Ledger-pillars bound in reed-paper and sealed with mothwax"
+            ],
+            "controlled_by": [
+                "Guild of Glassreed Weavers",
+                "Lantern Court",
+                "Salted Compact"
+            ],
+            "notable_people": [
+                {
+                    "name": "Coinmaster Bela Istri",
+                    "role": "Exchange chair",
+                    "notes": "Speaks softly, never signs with the same pen twice; rumored to own a dune that moves."
+                }
+            ],
+            "secrets": [
+                "A hidden bid-ring sets saffron prices using star-omens taken from the Skybridge.",
+                "Tithe jars with false bottoms pay for Quiet Wing restorations in exchange for silence."
+            ],
+            "related_to": [
+                "Ember Dunes",
+                "Glass Hall of Weavers",
+                "Ropes and Knots Hall"
+            ]
+        },
+        {
+            "name": "Archive of Unnamed Days",
+            "type": "library and reliquary",
+            "district": "Quiet Walks",
+            "description": "A cool, dim archive where mothlight is trapped behind smoky panes. Shelves of reed-paper scrolls catalog days that never were and new names for old stars. A garden of white flowers keeps the air dry.",
+            "history": "Raised by the Order of Moths atop the foundations of a pre-fall counting house. After the Red Flood, families deposited grief there in sealed jars to keep from drowning in it.",
+            "features": [
+                "A Hall of Unnumbered Calendars where dates slip and catch",
+                "Scribe-pools of evaporated ink mixed with mothscale",
+                "Listening Cloister where echoes are written down"
+            ],
+            "controlled_by": [
+                "Order of Moths"
+            ],
+            "notable_people": [
+                {
+                    "name": "Archivist Pellen Var",
+                    "role": "Head keeper",
+                    "notes": "Blind in one eye but can read pressed flowers like words."
+                }
+            ],
+            "secrets": [
+                "A palimpsest map overlays Thyssara with an older city shaped like a moth.",
+                "A jar labeled 'Your Last Dawn' has no wax seal and yet never opens."
+            ],
+            "related_to": [
+                "House of Quiet Wings",
+                "Farsong Monastery Ruins",
+                "Lantern Court"
+            ]
+        },
+        {
+            "name": "Hall of Lanterns",
+            "type": "courts and warrants",
+            "district": "Candlecourt",
+            "description": "A basilica of soot-stained stone hung with hundreds of lanterns, each lit for a law in force. The floor is a mosaic river; magistrates stand on islands to read verdicts.",
+            "history": "Built during the Second Charter, expanded to include a debtors' cloister after the sootglass riots. Its lanterns are polished every dusk by sworn children known as Wickwards.",
+            "features": [
+                "Oath-well of still water used for testimony",
+                "Writ-cage where illicit contracts are burned to ash",
+                "A bell-roof tuned to call the Wardens in three notes"
+            ],
+            "controlled_by": [
+                "Lantern Court"
+            ],
+            "notable_people": [
+                {
+                    "name": "Clerk Nae Odrin",
+                    "role": "Warrant scribe",
+                    "notes": "Keeps a personal ledger of lies told in court, indexed by color."
+                }
+            ],
+            "secrets": [
+                "A stack of sealed writs ordering the arrest of unnamed engineers should the Tide-Engine be compromised.",
+                "A hidden stair opens into the Prism Citadel's dry-bridge; only the Chief Magistrate has the key."
+            ],
+            "related_to": [
+                "Prism Citadel",
+                "Tide-Engine House",
+                "Wardens of the Windward"
+            ]
+        },
+        {
+            "name": "Windward Bastion",
+            "type": "fort and aeries",
+            "district": "Windward Steps",
+            "description": "A crescent of towers with open crowns for sky-skiffs and signal kites. The upper terraces are webbed in rope and wind-screens; the lower vaults hold flood boats and storm stores.",
+            "history": "Raised in stages as the Wardens learned to trust the air. Expanded after river raids from the west; now houses a drumline to call pilots home in fog.",
+            "features": [
+                "Skiff cradles carved of ashwood and steel",
+                "A beacon brazier that burns salt to make a white flame",
+                "Wind-tunnels for training and testing glider-wings"
+            ],
+            "controlled_by": [
+                "Wardens of the Windward"
+            ],
+            "notable_people": [
+                {
+                    "name": "Captain Aramus Dene",
+                    "role": "Master of Wardens",
+                    "notes": "Carries a reed-blade that hums when pointed at liars."
+                }
+            ],
+            "secrets": [
+                "A hidden hangar holds a moth-winged skiff gifted by the Order; its silk sails remember routes.",
+                "A cache of signal-kites carry codebooks naming smugglers once on the Warden payroll."
+            ],
+            "related_to": [
+                "Skybridge Ruins",
+                "Prism Citadel",
+                "Hall of Lanterns"
+            ]
+        },
+        {
+            "name": "House of Quiet Wings",
+            "type": "monastery and sanctuary",
+            "district": "Mothershade",
+            "description": "Timber cloisters around a central moth-garden where pale wings drift like snow. The House smells of wax and herbs; its walls are painted with careful stars.",
+            "history": "Founded by night-keepers from the Farsong line. Survived a torching attempt by the Smoulder Veil, after which its gardens grew twice as lush.",
+            "features": [
+                "A moth-hall where memories are recited and then forgotten",
+                "Waxworks that seal secrets into candle cores",
+                "Night-stairs that creak in known sequences to warn of uninvited feet"
+            ],
+            "controlled_by": [
+                "Order of Moths"
+            ],
+            "notable_people": [
+                {
+                    "name": "Abbess Rinna Sel",
+                    "role": "Mistress of Quiet Wings",
+                    "notes": "Does not sleep; trades dreams between petitioners."
+                }
+            ],
+            "secrets": [
+                "A bound star-chart that updates itself when no one looks directly at it.",
+                "A hidden door opens only when a moth dies on the latch."
+            ],
+            "related_to": [
+                "Archive of Unnamed Days",
+                "Starfall Scar",
+                "Skybridge Ruins"
+            ]
+        },
+        {
+            "name": "Ashmask Warrens",
+            "type": "smuggler tunnels and kilns",
+            "district": "Underquay",
+            "description": "A maze of soot-blackened tunnels beneath old quays, breathing heat through cracked gratings. Sootglass ingots are cooled in cisterns that taste of iron and brine.",
+            "history": "Grew from legal side-furnaces into a shadow city during the first tax hikes. Several sections collapsed during the Red Flood and now serve as under-river bridges.",
+            "features": [
+                "Hidden kiln with a quick-drop into the canal for raids",
+                "Mask racks carved with smugglers' names",
+                "Smoke-chimneys that exhale only at dawn"
+            ],
+            "controlled_by": [
+                "Smoulder Veil"
+            ],
+            "notable_people": [
+                {
+                    "name": "Ashmask Rialla",
+                    "role": "Veil leader",
+                    "notes": "Keeps her true name in a mirrorglass shard; never shows her back to a window."
+                }
+            ],
+            "secrets": [
+                "A route into the Hall of Lanterns' ash pits via a capped culvert.",
+                "A cache of reed-seeds black as pitch that sprout in fire."
+            ],
+            "related_to": [
+                "Obsidian Fen",
+                "Hall of Lanterns",
+                "Ropes and Knots Hall"
+            ]
+        },
+        {
+            "name": "Glass Hall of Weavers",
+            "type": "guild hall and furnace-house",
+            "district": "Reedgate",
+            "description": "A long hall with a roof of colored panes that sings when rain hits. Inside, guild looms weave cooled glass threads into windows and armor plates that hold a tune when struck.",
+            "history": "The Weavers' original meeting shed, expanded over generations into a fortified work palace. Its walls are patched with plates from every era of Thyssaran glass.",
+            "features": [
+                "A council floor that vibrates when a member lies",
+                "Protected seed-vaults of select reed cultivars",
+                "A demonstration furnace that runs on mothwax for sacred pieces"
+            ],
+            "controlled_by": [
+                "Guild of Glassreed Weavers"
+            ],
+            "notable_people": [
+                {
+                    "name": "Matron Selya Thorn",
+                    "role": "Guild Matron",
+                    "notes": "Smiles like a blade; keeps a ledger of favors in a song only she can sing."
+                }
+            ],
+            "secrets": [
+                "A hidden canal door for off-book shipments through the Veil when strikes bite.",
+                "An old, unsigned contract with an entity named 'Reedmother' offering three calm seasons for a name."
+            ],
+            "related_to": [
+                "Saffron Exchange",
+                "Shardmere Glassreed Beds",
+                "Hall of Lanterns"
+            ]
+        },
+        {
+            "name": "Ropes and Knots Hall",
+            "type": "pilots' union hall",
+            "district": "Molden Quays",
+            "description": "A squat, tar-scented building wrapped in mooring lines and hung with retired knots. Barges queue outside for dispatch; inside, union ballots are cast with carved buoy-stones.",
+            "history": "Formed after the first fatal gate crush, when pilots swore never to run blind again. The Hall's bells ring for pilots only; no other faction may touch them without a riot.",
+            "features": [
+                "Pilot's map wall updated with chalk twice each tide",
+                "Strike flags dyed with saffron and ash",
+                "A memorial rope everyone adds a knot to when a pilot dies"
+            ],
+            "controlled_by": [
+                "Salted Compact"
+            ],
+            "notable_people": [
+                {
+                    "name": "Cord-Master Tavin Greel",
+                    "role": "Union chair",
+                    "notes": "Can smell a storm half a day ahead; lost two fingers to a closing gate."
+                }
+            ],
+            "secrets": [
+                "A stash of lock-keys carved by a retired Tidewright who died 'accidentally'.",
+                "Unsigned letters showing Cozy ties with select Wardens for night escorts."
+            ],
+            "related_to": [
+                "Saffron Exchange",
+                "Tide-Engine House",
+                "Ashmask Warrens"
+            ]
+        }
+    ],
+    "politics": [
+        {
+            "name": "Guild of Glassreed Weavers",
+            "type": "craft guild",
+            "description": "Harvesters, smelters, and glasswrights who turn reed into coin and song. They set standards for singing glass and own most furnace patents.",
+            "public_goal": "Sustain safe reed yields and keep Thyssaran glass the measure of the realm.",
+            "hidden_agenda": "Bind the Reedmother into an exclusive compact so only their reeds sing true, breaking rivals and the need to pay Tidewright tolls.",
+            "assets": [
+                "Glass Hall of Weavers",
+                "Harvester flotilla",
+                "Shares in Saffron Exchange"
+            ],
+            "influence": [
+                "Reedgate",
+                "Golden Quay",
+                "Gilded Sluice"
+            ],
+            "allies": [
+                "Salted Compact",
+                "Lantern Court"
+            ],
+            "rivals": [
+                "Tidewrights Consortium",
+                "Smoulder Veil"
+            ],
+            "seat": "Glass Hall of Weavers",
+            "notable_members": [
+                {
+                    "name": "Matron Selya Thorn",
+                    "role": "Guild Matron"
+                },
+                {
+                    "name": "Foreman Jusk Pell",
+                    "role": "Dockmaster for Reedgate"
+                }
+            ],
+            "current_actions": [
+                "Funding quiet surveys of Shardmere to map new seedbeds beyond Tidewright charts.",
+                "Lobbying the Lantern Court to raise smuggling penalties on sootglass."
+            ]
+        },
+        {
+            "name": "Tidewrights Consortium",
+            "type": "engineers guild",
+            "description": "Designers, machinists, and gatekeepers of the Tide-Engine and auxiliary works. They are the heartbeat of flood, drought, and schedule.",
+            "public_goal": "Guarantee safety and prosperity by extending precise flood control to the entire valley.",
+            "hidden_agenda": "Divert the River Aur at Gallowhill to power new mills and star-bone research beneath the Scar, consolidating control over all water and work.",
+            "assets": [
+                "Tide-Engine House",
+                "Gallowhill easements",
+                "Workshops and pattern books"
+            ],
+            "influence": [
+                "Gilded Sluice",
+                "Candlecourt",
+                "Windward Steps"
+            ],
+            "allies": [
+                "Wardens of the Windward"
+            ],
+            "rivals": [
+                "Lantern Court",
+                "Salted Compact",
+                "Guild of Glassreed Weavers"
+            ],
+            "seat": "Tide-Engine House",
+            "notable_members": [
+                {
+                    "name": "Master Helvar Kint",
+                    "role": "Chief engineer"
+                },
+                {
+                    "name": "Gauge-Maker Irra Venn",
+                    "role": "Instrument artisan"
+                }
+            ],
+            "current_actions": [
+                "Testing a sealed bypass at night to shave a bell from flood turnover.",
+                "Petitioning to criminalize unauthorized lock-keys as treason."
+            ]
+        },
+        {
+            "name": "Lantern Court",
+            "type": "civic magistracy",
+            "description": "Elected magistrates and their clerks who keep bells, writs, and balance alive. They temper profit with precedent and protect the public record.",
+            "public_goal": "Maintain civic order and fair contracts, keep the bells honest, and prevent any one guild from owning the city.",
+            "hidden_agenda": "Use old star-law precedents to quietly subordinate both Weavers and Tidewrights to the Court through emergency statutes.",
+            "assets": [
+                "Hall of Lanterns",
+                "Prism Citadel",
+                "Wickward corps"
+            ],
+            "influence": [
+                "Candlecourt",
+                "Windward Steps",
+                "Quiet Walks"
+            ],
+            "allies": [
+                "Wardens of the Windward",
+                "Order of Moths"
+            ],
+            "rivals": [
+                "Smoulder Veil",
+                "Tidewrights Consortium"
+            ],
+            "seat": "Hall of Lanterns",
+            "notable_members": [
+                {
+                    "name": "Magistrate Vela Orun",
+                    "role": "Chief magistrate"
+                },
+                {
+                    "name": "Clerk Nae Odrin",
+                    "role": "Warrant scribe"
+                }
+            ],
+            "current_actions": [
+                "Drafting a 'Night Tax' to end Veil arsons by financing legal after-dusk docks.",
+                "Sponsoring Order of Moths expeditions to the Starfall Scar to establish jurisdiction."
+            ]
+        },
+        {
+            "name": "Smoulder Veil",
+            "type": "criminal syndicate",
+            "description": "Smugglers, arsonists, and shadow-furnace keepers who thrive on the gaps in law and gate schedules. They wear ashmasks and keep their true names banked.",
+            "public_goal": "None stated; informally, to keep bell and gate from claiming every night of the poor.",
+            "hidden_agenda": "Capture the Night Tax and run legal docks by day, illegal furnaces by night, tying the city to their sootglass credit.",
+            "assets": [
+                "Ashmask Warrens",
+                "Obsidian Fen kilns",
+                "Blackledgers"
+            ],
+            "influence": [
+                "Underquay",
+                "Molden Quays after dusk"
+            ],
+            "allies": [
+                "Salted Compact"
+            ],
+            "rivals": [
+                "Lantern Court",
+                "Wardens of the Windward",
+                "Guild of Glassreed Weavers"
+            ],
+            "seat": "Ashmask Warrens",
+            "notable_members": [
+                {
+                    "name": "Ashmask Rialla",
+                    "role": "Veil leader"
+                },
+                {
+                    "name": "Bell-Biter Cren",
+                    "role": "Arson foreman"
+                }
+            ],
+            "current_actions": [
+                "Smuggling black reed-seed that sprouts in flame to sabotage legal beds.",
+                "Bribing select Wardens to look away from underquay ferries during fog."
+            ]
+        },
+        {
+            "name": "Wardens of the Windward",
+            "type": "militia and sky-guard",
+            "description": "River marines and sky-skiff crews who police quays and rooftops. They answer the bells and drumlines, and keep the air-lanes clear.",
+            "public_goal": "Protect the city from raiders, storms, and smuggling, and keep the gates orderly.",
+            "hidden_agenda": "Secure independent funding via a permanent levy on Exchange contracts to free the Wardens from court politics.",
+            "assets": [
+                "Windward Bastion",
+                "Sky-skiff fleet",
+                "Drumlines"
+            ],
+            "influence": [
+                "Windward Steps",
+                "Molden Quays",
+                "Candlecourt during crises"
+            ],
+            "allies": [
+                "Lantern Court",
+                "Tidewrights Consortium"
+            ],
+            "rivals": [
+                "Smoulder Veil",
+                "Salted Compact"
+            ],
+            "seat": "Windward Bastion",
+            "notable_members": [
+                {
+                    "name": "Captain Aramus Dene",
+                    "role": "Master of Wardens"
+                },
+                {
+                    "name": "Drum-Mistress Leya Quarn",
+                    "role": "Signal captain"
+                }
+            ],
+            "current_actions": [
+                "Running night patrols over Shardmere after reports of silent boats with no wakes.",
+                "Training with tethered gliders to scout the Skybridge without landing."
+            ]
+        },
+        {
+            "name": "Order of Moths",
+            "type": "mystic order",
+            "description": "Keepers of memory and night-law who read the darkness as others read ledgers. They exchange silence for secrets and bury grief in wax.",
+            "public_goal": "Guard the city's memory and liminal thresholds, mend what starfall broke, and counsel the bells.",
+            "hidden_agenda": "Seal a lightwell beneath the Prism Spire that is widening with each lunar eclipse, even if it requires a citywide fast of light.",
+            "assets": [
+                "House of Quiet Wings",
+                "Archive of Unnamed Days",
+                "Moth-gardens"
+            ],
+            "influence": [
+                "Quiet Walks",
+                "Mothershade",
+                "Windward Steps at night"
+            ],
+            "allies": [
+                "Lantern Court"
+            ],
+            "rivals": [
+                "Smoulder Veil",
+                "Unknown star cult tied to the Skybridge"
+            ],
+            "seat": "House of Quiet Wings",
+            "notable_members": [
+                {
+                    "name": "Abbess Rinna Sel",
+                    "role": "Mistress of Quiet Wings"
+                },
+                {
+                    "name": "Archivist Pellen Var",
+                    "role": "Head keeper"
+                }
+            ],
+            "current_actions": [
+                "Collecting echo-samples at Farsong to repair a broken bell-tone at the Citadel.",
+                "Trading star-charts with pilots to map moth migrations over the Scar."
+            ]
+        },
+        {
+            "name": "Salted Compact",
+            "type": "pilots and dockworkers union",
+            "description": "River pilots, rope-slingers, and quayfolk who know every current and stone by feel. They decide what moves when the bells and gates disagree.",
+            "public_goal": "Fair pay, safe gates, and a voice on schedules that decide whether a family eats.",
+            "hidden_agenda": "Seize practical control of the night docks through strikes until all after-dusk traffic requires a Compact pilot.",
+            "assets": [
+                "Ropes and Knots Hall",
+                "Strike flags",
+                "A network of signal whistles hidden in quay carvings"
+            ],
+            "influence": [
+                "Molden Quays",
+                "Golden Quay",
+                "Underquay at shift change"
+            ],
+            "allies": [
+                "Guild of Glassreed Weavers",
+                "Smoulder Veil"
+            ],
+            "rivals": [
+                "Wardens of the Windward",
+                "Tidewrights Consortium"
+            ],
+            "seat": "Ropes and Knots Hall",
+            "notable_members": [
+                {
+                    "name": "Cord-Master Tavin Greel",
+                    "role": "Union chair"
+                },
+                {
+                    "name": "Pilot Sera Noll",
+                    "role": "Strike organizer"
+                }
+            ],
+            "current_actions": [
+                "Threatening a three-bell strike unless a safety steward stands in every Engine shift-room.",
+                "Running relief barges to famine-prone alleys during Lantern Court tax audits."
+            ]
+        }
+    ]
+}

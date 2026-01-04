@@ -1,0 +1,49 @@
+{
+    "id": 12,
+    "title": "When the Ribs Sing",
+    "quest_giver": "Isera Bent-Pike",
+    "description": "The city exhaled, but it is not done. After the chords, the Heartward Engine thrums like a contented cat, yet fractures spider through old conduits and rivalries crack where they were only dented. The Black Net still holds debts, the Parliament still wants leverage, the Collegium still wants more glass, and the Tidemothers still want their rites respected. Marshal Isera Bent-Pike calls Sere to the Crown Gate Citadel to decide what comes next. An accord must be hammered between Bonewrights, Tidemothers, Pilots, and Collegium to share stewardship of the Engine. Keth of the Nets wants a seat at the shadows of that table. The Ferryman’s token is cold in Sere’s palm, and the city listens for what voice will speak its future.",
+    "objectives": [
+        "Convene representatives of the Bonewright Covenant, Temple of the Tidemothers, River Pilots Conclave, and Ember Collegium at the Crown Gate.",
+        "Broker terms for a rotating stewardship circle over the Heartward Engine with real checks and limits.",
+        "Decide whether to expose Keth’s past plot and cut the Black Net from influence, or bind them to oaths that can be enforced.",
+        "Choose what to do with the Ferryman’s remaining favor and whether to use it to seal the accord."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Isera Bent-Pike",
+            "text": "I have buried enough good intent to know the weight of a bad bargain. Sit them down and make each of them give up the one thing they swore to die clutching. If they walk away angry and alive, we have done well. If they walk away smiling, check your pockets. This city does not need comfort. It needs a spine."
+        },
+        {
+            "speaker": "Caur Spinekeeper",
+            "text": "I will sign to share the Engine if the others sign to stop calling it a lever. We mend what we break. That must be the first law. If the stormglass singers want to help, let them. If the river priests want to bless our work, let them. But when the pulse quickens, we answer to the rhythm, not to coin or scripture."
+        },
+        {
+            "speaker": "Rhy Tidesong",
+            "text": "I will lay my hands on the heart and promise to keep it sleeping because I know what it wakes to is not a prayer any of us can finish. I ask only that no one changes the water’s name without asking the water first. Write our humility into your accord so our grandchildren can remember we once knew how to bow."
+        },
+        {
+            "speaker": "Keth of the Nets",
+            "text": "You can ban me from the bright table and I will still sell linen to the man who washes it. Or you can bind me with a vow and my people will tug the net the way you need when floods come at night. I offer silence at the right times and information at the right price. Spit me out and watch what else you swallow when you are not looking."
+        },
+        {
+            "speaker": "Sere Kallin",
+            "text": "I have walked your ladders and your drains and your prayers. I will not let any one of you put a hand on the Engine that does not come paired with another hand to check it. We share the watch. We share the weight. And if any of you choose a shortcut that makes the ribs sing in fear, I will be there with a rope and a pike to pull you back or pin you down."
+        }
+    ],
+    "connections": {
+        "previous": [
+            3,
+            9,
+            10,
+            11
+        ],
+        "next": [],
+        "related": []
+    },
+    "rewards": [
+        "Appointment as Captain-Provisional of a Warden skiff charged with inter-guild duties",
+        "A signed Accord of the Ribs granting you right-of-way at the Engine and basins during crisis",
+        "Resolution of one major personal debt or the binding of Keth to a public vow under Tidemother rites"
+    ]
+}

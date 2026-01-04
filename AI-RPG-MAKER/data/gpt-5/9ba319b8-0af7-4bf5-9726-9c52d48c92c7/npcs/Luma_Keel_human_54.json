@@ -1,0 +1,73 @@
+{
+    "name": "Luma",
+    "surname": "Keel",
+    "race": "human",
+    "age": 54,
+    "appearance": "Broad-shouldered pilotess in oilskins trimmed with reflective thread; a chain of lens-charms glitters at her throat.",
+    "character": "Warm to crews and cold to debtors; a captain’s poise that never wavers in fog.",
+    "traits": [
+        "shrewd",
+        "commanding",
+        "patient listener",
+        "ritually superstitious"
+    ],
+    "skills": [
+        "pilotage through reefs",
+        "fog-code signaling",
+        "convoy logistics",
+        "route arbitration",
+        "risk pricing"
+    ],
+    "talents": [
+        "hearing false bells in a gale",
+        "weather nose that smells pressure drops",
+        "crowd-charm on quays",
+        "reading lantern refractions for shoals"
+    ],
+    "flaws": [
+        "vengeful when dues go unpaid",
+        "hoards route secrets",
+        "dismissive of labor councils",
+        "overconfident in her pilots"
+    ],
+    "dreams": [
+        "monopolize passage through the Salt Spires",
+        "establish a hereditary line of master pilots",
+        "replace bell-buoys with Cartel-owned light crystals"
+    ],
+    "secrets": [
+        "green-lit a scheme to echo false bells at the Spires to punish a defaulting convoy",
+        "keeps a hidden ledger of side-payments to Saltwarden patrols",
+        "once redirected a noble yacht into a ‘safe’ delay channel to force a negotiation"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orrix Vant",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Nella Shuck",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Yarik Nine-Fingers",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Brask Ilyne",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Sel Corvane",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Iria Venn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Ildra Shale",
+            "relation_type": "Different goals"
+        }
+    ]
+}

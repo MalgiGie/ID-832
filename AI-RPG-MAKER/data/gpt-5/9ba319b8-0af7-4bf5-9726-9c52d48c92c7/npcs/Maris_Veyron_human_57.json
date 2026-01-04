@@ -1,0 +1,72 @@
+{
+    "name": "Maris",
+    "surname": "Veyron",
+    "race": "human",
+    "age": 57,
+    "appearance": "Immaculate in sea-green silk and salt-pearl combs; the calm of a storm eye and a voice that carries in halls.",
+    "character": "Calculating aristocrat who believes order is owed to those who can hold it.",
+    "traits": [
+        "strategic",
+        "haughty",
+        "unflappable",
+        "patronizing"
+    ],
+    "skills": [
+        "debt acquisition",
+        "marriage bargaining",
+        "court rhetoric",
+        "festival calendar leverage",
+        "quiet intimidation"
+    ],
+    "talents": [
+        "reading motives by silence",
+        "ritual etiquette at shrines",
+        "turning precedents to her favor"
+    ],
+    "flaws": [
+        "sense of entitlement",
+        "disdain for dock labor",
+        "vindictive",
+        "overconfidence in lineage"
+    ],
+    "dreams": [
+        "restore hereditary salt-tithes",
+        "claim the Gate Stewardship for her house",
+        "bind the guilds by marriage into a stable order"
+    ],
+    "secrets": [
+        "paid a Mnemos clerk to alter a marriage clause confirming salt-tithe rights",
+        "maintains a private reliquary key copied from the Basilica’s chorister",
+        "considers sacrificing a junior cousin to court the Wharfers if needed"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sel Corvane",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Brask Ilyne",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Nella Shuck",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Yarik Nine-Fingers",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orrix Vant",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Tallen Quill",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Serene Khel",
+            "relation_type": "Different goals"
+        }
+    ]
+}

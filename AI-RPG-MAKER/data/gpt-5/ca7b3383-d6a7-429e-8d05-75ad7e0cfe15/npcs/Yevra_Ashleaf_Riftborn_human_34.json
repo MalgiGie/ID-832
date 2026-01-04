@@ -1,0 +1,66 @@
+{
+    "name": "Yevra",
+    "surname": "Ashleaf",
+    "race": "Riftborn human",
+    "age": 34,
+    "appearance": "Wind-chapped guide with silver-veined stains from smokeherb, a bundle of bell anklets, and eyes that linger on fog.",
+    "character": "Sly and tender, haunted by traded memories and the songs of Whisperfen.",
+    "traits": [
+        "elusive",
+        "compassionate",
+        "teasing",
+        "patient",
+        "survivor"
+    ],
+    "skills": [
+        "smokeherb harvesting",
+        "fog navigation",
+        "barter and quiet brokerage",
+        "marsh guiding",
+        "herbal medicine"
+    ],
+    "talents": [
+        "follows luring voices without being taken",
+        "stores breath in vent-pearls reliably"
+    ],
+    "flaws": [
+        "addiction risk",
+        "avoids commitments",
+        "debts to shadow actors"
+    ],
+    "dreams": [
+        "to own a licensed smokeherb garden on a safe terrace",
+        "to recover a memory lost in Whisperfen"
+    ],
+    "secrets": [
+        "sold a true name for a path once and regrets it",
+        "keeps a vent-pearl with someone else’s last laugh",
+        "carries packages for Sere Vell on fog-nights"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sere Vell",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Rukha Mossbank",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Neris Undersong",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Breg Tesserin",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Vara Keshlin",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Ilara Embervein",
+            "relation_type": "Friendship"
+        }
+    ]
+}

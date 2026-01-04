@@ -1,0 +1,92 @@
+{
+    "id": "M7",
+    "title": "The Kiln That Would Not Sing",
+    "quest_giver": {
+        "name": "Kelen Prism",
+        "affiliation": "Hall of Subtle Artifice"
+    },
+    "description": "Emberfield Kilns breathe their heat like sleeping basalt beasts, and their chimneys wear streamers of gauze and soot that whisper the winds mood to anyone who has learned to listen. On most days the vents thrum with a chorus that steadies the hands of glasswrights, each bell and draft taking its pitch from the earths patient lungs. Today, the chimneys stand with mouths open yet utterly mute, a silence so complete it feels poured rather than found, as if someone decanted quiet from the Blue Maw and stopper-fitted it into the vents. Workers huddle on the rim paths, refusing to descend into the belly of the works until a blessing names the fault and a trusted ear restores a rhythm they can believe. Kelen Prism, eyes bright with plans and sleepless diagrams, swears this hush is an act and not an accident, a theft of voice more than a failure of fuel, and she would chase it to the end of a brass labyrinth to make it sing again. You, Thalen Vire, hear a guilty harmony beneath her words, a memory of a page of bound silence you once opened and a breath you once stole, and you feel the old cold begin to creep behind your scar. If these kilns fail, the citys lamps will starve, the Diadems edicts will dim, and the Lantern Court will pay any price for noise that looks like order.",
+    "objectives": [
+        "Meet Kelen Prism at the Emberfield staging yard and take measure of the silent chimneys in the shadow of their pennants.",
+        "Inspect the chimneys and vents for signs of hush-ink residues or bound-silence panes, noting every seam and soot-smudge.",
+        "Use the Vent-Wind Flute (if found) to test the draw and restore draft rhythm without cracking fragile kiln throats.",
+        "Protect workers while relighting the kiln bells in the correct sequence so the chorus returns without shattering glass.",
+        "Gather testimony from a Ledger auditor and a Night Bazaar mule about recent shipments that might have smothered song.",
+        "Report the cause to Kelen and decide whether to share proof with Dorn, weighing invention against restraint."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Kelen Prism",
+            "lines": "The city thinks of our lenses as frozen light, but they are frozen song, too, and a song is a covenant between breath and heat. Someone has put a hand over the kilns mouths, and it feels like a hand that knows the Maw's weight, the exact pressure of that dreadful calm. If we let this pass as happenstance, the Ledger will clap their ledgers shut upon our patents and call it rescue while they smother us with arithmetic. I will not have invention yoked to fear; I will not have chorus turned to cough. Find me the silence-cork and pull it, Thalen Vire, and then we will decide whether to grind it into grit or shape it into a safer music."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "lines": "Silence can bless and silence can kill, and the difference is the measure of its keeper's conscience. If someone carried a sliver of the Maw in a pane, the kilns would choke like a singer in debt, not because the lungs do not work but because the air is not permitted to be air. I will search the vents and listen where the draft stops being breath and starts being fear, and I will taste the soot for ink that stains paper and memory both. We will light them again, and we will do it by order, bell by bell, note by note, with a guard on every rhythm so no panic breaks the glass. But we must not burn the city to keep them warm, and we must not shape a weapon from a hush that was meant to be a warning."
+        },
+        {
+            "speaker": "Ledger Auditor (on behalf of Orven Caldris)",
+            "lines": "We tally cords of fuel and count bells for ignition, nothing more, and our figures sing even when your chimneys do not. If a prototype went missing, our contracts would hum a different tune, and the hum would carry to the Diadem through seals you cannot open with sentiment. Any talk of bound silence sounds like a temple fable crafted to excuse bad maintenance and budget lapses, and fables, however blue-lit, do not pay for cracked panes. You will find negligence, not sabotage, and I will find the fines, and between the two of us the city will learn to love punctuality again. Present me evidence that stands without poetry, and I will sign what must be signed; bring me myth, and I will dock you a month for every metaphor."
+        },
+        {
+            "speaker": "Night Bazaar Mule",
+            "lines": "I carried a pane wrapped in river-reed that tasted like winter and quiet, and I know the taste of quiet because my teeth ached where they never ache. Paid triple, no questions, to deliver it to a side vent at dusk where the brass lanterns breathe like old men, and I am not paid triple for ordinary errands. The lamp above my head did not cast a shadow while I did it, which is not my kind of miracle, because miracles that hide are seldom kind. I don't ask names, because names are heavy, but the coin smelled like Ledger salt and Artificer oil at once, like someone who counts and someone who dreams shaking the same purse. If you are going to unmake this trouble, do it before the Syndicate decides that quiet is a commodity and puts a price on your next breath."
+        },
+        {
+            "speaker": "Dorn Rigger",
+            "lines": "If you find proof of bound silence, bring it to me before Kelen spins a ring out of it, because she will, and she will make it beautiful and dangerous in the same hour. We can learn without leaping, we can test without tempting the Maw to teach us twice, and we can record without setting the citys teeth on edge. The kilns must sing, yes, but not if the chorus will set our city's bones humming themselves to dust, because a city can shatter without a single window breaking. Remember Shattermere and how a wrong tone made a thousand right shards, and ask yourself how many shards a wrong idea makes when laid into law. Trust your bell-hand and your river ear, and trust me to hold the line when the Ledger asks for song and the Court asks for spectacle."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Turn the Silence into Song",
+            "text": "You gather the workers at the staging yard and ask them to listen with you, not for noise but for timing, and you draw a circle of respect around the cold chimneys. With gloved hands you set the Vent-Wind Flute to your lips, sounding low notes that mimic a resting earth so that the vents can remember their draft without straining. Between notes you ring the Third-Tone Silt-Bell, letting its calm carry down the flues and along the kiln throats until the soot trembles like breath caught at the edge of laughter. You narrate each step aloud so the crew feels the rising cadence, and you assign bell-pairs to relight in sequence only when you signal with the conch, binding the moment with a promise that no one lights alone. When the hush loosens, you lift a pane of bound quiet from a side vent with your Glassthread Gloves, hold it to the blue, and show them the culprit so the fear has a face and can be set aside as evidence rather than ghost.",
+            "outcome": "The draft returns like a tide finding its channel, first shy, then sure, and the kiln bells chime in the order you gave until the yard begins to hum with relief instead of rumors. Workers cheer in low voices because they respect that the danger is not fully spent, and their applause is the patter of tongs and the measured scrape of rake on clinker rather than shouts. Kelen watches the bound-silence pane with a hunger you name ambition and a caution you hope is growing, and she agrees to seal it in a lead-lined case for study instead of use. The Ledger auditor grinds his teeth at the sight of proof but signs a receipt for the pane and forgoes immediate fines in favor of a pending inquiry, buying time without buying your story. Dorn receives your quiet message about the pane’s nature and nods slowly, promising to convene a private review before anyone speaks of rings, and you feel the city gain one measured breath."
+        },
+        {
+            "id": "C2",
+            "title": "Deliver the Pane to Dorn First",
+            "text": "You decide that discovery belongs with caution, and you make your path through ash alleys to a side gate where a runner can spirit the pane to Dorn without Kelen’s fervor washing over it. You note every sigil and smear before you wrap the pane in thick reed and hush-cloth, and you mark your own wrists with soot so your hands remember the weight of the choice. To buy the hour needed, you use the Vent-Wind Flute to coax a temporary draft through a sister vent, producing just enough breath to keep the workers steady and the Ledger content with graphs that slope upward. You leave Kelen with a clear plan of relight sequence, assigning five bell-pairs and a horn-call for abort, and you promise to return before the ink dries on any report. As you go, you whisper into the Conch of Slack Water at the exact turn of tide, asking the sea to hold its tongue over your deception until both sides have their say.",
+            "outcome": "Dorn receives the pane in a shuttered workshop and sets it beneath three veils of mild sound, his fingers tracing the chill in the glass without touching it, and he files a private caution with language sharp enough to cut enthusiasm. When you return, Kelen’s impatience flares like a kiln relit too fast, but she reads the steadiness in your plan and concedes the point with a cool nod rather than a public challenge. The workers follow your sequence and the kilns come back by measured degrees, one bell at a time, so that even the skittish hear safety in the order of the chimes. The Ledger auditor fumes at the chain of custody slipping out of his book, but faced with relit chimneys and signed safety logs he is forced to transform rage into paperwork, which is the safest alchemy in Emberfield. Later, in a quiet corner of the Hall, Dorn thanks you for buying wisdom a little time and warns that Kelen’s next ask will be grander and sharper, a promise as much as a prediction."
+        },
+        {
+            "id": "C3",
+            "title": "Name Negligence, Fix the Fault, Pocket the Proof",
+            "text": "You choose the path of least rumor, telling the auditor and the yard captains that the vents are fouled by neglect and soot-glaze while your eyes trace the edge where true silence clings. With a shrug that looks like surrender and feels like strategy, you order brushes, scrapers, and wet sacks, and you lead by example, climbing the ladder to show where caked soot must be peeled and where bells must be reset. As the crew scrubs, you work the Vent-Wind Flute quietly, testing for flow without show, and you slip the bound pane into a lined satchel with the care of a surgeon pocketing a thorn. You shape the story so it fits into ledgers and will not cut tongues, naming schedules missed and seals that need wax rather than speaking of a hush that could start a war of patents. When the bells are set and the kiln coughs back to life with acceptable noise, you sign the maintenance log in a hand steady enough to convince the doubtful and calm enough to let fear bleed away.",
+            "outcome": "The Ledger auditor relaxes into the comfortable rails of fines and corrective orders, and he awards himself the pleasure of being correct about negligence while secretly noting your efficiency. Kelen arches an eyebrow at your report yet accepts the result because the chimneys speak again, and she shelves her speech about conspiracies for a moment when a crowd is larger. The workers feel respected rather than accused, because you carried soot like theirs and set blame on schedules instead of hands, and their trust in your bell-calls deepens. Dorn reads the truth between your lines when you later share the pane in private, and he thanks you for preventing an idea from becoming a riot of ideas. You walk away with proof preserved, tempers cool, and a city that runs for another day without learning a word it isn’t ready to hear."
+        },
+        {
+            "id": "C4",
+            "title": "Cut a Shadow Deal with the Night Bazaar",
+            "text": "You follow the mule’s trail under brass lanterns that dim when certain boots approach, and you present the Syndicate with a proposition made of pragmatism and thinly veiled threat. If the Bazaar helped move a pane of stolen quiet, they can help move it back out of play, and in exchange you will keep Tidewarden horns from sweeping their maze for a fortnight. You state your terms slowly, five times in five ways, so every hidden ear behind every curtain can parse your promise and measure your resolve without drawing a blade. When the Brass Twins click their lamps bright and then dim, you know you have an accord, and you bind it with the Conch at slack water so their tongues must hold until both sides finish. You return to the yard with a crew of shadow porters who move like fog and do exactly as you say, laying pads, setting guards, and letting your Vent-Wind Flute lead the draft back into its appointed course while the pane is spirited to a safe cistern none of the three powers control.",
+            "outcome": "The kilns wake as if from a nightmare that leaves no memory, and the only trace of the hush is in the way workers speak a little softer for an hour and then forget why. Kelen bristles at the scent of Syndicate oil but cannot argue with results, and she saves her fury for later, when the Court is listening and the Ledger has polished their masks. The Ledger auditor stalks the ash lanes with a nose like a hound and comes up with nothing but clean vents and signed logs, which he files under irritation rather than escalation. The Night Bazaar gains a debt they like the taste of, and they whisper your name in good company, as one who bargains in balances rather than chaos. Dorn receives a map to a cistern and a quiet note, and when he looks through the Azure Lens Pendant you left with him for the hour, he sees the pane fold its cold like a sleeping thing and chooses not to wake it."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8",
+            "M10"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Vent-Wind Flute — a kiln-born tool said in legends to be shaped from cooled vent-breath; once per day it can stabilize a draft or current, coaxing air or water back into safe rhythm."
+        },
+        {
+            "type": "Reputation",
+            "description": "+1 standing with the Hall of Subtle Artifice — word spreads that you returned Emberfield’s chorus without cracking its bones, earning nods from masters and apprentices alike."
+        },
+        {
+            "type": "Material",
+            "description": "Bundle of Azure Glass offcuts — luminous shards and trimmings from relit runs, tradable to crafters and useful for small enchantments or barter."
+        },
+        {
+            "type": "Access",
+            "description": "Artificer Gate Pass — sanctioned entry to the Hall of Subtle Artifice workshops during off-hours, granting benches, bell-time, and guarded cupboards for your experiments."
+        }
+    ]
+}

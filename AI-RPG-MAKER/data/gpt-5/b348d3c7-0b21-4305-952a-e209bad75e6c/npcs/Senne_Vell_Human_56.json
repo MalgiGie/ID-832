@@ -1,0 +1,80 @@
+{
+    "name": "Senne",
+    "surname": "Vell",
+    "race": "Human",
+    "age": 56,
+    "appearance": "Spare and sun-browned from the Stair, with wind-cracked lips and eyes like candle-ends. Wears plain cords cut and retied a hundred times.",
+    "character": "Sincere, stubborn, and gently uncompromising in matters of vow and mercy.",
+    "traits": [
+        "ascetic",
+        "forgiving",
+        "quietly fierce",
+        "ritual-purist",
+        "patient with the poor"
+    ],
+    "skills": [
+        "oath-knot weaving",
+        "public untie mediations",
+        "pilgrim protection",
+        "salt-rite preparation",
+        "saints’ verse recall"
+    ],
+    "talents": [
+        "feels when a knot binds more than words",
+        "moon-flames steady under their hand",
+        "voices calm wave-backwash with prayer"
+    ],
+    "flaws": [
+        "cannot stomach Parliament compromise",
+        "naive about markets",
+        "trusts confessions too easily"
+    ],
+    "dreams": [
+        "reconcile the Fifth Knot with the Basilica",
+        "assert vow-veto power over harmful laws",
+        "extinguish false knots binding beyond intent"
+    ],
+    "secrets": [
+        "Knows a sequence that can still a heartbeat if misused",
+        "Shelters smugglers under a shrine when lives outweigh law",
+        "Tied a private vow with a Parliamentor long ago, never untied"
+    ],
+    "relations": [
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orren Halv",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Lisi Jhak",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Kael Ibrin",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Ysra Dokk",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Sav Orlai",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Pel Korr",
+            "relation_type": "Different goals"
+        }
+    ]
+}

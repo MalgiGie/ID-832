@@ -1,0 +1,66 @@
+{
+    "name": "Thalen",
+    "surname": "Vire",
+    "age": 31,
+    "race": "Human",
+    "appearance": {
+        "description": "Lean and river-browned, with cropped black hair and eyes that catch lamplight in sapphire flecks. Wears a tide-dyed half-cloak over practical barge leathers and a belt of glass vials and bells.",
+        "distinctive_signs": "A faint rippled scar along the throat that hums at the edge of silence; fingertips permanently dusted blue from lens-grit."
+    },
+    "class": "MAG",
+    "history": "Born to stair-villagers on the Sunken Steppe Terraces, Thalen grew up counting the bells that ring underwater when the river swells. A childhood spent ferrying grain on reedboats made him a careful listener—he could hear when sluice-gates were about to complain or when the aqueduct’s whisper meant silt trouble. He earned a place in the Aethral Archive as a copy-lad for tide charts and learned to read water testimony alongside marginalia of old lenswrights. The Hall of Subtle Artifice noticed his knack for harmonics; Master Dorn Rigger took him in to help tune tide-horns and to test safer calibration for aetheric lamps. Thalen refused Mistress Kelen Prism’s push toward a citywide focusing ring, siding with Dorn’s caution after a trial at Shattermere cracked a plate into razor petals. Drawn to the Choir of Silt’s ethics, he became an unaffiliated water-mage who arbitrates in the Temple of the Tidemother when tides permit and crawls Moonhook caverns when they do not. He once rode a Tidewarden skiff through the Elder Chain Shoals during a dead calm, finding a resonance that let them pass a rust-tide alive—an act Commodore Jath Pell has not forgotten. Later, during a brittle standoff between the Blue Fist and harbor patrols, Thalen damped a horn-drill with a silt-bell so talks could proceed; Boss Kema Hookhand accepted terms without blood. Now whispers of a cracked lens under the Sapphire Diadem, Ledger bleed-valves in the aqueduct, and a Choir rite to still the Blue Maw have pulled Thalen into the braid of power. He believes the sea and river can be reconciled—if the city survives its own reflections.",
+    "equipment": [
+        {
+            "name": "Third-Tone Silt-Bell",
+            "description": "A palm bell tuned to the aqueduct’s warning register. When rung underwater, it calms eddies and carries speech through pipes and cisterns."
+        },
+        {
+            "name": "Azure Lens Pendant",
+            "description": "A lumen-sapphire drop in a copper frame; sharpens distant details and lets the wearer read the ‘mood’ of water surfaces."
+        },
+        {
+            "name": "Reed-Scroll Kit",
+            "description": "Wax-sealed charts of Moonhook caverns, Elder Chain currents, and terrace sluice timings; stays legible even when submerged."
+        },
+        {
+            "name": "Hush-Ink Ampule",
+            "description": "A Night Bazaar vial that erases a name or line from a ledger until the next dawn; leaves the paper faintly cold to the touch."
+        },
+        {
+            "name": "Glassthread Gloves",
+            "description": "Virenshade-woven gloves laced with flexible filament; allow safe handling of hot lenses and jagged driftglass."
+        },
+        {
+            "name": "Conch of Slack Water",
+            "description": "A temple-borrowed arbitration shell; spoken through at slack tide, it compels listeners to hold their tongue until both sides finish."
+        }
+    ],
+    "main_attributes": {
+        "strength": 6,
+        "agility": 7,
+        "constitution": 7,
+        "intelligence": 9,
+        "wisdom": 8,
+        "charisma": 7,
+        "dexterity": 8,
+        "endurance": 7,
+        "perception": 9,
+        "luck": 6
+    },
+    "soft_skills": [
+        "Bell-code literacy and rooftop signaling",
+        "Mediation and oath-ritual etiquette",
+        "Water-rights and charter lore",
+        "Cavern navigation and tide timing",
+        "Risk assessment for lenses and horns"
+    ],
+    "relationships": {
+        "Kema Hookhand": "Brokered a truce at Moonhook Docks by damping a Tidewarden horn drill; Kema owes Thalen a favor but expects him to back Blue Fist wage floors. She tests his loyalties and will call the favor during a strike.",
+        "Jath Pell": "Commodore of the Tidewardens respects Thalen for guiding a skiff through the Elder Chain during dead calm. Keeps him close as an unofficial liaison to the Choir, but will seize his gear if he crosses hush statutes.",
+        "Dorn Rigger": "Master artificer and mentor. Shares designs and sends Thalen to field-test safer calibrations. Both oppose the reckless focusing ring push and trade notes through the Aethral Archive."
+    },
+    "ambitions": "Rebalance the Whispering Aqueduct to feed the terraces without dimming Veylcrest’s lamps, prove a controlled stilling of the Blue Maw is possible, and expose the hidden bleed-valves siphoning water for Syndicate and Ledger deals.",
+    "flaws": "Overcautious when boldness is needed; bound by personal oaths cast into the sea; uneasy with crowds after prolonged silence; will sacrifice coin and comfort for what he believes the water remembers.",
+    "dreams": "To hear the city’s three blue bells ring in harmony without fear, to map a safe path across Shattermere on an unbroken pane, and to build a lens standard that serves common folk before charters.",
+    "secrets": "In the Aethral Archive, Thalen once opened a pane-bound silence copied from the Blue Maw to smother a horn drill that would have justified a crackdown; a dockhand’s heart stopped in that hush. He bound a sliver of that silence into his silt-bell and told no one but Dorn, who keeps the bell’s tuning record off the books. Thalen also discovered a hidden bleed-valve on the aqueduct and uses it on moonless nights to top terrace cisterns, leaving the Ledger’s flow ledgers subtly wrong. Years ago he cast a promise into the Blue Maw to ‘bring the city to stillness when the bells demand’—if he refuses, he believes the sea will collect."
+}

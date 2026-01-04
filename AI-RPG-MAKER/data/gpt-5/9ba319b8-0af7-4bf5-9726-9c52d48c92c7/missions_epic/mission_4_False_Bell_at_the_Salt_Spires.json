@@ -1,0 +1,79 @@
+{
+    "id": "4",
+    "title": "False Bell at the Salt Spires",
+    "quest_giver": {
+        "name": "Luma Keel",
+        "affiliation": "Lantern Cartel, request delivered through Iria Venn"
+    },
+    "description": "Beyond Vyraleth’s breathing gates, where the Sablemere thunders against chalk-white crowns and honeycombed arches, the Salt Spires rise like the ribbed fingers of a titan trying to remember how to climb. There the Pale fog curls and uncurles like a thinking creature, swallowing beacons and exhaling ghost-toll replies to bells that no hand rings. Lantern crews whisper of a stolen light-crystal hidden in the reef and of a false bell tuned to draw hulls against the teeth, and even the bell-buoys seem to hesitate between mercy and malice. Mother Ildra Shale, the tide-bone hermit whose maps cut deeper than ink dares, barters in secrets and offers a path only to those who pay the price of memory or music. Iria Venn brings you in a pilot skiff that trembles at the fog’s first touch, a friend’s breath steady against your shoulder, and the tide hums in your bone-chime earring as if the drowned leviathan beneath the channels is listening for your name. Between the Cartel’s true lights and the Syndicate’s theft, between oath and debt, you must find the crystal, quiet the false bell, and escort the waiting convoy through a channel that shifts with every heartbeat the city shares with the sea.",
+    "objectives": [
+        "Meet Iria Venn at a Cartel pilot skiff and reach the Salt Spires in rising fog.",
+        "Parley with Ildra Shale to obtain a tidemap bone without revealing Iria’s convoy schedule.",
+        "Locate the stolen light-crystal and disable the false bell assembly without capsizing.",
+        "Escort the convoy through the safe channel back toward Vyraleth."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Iria Venn",
+            "lines": "Raithe, I came on Cartel business, but I am speaking as the girl who learned lantern codes beside you on the rib-bridge, and as the woman who still trusts your hands when the water gets mean. The bell out there is answering ours when no hand moves, and every time it sings, a captain flinches and a crew imagines their children wearing mourning rope. My convoy is holding station on nerve and prayer, and we both know courage thins when fog sits on a heart too long. If the Spires bite her hull, the Cartel will tally it in chits, but the families will count it in empty bowls, and I will hear those empty bowls echo in every tide-song. Come with me, stand where the water breaks sharp, and help me give the fog a reason to back down before it learns our names and keeps them."
+        },
+        {
+            "speaker": "Ildra Shale",
+            "lines": "Bone keeps better charts than paper because bone already knows what it is to be cut, and the reef respects a ledger written in hurt. The Spires remember every keel that kissed them and every hull that bled, and I have etched those memories into ribs and knuckles that a tide can trust. But the reef is hungry, and so is the price, and bone wants bone as sure as tide wants moon. I will take the hum of that little bone tied in your ear for one night, dock fighter, and you will walk deaf to any bell that no hand rings, safe from the lie that wants to borrow your steps. In trade, I will show you where the Ratchet folk lashed their false clapper and where their stolen light crystal sulks like a caged star, but know this: when the hum returns, it comes back with what it heard, and not all listening is kind."
+        },
+        {
+            "speaker": "Luma Keel",
+            "lines": "Only the true light holds course in a world that breeds thieves and saints from the same brine, and I have no patience for those who confuse one for the other. Bring me back the crystal unsullied, and I will let the Parliament’s schedule-keepers know that the Lantern Cartel owes you a debt we intend to pay in daylight. Guide my convoy home under honest signals and you will find safe piers, quick hands, and a ledger that remembers your name kindly. Fail, and I will be the one who speaks first in the Exchange and the Parliament steps, and the story I tell will end with your shadow aimed at a graveyard of splintered keels. Choose the tide you serve, Raithe Calder, for men who straddle currents are the first to drown when the flow turns."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "lines": "Matriarch, I have heard bells used as cudgels and blessings both, and I’ve bled enough for other people’s versions of order to know when a voice tries to bully the sea. I am not here to wear your threat like a cloak; I am here because a friend asked and because I know what fog does to a family’s luck. I’ll take the bone-map, I’ll shoulder the risk, and I’ll walk where the reef chews on oaths and anchors with the same teeth. Iria, when I nod, you push your boats through and don’t look back, because I intend to make that false bell choke on its own echo. And if the Pale starts whispering names, I’ll make sure it forgets yours and remembers mine instead."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Give Ildra the earring’s hum and walk deaf to false bells",
+            "text": "You unclasp the bone-chime earring that hums when fog breathes and set it in Ildra’s waiting palm, feeling the delicate buzz die like a bee trapped under glass. She cups it to her ear, whispers a word that tastes like salt and old thunder, and the world pulls back from your hearing as if corked. The regular tolls from distant beacons fade to a remembered rhythm, while the sly ghost-bell that has been pricking at the edge of your thoughts gutters and goes dark. Iria’s lips move in careful pilot code and you read them more than hear them, relying on the tide in your knees and the ring of the boat to speak in stead of bells. The Pale presses closer, but its lies come without hooks, and in the wet hush your focus sharpens to the cut and curl of water over hidden teeth.",
+            "outcome": "With the false tolls blunted, you steer by the white lace of current and the bone-scribed map, skirting sinkholes the Syndicate hopes you’ll find with your hull. The clapper rigging reveals itself as a taut line of kelp resin and brass cleverly hidden in a natural arch, and you climb it like a memory that refuses to be drowned. You sever the line with the rib-edge falchion, catch the stolen light-crystal in a sling net before it can crack on the reef, and watch the assembly hang mute as a gutted bell. The convoy slides after Iria’s lanterns, trusting the living silence you’ve bought with your earring’s hum, and Vyraleth’s distant beacons seem to warm as you turn home. When the earring’s sound returns at dawn, it brings a faint aftertaste of deep bells beating far below the harbor mud, a reminder that some listenings come back with stories that will want answers."
+        },
+        {
+            "id": "C2",
+            "title": "Write a true, small secret on the Mnemos Leaf and trade it instead",
+            "text": "You draw the ember-inked Mnemos Leaf from your pouch, the one Abbatess Serene Khel told you not to squander, and you set it against the gunwale where the tide can smell it. In slow strokes you write a true secret that harms no one but costs you a private shelter, the night you slept under the Leviathan Bone Bridge and admitted to the dark you were afraid of the Basilica’s songs. The leaf drinks the confession, warms like a coal, and holds the truth in its grain the way a knot holds a promise. You show Ildra the glowing script and offer it in place of Iria’s schedule, because a pilot’s timing is a blade you won’t put in anyone’s hand. She studies you, then the leaf, and nods with a kind of pity, because those who trade memory know every coin leaves a thumbprint on the soul.",
+            "outcome": "Ildra accepts the Mnemos Leaf and scratches a path on bone that twists like a gull’s laugh, giving you the arch that hides the clapper and the notch where the crystal has been wedged to catch fog-light. The marsh-vapors that cling to the leaf’s ink seem to follow you, and twice you hear yourself confessing to the bridge again, a faint echo that reminds you what you gave. Still, the trade buys silence where it counts, and the convoy keeps its timing safe beneath Iria’s lantern code. You pry the light-crystal free with eel-skin gloves, pack it in a coil of damp canvas to keep its surface unsullied, and tighten the clapper’s coupling until it can only ring a harmless, honest beat. Later, Serene Khel will fix you with that deep calm stare and ask what you wrote, and your answer will matter, but for now the reef yields its theft and the false bell forgets its trick."
+        },
+        {
+            "id": "C3",
+            "title": "Retune the false bell to sing a safe channel while keeping its frame intact",
+            "text": "Rather than break the Syndicate’s cunning outright, you study the clapper’s lashings and the angled hollows carved to turn one tone into another, counting heartbeats with the tide. You thread windglass wire from your visor kit through the kelp resin, twist the coupling by a quarter tooth, and whisper a pilot’s prayer you learned watching Iria rehearse. The bell’s next breath hums low instead of sharp, a shepherd’s note that draws ships away from the teeth and toward the tongue of safe water running like silk through stone. It’s a gamble: leave the frame so you can trace the hands that built it later, and hope the Pale doesn’t learn a new answer while you work. Iria watches your signals slow and sure, holding the convoy like a mother balances dishes on a storm-slung tray, and the Spires seem to nod as the tone turns from predator to guide.",
+            "outcome": "The convoy answers your retuned bell with a disciplined arc, sliding into the channel as if a giant hand steadied each keel in turn, and the stolen crystal comes free without a scratch when you ease the brace. You coil the windglass wire back into your kit and mark the frame with a tiny notch only a mechanic would notice, a breadcrumb for later reckoning with the Chain Circle. Somewhere in the fog a smaller dinghy shears away, and you suspect a Syndicate lookout has realized the trap is now a lantern for your side, sowing a grudge you will meet again in a narrow street. Luma Keel’s pilots will whisper that you didn’t just silence the bell—you taught it manners—and their respect will taste like clean salt when it comes. But the Pale does not love being corrected, and as you lead the flotilla home, the fog tests your line with a few soft pushes that feel almost like a hand learning the shape of your back."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "3"
+        ],
+        "next": [
+            "5"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Recovered light-crystal (returned to the Cartel); in return, a lantern-token that grants safe docking at Cartel piers."
+        },
+        {
+            "type": "Coin",
+            "description": "55 coin paid in brine-stamped chits upon successful recovery and escort."
+        },
+        {
+            "type": "Faction",
+            "description": "Lantern Cartel favor: Pilotage fee waived once for a large convoy under your escort."
+        },
+        {
+            "type": "Unlock",
+            "description": "Nonmember access to certain beacon charts under supervision."
+        }
+    ]
+}

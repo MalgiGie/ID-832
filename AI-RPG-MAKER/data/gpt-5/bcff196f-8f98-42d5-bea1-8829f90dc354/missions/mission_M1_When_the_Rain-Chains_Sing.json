@@ -1,0 +1,59 @@
+{
+    "id": "M1",
+    "title": "When the Rain-Chains Sing",
+    "quest_giver": "Arelon Vale",
+    "description": "The river runs low and the mists burn off too soon. In the Needle Keep, copper roofs drip in a windless hush while the rain-chains sing a thin, metallic descant that tugs at memory like a splinter under skin. Protector Arelon Vale summons Kezra Thorneglass to stand as neutral lantern-bearer between the Keep, the Hall of Shares, and the Order of the Black Thistle. Bellwright Dox insists the chains only sing before great changes—flood or famine, oath or war. The Oathstone in the central hall bears old cuts and a missing corner, and the grooves seem to sweat, salt fine as dust, when the chains strike a certain note. The Protector wants the song read as a map, the Order wants it read as a warning, and the guilds want it ignored until the Exchange bell closes. Kezra must listen to the chains, trace the resonance through the Keep’s hidden sluice-veins, and bring the first thread of truth to light before rumors harden into tariffs and threats.",
+    "objectives": [
+        "Meet Protector Arelon Vale in Needle Keep and receive a sealed writ to act as neutral witness.",
+        "Climb the inner galleries to listen to the rain-chains with Bellwright Dox and sketch their rhythm in lantern patterns.",
+        "Consult Lantern-keeper Sula Reedmantle at the Lantern Archive about chain-song correspondences in flood years.",
+        "Examine the Oathstone grooves and note the salt-sweat; record hum intervals that match the chain’s song.",
+        "Deliver a preliminary finding to the Protector and the Order without inflaming the Hall of Shares."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Arelon Vale",
+            "lines": "Kezra Thorneglass. Your hands have steadied barges in water meaner than words, and I need that steadiness here. The rain-chains sing, and I’ve slept with that sound since boyhood, but this is not the cadence of weather. It’s a ledger, or a litany. Read it. Not to please me or the Hall—read it true, and tell me what oath it calls for, lest my guard march and my purse be empty at the same hour."
+        },
+        {
+            "speaker": "Bellwright Dox",
+            "lines": "Hells below, I’ve mended these chains in storm and siege, and I’ll swear this: metal remembers. Each drop is a finger on a harp-string, and the whole Keep hums when the river is listening. Put your lantern-light to it, scribe-pilot, and mind your breath; the notes like to crawl up your lungs and ring your teeth."
+        },
+        {
+            "speaker": "Sula Reedmantle",
+            "lines": "Bring me your sketch of the cadence and the intervals you felt in your ribs. There are old lamps whose oils were tuned to years of want and plenty. I will not pretend that light knows more than water, but light remembers what water tries to carry off. Be wary, Kezra. Reading a sign is less dangerous than naming it aloud to men whose coin and pride are at stake."
+        },
+        {
+            "speaker": "Prior Ansel of the Black Thistle",
+            "lines": "A chain that sings without rain is a tongue without truth. The City was founded on vows, and vows make noise when strained. If the note you hear is a call to penance, we must answer. If it is a call to war, we must refuse. I ask no obedience from you, oath-bearer, only conscience."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I’ll listen to the chains and not the rumors, and I’ll map what I can hear without trimming it to anyone’s ledger. If the song is a road, we’ll walk it together. If it’s a warning, we’ll bind it to light so it can’t be sold by the ell."
+        }
+    ],
+    "connections": {
+        "previous": null,
+        "next": "M2",
+        "locations": [
+            "Needle Keep",
+            "Lantern Archive"
+        ],
+        "npcs_involved": [
+            "Arelon Vale",
+            "Bellwright Dox",
+            "Sula Reedmantle",
+            "Prior Ansel of the Black Thistle"
+        ],
+        "themes": [
+            "omens",
+            "oaths",
+            "public trust"
+        ]
+    },
+    "rewards": [
+        "Sealed Writ of Neutral Witness from the Protector (grants access to civic hearings and guarded spaces)",
+        "Access to Needle Keep sluice-galleries for future work",
+        "A vial of memory oil from Sula tuned to storm-years (improves clarity when recording patterns)"
+    ]
+}

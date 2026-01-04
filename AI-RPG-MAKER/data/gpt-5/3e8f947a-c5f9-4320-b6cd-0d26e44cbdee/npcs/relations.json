@@ -1,0 +1,287 @@
+[
+    {
+        "from": "Arakel Dorn",
+        "to": "Matron Sere Kall",
+        "type": "Alliance"
+    },
+    {
+        "from": "Arakel Dorn",
+        "to": "Factor Orun Ves",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Arakel Dorn",
+        "to": "Legate Tharn Corvell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Arakel Dorn",
+        "to": "Veyla Prism",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Arakel Dorn",
+        "to": "Bryx Thornbloom",
+        "type": "Friendship"
+    },
+    {
+        "from": "Veyla Prism",
+        "to": "Factor Orun Ves",
+        "type": "Alliance"
+    },
+    {
+        "from": "Veyla Prism",
+        "to": "The Nameskeeper",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Veyla Prism",
+        "to": "Arakel Dorn",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Veyla Prism",
+        "to": "Zexi Orr",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Veyla Prism",
+        "to": "Isha Velroon",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nyssar Fenquill",
+        "to": "Professor Nyra Vale",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nyssar Fenquill",
+        "to": "Prelate Lys Amon",
+        "type": "Different goals"
+    },
+    {
+        "from": "Nyssar Fenquill",
+        "to": "Serge Kobb",
+        "type": "Alliance"
+    },
+    {
+        "from": "Nyssar Fenquill",
+        "to": "Edda Tarn",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Serge Kobb",
+        "to": "Legate Tharn Corvell",
+        "type": "Different goals"
+    },
+    {
+        "from": "Serge Kobb",
+        "to": "Isha Velroon",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Serge Kobb",
+        "to": "Nyssar Fenquill",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Serge Kobb",
+        "to": "Pera Thass",
+        "type": "Friendship"
+    },
+    {
+        "from": "Serge Kobb",
+        "to": "Bryx Thornbloom",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Isha Velroon",
+        "to": "The Nameskeeper",
+        "type": "Alliance"
+    },
+    {
+        "from": "Isha Velroon",
+        "to": "Serge Kobb",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Isha Velroon",
+        "to": "Veyla Prism",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Isha Velroon",
+        "to": "Talekan Yss",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Isha Velroon",
+        "to": "Edda Tarn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Talekan Yss",
+        "to": "Professor Nyra Vale",
+        "type": "Friendship"
+    },
+    {
+        "from": "Talekan Yss",
+        "to": "Prelate Lys Amon",
+        "type": "Conflict"
+    },
+    {
+        "from": "Talekan Yss",
+        "to": "Isha Velroon",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Talekan Yss",
+        "to": "Sila Vane",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sila Vane",
+        "to": "First Rook Jey Olt",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sila Vane",
+        "to": "Factor Orun Ves",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sila Vane",
+        "to": "Isha Velroon",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sila Vane",
+        "to": "Murne Glass-Eater",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sila Vane",
+        "to": "Talekan Yss",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Murne Glass-Eater",
+        "to": "Factor Orun Ves",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Murne Glass-Eater",
+        "to": "Sila Vane",
+        "type": "Friendship"
+    },
+    {
+        "from": "Murne Glass-Eater",
+        "to": "Arakel Dorn",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Pera Thass",
+        "to": "Prelate Lys Amon",
+        "type": "Alliance"
+    },
+    {
+        "from": "Pera Thass",
+        "to": "Legate Tharn Corvell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Pera Thass",
+        "to": "Serge Kobb",
+        "type": "Friendship"
+    },
+    {
+        "from": "Pera Thass",
+        "to": "Edda Tarn",
+        "type": "neutral"
+    },
+    {
+        "from": "Pera Thass",
+        "to": "Zexi Orr",
+        "type": "Friendship"
+    },
+    {
+        "from": "Zexi Orr",
+        "to": "Prelate Lys Amon",
+        "type": "Conflict"
+    },
+    {
+        "from": "Zexi Orr",
+        "to": "Matron Sere Kall",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Zexi Orr",
+        "to": "Pera Thass",
+        "type": "Friendship"
+    },
+    {
+        "from": "Zexi Orr",
+        "to": "Veyla Prism",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Zexi Orr",
+        "to": "Riala Hearthwake",
+        "type": "Friendship"
+    },
+    {
+        "from": "Bryx Thornbloom",
+        "to": "Arakel Dorn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Bryx Thornbloom",
+        "to": "Matron Sere Kall",
+        "type": "Alliance"
+    },
+    {
+        "from": "Bryx Thornbloom",
+        "to": "Serge Kobb",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Edda Tarn",
+        "to": "The Nameskeeper",
+        "type": "Alliance"
+    },
+    {
+        "from": "Edda Tarn",
+        "to": "Pera Thass",
+        "type": "neutral"
+    },
+    {
+        "from": "Edda Tarn",
+        "to": "Isha Velroon",
+        "type": "Friendship"
+    },
+    {
+        "from": "Edda Tarn",
+        "to": "Nyssar Fenquill",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Riala Hearthwake",
+        "to": "Mistress Pall Ludo",
+        "type": "Different goals"
+    },
+    {
+        "from": "Riala Hearthwake",
+        "to": "Prelate Lys Amon",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Riala Hearthwake",
+        "to": "Zexi Orr",
+        "type": "Friendship"
+    },
+    {
+        "from": "Riala Hearthwake",
+        "to": "Sila Vane",
+        "type": "neutral"
+    }
+]

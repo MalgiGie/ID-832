@@ -1,0 +1,59 @@
+{
+    "name": "Lysa",
+    "surname": "Curren",
+    "race": "Human (Riverfolk)",
+    "age": 34,
+    "appearance": "Sun-browned, reed-cut forearms, glass-thread bracelets that ring softly, tarred boots and a weather-cracked smile.",
+    "character": "Flinty and fiercely protective of her crew; weighs risks like coin and pays her debts in full.",
+    "traits": [
+        "pragmatic",
+        "loyal",
+        "early riser",
+        "risk-calculating"
+    ],
+    "skills": [
+        "glassreed harvesting",
+        "smelter-barge logistics",
+        "knotwork and moor-lines",
+        "canal pilotage",
+        "hard bargaining at the Exchange"
+    ],
+    "talents": [
+        "hears when cooling glass is ready to sing",
+        "nose for approaching squalls",
+        "steadies panicked crews with a few words"
+    ],
+    "flaws": [
+        "distrusts engineers",
+        "uneasy under mothlight",
+        "short-tempered with bureaucracy"
+    ],
+    "dreams": [
+        "forge a safe compact with the Reedmother",
+        "break dependence on Tidewright tolls",
+        "found a Reedgate school for pilot orphans"
+    ],
+    "secrets": [
+        "once routed an off-book reed shipment through the Veil during a strike",
+        "keeps a shard etched with a fragment of an unsigned Reedmother pact",
+        "sometimes hears the Prism Spire hum in her late mother's voice"
+    ],
+    "relations": [
+        {
+            "npc_name": "Kara Dusk",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Tomas Helwin",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Pesha Lume",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Daru Fenlik",
+            "relation_type": "Alliance"
+        }
+    ]
+}

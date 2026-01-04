@@ -1,0 +1,86 @@
+{
+    "id": "M3",
+    "title": "The Chain That Sang of Fire",
+    "quest_giver": {
+        "name": "Zexi Orr",
+        "affiliation": "Rookery of Aerie Pilots"
+    },
+    "description": "High along the spine where the wind gnaws at teeth of bone and glass, the Spinespan Aerie sways like a ship moored to the sky, its sails of shadecloth flickering with sun and dust. Rooks caw around the mastheads and signal kites snap their colored tails, while down below the Spinewind canyon swallows the city’s breath and returns it as a long, low song. Zexi Orr’s messenger rook came back with a mirrored eye that refused to show the present; instead it turned and turned a vision of Marrowhold burning in a fire not yet kindled, the flames licking along rib-arches as if they were harp-strings. She sent her tightest kite-codes and whispered for Rogan Kettlebone to come without fanfare, and he climbed the bone stairs with the old ache in his fulgurite-scored shoulder, remembering the day a mooring chain sang its hunger and tried to pull Zexi into storm. Now a great chain thrums a counter-note to the Resonant Gate’s second tone, a vibration that is neither warning nor ordinary strain but a yearning, as if the iron wants to answer a caller in the clouds. Pilots mutter sabotage and some of the Watch Lancers post along the rail with their hook-lances set, eyes cutting between Syndicate riggers and Bonewright tool-chests, while the wind carries the taste of resin and powdered cullet like ground sugar on a wound. Somewhere on the chain, where grease should be grip-true and cooled iron should be silent, someone has taught the links to listen and to long. The Aerie is the city’s lifeline, and a chain that fails here will not only drag a skyship into the canyon but tear a row of ribs down with it, and all the while the mirrored rook-eye keeps showing fire that has not happened yet, and Zexi’s hands will not stop shaking until the song is changed. Rogan stands with the weight of old oaths and the knowledge that storms answer names spoken rightly in the Saltglass Expanse, and he fears that someone has found a way to make the Gate speak a name the sky cannot refuse. The choice before him is knife-edged and humming; call the Watch at once and risk a panic that tramples proof into dust, or move in the quiet margin where a man can still hear the difference between a chain singing its duty and a chain being sung to by a hidden will.",
+    "objectives": [
+        "Meet Zexi Orr at Spinespan Aerie and review the intercepted signal kites in hushed confidence.",
+        "Inspect the weakened mooring chain and identify the source of the counter-hum without provoking a snap.",
+        "Confront Murne Glass-Eater and Syndicate riggers attempting a clandestine resonance test among the moorings.",
+        "Decide whether to alert Legate Tharn Corvell immediately or secure proof before calling the Watch to the Aerie.",
+        "Stabilize the mooring chain using star-metal filings and wind-kelp rope knots to quiet the wrongful song."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Zexi Orr",
+            "lines": "Your feather is still tied to my signal kit, and every time it taps my cheek I remember the chain that tried to make a verse out of my bones and how you dragged me back into breath. The rook came home with an eye like a shard of festival mirror and no reflection of me in it, only a city kindling at the ribs as if the wind were made of oil and the prayer bells were wicks. I watched the chain all morning and it does not hum like weight and weather, it hums like a throat trying not to cry while someone whispers a name in its ear. The riggers brought resin that smells wrong and cullet dust that glitters too green, and they keep looking at the Gate when the gusts rise as if waiting for it to answer a cue. I am afraid, Rogan, not of the height or of the storm, but of clever hands that think the city is an instrument you can play without breaking a string, and of the moment when that mirrored eye stops showing a warning and starts becoming a window."
+        },
+        {
+            "speaker": "Rogan Kettlebone",
+            "lines": "I have stood in riot smoke where the echo-pipes turned shouts into thunder, and I have learned that metal has a manner when it is honest and another when it is coaxed to deceit. This chain carries more than weight; it carries a message that creeps into the wrists of anyone who touches it, a tremor that wants to be a command. Give me the intercepted kites and I will read their tails against the sky; the Rookery’s code speaks with curt grace, and sometimes those little angles confess bigger sins. If the Syndicate is trying to tune iron to the Gate’s long breath, then they are threading a wire from storm to ledger and asking lightning to sign its name. I will move quiet until I cannot, and when I cannot I will call whistles and names that still make men look up from their tools, because I would rather be cursed for a loud rescue than blessed over a silent ruin."
+        },
+        {
+            "speaker": "Edda Tarn",
+            "lines": "I ran a cloth over the links and it came back with the soft bite of ground glass on my skin, and that should never be on a mooring chain unless someone is courting friction’s false friend. The pivots are dressed in a resin that slicks against heat until a certain pitch wakes it, and then it goes from smooth to hungry in a blink, as if the iron suddenly learned to chew. This is a trick I have seen in demonstration halls where bad masters make bone sing for crowds, only this is worse because the crowd is us and the laugh will be a fall. I can quiet it with a dusting of star-metal filings to reset the grain and a braid of wind-kelp knots to spread the strain, but the cure will not last if the song keeps being fed. Help me buy a minute with your back and your steady hands and I will give you a chain that listens to duty again, long enough to decide which throat is telling it to betray us."
+        },
+        {
+            "speaker": "Murne Glass-Eater",
+            "lines": "You wear a coat of bone and a saber cut from a storm and you talk to me of right and wrong as if the city does not eat the same grist every day until its teeth ache. We are testing a harmony that will keep the Gate from shivering the roofs off every time a petulant gust comes crawling down the Spinewind, and if it requires a little artistry then you should be thanking us. The Syndicate pays for the glass that keeps old women from being cooked alive under noon, and it is time the bones stopped pretending they are priests about what can sing and what must not. Step away with your pilot pet and your Bonewright whisperer, and I will see you paid in coin and credit at the Ember Market until your conscience is dulled to a respectable shine. Otherwise you can bleed your nobility out on a link that does not care about your oaths, and I will have the comfort of knowing that I offered you a kinder end than a gust will give."
+        },
+        {
+            "speaker": "Legate Tharn Corvell",
+            "lines": "I hear whistles in my sleep and I wake counting the ribs I still command, and I do not like that I was not called before the first rumor sprouted roots in my barracks. All of you will take three paces back and remember that the Aerie stands on permits and oaths, not on the chest-thumping of guild boys trying to prove they can spit farther into the wind. Kettlebone, you were a good man under orders and you are a dangerous one without them, so fix your eyes on the chain and not on the throats you want to throttle. If I bring the Watch down hard now the truth will scuttle faster than roaches and I will be left with a broken mooring and a lot of righteous speeches over a pit. Give me something that can hang a man in the Hall of Mirrors when the Temple’s floor is cold, and I will make an example big enough that even the Gate will pause between notes."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Sound the Whistles and Call the Watch",
+            "text": "You lift the bone whistle to your lips and let the note cut the wind, then slash the signal kites to show danger to all eyes within a mile. The sound runs the echo-pipes like a spark on dry reeds, and the Aerie Lancers move as one, their hooks biting the deck and their boots finding trust in practiced grooves. Zexi flinches but nods, her hands already on the brake drums as Edda scatters star-metal like salt, and for a heartbeat the chain’s hunger falters. Murne’s men curse and start to pull their resin tins, but the Watch field-marshal’s counter-call freezes them in place, and now there are witnesses who do not owe coin to either side. You choose order in the open rather than quiet shadows, wagering that panic contained is stronger than sabotage allowed to hide its face.",
+            "outcome": "The Legate arrives with a half-squad and a priest from the Hollow Sun to sanctify an evidence mark, and for a few long breaths the Aerie is a courtroom braided in wind. Murne melts like a flake of soot in rain, leaving two riggers who swear they were only obeying a tuning diagram signed by no hand, and the coin trail vanishes into a ledger that will not open without a festival’s worth of pressure. The chain is bound and the counter-hum bled out with filings and knots, and your name goes on a report that keeps the Aerie open at the cost of a lot of bad tempers. The Rookery grumbles that you brought the Watch before you brought them proof, yet their elders concede that you saved lives and bought them the hours to scrub every mooring on the span. The city does not burn today, and the rook with the mirrored eye shows only a shaken sky, but the rumor that a Watch favorite got spooked nips your heels whenever you walk the Cage Market, and somewhere a black mirror slides another inch into a pocket you cannot see."
+        },
+        {
+            "id": "C2",
+            "title": "Shadow the Riggers and Weave Proof",
+            "text": "You raise a hand to Zexi and Edda and move with the rhythm of the chain, finding the breath between gusts and stepping where the deck remembers your weight from other storms. You let Murne talk his circles and you count his lies in the stutter of his tongue and in the way his eyes keep catching the Gate as if it were a partner on a dancefloor. One by one you lift the resin tins and sniff the notes, then slip a marrow-ink rubbing of their maker’s imprints into your vambrace, and from a glove you steal a folded slip of kite-code that matches none in the guild book. You signal Zexi to loft a decoy pattern that draws the riggers into a false lull while Edda sifts cullet dust into a paper for later testing, and for a moment the chain forgets it was being taught to ache. You commit faces and gestures to the ledger in your head, because proof is more than powder and paper; proof is how a man behaves when he thinks the wind loves him.",
+            "outcome": "When the gust knifes across the span the chain lurches toward the tone that would have wrenched a skyship free, and in that heartbeat you plant your boots and haul, your wind-kelp rope singing as you take the strain, while Edda’s knots bite like teeth and hold. The counter-hum gutters, and you pour star-metal filings down the throat of the mooring as if you were feeding a furnace a blessing rather than a meal, and the wrong song chokes into silence. In the quiet aftermath you place the resin vials, the kite slip, and a puck of cullet with a maker’s swirl before the Legate, and the priest of the Hollow Sun numbers and seals them for the Hall of Mirrors without touching their faces. Murne smiles a thin little smile that says he will change names before dusk, but the Syndicate’s rig chief blanches at a single flourish in the kite slip that only his crew uses, and the Rookery elders mutter that you pulled the teeth without breaking the jaw. The Aerie stays open, the rook’s eye clouds to ordinary sheen, and your name becomes a wedge the Watch uses to pry open a quiet inquiry that will rattle the Ember Market like a kiln hammered out of tune."
+        },
+        {
+            "id": "C3",
+            "title": "Cut a Deal with the Glass-Eater",
+            "text": "You lean into Murne’s shadow and speak in a voice the wind will not steal, painting a picture in which everyone walks away today and nobody drowns in their own righteousness. You promise him that you can make the Legate look the other way for an hour if he relents on the resonance test and hands you a thread that leads to the one who taught the chain to listen. You remind him that storms do not recognize ledgers and that syndicates with too many funerals bleed coin faster than a sliced purse, and you make certain he sees the sweat on the pivot pins. Zexi watches with tight eyes and Edda with a bonewright’s disdain, but both hold while you trade the kind of words that come with debts braided into their tails. Murne, who measures men by the weight they can carry and the price they will admit, nods once and offers you a name that smells like smoke and mirror oil.",
+            "outcome": "The riggers cap their resin and slink back to the shade of a crane, and you and Edda move in a practiced hurry to bind the chain and dust the filings, letting the iron relearn the simple loyalty of weight. The Legate arrives late by your design and early by his habit, and you give him a clean deck and a dirty suspicion instead of a crime he can clap irons around, and his eyes tell you that he knows the difference. In the heat that follows, the Syndicate tries to buy respect with festival lanterns while their accountants shuffle the name you were given into so many subsidiaries that it becomes an echo. The Rookery’s favor dims a shade because they saw you shake hands with a man whose palm is always dusted with glass, but Zexi hears the way you strip sorrow out of your words when you speak to her, and she chooses to trust the balance you keep. A path opens into the Ember Market’s back lanes where a kiln-witch fixes shards into bone, and down that path a ledger waits that will either vindicate your gamble or brand your soul in soot."
+        },
+        {
+            "id": "C4",
+            "title": "Bind the Chain in Silence",
+            "text": "You wave everyone down and make the world as small as your hands, a filing cone, and the wind-kelp rope cradled against your forearm. You listen with your scars and lay your cheek to the iron and hear the ache as a map, and you decide that politics is a luxury for men who are not standing on the lip of a fall. Zexi breathes with your rhythm and Edda’s fingers spider along the links, her knots falling into place in a pattern that wakes old training older than the Sunderspark War. The riggers mutter and Murne smirks, but you do not grant them even a glance, because a man who looks away from a chain at the wrong second becomes a story tied to a bell. You make the last braid and you sing low, a bonewright’s half-remembered measure learned in a workshop where iron cacti bloom steel, and the wrong voice in the metal loses its grip and slides away into the gust.",
+            "outcome": "The span steadies and the Aerie breathes out, and for a precious minute the wind sounds like wind again instead of like a courtroom or a sermon. The Legate comes up the stairs with a question in his mouth and finds only your sweat on the iron and a chain that refuses to confess, and he hates you a little for fixing a thing that he cannot punish. Murne shrugs with admirable elegance and tells a story about routine maintenance that is almost pretty enough to believe, and the Syndicate’s books remain as shut as a winter mussel in a cold river. The Rookery pays you with quiet gratitude and a codebook slipped into your hand with a feather’s touch, and they promise that when you need a signal to cut through storm-thick air, your colors will never be ignored. The rook’s mirrored eye dulls to simple cornea, but when you face a glass pane later you think you see a flick of orange at the edge, as if the future were not persuaded by simple knots and filings but were willing to wait for a louder song."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Rookery signal-kite codebook that sharpens your eye for tail angles and counter-sigs, improving signal literacy in storm and glare alike."
+        },
+        {
+            "type": "reputation",
+            "description": "Earned favor with the Rookery of Aerie Pilots, moderate and murmured, opening doors along the mastways and winning nods from perch to perch."
+        },
+        {
+            "type": "access",
+            "description": "Authorization to requisition one Aerie lancer for field escort on limited terms, a winged hook at your back when the road bites hard."
+        }
+    ]
+}

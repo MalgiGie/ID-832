@@ -1,0 +1,44 @@
+{
+    "id": "M4",
+    "title": "The Widow’s Lamp",
+    "quest_giver": "Neth Cowl",
+    "description": "Night gathers under the bluffs, and the Salt Widow’s Lighthouse leans into the wind with its cold, stubborn light. Captain Neth Cowl sends a folded bone-lace message through the Market of Teeth: a cache of old wrecker ledgers and storm marks lies in a seam-cave beneath the tower, and Brinelaw is sniffing down the coast. He wants the cache retrieved or scuttled, and he wants to know why the beacon never dies when thieves swear it dead. The Salt Widow’s legend is as sharp as her lampstone: those who try to snuff the beacon see their own lights refuse to spark forever after. Inside the tower, lamp-smoke tastes of salt-wedding sorrow, and wind moves like a dress around the stairs. The records down there could teach the city where the shoals creep and how saboteurs hid their boats the night the chains went wild—or they could bury families in fines and shackles.",
+    "objectives": [
+        "Travel by night skiff to the Salt Widow’s Lighthouse and infiltrate the seam-cave at slack water.",
+        "Recover the cache of wrecker ledgers and storm records without drawing Brinelaw attention.",
+        "Investigate the beacon’s cold flame and note any alchemical or occult mechanism.",
+        "Decide whether to deliver the records to Neth Cowl, to Osric Greyfen, or to split the intelligence between them."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Neth Cowl",
+            "lines": "The lighthouse keeps a light for love, not for law. The woman who lit it has more patience than any magistrate and more rage than any storm. Those ledgers aren’t lists of crimes; they’re the names of children who ate because their elders cut a sail off a dead ship. Bring me those books and I’ll keep the names safe. If the Brinelaw wants to fix a danger, they can pay to move the shoals with prayer and coin."
+        },
+        {
+            "speaker": "Osric Greyfen",
+            "lines": "There are nights when compassion must take the longer road. I do not ask you to betray your own past on those rocks, Mara Kestrel. I ask only for a copy of the marks that show where ships die over and over. Give me that, and I can justify lanterns and buoys that save lives without rotting out what is left of our trust."
+        },
+        {
+            "speaker": "The Salt Widow (a whisper on the stair)",
+            "lines": "I light and I wait. I light and I wait. When you bring me a story of someone found, I will sit. When you bring me a ring with no finger to warm it, I will sleep. Until then, my lamp burns. Take what you will. Those who steal the light will one day need it, and their hands will be empty."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "I know this tower’s breath. I’ve counted my heartbeats in its fog and marked my steps by its cold. I will take what can save, and I will not take what only hurts. If a truth must cut, it will cut me first."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        "Secret chart marks for hidden inlets under Broken Cap (faster covert travel)",
+        "Choice-based favor: +Favor with Ribshadow Brotherhood (if delivering to Neth) or +Favor with Brinelaw Keepers (if sharing with Osric)",
+        "Storm-marked lampstone shard that resists normal flame (trinket)",
+        "20 silver in wrecker coin or a Brinelaw promissory for equivalent harbor dues"
+    ]
+}

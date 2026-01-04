@@ -1,0 +1,45 @@
+{
+    "id": 10,
+    "title": "Crown of Cirrus",
+    "quest_giver": "The Sailor of the Ninth Knot",
+    "description": "The Crown of Cirrus takes seven minutes to pass a city’s brow, and Lyris feels every second like a bead on a rosary of risk. Kites rise from rooftops to read the veil; the Old Song swells as Anchor Three’s capstans turn; and the crowd’s breath braids with the wind. The Sailor of the Ninth Knot speaks through a brass voice-pipe from nowhere anyone can point to, giving calm instructions in a voice like a tide. Ovelle’s teams dance along tethers with cloudfruit cords in their teeth; Kesh counts lightning to place the thunderherd away from a surge; Istel watches lens flicker for the first sign of a storm-eel curve in the math. Arch-Warden Mael’s hand never leaves the emergency brake. And then the ten-knot curve wakes under Lyris’s fingers, a hum that is also a chord, and the city moves, a hair, a breath, a promise.",
+    "objectives": [
+        "Climb Anchor Three’s outer scaffold and tie the partial-release sequence with Erynn’s tuning rods and Ovelle’s cloudfruit lines.",
+        "Coordinate with Kesh Storm-Runner to adjust ground anchors in response to thunderherd shifts.",
+        "Use the Cirrus Splitter Lens to monitor oscillations and signal Arch-Warden Mael for micro-pauses.",
+        "Ride out the induced yaw by redistributing lift via aerolith nodules and cloudfruit cords along the test chain.",
+        "Rebind the Nine Knots in their test configuration and confirm stabilization before the Crown passes."
+    ],
+    "dialogue": [
+        {
+            "speaker": "The Sailor of the Ninth Knot",
+            "lines": "Breathe with the chain. In on the ratchet, out on the click. Tie as if you were forgiven already for anything that might go wrong, because your fear is the only clumsy hand in this work. When the city sighs, you will think she is falling. She is not. She is remembering."
+        },
+        {
+            "speaker": "Arch-Warden Mael Iqiren",
+            "lines": "I have never hated the sky. I have feared it properly. If you can teach me not to be ashamed of my fear by the time that crown passes, I will call you engineer in a room full of my peers, and take the shame that comes with that."
+        },
+        {
+            "speaker": "Ovelle Kite",
+            "lines": "Hold! Hold! Now cut! No, not you, the other you—gods, I need three more hands and fewer prayers. Good. Good. If you live through this, I will lend you my harness for festivals until we’re old."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "Old Song, don’t fail me. Don’t fail us. I have loved you since you taught me how to count. Move with us and we will carry your tune to places you have never seen. A breath. A hair. A promise. Now."
+        }
+    ],
+    "connections": {
+        "previous": [
+            9
+        ],
+        "next": [
+            11
+        ]
+    },
+    "rewards": [
+        "Proof-of-concept data: Partial unmooring successful within safe tolerances",
+        "City drifted a measurable span without catastrophic stress (public awe and factional alarm)",
+        "Title whispered by workers: Chainwalker",
+        "Arch-Warden grants supervised access to Anchor schematics for further tests"
+    ]
+}

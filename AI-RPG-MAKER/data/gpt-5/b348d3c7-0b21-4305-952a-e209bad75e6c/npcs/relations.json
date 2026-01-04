@@ -1,0 +1,572 @@
+[
+    {
+        "from": "Orren Halv",
+        "to": "Ysra Dokk",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Orren Halv",
+        "to": "Pel Korr",
+        "type": "Alliance"
+    },
+    {
+        "from": "Orren Halv",
+        "to": "Gantrix Pell",
+        "type": "Friendship"
+    },
+    {
+        "from": "Orren Halv",
+        "to": "Talo Ren",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Orren Halv",
+        "to": "Jana Fell",
+        "type": "Conflict"
+    },
+    {
+        "from": "Orren Halv",
+        "to": "Lisi Jhak",
+        "type": "Different goals"
+    },
+    {
+        "from": "Orren Halv",
+        "to": "Kael Ibrin",
+        "type": "Alliance"
+    },
+    {
+        "from": "Orren Halv",
+        "to": "Rull Fen",
+        "type": "Hostility"
+    },
+    {
+        "from": "Orren Halv",
+        "to": "Thay Nerr",
+        "type": "Hostility"
+    },
+    {
+        "from": "Orren Halv",
+        "to": "Senne Vell",
+        "type": "Different goals"
+    },
+    {
+        "from": "Ysra Dokk",
+        "to": "Orren Halv",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ysra Dokk",
+        "to": "Rull Fen",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ysra Dokk",
+        "to": "Thay Nerr",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ysra Dokk",
+        "to": "Jana Fell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ysra Dokk",
+        "to": "Talo Ren",
+        "type": "Different goals"
+    },
+    {
+        "from": "Ysra Dokk",
+        "to": "Lisi Jhak",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ysra Dokk",
+        "to": "Kael Ibrin",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ysra Dokk",
+        "to": "Gantrix Pell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Lisi Jhak",
+        "to": "Thay Nerr",
+        "type": "Alliance"
+    },
+    {
+        "from": "Lisi Jhak",
+        "to": "Talo Ren",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lisi Jhak",
+        "to": "Orren Halv",
+        "type": "Different goals"
+    },
+    {
+        "from": "Lisi Jhak",
+        "to": "Pel Korr",
+        "type": "Alliance"
+    },
+    {
+        "from": "Lisi Jhak",
+        "to": "Jana Fell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Lisi Jhak",
+        "to": "Sav Orlai",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lisi Jhak",
+        "to": "Ysra Dokk",
+        "type": "Conflict"
+    },
+    {
+        "from": "Lisi Jhak",
+        "to": "Kael Ibrin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Pel Korr",
+        "to": "Orren Halv",
+        "type": "Alliance"
+    },
+    {
+        "from": "Pel Korr",
+        "to": "Gantrix Pell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Pel Korr",
+        "to": "Thay Nerr",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Pel Korr",
+        "to": "Talo Ren",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Pel Korr",
+        "to": "Lisi Jhak",
+        "type": "Alliance"
+    },
+    {
+        "from": "Pel Korr",
+        "to": "Sav Orlai",
+        "type": "Friendship"
+    },
+    {
+        "from": "Pel Korr",
+        "to": "Jana Fell",
+        "type": "Different goals"
+    },
+    {
+        "from": "Pel Korr",
+        "to": "Kael Ibrin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jana Fell",
+        "to": "Orren Halv",
+        "type": "Conflict"
+    },
+    {
+        "from": "Jana Fell",
+        "to": "Ysra Dokk",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jana Fell",
+        "to": "Talo Ren",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Jana Fell",
+        "to": "Senne Vell",
+        "type": "Friendship"
+    },
+    {
+        "from": "Jana Fell",
+        "to": "Lisi Jhak",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Jana Fell",
+        "to": "Sav Orlai",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jana Fell",
+        "to": "Rull Fen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Jana Fell",
+        "to": "Thay Nerr",
+        "type": "Different goals"
+    },
+    {
+        "from": "Jana Fell",
+        "to": "Pel Korr",
+        "type": "Different goals"
+    },
+    {
+        "from": "Talo Ren",
+        "to": "Orren Halv",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Talo Ren",
+        "to": "Lisi Jhak",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Talo Ren",
+        "to": "Jana Fell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Talo Ren",
+        "to": "Ysra Dokk",
+        "type": "Different goals"
+    },
+    {
+        "from": "Talo Ren",
+        "to": "Pel Korr",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Talo Ren",
+        "to": "Thay Nerr",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Talo Ren",
+        "to": "Kael Ibrin",
+        "type": "Alliance"
+    },
+    {
+        "from": "Talo Ren",
+        "to": "Senne Vell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Talo Ren",
+        "to": "Gantrix Pell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Gantrix Pell",
+        "to": "Orren Halv",
+        "type": "Friendship"
+    },
+    {
+        "from": "Gantrix Pell",
+        "to": "Pel Korr",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Gantrix Pell",
+        "to": "Sav Orlai",
+        "type": "Friendship"
+    },
+    {
+        "from": "Gantrix Pell",
+        "to": "Thay Nerr",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Gantrix Pell",
+        "to": "Rull Fen",
+        "type": "Conflict"
+    },
+    {
+        "from": "Gantrix Pell",
+        "to": "Ysra Dokk",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Gantrix Pell",
+        "to": "Talo Ren",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Gantrix Pell",
+        "to": "Kael Ibrin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Thay Nerr",
+        "to": "Lisi Jhak",
+        "type": "Alliance"
+    },
+    {
+        "from": "Thay Nerr",
+        "to": "Orren Halv",
+        "type": "Hostility"
+    },
+    {
+        "from": "Thay Nerr",
+        "to": "Ysra Dokk",
+        "type": "Conflict"
+    },
+    {
+        "from": "Thay Nerr",
+        "to": "Pel Korr",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Thay Nerr",
+        "to": "Talo Ren",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Thay Nerr",
+        "to": "Sav Orlai",
+        "type": "Different goals"
+    },
+    {
+        "from": "Thay Nerr",
+        "to": "Jana Fell",
+        "type": "Different goals"
+    },
+    {
+        "from": "Thay Nerr",
+        "to": "Rull Fen",
+        "type": "Hostility"
+    },
+    {
+        "from": "Thay Nerr",
+        "to": "Kael Ibrin",
+        "type": "Different goals"
+    },
+    {
+        "from": "Thay Nerr",
+        "to": "Senne Vell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Kael Ibrin",
+        "to": "Orren Halv",
+        "type": "Alliance"
+    },
+    {
+        "from": "Kael Ibrin",
+        "to": "Talo Ren",
+        "type": "Alliance"
+    },
+    {
+        "from": "Kael Ibrin",
+        "to": "Ysra Dokk",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Kael Ibrin",
+        "to": "Pel Korr",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Kael Ibrin",
+        "to": "Rull Fen",
+        "type": "Conflict"
+    },
+    {
+        "from": "Kael Ibrin",
+        "to": "Senne Vell",
+        "type": "Different goals"
+    },
+    {
+        "from": "Kael Ibrin",
+        "to": "Lisi Jhak",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Kael Ibrin",
+        "to": "Gantrix Pell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Kael Ibrin",
+        "to": "Jana Fell",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sav Orlai",
+        "to": "Pel Korr",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sav Orlai",
+        "to": "Gantrix Pell",
+        "type": "Friendship"
+    },
+    {
+        "from": "Sav Orlai",
+        "to": "Thay Nerr",
+        "type": "Different goals"
+    },
+    {
+        "from": "Sav Orlai",
+        "to": "Jana Fell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sav Orlai",
+        "to": "Talo Ren",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sav Orlai",
+        "to": "Orren Halv",
+        "type": "neutral"
+    },
+    {
+        "from": "Rull Fen",
+        "to": "Ysra Dokk",
+        "type": "Friendship"
+    },
+    {
+        "from": "Rull Fen",
+        "to": "Orren Halv",
+        "type": "Hostility"
+    },
+    {
+        "from": "Rull Fen",
+        "to": "Gantrix Pell",
+        "type": "Conflict"
+    },
+    {
+        "from": "Rull Fen",
+        "to": "Kael Ibrin",
+        "type": "Conflict"
+    },
+    {
+        "from": "Rull Fen",
+        "to": "Thay Nerr",
+        "type": "Hostility"
+    },
+    {
+        "from": "Rull Fen",
+        "to": "Jana Fell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rull Fen",
+        "to": "Talo Ren",
+        "type": "Different goals"
+    },
+    {
+        "from": "Rull Fen",
+        "to": "Lisi Jhak",
+        "type": "Different goals"
+    },
+    {
+        "from": "Rull Fen",
+        "to": "Pel Korr",
+        "type": "Different goals"
+    },
+    {
+        "from": "Senne Vell",
+        "to": "Jana Fell",
+        "type": "Friendship"
+    },
+    {
+        "from": "Senne Vell",
+        "to": "Talo Ren",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Senne Vell",
+        "to": "Orren Halv",
+        "type": "Different goals"
+    },
+    {
+        "from": "Senne Vell",
+        "to": "Lisi Jhak",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Senne Vell",
+        "to": "Kael Ibrin",
+        "type": "Different goals"
+    },
+    {
+        "from": "Senne Vell",
+        "to": "Ysra Dokk",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Senne Vell",
+        "to": "Thay Nerr",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Senne Vell",
+        "to": "Sav Orlai",
+        "type": "Friendship"
+    },
+    {
+        "from": "Senne Vell",
+        "to": "Pel Korr",
+        "type": "Different goals"
+    },
+    {
+        "from": "Talo Brine",
+        "to": "Talo Ren",
+        "type": "Friendship"
+    },
+    {
+        "from": "Talo Brine",
+        "to": "Thay Nerr",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Talo Brine",
+        "to": "Lisi Jhak",
+        "type": "Conflict"
+    },
+    {
+        "from": "Talo Brine",
+        "to": "Jana Fell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Talo Brine",
+        "to": "Orren Halv",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ista Brine",
+        "to": "Talo Ren",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ista Brine",
+        "to": "Orren Halv",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ista Brine",
+        "to": "Thay Nerr",
+        "type": "Hostility"
+    },
+    {
+        "from": "Ista Brine",
+        "to": "Lisi Jhak",
+        "type": "Conflict"
+    },
+    {
+        "from": "Ista Brine",
+        "to": "Gantrix Pell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ista Brine",
+        "to": "Jana Fell",
+        "type": "Cooperation"
+    }
+]

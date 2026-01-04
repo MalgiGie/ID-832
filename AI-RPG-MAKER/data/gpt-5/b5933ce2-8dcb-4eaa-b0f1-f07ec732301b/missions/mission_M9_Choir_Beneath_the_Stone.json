@@ -1,0 +1,48 @@
+{
+    "id": "M9",
+    "title": "Choir Beneath the Stone",
+    "quest_giver": "Quill Vess",
+    "description": "The Sunken Charterstone reveals a rib of glowing script at extreme low tide, like fish-bones of light in a dark belly. Quill Vess and Mereth Tydel stand on the same deck for once, their disagreement folded into a shared fear. Divers hear songs in dead languages that grant them gills for a night or debts for a lifetime. Oath-leeches slide toward broken promises with the patience of snowfall. Aren must descend under ritual to soothe the stone’s anger, retrieve a missing tile if the river permits, and return with an answer to the rumors: if the Charterstone is raised, will the city owe the river a king? If so, what could be offered instead?",
+    "objectives": [
+        "Perform a joint Weir-Temple preparation rite and descend to the Sunken Charterstone at low tide.",
+        "Drive off or bypass oath-leeches without violating your own oaths.",
+        "Consult the humming stone with the prism register and the memory pin to interpret its response.",
+        "Recover a missing tile if the stone consents, and return with the river’s demand regarding the 'king-price'."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Quill Vess",
+            "lines": "Engineering without reverence is vanity; reverence without engineering is disaster. I am tired of pretending otherwise to keep everyone comfortable. If we pry the old stone up, we may give the city calm waters for a century and sell our grandchildren to a crown none of us will live to kneel before. I would rather be called a coward today than an architect of shackles tomorrow."
+        },
+        {
+            "speaker": "Mereth Tydel",
+            "lines": "The river is a god when it is hungry and a neighbor when it is sated. I do not fear hunger; I fear bargains made for applause. Go down, Aren, and listen as an honest man does, with more questions than answers. If the river demands a king, let us think of a crown it cannot wear."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "I’ve been kept alive by both oaths and river current, and neither is gentler than the other. Tie me to your line and sing me down, and I’ll bring you up whatever truth the stone grants. If the river wants a king, maybe it will settle for a city that remembers its own name instead."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": {
+        "currency": 15,
+        "items": [
+            "Charterstone Tile (consent-marked fragment, usable in final rite)",
+            "River-Salt Crystals (anchor wards against undertow)"
+        ],
+        "reputation": {
+            "Order of the Luminous Weir": 2,
+            "Temple of the Nine Tides": 2
+        },
+        "access": [
+            "Ritual culvert access beneath the city"
+        ]
+    }
+}

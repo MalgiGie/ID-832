@@ -1,0 +1,53 @@
+{
+    "id": "M4",
+    "title": "Tatuaż mostu",
+    "quest_giver": "Maera Buławka",
+    "description": "W tawernie Pod Osiemdziesięcioma Kotwicami pojawił się marynarz z tatuażem, który jest mapą Niebomostu i zakamarków jego arkad. Legia już o nim wie. Orla Krawężna potrzebuje tego planu, by przepchnąć w Radzie odbudowę przęsła dla pieszych. Elian musi wybrać między karczemną subtelnością a cichą akcją, zanim kusznicy z Wieży Grot położą na mapie swoje pieczęcie.",
+    "objectives": [
+        "Porozmawiaj z Maerą Buławką o marynarzu i sposobie pozyskania wzoru tatuażu.",
+        "Znajdź marynarza w bocznej sali hazardowej i przekonaj go do współpracy, oferując ochronę lub zapłatę.",
+        "Uchwyć wzór tatuażu na pergaminie szklarków, by zachować proporcje arkad.",
+        "Dostarcz kopię Orli Krawężnej i omów plan rekonesansu arkad od zawietrznej.",
+        "Uniknij pościgu patrolu Legii i przekaż Maerze sygnał o bezpiecznym przejściu dla marynarza."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Maera Buławka",
+            "line": "Ten chłystek ma na skórze więcej wiedzy niż niejeden inspektor Rady. Nie przepuść mi tych linii na bimber i piękne słowa. Zrób kopię szybko i czysto, a ja wyślę go łodzią, gdzie Legia nie zagląda. Nie pytaj, dokąd. Pytaj, co zrobimy z wiedzą, kiedy będzie już w rękach Orli."
+        },
+        {
+            "speaker": "Marynarz Eldan Zmierzchowy",
+            "line": "Tatuaż dostałem w sztormie, gdy Niebomost śpiewał jak naciąg na bębnie. Każda lina na mojej skórze to pęknięcie w kamieniu, a każdy żagiel to miejsce, gdzie można postawić stopę bez modlitwy. Chcecie kopię? Dajcie mi wieczór bez kuszy w plecach i trochę wina, które nie pachnie strachem."
+        },
+        {
+            "speaker": "Orla Krawężna",
+            "line": "To nie jest mapa na ścianę. To narzędzie dla dłoni, które wiedzą, kiedy kamień słucha, a kiedy się zamyka. Z tym planem mogę kazać brygadzie wejść od zawietrznej i odciąć przestawione klucze. Jeśli Rada zobaczy, że mamy plan i odwagę, nie będą mogli zamknąć Niebomostu pod pretekstem troski."
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Niosłem już strzałą linkową przez te arkady więcej niż słów przez salę Rady. Dam wam to, czego wam trzeba: linie, które utrzymają niebo nad głową. A jak przyjdzie Legia, to niech usłyszą, że kamień potrafi śpiewać głośniej niż rozkaz."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Pergamin szklarków z kopią tatuażu – +precyzja poruszania się po arkadach Niebomostu."
+        },
+        {
+            "type": "reputation",
+            "description": "Wzrost zaufania Bractwa Bazaltowych Cieśli i Maery Buławki."
+        },
+        {
+            "type": "currency",
+            "description": "50 srebrnych z kasy cechowej na wydatki mostowe."
+        }
+    ]
+}

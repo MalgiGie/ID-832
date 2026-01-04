@@ -1,0 +1,56 @@
+{
+    "id": 8,
+    "title": "Law Written on Water",
+    "quest_giver": "Nella Shuck",
+    "description": "Low tide draws the silt from the Glass Parliament’s floor, revealing the etched annuli of law and precedent. Nella Shuck of the Free Wharfers assembles petitioners at the steps, while the Saltwardens brace for unrest. Brask Ilyne and the merchants count the cost of chaos. Raithe must carry the Ember Page into the hall, keep the benches from breaking into riot, and hold the space for a Mnemos rite that will replay the Whisperfen’s borrowed night. The fissure filled with luminous grout glows when oaths go false; it may blaze with the brightness of a noonday storm. House Veyron’s advocates sharpen courtesy like knives. The city holds its breath; if the breath is released, it might be a sigh of relief—or a gasp before drowning.",
+    "objectives": [
+        "Escort Nella Shuck and petitioners into the Glass Parliament without bloodshed.",
+        "Present the Ember Page and the memory-knot from Whisperfen to the clerks of the Order of Mnemos.",
+        "Hold the floor while Abbatess Serene conducts a recall, protecting Keth Borrowed-Tongue as witness.",
+        "Expose the bribed clerk siphoning days from the tithe vaults without letting the hall dissolve into violence."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Nella Shuck",
+            "line": "We have shouted outside these doors until our throats bled salt. Today we walk inside with proof heavy enough to crack marble. Stand with us, Raithe. Not as a cudgel, but as a spine. I will not let my people be trampled by pedigrees and fees again."
+        },
+        {
+            "speaker": "Brask Ilyne",
+            "line": "Order floats all hulls, Calder, and courts are the keel. If you bring chaos into my hall, I will flood ring five in paperwork and choke the quays on injunctions. Keep your Wharfers in their lanes and I’ll let your evidence breathe."
+        },
+        {
+            "speaker": "Serene Khel",
+            "line": "Silence is not peace. Allow me to draw memory from the marsh like a thread from a loom. If it shows an oath bent, the grout will glow and law will have to look at its reflection. Raithe, hold the human chain at the doors with respect, not force."
+        },
+        {
+            "speaker": "Keth Borrowed-Tongue",
+            "line": "‘On the night in question, a vow said one thing and meant another.’ That is what the marsh said, and I keep its words. ‘If you are brave, you will let the city hear itself speak and live with the sentence.’"
+        }
+    ],
+    "connections": {
+        "previous": [
+            7,
+            5
+        ],
+        "next": [
+            9,
+            12
+        ],
+        "related": [
+            2
+        ]
+    },
+    "rewards": {
+        "items": [
+            "Commons Bench token granting you the right to speak once per session"
+        ],
+        "coin": 30,
+        "faction": {
+            "name": "Free Wharfers Assembly",
+            "favor": "Crowd support when you call for a human chain or blockade."
+        },
+        "unlock": [
+            "Reduced mooring dues for your declared household for one season."
+        ]
+    }
+}

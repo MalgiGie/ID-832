@@ -1,0 +1,74 @@
+{
+    "id": "M6",
+    "title": "Voices Under Fossil Lights",
+    "quest_giver": "Tern Quietwake, on behalf of the Fathom Tongues",
+    "description": "The Council at the Vertebrae glows with lumenlight diffused through fungal shades, and the air trembles with the expectations of wards crammed into spiral galleries. Fossil chandeliers pour history onto the present. Tern asks Kael to speak in his square voice and present proof: siphon sabotage flavored with foreign grit, a comptroller’s skim etched on a manifest, and reed-ropes set in the Whisper Mangroves. Mara Vell-Seren smiles like a tide going out and offers a room after, where bargains can be made in calm water. Mother Tullis rises from the back with orphans in orderly rows to remind the Council what a poor decision looks like when it is hungry. Ysger Thorn’s jaw works like a winch. The tuning passage behind the dais can make a whisper a roar if the right chord is set. Thassyl holds its breath.",
+    "objectives": [
+        "Present the Arsenal Manifest Page and Saltfang scrapings to the Council at the Vertebrae.",
+        "Counter Mara Vell-Seren’s legal argument without slander by citing observed facts.",
+        "Decide whether to reveal the existence of the tuning passage behind the dais to neutralize a hostile orator.",
+        "Persuade the Council to delay emergency tolls until an inquiry into siphon sabotage concludes.",
+        "Deliver a sealed copy of your testimony to the Thalassarium archive."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Tern Quietwake",
+                "line": "A city is a throat that must choose its words. Today we teach it to say, 'Wait,' instead of, 'Obey,' and the difference may be a flood spared or a ward drowned. Your voice is not loud, Kael, but it is clean. Clean carries farther than loud under bone."
+            },
+            {
+                "speaker": "Kael",
+                "line": "I’ll speak as if the reef were listening, because it is. If the Council forgets the children at the soup lines, the mangroves will say their names again next fog, and I tire of writing the same names."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Mara Vell-Seren",
+                "line": "What we have heard is a romance of grit and grievance. The city needs tariffs when danger rises, and I offer to shoulder what others cannot. If a petty thief at the arsenal skims salt for his winter comfort, what has that to do with reef rights and tolls that keep corsairs hungry?"
+            },
+            {
+                "speaker": "Kael",
+                "line": "It matters because fear provides cover for greed, and both are heavy. The siphons choke on grit that looks like your rivals’ glass, and a crate of bells nearly became an argument your brokers would win on pity. The water is shallow here; I can see the bottom. So can you."
+            },
+            {
+                "speaker": "Mother Tullis Nacrethane",
+                "line": "If you pass tolls tonight, know that you tax bread from mouths that already chew tide. I will feed them anyway. I would rather you voted with the courage of a reef than with the appetite of a market."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Ysger Thorn",
+                "line": "You did what most won’t: you said what you saw instead of what you wanted. The inquiry will hold. It might even find a spine. If you used tricks in the walls to steady the tone, I’ll pretend not to notice so long as you don’t use them to drown me later."
+            },
+            {
+                "speaker": "Mara Vell-Seren",
+                "line": "You chose to stand in the light. The light has a long memory and no manners. When you need coin without questions, remember I asked before you refused."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ],
+        "related_to": [
+            "M11",
+            "M12"
+        ]
+    },
+    "rewards": {
+        "xp": 500,
+        "items": [
+            "Council Witness Medallion (improves reception with ward reeves)"
+        ],
+        "favors": [
+            "Fathom Tongues grant access to a sealed verse on sabotage patterns"
+        ],
+        "access": [
+            "Observation ledge behind the Council dais (restricted, with escort)"
+        ],
+        "coin": "25 credit-shells"
+    }
+}

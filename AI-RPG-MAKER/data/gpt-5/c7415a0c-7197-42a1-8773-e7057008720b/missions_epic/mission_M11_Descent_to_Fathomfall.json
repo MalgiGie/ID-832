@@ -1,0 +1,85 @@
+{
+    "id": "M11",
+    "title": "Descent to Fathomfall",
+    "quest_giver": {
+        "name": "Irio Mossvane",
+        "affiliation": "Sargassum Aerarium"
+    },
+    "description": "The Fathomfall Trench lies like a blue bruise offshore, its rim visible when the water turns cobalt and the city stops to stare, as if a great eye has opened beneath the tide to watch Dorsalhaven breathe. The resonance note from the Marrow Vaults, the shard from the Tidemill Array, and the Heart-Opening Verse culled from Pilgrim hymnals all point like braided lines to the same dark mouth in the sea. Irio Mossvane has chosen a time when the wind runs clean and the chains hum low, and he assembles a slim crew whose lungs, voices, and instincts might survive where metal and arrogance drown. Lantern-fish will ghost the descent with their false winter-lights, and their mimicry will tug at eyelids and memory like sleep trying to reclaim a name. Squeeze currents will test joints and marrow, pulling at bones until they forget their shapes and beg to be hollow, and every knot will have to be checked by touch not sight. Somewhere below, slow as winter and steady as surf on stone, something answers to a hymn that no one in the city has fully remembered, and the silence around that answer will be as important as the beat itself.",
+    "objectives": [
+        "Assemble a small crew: Irio Mossvane (navigator), a Chainmaster diver (Vesk Marran), and a Pilgrim singer (designated by Siala).",
+        "Anchor at the Trench rim and descend in stages, planting three song-nodes tuned to the Heart-Opening Verse.",
+        "Evade predatory lantern-fish by using damped lanterns and moon-iron to cut emergency lines if snagged.",
+        "Listen for and record the deep pulse; retrieve a scale or message if the heart answers without provoking a violent upwelling."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Irio Mossvane",
+            "lines": "We will go down like a story told to a child—slow, with repetition, and no surprises, because the sea yawns when you hurry and closes when you boast. I will keep the lines true if you keep the song steady, and if the compass wavers I will trust your ribs more than the needle’s shine. If you feel your bones forget you, tug twice and I will haul you up whether you like it or not, because pride is a poor anchor when the bottom calls your name. I have mapped sky-currents and bone-shadow both, but the Trench is another grammar, and I would rather stutter in safety than speak fluent folly. Take a taste of your Oathwell brine before we cast off, Mara, so your promises sting true when the cold reaches for you and asks you to loosen your grip."
+        },
+        {
+            "speaker": "Vesk Marran",
+            "lines": "I have worked the Array with a chain around my waist and winter in my teeth, and I have seen men who thought themselves iron turn to water when the links began to sing. The Trench does not scare me; it sharpens me like salt on a wound, honest and clean, but it will drown any lie we tell ourselves about control. What scares me is a city that thinks it can bargain with the sea like it is buying rope, measuring breath by coin and forgetting that every rivet is a prayer answered by sweat. We respect what we meet or we become a cautionary song hummed by widows, and I refuse to be a verse in that tune. I will carry the cutting-knife of moon-iron wrapped and cold, and I will cut a line without flinching if the lantern-fish try to write our names on their bellies with that false light."
+        },
+        {
+            "speaker": "Lira Thole",
+            "lines": "Breathe on the measure I give you, not faster and not braver, because courage out of rhythm is just panic with better clothes. The Heart-Opening Verse is a cradle-song to an old sleeper, and each note must be laid like a palm on a brow, steady and warm, not grasping. If you hear a second note under mine, do not try to match it—let it pass through you like tide through reeds, because a heart that old speaks in currents, not words, and it does not ask for harmony from uninvited throats. When I draw the long note you will feel your joints loosen, as if your body wants to become water; that is the Trench asking for your weight, and you must answer with the memory of breath. If something rises to us, a scale or a hush or a cold that feels like a question, we will accept what is offered and we will not beg for more, because hunger is the quickest way to be mistaken for a net."
+        },
+        {
+            "speaker": "Mara Kestrel",
+            "lines": "If the deep answers, we will be polite, and if we are ignored, we will be grateful for the lesson and set our feet more softly next time. We will ask our question once and only once, and we will listen to all the silence around the answer as if it were as important as the word, because I have learned that silence carries more truth than shouting chains. If the sea reaches for us with curiosity or hunger, we will leave it only our bubbles and our respect, and we will take back with us only memory and a map that can be sung. My bowstring has hummed strange on nights when Orum dreams, and I will trust that hum as I trust the shimmer on my Tideglass compass when clouds darken the sun. I will mind the lantern’s shutter, I will not look straight at false winter-light, and I will loosen my knife only for lines and never for fear."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Yield to the hymn and dim the lights",
+            "text": "Mara nods to Lira and shutters the rime-lantern to a thin seam, letting the Pilgrim’s voice be the only beacon in the dark. She signals Irio to slack the descent by half a measure so each breath can find the note and rest there like a gull on a thermal. She stows the moon-iron knife deeper, deciding that the sea will take patience as proof of courtesy and violence as proof of panic. Her fingers trace the Oathwell phial at her throat, and she promises herself to leave without a souvenir if the deep does not offer one. Each song-node is placed with a whispered apology to the water, and she keeps her eyes closed for a count after each placement to feel how the current holds the new chord.",
+            "outcome": "The lantern-fish circle but do not strike, confused by the absence of glare and lulled by the unbroken line of the Verse, and their eyes flicker like distant stars instead of like hunting knives. Far below, a counter-beat swells and fades, slow and enormous, and Irio’s fingers tremble on the line as Mara taps the rhythm to her chart slate with gloved knuckles. A thin sliver, not scale but skin of sound, rises as a pressure on eardrums that can be recorded without touching, and Lira’s smile is a small, reverent moon in the dark. Vesk mutters approval at the restraint, and the Chainmaster’s crew will speak of Mara in dockside yards as a calm hand worth hazard pay. The Pilgrims mark Mara’s name in their hymnbook notes, and word reaches Dreamwarden Siala that a question was asked with courtesy and answered without greed, deepening favor that will matter when holy nights need a voice in councils."
+        },
+        {
+            "id": "C2",
+            "title": "Rig for safety and cut free if snared",
+            "text": "Mara nods to Vesk and checks every knot a second time, then a third, and stations Irio where he can feel each tug without looking, because eyes lie when lanterns do. She keeps the rime-lantern hooded but not dark, a lesson of bone-gray light to remind the lantern-fish that not all stars are prey. The song-nodes go in quick and sure, each planted on the down-beat of Lira’s phrase so the rig’s vibrations don’t swamp the hymn. When a lantern-fish fin brushes the line, Mara’s hand is already on the moon-iron, and she warns the others with two clicks of tooth on tongue, a smuggler’s cant turned safety code. She times the cut to the Tidemill cadence she grew up hearing in her father’s breath, and the old rhythm steadies her anger into precision.",
+            "outcome": "The snare bites but only for a beat before the moon-iron’s kiss parts fiber, and the rig sways free with a groan that Lira buries under a deepening note. Two lantern-fish flash and flee, their mimicry foiled by the disciplined dim, and the school dissolves into drifting stars no longer aligned for the hunt. The descent loses one auxiliary line but gains a narrow window of stillness in which the second node can be set true, and Irio whispers gratitude between teeth that almost chatter. The pulse comes through thinner here, but Mara records it clean, and the wedge of sound matches the Vault’s resonance in a way the Chainmasters will respect because a cut made at the right time saved the crew. The Pilgrims approve of the steady hand even if the knife had to sing, and while they do not offer the Heart-Scale, they offer their voices in future petitions on her behalf, a softer but enduring boon."
+        },
+        {
+            "id": "C3",
+            "title": "Accept the Scale if it rises, gently as a vow",
+            "text": "Mara waits with one palm open, gloved and glistening with cold, and she lets Lira’s note lean on her like a weight so her hand will not tremble with wanting. She tells herself she will not reach, she will only receive, and she repeats this like a prayer until the thought is truer than the hunger. Irio and Vesk hold the lines steady and loose, a paradox learned by those who live on edges, and no one breathes louder than the hymn. When a small, dark ellipse lifts through the black like a coal without fire, Mara does not gasp, because gasps are grabs made with lungs. She curls her fingers only when the scale kisses her skin, and she brings it close as if carrying a sleeping child, not loot.",
+            "outcome": "The water presses in with a jealous sigh, and a small upwelling wobbles the rig, but Lira deepens the Verse into a lullaby heavy enough to calm the Trench’s frown. The Heart-Scale is warm and slow-beating in Mara’s hand, and Irio wraps it in kelp-silk that drinks the chill without drinking the pulse, while Vesk counts the seconds to a measured ascent. The lantern-fish scatter as if ashamed to have watched something holy, and the crew rises through a column of more honest dark, the kind that does not sell lies as light. On the Span, Pilgrims will draw breath when they see it and bow their heads, and Chainmasters will clap Vesk’s back for not losing his nerve when a prize tested their knots. Brinelaw will ask careful questions about provenance, but the story told at the Oathwell will be clean and courteous, and Mara will be remembered as the hand that did not snatch, only accepted what was given; the city’s favor tilts toward her without debt."
+        },
+        {
+            "id": "C4",
+            "title": "Leave only bubbles and a perfect chart",
+            "text": "Mara fixes her mind on the chart and the cadence, and she decides before descending that nothing will be taken, not a scale, not a shell of sound, not even a story more than is needed. She plants the nodes like steps in a dance learned in childhood, checking their hum and moving on without curiosity’s little backward glance. The lantern stays shuttered to a seam so thin it feels like a memory, and she refuses to look where the dark seems to lighten, because she knows the dark can lie. Irio mouths counts rather than speaking, and Vesk signs his readiness with a thumb against a rib, and Lira’s voice becomes the only language that matters for a while. When the pulse thrums, Mara taps it to the slate with reverence and restraint, and she thinks of the Whispering Ribs Chart that will save lives without extracting payment from the deep.",
+            "outcome": "No upwelling troubles the rig, and no fish test their nerve, because there is nothing here to hunt but a melody, and predators that live by mirrors do not know how to eat a promise. The recording is clean enough to be carved into bone and sung by apprentices without losing truth, and the three nodes hum a chord that will be felt on the Span if someone lies flat and listens through their ribs. The crew returns with full lungs and empty hands, which in Dorsalhaven is sometimes the rarest wealth, and their faces show a calm that does not need boasting. Pilgrims bless the restraint and offer guidance when the chart is presented at the Cathedral, while Chainmasters nod approval at a map made without stirring hazard more than necessary. Mara’s bowstring hums to the same slow beat on certain nights afterward, as if her patience taught it a language, and she sleeps without dreams of grasping for a long time."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Artifact or Recording",
+            "description": "A living Heart-Scale the size of a palm, warm and slow-beating, or a recorded pulse if the Scale does not rise (based on choices)."
+        },
+        {
+            "type": "Knowledge",
+            "description": "Completed deep-resonance entry for the Whispering Ribs Chart, a high-value navigation datum that maps safe cadence near the Trench."
+        },
+        {
+            "type": "Reputation",
+            "description": "Major favor with the Pilgrims of Orum’s Dream and earned respect from Chainmasters for measured risk and clean rig-work."
+        },
+        {
+            "type": "Narrative",
+            "description": "Personal insight: Mara’s bowstring now hums in time with the deep on certain nights, a quiet omen that colors future choices."
+        }
+    ]
+}

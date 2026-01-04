@@ -1,0 +1,54 @@
+{
+    "id": "M12",
+    "title": "Plaza of New Names",
+    "quest_giver": "Leth Morrow",
+    "description": "Back in Sternum Plaza, the frost-script at dawn writes differently for the first time in living memory. The Accord of Living Flow is sung aloud and matched to the Loom’s new braid, and the Bone-Market hawkers fall quiet as the ribs hum in agreement. Leth Morrow, pale with the strain of surrendering a measure of control, calls Iriel forward to witness the city’s own name accept the wyrm’s breath. Brunna Coil and Avar Ir argue the practicalities of bearing maintenance without pillage; Safra Ninebridges signs the Salt Ledger with a proud hand; Edris Thale tolls the Bone Bell by hand, no omen, just thanksgiving. Jull Nerr offers a terse nod from the crowd; Suri Yal’s smile is a small private harbor. The Grey Lanterns shutter green once and then go dark, content to let the rumor be true by day. In the hush after the vow, the ribs stop creaking. They hum.",
+    "objectives": [
+        "Deliver the Accord of Living Flow to the Loom of Names and oversee its public braiding.",
+        "Negotiate final clauses between the Calcifiers’ Guild, Ember Kiln Syndicate, Nadiri Caravan Court, and Riverwardens.",
+        "Publicly acknowledge your own name-cord lien and resolve it under the new Accord terms.",
+        "Sound the Fourth-Rib Bone Flute at dusk to confirm the city’s harmonics have settled."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Leth Morrow",
+            "line": "I have spent a lifetime believing that control is kindness in a mask, that the city is safest when every name is tied and tagged. Today we ask a name to bind us back, and I will tell you something I never tell anyone: I am afraid. But I would rather be afraid in the light than powerful in the dark. Iriel Vask, speak your own debt aloud and let us end it as citizens, not as supplicants."
+        },
+        {
+            "speaker": "Brunna Coil",
+            "line": "The bearing-bones will be repaired with honor, and not a fragment will be taken without license and witness. If any hand breaks a bearing for profit or piety, I will be the first to break that hand’s tools. The Accord will make artisans of us again, not vultures with chisels."
+        },
+        {
+            "speaker": "Safra Ninebridges",
+            "line": "We will keep the bridges long and the feasts longer. Let the Salt-Tithe be measured at a table with ten chairs, not behind a locked gate with one stool. If we feed you in famine, you will not starve us in plenty. That is a vow I am pleased to carry home to campfires and songs."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "I sold a sliver of my name when I was young, and I have been careful and clumsy with it ever since. Under this Accord, I buy it back with service counted in chords and oaths held true, and I give it back to the city not as collateral but as promise. If I ever forget the sound the ribs make when they are content, let this flute remind me and shame me in equal measure."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": {
+        "experience": 1000,
+        "items": [
+            "Fourth-Rib Pitch Ring (Consecrated)",
+            "Cityspeakers’ Token"
+        ],
+        "currency": {
+            "chits": 75
+        },
+        "reputation": {
+            "Pale Collegium": 2,
+            "Skull Keep": 2,
+            "Grey Lanterns": 2,
+            "Calcifiers' Guild": 1,
+            "Riverwardens of the No Echo": 2,
+            "Nadiri Caravan Court": 2
+        }
+    }
+}

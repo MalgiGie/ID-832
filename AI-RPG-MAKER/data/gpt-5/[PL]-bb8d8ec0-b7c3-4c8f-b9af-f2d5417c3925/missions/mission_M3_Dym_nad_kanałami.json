@@ -1,0 +1,49 @@
+{
+    "id": "M3",
+    "title": "Dym nad kanałami",
+    "quest_giver": "Jodan Piżmowy",
+    "description": "Dom Lampników płonie w noc mgły. Ktoś podpala suszarnie alg, a zamieszanie ma przykryć przemyt Chóru Cieni przez tarasy. Elian musi ocalić światło, bo bez niego miasto stanie się ślepe i głuche. W półmroku rozbrzmiewają sygnały, które tylko on potrafi czytać, a w kanałach odbija się blask, który nie przyciąga komarów – i strażników.",
+    "objectives": [
+        "Odpowiedz na wezwanie Jodana Piżmowego i gaś pożar w suszarniach alg przy użyciu kanałowych klap i wiader.",
+        "Schwytaj lub przepędź podpalaczy, nie dopuszczając do rozlania ognia na łodzie lampników.",
+        "Zdecyduj, czy pomóc Chórowi Cieni przerzucić skrzynie przez zamęt, czy utrzymać pełną lojalność wobec porządku.",
+        "Zabezpiecz mapę ukrytych kanałów i nowy szczep alg niewidocznych dla strażników.",
+        "Przekaż Maerze Buławce sygnał o stanie kanałów i odbierz jej komentarz do planów Orli Krawężnej."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jodan Piżmowy",
+            "line": "Nie damy zgasnąć światłu, które nie kłania się komarom ani opłatom. Weź to wiadro, ale przede wszystkim weź głowę. Te ognie tańczą tak, by Legia mogła powiedzieć: 'patrzcie, trzeba zakazać lamp'. Jeśli uratujesz suszarnie, dam ci mapę kanałów tak szczerą jak słone powietrze."
+        },
+        {
+            "speaker": "Maera Buławka",
+            "line": "Nie udawaj, że nie wiesz, skąd ten dym. Kiedy jedni krzyczą pożar, drudzy przenoszą skrzynie pod moje belki z kotwicami. Chcę, żeby twoje sumienie miało tyle kotwic, ile zechcesz, ale pamiętaj, Elianie: równowaga nie utrzyma się sama. Daj sygnał, jeśli wybierzesz pomoc Chórowi, ja przyjmę na siebie ciepło odpowiedzi."
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Najpierw ocalę lampy, potem zdecyduję, które skrzynie popłyną, a które zatoną. Kaledra potrzebuje światła bardziej niż paragrafów pisanych w cieniu. Jeśli mam użyć mapy, użyję jej, by miasto znów oddychało, a nie dusiło się własnym dymem."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Mapa ukrytych kanałów Domu Lampników (ulepszenie do posiadanej mapy – dokładniejsze odgałęzienia)."
+        },
+        {
+            "type": "reputation",
+            "description": "Zaufanie lampników i preferencyjne sygnały w noc mgły."
+        },
+        {
+            "type": "access",
+            "description": "Dostęp do prywatnego pomostu pod 'Pod Osiemdziesięcioma Kotwicami'."
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "M4",
+    "title": "Breath Owed, Breath Stolen",
+    "quest_giver": "Nyssar Fenquill",
+    "description": "The Whisper Fen gleams like an emerald spilled on a brass plate, mist clinging low as frogs sing like flutes with sore throats. Nyssar Fenquill meets Rogan at the reed edge, her eyes worried and kind, her hands stained green from medicines that save heat-sick children. A reed hymn has crossed the desert like a rumor of rain and taken voices as toll, including that of a Triarch’s envoy whose silence now chokes trade. The Fen Queen bargains in breath; Rogan once broke the wording of that bargain to save lives. The reeds remember debts, and the Fen keeps sunset like a knife in a sleeve. To heal what’s stolen, Rogan must walk channels where lanterns pretend to be friends and negotiate with a monarch who counts promises the way the city counts water. He came to repay a debt. He may leave owning another.",
+    "objectives": [
+        "Escort Nyssar Fenquill through the reed labyrinth to the Fen Queen’s court.",
+        "Track the reed hymn to its source and gather three fenfruits for the offering.",
+        "Confront the breath-thief parasite and recover the envoy’s voice in a glass ampule.",
+        "Bargain with the Fen Queen for release of the envoy’s breath without triggering the full price of Rogan’s broken wording.",
+        "Return the voice to the envoy and secure renewed trade with Whisper Fen healers."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Nyssar Fenquill",
+                "line": "You kept children breathing when the heat would have taken them, Rogan, and I do not keep count like a ledger when lives are on the scale. But the Fen keeps its own accounts, and a promise twisted, even for good, curls back toward its maker. Help me untangle this hymn before sunset sets the price."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I bought breath with words I shouldn’t have placed, and I’ve felt that bill in my chest every still morning since. I’ll pay what I can with hands and courage and not with another person’s breath. Show me the channels that sound wrong and the light that isn’t yours."
+            },
+            {
+                "speaker": "Fen Queen",
+                "line": "Your name moves like heavy water, Rogan Kettlebone, and you carry a shard that eats sun. You broke my rule as gently as a man can break a bone, and you brought children back from the lip of a heat that kills without malice. I will not forget either truth. Pay me with a song sung without fear, and with a promise this time kept as carved, and I will loosen my fist."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Triarch’s Envoy (voiceless, written on slate)",
+                "line": "I heard my mother call from the reeds though she sleeps in a wall of bone far from here. The hymn slid into my throat like cool shade and took everything I meant to say. Please, give me back my speech, even if it returns rough."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "Parasite, you drink what isn’t yours and leave men to drown in silence. Take the taste of this glass and the cut of this reed, and leave what you took in that ampule. You can have my fear in exchange, measured and honest."
+            },
+            {
+                "speaker": "Nyssar Fenquill",
+                "line": "The reed-silk is binding. Hold still while I tie the last knot. Rogan, sing, even if it comes out as a broken hum. The Fen Queen wasn’t speaking in metaphor."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Fen Queen",
+                "line": "You returned what was taken, and you sang with a voice that did not flinch away from its own cracks. A sunset will come when you will pay the rest, but not this one. Take a reed that remembers whispers and forgets lies. Spend it wisely."
+            },
+            {
+                "speaker": "Nyssar Fenquill",
+                "line": "The envoy’s voice sits in glass like dew and wants a throat again. Trade will move, and lives will be saved by medicine and not by desperate men. Thank you for letting me keep believing you can pay a debt without breaking another."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "When the still water comes, I’ll be where I said I’d be. Until then, I’ll use this reed to store a truth I’ll need to carry into a place that eats them."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Whisper-reed of Memory: store one whispered truth to replay perfectly once."
+        },
+        {
+            "type": "reputation",
+            "description": "Partial release of Fen debt; favor with Whisper Fen elders."
+        },
+        {
+            "type": "trade",
+            "description": "Renewed Fen medicine shipments to Marrowhold (improves city stability)."
+        }
+    ]
+}

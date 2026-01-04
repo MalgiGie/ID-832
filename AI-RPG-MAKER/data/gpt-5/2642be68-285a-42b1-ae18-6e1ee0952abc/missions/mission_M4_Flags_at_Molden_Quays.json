@@ -1,0 +1,44 @@
+{
+    "id": "M4",
+    "title": "Flags at Molden Quays",
+    "quest_giver": "Jalen Sarq",
+    "description": "Strike flags bloom like wounds across Molden Quays, dyed saffron and ash. The Salted Compact demands a safety steward in every Engine shift-room and refuses to move night cargo without one. Jalen Sarq, the Smoulder Veil broker who once paid you to guard a sootglass run, wants a ceasefire of convenience: three bells of calm so food can move and families can eat, in exchange for the Wardens easing off underquay ferries. He trusts you because you hate famine more than fines. Aren Mir, your old sergeant, will answer the Bastion’s bell if you ask; he hates being used but he loves a city that sleeps. You must carry hard words between men who measure worth by grip strength and by who blinks first.",
+    "objectives": [
+        "Meet Jalen Sarq under the Ropes and Knots Hall eaves and hear his terms.",
+        "Speak with Aren Mir at Windward Bastion to negotiate Warden tolerance for three bells.",
+        "Convince a Salted Compact circle to accept a narrow ceasefire without losing face.",
+        "Post the agreed drum pattern for the ceasefire on the quay notice wall.",
+        "Ensure one relief barge passes safely during the ceasefire window."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jalen Sarq",
+            "line": "You smell like mothwax and court brass today, and yet here you are where the ropes bite. I’m not asking you to love me, Kade; I’m asking you to remember what a child looks like when the shops shutter for a week. Three bells of quiet, that’s all. The Veil will sheath its teeth, the Compact will move grain, and the Wardens can glare from their towers and pretend they were merciful."
+        },
+        {
+            "speaker": "Aren Mir",
+            "line": "I taught you to tie a boarding line in a gale and I can still see your hands in the knot. You come asking me to look away while masks run ferries in fog? My duty is a dull blade, Kade, but it cuts every day. Give me something to trust. A whistle pattern, a face at the bow, anything I can point to when the Captain asks why my men didn’t jump."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "I didn’t come to polish anyone’s conscience. I came because the quays feed the city before the bells do. Here is the pattern. Here are the names of the pilots on the relief barge. If a masked hand touches a tiller during those three bells I’ll break that hand myself and tie it to the notice wall with the rope it tried to steal."
+        },
+        {
+            "speaker": "Lysa Curren",
+            "line": "Glass sings sweeter when bellies aren’t hollow. My people can run a night furnace slow if there’s bread in the morning. I’ll put my weight behind this ceasefire because any other tune will crack my windows. But if the Veil slips a sootglass ingot into the Exchange during those bells, I’ll cut Jalen’s purse in court with my song."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M3"
+        ],
+        "next": [
+            "M5"
+        ]
+    },
+    "rewards": [
+        "Salted Compact goodwill: assistance from two pilots in a future canal maneuver",
+        "Wardens leniency marker from Aren Mir (one checkpoint waved through)",
+        "Smoulder Veil truce token (limited promise of non-interference during one mission)"
+    ]
+}

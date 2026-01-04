@@ -1,0 +1,54 @@
+{
+    "id": 7,
+    "title": "Ashwell’s Ember Page",
+    "quest_giver": "Serene Khel",
+    "description": "The Ashwell Monastery lies in char and ivy, where gutters lead to a dry cistern painted with stars. It is said a well of names sleeps there; those who drop their true name may be forgotten by their hunters, but the future must be bought back page by page. Serene Khel sends Raithe with Tallen Quill to recover a page that remembers the city’s original flood treaty—a page which could unravel House Veyron’s new claims if read at the right tide. Ink wraiths copy footsteps in dust; ash-moths gather on the visor’s edge. In the cistern’s hollow, a gentle archivist spirit bargains with stories never told aloud. Raithe must resist the temptation to drop his true name into the well for a clean escape. The page glows when held near betrayal.",
+    "objectives": [
+        "Reach the Ashwell cistern and locate the well of names.",
+        "Parley with the archivist spirit to trade an untold story for the Ember Page of the flood treaty.",
+        "Avoid or pacify ink wraiths by altering your gait and breath to confuse their copying.",
+        "Protect Tallen Quill and exit as the vault groans with collapse."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Archivist Spirit of Ashwell",
+            "line": "Welcome, warm voices in a house of cold echoes. I remember the names that remember me, and I keep a page that remembers a promise more faithfully than the men who swore it. Tell me a story you have never given to ink or ear, and I will let a page walk with you again. Drop your true name, and I will forget your hunters and your lovers, and you will walk light as ash—and empty as it, too."
+        },
+        {
+            "speaker": "Tallen Quill",
+            "line": "Raithe, the grout in the Parliament floor glows when oaths lie. If we bring this page home, and it sings in that light, we can prove Veyron’s clause was bent like wet cane. Please don’t buy our safety with your name. The city needs you remembered."
+        },
+        {
+            "speaker": "Raithe Calder",
+            "line": "I’ll trade a story of a crate I carried once and the guilt I buried with it. I won’t surrender my name. Take my shame and give me your page, spirit. The docks don’t need a ghost; they need a man with a blade and enough memory to hold a line."
+        },
+        {
+            "speaker": "Serene Khel",
+            "line": "Brave and wise, for once at the same time. Bring me the Ember Page and we will time our reading to when the sea itself lends a court its patience."
+        }
+    ],
+    "connections": {
+        "previous": [
+            6
+        ],
+        "next": [
+            8
+        ],
+        "related": [
+            3
+        ]
+    },
+    "rewards": {
+        "items": [
+            "Ember Page of the Original Flood Treaty (quest item)"
+        ],
+        "coin": 0,
+        "faction": {
+            "name": "Order of Mnemos",
+            "favor": "One sealed day returned from your tithe when the time is right."
+        },
+        "unlock": [
+            "Ashwell’s archivist will answer one question in a future visit."
+        ]
+    }
+}

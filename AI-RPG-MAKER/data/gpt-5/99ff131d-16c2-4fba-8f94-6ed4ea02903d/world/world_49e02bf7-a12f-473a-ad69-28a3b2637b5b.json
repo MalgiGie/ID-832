@@ -1,0 +1,438 @@
+{
+    "city": "Aurelia-on-the-Scarp crowns a sun-baked mesa whose sheer amber cliffs overlook the Luminant Vale, a perpetual sea of silver-blue fog that rises with dawn and sinks at dusk. The city grew in concentric crescents along the scarp’s rim, each ring terraced with wind-caught banners, chain-lift platforms, and water-garden steps fed by condensing towers. At the heart stands the Heliolith, a meteoric crystal spire that hums faintly at noon and bleeds pale light at midnight; its fall, three centuries ago, fused sand into glass-veins that guide heat and memory through the bedrock. Early cliff herders and rope-sling fishers followed the glow to safety atop the mesa after dust-choked wars on the plains. They bartered windwork, resilient grains, and fog-silk with caravaners daring the Sable Road below, while learning to wring drinkable water from the breath of the Vale. Today Aurelia thrives as a hinge between sky and earth: sky-sails dock at her suspension piers, caravans spiral up carved switchbacks, and cliffward elevators creak day and night.\nAurelia’s society is braided around three necessities: water, wind, and heat. The Aquifer Collegium governs condensers and stepwells, rationing the Blue-Timers who climb to fill their hourglass tokens. The Mistral Syndic trains rope-wing pilots and moors sky kites at the Selen Gate, taxing every sail that rides the valley thermals. The Ember Ash Cohort keeps the triple forges alive on a steady feed of fossil ash mined from old caldera beds, while the Solace Guild distills fog-silk enzymes and sun-herbs into balms and tinctures coveted across the scarplands. The Ledger of Fine Weights, a counting-house guild, underwrites caravans and quietly owns much of the cliffside warehousing. Shadowing all is the Veil Covenant, a devotional society that sings to the Vale at dusk, claiming the fog thinks and remembers.\nGovernment nominally lies with the Cliff Ministry, a rotating council of stewards selected by district lotteries weighted by water labor. In practice, factions bargain in the Wind Courts, a civic forum tuned with aeolian harps; to be heard, one must speak in lulls between the harps’ tones. Disputes include water-credit speculation vs equitable rationing, skyport mooring rights, risks of alchemical effluent seeping down the scarp, and whether to sanction the Covenant’s fog rites. Dependencies bind Aurelia to her surroundings: ash caravans must pass through bandit-haunted glass flats; skybridges remain half-ruined; condensers rust in salt winds without Solace oils; and the Heliolith’s slow dimming at midsummer has spurred rumors that its heart was plundered. Festivals punctuate life: the Chain Lighting, when the lifts blaze with meteoric sparks; the Blue Hour, a week of free condensation following the first monsoon; and Remembrance Drift, when offerings are cast upon the fog to seek counsel from those lost to the Vale. Legends insist that a sister city, Ilys the Lintel, once spanned a skybridge here and vanished in one night, leaving only a whisper-thread of wind through broken arches. Whether Ilys fell, flew, or dissolved into the fog is a debate as old as the Heliolith’s song.",
+    "surroundings": [
+        {
+            "name": "The Luminant Vale",
+            "type": "Fog ocean and fungal canopy",
+            "distance": "Immediately below the scarp; descends for leagues",
+            "description": "A tidal sea of cool, bioluminescent vapors pooling in the canyon system beneath the city. At midday the fog thickens, feeding pendant forests of myconic shelves and fog-silk webs that tense like harp strings. At dusk it thins, revealing silhouette-limbs and glimmering pools.",
+            "legend": "The Veil Covenant tells that the Vale was once a river of voices dammed by a skyfire stone; the Heliolith’s fall severed an ancient chorus, and each mist-wisp seeks its missing note. Miners swear that on windless nights the fog returns questions whispered at noon.",
+            "resources": [
+                "Fog-silk thread harvested by trained gliders",
+                "Condensate rich in trace minerals",
+                "Glowcaps and bruise-blue shelf fungi used for dyes and salves"
+            ],
+            "threats": [
+                "Fog-lure echos that mimic loved ones’ voices",
+                "Sink-branches that flex and fold when trodden",
+                "Mist-borne corrosion that pits untreated metal"
+            ],
+            "ties_to_city": "Primary source of water via condensers; spiritual locus for the Veil Covenant; hunting ground for fog-silk; a hazard for fallen lifts and lost workers."
+        },
+        {
+            "name": "Skybridge Ossuary",
+            "type": "Ruined aerial causeway",
+            "distance": "Two hours by cliff path eastward",
+            "description": "The ribbed remnants of a once-magnificent bridge arching from scarp to scarp, its vertebrae like bleached bones, with wind-carved niches filled by memorial chimes. The stones thrum in storms, and broken spans dangle by ancient cables.",
+            "legend": "Said to be the spine of Ilys the Lintel, the vanished sister city. According to bridge-keepers, the last keepmaster sang an unsanctioned chord that unmoored the arch and lifted Ilys into cloud, where it still sails upside down.",
+            "resources": [
+                "Memory-stone that holds faint acoustic impressions",
+                "Recovered copper ligatures used in precision instruments"
+            ],
+            "threats": [
+                "Sudden shears of crosswind",
+                "Loose vertebrae that shift under load",
+                "Chime-flocks that mob and peck gleaming tools"
+            ],
+            "ties_to_city": "Pilgrims and windwright apprentices travel here to learn the harp-lulls of the Wind Courts; disputes over salvage rights pit the Mistral Syndic against the Cliffward Compact."
+        },
+        {
+            "name": "Echo Quarries",
+            "type": "Abandoned resonant stone mines",
+            "distance": "Half-day mule haul north along the scarp lip",
+            "description": "A honeycomb of stepped pits and tunnels lined in pearly calcite that sings when struck. The quarried stone was used to tune courts and dwellings; now most galleries are flooded or collapsed, with ropes dangling into blue-lit cisterns.",
+            "legend": "A story claims the quarries stored the voices of Aurelia’s founders. If the right seam is cut, the city’s first bargain with the Heliolith will replay, revealing the true price paid for its light.",
+            "resources": [
+                "Resonant calcite blocks",
+                "Cistern water seeded with pale crustaceans prized by alchemists"
+            ],
+            "threats": [
+                "Sudden harmonic collapses triggered by loud noises",
+                "Blind salamanders that swarm to vibrations",
+                "Hidden wells with undermined rims"
+            ],
+            "ties_to_city": "Source of acoustic stone for the Wind Courts; disputed by the Aquifer Collegium seeking to seal cisterns and the Solace Guild that wants the salamander enzymes."
+        },
+        {
+            "name": "Sable Caravan Road",
+            "type": "Obsidian-glass trade route",
+            "distance": "Descends from Aurelia’s switchbacks into the flats",
+            "description": "A heat-glazed ribbon of black glass streaking across salt flats where old fires once flowed. Its surface hums at noon and cracks at night, mended by caravan crews with ash grout. Way-shrines mark scarce shade and windbreaks.",
+            "legend": "Caravan lore holds that the Sable Road was poured by a dragon dying of thirst; its last breath fused sand to a path so its hoard could be carried home. The Ledger claims the dragon’s heart still beats beneath Mile Stone Forty.",
+            "resources": [
+                "Traffic tariffs and way-station fees",
+                "Shards of heat-tempered glass smelted into blades",
+                "Salt harvested from wind-rows along the shoulders"
+            ],
+            "threats": [
+                "Haze-bandits riding mirage currents",
+                "Sudden shatter-lines when the moon is closest",
+                "Heat-seeking burrowers that crack the roadbed"
+            ],
+            "ties_to_city": "Aurelia’s lifeline for grain, metals, and ash fuel; controlled checkpoints enrich the Ledger of Fine Weights and the Cliffward Compact."
+        },
+        {
+            "name": "Stepwell of Oris",
+            "type": "Ancient spiral cistern",
+            "distance": "Three hours west through scrub and windbreak groves",
+            "description": "A sunken amphitheater carved into the bedrock, ringed by shaded colonnades. Its water is a green coin at the bottom of a thousand steps, visited by pilgrims who descend in quiet lines bearing mirrored bowls.",
+            "legend": "The first steward, Oris, is said to sleep at the well’s heart, rising only when the city forgets thirst’s lesson. A mirrored bowl once showed a steward their doom for hoarding; it cracked when they shared their ration with a stranger.",
+            "resources": [
+                "Emergency reserve of potable water",
+                "Water-scribing murals that teach condenser maintenance"
+            ],
+            "threats": [
+                "Drought cultists who seek to seal the well and force austerity",
+                "Scorpions that nest in the stone lacework",
+                "Booby-trapped steps from prior conflicts"
+            ],
+            "ties_to_city": "Sacred to the Aquifer Collegium; used to justify ration decrees; occasionally opened during the Blue Hour festival."
+        },
+        {
+            "name": "Tangle-Root Archive",
+            "type": "Living grove of mnemonic trees",
+            "distance": "A day’s descent into the inner vale and along a ridge",
+            "description": "A grove of pale, braided trees whose roots wrap stone tablets and ceramic jars; leaves whisper with trapped words when wind threads the canopy. Wardens weave bark-ribbons inscribed with sap that glows when read aloud.",
+            "legend": "Founded by scribes who fled the Burning Colleges, the Archive is said to digest stories and grow new ones. If fed a lie, it sprouts thorns; if fed a secret freely given, it blooms night-flowers that teach a skill in dream.",
+            "resources": [
+                "Bark-ribbon records impervious to moisture",
+                "Seed-pods that carry imprinted lullabies",
+                "Guides who can retrieve a memory with the right leaf-knot"
+            ],
+            "threats": [
+                "Root-sinks that trap feet until a truth is confessed",
+                "Wardens who view replicators as thieves",
+                "Fog-moths that erase ink on contact"
+            ],
+            "ties_to_city": "Source of deeds, genealogies, and wind-maps; contested by the Ledger, which wants exclusive copying rights, and the Veil Covenant, which guards sacred rites recorded here."
+        }
+    ],
+    "buildings": [
+        {
+            "name": "Heliolith Spire",
+            "designation": "Meteoric crystal and civic reliquary",
+            "district": "Sun-Ring, at the city’s center",
+            "description": "A translucent, many-faceted monolith veined with frozen lightning and threaded by scaffolds of bronze. Open galleries ring its base, where the light is coolest; deeper within, stairwells spiral around a core that hums at noon.",
+            "history": "Fell three hundred years ago, igniting sand into glass veins and attracting refugees. Early stewards cored small shards to seed condenser tech; later councils forbade further extraction after the Spire dimmed each midsummer.",
+            "secrets": "A sealed chamber halfway up holds a rotating prism that redirects the hum into codes readable as star positions; the Ledger covertly employs a reader to forecast caravan hazards. Rumors of a hollow heart persist.",
+            "current_issues": "Dimmer pulse noted over the last five years; debates over permitting tiny extractions to repair condensers; Veil Covenant petitions to re-consecrate the base at dusk.",
+            "faction_influence": [
+                "Aquifer Collegium (technical custodianship of condenser links)",
+                "Ledger of Fine Weights (access to star-code forecasts)",
+                "Veil Covenant (ritual claims at dusk)"
+            ]
+        },
+        {
+            "name": "Cascadrome Terraces",
+            "designation": "Water condenser arrays and public baths",
+            "district": "East Scarp, tiered along the cliff",
+            "description": "Terraces of ribbed glass and stone catch the Vale’s breath. Condenser frames exhale threads of cold, beading into gutters that feed cisterns and flow through communal baths. Blue-Timer platforms schedule draws by sand-hourglass.",
+            "history": "Built in three major expansions; the second after the Salt Famine, when riot damage led to the addition of public baths to cool tempers as well as bodies.",
+            "secrets": "Hidden bypass valves allow discreet service to certain donors during dry spells; a buried channel leaks into a smuggler’s niche reachable by chain-lift shaft six.",
+            "current_issues": "Salt creep is corroding mid-tier frames; Solace oils delay rust, but runoff has slicked climbing routes and angered the Cliffward Compact.",
+            "faction_influence": [
+                "Aquifer Collegium (rationing authority)",
+                "Solace Guild of Herb and Light (maintenance oils)",
+                "Cliffward Compact (safety oversight)"
+            ]
+        },
+        {
+            "name": "Syrinx Wind Courts",
+            "designation": "Civic forum and judiciary",
+            "district": "North Rim, exposed to constant breeze",
+            "description": "An open amphitheater fluted with aeolian harps. Speakers must time words between notes to be transcribed by wind-scribes using ribboned kites. Stone seats warm at dawn, cool at dusk.",
+            "history": "Founded when quarrelers realized shouting toppled scaffoldings in early days. The Courts’ tuning stones came from Echo Quarries, each trench resonating at a specific hour.",
+            "secrets": "A concealed subchamber collects and stores breath from entire sessions, which the Ledger believes can be condensed into truth-distilled water; the Veil Covenant calls it theft of wind spirit.",
+            "current_issues": "Legal backlog over sky-mooring rights; wave of petitions from fog-silk harvesters injured by new glider harnesses; debate on banning voice-snow magic that dampens the harps.",
+            "faction_influence": [
+                "Cliff Ministry (official decrees)",
+                "Mistral Syndic (sky law negotiation)",
+                "Ledger of Fine Weights (procedural leverage via bonds)"
+            ]
+        },
+        {
+            "name": "Ternary Crucible",
+            "designation": "Triple furnace and industrial forge",
+            "district": "Ash Quarter, leeward side",
+            "description": "Three interlocked kilns sharing a heat-heart, venting through a braided stack capped with a storm vane. Sparks drawn into catch-webs are collected for micro-ignitions in clockworks.",
+            "history": "Raised during the Second Build to smelt glass-vein steel and anneal wind-pipe tubing. Survived an ash strike that vitrified half the Quarter.",
+            "secrets": "A fourth, hidden hearth used for hush-casting memory keys for the Ledger; an old tunnel leads to a buried ash pocket that breathes methane on moon-low nights.",
+            "current_issues": "Fuel prices up due to banditry on the Sable Road; ash-lung cases rising among workers; Ember Ash Cohort resists new mask ordinance mandated by the Ministry.",
+            "faction_influence": [
+                "Ember Ash Cohort (work crews and supply)",
+                "Ledger of Fine Weights (contracts and insurance)",
+                "Cliffward Compact (safety enforcement)"
+            ]
+        },
+        {
+            "name": "Under-Arcum Bazaar",
+            "designation": "Vaulted market and contraband warren",
+            "district": "Shadowbelly, beneath the Sun-Ring arches",
+            "description": "A maze of overlapping archways where light knifes in at odd angles. Stalls hang from chains; vendors hawk fog-silk, memory shards, and spice. A chime at the seventh hour warns of lift-shifts above.",
+            "history": "Grew from the scaffolds that once braced the Heliolith. Official recognition came after a failed attempt to seal it drove commerce into the condensers’ service tunnels.",
+            "secrets": "A rotating code of lantern colors signals which smuggler alleys are safe; a self-swallowing stair leads to a pocket where sound does not carry, used for delicate negotiations.",
+            "current_issues": "Ledger tax collectors and Covenant proselytes compete for attention; counterfeit Blue-Timer tokens appear; rumors of a fog-born parasite that stows away in dried herbs.",
+            "faction_influence": [
+                "Ledger of Fine Weights (market fees)",
+                "Veil Covenant (ritual presence and charity bowls)",
+                "Solace Guild of Herb and Light (stall monopoly on medicinals)"
+            ]
+        },
+        {
+            "name": "Cliff Ministry Hall",
+            "designation": "Civic administration and chain-lift nexus",
+            "district": "South Scarp plaza",
+            "description": "A long hall faced with cliff-amber and strung with chain-lift pulleys running through its spine. Petitioners queue between moving cages; clerk-counters flick abacuses while lift bells ring code-patterns overhead.",
+            "history": "Established when lift traffic surpassed market traffic. The Ministry’s impartiality was secured by dedicating its central beam to the Stepwell of Oris, a reminder that all chains pull on the same water.",
+            "secrets": "A ghost chain appears at midnight on the equinox, an image burned in by the Heliolith’s light; those who grasp it swear they feel the weight of decisions not yet made.",
+            "current_issues": "Factional pressure to adjust lot-weights in council lotteries; allegations of bribe-rattles placed in petitioners’ cages; lift failures traced to salt creep.",
+            "faction_influence": [
+                "Cliff Ministry (seat of governance)",
+                "Aquifer Collegium (lot-weighting authority)",
+                "Ledger of Fine Weights (audit leverage)"
+            ]
+        },
+        {
+            "name": "Selen Gate Skyport",
+            "designation": "Suspension piers and kitefield",
+            "district": "West Rim, over the broadest fog expanse",
+            "description": "A bouquet of long, flexible piers anchored to cliff bollards, draped with catch-nets and wind-sock banners. Launch decks tilt to kiss updrafts; mooring clerks ride wheeled harnesses along catenary lines.",
+            "history": "Erected after a series of pilot-led strikes forced the Ministry to codify sky lanes. Expanded with bonewood spars imported at ruinous cost.",
+            "secrets": "A hidden mooring ring beneath Pier Three is reserved for night arrivals from unlisted ports; the Syndic keeps a ledger-within-the-ledger here.",
+            "current_issues": "Harsh cross-shears have torn three sails this season; petition to add a second ring of nets contested by balcony residents losing their view; Covenant singers fined for dusk gatherings that ‘spook’ launches.",
+            "faction_influence": [
+                "Mistral Syndic (operational control)",
+                "Cliffward Compact (safety and patrols)",
+                "Cliff Ministry (licensing fees)"
+            ]
+        }
+    ],
+    "politics": [
+        {
+            "name": "Aquifer Collegium",
+            "type": "Engineers’ guild and water authority",
+            "leadership": "Arch-Condensor Meret Hal and a council of stepwell wardens",
+            "motto": "Measure the breath, share the cup",
+            "methods": "Ration tokens, condenser maintenance crews, stepwell audits, drought modeling using echo-stones",
+            "resources": [
+                "Control of condenser arrays",
+                "Technical manuals and scribing rights at the Stepwell of Oris",
+                "Crew guilders bound by water-oaths"
+            ],
+            "goals": [
+                "Stabilize ration schedules despite rising salt creep",
+                "Prohibit unlicensed alchemical additives near watercourses",
+                "Secure formal authority over emergency Blue Hour declarations"
+            ],
+            "rivals": [
+                "Solace Guild of Herb and Light",
+                "Ledger of Fine Weights"
+            ],
+            "allies": [
+                "Cliff Ministry",
+                "Cliffward Compact"
+            ],
+            "seat_of_power": "Cascadrome Terraces, mid-tier pavilion",
+            "public_support": "Respected for competence but resented for ration stringency",
+            "notable_laws_or_edicts": [
+                "Fog Intake Cleanliness Ordinance",
+                "Blue-Timer Token Standard",
+                "Effluent Buffer Mandate"
+            ],
+            "current_conflict": "Facing accusations of secret bypass valves benefiting donors; pressure to open Stepwell reserves early after two weak monsoons."
+        },
+        {
+            "name": "Mistral Syndic",
+            "type": "Navigators, pilots, and windwrights",
+            "leadership": "The Seven Lashers, elected by pier crews, chaired by Far-Kite Serev",
+            "motto": "Read the wind, write the way",
+            "methods": "Sky-lane charts, mooring rights auctions, escort kites for caravans, strike threats during unsafe conditions",
+            "resources": [
+                "Control of Selen Gate moorings",
+                "Fleet of training kites and glide-sleds",
+                "Skilled line-binders and wind-scribes"
+            ],
+            "goals": [
+                "Expand skyport nets and authority over airspace",
+                "Reduce safety levies on pilots",
+                "Monopolize fog-silk harvest licenses"
+            ],
+            "rivals": [
+                "Cliffward Compact",
+                "Ledger of Fine Weights"
+            ],
+            "allies": [
+                "Solace Guild of Herb and Light"
+            ],
+            "seat_of_power": "Selen Gate Skyport office pier",
+            "public_support": "Popular among youth and merchants needing fast mail; criticized for flight fees",
+            "notable_laws_or_edicts": [
+                "Sky-Lane Codex",
+                "Mooring Ring Registry"
+            ],
+            "current_conflict": "Standoff with the Compact over cross-shear hazards after several sail tears; leveraging a threatened dusk strike during Blue Hour festival logistics."
+        },
+        {
+            "name": "Solace Guild of Herb and Light",
+            "type": "Alchemists, herbalists, and lampwrights",
+            "leadership": "Matron of Mixes Ayo Solace and a circle of lamp-stewards",
+            "motto": "Ease the heat, lift the shade",
+            "methods": "Control of medicinal supply, maintenance oils for condensers, lamp-glass monopolies, apprenticeship oaths",
+            "resources": [
+                "Glowcap vaults and fog-silk enzyme stores",
+                "Contracts to oil condenser frames",
+                "Urban clinics and shade-tent network"
+            ],
+            "goals": [
+                "Legalize broader alchemical discharge zones",
+                "Build a new light-house to stabilize Heliolith oscillations",
+                "Undercut smugglers by opening a regulated tincture market"
+            ],
+            "rivals": [
+                "Aquifer Collegium",
+                "Ledger of Fine Weights"
+            ],
+            "allies": [
+                "Mistral Syndic",
+                "Veil Covenant"
+            ],
+            "seat_of_power": "Amberleaf House near the Under-Arcum",
+            "public_support": "Gratitude from patients and artisans; suspicion among traditionalists",
+            "notable_laws_or_edicts": [
+                "Tincture Purity Seal",
+                "Lampwright Apprentices’ Charter"
+            ],
+            "current_conflict": "Accused of runoff slicking cliff routes, causing accidents; proposes absorbent moss terraces, opposed by the Ledger as unprofitable."
+        },
+        {
+            "name": "Cliffward Compact",
+            "type": "Militia, rescue crews, and boundary wardens",
+            "leadership": "Marshal Thren Basso, elected by rope companies",
+            "motto": "Hold the edge",
+            "methods": "Patrols along lifts and rims, emergency response, hazard zoning, enforcement of safety orders",
+            "resources": [
+                "Rope stores and chain-lift control rooms",
+                "Signal fires and storm bells",
+                "Volunteer climbers owed life-debts"
+            ],
+            "goals": [
+                "Mandate stricter safety nets at the skyport",
+                "Shut down smuggler routes through the Under-Arcum",
+                "Expand rescue stipends funded by Ledger tariffs"
+            ],
+            "rivals": [
+                "Mistral Syndic",
+                "Under-Arcum smugglers backed by shadow patrons"
+            ],
+            "allies": [
+                "Aquifer Collegium",
+                "Cliff Ministry"
+            ],
+            "seat_of_power": "Cliff Ministry Hall annex",
+            "public_support": "High after rescues; wavering when patrols disrupt markets",
+            "notable_laws_or_edicts": [
+                "Rimline Safety Code",
+                "Lift Load Limits",
+                "Arcum Curfew Bell"
+            ],
+            "current_conflict": "A series of fatal slips tied to counterfeit safety seals; suspects inside the Ministry leak lift schedules to smugglers."
+        },
+        {
+            "name": "Ledger of Fine Weights",
+            "type": "Merchant guild, bankers, and actuaries",
+            "leadership": "First Teller Avar Jen and a quorum of weigh-masters",
+            "motto": "Balance gives breath",
+            "methods": "Trade bonds, caravan underwriting, market fees, quiet leverage via debts",
+            "resources": [
+                "Counting-houses at every gate",
+                "Private arbiters in the Wind Courts",
+                "Ownership stakes in warehouses and forges"
+            ],
+            "goals": [
+                "Privatize portions of the Cascadrome",
+                "Secure salvage rights at the Skybridge Ossuary",
+                "Bind the Stepwell of Oris to a financial trust"
+            ],
+            "rivals": [
+                "Aquifer Collegium",
+                "Mistral Syndic",
+                "Solace Guild of Herb and Light"
+            ],
+            "allies": [
+                "Select Ministry clerks",
+                "Certain Ember Ash captains"
+            ],
+            "seat_of_power": "Granite Counting-House overlooking the Under-Arcum",
+            "public_support": "Tolerated as a necessity; resented for bond foreclosures",
+            "notable_laws_or_edicts": [
+                "Weights and Measures Edict",
+                "Caravan Bond Registry"
+            ],
+            "current_conflict": "Facing public outcry over rumored star-code trading gleaned from the Heliolith; pushing a bill to legalize ‘predictive underwriting’."
+        },
+        {
+            "name": "Ember Ash Cohort",
+            "type": "Miners, teamsters, and furnace-keepers",
+            "leadership": "Captain of Ashes Varo Pell and cohort lieutenants",
+            "motto": "Feed the flame, feed the city",
+            "methods": "Convoys along the Sable Road, bulk fuel contracts, strike threats, muscle-for-hire on dangerous lifts",
+            "resources": [
+                "Ash pit claims",
+                "Convoy wagons and spark-catchers",
+                "A network of taverns doubling as hiring halls"
+            ],
+            "goals": [
+                "Win hazard pay increases",
+                "Establish an ash reserve to stabilize prices",
+                "Force the Ministry to subsidize safety equipment"
+            ],
+            "rivals": [
+                "Ledger of Fine Weights",
+                "Cliff Ministry"
+            ],
+            "allies": [
+                "Cliffward Compact (uneasy, over safety)",
+                "Under-Arcum brokers"
+            ],
+            "seat_of_power": "Ternary Crucible and nearby ash yards",
+            "public_support": "Solid in worker districts, mixed elsewhere",
+            "notable_laws_or_edicts": [
+                "Ash Convoy Priority Lanes",
+                "Spark Handling Ordinance"
+            ],
+            "current_conflict": "Bandit assaults on the Sable Road have spiked; the Cohort accuses the Ledger of underfunding escorts while raising tolls."
+        },
+        {
+            "name": "Veil Covenant",
+            "type": "Mystic devotional society",
+            "leadership": "Mistmother Ilane and a chorus of dusk-singers",
+            "motto": "Breathe with the Vale",
+            "methods": "Public rites at dusk, fog-offering bowls, dream vigils, intercession at Remembrance Drift",
+            "resources": [
+                "Shrines along the rim",
+                "Custody of wind-bells and chime scripts",
+                "Allies within the Solace clinics"
+            ],
+            "goals": [
+                "Sanctioned access to the Heliolith base at dusk",
+                "Recognition of fog-rites as civil ceremonies",
+                "Protection of the Tangle-Root Archive against commodification"
+            ],
+            "rivals": [
+                "Cliff Ministry traditionalists",
+                "Ledger of Fine Weights"
+            ],
+            "allies": [
+                "Solace Guild of Herb and Light",
+                "Certain Mistral pilots"
+            ],
+            "seat_of_power": "Mist altar cirque on the East Scarp",
+            "public_support": "Strong among bereaved families and fog-silk workers; mocked by hard-headed traders",
+            "notable_laws_or_edicts": [
+                "Remembrance Drift Parapet Rule",
+                "Bell-Cease Clause during dusk rites"
+            ],
+            "current_conflict": "Fined for obstructing skyport approaches with song circles; threatens a mass silence during the Wind Courts, which would halt sessions entirely."
+        }
+    ]
+}

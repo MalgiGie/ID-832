@@ -1,0 +1,57 @@
+{
+    "id": "M6",
+    "title": "The Gargoyle That Remembered Rain",
+    "quest_giver": "Orin Thalen",
+    "description": "A gargoyle on the Old Aurion Aqueduct woke when a Collegium experiment sang too near its stone. Now it waits with dry tongue and aching throat, shedding dust as if it were scales. House Thalen needs it soothed and the siphon valves replaced before any public trial of flow makes them look like dreamers with broken toys. The wind on the arches tastes of snow and old risk. Harn Slate, a miner from Skytooth Ridge, meets you at Harn’s Step with ropes and a prayer that sounds like a curse.\nBandits nest in hollow piers and watch like crows, waiting to sell your bones to whoever writes the truest elegy. The gargoyle’s eyes are dry and hateful until you pour a skin of water down its stone gullet and it shudders like a creature hearing its name after too long.",
+    "objectives": [
+        "Meet Harn Slate at Harn’s Step and climb to the gargoyle’s perch",
+        "Soothe the awakened gargoyle by feeding it flowing water",
+        "Replace a cracked siphon valve with a salvaged unit from a nearby span",
+        "Hold off bandits while the mechanism re-primes",
+        "Signal House Thalen by heliograph that the span is safe"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Orin Thalen",
+            "text": "My family’s name is carved into those arches, and into the debts that keep them from being rubble. Help me make them sing again and I will pay with more than coin. I will argue your clauses to the bitterest cousin until their tongues go dry. Bring me a gargoyle that does not look at my crews as if they were tinder."
+        },
+        {
+            "speaker": "Harn Slate",
+            "text": "The wind up here peels skin if you let it. Keep low, keep light, and don’t look down longer than it takes to know where not to land. The garg soyaks—gargoyles—wake hungry and angry both. Give it water and a name, and it might pretend you’re worth not crushing for the length of a task."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "text": "Easy, old watchman. You were made to drink storms, not choke on dust. Here’s flow to wet your teeth, and here’s a hand that won’t flinch if you flex. Harn, wedge that valve like you’re convincing a door it meant to open all along. If the bandits want the view, they can have it after we’re done."
+        },
+        {
+            "speaker": "Bandit Lookout",
+            "text": "Pretty work for a legend no one will pay for when it cracks again. Leave the brass and the tools, and no one goes over. Or climb down with your pride and see if the city buys that instead of grain."
+        },
+        {
+            "speaker": "Harn Slate",
+            "text": "Come and take it then, if you’ve a taste for gargoyle breath. Lio, now—turn the valve on my count. One, two, three. There. Hear that? That’s an old spine remembering it can stand."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M5"
+        ],
+        "next": [
+            "M7"
+        ],
+        "related_locations": [
+            "Old Aurion Aqueduct",
+            "Skytooth Ridge"
+        ],
+        "factions_involved": [
+            "House Thalen",
+            "Cobalt Collegium",
+            "Rafter's League"
+        ]
+    },
+    "rewards": [
+        "Thalen writ of passage along the aqueduct arches",
+        "Siphon-maker’s token (discount on future repairs)",
+        "Reputation (modest) with House Thalen and workers along the spans"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "M1",
+    "title": "Mapy, które śpiewają",
+    "quest_giver": "Lima Fal",
+    "description": "W Skryptorium Przypływów atrament z alg drży w rytmie, jakby litery oddychały wraz z przypływem. Przeorysza Lima Fal wzywa Eliana, by sprawdził, czemu linie torów wodnych na mapach zmieniają się nocami i dlaczego echo pod bazyliką gubi wodę. Trop prowadzi do Latarni Rozszczepionej i starego latarnika Eldana Zmierzchowego, który pamięta pieśń zdolną zespolić trzy snopy światła w jeden. Na styku wiary, geometrii pryzmatów i szeptów selenitu rodzi się zadanie: zebrać głosy miasta – kapłanów, lampników i latarników – i sprawdzić, czy to nie ktoś pisze mapy na nowo.",
+    "objectives": [
+        "Spotkaj się z Przeoryszą Limą Fal w Skryptorium Przypływów i obejrzyj mapy, na których linie torów zmieniają bieg.",
+        "Zdobądź od Jodana Piżmowego w Domu Lampników algową latarnię i świecące znaczniki dla zaznaczenia anomalii na wodzie.",
+        "Dotrzyj do Latarni Rozszczepionej i porozmawiaj z Eldanem Zmierzchowym o pieśni pryzmatów.",
+        "Zbierz próbki dźwięku i światła: zanotuj rytm trzech snopów i ich przesunięcie względem zegarów kołkowych na Tarasie Szczytowym.",
+        "Wręcz Limie Fal notatki i znaczniki, aby rozpocząć porównanie śpiewu selenitu z anomaliami na mapach."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lima Fal",
+            "line": "Litery nie kłamią, ale czasem mówią to, co nie jest nam miłe. Te linie, które nocą zmieniają kurs, nie są błędem pióra nowicjuszy. Słyszę w tym echo pryzmatów i dłoni, które chcą wziąć fale pod zarząd księgowych. Idź, Elianie, z oddechem równym jak przypływ. Posłuchaj latarni i przynieś mi głos wody, zanim ktoś nam go wyciszy na zawsze."
+        },
+        {
+            "speaker": "Jodan Piżmowy",
+            "line": "Lampy z łunikami nie zdradzą cię komarom ani strażnikom. Ale pamiętaj: światło to język, a w tym mieście każdy język ma podsłuch. Zaznacz mi w kanałach, gdzie woda głuchnie. Jeśli ktoś kradnie blask pod bazyliką, to ja chcę wiedzieć, jakim sitałem przesiewa sacrum."
+        },
+        {
+            "speaker": "Eldan Zmierzchowy",
+            "line": "Trzy snopy jak trzy sprzeczne rady – każdy świeci w swoją stronę. Pieśń, o którą prosisz, to nie melodia dla uszu, tylko dla kamienia. Kiedy ją śpiewasz, pamięć staje na baczność i potrafi się ukruszyć, jak szkło pod złą nutą. Mógłbym cię nauczyć półzwrotu, który łączy światła na mgnienie. Ale czy wiesz, co zrobisz z takim mgnieniem?"
+        },
+        {
+            "speaker": "Elian Kotwiczny",
+            "line": "Pamiętam, jak latarnie prowadziły mnie przez mgły, kiedy miałem jeszcze łuk z gałęzi i żebra kotwicy. Jeśli mapy przestawiły ktoś lub coś, wolę wiedzieć, zanim ktoś rozbije się o klif. Naucz mnie, Eldanie, a ja przyniosę Limie nie tylko światło, ale i cień, który próbował je przesunąć."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            "M2"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "item",
+            "description": "Znacznik pryzmatyczny Skryptorium – pozwala czytać i zostawiać sygnały na mapach algowych."
+        },
+        {
+            "type": "blessing",
+            "description": "Błogosławieństwo oddechu Wiru – krótkotrwałe uspokojenie i precyzja podczas wspinaczki i strzału."
+        },
+        {
+            "type": "access",
+            "description": "Dostęp nocny do czytelni Skryptorium Przypływów."
+        }
+    ]
+}

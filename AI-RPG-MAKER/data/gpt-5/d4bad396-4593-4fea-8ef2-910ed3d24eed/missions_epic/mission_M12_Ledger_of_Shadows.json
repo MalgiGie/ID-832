@@ -1,0 +1,88 @@
+{
+    "id": "M12",
+    "title": "Ledger of Shadows",
+    "quest_giver": {
+        "name": "Knife-Whisper Pell",
+        "affiliation": "Embersleeve"
+    },
+    "description": "Night gathers beneath the Starspan as if the arch has drawn a cloak over Miravale, and the votive ribbons twitch like the fins of patient river-fish waiting for the current to turn. Brass prayer-bowls breathe salt-cool air, and the basalt rib above you glows with a captive starlight that refuses to die, even as drought gnaws the city's edges to bone. Knife-Whisper Pell stands where the arch’s shadow cleaves the quay, ledger cradled like a reliquary, pages oiled with secrets, your name waiting open as if it were a wound asking for a stitch. The Mirror-Queen’s sliver at your throat warms to a remembered rhythm, a soft cadence you learned in the Shattermere when a sealed question sank and surfaced with an answer that still follows you like an echo that will not sit. Tavi leans at the rail with the patience of a storm holding its breath, and Asha Greyling’s bell-rope dangles nearby, every braid a warning and a promise that mercy can be a blade if you hold it by the right edge. The river itself makes argument and counterargument in hush and slap—the old city tongue—saying this: the things you do under the Starspan are kept, and the water will recall them when men forget. Tonight you are asked to take a curse by its throat and make it let go without letting loose the debts that keep a city sewn, and if you fail the Night Market Vaults will bleed and lick their own blood and teach Miravale a habit it may never quit.",
+    "objectives": [
+        "Meet Knife-Whisper Pell beneath the Starspan at midnight",
+        "Bring the ritual salt-bowl and the mirror-plate to attempt a ‘Soft-Cut’ of the Oath of Silence curse",
+        "Choose terms: exile for Pell or a sworn seat at the Oath’s oversight table in exchange for ending masking attempts",
+        "Perform the cut-binding and free three lieutenants from salt-blood tears without unbinding their debts",
+        "Seal the Night Market culvert wheel map behind a new oath accessible only by public need"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Knife-Whisper Pell",
+            "lines": "You come with the river’s shadow on your shoulders and your reflection lagging a heartbeat behind you, and I know a broker when the city tries to pretend it still believes in saints. My ledger is full of names that learned to keep quiet because speaking turned teeth into coin for other mouths, and those mouths are still hungry. The curse you smell on my people is salt turned inward, a punishment meant to teach silence by drowning the tongue, and it has done nothing but teach grief how to keep time. Free them from the river’s bad memory, and I will barter with better ones; I will leash my knives to rules sharp enough to cut me if I pull, so long as those rules do not starve us while the Wardens fatten their toll plates. Say it clean, Lio Fenwater: write me into this city like a clause that binds the knifework to a cause, or write me out like a heresy and trust that your mercy will not split like glass."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "lines": "I came to cut breath-holes, not throats, and to teach chains the trick of loosening without turning into new gallows. The Soft-Cut will not unmake your debts or your choices; it will peel the curse away from the ledger like lifting a wet label from a bottle, slow and careful, using salt where salt once burned to cleanse instead of to accuse. End your masking games at the Loom of Tides and stand witness where witnesses count—in the Scriptorium of Oaths and beneath this arch that holds the city’s spine—and I will set a chair for you with language that sits crooked on purpose. You will feel every splinter of public duty, and when you try to lean away, the words will bite until you remember why you asked for breath. I don’t promise comfort, Pell, but I promise you won’t be asked to drown yourself to feed a prophecy that was never yours."
+        },
+        {
+            "speaker": "Tavi Mireline",
+            "lines": "You taught me on the glass-shelves that pain is a poor teacher until someone helps your lungs remember how to work, and that’s all this is tonight: a reminder. Mercy isn’t a forgetting, it’s a maintenance schedule, checks and oil and a hand that knows where the rust hides, and if we skip it, the whole engine strips its teeth. Let them sit at a table with splinters, where the Archivists can watch them bleed and measure how fast the wound chooses to close when no one is looking. We spent too many nights diving for answers that talk like riddles; this answer is simple, and it isn’t soft, it’s steady. Cut the curse, keep the debt, cage the knives in a promise that won’t open without the right witnesses, and let the city feel the difference between hush and silence."
+        },
+        {
+            "speaker": "Asha Greyling",
+            "lines": "The Arch hears the lie in a voice faster than any court, and it hears the truth in a heartbeat that will not be hurried, so speak here where the stone may judge us all. Mercy held by memory becomes covenant, and covenant held by fear becomes a chain, so we must thread the needle where mercy remembers and fear forgets. Ringing soft is not the same as ringing easy; I will toll a mercy-note only if your cut leaves the oath intact like a healed bone that aches when the weather turns, warning before it breaks. If you can free their tongues without freeing their hands from what they swore, the Order will stand between you and the panic of those who profit from panic. But if the curse screams and the oath snaps, I will ring the warning, and the city will come running with water and fire both."
+        },
+        {
+            "speaker": "Knife-Whisper Pell",
+            "lines": "Very well—teach me your rhythm, broker, and we will learn whether I can dance without stepping on your heel or your throat. I have masks stacked in the Vaults like plates of blackglass, and I will pack them away if your chair lets me breathe without having to steal air from someone else’s lungs. Exile is a word I can swallow for a season if it keeps my people from coughing salt in their sleep, and oversight is a word I can learn to love if it does not turn into a gag when the Wardens feel nervous. But hear me: if you dress a knife in scripture and call it a seat, I will feel it, and I will not be the only one to bleed. Cut clean, Lio, and I will open my ledger on the brass benches and let the city read me for once without having to guess which parts I set in shadow."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Exile the Knife",
+            "text": "Demand that Pell take exile for a season and a day beyond Miravale’s bridges, surrendering operational sway while a deputy submits to witness and audit, in exchange for the Soft-Cut performed tonight. Speak the terms beneath the Starspan so the basalt remembers, invoking the Order to bell the boundary and the Archivists to plate it in brass so the city can point to it when tempers flare. Promise safe-conduct out and back, so the exile is not an execution in prettier clothes, and swear that the deputy’s ledger will be examined on festival days when the Loom’s song is clearest. Declare that masking at the Loom ends now and forever under pain of banishment becoming banishment made permanent, and that the Night Market’s peace will be kept by the same rules that keep river locks from eating their own gears. Promise also that you will seal the culvert wheel behind a public-need key, so no single creed—smuggler, Warden, or saint—can open it without the city’s hunger testifying to need.",
+            "outcome": "Pell’s face tightens like a knot pulled true, then loosens as if a splinter works its way free, and they accept exile with a wry bow that looks like a blade turned flat. The Soft-Cut rides your chime-plate’s trembling note and the salt-bowl’s sting, and three lieutenants cough brine that is theirs no longer, tongues tasting blood and river and relief in equal measure. Archivists etch the banishment’s span and terms, and Asha rings a mercy-tone that climbs the arch and returns as a softer echo, marking the oath as alive rather than gagged. Vaults violence cools as if a fever has broken; the deputy, watched by witnesses, keeps market peace while masking-devices are boxed and given to the Collegium for breaking. You seal the culvert map under a public-need oath keyed to bell, plate, and chorus, and when the city cries hunger with witnesses, the wheel will answer; your ledger with the Embersleeve balances clean, and your echo-sickness shifts like a fever turning, the delay in your reflection trimming by a sliver you can feel when the bells stop."
+        },
+        {
+            "id": "C2",
+            "title": "Seat with Splinters",
+            "text": "Offer Pell a sworn, scrutinized seat at a new Oath Oversight table, with the condition that masking attempts cease, blackglass ledgers open on festival days, and cutters and couriers carry witness talismans when they walk the Vaults. Promise language that bruises when leaned on, clauses that bite when broken, and a chair designed to remind whoever sits that the city’s back straightens only when someone chooses discomfort over convenience. Invite the Order of the Basalt Arch to hang a mercy-bell over the table itself so any stutter in the Loom’s rhythm calls council, and bind the Rafter’s League and Wardens to share the hearing, so this is not private theater but public grindstone. Make the Soft-Cut the first act of this oversight body, standing all of you beneath the Starspan to prove the oath can hold when the arch’s hum is in your bones. Promise the sealing of the culvert wheel under the public-need key, three locks that answer only when bell, plate, and chorus agree that hunger and danger speak louder than profit.",
+            "outcome": "Pell takes the offered chair like a condemned person testing a plank and finds it holds, wincing when the clauses nip, respecting it more for the pain. The Soft-Cut unfolds as a kind of surgery by song, your chime-plate pulling the curse’s thread while salt steadies your hand, and three lieutenants breathe with their own lungs for the first time in months, debts intact, tongues their own. Asha rings mercy twice, once for the freed and once for the bound oath that did not break, and the Archivists’ nibs scratch like rain in the Scriptorium, plating the new table and its terms. Violence in the Vaults ebbs; not gone, never gone, but tied to a promise that stalls blood before it spills and demands witnesses where shadows once did the counting. The culvert wheel sleeps behind its triune key; your Embersleeve ledger shows balanced and closed, and your echo-sickness slackens, leaving you with a reflection that catches up a fraction sooner, like a friend arriving on time at last."
+        },
+        {
+            "id": "C3",
+            "title": "Refuse the Bargain, Compel the Witness",
+            "text": "Decline Pell’s terms outright and refuse both exile and simple seating, calling instead for an immediate public rite that binds the Soft-Cut under the Arch with Wardens, Archivists, the Order, and a Rafter’s League chorus as witnesses. Announce that this is not negotiation but intervention, and that if the city is to keep breathing, the lungs must be opened in the open air where everyone can count ribs. Threaten exposure of the culvert and the hidden wheel to every toll-scribe and barge-frier unless masking ends tonight, not through favor but through fear of the chorus that will gather if the bells ring warning. Lay down the public-need key as a nonnegotiable, a new lock whose teeth are carved from hunger tallies, oath plates, and bell-notes, and swear that any hand attempting to file a counterfeit key will taste the Tide-Pledge’s salt. Promise that debts will stand and blades will be sheathed, but make clear that any hand turned to masking again will drag its own name to the Scriptorium and beg the plates for forgiveness that will not come without years of service.",
+            "outcome": "The river seems to lean closer as your voice climbs, and Pell’s ledger-hand trembles before going still like a knife settling into a sheath, their acceptance torn from them by the weight of eyes rather than the sweetness of terms. The Soft-Cut becomes a spectacle of necessity, bells counting beats, chime-plate trembling like a struck nerve, and salt burning without cruelty, and in the end three lieutenants weep water that turns to breath midair. Archivists plate the rite as precedent, the Wardens swallow their pride and sign, and the Order holds the city in a hush that tastes like thunder held in the throat. Violence in the Vaults falters in the face of that hush, and masking devices vanish into Collegium crucibles while resentment seeds itself in certain corners that will one day try to sprout. The culvert wheel goes behind the public-need key; your ledger with the Embersleeve closes with a click you feel in your scar, and your echo-sickness loosens its grip, your reflection lag shortening the way a fever’s tremor fades when the body decides it wants to live."
+        },
+        {
+            "id": "C4",
+            "title": "Trade a Shadow for Silence",
+            "text": "Wager a sliver of your own echo—the piece you traded at the Moor-Sibyl and nursed like a tender bruise—offering it to the Mirror-Queen through the mirror-plate to stabilize the Soft-Cut so it does not snag. Tell Pell that you will pay a personal cost so their lieutenants do not pay forever, but that the price bought buys not immunity but obligation: masking ends, ledgers open on the equinox, and the chair at the table earns its splinters by showing up sober to every bell. Ask Asha to count the beats with you and Magister Vell’s tuning to thread your chime between the Starspan’s hum and the Shattermere’s remembered note, making of the cut a harmony that oaths can live with. Vow that the culvert wheel will be unseeable except to public need—bell, plate, and chorus together—and that the public-need key will not answer to private grief or private greed. Promise Pell clean math: debts balanced, knife-work leashed to law, and a ledger closed where your name and theirs sit on opposite lines that finally add to zero.",
+            "outcome": "The mirror-plate swallows your offered echo like a thirsty thing and gives back steadiness, the kind that makes a blade honest and a hand sure, and the Soft-Cut glides where it might have stuttered. Three lieutenants gasp as the salt in their blood turns to memory rather than sentence, and you feel your own reflection tug, then settle, as if the river has decided it will meet you a half step sooner from now on. Pell watches you bleed a story you never told, then nods, the nod of a rival who has seen a cost honestly paid and will not waste it quickly. The Order bells a mercy that tastes of iron and rain, the Archivists plate the exchange with a note about echoes and consent, and the Collegium’s chime rings true without masking for the first time in months. The culvert wheel sleeps behind the public-need key, your Embersleeve ledger balances and closes like a book finished without a cliff, and the Vaults settle into a quieter, watchful rhythm that does not pretend to be peace but refuses to be a wound."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M11"
+        ],
+        "next": []
+    },
+    "rewards": [
+        {
+            "type": "Status",
+            "description": "Embersleeve curse lifted from three lieutenants; the Night Market Vaults’ violence subsides like a fever breaking, leaving wary calm."
+        },
+        {
+            "type": "Reputation",
+            "description": "Debt ledger with the Embersleeve balanced and closed; your name no longer carries an owed dusk to Pell."
+        },
+        {
+            "type": "Access",
+            "description": "Right to the Night Market culvert wheel under a public-need oath key tied to bell, plate, and chorus; no single faction can open it alone."
+        },
+        {
+            "type": "Health",
+            "description": "Echo-sickness eased permanently by a small degree; the reflection delay shortens, and the world answers you a breath sooner."
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "M11",
+    "title": "Light Remembered by Stone",
+    "quest_giver": "Archivist Lerrin Vale",
+    "description": "North across the scrub, the Moonshard Heath glows like frost under starlight. Shallow craters catch the sky in pale glass. Lerrin needs fresh shards to power the Archive’s cold lamps and to coax the eel-skin ledger’s last secrets from the ink it refuses to reveal. Static storms prickle the skin and snap at ropes; lunar moths flock to breath and dull the mind if you let their wings brush your eyes. Poachers prowl, eyes hungry for shards to sell to ornament-rich fools. Aerin walks the heath with Iven Rill carrying a coil of insulated line, a lantern lens ready to catch a slice of the night. When the new shard is lit and the starfield replays across the Archive ceiling, the last cipher surrenders: a schedule of counterweight shifts for the Crown-Market, disguised as constellations; a meeting at Saltlick Terraces with Danka Suth; and a final transfer meant to fund a great tilting during Gale Tuning, when the city would sing and fall together.",
+    "objectives": [
+        "Travel to the Moonshard Heath and harvest a stable moonshard under static-safe procedure.",
+        "Fend off or outwit shard-poachers without lethal force if possible.",
+        "Use the shard to power the Archive’s lamps and replay the recorded starfield over the ledger pages.",
+        "Decode the counterweight schedule and identify times and names for the planned tilt at the Crown-Market Arcade."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Lerrin Vale",
+            "line": "We say the shards remember the last light they saw. Tonight, let them remember our sky and use that memory to light a darker page. Bring me a shard that has seen the clean north and we’ll ask it to tell a merchant’s secrets."
+        },
+        {
+            "speaker": "Iven Rill",
+            "line": "Keep the line low and the lantern higher than your heart. The moths like warmth and worry. Don’t let them near your eyes. If the storm swells, lie flat and sing something true. Static doesn’t like confidence, or so my grandmother said."
+        },
+        {
+            "speaker": "Shard-Poacher",
+            "line": "You city folk always think the night belongs to you. Leave the bright stones and I’ll leave your bright blood in your veins. Fair?"
+        },
+        {
+            "speaker": "Aerin Rell",
+            "line": "No. The shards go to keep children from falling with the market. You can take my warning with you, and your feet besides. The Vigil will tolerate your trade until it kills us. This would kill us."
+        },
+        {
+            "speaker": "Lerrin Vale",
+            "line": "There—see how the constellations overlay the ledger’s neat hand? ‘The Archer’ is a counterweight shift. ‘The Crown’ is a tilt in the lattice. Saltlick at dawn with Danka Suth. And here—their finale. Gale Tuning."
+        }
+    ],
+    "connections": {
+        "previous": "M10",
+        "next": "M12"
+    },
+    "rewards": [
+        "Moonshard Lantern Lens upgrade: improved clarity for recording and replaying tones and starfields.",
+        "Archive seizure writ for contraband counterweights and resonant plates tied to the decoded schedule.",
+        "Strengthened alliance with the Marrow Archive Curators."
+    ]
+}

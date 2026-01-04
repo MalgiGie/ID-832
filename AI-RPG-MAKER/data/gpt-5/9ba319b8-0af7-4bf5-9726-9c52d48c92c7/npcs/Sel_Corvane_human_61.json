@@ -1,0 +1,73 @@
+{
+    "name": "Sel",
+    "surname": "Corvane",
+    "race": "human",
+    "age": 61,
+    "appearance": "Tall and spare with a salt-gray beard, brass-limned goggles always around his neck, and a tide-stained engineer’s coat stitched with ring-maps.",
+    "character": "Deliberate, paternal, and iron-willed; keeps his voice even while the city panics.",
+    "traits": [
+        "meticulous",
+        "stubborn",
+        "protective of apprentices",
+        "political realist"
+    ],
+    "skills": [
+        "hydraulic engineering",
+        "water-law argument",
+        "tide-table calculus",
+        "charter drafting",
+        "crisis logistics"
+    ],
+    "talents": [
+        "predicting surge timing by sound",
+        "decoding chain-bell patterns",
+        "uncanny recall of precedents",
+        "reading river color at a glance"
+    ],
+    "flaws": [
+        "expansionist pride",
+        "grudges that last decades",
+        "distrust of improvisation",
+        "workaholic neglect of family"
+    ],
+    "dreams": [
+        "annex Dry Dock Three by emergency decree to end sabotage",
+        "codify ring-rights into a single safety code",
+        "retire the bypass tunnel beneath the Gate Crown ethically"
+    ],
+    "secrets": [
+        "authorized a controlled ‘test flood’ during a night tide to sway a Parliament vote",
+        "keeps a private copy of the bypass tunnel map stolen from Mnemos archives",
+        "has used the starshard-toothed cog once and fears calling it again"
+    ],
+    "relations": [
+        {
+            "npc_name": "Maris Veyron",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Serene Khel",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Yarik Nine-Fingers",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orrix Vant",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Nella Shuck",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Brask Ilyne",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Alion Mareth",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

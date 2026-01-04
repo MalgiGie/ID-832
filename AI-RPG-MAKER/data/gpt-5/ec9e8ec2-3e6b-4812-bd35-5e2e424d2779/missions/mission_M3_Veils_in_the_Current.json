@@ -1,0 +1,38 @@
+{
+    "id": "M3",
+    "title": "Veils in the Current",
+    "quest_giver": "Tamas Eelwick",
+    "description": "The League of Lanterns has been seeing double: veils that peel wrong and coded flashes that ride the Veiled Current like thieves laughing under a curtain. Tamas Eelwick, your lantern-running friend, brings you a slate scratched with frantic shorthands and the stink of oil on his sleeves. Pirates are testing a backdoor through the Tenth Mouth, and someone with a clean berth is helping them slip past the chain-gates. Windward Bastion will not act on rumor and glow alone; you will have to carry the light and the proof to Captain-Major Sorev Katch and then help set a decoy signal to turn the cut-throats toward a net instead of the Lamplands. The last time blackouts were run in this city, a cutter went down, and one Warden didn't come up. The old guilt licks like a cold wave around your ribs as the lanterns gutter in rehearsal, and the Bastion's stormglass panes whisper with wind.",
+    "objectives": [
+        "Meet Tamas at a Lamplands signal tower and receive the coded slate of pirate routes.",
+        "Deliver the slate to Sorev Katch at Windward Bastion and convince him to authorize a decoy lantern play.",
+        "Help the League of Lanterns run a controlled blackout to funnel pirate skiffs into a Warden ambuscade."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tamas Eelwick",
+            "content": "You know how a veil should fall when the Current runs soft? Tonight it folded like oil on ice, and the code in it wasn't ours. Someone with dock-rights is holding a lantern crooked on purpose. I don't like it, Tairn. If we don't turn them, they'll crease into the Lamplands like a knife into wet reed. Take this slate. I tried to clean it, but the message won't be pretty no matter how you polish it."
+        },
+        {
+            "speaker": "Sorev Katch",
+            "content": "I've seen forged slates, and I've seen fear make honest men see ghosts in lamp smoke. But this code has the smell of truth—greasy and inconvenient. We'll set a curtain of dark and a net behind it. Understand: I won't have a repeat of the Corsair Year under my watch, and I won't let Lanterns play hero without Wardens to hold the line. You run those signals clean, and my boats will be where your shadows tell them to be."
+        },
+        {
+            "speaker": "Tairn Latch",
+            "content": "We run it tight, no flourishes. One blackout, one hook, one haul. If the Current takes them where we ask, we'll be waiting with chain and storm-rig. And Captain—if anything tilts, the fault is mine. I won't let any more Wardens sink because a message wore the wrong light."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        "League of Lanterns code-leaf: a pocket primer for reading advanced harbor signals",
+        "Reputation: +Small with River Wardens and League of Lanterns",
+        "5 silver and a flask of high-grade lamp oil"
+    ]
+}

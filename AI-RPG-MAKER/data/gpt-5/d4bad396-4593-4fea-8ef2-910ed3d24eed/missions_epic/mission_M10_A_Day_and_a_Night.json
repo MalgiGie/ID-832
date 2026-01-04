@@ -1,0 +1,80 @@
+{
+    "id": "M10",
+    "title": "A Day and a Night",
+    "quest_giver": {
+        "name": "Asha Greyling",
+        "affiliation": "Order of the Basalt Arch"
+    },
+    "description": "Equinox arrives with bells made frantic by prayer-gloved hands, and the Starspan answers in a thin, metallic tremor like teeth set against cold. Down in the engine-house, the Loom of Tides exhales steam the scent of iron and riverweed, and its belts whisper in oiled harmonies that keep Miravale’s veins from clotting. The prophecy is a tight knot in the city’s throat: a day and a night without stutter, or else the ancient arch will choose to remember how to break. Someone means to teach the Loom to cough, and they have chosen the hour when every ear is tuned to fear and every hand hesitates before a lever.\n\nYour pockets carry a decoy chime-plate that Embersleeve fingers once kissed, its false note leaving a map of smudged whorls across the metal like a quiet confession. You know a culvert wheel hidden behind the Night Market’s curtained shrine, a secret the river keeps for those who bleed to it and do not flinch. Captain Maera Lockfen has crews ready to crank the great rims by hand until their shoulders burn like kiln-bricks, if only you can keep knives from the belts that run like river-serpents and tongues from the gears that love careless sleeves. Magister Vell’s numbers want to be obeyed and argue with the air itself; the Collegium’s resonance core from Skytooth hums in its cradle, a blue heart waiting to be seated and soothed. Between Wardens and smugglers, between prayers and equations, between your own echoing voice and the city’s thundering breath, a rhythm must be found and held.\n\nThe saboteurs reek of two trades that should never meet in the dark: the sweet tar-and-silver of the Sunken Glassworks kiln rooms and the fish-oil and lantern-dust of the Night Market Vaults. You recognize their hesitations as much as their tools, the way a hand lingers over a latch that would open too easily, the way footsteps try to remember the beat of patrol bells and miss by a half-breath. The Starspan listens, counting cracks like a miser counts coins, older than law and colder than pity. If you can carry the city steady from dusk to dawn, and then from dawn back into dusk again, Miravale will have bought itself time that even gold cannot bribe from the drought.",
+    "objectives": [
+        "Enter the Loom of Tides through a hidden culvert wheel you learned in the Vaults",
+        "Identify saboteurs by triggering the decoy plate’s telltale flutter and isolate them",
+        "Coordinate with Maera’s crews to maintain manual flow while belts are retensioned",
+        "Seat the Skytooth resonance core and play the mirror-plate’s counter-tone to smooth the hum",
+        "Confront Knife-Whisper Pell and force an end to the masking attempt without a street war"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Asha Greyling",
+            "lines": "The arch wears a smile the city calls a bridge, but I read the cracks in its teeth and I know what it remembers. I have rung the bells until my hands are blistered raw, and in return the market gives me skepticism wrapped as courtesy and merchants who ask the river to provide receipts. Give them proof of steadiness instead, Lio Fenwater—give them a day and a night that flow like a single patient breath, taken in and let out without flinch or gasp. If the Loom stutters, the Starspan will hear that weakness and answer with a lesson older than our guilds and sharper than our law. Hold the rhythm as if it were a child carried across a rushing ford, and I will write your name on a bell-clapper myself so that courage speaks every time it swings."
+        },
+        {
+            "speaker": "Maera Lockfen",
+            "lines": "My crews will put shoulders to the great cranks and turn until the world is a wheel and our bones are spokes, but I won’t pretend we can do it if knives dance in the shadows. Keep clever boys and braver fools out of my gearings; I want no more blood fed to teeth that only understand motion. If you see a hand reach where it should not, break the habit, not the fingers, because we are going to need those fingers when the flood returns and asks us if we can swim while tied to a city. I have seen you in a culvert with your echo-breath and your mirror luck, and I trust you like I trust a good rope—because I have seen you hold under strain. Bring me a clean night, and I will sign the writ that lets you walk where the Wardens walk when water is thin."
+        },
+        {
+            "speaker": "Magister Vell",
+            "lines": "Listen. There, beneath the thrum of belts and the polite cough of pistons, there is a ghost-harmonic looking for a bed to curl into, like a cat testing a window-sill in morning sun. Take your mirror-plate and give me a breath just under E5; not a full strike, mind you, but a kiss of tone, a whisper of intention. The belts will complain—they always do when you ask them to sing in a key they did not choose—but physics does not care about their pride and neither do I. Seat the Skytooth core while the counter-tone smooths the burr in the hum, and let the resonance fall like rain settling dust, not like hail caving roofs. Those men who smuggled in a false scale thought sound could be bullied; show them that sound, like law well-written, does not bend so much as it invites the world to align."
+        },
+        {
+            "speaker": "Knife-Whisper Pell",
+            "lines": "You look at me the way locksmiths look at stuck doors, Lio—like patience and an iron key are more righteous than the fear that made the door in the first place. I did not walk a knife-edge from the kiln-scraps to the Vaults to watch the arch break; I don’t want the river’s throat cut, not when I owe it so many breaths. What I wanted—what I always want—is a city that does not ask for permission to breathe, where the keys are not held by only those who made them. I sent a masking tone to remind those who hoard flow that we still know the old culverts and can make the river look away for a heartbeat. Call your Wardens off my shadows and I will call my shadows off your daylight; I will trade secrecy for a seat if the seat comes with real voice, not a cushion with a gag stitched in."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "lines": "I know the taste of a culvert when the current runs too fast, and I know the sound of a lock when it wants to seize; I also know you do not put out a fire by unlatching every door to the wind. Walk with me into a hearing where the bells can hear, Pell, and say out loud that you will trade some of your masks for some of their keys. I will write it on brass with salt-soot ink and hold your name steady while you speak so your oath does not slide under its own weight, and I will bring witnesses who remember what oaths are for. Keep playing at masks in this engine room and you will force me to make an example that will cost you more than secrets; it will cost you the river’s patience with both of us. I want a day and a night of steadiness, and then I want to build a bridge out of it that isn’t made of basalt but of kept promises."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Walk the Shadow-Bridge: Parley with Pell beside the humming belts",
+            "text": "You step into the steam and summon Pell with the old culvert whistle, the one that mothers used to call children from floodbanks. The roar of the Loom wraps your words, and you speak in long, careful phrases that bind like ropes rather than like nooses. You name what you will give—amnesty for the night, a seat at a future hearing, witnesses who do not owe you coin—and what you will demand: no more masking tones, no hands near belts, no knives unsheathed. You do not threaten; you promise, which is harder, and you let your echo-sick voice double your certainty with a second, delayed affirmation that sounds like a ghost agreeing with you. Around you, pistons count seconds like a judge tapping a table, and you watch Pell's pupils flick from the belts to your locket to your hands, measuring if the river has finally found someone willing to hold two truths at once.",
+            "outcome": "Pell nods with the grudging grace of a captain who knows the current favors a truce today and a fight some other tide. Embersleeve runners pull back their hands, and the masking plate goes quiet in a pouch that will later be surrendered in ceremony rather than seized in blood. Your name travels into the Vaults as the one who traded silence for structure, and knives in the dusk go sheathed when your footfalls are heard. The Loom completes its turn from night into day and back again without a cough, and the Order marks the bells with a new groove that they say sounds like your locket catching light. Later, when the Oath hearing is called, Pell arrives not with blades but with ledgers and the particular smile of a thief who intends to become a negotiator before anyone can insist on searching pockets."
+        },
+        {
+            "id": "C2",
+            "title": "Clamp the Floodgates: Throw full weight to the Wardens and raid",
+            "text": "You signal Maera with a touch-sign learned on the lock-stairs as a child, and the Wardens swarm through maintenance galleries like chain-booms unfurling across a river mouth. Your words turn from negotiation to ordinance, crisp and hard-edged, and you call for confiscations that will be entered into ledgers before the steam has a chance to thin. You move with a shard-knife in hand not to cut flesh but to snip oath-threads tied to false plates, and every strike of your chime-plate E5 is a summons to order rather than an invitation to parley. The saboteurs choke on their own bravado as wrist-cords bite and their pockets empty onto the grating like a handful of iron filings. In the echo of their shouts you hear your own voice repeat itself, and you decide you prefer certainty to sympathy when the arch is listening with such hungry attention.",
+            "outcome": "The raid is clean by the standard of raids, which is to say only a little blood hits the iron and the only screams that last are from belts suddenly retensioned into proper song. The Loom runs the full measure without stutter, and Maera signs a security writ with your name spelled cleanly and without grudging abbreviations. The Embersleeve vanishes into its culverts with anger salted into their tongues, and rumors begin to dress you in Warden blue even when you are not wearing a cloak at all. Vell records that the ghost-harmonic resolved beautifully under pressure, and Asha’s bells speak your name in tones that sound like approval and warning braided together. The city wakes to find its water honest for another cycle, but you learn there is a cost to clean victories: shadows remember the shape of your back and begin to measure knives against it."
+        },
+        {
+            "id": "C3",
+            "title": "Tune the Middle Note: Work a public fix and a promise on brass",
+            "text": "You throw the doors wide and invite witnesses into the engine-house—Archivists with plates and salt-bowls, Order bells with clappers wrapped in patience, and even a pair of Rafter’s League captains whose calluses read pressure better than gauges. You explain what will happen in a voice meant for amphitheaters, not alleys, and you lay the Skytooth core in its bed with motions as ceremonious as a vow. You strike the mirror-plate’s counter-tone, and then you let others mark the moment: an Archivist etching the time, a Warden reading the cadence aloud, a monk writing a margin note of omen and relief. Pell watches from the gantry with eyes like a stray cat at the edge of a lantern’s halo, and you raise a hand, not to summon, but to show that there is room for one more signature when the brass is offered. The crowd breathes with the belts, and for the first time in a season, the Loom’s rhythm feels less like an argument and more like a choir deciding on a key together.",
+            "outcome": "Under an honest sky of steam, the Loom hums a full day and a night as though guided by a choir of patient hands, and every minute earns a witness mark that no faction can later deny. The Order blesses the moment with a bell peal that tastes of iron and river-salt, and the Archivists declare that a hearing will be held for a new Oath of Flow with all necessary chairs seated and all necessary concessions weighed. Pell comes down from the gantry and, with an audience ready to hear, agrees to an end of masking in exchange for the promise of voice and the safety to arrive unarmed. Maera shakes your hand before the plates and does not hide the fact that she respects the strength it takes to keep your blade sheathed when the city is holding its breath. When the signatures dry, you find that the city has learned your preferred note: not the lowest, not the highest, but the one that makes the others want to settle around it."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M9"
+        ],
+        "next": [
+            "M11"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Civic",
+            "description": "Crisis averted: the Loom runs a full day and night without stutter."
+        },
+        {
+            "type": "Religious-Political",
+            "description": "Order’s formal blessing for the Oath hearing."
+        },
+        {
+            "type": "Legal",
+            "description": "Warden security writ for future infrastructure sites."
+        }
+    ]
+}

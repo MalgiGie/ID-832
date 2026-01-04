@@ -1,0 +1,86 @@
+{
+    "name": "Orren",
+    "surname": "Halv",
+    "race": "Human",
+    "age": 54,
+    "appearance": "Broad-shouldered and spare, with river-wind weathering and a permanent smear of basalt dust on his cuffs. Wears a hinge-key chain at his belt and spectacles tinted against spray glare.",
+    "character": "Exacting and paternal, views the city as a system that must be tuned. Slow to anger, slower to forgive errors that endanger lives.",
+    "traits": [
+        "methodical",
+        "duty-bound",
+        "storm-calmed",
+        "unyielding",
+        "proud"
+    ],
+    "skills": [
+        "hinge calculus",
+        "flood-law argumentation",
+        "emergency crew coordination",
+        "technical contract drafting",
+        "tide-signal reading"
+    ],
+    "talents": [
+        "perfect pitch for hinge-song",
+        "reads water by sound alone",
+        "memories of every major flood schedule",
+        "microgesture command on gantries"
+    ],
+    "flaws": [
+        "pride blinds him to dockside realities",
+        "sleeplessness during ash veils",
+        "dismissive of superstition",
+        "reluctance to delegate critical calls"
+    ],
+    "dreams": [
+        "codify absolute hinge authority to prevent another Night of the Unmoored",
+        "restore and tune the rumored ribs beneath the First Hinge",
+        "leave a flood schedule so elegant it outlives him"
+    ],
+    "secrets": [
+        "Authorized a sealed culvert test that moved embargoed cargo for a political favor he regrets",
+        "Keeps a forbidden slate from the Shattered Weir etched with a hinge-song variant",
+        "Once overruled a Red Gale due to a gut feeling; three boats lived because of it"
+    ],
+    "relations": [
+        {
+            "npc_name": "Ysra Dokk",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Pel Korr",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Gantrix Pell",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Talo Ren",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jana Fell",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Lisi Jhak",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Kael Ibrin",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Rull Fen",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Thay Nerr",
+            "relation_type": "Hostility"
+        },
+        {
+            "npc_name": "Senne Vell",
+            "relation_type": "Different goals"
+        }
+    ]
+}

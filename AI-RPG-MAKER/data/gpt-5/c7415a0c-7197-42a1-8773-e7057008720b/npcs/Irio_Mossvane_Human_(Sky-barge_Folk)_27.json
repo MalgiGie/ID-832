@@ -1,0 +1,67 @@
+{
+    "name": "Irio",
+    "surname": "Mossvane",
+    "race": "Human (Sky-barge Folk)",
+    "age": 27,
+    "appearance": "Wind-tangled hair threaded with air-moss filaments, sun-browned skin dusted with green pollen, ankle harnesses and a rope-belt of tools.",
+    "character": "Bold and quick with a grin; loyalty is earned by keeping your line taut in a squall.",
+    "traits": [
+        "daring",
+        "loyal",
+        "witty",
+        "restless"
+    ],
+    "skills": [
+        "aerostat piloting",
+        "weather reading by moss-hum",
+        "precision docking",
+        "cargo lashing and weight-balancing",
+        "fast talking upland traders"
+    ],
+    "talents": [
+        "threads thermals others can’t see",
+        "lands in crosswinds without a scrape",
+        "makes friends on any quay in a night"
+    ],
+    "flaws": [
+        "thrill-seeker",
+        "owes debts to bookmakers",
+        "looks down on groundbound routines"
+    ],
+    "dreams": [
+        "Captain a sky-barge outright",
+        "Build a sky-chain to inland markets so pirates can be ignored",
+        "Prove air trade can out-earn marrow exports"
+    ],
+    "secrets": [
+        "Flew moon-iron nodules under tarps for Neth—then panicked and dumped them mid-flight",
+        "Lets Ketta adjust manifests to flag suspect cargo without tipping off bosses",
+        "Carries a Pilgrim knot hidden in his boot for luck though he laughs about superstition"
+    ],
+    "relations": [
+        {
+            "npc_name": "Selka Vire",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Garrik Shale",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ketta Brineshaw",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Neth Cowl",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Vesk Marran",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Lira Thole",
+            "relation_type": "Friendship"
+        }
+    ]
+}

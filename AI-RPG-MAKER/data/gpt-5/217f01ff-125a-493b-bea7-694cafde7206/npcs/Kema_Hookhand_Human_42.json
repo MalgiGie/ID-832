@@ -1,0 +1,70 @@
+{
+    "name": "Kema",
+    "surname": "Hookhand",
+    "race": "Human",
+    "age": 42,
+    "appearance": "Broad-shouldered dockwoman with a polished iron hook in place of her left hand, salt-cut hair, and tide-tattoo bands along both forearms. Wears a blue-stitched coat with union knots sewn inside the cuffs.",
+    "character": "Fiercely protective of her crews, blunt in speech, theatrical when rallying crowds, and unwilling to let anyone drown quietly.",
+    "traits": [
+        "steadfast",
+        "loyal to workers",
+        "blunt",
+        "stage-savvy",
+        "protective"
+    ],
+    "skills": [
+        "strike organization",
+        "ropework and rigging",
+        "brawling",
+        "harbor negotiation",
+        "drum-code signaling"
+    ],
+    "talents": [
+        "breaking symbolic chains during speeches",
+        "reading tide and fog by smell",
+        "turning crowds from panic to purpose"
+    ],
+    "flaws": [
+        "stubborn pride",
+        "short fuse under insult",
+        "distrusts scholars and masks",
+        "holds grudges"
+    ],
+    "dreams": [
+        "wage floors tied to tide cycles",
+        "a harbor school for orphans of the Silent Surge",
+        "to own a union-crewed sloop that flies the Blue Fist pennant"
+    ],
+    "secrets": [
+        "keeps a buried war chest keyed to a drum pattern only she knows",
+        "cut a side-deal with the Night Bazaar to keep picket lines fed",
+        "once misread a bell code that led to a crushed stevedore and still hears that silence",
+        "fears the three blue bells more than she lets on"
+    ],
+    "relations": [
+        {
+            "npc_name": "Sera Flintline",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Sall Brass",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Jath Pell",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Orven Caldris",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Nhal Vessin",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Rae Fen",
+            "relation_type": "Friendship"
+        }
+    ]
+}

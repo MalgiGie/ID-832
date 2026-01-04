@@ -1,0 +1,62 @@
+{
+    "name": "Tala",
+    "surname": "Fenmint",
+    "race": "Fenborn Human",
+    "age": 36,
+    "appearance": "Olive skin freckled like peat, hair wrapped in waxed cloth, and a satchel that smells of mint and sweet rot. Her smile is quick and watchful.",
+    "character": "Gentle with patients and sly with buyers, she trades kindness like a tonic and keeps her own dose hidden.",
+    "traits": [
+        "Gentle",
+        "Sly",
+        "Patient",
+        "Cautious"
+    ],
+    "skills": [
+        "Herbalism and antidotes",
+        "Night-fruit preparation",
+        "Quiet bargaining",
+        "Field tracking in reeds"
+    ],
+    "talents": [
+        "Identifies saps by scent alone",
+        "Can cross a fen mat without a ripple",
+        "Knows a dozen reedcutters by their whistle"
+    ],
+    "flaws": [
+        "Overtrusts pretty lies",
+        "Avoids direct confrontations",
+        "Holds dangerous curiosity about banned omens"
+    ],
+    "dreams": [
+        "Prove medicinal uses of luminous fish and lift the ban",
+        "Open a licensed shopfront near the River Market",
+        "Pay off a vow-debt to the fenwives"
+    ],
+    "secrets": [
+        "Supplies night-sap to the Collegium for hush research",
+        "Broke a wedding vow to the fen that still whispers her name",
+        "Keeps a luminous fry in a covered bowl"
+    ],
+    "relations": [
+        {
+            "npc_name": "Iven Shadequinch",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sava Inkweft",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Neris Aline",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Lysa Shardhands",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Rook Salter",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

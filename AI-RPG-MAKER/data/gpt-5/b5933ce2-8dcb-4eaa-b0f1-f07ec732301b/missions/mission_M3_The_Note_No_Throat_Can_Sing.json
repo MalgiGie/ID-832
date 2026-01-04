@@ -1,0 +1,48 @@
+{
+    "id": "M3",
+    "title": "The Note No Throat Can Sing",
+    "quest_giver": "Rana Olt",
+    "description": "The Luminous Weir glows in its crescent, song-gates whispering in bronze. Gate-Choirmistress Rana Olt taps a rhythm on the rail while Archhydromancer Quill Vess stares through the tide-window, his water hand rippling to some unheard counterpoint. A hidden gate is answering to an unknown note—present in the pebble, present in the river, absent from every throat in the Order. To test the gate’s response, a ritual sounding must be made while crews hold back angry pilots demanding a different sluice schedule. Aren must guard the choirs, listen for sabotage, and decide how to tilt the gates when the river’s temper rises.",
+    "objectives": [
+        "Escort Rana Olt’s gate-choir to the specified song-gate and maintain a defensive perimeter during the sounding.",
+        "Detect and thwart any sabotage attempts by radicals among the Ferrymen without igniting a riot.",
+        "Help Quill Vess determine safe adjustments to the sluice in response to the unknown note’s pull.",
+        "Record the unknown note’s harmonic overtones using a prism register for later study."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Rana Olt",
+            "lines": "It’s not that we will not sing the note, Aren; it is that the note will not be sung. The gate pulses to a tone missing from our chart, like a step in a stair that wasn’t there yesterday. If we guess wrong, we drown a terrace; if we guess right, we learn the measure of a power older than our order. I need your eyes on my flanks and your sense for when a crowd wants to become a storm."
+        },
+        {
+            "speaker": "Quill Vess",
+            "lines": "I owe you a debt I repay with competence, not with excuses. The Weir is a knife that slices floods into edible pieces, and now the knife hums to a hand we do not know. If you see a fingertip on our hilt that isn’t ours, cut it off kindly. Hold this prism register steady; it will burn pattern into light if we are clever and not unlucky."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "I don’t trust machines that need hymns to behave, but I trust the river less when no one is listening. Keep your choirs singing and I’ll keep the pilings from sprouting blades. If the river is asking a question, let’s not answer with our throats; let’s answer with our ears. The current always tells the truth, even when it kills."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": {
+        "currency": 18,
+        "items": [
+            "Prism Register Etching (harmonic pattern of the unknown note)",
+            "Weir-crew Signal Whistle"
+        ],
+        "reputation": {
+            "Order of the Luminous Weir": 3,
+            "Guild of Silver Ferrymen": 1
+        },
+        "access": [
+            "Maintenance walkways at the Luminous Weir"
+        ]
+    }
+}

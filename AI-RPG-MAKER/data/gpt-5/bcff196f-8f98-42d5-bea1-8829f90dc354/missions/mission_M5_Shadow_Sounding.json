@@ -1,0 +1,58 @@
+{
+    "id": "M5",
+    "title": "Shadow Sounding",
+    "quest_giver": "Olan Vetch",
+    "description": "Night on the Low Veyne and the water lies black as a pupil. Master Pilot Olan Vetch knots a lantern to the prow and says the demon’s spine has shifted again where the sandbar runs like a broken oath. There is a body pinned under a snag, and the Brotherhood will not leave a pilot there to teach the reeds the taste of fear. Kezra must heave the sounding lead and read the silt on its tallow, mark the bar as it moves like a sleepwalker, and lift what the river holds without letting the ghost lights carry the crew off course. In the pilot’s vest is a shard of black stone that hums when held near the tongue—the missing corner of the Oathstone, or kin to it. The rain-chain cadence chimes in the knuckles, and the reed-thing’s wake is colder than the night.",
+    "objectives": [
+        "Join a Brotherhood crew to night-sound the moving sandbar and record its shift in lantern code.",
+        "Recover the drowned pilot and any objects on his person; return the oar to the Brotherhood for the breaking rite.",
+        "Bring the humming black shard to Sister Meret for reading and determine its relation to the Oathstone.",
+        "Mark and post a warning to independent pilots who refuse Brotherhood whistles—without starting a brawl."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Olan Vetch",
+            "lines": "You saved a barge once when the river got clever. Do it again, but this time listen for what the water wants you to say back. The bar isn’t a mistake; it’s a message. And I don’t like what it says about the city’s tongue. We’ll not leave our dead under it. We earn our ghosts the right way."
+        },
+        {
+            "speaker": "Finn Bracken",
+            "lines": "I’ll keep the under-dock boys from cutting your lines while you fish for truth. If the ghost lights come, don’t whistle back unless you mean to marry them. And if something cold slips past the hull, don’t name it. Names are keys; we’ve enough doors open."
+        },
+        {
+            "speaker": "Sister Meret",
+            "lines": "This shard tastes of iron and vows. If you hold it under the tongue and speak a promise, the words scratch your mouth going out. It is kin to the Oathstone, yes, and kin to what chips away at our patience. Return it to the House, and the reliquary will stop humming for a night."
+        },
+        {
+            "speaker": "Arelon Vale",
+            "lines": "Bring me the pilot’s name. I’ll read it aloud where the Hall may hear. We do not lose people to sand and then price the sand by the cart. If there is a thing under the water that knows our oaths from the inside, we will face it with our eyes open."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I’ll sound the bar and mark its wandering. We’ll take our pilot home. And the shard—whatever it is—we’ll treat it like a hot truth: carry it on tongs and set it down where oaths are meant to cool."
+        }
+    ],
+    "connections": {
+        "previous": "M4",
+        "next": "M6",
+        "locations": [
+            "Low Veyne sandbar",
+            "Black Thistle House"
+        ],
+        "npcs_involved": [
+            "Olan Vetch",
+            "Finn Bracken",
+            "Sister Meret",
+            "Arelon Vale"
+        ],
+        "themes": [
+            "death rites",
+            "omens grow sharper",
+            "oathstone fragment"
+        ]
+    },
+    "rewards": [
+        "Brotherhood Oar-Charm (recognized by pilots; improves cooperation on canals)",
+        "Access to pilot route-books for a limited time (research advantage)",
+        "Quiet protection in Floodwalk from Finn’s network"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "M2",
+    "title": "Whispers in the Spine",
+    "quest_giver": "Ys Hul",
+    "description": "The Whispering Aqueduct carries the city's thirst on a spine of pale stone, and the pipes mutter like sleepers who dream of floods. Ys Hul of the Choir of Silt meets you beneath an arch where noon light cannot find a shadow, because the keystone was bought with one. The Choir suspects hidden bleed-valves are siphoning flow to private cisterns, starving terraces for coin and leverage. Your own secret nights upstream itch like a rash under your collar. To rebalance what is owed without drowning the city in fury, you must hear the aqueduct's memory and pull truth from stone without letting it crack.",
+    "objectives": [
+        "Meet Ys Hul under the Whispering Aqueduct to receive ritual permission.",
+        "Walk the conduit and listen for changes in pressure and timbre using the Third-Tone Silt-Bell.",
+        "Identify at least two hidden bleed-valves and record their placements on your reed-scrolls.",
+        "Collect a sample of hush-ink residue if present on valve housings.",
+        "Decide whether to disclose knowledge of an additional secret valve you discovered in the past.",
+        "Report to Ys Hul and present your findings."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Ys Hul",
+            "line": "We speak in the river plural because we remember every hand that raised a gate and every throat that drank with thanks. The aqueduct mutters of theft, Thalen Vire, not the kind that empties bowls, but the kind that empties trust. Walk and listen, but do not be tricked by the Ledgers price of silence; they sell quiet like salt, and both sting when rubbed into wounds."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "Water speaks a tempo I learned as a boy counting bells below the seventh terrace. If valves are hiding where shadowed charters say they are not, the silt will have held its breath there and the bell will tell me. I will mark them and bring you more than accusation; I will bring measurements, residue, and the exact sound of guilt."
+        },
+        {
+            "speaker": "Rae Fen",
+            "line": "I was a dockhand before I heard pipes hum my name. These bleed-valves spit coins that buy lanterns while my aunt's well coughs air. If you see hush-ink cold on the stone, bring a smear back and I will make it squeal in the bowl. The river hates ink that lies."
+        },
+        {
+            "speaker": "Orven Caldris",
+            "line": "Certain maintenance features exist to preserve the flow at times when politics tries to dam it. I suggest you mind the difference between theft and prudence, mediator. Your throat carries a rumor of the Maw, and rumors are bad at differentiating. Submit your notes; let the Court sort ethics from hydraulics."
+        },
+        {
+            "speaker": "Thalen Vire",
+            "line": "Prudence does not wipe its name from ledgers by the light of a lantern that refuses to touch liars. If a valve feeds a clinic or a shrine, the water remembers mercy. If it feeds a private cistern bought with a neighbors hunger, the water remembers the taste of debt. I will listen and name them cleanly."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M1"
+        ],
+        "next": [
+            "M3",
+            "M4"
+        ]
+    },
+    "rewards": [
+        "Silt-Token of Passage from the Choir (access to sluice platforms)",
+        "+1 standing with the Choir of Silt",
+        "Hush-ink sample for later leverage",
+        "Updated Aqueduct Flow Map (reveals shortcut routes atop the arches)"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Iren",
+    "surname": "Vask",
+    "race": "Human",
+    "age": 54,
+    "appearance": "Tall and spare, grey-templed, with a basalt-black civic coat and a signet of the Conclave. His eyes hold the steady gleam of the tide-window’s light.",
+    "character": "Equanimous arbiter whose patience masks a steel-edged will; he believes procedure can civilize any storm if enough people agree to enter the room.",
+    "traits": [
+        "Patient",
+        "Farsighted",
+        "Meticulous",
+        "Discreet"
+    ],
+    "skills": [
+        "Arbitration",
+        "Civic law",
+        "Negotiation",
+        "Reading hydrographs",
+        "Subtle intimidation"
+    ],
+    "talents": [
+        "Hears stress-falters that betray lies",
+        "Maintains a memory-palace of ledgers",
+        "Fluent in dueling-court protocol"
+    ],
+    "flaws": [
+        "Risk-averse",
+        "Overtrusts institutions",
+        "Insomniac",
+        "Estranged from his son"
+    ],
+    "dreams": [
+        "Unify the four banks under a fairer charter",
+        "Stabilize flood authority without emergency decrees",
+        "Re-raise the Charterstone without enthroning a king"
+    ],
+    "secrets": [
+        "Accepted a Night Ledger white-book pardon to spare a nephew, compromising him",
+        "Knows of the tide-window’s older oath and keeps it off the record",
+        "Green-lit a ‘soft flood’ coin release once and regrets the famine it worsened upriver"
+    ],
+    "relations": [
+        {
+            "npc_name": "Quill Vess",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Mereth Tydel",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Calra Orun",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Sava Deren",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Yerin Pale",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Thorek Brimvauld",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Rana Olt",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

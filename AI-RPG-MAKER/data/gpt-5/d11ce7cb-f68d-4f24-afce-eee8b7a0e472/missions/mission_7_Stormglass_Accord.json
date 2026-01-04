@@ -1,0 +1,44 @@
+{
+    "id": 7,
+    "title": "Stormglass Accord",
+    "quest_giver": "Jaxin Brail",
+    "description": "The Ember Collegium believes stormglass can dampen the heartstone’s agitation if tuned to the right chord. The Bonewright Covenant calls it blasphemy to try. Jaxin Brail brings Sere to the base of the Skyhook where a portable array of lenses and sun mirrors lies under canvas, and an uneasy line of Wardens under Isera Bent-Pike’s watch keeps the crowd from crowding. Mistress Ashka wants to pluck lightning from the chain at sunset and feed it into a stormglass coil shaped by Pell Lenseson, while Caur Spinekeeper wants proof that none of it will crack the Engine. Sere must hold a perimeter on a cliff that attracts thunder while deciding which hand deserves her grip when the sky starts to sing.",
+    "objectives": [
+        "Escort Jaxin Brail and the Collegium apparatus to the Skyhook promontory without incident.",
+        "Negotiate a working truce between Mistress Ashka and Caur Spinekeeper for a controlled test.",
+        "Protect Pell Lenseson while they align the stormglass coil during a lightning strike.",
+        "Record the chord resonance with the eel-skin codex and secure a usable frequency for later use."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Jaxin Brail",
+            "text": "You pulled me out of a kiln that was more sky than fire. I know how to step where you say even when the ground thinks it is window. If we get this right, we can bend a note into the Engine like a friendly finger on a racing pulse. If we get it wrong, we will turn the cliff into singing sand and the Wardens will have to sweep us up with prayers."
+        },
+        {
+            "speaker": "Caur Spinekeeper",
+            "text": "I grow bone to bridge what breaks, not to test how many blows a body can take before the soul gets bored. If your glass sings in the wrong key, the Engine will answer like a child with a fever, and no midwife can soothe a city that hot. I will allow the trial if the chain hum is steady and if the first surge is small. If it is not, I will break your coil with my own hands and answer to your guild mother later."
+        },
+        {
+            "speaker": "Isera Bent-Pike",
+            "text": "Hold your lines and keep your heads down when the light starts walking. If anyone runs toward the coil because they want to be a hero, I will personally tie their bravery to a mast and let the rain chew on it. Sere, if you have to make a call when my voice is swallowed by thunder, make it clean and shout after. I would rather bury one clean mistake than ten brave fools."
+        }
+    ],
+    "connections": {
+        "previous": [
+            4,
+            6
+        ],
+        "next": [
+            8,
+            11
+        ],
+        "related": [
+            9
+        ]
+    },
+    "rewards": [
+        "A tuned stormglass whistle that can reproduce one calming chord without lightning",
+        "Collegium favor to borrow fog-cutting lenses for later operations",
+        "Caur Spinekeeper’s grudging trust during Heartward Engine procedures"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "M11",
+    "title": "The Sealed Sub-Level",
+    "quest_giver": "Nemra Coil",
+    "description": "The Chainheart’s sealed sub-level sings like a lullaby when the vents are quiet, or so the Orphans say. Nemra Coil asks you to come when the shift change thins the floor, permit in hand and Orin gyre humming in its sling. Riven Hask waits with arms crossed, teeth worrying a splinter, torn between duty to iron and duty to a city that might have been built on a promise to a tired dragon. You bring the Library’s map-song and the River’s bell-code, and together they open a seam in the Chainheart’s spine that has not seen air since Skarnhold was small. Inside is not a treasure room but a cradle of glass and slag that keeps one perfect egg moving with the city’s breath, so slowly you almost miss it. It is warm. It smells of old ash and copper. It beats once against the glass and the scuff on your horn sings back.",
+    "objectives": [
+        "Use the Emberwatch permit to access the Chainheart after shift change with Nemra Coil and Riven Hask present as witnesses.",
+        "Hum the Black Library map-song to unlock the sub-level seam and record the mechanism for the ledger.",
+        "Confirm the presence of the egg and assess the ancient glass cradle’s motion and heat loss.",
+        "Integrate the new Iron Cradle prototype without stopping the old cradle, bridging motion through the Feathered Gyre.",
+        "Draft a joint custody protocol between Orphans, Chainwrights, and Loom for continued movement and secrecy."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Nemra Coil",
+            "text": "I was told a hundred times that I was singing to stories. If this is a story, then it has a heartbeat. We do not kneel to machines here, Neris. We kneel to the breath that keeps faith with us when we are unworthy. Help me keep it from cooling."
+        },
+        {
+            "speaker": "Riven Hask",
+            "text": "I do not like secrets under my floors. But I like the thought of a promise broken even less. You will keep that gyre level and you will keep that egg moving and if one chain rattles wrong I will pull the whole rig down and we will stand here with our failure together and count the cost like adults."
+        },
+        {
+            "speaker": "Neris Coilglass",
+            "text": "The old cradle’s motion bleeds heat it does not need to lose. We will carry its rhythm into this gyre without extinguishing the candle that has burned longer than the city’s patience. On my jaw I feel the Pact’s mark answering. On my tongue I taste copper and ash."
+        },
+        {
+            "speaker": "Nemra Coil",
+            "text": "Sign here, all of us. We agree that faith and engineering will be one thing for as long as both are needed. And we agree, quietly, to breathe in time with this heart whenever the city asks us to hold our breath."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M10"
+        ],
+        "next": [
+            "M12"
+        ]
+    },
+    "rewards": [
+        "Access to Chainheart sealed sub-level",
+        "Joint custody protocol signed by Orphans, Chainwrights, and Loom",
+        "Reputation: Major boost with Orphans of Aelmyr and Chainwrights",
+        "Iron Cradle integrated with ancient cradle, movement stabilized"
+    ]
+}

@@ -1,0 +1,397 @@
+[
+    {
+        "from": "Sel Corvane",
+        "to": "Maris Veyron",
+        "type": "Alliance"
+    },
+    {
+        "from": "Sel Corvane",
+        "to": "Serene Khel",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sel Corvane",
+        "to": "Yarik Nine-Fingers",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sel Corvane",
+        "to": "Orrix Vant",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Sel Corvane",
+        "to": "Nella Shuck",
+        "type": "Conflict"
+    },
+    {
+        "from": "Sel Corvane",
+        "to": "Brask Ilyne",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Sel Corvane",
+        "to": "Alion Mareth",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Luma Keel",
+        "to": "Orrix Vant",
+        "type": "Alliance"
+    },
+    {
+        "from": "Luma Keel",
+        "to": "Nella Shuck",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Luma Keel",
+        "to": "Yarik Nine-Fingers",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Luma Keel",
+        "to": "Brask Ilyne",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Luma Keel",
+        "to": "Sel Corvane",
+        "type": "Different goals"
+    },
+    {
+        "from": "Luma Keel",
+        "to": "Iria Venn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Luma Keel",
+        "to": "Ildra Shale",
+        "type": "Different goals"
+    },
+    {
+        "from": "Nella Shuck",
+        "to": "Yarik Nine-Fingers",
+        "type": "Alliance"
+    },
+    {
+        "from": "Nella Shuck",
+        "to": "Brask Ilyne",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Nella Shuck",
+        "to": "Maris Veyron",
+        "type": "Conflict"
+    },
+    {
+        "from": "Nella Shuck",
+        "to": "Luma Keel",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Nella Shuck",
+        "to": "Orrix Vant",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nella Shuck",
+        "to": "Iria Venn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Nella Shuck",
+        "to": "Sel Corvane",
+        "type": "Conflict"
+    },
+    {
+        "from": "Yarik Nine-Fingers",
+        "to": "Nella Shuck",
+        "type": "Alliance"
+    },
+    {
+        "from": "Yarik Nine-Fingers",
+        "to": "Sel Corvane",
+        "type": "Hostility"
+    },
+    {
+        "from": "Yarik Nine-Fingers",
+        "to": "Luma Keel",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Yarik Nine-Fingers",
+        "to": "Brask Ilyne",
+        "type": "Conflict"
+    },
+    {
+        "from": "Yarik Nine-Fingers",
+        "to": "Ildra Shale",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Yarik Nine-Fingers",
+        "to": "Tallen Quill",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Yarik Nine-Fingers",
+        "to": "Maris Veyron",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Serene Khel",
+        "to": "Sel Corvane",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Serene Khel",
+        "to": "Maris Veyron",
+        "type": "Different goals"
+    },
+    {
+        "from": "Serene Khel",
+        "to": "Alion Mareth",
+        "type": "Friendship"
+    },
+    {
+        "from": "Serene Khel",
+        "to": "Tallen Quill",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Serene Khel",
+        "to": "Brask Ilyne",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Serene Khel",
+        "to": "Keth Borrowed-Tongue",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Maris Veyron",
+        "to": "Sel Corvane",
+        "type": "Alliance"
+    },
+    {
+        "from": "Maris Veyron",
+        "to": "Brask Ilyne",
+        "type": "Alliance"
+    },
+    {
+        "from": "Maris Veyron",
+        "to": "Nella Shuck",
+        "type": "Conflict"
+    },
+    {
+        "from": "Maris Veyron",
+        "to": "Yarik Nine-Fingers",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Maris Veyron",
+        "to": "Orrix Vant",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Maris Veyron",
+        "to": "Tallen Quill",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Maris Veyron",
+        "to": "Serene Khel",
+        "type": "Different goals"
+    },
+    {
+        "from": "Alion Mareth",
+        "to": "Serene Khel",
+        "type": "Friendship"
+    },
+    {
+        "from": "Alion Mareth",
+        "to": "Orrix Vant",
+        "type": "Conflict"
+    },
+    {
+        "from": "Alion Mareth",
+        "to": "Sel Corvane",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Alion Mareth",
+        "to": "Maris Veyron",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Alion Mareth",
+        "to": "Ildra Shale",
+        "type": "neutral"
+    },
+    {
+        "from": "Alion Mareth",
+        "to": "Keth Borrowed-Tongue",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Orrix Vant",
+        "to": "Luma Keel",
+        "type": "Alliance"
+    },
+    {
+        "from": "Orrix Vant",
+        "to": "Sel Corvane",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Orrix Vant",
+        "to": "Maris Veyron",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Orrix Vant",
+        "to": "Alion Mareth",
+        "type": "Conflict"
+    },
+    {
+        "from": "Orrix Vant",
+        "to": "Iria Venn",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Orrix Vant",
+        "to": "Nella Shuck",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ildra Shale",
+        "to": "Yarik Nine-Fingers",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Ildra Shale",
+        "to": "Luma Keel",
+        "type": "Different goals"
+    },
+    {
+        "from": "Ildra Shale",
+        "to": "Keth Borrowed-Tongue",
+        "type": "Friendship"
+    },
+    {
+        "from": "Ildra Shale",
+        "to": "Alion Mareth",
+        "type": "neutral"
+    },
+    {
+        "from": "Ildra Shale",
+        "to": "Brask Ilyne",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Brask Ilyne",
+        "to": "Maris Veyron",
+        "type": "Alliance"
+    },
+    {
+        "from": "Brask Ilyne",
+        "to": "Luma Keel",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Brask Ilyne",
+        "to": "Sel Corvane",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Brask Ilyne",
+        "to": "Nella Shuck",
+        "type": "Conflict"
+    },
+    {
+        "from": "Brask Ilyne",
+        "to": "Yarik Nine-Fingers",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Brask Ilyne",
+        "to": "Tallen Quill",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Iria Venn",
+        "to": "Luma Keel",
+        "type": "Friendship"
+    },
+    {
+        "from": "Iria Venn",
+        "to": "Orrix Vant",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Iria Venn",
+        "to": "Nella Shuck",
+        "type": "Friendship"
+    },
+    {
+        "from": "Iria Venn",
+        "to": "Brask Ilyne",
+        "type": "Conflict"
+    },
+    {
+        "from": "Iria Venn",
+        "to": "Yarik Nine-Fingers",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tallen Quill",
+        "to": "Maris Veyron",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tallen Quill",
+        "to": "Yarik Nine-Fingers",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tallen Quill",
+        "to": "Serene Khel",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Tallen Quill",
+        "to": "Brask Ilyne",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tallen Quill",
+        "to": "Nella Shuck",
+        "type": "neutral"
+    },
+    {
+        "from": "Keth Borrowed-Tongue",
+        "to": "Ildra Shale",
+        "type": "Friendship"
+    },
+    {
+        "from": "Keth Borrowed-Tongue",
+        "to": "Serene Khel",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Keth Borrowed-Tongue",
+        "to": "Alion Mareth",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Keth Borrowed-Tongue",
+        "to": "Maris Veyron",
+        "type": "Different goals"
+    },
+    {
+        "from": "Keth Borrowed-Tongue",
+        "to": "Nella Shuck",
+        "type": "Cooperation"
+    }
+]

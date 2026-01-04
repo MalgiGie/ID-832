@@ -1,0 +1,60 @@
+{
+    "name": "Jodan",
+    "surname": "Piżmowy",
+    "race": "człowiek",
+    "age": 55,
+    "appearance": "Broda pachnąca algami, zielonkawe dłonie od światła; kurtka łatana i wodoodporna; bystre oczy przyzwyczajone do półmroku.",
+    "character": "Stateczny i ostrożny, dumny z lampników; ceni ciszę nocy i uczciwą wymianę.",
+    "traits": [
+        "powściągliwy",
+        "metodyczny",
+        "honorowy",
+        "zgryźliwy dla młodych"
+    ],
+    "skills": [
+        "zbiory alg świetlnych",
+        "nawigacja kanałami",
+        "kartografia prądów",
+        "pielęgnacja łuników",
+        "majsterkowanie przy latarniach łodziowych"
+    ],
+    "talents": [
+        "widzenie w półmroku",
+        "słuch na odgłosy wody i łańcuchów"
+    ],
+    "flaws": [
+        "niechętny nowinkom",
+        "uparty w starych metodach"
+    ],
+    "dreams": [
+        "zabezpieczyć Dom Lampników",
+        "spisać kompletną mapę ukrytych kanałów",
+        "uczynić światło bezpieczne dla dzieci"
+    ],
+    "secrets": [
+        "chowa nowy szczep alg przed wszystkimi cechami",
+        "ma tajną umowę z Matką o przerzutach w noc mgły"
+    ],
+    "relations": [
+        {
+            "npc_name": "Orla Krawężna",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Matka Korala",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Serad Głaz",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Maera Buławka",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Neris Winnafala",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

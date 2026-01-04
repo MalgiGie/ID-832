@@ -1,0 +1,57 @@
+{
+    "name": "Kara",
+    "surname": "Dusk",
+    "race": "Human",
+    "age": 38,
+    "appearance": "Roped forearms and old rope-burns, shark-tooth charm on a leather thong, salt-silvered hair.",
+    "character": "Blunt and protective; speaks for those who work the gates and the night.",
+    "traits": [
+        "decisive",
+        "storm-hardy",
+        "stubborn"
+    ],
+    "skills": [
+        "barge threading at floodgates",
+        "strike planning",
+        "conflict de-escalation",
+        "gate timing by ear"
+    ],
+    "talents": [
+        "smells current shifts a bell ahead",
+        "ties knots one-handed",
+        "rallies crews in rain and fog"
+    ],
+    "flaws": [
+        "deep disdain for Wardens",
+        "gambles on saffron futures",
+        "refuses to admit fear"
+    ],
+    "dreams": [
+        "Compact control of all night docks",
+        "safety stewards in every Engine shift-room",
+        "a quiet quayhouse for retired pilots"
+    ],
+    "secrets": [
+        "hid illegal lock-keys beneath the memorial rope",
+        "took a Veil escort during a famine run without declaring it",
+        "faked a cargo tally to slip extra grain to Molden Quays"
+    ],
+    "relations": [
+        {
+            "npc_name": "Lysa Curren",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Mavek Dross",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Seler Daki",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Daru Fenlik",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

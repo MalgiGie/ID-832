@@ -1,0 +1,49 @@
+{
+    "id": "M03",
+    "title": "The Color of Law",
+    "quest_giver": "Talo Ren",
+    "description": "In the Hall of Many Lamps, votes smell of oil and fear, and tonight the dye-lords had sent their best colors to persuade the floor. The flood-tax would decide whether the Syndicate could shutter hinges during trade hours without triple countersign, a decision worth fortunes and perhaps bodies. Talo Ren’s gratitude for a saved barge weighed visibly on his shoulders as he asked Neris to watch the flames rather than the faces. Rumors whispered of moon-resin fakes that burned backward, a tricked light capable of swinging a count by the hue of a heartbeat. In the high galleries, a mirrored passage breathed softly with eavesdroppers, and the basilica’s knots hung like patient judges. Politics felt like a narrow quay in a storm: too slick to stand still and too crowded to run.",
+    "objectives": [
+        "Inspect the fuel and wicks of the vote-lamps for moon-resin adulteration before the floor bell rings.",
+        "Shadow the mirrored listening passage and note any Rookery brokers coordinating the timing of interruptions.",
+        "Decide how to handle a discovered forged moon-flame: expose it publicly to Ista Brine, or swap it silently to prevent a scandal without implicating allies.",
+        "Protect Talo Ren during the vote from a staged stumble designed to spill saffron dye onto tally cords.",
+        "Deliver your findings to either the Speaker or the Archivists for record."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Talo Ren",
+            "line": "You make a habit of plucking the city out of its own teeth, Neris. I have not forgotten the line you threw that day, nor the way Parliament pretended it was wind that steadying us. Tonight I ask for your eye more than your string. If a flame lies in this hall, I must know before I light the count, or I become another man who says flood to hide theft. Help me keep this vote upright, even if it tilts the world against me tomorrow."
+        },
+        {
+            "speaker": "Ista Brine",
+            "line": "If you find a counterfeit flame, you bring it to my desk with the wick still warm, and we will write a charge that even the Basilica cannot untie. Do not play priest with fire in this hall, archer. The law tolerates a quiet swap only when the alternative is blood. If you choose theater over order, be ready to bow with the actors."
+        },
+        {
+            "speaker": "Lisi Jhak",
+            "line": "Our lamps burn pure because our patrons demand it, and because impure light turns profits sour. I have no patience with insinuations dressed as safety, and less with clerks who mistake dyecraft for sacrament. Walk carefully and do not slander what keeps your ward-lamps lit. The market punishes lies as surely as any god."
+        },
+        {
+            "speaker": "Thay Nerr",
+            "line": "The wrong color at the right second can decide whether docks eat or starve. I do not tell you this as a man with a stake in the outcome, though I admit that I have a stake in every outcome. You have been a very precise storm when I needed one, Neris. Remember that sometimes rescuing a law from itself requires a hand no one sees. Decide whether you want gratitude or righteousness, and accept the price."
+        },
+        {
+            "speaker": "Neris Quay",
+            "line": "Flames remember the fingers that set them alight. I will watch the lamps, and if one burns backward, I will make sure it does not take the city with it. The river does not love liars, even when they float."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M02"
+        ],
+        "next": [
+            "M04"
+        ]
+    },
+    "rewards": [
+        "Parliament gallery pass for vote nights (limited)",
+        "Quiet favor from the Speaker of Lamps redeemable for safe passage during curfew",
+        "Knowledge: the Saffron and Ochre Compact has acquired moon-resin from the Orchard at unusual volumes",
+        "Reputation: Lantern Parliament moderates (cautious trust)"
+    ]
+}

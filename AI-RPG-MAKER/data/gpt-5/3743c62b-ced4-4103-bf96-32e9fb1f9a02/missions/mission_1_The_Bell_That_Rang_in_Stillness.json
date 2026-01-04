@@ -1,0 +1,43 @@
+{
+    "id": 1,
+    "title": "The Bell That Rang in Stillness",
+    "quest_giver": "Yassa Nim",
+    "description": "On a windless night the Hinge bell in the Chain Cathedral tolled by itself, and Ankharion held its breath. Lyris feels the note shiver in her bones as the Old Song catches on a discord, pulling memory through fresh worry. Yassa Nim waits beneath the Knotfast Commons’ black-cord pole where apprentices tie silent allegiances; the bells here do not ring for the unspoken. Yassa has ink on her fingers and grease on her sleeves—the mark of someone who has crossed a lot of lines without ever leaving a trail. She says an oath was broken in the Cathedral’s nave, and an Orchid runner never returned from a simple page-swap. To find what started the bell, Lyris must slip into the Chain Cathedral, pry loose a hidden ledger slip, and read its ghost-scratches with skyglass before Matron Vessa demands proof or a body. The city hums and the chains sway, and in Lyris’s chest the thought returns: the last time she broke a promise, the Hinge rang for her too.",
+    "objectives": [
+        "Meet Yassa Nim under the black-cord pole at Knotfast Commons after sundown.",
+        "Enter the Chain Cathedral via the choir scaffolds and avoid Chainwarden acolytes on grease-duty.",
+        "Recover the hidden ledger scrap from beneath the third nave bench, two rivets shy of a broken-circle stamp.",
+        "Use Istel Shardwright’s skyglass at the Sky Market to reveal micro-scratches and decode the ledger line.",
+        "Deliver a clean copy of the ledger line to Yassa Nim for the Night Orchids and a second copy to Erynn Sythar at an Unmoored dead drop."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Yassa Nim",
+            "lines": "You hear it too, little shadow? The bell that forgot the wind? The Hinge tolled, and not a vane stirred. That means an oath bound in the nave snapped like a frayed cord, and when that happens, the city listens. I sent a boy to fetch me a line from the oath ledger—routine, quiet, a page in a sea of pages—and he did not come back. Bring me the line and its meaning, and I will strike your name from one corner of Matron Vessa’s ledger. Fail me, and she will write your name deeper."
+        },
+        {
+            "speaker": "Lyris Kael",
+            "lines": "The last time the Hinge rang for me was the night I chose a life over a law, and I still hear it when I sleep. I’ll go under the Cathedral ribs and move with the hymn. If there’s a page, I’ll find it. If there’s a trap, I’ll spring it and tie it closed again."
+        },
+        {
+            "speaker": "Istel Shardwright",
+            "lines": "Bring me whatever you pry loose. Skyglass remembers what ink forgets, and truth refracts but does not vanish. I have a lens ground fine enough to read soot-shadow and thumb-oil as if it were scripture. We’ll sit under the market’s ringing flags and I’ll hold the mirror steady while your hands stop shaking."
+        },
+        {
+            "speaker": "Rul Fen",
+            "lines": "You near that nave on an off day and I’ll smell the Orchid perfume three tiers away. The Chain Cathedral is not a bazaar for your games, Kael. You were almost a good apprentice once. Almost. Walk light, and if I see you under the Hinge, I’ll carry you out by the scruff of your cloak and make the bell sing your name."
+        }
+    ],
+    "connections": {
+        "previous": [],
+        "next": [
+            2
+        ]
+    },
+    "rewards": [
+        "Night Orchid black-marker favor (minor debt reduction)",
+        "20 chain-chits for expenses from Yassa Nim",
+        "Mirror Guild goodwill with Istel Shardwright (access to bespoke lenswork)",
+        "Clue: Oath ledger references a 'Release calculus petition' scheduled in the Wind Court"
+    ]
+}

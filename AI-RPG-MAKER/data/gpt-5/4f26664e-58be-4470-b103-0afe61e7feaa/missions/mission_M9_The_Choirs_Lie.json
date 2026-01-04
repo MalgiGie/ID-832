@@ -1,0 +1,52 @@
+{
+    "id": "M9",
+    "title": "The Choir’s Lie",
+    "quest_giver": "Avar Ir",
+    "description": "To fit the bearing fragment without creating a new discord, a lens must be made that can read the dissonance between star-metal and bone. Kiln-Queen Avar Ir summons Iriel to the Ember Kilnworks, a cathedral of heat and ambition. She proposes a dangerously elegant solution: a singglass lens quenched not in river water, but in the breath gathered from the Glass Choir at the Silica Reef. With Grey Lantern oversight and Cor Yune’s steady eye, the party treks to the glass forest where spires sing when truthful lies are told. The Choir demands a paradox to open its lungs, and the Ember Kiln Syndicate’s Fire Marshal Dako Fen shadows the group with a handful of loyalists and a suspicion that the Lanterns mean to shame the kilns. The making will ask Iriel to say something true in form and false in consequence, or false in form and true in consequence, while holding the Resonance Map up to dusk’s last note.",
+    "objectives": [
+        "Travel to the Silica Reef with Avar Ir and Cor Yune and locate the Glass Choir.",
+        "Speak a truthful lie beneath the spires to coax their breath without shattering the grove.",
+        "Defuse the confrontation between Dako Fen’s kiln loyalists and Cor Yune without bloodshed.",
+        "Capture the Choir’s breath and return to Ember Kilnworks to craft the singglass lens."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Avar Ir",
+            "line": "You think us brutish, all scorch and slag, but the first glass was a prayer that could be held. I will make you a lens that sings with bone and does not lie to water, and in exchange you will stop letting priests and scribes smother every spark. We can save the city and prosper doing it, if we stop apologizing to stones and bones for being warm."
+        },
+        {
+            "speaker": "Cor Yune",
+            "line": "I carry shutters that say truth in green and secrets in gray. I will watch the kiln’s hands and the shape of their lies, and I will count how many times we save each other from our better angels. The Choir hears what we mean, not what we mouth, and it will cut the difference into us if we come to bargain with theater instead of sincerity."
+        },
+        {
+            "speaker": "Iriel Vask",
+            "line": "I will say this: The city does not need the river. It is a lie in form, because we would starve in a week, and it is true in consequence, because the river is not a need so much as a covenant and we can choose to honor it better than we have. Hear that, Choir, and give us your breath so we can see the harm we are doing before it breaks our teeth."
+        },
+        {
+            "speaker": "Dako Fen",
+            "line": "You Lanterns will write a tragedy on slag and call it a safety report. I will not have my Queen’s work pinned to a rumor board. If this lens cracks under a priest’s sigh, I will pour it back into your mouths and teach you how to anneal your words."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M8"
+        ],
+        "next": [
+            "M10"
+        ]
+    },
+    "rewards": {
+        "experience": 700,
+        "items": [
+            "Singglass Resonance Lens",
+            "Ember-Kiln Anneal Charm"
+        ],
+        "currency": {
+            "chits": 30
+        },
+        "reputation": {
+            "Ember Kiln Syndicate": 2,
+            "Grey Lanterns": 1
+        }
+    }
+}

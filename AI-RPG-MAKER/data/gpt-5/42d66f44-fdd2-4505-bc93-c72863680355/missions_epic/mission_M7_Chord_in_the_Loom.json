@@ -1,0 +1,102 @@
+{
+    "id": "M7",
+    "title": "Chord in the Loom",
+    "quest_giver": {
+        "name": "Rusk Bonebinder",
+        "affiliation": "Order of Tidemasons"
+    },
+    "description": "Deep beneath Thassyl where Veloros’s bones drink and release the tide, the Tide Looms thrum like the slow heart of a sleeping giant, their ropes and fish-scale gears whispering in salt-oiled cadence. Rusk Bonebinder, with hands cracked by brine and eyes that count the beats of the city’s breath, has found sly tool marks on a hidden bypass plate where only oath-bound riggers should tread. The plate is the kind that listens for a certain sung chord, the kind that can pull a ward’s marrow-water in a bell’s span and leave families coughing in the dark. Rusk suspects Verrin Nasse, a smiling Keyholder whose ears are deaf to flood-prayers, has been courting pearl factors and plotting the sort of demonstration that buys votes with fear. To still the bad song, an echo-stone from the lip of Singer’s Trench must be taken, one that answers the Loom’s secret with a cancelling hum, then bound in a silence braid woven by Sirae Glowhand so the trench’s hungers do not hear the theft. The trench answers any sound with attention, and the attention of the deep is a mouth that opens where there is no air. The Loom’s heart waits like a beast that will wake if you call it by its hidden name, and it will remember who dared to speak and who taught it to hum against harm.",
+    "objectives": [
+        "Meet Rusk Bonebinder at the service gallery of the Tide Looms and examine the bypass panel.",
+        "Consult Sirae Glowhand to obtain a silence-ward braid suitable for use in Singer’s Trench.",
+        "Retrieve a resonant echo-stone from the lip of Singer’s Trench without using metal bells.",
+        "Install the echo-stone and silence ward on the bypass panel to jam unauthorized chords.",
+        "Gather proof of Verrin Nasse’s unauthorized key use."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Rusk Bonebinder",
+            "lines": "Most folks see gears and think teeth and bite, but I see ribs and breath and the patience of a body that learned the tide before any of us had words. Someone has been prodding between these ribs the way a bully pokes a chest to find the ache, and I can read the prod in these thin, fresh scratches laid where no apprentice would dare. This plate is no mere hatch but a listening bone, and if the wrong chord kisses it the Loom will empty a ward like a lung pressed flat by a cruel palm. I have heard the names whispered in the galleries, and one of them is Verrin Nasse, all council smile and ink-stained ledger, with a key and a hunger shaped like a favor owed. Help me stiffen the chest and teach it to ignore the liar’s song, and I will owe you an opening where iron doors normally remember only the faces of their keepers."
+        },
+        {
+            "speaker": "Kael Rimestrand",
+            "lines": "I have carried a shard that remembers a fragment of the Tongues’ chord, and I would sooner bury it than teach a cheap-singer how to steer a flood. I will not sing to this plate, not even in a whisper, not even to prove a point to a man who never wet his boots in a night tide. I will go to the trench with a quiet step and a reed that calls nothing hungry, and I will bring back a stone that hums the right no to this wrong yes. I have seen wards cough brine while the high walks stayed dry, and I have no wish to see that memory repeat because a Keyholder fancied himself a conductor. If the Loom remembers my touch, let it be as a hand that tightened a knot and walked away before anyone had time to thank or curse."
+        },
+        {
+            "speaker": "Sirae Glowhand",
+            "lines": "Here is your silence braid, but do not mistake its gentleness for softness, for it will drink every little noise you make until you think your own heartbeat is shouting into a horn. Tie one loop at your wrist where the blood speaks loudest and another at your throat where words are born, and keep your tongue as still as a stone covered in kelp. Do not apologize to the trench in thought or breath, because it knows the taste of contrition and it supposes remorse is a seasoning for meat. Walk like a lantern turned low and remember that even a gasp can carry, and even the scrape of a buckle can be a bell to the things that answer sound with hunger. When you return, bring me the braid still damp with the deep, and I will knot it with the echo so our Loom hears only the lullaby it needs to sleep through liars."
+        },
+        {
+            "speaker": "Tern Quietwake",
+            "lines": "You go to the lip where the Tide Canticle coils, and you must treat each note you make as a pebble dropped into a sea that counts every ring. We, who listen for a living, have drowned men with careless kindness when a comfort word became a summons, and we have learned to keep our comfort to gestures the deep cannot taste. Take this harmless reed-call and hold it in your teeth if panic asks for a scream, because even a false chord will try to trick your throat into making a promise your lungs cannot keep. You will feel the trench hum through your ribs as if you are the drum and it is the player, and you must remember you are only borrowing its song and not invited to repeat it. Bring back a stone that remembers no stanza, only a single counter-beat, and teach our city’s bones to refuse the greedy conductor who thinks fear is a fine instrument."
+        },
+        {
+            "speaker": "Ysger Thorn",
+            "lines": "I hear you have a little swim planned where a proper patrol would post a line and forbid fools from making meals of themselves, yet I suppose you were never a fool when it mattered. The trench is a thief of breath and a lover of echoes, and I have buried enough brave whisperers to know a steady hand can still slip when the deep winks. If you will not take a cutter and a squad, then at least take the common sense of a guard, which is to say, plan the way out before you plan the way down and count the heartbeats you can spare. I do not like this Verrin, and I like less the notion of someone learning to pour a ward like a bucket, for I have seen children cough brine while councillors argued over who owned the river. Come back with proof, not just scratches and a good story, and I will lend my voice to the part where we make a Keyholder wish he had learned to swim."
+        },
+        {
+            "speaker": "Verrin Nasse",
+            "lines": "It wounds me, truly, that my diligence in inspecting our sacred mechanisms is taken for villainy, yet I suppose in a city of tides any ripple looks like a plot to those who live by rumor. I keep keys because the Council demands stewardship, and I keep late hours because our commerce never sleeps, and I will not apologize for guarding prosperity with vigilance. The scratches you brandish could be the work of any grease-handed rigger chasing a bonus, and the ink you smell on my ledger is the scent of lawful trade and not the perfume of bribes. If an artisan fears a chord, let him repair the mechanism rather than conjure phantoms about songs and floods when there is work to do and votes to be cast. Bring your accusations to the Council if you must, and learn how a gentleman’s patience can outlast a ward’s gossip and a guardsman’s frown."
+        },
+        {
+            "speaker": "Rusk Bonebinder",
+            "lines": "Look here now at the spacing of these pries and the way the burr rises like a curl of silver shell, and tell me you do not see Verrin’s tidy habits written in the metal as if it were a ledger. This wedge of echo-stone hums like a steady heart against the plate, and with Sirae’s braid laid crosswise it drinks every stray pulse that does not belong, so a false singer can whistle his throat raw and the Loom will ignore him. I will take these rubbings and these timings to Master Oaric, and he will need your witness because my word alone is a hinge without a door. We will stand in front of this floodgate, you and I, and we will teach it the word no until it knows it better than it knows any name Verrin would croon. If the Council prefers a demonstration, we will give them one that leaves no family mopping brine from their hearthstones, and we will make the lie sit quiet in its cage."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Swim the Trench in Absolute Silence",
+            "text": "Kael ties Sirae’s braid at wrist and throat, checks each buckle for slop, and lets the city’s noise fall away until even the beat of blood feels like a hammer in a narrow room. He moves along the organ-pipe pillars of the Thalassarium’s outflow like a shadow that forgot to cast itself, slipping through bands of cool and warm water that curl like cats around a stranger’s legs. The reed whistle clenches between teeth in case of panic, but he does not dare even a single puff, letting his lungs count slow instead of speak. At the lip of Singer’s Trench, he feels the old song like a pressure on his eyes and an itch along the tooth-cuff at his ear, and he waits for the wave to pass before touching stone. When his fingers find a resonant shard tucked in kelp like a sleeping ember, he wraps it in braid, thinks no words at all, and departs as if backing out of a shrine with hands open and head bowed.",
+            "outcome": "He returns with an echo-stone that hums a clean counter-beat, and the Loom takes it like a blessed splint that teaches a broken bone to knit against a crooked tug. No beast rises and no patrol is stirred, so there are no witnesses to sell rumor or buy advantage, and only a damp braid and a salt-blurred map in Kael’s ledger mark the deed. Rusk binds the stone and feels the Loom’s breath go heavy and sure, as if bracing for a punch it is no longer obliged to take. Proof of Verrin comes by craft, not confrontation: neat pry-marks measured with Kael’s calipers, flecks of pearl-lacquer from a Keyholder’s scabbard caught in the burr, and a set of timings logged against Verrin’s council absences. The city does not cheer, but a few ward doors open on Kael’s walks with nods that say a house knows when someone kept its feet dry."
+        },
+        {
+            "id": "C2",
+            "title": "Seek Fathom Tongue Guidance and Borrow Their Quiet",
+            "text": "Kael kneels at the Thalassarium’s rim while Tern Quietwake and a pair of choristers wash the water with motions that do not sing but still somehow hush what listens. They mark his brow with a thin line of brine ink that tastes of iron and old songs, warning his lungs in a script the deep recognizes as a promise not to speak. He learns a hand-count the Tongues use for panic, a way of saying to oneself I am not prey without inviting the trench to argue. They lend him a harmless reed that thrums slightly when water grows treacherous, vibrating like a cat’s purr against the lip of a brewing snarl. With their gestures tucked into his muscles, he descends, takes the echo-stone like a priest gathers a relic, and rises without ever laying a phrase upon the listening dark.",
+            "outcome": "The stone’s tone is pure and the silence-braid binds it like a lullaby, and the Loom’s bypass goes deaf to false chords as if years of rehearsal were suddenly forgotten. Tern’s people take Kael’s account and add a quiet verse to their ledger about a Keyholder who smelled of pearl-ink at odd hours, a note that will surface in council with the force of a calm tide lifting a heavy hull. The Tongues claim a future favor that is not cruel, but it is binding, and Kael feels the weight of it like a net that is comfortable until someone pulls on the far end. The proof gathered is tidy and ritualized: a stamped copy of gate access tones recorded by echo-stone baffles, a timing of footsteps in the galleries, and the absence of bell strikes logged against Verrin’s midnight entries. Allies among the Weavers and the Tongues nod to Kael on the Spine, while certain Brinewardens grumble that prophecies are a poor substitute for shackles."
+        },
+        {
+            "id": "C3",
+            "title": "Request a Brinewarden Escort and Make It Official",
+            "text": "Kael meets Ysger Thorn at the Embersalt Arsenal and lays out the scratches, the rumors, and the shape a flood would take if someone wanted to prove a point with terror. They march with a light cutter to the trench’s lip, metal bells unrigged and wrapped in cloth by order, but the mere presence of steel brings a tense quiet to the water, as if the deep holds its breath in distaste. Brinewardens anchor lines and post swimmers with reed-whistles, and Kael takes the dive under watchful eyes that trust him because he has been one of them and left without spite. The trench shudders once like a whale rolling in sleep, and the cutter lists, but the team keeps discipline and Kael brings up the echo-stone with a salute and a tight grin. Their return to the Loom is all signatures and seals, and even the silence braid feels formal as Sirae knots it with professional cool between gloved fingers.",
+            "outcome": "The bypass is jammed cleanly, and the Brinewardens file a chain of custody that makes Verrin’s denials snag like a net on a bone spur. Proof is heavy and legal: watch logs, synchronized hourglass records, witness oaths, and a scrap of pearl-lacquered ribbon caught beneath the panel that matches a Keyholder’s lanyard pattern. Verrin’s allies get wind of the move and begin to rattle the Council with claims of overreach, and a few smugglers whisper that the cutter’s presence fouled a quiet lane they liked. Ysger’s respect warms by a degree, and a patrol gate will swing for Kael when time is tight, but the Tongues and Weavers shake their heads at the iron taste left in the trench. The city hears about it in the way a city always does, with dockside arguments and ward gossip, and the lesson sinks in that not every demonstration of force has to end with a flooded street to be believed."
+        },
+        {
+            "id": "C4",
+            "title": "Trade Favors with Ilya Salt-Kite and the Gray Sail",
+            "text": "Kael meets Ilya under the Moonlock Lighthouse shadow-pulse, where smugglers mark their patience between official blinks, and trades the truth of his errand for a promise of discretion. Ilya’s skiff slides like a thought no one admits to thinking, dropping Kael near the trench at a moment when signal pulses will not betray a silhouette against the moonlit skin. Gray Sail lookouts mouth no words and row with cloth-wrapped oars, and Kael’s silence braid drinks the creak of wood until it feels as though even the skiff doubts its own existence. He descends and plucks a resonant stone as careful as a thief who envies priests, and the return flows through channels the Compact’s spies watch less closely. In exchange, Ilya places a folded scrap into Kael’s hand that smells faintly of pearl-ink and silver shell, a discreet timetable of midnight meetings that Verrin would swear never happened.",
+            "outcome": "The Loom learns to refuse the false chord and does so with a private smile, as if grateful for a kindness that will never be publicly thanked. The proof against Verrin is not stamped, but it is sharp: a smuggler’s timetable, a ledger’s shadow copied onto brine paper, and a list of boat lantern dim-outs that match his key’s use down to the bell. Rusk frowns because such evidence requires translation into honest words, and honest words do not always survive the air of the Council chamber, but he does not throw it away. Ilya expects a door opened someday at a maintenance hatch no one is supposed to know about, and Kael can already feel the tug of that string even as he pockets the favor. The Brinewardens will not clap, the Tongues will not scold, and the Weavers will watch with wary grace, but the city’s floodgates will stay stubborn in the face of a liar, and that is the outcome that matters most tonight."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "xp",
+            "description": "650 experience marks earned by braving Singer’s Trench, outwitting a false chord, and safeguarding a ward’s breath without blood or flood."
+        },
+        {
+            "type": "item",
+            "description": "Echo-Baffle Coil: a palm-sized, coiled hum-damper that can be affixed near mechanisms to swallow stray resonance and soften footfalls, prized for stealth where gears listen."
+        },
+        {
+            "type": "favor",
+            "description": "Rusk Bonebinder’s quiet crew will open a maintenance hatch for Kael during emergencies, granting a debt of swift passage beneath the Spine when doors remember only keys."
+        },
+        {
+            "type": "access",
+            "description": "Auxiliary service stairs within the Tide Looms, a discreet route along marrow channels and gear galleries that avoids tolls and watchful ledgers."
+        },
+        {
+            "type": "coin",
+            "description": "30 credit-shells stamped for clean trade, enough to oil ropes, sweeten a lantern, and keep a skiff in trim for a turning of the moon."
+        }
+    ]
+}

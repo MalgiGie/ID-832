@@ -1,0 +1,70 @@
+{
+    "name": "Iven",
+    "surname": "Rill",
+    "race": "Scale-born Human",
+    "age": 14,
+    "appearance": "Thin, wide-eared teen with a crescent birthmark behind the ear and moon-pale eyes that reflect sporelight.",
+    "character": "Curious, anxious, earnest.",
+    "traits": [
+        "Scale-born",
+        "musical",
+        "inquisitive",
+        "kind"
+    ],
+    "skills": [
+        "bone-song listening",
+        "rope knot basics",
+        "lantern-signal reading",
+        "fungus picking"
+    ],
+    "talents": [
+        "hears the bones sing patterns",
+        "remembers wind-chimes' threads",
+        "calms white eels with humming"
+    ],
+    "flaws": [
+        "easily overwhelmed",
+        "naive about politics",
+        "fear of deep water"
+    ],
+    "dreams": [
+        "learn what Vaelor hums",
+        "stop disasters before they start",
+        "see the Moonshard Heath at night"
+    ],
+    "secrets": [
+        "heard a three-note pattern that felt like waking",
+        "stole a look at the Oath Vault stones once",
+        "keeps a moth-mark token from a friend"
+    ],
+    "relations": [
+        {
+            "npc_name": "Thia Mol",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Kessa Tharn",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Mira Olt",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Ulo Hen",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Danka Suth",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Sorn Ilt",
+            "relation_type": "neutral"
+        },
+        {
+            "npc_name": "Ysil Aer",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

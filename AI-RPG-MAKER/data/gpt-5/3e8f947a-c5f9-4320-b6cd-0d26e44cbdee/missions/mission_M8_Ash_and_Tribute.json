@@ -1,0 +1,79 @@
+{
+    "id": "M8",
+    "title": "Ash and Tribute",
+    "quest_giver": "Riala Hearthwake",
+    "description": "West in Cindervale, kilns breathe sparks like tired dragons and the orchards taste like smoke and sugar. Riala Hearthwake, a Caravan League quartermaster with sunburned patience, asks Rogan to walk into a negotiation that smells like scorched coin. Lady Ember-Thorn’s envoy, Bryx Thornbloom, arrives with a sealed brazier that must be lit or the treaty is forfeit; Factor Orun Ves has sent soft words and hard promises, offering tribute routed through the Syndicate to keep Watch budgets starved and tariffs sweet. The ash-road keeps Marrowhold fed and built, but every inducement is a hook bending toward a throat. Rogan must decide whether to prop the Watch with a deal Ember-Thorn can respect, expose the Syndicate’s scheme at the table, or turn the brazier cold and risk a border that burns.",
+    "objectives": [
+        "Meet Riala Hearthwake at the Caravan League waystation and review the tariff ledgers.",
+        "Attend the parley with Bryx Thornbloom and assess Ember-Thorn’s conditions.",
+        "Intercept a backchannel courier carrying Syndicate tribute terms to Bryx.",
+        "Choose to support a leaner, honest tribute to preserve Watch budgets, expose the Syndicate and risk retaliation, or reject tribute entirely and prepare for raids.",
+        "Escort the caravan safely back through ash squalls to Marrowhold."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Riala Hearthwake",
+                "line": "I count coin until the numbers blur, and I’ve learned to hear the lies they sing when they don’t want to add up. The Syndicate’s arithmetic gives too much to ash and leaves the Watch with dry cups. I need someone who can read a scowl as well as a ledger."
+            },
+            {
+                "speaker": "Bryx Thornbloom",
+                "line": "This brazier carries more weight than a wagon full of iron. Light it, and we honor a peace that keeps roads open and children unafraid of riders with hot knives. Don’t, and we’ll honor a different tradition entirely. Choose with both eyes open, city man."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I was raised under ribs that sang that nothing is given without a price, and nothing refused stays gone forever. Show me the papers and the man who brought them. If a Triarch hides behind a furnace-worker’s handshake, I’ll pull him out by the wrist."
+            }
+        ],
+        "mid": [
+            {
+                "speaker": "Pera Thass",
+                "line": "You keep stepping on my toes, Rogan, and I’m starting to think you like the dance. The tribute is a kindness dressed as math. The Watch will make do, and the city will keep its bread. What is honor when a child is hungry, hmm?"
+            },
+            {
+                "speaker": "Riala Hearthwake",
+                "line": "Honor is the thing that keeps the caravan guards from selling their swords to raiders when pay runs thin. Your kindness has a hook hidden in the loaf. Cut it out."
+            },
+            {
+                "speaker": "Bryx Thornbloom",
+                "line": "We don’t need Syndicate coin to accept respect. Bring us steel and straight words, and this ash will remember your name without needing it carved into a grave marker."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Riala Hearthwake",
+                "line": "The contract is lean, and it doesn’t bleed the Watch to feed the furnaces. It might make some friends quiet and some enemies loud, but I’ll take loud truth over quiet theft. The League will run this road with a straighter spine."
+            },
+            {
+                "speaker": "Bryx Thornbloom",
+                "line": "A cooler ash today saves a hotter fire tomorrow. Tell your Legate that we lit the brazier for honor, not for the weight of a Syndicate purse. And tell your Factor that ash remembers footprints."
+            },
+            {
+                "speaker": "Rogan Kettlebone",
+                "line": "I’ll carry those messages. And if a raid tests this road, I’ll meet it where the wind cuts the smoke and send it home with fewer hands."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "favor",
+            "description": "Caravan League escort priority on future departures."
+        },
+        {
+            "type": "coin",
+            "description": "Modest hazard pay from the League for ash-road security."
+        },
+        {
+            "type": "reputation",
+            "description": "Improved standing with the Watch of the Rib for preserving budget integrity."
+        }
+    ]
+}

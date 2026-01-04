@@ -1,0 +1,66 @@
+{
+    "name": "Sula",
+    "surname": "Reedmantle",
+    "race": "Human",
+    "age": 41,
+    "appearance": "Plain robes perfumed with memory oils, gentle eyes, lantern soot on cuffs, hair bound with green-copper pins.",
+    "character": "Caring with firm boundaries, believes in remembering without cruelty.",
+    "traits": [
+        "patient",
+        "reverent",
+        "discreet"
+    ],
+    "skills": [
+        "lantern tending",
+        "counseling",
+        "cataloging",
+        "empathetic listening"
+    ],
+    "talents": [
+        "feels when a lantern-light lies",
+        "soothing voice that calms disputants"
+    ],
+    "flaws": [
+        "over-trusting of sworn oaths",
+        "neglects self-care in crises",
+        "fear of open water despite living by canals"
+    ],
+    "dreams": [
+        "see the Archive’s lanterns remember gentler stories",
+        "record Willowwife lore without censure"
+    ],
+    "secrets": [
+        "shelters a runaway pilot child in the stacks",
+        "keeps a forbidden lantern lit for a dead lover whose shade visits"
+    ],
+    "relations": [
+        {
+            "npc_name": "Irevan Glassmere",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Ansel Thornward",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Arelon Vale",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Brynna Coil",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Lysa Quill",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Ossa Wreath",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Olan Vetch",
+            "relation_type": "Friendship"
+        }
+    ]
+}

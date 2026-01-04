@@ -1,0 +1,44 @@
+{
+    "id": 4,
+    "title": "Codex of the Drowned Room",
+    "quest_giver": "Nalea Chalkfinger",
+    "description": "In the Ossuary Archive, a reading room lit by glow fungus keeps books too sodden for fire or sun. They whisper when handled, their pages slick with the memory of floods, and Scribe Nalea Chalkfinger has traced a pattern through the whispers that feels like song. The wind-harp notes recorded from the Cairn of the Hollow King decades ago echo the heart-pulse data the Bonewrights keep under seal. Nalea cannot reach that vault, but she can send Sere into the drowned room to fetch a codex bound in eel-skin and inked with bone dust that holds the missing measures. The codex may make sense of the scroll from the Skyhook Chain and turn rumor into a map of chords.",
+    "objectives": [
+        "Speak with Nalea Chalkfinger at the Ossuary Archive about wind-harp notation and pulse measures.",
+        "Enter the drowned reading room and identify the eel-skin codex by its chalk-scent and humming spine.",
+        "Calm the whispering books by reading a bone-script lullaby provided by Nalea.",
+        "Return the codex without letting its damp ink stain reveal names that should not yet be spoken."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Nalea Chalkfinger",
+            "text": "I copy laws in dust so they float and do not drown when men forget them. Songs are laws too, or so I have come to believe as I listen to the Archive breathe at night. The drowned room remembers floods, and the books have learned to talk to one another about the taste of the river. There is a codex that hums when the wind blows from the south, and I hear in that hum a measure that matches the Engine pulse you brought me in figures. Fetch it, and perhaps we can teach the city to hum itself back to sleep."
+        },
+        {
+            "speaker": "Holl Riverborn",
+            "text": "You will want to wet your fingers with clean brine before you touch anything in there. It is like handling the soft side of a wave, and the books can pull on your breath if you let them. If they whisper names to you, do not answer back. Even a kind book can tangle you in a promise if it thinks you are its reader."
+        },
+        {
+            "speaker": "Sere Kallin",
+            "text": "I have been wrapped in worse whispers than a jealous book. Show me the lullaby and I will repeat it until the room sighs like a sleeping child. If these notes can speak to the chain and to the heart at once, then perhaps all of this noise is not madness after all. Maybe it is a choir tuning itself before a storm."
+        }
+    ],
+    "connections": {
+        "previous": [
+            3
+        ],
+        "next": [
+            5,
+            7,
+            8
+        ],
+        "related": [
+            1
+        ]
+    },
+    "rewards": [
+        "The eel-skin codex of wind-harp notes cross-referenced with Engine pulse marks",
+        "Access to a quiet reading niche in the Archive for future research",
+        "Respect from the Ossuary monks, who will copy a page for you on request"
+    ]
+}

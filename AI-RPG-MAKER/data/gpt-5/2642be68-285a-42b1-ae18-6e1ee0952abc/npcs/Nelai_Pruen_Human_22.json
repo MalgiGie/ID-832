@@ -1,0 +1,56 @@
+{
+    "name": "Nelai",
+    "surname": "Pruen",
+    "race": "Human",
+    "age": 22,
+    "appearance": "Pale robes dusted with mothscale, ink-stained fingers, a quiet lamp with no flame.",
+    "character": "Gentle but firm; curious about the city without losing reverence for night-law.",
+    "traits": [
+        "empathetic",
+        "patient listener",
+        "ritually exact"
+    ],
+    "skills": [
+        "memory recitation",
+        "night-law precedent",
+        "grief binding in wax",
+        "star-charting"
+    ],
+    "talents": [
+        "trades dreams without backlash",
+        "hears reverse echoes near the Scar"
+    ],
+    "flaws": [
+        "naive about street politics",
+        "self-doubt",
+        "overfasting when anxious"
+    ],
+    "dreams": [
+        "seal the widening lightwell under the Spire",
+        "compile an honest bell-calendar",
+        "witness the Reedmother without owing a night"
+    ],
+    "secrets": [
+        "swapped two grief jars to spare a child from testifying",
+        "keeps a slip from the jar labeled 'Your Last Dawn'",
+        "suspects the Spire knows her name and tests her on eclipses"
+    ],
+    "relations": [
+        {
+            "npc_name": "Pesha Lume",
+            "relation_type": "Alliance"
+        },
+        {
+            "npc_name": "Orel Vaska",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Daru Fenlik",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Lysa Curren",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

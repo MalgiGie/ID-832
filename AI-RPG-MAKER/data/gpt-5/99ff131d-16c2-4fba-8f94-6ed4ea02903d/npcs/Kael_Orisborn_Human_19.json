@@ -1,0 +1,56 @@
+{
+    "name": "Kael",
+    "surname": "Orisborn",
+    "race": "Human",
+    "age": 19,
+    "appearance": "Bright-eyed apprentice with ink-streaked hands; a wind-chime bracelet; sand-colored tunic.",
+    "character": "Idealistic, earnest, and eager to prove worth.",
+    "traits": [
+        "Diligent",
+        "Honest",
+        "Curious",
+        "Kind"
+    ],
+    "skills": [
+        "Condenser cleaning",
+        "Blueprint reading",
+        "Stepwell ritual etiquette",
+        "Basic ropework"
+    ],
+    "talents": [
+        "Precise timing",
+        "Quick mental arithmetic",
+        "Remembers stories verbatim"
+    ],
+    "flaws": [
+        "Overtrusting",
+        "Anxious about failure",
+        "Talks too much when nervous"
+    ],
+    "dreams": [
+        "Discover a condenser design that ends rationing",
+        "Hear the founders' bargain replayed at the Echo Quarries"
+    ],
+    "secrets": [
+        "Illicitly studied the Stepwell's sealed lower mural",
+        "Hid a micro-condenser prototype for Meret Hal"
+    ],
+    "relations": [
+        {
+            "npc_name": "Meret Hal",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Tamsin Rook",
+            "relation_type": "Friendship"
+        },
+        {
+            "npc_name": "Ayo Solace",
+            "relation_type": "Different goals"
+        },
+        {
+            "npc_name": "Seru Chime",
+            "relation_type": "Cooperation"
+        }
+    ]
+}

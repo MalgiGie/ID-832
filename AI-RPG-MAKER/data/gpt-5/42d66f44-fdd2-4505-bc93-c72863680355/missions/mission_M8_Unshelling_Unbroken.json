@@ -1,0 +1,71 @@
+{
+    "id": "M8",
+    "title": "Unshelling Unbroken",
+    "quest_giver": "Tullis Nacrethane, Mother of the Children of the First Shell",
+    "description": "Day of Unshelling: the city crowns a shell-mother effigy and casts a woven carapace into the lagoon to appease the sea’s temper. Drumlines echo down the Spine and brine glyphs flash as water is coaxed into hidden wells for the pageant. Rumor says someone will spill bell grenades into the crowd and blame the Brinewardens to sway votes for the Shellspire. Mother Tullis asks Kael to watch the effigy’s path, guard the orphan cadres who carry offerings, and find any caches that smell of salt-cored powder. Arno Kest and his guild parade glass pennants to prove loyalty; Ysger Thorn puts pikes at the corners with orders to hold but not strike. The sea waits like a judge with its hand over the verdict.",
+    "objectives": [
+        "Coordinate with Brinewardens on procession routes and safe perimeters.",
+        "Sweep along the effigy’s route to find and disarm any bell grenade caches.",
+        "Defuse a staged confrontation between zealots and Tidemason journeymen at a flood channel.",
+        "Protect the orphan cadre and ensure the Unshelling carapace reaches the water unscathed.",
+        "Deliver any captured agitators to neutral custody at the Thalassarium."
+    ],
+    "dialogue": {
+        "intro": [
+            {
+                "speaker": "Mother Tullis Nacrethane",
+                "line": "All this pageant is a lullaby we hum to the water so that it hums back kindly when we sleep. If someone spits iron into that song, children will learn the words for fear before they learn the words for bread. Walk beside my little ones, Kael. You have a way of turning heat into air."
+            },
+            {
+                "speaker": "Ysger Thorn",
+                "line": "I’ve told my pikes to keep their tips down and their tempers lower. If someone tries to light a fuse, I want your hands on it first. I don’t like the taste of powder in my teeth during a holy day."
+            }
+        ],
+        "during": [
+            {
+                "speaker": "Arno Kest",
+                "line": "My men march with glass because flame looks better through a clean lens. If anyone blames me for a bang today, I’ll march them through a furnace and let them see what real heat looks like. Keep your eyes sharp, archer. The ones who love spectacle choose crowds."
+            },
+            {
+                "speaker": "Kael",
+                "line": "I see it—powder wrapped in sailcloth under the bridge lip. Easy. The fuse is braided with flax and pride. Both burn too fast. I’ll drown one and untie the other."
+            }
+        ],
+        "completion": [
+            {
+                "speaker": "Mother Tullis Nacrethane",
+                "line": "The carapace met the lagoon with grace, and the children slept on the return march. That is victory enough for me. I don’t bless men often, but I can promise you a bowl and a roof whenever you have none of either. Sometimes that’s a better blessing."
+            },
+            {
+                "speaker": "Kael",
+                "line": "The city sang together for a moment. I could feel the bones listening. Let’s keep that feeling as long as we can before the markets take it back."
+            }
+        ]
+    },
+    "connections": {
+        "previous": [
+            "M7"
+        ],
+        "next": [
+            "M9"
+        ],
+        "related_to": [
+            "M6",
+            "M11"
+        ]
+    },
+    "rewards": {
+        "xp": 600,
+        "items": [
+            "Oath-Shell Pin (worn token; grants shelter and simple meals at any Shell children’s altar)",
+            "Defused Bell Grenade Components (evidence or barter)"
+        ],
+        "favors": [
+            "Children of the First Shell pledge safe harbor for Kael and named companions during curfews"
+        ],
+        "access": [
+            "Sanctum terraces during rites"
+        ],
+        "coin": "20 credit-shells"
+    }
+}

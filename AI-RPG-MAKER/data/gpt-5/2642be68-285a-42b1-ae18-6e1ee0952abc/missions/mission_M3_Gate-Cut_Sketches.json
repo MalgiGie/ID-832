@@ -1,0 +1,44 @@
+{
+    "id": "M3",
+    "title": "Gate-Cut Sketches",
+    "quest_giver": "Tomas Helwin",
+    "description": "Tomas Helwin, the Tidewright surveyor you once dragged from the thief’s gate, sends you a folded reed-paper diagram through a child runner. The diagram outlines a hidden bypass valve threaded under the Tide-Engine’s lowest floor—a thing that could drain the city basins dry if opened. Tomas is rattled; he believes someone is testing the bypass at night to shave bells from turnover and launder bribes in the turbulence. He asks you to steal a shadow ledger from the Tide-Engine House and to convince Gate-Mistress Ruli Saan to speak privately, as she saved lives by flooding the thief’s gate once and may know who punished her for it. The Engine is a cathedral of gears; you know the hum of each chain, but you will have to walk like a ghost to keep from waking them.",
+    "objectives": [
+        "Meet Tomas Helwin in a quiet canal nook to study the bypass sketch.",
+        "Infiltrate the Tide-Engine House after dusk using your Writ-Token.",
+        "Steal or copy the shadow ledger hidden in a braced tool chest near the gauge-board.",
+        "Secure a private conversation with Gate-Mistress Ruli Saan.",
+        "Deliver the ledger to Tomas and discuss next steps."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Tomas Helwin",
+            "line": "When the thief’s gate sang, I thought I was hearing my own bones. Then you were there with that hook and a curse and you hauled me into fouled air that still tasted sweet. I’ve measured the Engine’s heartbeat since, and something new is ticking inside the old heart. If this bypass opens all the way, we don’t get a second bell to warn us. We wake to dry basins and a city on its knees."
+        },
+        {
+            "speaker": "Kade Orrel",
+            "line": "I don’t scare easy, but the Engine deserves fear when it’s earned. I’ll walk your wheels and steal your ledger, and if Ruli still trusts me I’ll give her a chance to put her name in the right place in the story. But if I see anyone with ash on their mask walking your floors, I won’t be quiet about it."
+        },
+        {
+            "speaker": "Ruli Saan",
+            "line": "They told me saving those pilots was wasteful, as if a life was an unbalanced ledger that needed trimming. I flooded the thief’s gate because the river spoke faster than the bell, and I’ll do it again if it comes to that. I’ve heard metal sigh under my feet that wasn’t part of the plan, Kade. Bring me proof and I’ll blow a whistle that shatters teeth."
+        },
+        {
+            "speaker": "Mavek Dross",
+            "line": "You stalk through my Engine at night like a stray cat looking for milk, and I am supposed to thank you for your curiosity. The Consortium runs the river on time; that’s why bakers bake and judges judge. If you bring the Lanterns a story with my name in it, make sure it’s sung in the correct key, or the river might develop a taste for inconvenient heroes."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M2"
+        ],
+        "next": [
+            "M4"
+        ]
+    },
+    "rewards": [
+        "Tidewrights schematics fragment (evidence for later leverage)",
+        "Quiet access token to a maintenance catwalk beneath Gate Three (one-time use)",
+        "Improved standing with Gate-Mistress Ruli Saan"
+    ]
+}

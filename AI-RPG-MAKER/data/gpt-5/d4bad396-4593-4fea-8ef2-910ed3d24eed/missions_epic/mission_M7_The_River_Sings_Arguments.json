@@ -1,0 +1,80 @@
+{
+    "id": "M7",
+    "title": "The River Sings Arguments",
+    "quest_giver": {
+        "name": "Pellar Nine-Poles",
+        "affiliation": "Rafter's League"
+    },
+    "description": "Lanterns float like patient moons upon the canal as the Drowned Theater draws breath, its flooded tiers swallowing whispers and giving back the soft hush of expectation. Oar-handers guide the raft-stage into place and the river itself becomes a sounding board, carrying every syllable to the farthest shadowed seat, where gamblers pass notes and grannies deal in omens. House Thalen's pennons ripple against the damp stone while League singers tighten their knots and oil their throats, and somewhere beneath the planking a colder note waits, sharpened like a shard tucked in velvet. You move through the catwalks with a thief's light step and a jurist's patience, placing resonant dampeners along beams and braces, each boat-nail a hinge for your chime-plate to seize when the hour turns critical. Lady Seska Thalen's script lies on a music stand like a clean blade, and she hones it between sips of river tea, letting certain barbs catch the lamplight so the crowd will feel their prick and call it truth. Rumor curls like smoke from the orchestra pit that a siren choir will test the stitching of vows with melody, and if song can soften lashings then harmony can braid them tighter, if only the right hands pull. Your mirror-lens locket flickers with threads where promises have been knotted to props and backdrops, and your echo, that too-faithful shadow, lags by half a heartbeat as if the river waits to see which Lio will speak. Backstage smells of oil, brass, and nerves, and the ropes creak in a rhythm that reminds you of the Loom of Tides when it is running well, steady and kind; but under it all there is the thready scrape of blackglass against wood, a smuggled promise trying to break free. Tonight the city will not be swayed by docket or decree but by cadence and breath, and if the Embersleeve plan to slip their tone into the Loom, they will rehearse on this stage first, trusting the river to carry their change to every ear. You pull your cloak tight, touch the chime-plate with two fingers, and set yourself to the only trial that matters tonight: make the people hum a fair oath on their walk home, so that in the morning their mouths remember what their hearts dared to believe.",
+    "objectives": [
+        "Coordinate with Pellar Nine-Poles to develop a pro-Oath set list that speaks to bread, water, and fairness",
+        "Plant resonant dampeners rigged to your chime-plate to counter vow-loosening tones",
+        "Confront a siren chorister attempting to smuggle a blackglass sliver beneath the stage",
+        "Deliver a short speech in character to frame the Oath as a shared victory",
+        "Monitor audience sentiment and capture two public witnesses for the upcoming hearing"
+    ],
+    "dialogue": [
+        {
+            "speaker": "Pellar Nine-Poles",
+            "lines": "People love a tune more than a clause, Lio, because a tune sits in the ribs and remembers them when bread runs thin. Give them a chorus they can shout on the way home and they will forgive the ache long enough to think about the hands that can ease it, and then we can put those hands on the right levers. But do not lie to them with a melody that shines brighter than it warms, because the river has a memory and it will spit the echo back into our faces. If we promise water and give them sand, they will drown us in it and be right to do so, and I will tie the first stone to my own ankles for the shame of it. So we sing bread, we sing water, we sing fairness, and we stitch the Oath into a refrain that the poorest throat can carry without paying a toll."
+        },
+        {
+            "speaker": "Lady Seska Thalen",
+            "lines": "The stage is a ledger, and applause is coin, and I have never lost a balance when I could see the audience's hunger written on their cheeks. I will sell your Oath as hope but I will not gild it into something brittle, because brittle breaks when cold wind touches it and we have enough wind. If I hear a tone that tries to untie the knots in our script, I will cut it like a bad clause from a contract and smile while I do it, because beauty that sabotages mercy is not beauty at all. My family has lost enough of both to sabotage dressed as art, and I would not pay that price twice when I can buy clarity instead. Tell me where your dampeners lie and where the chorus must strike, and I will place my players so that even the river bows its head for a breath and listens."
+        },
+        {
+            "speaker": "Siren Chorister",
+            "lines": "You would bind a city tighter and call it mercy, and I have tasted enough chains sung sweetly to know how honey can hide iron. My sisters sing to loosen what strangles, to make tight hands remember how to open, and that is a different kindness than yours, but it is still kindness. If a vow cannot stand to hear a true voice without fraying like cheap rope, perhaps it should not be bound, and perhaps the river is right to laugh at it. Step aside, little oath-thief, because I have carried a sliver that remembers midnight and water, and I will set it to humming until even the locks blink sleepily. Or stay and I will teach you what the river says to those who make promises in its name without asking permission, because the current has a tongue and it likes to taste pride."
+        },
+        {
+            "speaker": "Lio Fenwater",
+            "lines": "Every binding is a handclasp, and it stops being good when fingers turn to claws, but there are hands tonight that want to close in welcome, not to crush. This Oath loosens claws and teaches palms again, and it builds a table where different hungers can sit without snapping at each other's plates. Sing with us and you will hear that we have written kindness into the chorus, not as sugar but as salt, the kind that stings truth into a wound and keeps it from rotting. Sing against us and I will lay a counter-tone under your feet that trips your song on its hem, not because I hate your freedom but because I love these people's right to keep what little is left to them. The river will judge both our breaths, and if mine is false it will drown me, but if yours is cruel in mercy's name it will leave you singing to empty water."
+        },
+        {
+            "speaker": "Audience Elder",
+            "lines": "I have heard a hundred speeches and forgotten a hundred and one, because the mouth is a sieve when the belly is hollow and the night is too long. But I will remember this, because it sits in a place the teeth cannot grind away: they promised to share the keys and slow the wheels on holy days so the city can hear itself again. If that is true, then I will stand as witness when the brass plates are brought, and I will call out liars from the front row until my voice goes to bone and dust. I have grandchildren who do not remember the sound of a lock raised without shouting, and I would like to die knowing they might. Go on then, sing it again, so I can carry it home to the ones who could not leave their stoves for lack of coin to tip the ferry."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Conduct the chorus like a covenant",
+            "text": "You coordinate with Pellar and Lady Seska to lace the pro-Oath set list with a quiet bell-pattern you learned under the Starspan, a pattern that teaches breath to slow and pride to listen. You time the dampeners to your chime-plate so that when the siren choir swells, the stage breathes back a harmony that favors sharing rather than cutting. You step into the lights and deliver your speech as a character who has carried buckets in drought and ropes in flood, asking the crowd to raise their hands not to grasp but to pass. The river carries your words like it recognizes its own, and the blackglass under the planks hums but cannot find purchase in the weave you have set. When a hush falls, you invite witnesses to rise, promising them a clear path to the Scriptorium and two honest escorts who will not sell their names to the Night Market.",
+            "outcome": "The audience tilts toward the Oath, not as a fever but as a sober nod they can repeat tomorrow, and two prominent citizens stand to be counted, a miller and a canal midwife whose hands smell of flour and sage. The siren chorister lowers her sliver with a look that is half respect and half warning, and her sisters recast their refrain to a softer shape that does not pry at lashings. House Thalen's banners gleam with approval, and murmurs ripple that the theater has sided with bread first, art second, and nobody seems to mind that order tonight. Word runs fast to the Archivists that witnesses have pledged without coin changing hands, which grants the Oath's next hearing a deeper bowl of attention. The Embersleeve take note of the counter-tone you played and mark your ledger with a thin scratch, promising a night soon when they will ask how you came by that bell-pattern."
+        },
+        {
+            "id": "C2",
+            "title": "Parley with the siren and weave a mercy verse",
+            "text": "You let the siren chorister see your mirror-lens and the way it catches oath-threads, and you speak to her not as a warden of words but as someone who has choked on bad promises and wants to breathe. You propose a new verse between her sisters' swells, a mercy that loosens only the knots that strangle and leaves the handclasp intact, and you promise to lift your chime-plate only if the sliver tries to sing beyond that boundary. She agrees with a tilt of the head like a gull adjusting for wind, and the two of you mark the planks with chalk where the stage will remember to tremble like a heart, not like a fault line. Your speech turns into a confession cast as character, naming the hunger you have helped and the hunger you have exploited, and you ask the crowd if they will help you choose better. The audience breathes as one, an old woman sobs openly, and a Warden in plainclothes stops fingering the baton at his belt, hearing himself forgiven in a line you threw into the dark.",
+            "outcome": "The vow does not loosen beyond its intended give, and the Oath's scaffolding holds firm while the mercy verse allows certain stale cruelties to slough away from older contracts. Two witnesses rise, a fishmonger with salt in his beard and an Archivist novice with ink on her fingers, both promising to stand when the plates are read. House Thalen looks displeased at your improvisation, counting costs in the wings, but the crowd's warmth shields you from rebuke in the moment. The Order of the Basalt Arch takes quiet interest in the restraint you showed with your chime-plate and sends a laywatcher to speak with you after the performance. The siren chorister leaves you a token shard of dull glass, a promise that her sisters will not pry at this Oath while it is still wet, so long as it keeps the city's poorest hands from binding themselves to famine."
+        },
+        {
+            "id": "C3",
+            "title": "Expose the blackglass and condemn the sabotage mid-performance",
+            "text": "You wait until the second refrain when the river's hush is deepest, then you lift the plank where the hum lives and hold the blackglass sliver up to the lanterns for all to see. You call the stone by its true habit, singing at midnight, and you describe the kind of damage it looks to do, and you tell the crowd that anyone who would loose it here would steal their say in the Oath and sell it for shadow favor. Your voice does not tremble, because your echo catches it and steadies it, and you let your anger be the crowd's, clean and hot. Lady Seska seizes the moment and turns the script's next lines into a public vow to keep the stage honest, while Pellar's chorus hammers a rhythm like oars beating back a flood. The siren choir hisses like steam in a cracked pipe, and you feel eyes from the Night Market in the dark, writing your name on a plate you wish did not exist.",
+            "outcome": "The audience roars, less like a mob and more like a river finally finding a channel, and applause becomes a vote that drowns out the blackglass tone. Two elders stand as witnesses, one from the Rafter's League whose hands are thick with rope scars and one from the Grain Compact passing through in plain clothes, both eager to pin their names to a fairer flow. Wardens slip down the aisles to collect the sliver under your gaze, which buys you a thin band of trust that may hold if not tested too hard. The Embersleeve mark you for embarrassment at a later date, but the culvert rumor you carry about a hidden wheel buys you a head start if they come sniffing through the backstage tunnels. House Thalen tightens its smile and calls you brave to your face, while counting how to use the moment to extract better control clauses at the hearing."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Witness pledges",
+            "description": "Two public witnesses' pledges recorded by an Archivist scribe, ready to be named at the next hearing without fee or delay."
+        },
+        {
+            "type": "Public sentiment",
+            "description": "Performance goodwill that bends city sentiment toward the Oath of Flow, giving your arguments a warmer welcome in streets and halls."
+        },
+        {
+            "type": "Access",
+            "description": "Backstage tunnel keys and knowledge of a culvert link beneath the theater, useful for discreet arrivals and faster exits."
+        }
+    ]
+}

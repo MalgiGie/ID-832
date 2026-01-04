@@ -1,0 +1,107 @@
+{
+    "id": "M7",
+    "title": "Moonbridge Toll",
+    "quest_giver": {
+        "name": "Mereth Tydel",
+        "affiliation": "Temple of the Nine Tides"
+    },
+    "description": "Fog ghosts along the gorge drift like thinking breath, and the broken stubs of the Moonbridge shine with the color of drowned pearls as thirteenth-moon light lengthens into an arc. High Acolyte Mereth Tydel leads a candle-lit procession in quiet measure, their tide-bells damped in cloth and their offerings sealed in wax against the jealous wind. Within the reliquary rests a knot of copper wire that once held a name, the legal signature of the scribe who wrote the city’s water charters, now stolen by the bridge’s moon-toll and scattered among murmurs along the cliffs. To win the name back, someone must cross where intent bends into need, whisper a secret the span will accept, and keep their identity from being unstitched and drifted for a year and a day. The Moonbridge chooses its price and honors no receipt; it already took Aren Siltwarden’s true name once, and though he lives spoken-back by rite and witness, the river still knows what to call him in dreams. On the far landing, in the field of echoed footfalls and forgotten lantern-light, waits a figure that matches Sava Deren’s missing child in posture and tilt of head, a person grown sideways into memory, half rumor and half rain, the kind of almost-return that gives hope its sharpest edge. Voices nest in the fog like birds that have learned to mimic the living, and the tithe-collecting shades wear the patience of accountants. The procession must step as if on prayer-shafts, neither rushing nor lagging, while the bridge reminds everyone that roads with their own will are roads that can carry you where you did not intend. If the span is paid deftly and justly, a page of the city can be restored to its book; if clumsily, some page of a person will vanish instead, and that is a loss the river will never return for free.",
+    "objectives": [
+        "Escort the Temple procession safely onto the spectral span without drawing the ire of tithe-collecting shades.",
+        "Whisper an acceptable secret to pay the moon-toll and cross to the far side without losing an identity again.",
+        "Recover the scribe’s name and any wayward names held in the wind without triggering a year-and-a-day erasure.",
+        "Return across the span and restore the name to the reliquary before the bridge fades."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Mereth Tydel",
+            "lines": "There are prices we should be willing to pay, and prices that purchase only a silence shaped like consent, and I will not mistake the latter for peace. The Moonbridge instructs by paradox, marrying cruelty to beauty, and I confess that even a patient acolyte can grow weary of being taught by knives. The name we seek is not a trinket but a keystone in a law that steadied the city when our elders feared the river more than they feared each other, and without it a just argument goes unheard. If we pay well, we earn clarity and the kind of memory that binds communities instead of drowning them; if we pay poorly, we invite a quiet in the ledgers where speech ought to live. Keep your steps measured, your breaths even, and your hearts unbribed, because bridges like this can smell panic and will price it higher than gold."
+        },
+        {
+            "speaker": "Sava Deren",
+            "lines": "If you see a child near the far landing who looks like the river’s idea of my blood, do not carry to me a hope you forged out of pity and fog, because I will taste the lie and choke on it for years. I have paid priests in coin and patience, and my patience has grown barnacles that cut me when I bend, and still the river sends back rumors like driftwood that looks useful until it burns to ash. I am not asking you to steal me a miracle from under a toll that eats secrets; I am asking you to bring me a truth I can live with when the span dissolves and ordinary dawn returns. If the child is a memory that thinks it remembers me, say so gently and make it kind without making it false. When you come back, I want to be able to look out over the wharves and still do my duty, and that requires truth more than it requires mercy."
+        },
+        {
+            "speaker": "Aren Siltwarden",
+            "lines": "The bridge already has one of my names and can chew on that bone while I decide what else I can afford to whisper without letting it unmake the threads that hold me in the city. I know the song of this gorge and the way the wind pretends to be your friend until you try to lean on it, so I will cross in rhythm and keep the procession’s feet from falling out of time. I will listen before I speak and measure the price of any secret by whether it steals from me alone or makes a thief of me on behalf of the city, because I have learned which losses I can carry and which losses carry me. If the span shows me a child made of rain and rumor, I will bring back the truth wrapped in care and not in the paper of promises I cannot keep. We are not here to win a story; we are here to return a name to a page where it belongs and come home with the living still whole."
+        },
+        {
+            "speaker": "Moon-Toll Shade",
+            "lines": "A procession comes with bells swaddled and tongues tethered, as if the wind is a wolf that can be fooled by cloth, and yet I hear everything that is not said as clearly as what is spoken. The arc completes for those who accept that roads have teeth, and the toll is not cruelty but balance, the kind of arithmetic that keeps names from breeding without consequence. Whisper to me something the moon would blush to hear, a truth the water cannot wash thin, and I will lay a path beneath your feet that goes where you need rather than where you wish. Pay poorly, and I will not be angered because I do not anger, but the price will shift until it rests on a life, and then your careful steps will count for little. Remember that what you offer is not spent but invested, and the return comes as shadows at noon or as a voice forgotten at your own gate."
+        },
+        {
+            "speaker": "Echo of Lysa Deren",
+            "lines": "I stand where the bridge ends in breath and not in stone, and I have learned the patience of puddles that wait for feet they knew once to return. I remember a silvered pole and a laugh that could push a boat faster than any oar, and I remember a lullaby that counted knots on a dockline as if they were stars, but I do not know if those memories belong to me or to the wind that learned them from someone kind. When the moon lets me, I press my palm to the air and feel splinters of days that never happened slide under my skin, and I am not hurt by it because I was made to carry such bright splinters. If you come close, I can loan you a memory of my name the way a river loans a reflection, and you can carry it back if you keep it warm and do not call it yours. Tell my mother that rain can love, even when it cannot stay, and that I keep watch at a landing that is kinder than rumor says."
+        },
+        {
+            "speaker": "The Wind-Carried Name",
+            "lines": "I unspool as a ribbon of breath that once tied documents to a board in a hall where law was written with hands that smelled of ink and river-salt, and I remember the flourish at the end of myself because pride lived there. Being taken was not theft so much as an accounting correction by an old road that collects for services rendered, and even in absence I have worked to keep the city’s water just by whispering where stones should be laid. If you anchor me in copper once more, I will hold the charters steady like a keel in crosscurrent, and those who seek to tilt the river for private gain will find their leverage wanting. I want to return and be read aloud again, but I require a price to be paid that the bridge respects, because honor without cost is a story children tell to avoid sleep. Carry me carefully, keeper of reeds, and I will repay you by making sure the Conclave cannot ignore the law merely because it is inconvenient."
+        }
+    ],
+    "choices": [
+        {
+            "id": "C1",
+            "title": "Whisper the contraband secret you have hidden in your glaive.",
+            "text": "You steady your breath until the fog is a slow tide and lean your cheek toward the arc as if confiding to a friend behind a screen. You speak of the sea-night prism sliver nested in the hush of your glaive’s haft, a color that nullifies simple wards and should not exist in honest markets. You confess why you took it, naming a cousin with debt-weights around her ankles and the day you chose theft over watching her drown in paper, and the admission tastes like bitter ink between your teeth. You say you have kept it quiet not out of pride but out of fear that a wrong made for love would become a lever for someone else’s cruelty, and your voice carries the weight of that contradiction without apology. You offer the knowledge, not the shard, to the toll, promising that if ever called upon in the Conclave you will speak this same outlaw truth in daylight, and around you the shade-listeners stir like clerks who have just learned a ledger is false.",
+            "outcome": "The Moon-Toll Shade accepts the confession with neither glee nor scorn, and the span’s light tightens into a path that holds your weight as surely as a keel holds a river. In the hush that follows, a ribbon of breath winds around your wrist, the wind-carried name trusting your pulse to keep its rhythm, and the echo-child steps close enough to press a rain-cool palm to your forearm in thanks that is not hers but somehow still feels like gratitude. The toll marks you with a faint chill in the haft of your glaive where the shard rests, and you know some wards will notice you first before they notice your intent for a while to come. You cross back with the procession unscathed, though a Night Ledger whisper in the crowd files away the confession you vowed to make public, turning it from leverage into a promise that can no longer be used to choke you. Sava listens when you tell her the child is an echo that loves true and must remain, and though her jaw knots like a line under strain, she nods and breathes like a pilot taking a hard current, accepting a truth she can live with rather than a hope that would break her later."
+        },
+        {
+            "id": "C2",
+            "title": "Bind yourself to a public vow instead of surrendering a private secret.",
+            "text": "You plant the ferryman’s pole at the arc’s first ghost-plank and speak not of hidden contraband or tender memories but of an oath you will carry in daylight. You vow to testify before the Conclave in defense of Reedbound shrines and pilot-rights during the next tide session, to set your voice against the privatizing of river walls, and to accept whatever censure or favor follows without hiding behind any guild’s skirts. You promise to keep violence from drowning trade even when hired by those who profit from tempests, and to refuse coin that requires you to shove someone’s hands off the public ladder of the river. You tell the bridge that vows are secrets with the spine unbent, and that you are willing to be read. Your words ring along the gorge like a tide-bell struck in honest weather, and the procession behind you finds their steps falling naturally into your rhythm.",
+            "outcome": "The span responds to the shape of your vow as if oaths are a flavor it respects, and the light grows firmer beneath your feet, bright as a convinced conscience. The wind-carried name twines around your vow like ivy given a trellis, secure in the knowledge it will be read aloud again and anchored by law rather than by tricks, and it settles into the reliquary with a sigh like pages aligning. The shade counts your pledge as adequate coin, but it also sets a timer in your bones, a sense that at dawn on the appointed day your words will demand to be spoken whether you are ready or not. You return without any identity unstitched, and Mereth Tydel’s eyes soften with pride that has nothing to do with ownership and everything to do with relief. When you tell Sava about the echo-child with a voice like rain on deckboards, she listens with a stillness earned over years and chooses truth over miracle, then grips your arm and says that keeping your promises in daylight is the only kind of witchcraft she will ever endorse."
+        },
+        {
+            "id": "C3",
+            "title": "Trade a cherished memory that hurts no one else.",
+            "text": "You cradle a piece of your own past as if it were a star-fruit too ripe to keep, feeling the tender ache of it warm your palm. You bring to your throat the afternoon your father lifted your first eel by the gills and laughed that big, river-wide laugh, and you remember how the sun slid along the knife and turned fear into skill. You do not give away his face or his name or the lesson he taught, only the taste of triumph and the exact sound of that laugh, the small private flavor that belongs to you, and you let it go like a breath in winter air. You tell the shade that you pay with sweetness you can live without, not because you are careless with love but because you understand that sometimes the softest coin is dearest. Your voice shakes once, and then steadies, and the gorge holds the tremor like a friend who refuses to gossip about it later.",
+            "outcome": "The Moonbridge gathers the offered delight without malice, and the path resolves under your soles like a memory becoming a road, solid and present. The wind-carried name takes the place where your laugh lived inside you with a gentleness that surprises you, as if the bridge refuses to leave an empty room echoing, and in that keeping it promises to serve as a brace for your convictions when sorrow pushes from the other side. You cross with the procession and set the name in copper, and Mereth lays a blessing that recognizes both the gift and the lack without pretending the latter does not matter. For a few nights the river sounds less like laughter to your ears and more like sheets sliding on a bed you have not yet warmed, but your steps do not falter and your hands remain steady in the work. To Sava you bring the news of an echo who cannot cross without dissolving into hope, and you speak it gently enough that the truth sits with her like an old shipmate rather than like a wound that never closes."
+        },
+        {
+            "id": "C4",
+            "title": "Parley with the tithe-collecting shades using craft, clarity, and a bargaining table made of moonlight.",
+            "text": "You sip a thread of clarity sap until your pulse smooths and your mind becomes a room with clean corners, then you lift the Moonshard charm so the spectral arc steadies against the gorge’s memory-eddies. You address the shades as clerks of an ancient road and lay out a proposition as if you stand in the Ledgerhall, offering them a tri-fold exchange that preserves their dignity and meets the Temple’s need. You promise to return not just the scribe’s name but three loose whispers that have no living claimants, to be sealed with ritual and not spent by gossip-mongers, and to bind that promise with a reed-oath recognized by the Nine Tides. You argue that releasing orphans of memory reduces backlog and enhances the bridge’s reputation for just accounting, a benefit any honorable institution should welcome. Your voice stays courteous even when the fog thickens to test your calm, and when a cold draft tries to snuff the procession’s lamps you make your pole into an extra spine they can borrow.",
+            "outcome": "The shades confer in a sibilant rustle like a thousand pages turned by moonlight hands, then accept with the minimal fanfare of professionals who prefer results over theatrics. The path ahead brightens to a ledger-line you can walk, and threads of wind curl into your waiting palm like shy eels, the promised orphan-whispers consenting to a future where they will be witnessed without being exploited. The wind-carried name joins them, a weightless center that guides your return like a pilot star none can counterfeit, and the procession moves as one, counted and calm. You feel the toll’s attention rest on your measured arrogance, and it leaves you with a tiny debt payable only in future steadfastness, a reminder that bargains with roads are never entirely finished even when both parties smile. Sava listens to the tale of the rain-child who can lend memories but not a body, and though grief touches her like cold spray, she finds strength in knowing no one tried to haggle her daughter out of wind with tricks that would have blown away by morning."
+        },
+        {
+            "id": "C5",
+            "title": "Weave a communal secret and pay together so no one stands alone at the toll.",
+            "text": "You ask Mereth for a strand of Temple doubt never voiced from the pulpit, a small truth about fear of becoming an engineer of souls rather than their shepherd, and the High Acolyte gives it without flinching. You ask a ferryman in the procession for the confession that he cheats current by a hand’s width on holy days to keep schedules, knowing the river forgives but the Temple might not, and he offers it with a grim smile that admits necessity. You add your own thread, that you sometimes miss the clean certainty of guild orders even though you left to keep your hands from being hired into cruelty, and you bind the three secrets with a reed-twist the bridge can taste. You declare that the city is stronger when its truths are paid in chorus and that no single voice should be pressed into a shape the others will not share, and the words feel right in your mouth like a song you learned as a child. The fog stirs as if listening, and the shades tilt their heads with something like professional curiosity, because this is not the usual coin and they dislike novel accounting even when it balances.",
+            "outcome": "The Moonbridge hesitates the way a judge does before pronouncing a sentence that must teach as well as correct, then acknowledges the braid as a single, sufficient tender and lays down a path that carries all your feet without staggering any one of you. The procession breathes out in a shared rhythm, and the wind-carried name comes to your hand as if recognizing the kind of city it will return to, one where law is not merely words but also the courage to say them together. You feel a mild ache at your temples that will last a week, a communal hangover that reminds every participant that collective truth has weight and that weight must be trained for, but no identity is plucked, spun, or made thin. Back across the span, Mereth seals the reliquary while blessing each contributor by name and by deed, and the Temple singers hum a chord that tastes like clean water. When you tell Sava about the echo-child and about paying together, she nods with the practical approval of someone who knows boats move best when many hands push the same way, and she thanks you for not letting one person drown for a message the city needed to hear."
+        }
+    ],
+    "connections": {
+        "previous": [
+            "M6"
+        ],
+        "next": [
+            "M8"
+        ]
+    },
+    "rewards": [
+        {
+            "type": "Item",
+            "description": "Reliquary of the Water-Scribe: the restored legal name and its vessel, conferring leverage in future hearings concerning the city’s water charters."
+        },
+        {
+            "type": "Item",
+            "description": "Moonmoss Vial: a cool green tincture that steadies memory during rites and protects against minor eddies in the Concordant Archives."
+        },
+        {
+            "type": "Reputation",
+            "description": "Temple of the Nine Tides reputation increased by 3, as word spreads that you returned a sacred name without feeding the bridge a life."
+        },
+        {
+            "type": "Reputation",
+            "description": "Guild of Silver Ferrymen reputation increased by 1, for bringing Sava Deren truth rather than a cruel hope."
+        },
+        {
+            "type": "Access",
+            "description": "Permission to attend Conclave testimony on water law, with standing to speak when the restored name is read into the record."
+        },
+        {
+            "type": "Currency",
+            "description": "0 coin; the toll took no money, and the city pays you in gratitude, standing, and a lawful name set right."
+        }
+    ]
+}

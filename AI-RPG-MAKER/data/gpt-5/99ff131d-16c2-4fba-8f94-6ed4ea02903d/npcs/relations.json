@@ -1,0 +1,382 @@
+[
+    {
+        "from": "Meret Hal",
+        "to": "Ayo Solace",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Meret Hal",
+        "to": "Avar Jen",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Meret Hal",
+        "to": "Thren Basso",
+        "type": "Alliance"
+    },
+    {
+        "from": "Meret Hal",
+        "to": "Kael Orisborn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Meret Hal",
+        "to": "Seru Chime",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Meret Hal",
+        "to": "Lune Arikara",
+        "type": "neutral"
+    },
+    {
+        "from": "Ayo Solace",
+        "to": "Lune Arikara",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ayo Solace",
+        "to": "Nyra Kest",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ayo Solace",
+        "to": "Meret Hal",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ayo Solace",
+        "to": "Avar Jen",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Ayo Solace",
+        "to": "Thren Basso",
+        "type": "Different goals"
+    },
+    {
+        "from": "Ayo Solace",
+        "to": "Maela Vint",
+        "type": "Alliance"
+    },
+    {
+        "from": "Ayo Solace",
+        "to": "Kael Orisborn",
+        "type": "Different goals"
+    },
+    {
+        "from": "Avar Jen",
+        "to": "Meret Hal",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Avar Jen",
+        "to": "Ayo Solace",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Avar Jen",
+        "to": "Varo Pell",
+        "type": "Conflict"
+    },
+    {
+        "from": "Avar Jen",
+        "to": "Rhyss Quell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Avar Jen",
+        "to": "Dorel Glassant",
+        "type": "Alliance"
+    },
+    {
+        "from": "Avar Jen",
+        "to": "Thren Basso",
+        "type": "Different goals"
+    },
+    {
+        "from": "Avar Jen",
+        "to": "Lune Arikara",
+        "type": "Conflict"
+    },
+    {
+        "from": "Thren Basso",
+        "to": "Meret Hal",
+        "type": "Alliance"
+    },
+    {
+        "from": "Thren Basso",
+        "to": "Varo Pell",
+        "type": "Alliance"
+    },
+    {
+        "from": "Thren Basso",
+        "to": "Tamsin Rook",
+        "type": "Conflict"
+    },
+    {
+        "from": "Thren Basso",
+        "to": "Nyra Kest",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Thren Basso",
+        "to": "Ayo Solace",
+        "type": "Different goals"
+    },
+    {
+        "from": "Thren Basso",
+        "to": "Osk Talin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Thren Basso",
+        "to": "Seru Chime",
+        "type": "neutral"
+    },
+    {
+        "from": "Varo Pell",
+        "to": "Avar Jen",
+        "type": "Conflict"
+    },
+    {
+        "from": "Varo Pell",
+        "to": "Thren Basso",
+        "type": "Alliance"
+    },
+    {
+        "from": "Varo Pell",
+        "to": "Dorel Glassant",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Varo Pell",
+        "to": "Osk Talin",
+        "type": "Friendship"
+    },
+    {
+        "from": "Varo Pell",
+        "to": "Maela Vint",
+        "type": "Conflict"
+    },
+    {
+        "from": "Varo Pell",
+        "to": "Rhyss Quell",
+        "type": "Conflict"
+    },
+    {
+        "from": "Nyra Kest",
+        "to": "Ayo Solace",
+        "type": "Alliance"
+    },
+    {
+        "from": "Nyra Kest",
+        "to": "Thren Basso",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Nyra Kest",
+        "to": "Lune Arikara",
+        "type": "Friendship"
+    },
+    {
+        "from": "Nyra Kest",
+        "to": "Seru Chime",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Nyra Kest",
+        "to": "Osk Talin",
+        "type": "neutral"
+    },
+    {
+        "from": "Dorel Glassant",
+        "to": "Avar Jen",
+        "type": "Alliance"
+    },
+    {
+        "from": "Dorel Glassant",
+        "to": "Varo Pell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Dorel Glassant",
+        "to": "Maela Vint",
+        "type": "Friendship"
+    },
+    {
+        "from": "Dorel Glassant",
+        "to": "Meret Hal",
+        "type": "Different goals"
+    },
+    {
+        "from": "Lune Arikara",
+        "to": "Ayo Solace",
+        "type": "Alliance"
+    },
+    {
+        "from": "Lune Arikara",
+        "to": "Nyra Kest",
+        "type": "Friendship"
+    },
+    {
+        "from": "Lune Arikara",
+        "to": "Seru Chime",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Lune Arikara",
+        "to": "Avar Jen",
+        "type": "Conflict"
+    },
+    {
+        "from": "Lune Arikara",
+        "to": "Meret Hal",
+        "type": "neutral"
+    },
+    {
+        "from": "Lune Arikara",
+        "to": "Maela Vint",
+        "type": "Friendship"
+    },
+    {
+        "from": "Tamsin Rook",
+        "to": "Thren Basso",
+        "type": "Conflict"
+    },
+    {
+        "from": "Tamsin Rook",
+        "to": "Rhyss Quell",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Tamsin Rook",
+        "to": "Osk Talin",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Tamsin Rook",
+        "to": "Kael Orisborn",
+        "type": "Friendship"
+    },
+    {
+        "from": "Kael Orisborn",
+        "to": "Meret Hal",
+        "type": "Friendship"
+    },
+    {
+        "from": "Kael Orisborn",
+        "to": "Tamsin Rook",
+        "type": "Friendship"
+    },
+    {
+        "from": "Kael Orisborn",
+        "to": "Ayo Solace",
+        "type": "Different goals"
+    },
+    {
+        "from": "Kael Orisborn",
+        "to": "Seru Chime",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Seru Chime",
+        "to": "Meret Hal",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Seru Chime",
+        "to": "Lune Arikara",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Seru Chime",
+        "to": "Rhyss Quell",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Seru Chime",
+        "to": "Thren Basso",
+        "type": "neutral"
+    },
+    {
+        "from": "Seru Chime",
+        "to": "Nyra Kest",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Seru Chime",
+        "to": "Kael Orisborn",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Seru Chime",
+        "to": "Osk Talin",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Osk Talin",
+        "to": "Tamsin Rook",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Osk Talin",
+        "to": "Thren Basso",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Osk Talin",
+        "to": "Varo Pell",
+        "type": "Friendship"
+    },
+    {
+        "from": "Osk Talin",
+        "to": "Nyra Kest",
+        "type": "neutral"
+    },
+    {
+        "from": "Osk Talin",
+        "to": "Seru Chime",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Maela Vint",
+        "to": "Ayo Solace",
+        "type": "Alliance"
+    },
+    {
+        "from": "Maela Vint",
+        "to": "Dorel Glassant",
+        "type": "Friendship"
+    },
+    {
+        "from": "Maela Vint",
+        "to": "Varo Pell",
+        "type": "Conflict"
+    },
+    {
+        "from": "Maela Vint",
+        "to": "Lune Arikara",
+        "type": "Friendship"
+    },
+    {
+        "from": "Rhyss Quell",
+        "to": "Avar Jen",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rhyss Quell",
+        "to": "Seru Chime",
+        "type": "Rivalry"
+    },
+    {
+        "from": "Rhyss Quell",
+        "to": "Tamsin Rook",
+        "type": "Cooperation"
+    },
+    {
+        "from": "Rhyss Quell",
+        "to": "Varo Pell",
+        "type": "Conflict"
+    }
+]

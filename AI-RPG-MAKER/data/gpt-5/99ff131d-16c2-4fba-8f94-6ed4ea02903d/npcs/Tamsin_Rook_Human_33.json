@@ -1,0 +1,56 @@
+{
+    "name": "Tamsin",
+    "surname": "Rook",
+    "race": "Human",
+    "age": 33,
+    "appearance": "Lean with quick hands; a half-smile; cloak lined with hidden pockets; rust-copper hair.",
+    "character": "Opportunistic but bound by a private code.",
+    "traits": [
+        "Clever",
+        "Cautious",
+        "Charming",
+        "Adaptive"
+    ],
+    "skills": [
+        "Smuggling routes",
+        "Lock bypass",
+        "Market gossip",
+        "Disguise"
+    ],
+    "talents": [
+        "Reads lantern codes",
+        "Silent footing on chain-ladders",
+        "Photographic memory for faces"
+    ],
+    "flaws": [
+        "Self-serving",
+        "Avoids commitment",
+        "Petty thief when bored"
+    ],
+    "dreams": [
+        "Buy a legitimate stall in the Under-Arcum",
+        "Fund a school for lift-orphans"
+    ],
+    "secrets": [
+        "Runs a leak from the Cascadrome's buried channel for private draws",
+        "Keeps ledger copies as blackmail"
+    ],
+    "relations": [
+        {
+            "npc_name": "Thren Basso",
+            "relation_type": "Conflict"
+        },
+        {
+            "npc_name": "Rhyss Quell",
+            "relation_type": "Cooperation"
+        },
+        {
+            "npc_name": "Osk Talin",
+            "relation_type": "Rivalry"
+        },
+        {
+            "npc_name": "Kael Orisborn",
+            "relation_type": "Friendship"
+        }
+    ]
+}

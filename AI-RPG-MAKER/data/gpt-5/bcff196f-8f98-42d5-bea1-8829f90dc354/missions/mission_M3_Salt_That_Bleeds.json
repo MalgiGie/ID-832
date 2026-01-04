@@ -1,0 +1,58 @@
+{
+    "id": "M3",
+    "title": "Salt That Bleeds",
+    "quest_giver": "Matron Selde Karst",
+    "description": "The Salt Crown Exchange hums with chalk and breath as traders draw contracts in the sand-pit while wind-bells sing a ledger’s worth of warning. Counterfeit bricks have slipped past inspection, and a lost stamp threatens to unspool confidence. Matron Selde calls Kezra to audit the vault tiers and the inspection ledgers, promising neutrality and offering coin flavoured with salt necessity. Floor Marshal Hesk sweats in the cool vault and swears by old brine that his people never miss a flaw. The bricks themselves taste right, but each leaves a chalky ring like dried tears. Leaning into the memory of the rain-chain song, Kezra traces a pattern in the wind-bells that matches a cipher used by the Night Cartographers. Somewhere, someone has shaved truth thin and pressed it into a stamp.",
+    "objectives": [
+        "Inspect three lots of salt bricks and compare grain, ring, and scratch to known standards.",
+        "Interview Floor Marshal Hesk and two inspectors; verify stamp custody and nightly seals.",
+        "Track rumors to the Ember Gate slag cellars to locate a forgotten coin-mold and compare die marks to the counterfeit stamp.",
+        "Report to the Exchange on the forgery’s method without igniting a panic or a tariff war."
+    ],
+    "dialogue": [
+        {
+            "speaker": "Matron Selde Karst",
+            "lines": "You have friends in places where salt is rubbed into wounds and into bread alike. I’ve weighed you as carefully as any brick. Find me the flaw before my rivals buy the whole city half-price. I won’t ask you to take my side, only to bind the truth to a weight, and let it drop where it must."
+        },
+        {
+            "speaker": "Floor Marshal Hesk",
+            "lines": "I’ll put my hand in the brine and leave it there before I let a false brick pass. Yet pass they did, and now I hear whispers that my stamp’s gone queer. I have kept the winds off these vaults for a dozen years with bell and watch, and I’ll not be made a fool by shadows with rulers."
+        },
+        {
+            "speaker": "Yael Emberkeel",
+            "lines": "Slag glows hotter with shame than with heat. If there’s a mold down there with a prince’s face that never graced a coin, then there’s room enough for a stamp that should never kiss salt. Walk careful. Some old dies bite back; they hold memory like a sore tooth."
+        },
+        {
+            "speaker": "Sera Verrin",
+            "lines": "Confidence is worth more than cargo, Kezra. If you can restore the first, the second will follow. You are the sort of person who knows where to put a fingertip on a scale to balance it, not to cheat it. Help us, and I will remember your name when measures are set."
+        },
+        {
+            "speaker": "Kezra Thorneglass",
+            "lines": "I’ll trace the mark, not the coin. If the stamp bears a song, the bells will tell me whose throat hummed it. And if a shadow took a die into their hand, I’ll light it until they set it down."
+        }
+    ],
+    "connections": {
+        "previous": "M2",
+        "next": "M4",
+        "locations": [
+            "Salt Crown Exchange",
+            "Ember Gate slag cellars"
+        ],
+        "npcs_involved": [
+            "Matron Selde Karst",
+            "Floor Marshal Hesk",
+            "Yael Emberkeel",
+            "Sera Verrin"
+        ],
+        "themes": [
+            "counterfeit",
+            "confidence",
+            "leverage"
+        ]
+    },
+    "rewards": [
+        "Exchange credit chit redeemable for travel provisions and small fees",
+        "Permission to observe future purity assays (access to commodity halls)",
+        "A bell-charm tuned to the wind-bell cipher (rings in patterns when code is near)"
+    ]
+}
